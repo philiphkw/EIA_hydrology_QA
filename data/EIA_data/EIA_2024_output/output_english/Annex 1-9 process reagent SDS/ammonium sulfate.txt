@@ -1,0 +1,767 @@
+==================================================================================
+PAGE 1
+==================================================================================
+AMMONIUM-SULPHATE
+Manuchar Chile SA Risk Alert Code: 3
+Chemwatch: 10052
+Version No: 7.1.1.1 Print Date: 01-17-2018
+Initial Date: Not Available
+L.GHS.CHL.ES.RISK
+S ECTION 1 IDENTIFICATION OF THE SUBSTANCE OR MIXTURE AND OF THE COMPANY OR UNDERTAKING
+I product identifier
+Name of the
+AMMONIUM-SULPHATE
+Product
+ammonium-sulfate, AMMONIUM SALT OF SULFURIC ACID (1:2), AMMONIUM SULFATE,
+Synonyms
+AMMONIUM SULFOMATE
+Chemical formula H8N2O4S
+Other means of
+Not Available
+identification
+CAS number 7783-20-2
+Relevant identified uses of the substance or mixture and uses advised against
+Relevant uses
+identified from the Supplier-defined usage.
+substance
+Data from the supplier of the safety data sheet
+Denomination
+Manuchar Chile SA
+Social
+Address Calle Meulen 350 Quilicura Santiago Chile
+Telephone +56 2 26537150
+Fax +56 2 26537156
+Website w w w.manuchar.cl
+Email chile.contact@manuchar.com
+Emergency telephone
+Association /
+Rita Chile; Tel: +56 2 27771994 / Firefighters:
+Organization
+Telephone
++56 2 26032647
+emergencies
+Other numbers
+telephone numbers +56 2 26034391
+emergency
+C HEMWATCH EMERGENCY RESPONSE
+Main Number Alternative Number 1 Alternative Number 2
++56 2 2897 7700 +612 9186 1132
+Once connected and if the message is not in your preferred language, please dial 02
+S ECTION 2 HAZARDS IDENTIFICATION
+Continued...
+==================================================================================
+PAGE 2
+==================================================================================
+Chemwatch: 10052 Page 2 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+CLASSIFICATION NCh 382: NOT APPLICABLE / RHOMBUS NCh 2190: NOT APPLICABLE
+Classification of the substance or mixture
+CHEMWATCH RISK ESTIMATION
+Min Max
+Flammability 0
+Toxicity 2
+Contact 0 = minimum
+3
+Body 1 = Low
+2 = Moderate
+Reactivity 0 3 = High
+Chronic 0 4 = Extreme
+Acute Toxic if Ingestion, Category 4, Skin Corrosion/Irritation, Category 2, Serious Damage to
+Eyes, Category 1, Respiratory Sensitizer Category 1*,
+GHS STOT Classification - SE (Resp. Irr) Category 3
+, Acute Aquatic Risk, Category 3
+*LIMITED EVIDENCE
+Label elements
+Elements of the
+GHS label
+SIGNAL WORD DANGER
+Hazard indication(s)
+H302 Harmful if swallowed.
+H315 Causes skin irritation.
+H318 Causes serious eye damage.
+H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled.*
+H335 May cause respiratory irritation.
+H402 Harmful to aquatic organisms
+*LIMITED EVIDENCE
+Precautionary statements: Prevention
+P261 Avoid breathing dust/fume/gas/mist/vapours/spray.
+P271 Use only outdoors or in a well-ventilated area.
+P280 Wear protective gloves/protective clothing/goggles/mask.
+P284 [In case of insufficient ventilation,] wear respiratory protective equipment.
+P270 Do not eat, drink or smoke during use.
+P273 Avoid release to the environment.
+Precautionary Statements: Answer
+IF INHALED: Take the person to fresh air and keep them in a position that facilitates
+P304+P340
+breathing.
+IF CONTACT WITH EYES: Rinse carefully with water for several minutes. Remove
+P305+P351+P338
+contact lenses, if you have them and it is easy. Continue clarifying.
+P310 Immediately call a POISON CENTER / doctor / doctor / first aid
+In case of respiratory symptoms: Call a POISON CENTER / doctor / doctor / first aid
+P342+P311
+aid
+IF SWALLOWED: Call a POISON CENTER / doctor / doctor / first aid / in
+P301+P312
+case of discomfort.
+P302+P352 SKIN CONTACT: Wash with soap and water.
+P330 Rinse mouth.
+Continued...
+==================================================================================
+PAGE 3
+==================================================================================
+Chemwatch: 10052 Page 3 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+P332+P313 In case of skin irritation: Consult a doctor.
+P362+P364 Remove contaminated clothing and wash before reuse.
+Precautionary Statements: Storage
+P405 Store under lock and key.
+P403+P233 Store in one place
+well ventilated. Keep container tightly closed.
+Precautionary Statements: Disposal
+P501 Dispose of contents/container in accordance with local regulations.
+SECTION 3 COMPOSITION/INFORMATION ON INGREDIENTS
+Substances
+%
+CAS Number Name GHS Classification
+[weight]
+Acute Toxic if Ingestion, Category 4, Skin Corrosion/Irritation, Category
+2, Serious Eye Damage, Category 1, Respiratory Sensitizer Category
+sulfate-
+7783-20-2 >96 1*,
+de-amor boy
+STOT - SE (Resp. Irr) Category 3
+, Acute Aquatic Risk, Category 3; H302, H315, H318, H334*, H335, H402
+Mixtures
+See the previous section for the composition of the substances
+SECTION 4 FIRST AID
+Description of first aid
+If this product comes into contact with your eyes:
+Immediately keep eyes open and wash continuously with running water.
+Ensure complete irrigation of the eye by keeping the eyelids separated from each other and from the eye.
+eye, and moving them occasionally.
+Eye Contact Continue flushing until the Poison Information Center or a doctor authorizes
+detention, or at least for 15 minutes.
+Transport to hospital or doctor without delay.
+Removing contact lenses after suffering a wound or injury to the eye should be
+make it only competent personnel.
+I f this product comes into contact with your skin:
+Contact Immediately remove all contaminated clothing, including footwear.
+Skin Wash affected areas completely with water (and soap if available).
+Seek medical attention in case of irritation.
+If fumes or combustion products are inhaled: Remove to fresh air.
+Lay the patient down. Keep warm and at rest.
+Prostheses such as dentures, which can block the airway, should be
+removed, where possible, before initiating first aid procedures.
+Inhalation
+If breathing is shallow or has stopped, ensure free air entry and apply
+resuscitation, preferably with a resuscitator with demand valve, mask device
+bag-valve, or pocket mask according to training. Perform PCR if necessary.
+Transport to hospital or doctor immediately.
+IF SWALLOWED, GET MEDICAL ATTENTION, WHERE POSSIBLE, WITHOUT DELAY.
+For advice, contact a Poison Information Center or doctor.
+Urgent hospital treatment is probably required.
+If conscious, give water (or milk) to drink.
+INDUCE vomiting, with IPECAC SYRUP, or fingers to the back of throat ONLY
+Ingestion IF CONSCIOUS. Reclining the patient forward or placing him on his left side (position
+head down, if possible) to keep the airways open and prevent aspiration. NOTE:
+Always use a protective glove when vomiting is induced by mechanical means.
+REFER FOR MEDICAL ATTENTION WITHOUT DELAYS.
+Meanwhile, qualified first aid personnel should treat the patient by keeping him under
+Continued...
+==================================================================================
+PAGE 4
+==================================================================================
+Chemwatch: 10052 Page 4 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+observation and using supportive measures indicated by the patient's condition.
+If the services of a medical officer or doctor are available, the patient should be placed under his/her care.
+care and a copy of the SDS must be provided. Subsequent actions will be the responsibility of the
+specialist doctor..
+If medical care in or around the workplace is not available, refer the patient to
+hospital along with a copy of the SDS.
+When medical care is not immediately available, or when the patient is at
+more than 15 minutes from a hospital, and unless there are other instructions:
+INDUCE vomiting with your fingers down and back of the throat, ONLY IF YOU ARE
+CONSCIOUS. Lie the patient forward or on the left side (head facing).
+down, if possible) to keep the airways open and prevent aspiration.
+NOTE: Wear a protective glove when vomiting is induced by mechanical means.
+Indication of any medical attention and special treatment that should be given immediately
+for poisons (where a treatment regimen is absent):
+------------------------------------------------------------------
+----------
+BASIC TREATMENT
+----------------------------------------------------------
+Establish an obvious airway with suction if necessary.
+Observe for signs of respiratory failure and assist ventilation if necessary.
+Administer oxygen through a non-return breathing mask at 10 to 15 l/min.
+Monitor and treat, when necessary, for pulmonary edema.
+Monitor and treat, when necessary, for shock.
+Anticipate seizures.
+DO NOT use emetics. Where ingestion is suspected, rinse the mouth and give up to 200 ml of water (5 ml/kg recommended) to
+dilution where the patient can swallow, has a strong gagal reflex, and does not drool uncontrollably.
+----------------------------------------------------------
+ADVANCED TREATMENT
+----------------------------------------------------------
+Consider orotracheal or nasotracheal intubation for airway control in unconscious patients or where there is
+respiratory arrest occurred.
+Positive pressure ventilation using a bag valve mask may be helpful.
+Monitor and treat, when necessary, for arrhythmias.
+Start an IV D5W TKO. If signs of hypovolemia occur, use Ringers solution. Fluid overload can
+create complications.
+Drug therapy should be considered for pulmonary edema.
+Hypotension with signs of hypovolemia requires careful administration of fluids. Fluid overload can
+create complications.
+Treat seizures with diazepam.
+Proparacaine hydrochloride should be used to assist irrigation
+ocular. BRONSTEIN, A.C. and CURRANCE, P.L. EMERGENCY CARE FOR
+HAZARDOUS MATERIALS EXPOSURE: 2nd Ed. 1994
+Treat symptomatically.
+SECTION 5 FIRE FIGHTING MEASURES
+Extinguishing media
+There is no restriction on the type of fire extinguisher that can be used.
+Use extinguishing media appropriate for surrounding areas.
+Specific hazards arising from the substance or mixture
+Incompatibility
+Not known.
+of the fire
+Recommendations for firefighting personnel
+Alert the Fire Brigade and indicate the location and nature of the danger.
+Use respiratory masks and fire protective gloves only.
+Prevent, by all available means, the entry of spills into drains or water courses.
+Instructions
+Use special firefighting procedures in surrounding areas.
+Fight against
+DO NOT approach containers that are suspected to be hot.
+Fire
+Cool containers exposed to fire by spraying water from a protected location.
+If it is safe to do so, remove containers from the line of fire.
+The equipment must be completely decontaminated after use.
+Continued...
+==================================================================================
+PAGE 5
+==================================================================================
+Chemwatch: 10052 Page 5 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+It is not fuel.
+It is not considered a major fire risk, however containers can burn.
+Decomposition can produce toxic fumes of:
+,
+Fire Danger of
+nitrogen oxides (NOx)
+explosion
+,
+sulfur oxides (SOx)
+May emit poisonous fumes.
+May emit corrosive fumes.
+SECTION 6 MEASURES IN CASE OF ACCIDENTAL RELEASE
+Personal precautions, protective equipment and emergency procedures
+Remove all ignition sources.
+Clean up all spills immediately.
+Spills Avoid contact with skin and eyes.
+Minors Control personal contact using protective equipment.
+Use dry cleaning procedures and avoid dust generation.
+Place in appropriate and labeled container for waste disposal.
+Moderate risk.
+CAUTION: Notify personnel in the area.
+Alert Emergency Services and advise them of the location and nature of the risk.
+Control personal contact using protective clothing.
+Prevent, by all available means, the spill from entering drains and water courses.
+Spills
+Recover the product whenever possible.
+Seniors
+IF DRY: Use dry cleaning procedures and avoid dust generation.
+Collect waste and place it in plastic bags or other sealed container for disposal.
+disposition.
+IF WET: Vacuum/Shovel and place in labeled containers for disposal.
+ALWAYS: Wash the area with large amounts of water and prevent it from entering d
+drains
+If contamination of drains or water courses occurs, notify Emergency Services.
+Recommendation for Personal Protective Equipment is contained in Section 8 of the MSDS
+SECTION 7 HANDLING AND STORAGE
+Precautions for safe handling
+Avoid all personal contact, including inhalation.
+Wear protective clothing when the risk of overexposure occurs.
+Use in a well-ventilated area.
+Prevent concentration in holes and ledges.
+DO NOT enter confined spaces until the environment has been checked.
+Do not allow material to come into contact with humans, exposed food or food utensils.
+Avoid contact with incompatible materials.
+When handling, DO NOT eat, drink or smoke.
+Safe Handling
+Keep containers securely sealed when not in use.
+Avoid physical damage to containers.
+Always wash your hands with soap and water after handling.
+Work clothes should be washed separately and before reuse.
+Use good occupational work practices.
+Observe the manufacturer's storage/handling recommendations.
+The atmosphere must be regularly monitored against established exposure standards to
+ensure safe working conditions.
+Other Data Observe the manufacturer's storage and handling recommendations.
+Conditions for safe storage, including possible incompatibilities
+glass container
+Container
+Polyethylene or polypropylene container.
+appropriate
+Verify that all containers are labeled and free of leaks.
+Incompatibility
+Avoid strong bases.
+of Storage
+Continued...
+==================================================================================
+PAGE 6
+==================================================================================
+Chemwatch: 10052 Page 6 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
++X+XO+
+X — Should not be stored together
+0 — Can be stored together with care
+specific + — Can be stored together
+SECTION 8 EXPOSURE CONTROLS/PERSONAL PROTECTION
+Control parameters
+OCCUPATIONAL EXPOSURE LIMITS (OEL)
+INGREDIENT DATA
+Not Available
+EMERGENCY LIMITS
+Ingredient Material Name TEEL-1 TEEL-2 TEEL-3
+ammonium sulfate Ammonium sulfate 30 mg/m3 330 mg/m3 560 mg/m3
+Original IDLH Ingredient Revised IDLH
+ammonium-sulfate Not Available Not Available
+MATERIAL DATA
+The goal of ACGIH (and other Agencies) is to recommend TLVs (or their equivalent) for all substances for which
+There is evidence of health effects at concentrations in workplace air.
+To date, no TLV has been established, although this material may cause adverse health effects (as
+evidenced in animal experiments or clinical experience). Airborne concentrations should be kept as low as
+practically possible and occupational exposure should be kept to a minimum.
+Sensory irritants are chemicals that produce temporary and undesirable side effects in the eyes, nose or throat.
+Historically, occupational exposure standards for these irritants have been based on observation of workers' responses to
+various concentrations in the air. Current expectations require that almost every individual be protected against even the slightest irritation.
+Sensory and exposure standards are established using uncertainty or safety factors of 5 to 10 or more. Sometimes
+Animal no-observable-effect-levels (NOEL) are used to determine these limits when
+results in humans are not available. An additional method, typically used by the TLV (USA) committee in determining
+respiratory standards for this group of chemicals, has been to assign limit values (TLV C) to rapidly acting irritants and assign
+short-term exposure limits (TLV STELs) when the weight of evidence for irritation, bioaccumulation and other factors are combined to
+guarantee such a limit. In contrast to the MAK Commission (Germany) uses a five-category system based on intense odor, local irritation, and
+elimination half-life. However this system is being replaced to be consistent with the European Union (EU) Scientific
+Committee for Occupational Exposure Limits (SCOEL); this is more closely related to that of the United States. OSHA (U.S.
+SA) concluded
+that exposure to sensory irritants can cause:
+inflammation increase susceptibility to other irritants and infectious agents
+lead to permanent injury or dysfunction
+allow greater absorption of risky substances and
+acclimatize the worker to the warning properties of these irritating substances thereby increasing the
+risk of overexposure.
+Exposure controls
+Engineering controls are used to eliminate a hazard or put a barrier between the worker and
+the risk. Well-designed engineering controls can be very effective in protecting
+workers and, normally to offer this high level of protection, will be independent of the
+i nteractions of workers.
+T he basic types of engineering controls are as follows:
+Process controls that involve changing the way a work activity or process is performed.
+Perform controls to reduce risk.
+engineering Enclosure or isolation of the emission source that keeps a selected risk "physically" away from the
+appropriate worker and that strategic ventilation "adds" and "removes" air in the work environment. Ventilation can
+remove or dilute a pollutant from the air if properly designed. The design of a ventilation system must
+correspond to the specific process, chemical substance or contaminant in use.
+Employers may find it necessary to use various types of controls to avoid
+overexposure of employees.
+Where solids such as powders or crystals are handled, local ventilation is required; even though the particles
+Continued...
+==================================================================================
+PAGE 7
+==================================================================================
+Chemwatch: 10052 Page 7 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+are relatively large, a certain proportion will be pulverized by mutual friction.
+If, despite local ventilation, a harmful concentration of the substance in the air occurs,
+the use of respiratory protection should be considered. Such protection must consist of: (a)
+dust particle respirators combined with an absorption cartridge if necessary; (b)
+filter respirators with absorption cartridge of the appropriate type; (c) masks or air hoods
+pure
+Air pollutants generated in the workplace have varied “escape” velocities.
+which in turn determine the “capture rates” of the circulating fresh air required to remove
+effectively to the pollutant.
+Speed of
+Pollutant Type:
+Air:
+direct spray, spray painted in shallow cubicles, drum filling, loaded 1-2.5 m/s
+of conveyors, powder grinding, gas discharge (active generation in area of (200-200
+rapid air movement) f/min.)
+2.5-10m/s
+grinding, abrasive blasting, dust generated by high speed wheels (released at
+(500-2000
+high initial speed in very high air speed zone).
+f/min.)
+Within each range the appropriate value depends on:
+Low end of range High end of range
+1: Minimum or favorable air currents in the room 1: Disturbing air currents in the
+capture. enclosure
+2: Pollutants of low toxicity or only annoying. 2: High toxicity contaminants
+3: Intermittent, low production. 3: High production, heavy use.
+4: Large hood or large amount of air mass in 4: Small local control hood
+movement only
+Theory shows that air velocity falls rapidly with distance across the opening of a pipe.
+simple extraction. Velocity generally decreases with the square of the distance from the extraction point
+(in simple cases). Therefore the air velocity at the extraction point must be adjusted accordingly,
+with reference to the distance from the source of contamination. The air speed in an exhaust fan
+For example, it should be at least 1-2 m/s (200-400 f/min) for extraction of solvents generated in a tank at 2
+meters away from the extraction point. Other mechanical considerations, producing a deficit in the
+operation of the extraction apparatus, make it essential that the theoretical air speeds are
+multiplied by factors of 10 or more when extraction systems are installed or used.
+Team
+protection
+staff
+An
+Safety glasses with side protectors.
+Chemical glasses.
+Contact lenses may present a special risk; soft contact lenses can
+absorb and concentrate irritants. A written recommendation, describing the manner of use or the
+Eye protection and restrictions on the use of glasses must be created for each workplace or task. It must
+include a review of lens absorption and adsorption for the chemical classes in
+face
+use and a description of damage experiences. Medical and first aid personnel must
+be trained in lens removal, and appropriate equipment must be available at all times.
+immediate. In the event of a chemical exposure, immediately begin irrigation of the eye,
+and remove contact lenses as soon as possible. Lenses should be removed at
+first signs of redness or irritation of the eye – lenses should be removed in an environment
+clean only after workers have washed their hands thoroughly. [CDC
+Protection from NIOSH Current Intelligence Bulletin 59]
+skin
+See Hand Protection below
+The suitability and durability of the type of glove depends on the use. Factors such as:
+frequency and duration of contact,
+chemical resistance of glove material,
+Protection of the
+glove thickness and
+hands/feet
+training,
+are important in choosing gloves.
+Experience indicates that the following polymers are suitable as glove materials
+for protection against dry undissolved solids.
+polychloroprene
+nitrile rubber
+Continued...
+==================================================================================
+PAGE 8
+==================================================================================
+C hemwatch: 10052 Page 8 of 12
+Version No: 7.1.1.1 Print Date: 01-17-2018
+AMMONIUM-SULPHATE
+butyl rubber
+fluororubber
+polyvinyl chloride
+Gloves should be constantly examined for wear and/or degradation.
+Protection of the
+See other Protection below
+body
+Protective coveralls/coveralls/romper
+PVC apron.
+Another type of
+Protective cream.
+protection
+Skin cleansing cream.
+Eye wash unit.
+Thermal hazard Not Available
+Recommended material(s) Respiratory protection
+GLOVE SELECTION INDEX Particle filter with sufficient capacity. (AS/NZS 1716 and
+Glove selection is based on 1715, EN 143:000 and 149:001, ANSI Z88 or national equivalent)
+modified presentation of:
+"Forsberg Apparel Performance Index." Respirator Respirator Respirator
+factor
+The effect(s) of the following substance(s) is(are) Air Face Medium
+Protection
+taken into account in the selection generated in Impelled Full Face
+computer: AMMONIUM-SULPHATE Not Available
+P1 - PAPR-P1
+10 x ES
+Air line* - -
+CPI material
+50 x ES Air line** P2 PAPR-P2
+* CPI - Chemwatch Performance Index
+A: Best Selection 100 x ES - P3 -
+B: Satisfactory; may degrade after 4 Air line* -
+continuous hours of immersion
+100+ x ES - Air line** PAPR-P3
+C: Poor to Dangerous Choice for dives other than
+short duration
+* - Negative pressure demand ** - Continuous flow
+NOTE: Because a number of factors will influence the actual
+glove performance, a final selection should be based
+in a detailed observation.-
+* Where the glove is used for a short time,
+casual or infrequent,
+factors such as "feel" or convenience (e.g.
+availability), they can decide on a choice of gloves that
+However, they could be inappropriate if they continue to be used.
+for a long time or frequently. a professional
+qualified should be consulted.
+SECTION 9 PHYSICAL AND CHEMICAL PROPERTIES
+Information on basic physical and chemical properties
+Appearance Not Available
+Relative Density
+Physical State Split Solid 1.77;1.09t/m3
+(Water = 1)
+Coefficient of
+Odor Not Available n-octanol partition Not Available
+/ water
+Temperature
+Odor threshold Not Available Not Applicable
+Autoignition (°C)
+pH (as is temperature of
+Not Applicable 235
+provided) decomposition
+Melting point /
+235-280 decomp point Viscosity Not Applicable
+freezing (°C)
+Point of
+initial boiling and Molecular Weight
+Not Applicable 132.14
+range (g/mol)
+boiling (°C)
+Continued...
+==================================================================================
+PAGE 9
+==============================
+==================================================================
+Chemwatch: 10052 Page 9 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+Point of
+Not Applicable Flavor Not Available
+Swelling (°C)
+Properties Speed
+Not Applicable Not Available
+Explosive Evaporation
+Property
+Flammability Not Applicable Not Available
+Oxidizers
+Tension
+Upper limit of
+Not Applicable Superficial Not Applicable
+explosion (%)
+(dyn/cm or mN/m)
+Component Lower Limit
+Not Applicable Not Available
+explosion (%) Volatile (%vol)
+Vapor Pressure Not available. Gas Group Not Available
+Water solubility pH as a
+Miscible 5.5
+(g/L) solution (1%)
+Density of
+Not Applicable VOC g/L Not Available
+steam (Air = 1)
+SECTION 10 STABILITY AND REACTIVITY
+Reactivity See section 7
+Presence of incompatible materials.
+Stability
+The product is considered stable.
+chemistry
+Hazardous polymerization will not occur.
+Possibility of
+reactions See section 7
+dangerous
+Conditions that
+See section 7
+should be avoided
+Materials
+See section 7
+incompatible
+Products of
+decomposition See section 5
+dangerous
+SECTION 11 TOXICOLOGICAL INFORMATION
+Information on toxicological effects
+The material may cause respiratory irritation in some people. The body's response to
+Such irritation can cause further damage to the lung.
+People with poor respiratory functions, respiratory diseases and conditions such
+Inhaled as emphysema or chronic bronchitis, may incur subsequent disability if inhaled
+excessive concentrations of particles.
+|Inhalation may cause mild irritation to mucous membranes, shortness of breath, coughing and
+chest discomfort.
+Accidental ingestion of the material may be harmful; Animal experiments indicate that
+Ingestion of less than 150 grams can be fatal or can cause serious damage to the health of the patient.
+i individual. Sulfates are not well absorbed orally but can cause diarrhea.
+Ingestion Large doses of injected ammonia or ammonium salts can cause diarrhea and may be
+sufficiently absorbed to cause increased urine production and poisoning
+systemic. Symptoms include facial muscle weakness, tremor, anxiety, control
+reduced muscles and limbs.
+This material may cause skin inflammation on contact in some people.
+The material may accentuate any pre-existing dermatitis condition
+Open wounds, abraded or irritated skin should not be exposed to this material.
+Contact with the
+Entry into the bloodstream through, for example, cuts, abrasions or injuries, can cause
+Skin
+systemic injury with harmful effects. Examine the skin before using the material and ensure that any
+External damage is appropriately protected.
+|Brief contact may dry the skin.
+Eye If applied to the eyes, this material causes severe eye damage.
+Continued...
+==================================================================================
+PAGE 10
+==================================================================================
+Chemwatch: 10052 Page 10 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+Long-term exposure to respiratory irritants can lead to respiratory tract disease.
+respiratory problems involving respiratory distress and related systemic problems.
+The buildup of the substance in the human body can occur and may cause concern.
+after repeated or long-term occupational exposure.
+Chronic There is evidence that inhalation of this product is more likely to cause an allergic reaction.
+sensitization in some people compared to the general population.
+Long-term exposures to high concentrations of dust can cause changes in lung function;
+pneumoconiosis; caused by particles smaller than 0.5 microns penetrating and remaining in the lung. The
+The first symptom is shortness of breath; Shadows in the lung show X-rays.
+TOXICITY IRRITATION
+[1]
+Ammonium sulfate Dermal (rat) LD50: >2000 mg/kg Nil reported
+Oral (rat) LD50: >2000 mg/kg
+[1]
+Legend: 1 Value obtained from Europe ECHA registered substances - Acute toxicity 2 * Value obtained from MSDS
+from the manufacturer unless otherwise specified data taken from RTECS - Register of Toxic Effects of
+Chemical Substances (Registry of Toxic Effects of Chemical Substances)
+Asthma symptoms can
+may continue for months or even years after cessation of exposure to the
+material. This may be due to a non-allergenic condition known as dysfunction syndrome.
+SULFATE- reactive airways (RADS) which can occur after exposure to high levels of the
+DE-AMMONIUM highly irritating compound. Key criteria for diagnosing RADS include the absence of
+preceding respiratory disease, in a non-atopic individual, with abrupt onset of symptoms
+type persistent asthma within minutes to hours of documented exposure to the irritant.
+acute toxicity Carcinogenicity
+Irritation of the
+reproductive
+skin / Corrosion
+STOT eye injuries - exposure
+severe/single irritation
+STOT Awareness -
+respiratory or exposures
+repeated skin
+danger of
+Mutation
+aspiration
+Legend: – The data necessary to carry out the available classification
+– Data available, but does not meet the classification criteria
+– Data not available to make the classification
+SECTION 12 ECOLOGICAL INFORMATION
+Toxicity
+NOT AVAILABLE
+POINT Duration of
+Ingredient effect Value species BCF
+FINAL test
+No No No No
+ammonium-sulfateNot Available Not Available
+Available Available Available Available
+Harmful to aquatic organisms.
+In air, ammonia is persistent, while in water, it rapidly biodegrades to nitrate, producing a high
+oxygen demand. Ammonia is strongly adsorbed in the soil. Ammonia is not persistent in water (medium pathway 2
+days) and is moderately toxic to fish under normal temperature and pH conditions. Ammonia is harmful to
+aquatic life at low concentrations but does not concentrate in the food chain. Drinking Water Standards: 0.5 mg/l (UK
+max.) 1.5 mg/l (WHO Levels) Soil Guides: none available. Air Quality Standards: none available
+DO NOT discharge into sewers or waterways.
+The material is classified as an ecotoxin* because the LC50 of Pez (96 hours) is less than or equal to 0.1
+mg/l * Classification of Substances as Ecotoxic (Dangerous to the Environment)
+Appendix 8, Table 1 Compiled Guide for the Preparation of International Chemical Safety Cards: 1993
+Commission of the European Communities.
+Continued...
+==================================================================================
+PAGE 11
+==================================================================================
+Chemwatch: 10052 Page 11 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+Persistence and degradability
+Ingredient Persistence Persistence: Air
+ammonium-sulfate HIGH HIGH
+Bioaccumulative potential
+Ingredient Bioaccumulation
+ammonium-sulfate LOW (LogKOW = -2.2002)
+Mobility on the ground
+Ingredient Mobility
+LOW ammonium sulfate (KOC = 6.124)
+SECTION 13 DISPOSAL CONSIDERATIONS
+Methods for waste treatment
+If the container has not been cleaned well enough to ensure that no
+remainder of the original product, or if the container cannot be used to store the same product,
+then puncture the containers, to prevent their reuse, and bury them in an authorized reservoir.
+Legislation requirements for waste disposal may vary by country, state
+and/or territory. Each user must refer to the laws in force in their area. In some areas, certain
+Waste must be tracked.
+A Hierarchy of Controls is usually common - the user should investigate:
+Reduction
+Reuse
+Recycled
+Elimination (if all others fail)
+Disposal This material can be recycled if it was not used, or if it has not been contaminated enough to do so.
+Product / unsuitable for intended use. If it has been contaminated, it may be possible to recycle the product by
+filtration,
+distillation packaging or some other means. Time in storage should also be considered when making decisions
+of this type. Note that the properties of a material can change in use, and recycling or
+reuse may not always be appropriate.
+DO NOT allow water from cleaning or processes to enter drains.
+It may be necessary to collect all wash water for treatment before discarding it.
+In all cases disposal to sewers must be subject to local laws and regulations,
+which must be considered first.
+If in doubt, contact the responsible authority.
+Recycle where possible
+or consult the manufacturer for recycling options.
+Consult the State Waste Management Authority for disposal.
+Bury the waste in an authorized landfill.
+Recycle containers where possible, or dispose of them in an authorized landfill.
+SECTION 14 TRANSPORTATION INFORMATION
+Required Tags
+Pollutant
+no
+marine
+Land transport (UN): NOT REGULATED FOR TRANSPORTATION OF DANGEROUS GOODS
+Air transport (ICAO-IATA / DG: NOT REGULATED FOR THE TRANSPORT OF DANGEROUS GOODS
+Maritime Transport (IMDG-Code / GGVSee): NOT REGULATED FOR TRANSPORTATION OF GOODS
+DANGEROUS Transport in bulk according to Annex II of the MARPOL 73/78 Convention and the IBC Code
+source ingredient pollution category
+IMO MARPOL 73/78
+(Annex II) - List of
+ammonium-sulfate Z
+Noxious Liquid
+Carried Substances
+Continued...
+==================================================================================
+PAGE 12
+==================================================================================
+Chemwatch: 10052 Page 12 of 12
+Version No: 7.1.1.1 AMMONIUM-SULPHATE Printing Date: 01-17-2018
+in Bulk
+SECTION 15 REGULATORY INFORMATION
+Safety, health and environmental regulations and legislation specific to the substance or
+the mix
+AMMONIUM SULFATE (7783-20-2) IS FOUND IN THE FOLLOWING LISTS
+REGULATORY Not Applicable
+Inventory of
+Products Status
+Chemicals
+Australia - AICS Y
+Canada - DSL Y
+Canada - NDSL N (ammonium sulfate)
+China - IECSC Y
+Europe - EINEC /
+and
+ELINCS/NLP
+Japan - ENCS Y
+Korea - KECI Y
+New Zealand
+and
+-NZIoC
+Philippines - PICCS Y
+USA - TSCA AND
+Y = All ingredients are in inventory N = Not determined or one or more ingredients are not
+Legend:
+are in inventory and are not exempt from listing (see specific ingredients in parentheses)
+SECTION 16 OTHER INFORMATION
+Other information
+The classification of the preparation and its individual components has led to official and authoritative sources, as well as
+also independent review by the Chemwatch Classification Committee, using references from available literature.
+A list of reference resources used to assist the committee can be found at: www.chemwatch.net
+The SDS is a hazard communication tool and should be used to assist in the Evaluation of
+risk. Many factors determine whether disclosed hazards are risks in the workplace or other locations. The risks
+can be determined by reference to the Exhibition Settings. The scale of use, frequency of use and
+Current or available engineering controls should be considered.
+This document is protected by copyright. Apart from any fair arrangements for the purpose of private study,
+investigation, review or criticism, as permitted under the Copyright Act, no part may be reproduced by any
+procedure without the written permission of CHEMWATCH.
+TEL (+61 3) 9572 4700
+REVISION: 01-17-2018
+end of SDS

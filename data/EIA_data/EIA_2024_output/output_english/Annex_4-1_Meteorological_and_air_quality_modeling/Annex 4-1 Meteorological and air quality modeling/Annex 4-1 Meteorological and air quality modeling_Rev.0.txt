@@ -1,0 +1,2837 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 4-1
+Meteorological and
+air quality
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ........................................................................................................................................... 1
+2 Objectives ................................................................................................................................................... 1
+3 General methodology ........................................................................................................................... 2
+4 Meteorological model ........................................................................................................................... 3
+4.1 Justification of the meteorological model ....................................................................................... 3
+4.2 Description of the meteorological model ....................................................................................... 3
+4.3 Modeling domain ....................................................................................................................... 8
+4.4 Topography and land use ........................................................................................................... 10
+4.5 Evaluation of the meteorological model ................................................................................................... 12
+4.5.1 Wind speed ........................................................................................................... 14
+4.5.2 Wind direction ........................................................................................................... 28
+4.5.3 Temperature ........................................................................................................................... 51
+4.5.4 Mixture layer height in modeled area ........................................................................... 61
+4.5.5 Meteorological model conclusions ........................................................................................... 64
+4.6 Air quality standards ................................................................................................................... 66
+4.7 Air quality baseline ........................................................................................................... 68
+4.7.1 Stations ........................................................................................................................... 68
+5 Air quality model ........................................................................................................................... 71
+5.1 Air quality model justification ................................................................................................... 71
+5.2 Air quality model description ................................................................................................... 71
+6 Receivers ........................................................................................................................................... 73
+6.1 Discrete receivers ................................................................................................................... 73
+6.2 Grid receivers ........................................................................................................................... 75
+7 Emission sources ........................................................................................................................... 76
+7.1 Analysis of modeling results ........................................................................................... 78
+7.1.1 Modeled contribution ................................................................................................
+................. 78
+7.1.1 Total concentrations ................................................................................................................... 82
+7.2 Analysis of contributions of particulate matter in saturated zone ................................................... 94
+7.3 Maps of spatial concentration gradients (isoconcentrations) ................................................... 96
+8 Air quality model conclusions ........................................................................................... 104
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 4-1: Definition of modeling domain. ....................................................................................... 4
+Table 4-2: Definition of projection modeling domains. ............................................................................ 4
+Table 4-3: Characteristics of the modeling domain. ................................................................................... 8
+Table 4-4. Meteorological station coordinates ....................................................................................... 9
+Table 4-5. Meteorological station coordinates ................................................................................... 14
+Table 4-6: Wind speed statistics. ................................................................................................... 26
+Table 4-7: Wind speed performance statistics. Year 2022. ................................................... 27
+Table 4-8: Comparison of Wind Speed Performance Statisticians. Year 2022. ......................... 27
+Table 4-9: Temperature statistics. ....................................................................................................... 60
+Table 4-10: Performance statistics by temperature, Main station, observed and modeled data.
+....................................................................................................................................................................... 61
+Table 4-11: Comparison of Temperature Performance Statisticians. Year 2022. ................................... 61
+Table 4-12. Primary air quality standards. ................................................................................... 66
+Table 4-13. Secondary air quality standards ........................................................................................... 66
+Table 4-14. Characterization of Air Quality Monitoring Stations................................................... 68
+Table 4-15. Baseline Summary Primary Air Quality. Period January 2020 to December 2022. ... 70
+Table 4-16. Secondary Air Quality Baseline Summary. Period January 2020 to December 2022. 70
+Table 6-1. Recipients of Interest defined for modeling ................................................................ 73
+Table 7-1. Annual emissions per pollutant ........................................................................................... 76
+Table 7-2 Summary of emissions incorporated into the model (year 4 of operation). ....................................... 76
+Table 7-3. Estimated contributions in recipients. ............................................................................................ 78
+Table 7-4. Estimated percentage contributions in recipients with respect to the primary quality standards of the
+air. ................................................................................................................................................................... 79
+Table 7-5. MPS contributions ........................................................................................................................... 80
+Table 7-6. Secondary standard SO2 contributions ........................................................................................................... 80
+Table 7-7. Projects with favorable RCA ........................................................................................................... 82
+Table 7-8, Contributions from other projects with favorable RCA and not executed (µg/m³). .................................... 84
+Table 7-9. Total projected annual MP10 contribution (µg/m³) .........................
+................................................... 85
+Table 7-10. Total projected contribution MP10 P98 24h (µg/m³) ....................................................................... 86
+Table 7-11. Total projected annual MP2.5 contribution (µg/m³) ........................................................................... 86
+Table 7-12. Total projected contribution MP2.5 P98 24h (µg/m³) ................................................................... 87
+Table 7-13. Total projected NO annual contribution (µg/m³) ........................................................................... 87
+2
+Table 7-14. Total projected contribution NO P99 1h (µg/m³) ................................................................................... 88
+2
+Table 7-15. Total projected annual SO contribution (µg/m³) ........................................................................................... 89
+2
+Table 7-16. Total projected contribution SO P99 24h (µg/m³) ........................................................................... 89
+2
+Table 7-17. Total projected contribution SO P99 1h (µg/m³) ........................................................................... 90
+2
+Table 7-18. Total projected CO contribution P99 1h (µg/m³) ........................................................................... 91
+Table 7-19. Total projected contribution CO P99 moving average 8h (µg/m³) ................................................... 91
+Table 7-20. Projected MPS contribution (mg/m²/day) ................................................................................................... 92
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-21. Projected annual SO contribution (µg/m³) ....................................................................................... 92
+2
+Table 7-22. Projected contribution SO P99.7 24h (µg/m³) ................................................................................... 93
+2
+Table 7-23. Projected contribution SO P99.73 1h (µg/m³) ................................................................................... 93
+2
+Table 7-24. Significance values for the increase in concentrations of MP10 and M2.5 on receptors
+....................................................................................................................................................................... 94
+Table 7-25. Contributions for the annual standard of MP2.5. ................................................................................... 94
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 3-1. Methodological Steps ................................................................................................................ 2
+Figure 4-1: Extensions of domains 1, 2, 3 and 4 in WRF. ....................................................................... 4
+Figure 4-2: Land use domain 4 WRF. ....................................................................................................... 7
+Figure 4-3: Project modeling domain. ....................................................................................... 9
+Figure 4-4: Project modeling domain and communal boundaries. ............................................................ 10
+Figure 4-5: Topography of the modeling domain. ................................................................................... 11
+Figure 4-6: Daily cycle of modeled and observed wind speed. Kingston College Station, year
+2022. ........................................................................................................................................................... 15
+Figure 4-7: Monthly cycle of modeled and observed wind speed. Kingston College Station, year
+2022. ........................................................................................................................................................... 16
+Figure 4-8: Conditional quantiles and histogram of observed and modeled wind speed. Station
+Kingston College, year 2022. .....
+................................................................................................................... 17
+Figure 4-9: Daily cycle of modeled and observed wind speed. Nueva Libertad Station, year
+2022. ........................................................................................................................................................... 18
+Figure 4-10: Monthly cycle of modeled and observed wind speed. Nueva Libertad Station, year
+2022. ........................................................................................................................................................... 19
+Figure 4-11: Conditional quantiles and histogram of observed and modeled wind speed. Station
+New Freedom, year 2022. ........................................................................................................................... 20
+Figure 4-12: Daily cycle of modeled and observed wind speed. Coronel Norte Station, year
+2022. ........................................................................................................................................................... 21
+Figure 4-13: Monthly cycle of modeled and observed wind speed. Coronel Norte Station, year
+2022. ........................................................................................................................................................... 22
+Figure 4-14: Conditional quantiles and histogram of observed and modeled wind speed. Station
+Colonel North, year 2022. ........................................................................................................................... 23
+Figure 4-15: Daily cycle of modeled and observed wind speed. Liceo Polivalente Station, year
+2022. ........................................................................................................................................................... 24
+Figure 4-16: Monthly cycle of modeled and observed wind speed. Polyvalent Lyceum Station,
+year 2022. ....................................................................................................................................................... 25
+Figure 4-17: Conditional quantiles and histogram of observed and modeled wind speed. Station
+Multipurpose High School, year 2022. ....................................................................................................................... 26
+Figure 4-18: Observed and modeled wind rose in 2022. Kingston College Station. ................. 28
+Figure 4-19: Polar graph with deviation frequency between modeled and
+observed by intervals of difference in wind speed magnitude. Kingston College Station.
+Year 2022. ................................................................................................................................................... 29
+Figure 4-20: Daily cycle of observed wind direction. Kingston College Station. Year 2022. ...... 30
+Figure 4-21: Daily cycle of modeled wind direction. Kingston College Station. Year 2022. ...... 31
+Figure 4-22: Seasonal cycle of observed wind direction and speed. Kingston College Station.
+Year 2022. ................................................................................................................................................... 32
+iv
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-23: Seasonal cycle of modeled wind direction and speed. Kingston College Station.
+Year 2022. ................................................................................................................................................... 33
+Figure 4-24: Wind rose observed and modeled in 2022. Nueva Libertad Station. ................... 34
+Figure 4-25: Polar graph with deviation frequency between modeled and
+observed by intervals of difference in wind speed magnitude. New Liberty Station.
+Year 2022. ...................................................................................................................
+.................................. 35
+Figure 4-26: Daily cycle of observed wind direction. New Liberty Station. Year 2022. ........ 36
+Figure 4-27: Daily cycle of modeled wind direction. New Liberty Station. Year 2022. ......... 37
+Figure 4-28: Seasonal cycle of observed wind direction and speed. New Liberty Station.
+Year 2022. ................................................................................................................................................... 38
+Figure 4-29: Seasonal cycle of modeled wind direction and speed. New Liberty Station. Year
+2022. ........................................................................................................................................................... 39
+Figure 4-30: Wind rose observed and modeled in 2022. Coronel Norte Station. .................... 40
+Figure 4-31: Polar graph with deviation frequency between modeled wind directions and
+observed by intervals of difference in wind speed magnitude. Colonel North Station. Year
+2022. ........................................................................................................................................................... 41
+Figure 4-32: Daily cycle of observed wind direction. Colonel North Station. Year 2022. .......... 42
+Figure 4-33: Daily cycle of modeled wind direction. Colonel North Station. Year 2022. .......... 43
+Figure 4-34: Seasonal cycle of observed wind direction and speed. Colonel North Station. Year
+2022. ........................................................................................................................................................... 44
+Figure 4-35: Seasonal cycle of modeled wind direction and speed. Colonel North Station. Year
+2022. ........................................................................................................................................................... 45
+Figure 4-36: Wind rose observed and modeled in 2022. Liceo Polivalente Station. ................. 46
+Figure 4-37: Polar graph with deviation frequency between modeled and
+observed by intervals of difference in wind speed magnitude. Polyvalent Lyceum Station.
+Year 2022. ................................................................................................................................................... 47
+Figure 4-38: Daily cycle of observed wind direction. Polyvalent Lyceum Station. Year 2022. ..... 48
+Figure 4-39: Daily cycle of modeled wind direction. Polyvalent Lyceum Station. Year 2022. ...... 49
+Figure 4-40: Seasonal cycle of observed wind direction and speed. Polyvalent Lyceum Station.
+Year 2022. ................................................................................................................................................... 50
+Figure 4-41: Seasonal cycle of modeled wind direction and speed. Polyvalent Lyceum Station.
+Year 2022. ................................................................................................................................................... 51
+Figure 4-42: Daily cycle of modeled and observed temperature, Kingston College station. Year 2022.
+....................................................................................................................................................................... 52
+Figure 4-43: Monthly cycle of modeled and observed temperature, Kingston College station, year 2022.
+....................................................................................................................................................................... 53
+Figure 4-44: Conditional quantiles and histogram of observed and modeled temperature, season
+Kingston College, year 2022. ....................................................................................................................... 54
+Figure 4-45: Daily cycle of modeled and observed temperature, Coronel Norte station. Year 2022. . 55
+Figure 4-46: Monthly cycle of modeled and observed temperature, Coronel Norte station, year 2022.
+....................................................................................................................................................................... 56
+v
+==================================================
+==================================
+PAGE 7
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-47: Conditional quantiles and histogram of observed and modeled temperature, season
+Colonel North, year 2022. ........................................................................................................................... 57
+Figure 4-48: Daily cycle of modeled and observed temperature, Liceo Polivalente station. Year 2022.
+....................................................................................................................................................................... 58
+Figure 4-49: Monthly cycle of modeled and observed temperature, Liceo Polivalente station, year 2022.
+....................................................................................................................................................................... 59
+Figure 4-50: Conditional quantiles and histogram of observed and modeled temperature, Liceo station
+Multipurpose, year 2022. ................................................................................................................................ 60
+Figure 4-51: Daily cycle modeled mixing layer height. Kingston College Station. Year 2022. ....... 62
+Figure 4-52: Daily cycle modeled mixing layer height. New Liberty Station. Year 2022. ......... 63
+Figure 4-53: Daily cycle modeled mixing layer height. Colonel North Station. Year 2022. ........... 63
+Figure 4-54: Daily cycle modeled mixing layer height. Polyvalent Lyceum Station. Year 2022. ...... 64
+Figure 6-1. Location of the receptors of interest defined for modeling. .................................... 74
+Figure 6-2. Receiver grids ................................................................................................................ 75
+Figure 7-1. Emission sources entered into the model ................................................................................... 77
+Figure 7-2. Recipients where contribution defined as significant is exceeded................................................. 96
+I saw
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+This document presents the results of the meteorological and dispersion modeling of the
+emissions presented in “Annex 1-3 Estimation of atmospheric emissions” of the Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production. The modeled scenario
+corresponds to the year of highest estimated emissions, and which will be part of the operation phase of the
+Project. The Project “Mining Development of Clay Extraction for the Production of Concentrated
+Rare Earths” (the Project) has as its objective the construction and operation of a mining site and a
+clay processing plant, a material present in the area, which, due to natural effects, is
+It is highly weathered, with the presence of rare earths in clay minerals. The Project
+will be developed mainly in the commune of Penco, Province of Concepción, Biobío Region, without
+prejudice that a minor part of the works are located in the commune of Concepción, on the border with the
+Penco Commune.
+The modeling considers the guidelines indicated in the Guide for the use of Air Quality Models
+in the SEIA, version 2 (2023), for which meteorological modeling and climate modeling are carried out.
+emissions dispersion. The contributions in terms of air quality are estimated in receivers of
+interest and within the modeling domain defined for a grid of receptors. With the contributions
+estimates are evaluated for regulatory compliance, considering the baseline measured in stations
+of air quality monitors for the 2020-2022 triennium within the area of influence of the Project.
+Additionally, and considering that the area where the Project will be located has a declaration
+of saturated zone for the annual standard of MP2.51, the estimated contributions are evaluated considering the
+evaluation criteria of the
+SEA, indicated in the document “Impact of emissions in saturated zones by
+MP10 respirable particulate matter and MP2.5” fine respirable particulate matter (09/2023).
+2 OBJECTIVES
+• Generation of a three-dimensional meteorological field with the WRF model, to be used
+as meteorological input for the CALPUFF pollutant dispersion model.
+• Uncertainty analysis of meteorological modeling.
+• Dispersion modeling of estimated emissions for the year of highest estimated emissions
+of the Project with the CALPUFF model.
+• Evaluation of regulatory compliance of the projected air quality, considering the contributions
+of the different phases of the Project.
+1 Decree 15/2015 of the Ministry of the Environment.
+1
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3 GENERAL METHODOLOGY
+The modeling scenario presented corresponds to the operation phase of the Project (year 6 of
+operation - higher emissions), considering as input the description of the Project in said phase. The
+The results of the emissions inventory were inputs for the dispersion modeling carried out with the
+CALPUFF model. The meteorology used as input to CALPUFF corresponds to that generated with the
+WRF mesoscale model for the year 2022 and described in section 4. With the modeling of the
+scenario, the contributions of these to air quality will be determined, which are subsequently added
+to the measured air quality, to project the air quality when the project is in
+operation.
+This report also describes the configuration and meteorological simulation carried out with the
+WRF forecast model and an uncertainty analysis is carried out on said modeling, comparing the
+results of meteorological parameters at surface level with respect to data measured at a station
+meteorological monitoring.
+The general methodology followed for the study is presented below in Figure 3-1.
+Figure 3-1. Methodological Steps
+Source: GAC
+2
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4 METEOROLOGICAL MODEL
+4.1 Justification of the meteorological model
+Following the guidelines of the Guide for the use of Air Quality Models in the SEIA, the selection
+The meteorological model used in the present study was carried out based on the conditions
+of the modeling domain of the area around the project, which corresponds to complex topography together
+with the existence of a coastal edge, in this case the Guide recommends a model that allows simulating
+a heterogeneous meteorology. For this reason, the hourly three-dimensional meteorological field of the year
+The entire 2022 was generated using the WRF meteorological model, version 4.4.1.
+Subsequently, the data were processed with MMIFv4 to be used in the quality model.
+CALPUFF air. The digital meteorological files are presented in Appendix 4-1.1 of the EIA.
+4.2 Description of the meteorological model
+The Weather Research and Forecasting (WRF) model is a
+Next generation mesoscale numerical prediction system, designed to serve forecasts
+operational and for studying the atmosphere.
+Four nested domains were created with grid resolutions of 27, 9, 3 and 1 kilometer
+correspondingly, which are shown in Figure 4-1, in red the modeling domain is indicated
+smaller, which is used to feed the CALPUFF dispersion model. Table 4-1 and Table
+4-2 show the definition of the nested domains used in WRF and the geographic projection,
+respectively.
+3
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-1: Extension
+ones of domains 1, 2, 3 and 4 in WRF.
+Source: GAC, based on Google Earth.
+Table 4-1: Definition of modeling domain.
+DX DY NX NY KMx KMy No. of Cells
+Domain 1 27 27 70 70 1890 1890 4900
+Domain 2 9 9 67 67 603 603 4489
+Domain 3 3 3 64 64 192 192 4096
+Domain 4 1 1 61 61 61 61 3721
+Source: GAC.
+Table 4-2: Definition of projection modeling domains.
+Center origin Domain 1 and LCC projection
+ref_lat -36.8
+ref_lon -73.0
+truelat1 -31.8
+truelat2 -41.8
+stand_lon -73.0
+Source: GAC.
+4
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Due to the geomorphology of the western area of the modeling domain and the fact that there are areas with density
+quite high urban areas, these areas have average wind speeds, for the levels
+surface, which are relatively low, velocities than typical WRF model configurations
+overestimate considerably since they do not satisfactorily resolve the surface effect of the
+terrain in the behavior of the wind. For this reason, in the present study a configuration was used
+improved WRF model in conjunction with a configuration to resolve the effects that urban land
+has on the local meteorology and also an option of additional resistance of the topography of the
+subgrid, further configuration details are described below:
+To carry out the simulation with the WRF model, land use information was obtained from
+NASA MODIS2 satellite information with 15 degree second resolution, this information from
+land use was complemented with land use with 10 different classifications for urban land
+considering data from the “world urban database (WUDAPT)”3; Finally, elevation information was used
+of terrain from the topographic information of the SRTM (Spanish Topographic Radar Mission).
+NASA Space Shuttle4) with a resolution of 3 seconds of a degree, that is, 90 meters
+approximately. Initial and boundary conditions were generated from the “operational data
+of global analysis”5 of NCEP6 with a degree of spatial resolution of 1° and temporal resolution of 6 hours.
+The WRF configuration published in the study by Saide, Mena‐Carrasco et al (2016)7 of
+PM2.5 forecast in Santiago, with the main exception that the option of
+BEP urban parameterization (Salamanca, Martilli et al. 2011)8, which consists of a "canopy" model
+"urban" multilayer, configuration that although it was not used in the aforementioned study, it recommends
+use it in future work. The aforementioned urban configuration has been worked within the context
+from preparation to application to the Fondecyt-11808949 project, which is completed. In
+work preceding the application to Fondecyt, the substantial improvement produced by the
+urban configuration in the meteorological simulation for the Santiago basin, particularly in the
+Regarding the reduction in modeled wind speeds, it is considered that these improvements
+They are also applicable to the urban areas of Concepción Metropolitano. In the WRF simulation
+developed for this report, the use of the “urban canopy” model was further deepened considering
+the “use_wudapt_lcz”10 option which considers 10 different classifications of urban land use (see
+2 https://modis.gsfc.nasa.gov/
+3 https://www.wudapt.org/
+4 https://www2.jpl.nasa.gov/srtm/
+5 FNL (Final) Operational Global Analysis data
+6 U.S. National Center of Environmental Prediction belonging to NOAA
+7 Saide, P.E., et al. (2016). "Air quality forecasting for winter‐time PM2. 5 episodes occurring in multiple cities in central and southern Chile.” Journal of
+Geophysical Research: Atmospheres 121(1): 558-575.
+8 Salamanca, F., et al. (2011). "A study of the urban boundary layer using different urban parameterizations and high-resolution urban canopy parameters
+with WRF." Journal of Applied Meteorology and Climatology 50(5): 1107-1128.
+9 Jorquera, H., Castro J. and Villalobos A.
+10 Brousse, O., Martilli, A., Foley, M., Mills, G., and Bechtel, B. (2016). WUDAPT, an efficient land use producing data tool for mesoscale models?
+Integration of urban LCZ in WRF over Madrid. Urb
+an Climate, 17:116–134.
+5
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-2), which were obtained from the “world urban database (WUDAPT)”11, within the website of the
+WUDAPT it is possible to find the tools to generate modified land use information
+for the WRF WPS module.
+In addition, the "slope_rad" and "slope_rad" options were activated for all simulation domains.
+“topo_shading” and “topo_wind”, the first option considers the effect of the slope of the terrain on the
+flow of surface solar radiation, the second considers the shadow effects that can be generated by
+surrounding cells that have terrain elevation greater than the cell considered and the last one considers a
+topographic correction for surface winds to account for additional resistance from topography
+of the subgrid and also the improved flow calculation at the tops of the hills, respectively. The option
+“topo_wind” (Jimenez and Dudhia, JAMC 2012) was used since winds predominate in the area
+low magnitude surface winds, in part due to the complicated geomorphology of the area, these winds
+low magnitude surface areas are not easily resolved by the WRF model.
+In addition to what has already been mentioned, the main parameterizations and configurations of the options
+physics of the model are the following:
+a) 45 ETA vertical levels were used.
+b) To estimate the planetary boundary layer, the BouLac-Lacarrère PBL scheme was used. one
+TKE (Turbulent Kinetic Energy) prediction option. Designed for use with the urban model
+BEP, which corresponds to an urban parameterization of BEP buildings (Building
+Environment Parameterization).
+c) The “use_wudapt_lcz” option was used to consider 10 different land use classifications
+urban in the urban parameterization of BEP buildings, these coverages were obtained
+from the “world urban database”12 and were processed with the tools provided by the website
+associated with WUDAPT.
+d) To estimate the surface boundary layer, the Eta Similarity scheme was used, based on
+Monin-Obukhov with Zilitinkevich13 thermal roughness length and similarity functions
+lookup tables standard
+e) To simulate heat exchanges between surface and atmosphere, the “Noah” was used.
+Land Surface Model”, a model that considers soil temperature and humidity in four layers,
+fractional snow cover and frozen ground physics
+11 https://www.wudapt.org/
+12 https://www.wudapt.org/
+13 Zilitinkevich, S. (1995). Non-local turbulent transport: pollution dispersion aspects of coherent structure of convective flows, Air Pollution III, Vol. 1. Air
+Pollution Theory and Simulation, eds. H. Power, N. Moussiopoulos & CA Brebbia, Comp. Mech. Publ., Southampton, рр.-53-60. In 3rd International
+Conference on Air Pollution (Air Pollution 95), Porto Carras, Greece, Sep (pp. 26-29).
+6
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+f) Finally, the Betts convective scheme was used to estimate cloud formation.
+Miller-Janjic (Betts and Miller 1986, Janjic 1994)14
+Figure 4-2 shows the land use configured for domain 4 of the WRF simulation.
+Figure 4-2: Land use domain 4 WRF.
+Source: GAC, based on LCZ15 data.
+14 Betts, A. K. and M. J. Miller (1986). "A New Convective Adjustment Scheme .2. Single Column Tests Using Gate Wave, Bomex, Atex and Arctic Air-
+Mass Data Sets." Quarterly Journal of the Royal Meteorological Society 112(473): 693-709.
+15 https://www.wudapt.org/
+7
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4.3 Modeling domain
+The modeling domain considered
+For this Project it corresponds to a rectangular grid of
+50 x 50 km, composed of cells of 1 km per side, which has the same projection used by the
+WRF model and corresponds to a subdomain of domain 4 modeled with WRF, eliminating 5 cells per
+edge, following the recommendation of the MMIF guide, which is the post-processor used to extract
+WRF data to CALPUFF. Table 4-3 presents the characteristics of the area corresponding to the
+modeling domain. The chosen domain covers at least the area of influence of the Project for the
+different environmental components that can be affected by its atmospheric emissions,
+which is corroborated later in the concentration gradients estimated by the model.
+Table 4-3: Characteristics of the modeling domain.
+Characteristic X axis (km) Y axis (km)
+Spacing 1 1
+Length 50 50
+Source: GAC.
+Figure 4-3 shows the modeling domain used in CALPUFF, where the
+meteorological stations used in the uncertainty analysis of the WRF model for the parameters
+of winds and in red the location of the Project. The coordinates are specified in Table 4-4. Fits
+mention that with the three stations analyzed an important part of the domain of
+modeling.
+8
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-3: Project modeling domain.
+Source: GAC.
+Table 4-4. Meteorological station coordinates
+UTM Datum Coordinates WGS 84 Zone 18S
+Monitoring station
+East North
+Kingston College 673,817 5,927,247
+North Colonel 664,628 5,902,487
+New Freedom 667,962 5,932,742
+Multipurpose High School 682,597 5,947,369
+Source: GAC
+9
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-4 shows in red the modeling grid used in the CALPUFF model, indicated in color
+red, with respect to domain 4 of the WRF model, indicated in white. The entire modeling grid
+from the communes of Talcahuano, Penco, Hualpén, Concepción, San Pedro de la Paz, Chiguayante and a large
+part of the communes of Tomé, Florida, Hualqui and Coronel. It is worth mentioning that the modeling area
+corresponds to the study area, the area of influence of the air component will be obtained from the results
+of the dispersion model.
+Figure 4-4: Project modeling domain and communal boundaries.
+Source: GAC.
+4.4 Topography and land use
+The source of topographic information for the modeling domain considered in CALPUFF corresponds to
+SRTM316 digital topographic maps with 90 meter resolution, which use the WRF model. In
+CALPUFF the topographic information considered by the WRF model was used. Below is presented
+an image of the topography, which corresponds to the SRTM3 interpolated to the 1 kilometer grid resolution
+which use the WRF and CALPUFF models in this case.
+16 https://www2.jpl.nasa.gov/srtm/
+10
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Information related to land use, in the same way as land elevation, is used
+directly from the WRF model, which corresponds to NASA MODIS satellite information with
+resolution of 15 arc seconds, the characterization of land use for each cell of domain 4 of
+WRF can be seen in Figure 4-2.
+Next, in Figure 4-5, the topography of the modeled domain is graphically presented, where
+The areas of the modeling domain are highlighted in red. It is worth highlighting the great complexity of the
+geomorphology of the area.
+Figure 4-5: Topography of the modeling domain.
+Source: GAC, based on information provided by NASA.
+11
+==================================================
+========================================================
+PAGE 19
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4.5 Meteorological model evaluation
+To evaluate the performance of the meteorological modeling used in the model, we have analyzed
+statistically the measured data of winds and temperature during the year 2022 for four seasons,
+in order to cover an important area of the modeling domain. Kingston station analyzed
+College, 3.4 kilometers southwest of the Project, Liceo Polivalente station 15.9 kilometers north
+of the Project, the Nueva Libertad station located 10.1 kilometers west of the Project and the station
+Coronel Norte located 28.6 kilometers southwest of the Project. The coordinates are presented in the
+Table 4-5 and the stations can be seen in Figure 4-5. For the evaluation of the model, the
+results of the meteorological model for the coordinate (x,y) where the station is located
+meteorological, at 10 meters high, coinciding with the height of the station's anemometer. The
+variables considered for the evaluation correspond to: wind speed and wind direction and
+temperature. For each parameter, the daily cycle and time series were evaluated. It is important to keep in mind
+Keep in mind that the data from the monitoring station correspond to data measured at one point, while
+The data obtained from the model correspond to data representative of a 1 x 1 kilometer cell.
+To evaluate the model, in addition to graphic comparisons, different statisticians have been used,
+those described below:
+• n corresponds to the total number of complete pairs
+• Bias: Corresponds to the difference between the modeled average and the observed average
+• FAC2: Fractional prediction, or factor of predictions within a factor of two of the
+observations
+𝑀
+𝑖
+0.5 ≤ ≤ 2
+𝑂
+𝑖
+• Mean bias (SM): This represents the tendency of the model to overestimate or underestimate the
+real conditions, thus quantifying the systematic error of the model. For negative values the
+model tends to underestimate the value of the modeled variables, and for positive values, the model
+tends to overestimate.
+𝑁
+1
+𝑆𝑃 = ∑(𝑀 −𝑂 )
+𝑛 𝑖 𝑖
+𝑖=1
+12
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Mean absolute error (MAE): This coefficient is used to measure the performance of models and
+consists of the average of the absolute errors, this coefficient ignores point by point whether the
+error is an underestimation or overestimation of the model.
+MAE=
+• Normalized mean bias (SMN): Average bias but normalized with respect to the values
+observed.
+∑𝑛 (𝑀 −𝑂 )
+𝑖=1 𝑖 𝑖
+𝑆𝑀𝑁 =
+∑𝑛 (𝑂)
+𝑖=1 𝑖
+• Normalized mean absolute error (NMAE): Corresponds to the MAE but normalized with respect to
+the observed values.
+• Mean Square Error (MSE): This provides the average difference between the modeled values
+and observed.
+𝑛
+(𝑀 −𝑂)2
+𝐸𝐶𝑀 = √∑
+𝑖 𝑖
+𝑛
+𝑖=1
+• Correlation Coefficient (r): This coefficient provides a measure of the linear relationship between the
+modeled variable and the observed one. The value of the coefficient varies in the interval [-1,1]. For the case
+of modeling, the closer it is to 1, the better the model's ability to represent the
+atmospheric conditions.
+𝑁
+1 (𝑀 −𝑀̅)(𝑂 −𝑂̅)
+𝑖 𝑖
+𝑟 = ∑
+(1−𝑛) 𝜎 𝜎
+𝑀 𝑜
+𝑖=1
+13
+N M
+ni=
+1
+A
+(
+E
+M
+=
+−
+i
+n
+ni=
+1
+(
+Or
+M
+)
+i
+−
+i
+Or
+n
+i
+Or
+i
+)
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Index of concordance (IOA): This corresponds to the revised index of concordance (Willmott et
+al. 2011). The value of the coefficient varies in the interval [-1,1], where 1 represents a model
+perfect, a value of 0.5 indicates that the sum of the error magnitudes is half the sum of
+the magnitudes of the observed deviations, generally an IOA greater than 0.5 indicates a
+model with good
+performance. A coefficient with a value of 0.0 indicates that the sum of the
+error magnitudes is equivalent to the sum of the magnitudes of the observed deviations and
+a value of -0.5 indicates that they are double.
+𝐼𝑂𝐴 =1.0− ∑𝑛 𝑖=1 |𝑀𝑖−𝑂𝑖 | when ∑𝑛 |𝑀 −𝑂| ≤ 𝑐∑𝑛 |𝑂 −𝑂̅|
+𝑐∑𝑛
+𝑖=1
+|𝑂𝑖−𝑂̅| 𝑖=1 𝑖 𝑖 𝑖=1 𝑖
+𝐼𝑂𝐴 =
+𝑐∑𝑛
+𝑖=1
+|𝑂𝑖−𝑂̅|
+−1.0 when ∑𝑛 |𝑀 −𝑂 | > 𝑐∑𝑛 |𝑂 −𝑂̅|
+∑𝑛
+𝑖=1
+|𝑀𝑖−𝑂𝑖 | 𝑖=1 𝑖 𝑖 𝑖=1 𝑖
+With c = 2.
+Below, the results are presented for the variables considered, for the stations that were
+listed in Table 4-5
+Table 4-5. Meteorological station coordinates
+UTM Datum Coordinates WGS 84 Zone 18S
+Monitoring station
+East North
+Kingston College 673,817 5,927,247
+North Colonel 664,628 5,902,487
+New Freedom 667,962 5,932,742
+Multipurpose High School 682,597 5,947,369
+Source: GAC.
+4.5.1 Wind speed
+Next, the analysis of wind speed in the four stations analyzed is presented.
+4.5.1.1 Kingston College
+Figure 4-6 presents the daily cycle of the modeled median hourly wind speed and
+observed along with the 5th and 95th percentiles of the data at the station point
+Kingston College weather forecast. In it, it can be seen that there is a certain level of correlation between the
+modeled and observed daily cycles but the model estimates systematically higher velocities than
+the measurements.
+14
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-6: Daily cycle of modeled and observed wind speed.
+Kingston College Station, year 2022.
+Source: GAC.
+The annual cycle of the observed and modeled median wind speed is presented in Figure 4-7.
+with the 5th and 95th percentiles at the Kingston College weather station, where it can be seen that the
+model systematically presents positive biases with respect to the data measured for all months
+of the year.
+15
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-7: Monthly cycle of modeled and observed wind speed.
+Kingston College Station, year 2022.
+Source: GAC.
+The graph in Figure 4-8 shows a good correlation between the observed wind speeds and
+modeled at the Kingston College meteorological station for speeds up to 6 m/s, since the
+scatterplot shows a somewhat skewed median with respect to the perfect model at that
+stretch, but with a marked positive bias between the modeled and measured velocity magnitudes. In
+the histogram it is possible to see that the highest frequency wind speeds in the model
+correspond to those between 1 m/s and 4 m/s, while for what was observed these correspond to the
+speeds between 0 m/s and 2 m/s.
+16
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-8: Conditional quantiles and histogram of observed and modeled wind speed. Station
+Kingston College, year 2022.
+Source: GAC.
+4.5.1.2 New Freedom
+Figure 4-9 presents the daily cycle of the modeled median hourly wind speed and
+observed along with the 5th and 95th percentiles of the data at the station point
+New Freedom weather forecast. In it, it can be seen that the model presents a good correlation
+with the data measured at the station, but negative biases occur, which are greater
+consideration during the early morning hours.
+17
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-9
+: Daily cycle of modeled and observed wind speed.
+Nueva Libertad Station, year 2022.
+Source: GAC.
+The annual cycle of the observed and modeled median wind speed is presented in Figure 4-10.
+with the 5th and 95th percentiles at the Nueva Libertad station, where a high correlation can generally be found
+It enters both cycles, but with a systematic negative bias in all months.
+18
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-10: Monthly cycle of modeled and observed wind speed.
+Nueva Libertad Station, year 2022.
+Source: GAC.
+The graph in Figure 4-11 shows in general a very high correlation between wind speeds
+observed and modeled at the Nueva Libertad meteorological station, the histograms are also very
+similar with the exception that the model presents a higher frequency of wind magnitudes of
+average magnitude (between 2 m/s and 4 m/s) with respect to the measured data.
+19
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-11: Conditional quantiles and histogram of observed and modeled wind speed. New Station
+Freedom, year 2022.
+Source: GAC.
+4.5.1.3 Colonel North
+Figure 4-12 presents the daily cycle of the modeled median hourly wind speed and
+observed along with the 5th and 95th percentiles of the data at the station point
+Colonel North weather forecast. In it, it can be seen that the daily cycle of the modeled data of
+wind speed presents a high correlation with the daily cycle of the measured data, but with
+a systematic positive bias for all hours of the day, this bias is a little larger during the hours
+of the night.
+20
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-12: Daily cycle of modeled and observed wind speed.
+Coronel Norte Station, year 2022.
+Source: GAC.
+The annual cycle of the observed and modeled median wind speed is presented in Figure 4-13.
+with the 5th and 95th percentiles at the Coronel Norte meteorological station, where it can be seen that although
+Both cycles present a high correlation, the model presents a systematic positive bias with respect to
+the data measured in all months of the year.
+21
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-13: Monthly cycle of modeled and observed wind speed.
+Coronel Norte Station, year 2022.
+Source: GAC.
+The graph in Figure 4-14 shows a high correlation between the observed wind speeds and
+modeled at the Coronel Norte meteorological station since the scatter diagram shows a
+median almost parallel to the 45-degree line, but with a marked positive bias between the magnitudes
+of the modeled and measured velocity. In the histogram it is possible to see in the frequencies of the
+wind magnitudes that the model presents a bias of 1-2 m/s in the frequencies per category of
+wind.
+22
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-14: Conditional quantiles and histogram of observed and modeled wind speed. Station
+Colonel North, year 2022.
+Source: GAC.
+4.5.1.4 Multipurpose High School
+In the F
+Figure 4-15 presents the daily cycle of the modeled median hourly wind speed and
+observed along with the 5th and 95th percentiles of the data at the station point
+Polyvalent High School meteorology. In it, it can be seen that the daily cycle of the modeled data of
+wind speed presents a high correlation with the daily cycle of the measured data but with
+a positive bias for almost all hours of the day.
+23
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-15: Daily cycle of modeled and observed wind speed.
+Liceo Polivalente Station, year 2022.
+Source: GAC.
+The annual cycle of the observed and modeled median wind speed is presented in Figure 4-16.
+with the 5th and 95th percentiles at the Liceo Polivalente meteorological station, where it can be seen that if
+Although both cycles present a high correlation, the model presents a systematic positive bias
+with respect to the data measured in all months of the year, but with a smaller amplitude of the magnitudes
+of wind speeds.
+24
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-16: Monthly cycle of modeled and observed wind speed.
+Liceo Polivalente Station, year 2022.
+Source: GAC.
+The graph in Figure 4-17 shows a high correlation between the observed wind speeds and
+modeled at the Liceo Polivalente meteorological station since the scatter diagram shows a
+median almost parallel to the 45 degree line. In the histogram it is possible to see that the frequencies of
+The magnitudes of the model wind speeds between 2 m/s and 4 m/s are greater than the
+observed.
+25
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-17: Conditional quantiles and histogram of observed and modeled wind speed. Lyceum Station
+Multipurpose, year 2022.
+Source: GAC.
+4.5.1.5 Performance Statisticians - Wind Speed
+Table 4-6 shows the averages and maximums of the wind speed together with the percentage
+of calms, observed and modeled for the four seasons. For Kingston College, Coronel stations
+North and Liceo polyvalente, a positive bias is observed with higher modeled average winds
+magnitude to those recorded at the monitoring stations. Furthermore, for the data modeled in the
+mentioned stations, lower percentages of calm (winds less than 0.5 m/s) are observed in
+comparison with the observed data. The new freedom station presents negative biases with winds
+modeled averages of lower magnitude and higher percentage of calm than the observed data.
+Table 4-6: Wind speed statistics.
+Kingston College Nueva Libertad Coronel Norte Polyvalent High School
+variable
+Observed Modeled Observed Modeled Observed Modeled Observed Modeled
+Average (m/s) 1.47 2.76 3.55 2.96 1.71 2.38 2.14 2.40
+Median (m/s) 1.30 2.57 3.42 2.72 1.33 2.09 1.99 2.29
+Maximum (m/s) 7.24 9.67 9.12 9.46 8.31 9.83 8.62 10.88
+26
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Kingston College Nueva Libertad Coronel Norte Polyvalent High School
+variable
+Observed Modeled Observed Modeled Observed Modeled Observed Modeled
+Percentage of
+calms 8.2% 1.2% 0.0% 1.5% 18.5% 5.2% 14.9% 1.9%
+Source: GAC.
+Table 4-7 shows the performance and comparison statistics of the data simulated by WRF.
+with respect to the data measured at meteorological stations
+logical. For the Kingston College station it is appreciated
+a normalized bias (SMN) of 88%, with a normalized mean absolute error (NMAE) of 98.4%, a
+adequate correlation (r) of 0.52 and a low agreement index of 0.10.
+For the Nueva Libertad station, a normalized bias (SMN) of -16.5% is observed, with an absolute error
+normalized mean (NMAE) of 30%, a correlation (r) of 0.65 and a high agreement index (greater than
+0.5) of 0.55.
+For the Coronel north station, a normalized bias (SMN) of 39.5% is observed, with an absolute error
+normalized mean (NMAE) of 57.2%, an adequate correlation (r) of 0.69 and a concordance index
+high (greater than 0.5) of 0.55.
+For the Liceo Polivalente north station, a normalized bias (SMN) of 11.5% is observed, with an error
+normalized mean absolute (NMAE) of 42.8%, an adequate correlation (r) of 0.64 and a
+high agreement (greater than 0.5) of 0.68.
+Table 4-7: Wind speed performance statistics. Year 2022.
+Station n Bias FAC2 BIAS MAE SMN NMAE RMSE r IOA
+Kingston College 8699 1.29 0.48 1.29 1.44 88.0% 98.4% 1.78 0.52 -0.10
+New Freedom 8713 -0.59 0.84 -0.59 1.07 -16.5% 30.2% 1.37 0.65 0.55
+North Colonel 8499 0.67 0.65 0.68 0.98 39.5% 57.2% 1.33 0.69 0.55
+Multipurpose High School 8564 0.25 0.71 0.25 0.92 11.5% 42.8% 1.18 0.64 0.68
+Source: GAC.
+According to the “Guide for the use of air quality models in the SEIA” (MMA, 2023), below
+indicate the comparison of the metrics for the quantitative analysis expected and obtained at the stations
+monitors mentioned above.
+Table 4-8: Comparison of Wind Speed ​​Performance Statisticians. Year 2022.
+Obtained Expected
+Station
+BIAS MAE RMSE r BIAS MAE RMSE r
+Kingston College 1.29 1.44 1.78 0.52
+New Freedom -0.59 1.07 1.37 0.65
+[-2.5;2.5] (m/s) ≤3 (m/s) ≤3.5 (m/s) >0.6
+Colonel North 0.68 0.98 1.33 0.69
+Multipurpose High School 0.25 0.92 1.18 0.64
+Source: Guide for the use of air quality models in the SEIA” (MMA,2023), GAC.
+From the previous table it is observed that the statisticians show a performance of the modeled data and
+Therefore, it provides the degree of confidence necessary for a good interpretation of the dispersion of the
+27
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+contaminants in the study area, being only the correlation coefficient (r) at the station
+Kingston College that does not comply with the statistic proposed by the Guide.
+4.5.2 Wind direction
+4.5.2.1 Kingston College
+Figure 4-18 shows the compass rose corresponding to the wind direction values.
+modeled and observed at the point corresponding to the Kingston College weather station. Both
+roses have in common the main components of winds, south-southwest (SSO) and southwest (SO) but the
+wind rose from measured directions presents greater variation than the modeled wind rose,
+showing a north-northwest (NNO) component that is almost not seen in the model.
+Figure 4-18: Observed and modeled wind rose in 2022.
+Kingston College Station.
+Observed Modeled
+Source: GAC.
+A polar graph indicating the frequency of data for wind deflection is presented in Figure 4-19.
+modeled in degrees with respect to the direction of the observed wind, that is, for 8760 hours of the year,
+obtains the difference (or delta) between the modeled and observed wind, also indicated in shades of red
+frequency of data with wind magnitudes overestimated with respect to what was observed and in shades of blue
+frequency of data with wind magnitudes underestimated with respect to what was observed. By way of
+28
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+explanation, a model with wind directions that perfectly coincide with what was observed
+would present a single northern component (0°) with a frequency of 100% in the exposed polar plot.
+The polar plot in Figure 4-19 shows a much higher frequency of burgundy data than
+blue, with a
+at frequency of data in white color not very high, indicating a low average bias
+positive between both series, the average delta of the modeled wind magnitude is 1.3 m/s with respect to the
+average of the observed magnitudes. Regarding wind directions, the observed data
+They have an average rotation of only 9.1 degrees clockwise, with a low frequency of
+wind directions with deviations greater than 45 degrees between measured and modeled data.
+Figure 4-19: Polar graph with deviation frequency between modeled and observed wind directions
+intervals of difference in wind speed magnitude. Kingston College Station. Year 2022.
+Source: GAC.
+Figure 4-20 and Figure 4-21 show the observed and modeled wind frequencies for different
+hours of the day, where it is possible to observe a high correlation between the modeled wind directions and
+most predominant observed winds, but with the exception of a north-northwest (NNO) wind component
+which is seen at almost all hours of the day in the measured data, while this does not exist for the
+modeled data.
+29
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-20: Daily cycle of observed wind direction. Kingston College Station. Year 2022.
+Source: GAC.
+30
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-21: Daily cycle of modeled wind direction. Kingston College Station. Year 2022.
+Source: GAC.
+Figure 4-22 and Figure 4-23 show that both the observed and modeled wind speeds present
+maximums during afternoon hours, which are more pronounced during the summer months, it is possible
+see that the model presents daily cycles according to month of the year very similar to those measured but a clear
+positive bias between the modeled and measured cycle. Seasonal cycles of wind vectors
+observed and modeled do not present major differences.
+31
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-22: Seasonal cycle of observed wind direction and speed.
+Kingston College Station. Year 2022.
+Source: GAC.
+32
+==================================================================================
+PAGE 40
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-23: Seasonal cycle of modeled wind direction and speed.
+Kingston College Station. Year 2022.
+Source: GAC.
+4.5.2.2 New Freedom
+Figure 4-24 shows the compass rose corresponding to the wind direction values.
+modeled and observed at the point corresponding to the Nueva Libertad meteorological station. The roses
+of observed and modeled winds present in common components of northwest wind (NW) and the great
+most other secondary components.
+33
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-24: Wind rose observed and modeled in 2022.
+New Liberty Station.
+Observed Modeled
+Source: GAC.
+The polar plot in Figure 4-25 shows a higher frequency of blue than burgundy tones, with a
+significant frequency of data in white, which indicates that there is average bias between both
+series of -0.6 m/s, on the other hand the observed data present an average rotation of -31.4 gr
+ados
+counterclockwise, but with a low frequency of deviations greater than 45 degrees.
+34
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-25: Polar graph with deviation frequency between modeled and observed wind directions
+intervals of difference in wind speed magnitude. New Liberty Station. Year 2022.
+Source: GAC.
+Figure 4-26 and Figure 4-27 show the observed and modeled wind frequencies for different
+hours of the day, where it is possible to observe a high correlation between the modeled wind directions and
+observed more predominant, but with some daytime rotation.
+35
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-26: Daily cycle of observed wind direction. New Liberty Station. Year 2022.
+Source: GAC.
+36
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-27: Daily cycle of modeled wind direction. New Liberty Station. Year 2022.
+Source: GAC.
+Figure 4-28 and Figure 4-29 show that both the observed and modeled wind speeds present
+maximums during afternoon hours, which are more pronounced during the summer months, it is possible
+see that the model presents daily cycles according to month of the year very similar to those measured but with the
+The main exception is that the modeled nighttime wind magnitudes are smaller than the measured ones.
+37
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-28: Seasonal cycle of observed wind direction and speed.
+New Liberty Station. Year 2022.
+Source: GAC.
+38
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-29: Seasonal cycle of modeled wind direction and speed.
+New Liberty Station. Year 2022.
+Source: GAC.
+4.5.2.3 Colonel North
+Figure 4-30 shows the compass rose corresponding to the wind direction values.
+modeled and observed at the point corresponding to the Coronel Norte station. The wind roses
+observed and modeled are similar but some rotation is observed between them.
+39
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-30: Observed and modeled wind rose in 2022.
+Colonel North Station.
+Observed Modeled
+Source: GAC.
+The polar plot in Figure 4-31 shows a higher frequency of burgundy than blue data, with
+a high frequency of data in white, which indicates an average bias between both series of 0.7
+m/s. Regarding wind directions, the observed data present an average rotation of 31.9
+degrees counterclockwise.
+40
+==================================================================================
+PAGE 48
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Concentrate
+Rare Earth
+Figure 4-31: Polar graph with deviation frequency between modeled and observed wind directions
+intervals of difference in wind speed magnitude. Colonel North Station. Year 2022.
+Source: GAC.
+Figure 4-32 and Figure 4-33 show the observed and modeled wind frequencies for different
+hours of the day, where it is possible to observe a high correlation between the modeled wind directions and
+most predominant observed, but with a certain rotation at all hours of the day, in addition the frequencies
+of winds with an easterly component (E) are lower in modeled data than in measured data.
+41
+==================================================================================
+PAGE 49
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-32: Daily cycle of observed wind direction. Colonel North Station. Year 2022.
+Source: GAC.
+42
+==================================================================================
+PAGE 50
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-33: Daily cycle of modeled wind direction. Colonel North Station. Year 2022.
+Source: GAC.
+Figure 4-34 and Figure 4-35 show that both the observed and modeled wind speeds present
+maximums during afternoon hours, which are more pronounced during the summer months, it is possible
+see that the model presents daily cycles according to month of the year very similar to those measured with the main
+exception of the daily wind magnitudes in summer months, where the model presents magnitudes
+of winds greater than the measured data. The seasonal cycles of observed wind vectors and
+modeled show great correlation but with some rotation in the vectors as mentioned in
+the previous images.
+43
+==================================================================================
+PAGE 51
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-34: Seasonal cycle of observed wind direction and speed.
+Colonel North Station. Year 2022.
+Source: GAC.
+44
+==================================================================================
+PAGE 52
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-35: Seasonal cycle of modeled wind direction and speed.
+Colonel North Station. Year 2022.
+Source: GAC.
+4.5.2.4 Multipurpose High School
+Figure 4-30 shows the compass rose corresponding to the wind direction values.
+modeled and observed at the point corresponding to the Liceo Polivalente station. The wind roses
+observed and modeled are similar, however the observed data rose shows a
+northeast component that the model fails to identify, while the latter identifies a frequency
+considerable south-southeast direction winds that are not shown in the observed rose.
+45
+==================================================================================
+PAGE 53
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-36: Observed and modeled wind rose in 2022.
+Polyvalent Lyceum Station.
+Observed Modeled
+Source: GAC.
+The polar plot in Figure 4-31 shows a higher frequency of burgundy than blue data, with
+a high frequency of data in white, which indicates an average bias between both series of 0.2
+m/s. Regarding wind directions, the observed data present an average rotation of 45.8
+degrees counterclockwise.
+46
+==================================================================================
+PAGE 54
+=====================================
+===========================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-37: Polar graph with deviation frequency between modeled and observed wind directions
+intervals of difference in wind speed magnitude. Polyvalent Lyceum Station. Year 2022.
+Source: GAC.
+Figure 4-32 and Figure 4-33 show the observed and modeled wind frequencies for different
+hours of the day, where it is possible to observe a high correlation between the modeled wind directions and
+most predominant observed, but as was observed in the wind roses, the data
+observed show a northeast component that the model cannot identify.
+47
+==================================================================================
+PAGE 55
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-38: Daily cycle of observed wind direction. Polyvalent Lyceum Station. Year 2022.
+Source: GAC.
+48
+==================================================================================
+PAGE 56
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-39: Daily cycle of modeled wind direction. Polyvalent Lyceum Station. Year 2022.
+Source: GAC.
+Figure 4-34 and Figure 4-35 show that both the observed and modeled wind speeds present
+maximums during afternoon hours, which are more pronounced during the summer months, it is possible
+see that the model presents daily cycles according to month of the year very similar to those measured.
+49
+==================================================================================
+PAGE 57
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-40: Seasonal cycle of observed wind direction and speed.
+Polyvalent Lyceum Station. Year 2022.
+Source: GAC.
+50
+==================================================================================
+PAGE 58
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-41: Seasonal cycle of modeled wind direction and speed.
+Polyvalent Lyceum Station. Year 2022.
+Source: GAC.
+4.5.3 Temperature
+4.5.3.1 Kingston College
+Figure 4-42 shows the daily cycle of the medians of the modeled and observed hourly temperatures.
+along with the 5th and 95th percentiles of the data at the Kingston College station point.
+In it you can see that the daily cycle presents a very high correlation between the observed data and
+modeled.
+51
+==================================================================================
+PAGE 59
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-42: Daily cycle of modeled and observed temperature,
+Kingston College station. Year 2022.
+Source: GAC
+Figure 4-43 shows the monthly cycle of observed and modeled temperature with the 5th percentiles.
+and 95 at the Kingston College station, where it is possible to see that the monthly temperature cycle
+estimated by the model presents a high correlation with respect to the observed data but with a
+seasonal amplitude somewhat greater than the observed data.
+52
+==================================================================================
+PAGE 60
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-43: Monthly cycle of modeled and observed temperature,
+Kingston College station, year 2022.
+Source: GAC
+The graph of
+dispersion of Figure 4-44 shows a very high correlation between the temperatures
+observed and modeled at Kingston College station with also very similar diagrams.
+53
+==================================================================================
+PAGE 61
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-44: Conditional quantiles and histogram of observed and modeled temperature, Kingston station
+College, year 2022.
+Source: GAC
+4.5.3.2 Colonel North
+Figure 4-45 shows the daily cycle of the medians of the modeled hourly temperature and
+observed together with the 5th and 95th percentiles of the data at the point corresponding to the Coronel station
+North. In it you can see that the daily cycles have a high correlation between them but it can be seen
+a greater daily thermal amplitude in the measured data than in the observed ones, which may indicate a
+higher level of urbanization in the real situation of the area with respect to the land use considered by
+the model, which is consistent with what was mentioned in the wind speed section.
+54
+==================================================================================
+PAGE 62
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-45: Daily cycle of modeled and observed temperature,
+Coronel Norte station. Year 2022.
+Source: GAC
+Figure 4-46 shows the monthly cycle of observed and modeled temperature with the 5th percentiles.
+and 95 at the Coronel Norte station, where it is possible to see that the estimated monthly temperature cycle
+the model presents a high correlation with the observed data but with a slight bias
+positive for all months, presenting a greater seasonal amplitude in the data measured with
+Regarding the modeled ones, the reason for this has the same explanation as the one mentioned in the cycles
+diaries.
+55
+==================================================================================
+PAGE 63
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-46: Monthly cycle of modeled and observed temperature,
+Coronel Norte station, year 2022.
+Source: GAC
+The scatter plot in Figure 4-47 shows a high correlation between the observed temperatures
+and modeled at the Coronel Norte station, but with a positive bias between the modeled data and
+measured, this positive bias is more noticeable for extreme values of temperatures.
+56
+==================================================================================
+PAGE 64
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-47: Conditional quantiles and histogram of observed and modeled temperature, Coronel station
+North, year 2022.
+Source: GAC
+4.5.3.3 Multipurpose High School
+Figure 4-48 shows the daily cycle of the medians of the modeled hourly temperature and
+observed together with the 5th and 95th percentiles of the data at the point corresponding to the Liceo station
+Multipurpose. In it you can see that the daily cycles have a high correlation between them, with a
+slight positive sense.
+57
+==================================================================================
+PAGE 65
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-48: Daily cycle of modeled and observed temperature,
+Liceo Polivalente station. Year 2022.
+Source: GAC
+Figure 4-49 shows the monthly cycle of observed and modeled temperature with the 5th percentiles.
+and 95 at the Liceo Polivalente station, where it is possible to see that the monthly temperature cycle
+estimated by the model presents a high correlation with respect to the observed data but with u
+n bias
+slightly positive for all months.
+58
+==================================================================================
+PAGE 66
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-49: Monthly cycle of modeled and observed temperature,
+Liceo Polivalente station, year 2022.
+Source: GAC
+The scatter plot in Figure 4-50 shows a high correlation between the observed temperatures
+and modeled at the Liceo Polivalente station, but with a positive bias between the modeled data and
+measured, this positive bias is more noticeable for extreme values of temperatures.
+59
+==================================================================================
+PAGE 67
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-50: Conditional quantiles and histogram of observed and modeled temperature, Liceo station
+Multipurpose, year 2022.
+Source: GAC
+4.5.3.4 Performance Statisticians - Temperature
+La 2, 0.84 and 0.73 and 0.84 and 0.68 for the Kingston College, Coronel Norte and Liceo polivalente stations
+respectively.
+Table 4-9 shows the average, median maximum and minimum observed and modeled temperature for the
+Kingston College station, Coronel Norte and multipurpose high school, where it is shown that for all
+seasons the model estimates temperatures slightly higher than those observed. On the other hand, the Table
+4-10 shows a high correlation coefficient (r) and agreement index, with values of 0.84 and 0.72,
+0.84 and 0.73 and 0.84 and 0.68 for the Kingston College, Coronel Norte and Liceo polivalente stations
+respectively.
+Table 4-9: Temperature statistics.
+Kingston College Coronel Norte Polyvalent Lyceum
+variable
+Observed Modeled Observed Modeled Observed Modeled
+Average (°C) 13.42 14.41 12.86 13.89 12.29 13.72
+Median (°C) 12.75 13.55 12.47 13.14 11.80 12.99
+60
+==================================================================================
+PAGE 68
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Maximum (°C) 32.52 35.13 31.02 33.80 32.07 33.61
+Minimum (°C) -0.48 3.26 0.20 1.29 -0.47 2.55
+Source: GAC
+Table 4-10: Performance statistics by temperature, Main station, observed and modeled data.
+Station n Bias FAC2 BIAS MAE SMN NMAE RMSE r IOA
+Kingston College 8699 1.88 0.97 1.02 2.26 7.6% 16.9% 3.01 0.84 0.72
+North Colonel 8096 1.39 0.94 1.08 2.19 8.4% 17.0% 3.02 0.84 0.73
+Multipurpose High School 8558 1.12 0.98 1.37 2.08 11.1% 17.0% 2.87 0.84 0.68
+Source: GAC
+According to the “Guide for the use of air quality models in the SEIA” (MMA, 2023), below
+indicate the comparison of the metrics for the quantitative analysis expected and obtained at the stations
+studied.
+Table 4-11: Comparison of Temperature Performance Statisticians. Year 2022.
+Obtained Expected
+Station
+BIAS MAE RMSE r BIAS MAE RMSE r
+Kingston College 1.02 2.26 3.01 0.84
+North Colonel 1.08 2.19 3.02 0.84 [-4;4] (°C) ≤4 (°C) ≤ 4.5 (°C) >0.8
+Multipurpose High School 1.37 2.08 2.87 0.84
+Source: Guide for the use of air quality models in the SEIA” (MMA,2023), GAC.
+From the previous table it is observed that the statisticians show good performance of the modeled data
+and therefore provides the degree of confidence necessary for a good interpretation of the dispersion of the
+pollutants in the study area.
+4.5.4 Mixture layer height in modeled area
+Next, a qualitative analysis of the seasonal and hourly behavior of the height of
+mixture layer modeled with the WRF model, a qualitative analysis is carried out since there is no data
+measured for said parameter. Figure 4-51, Figure 4-52, Figure 4-53 and Figure 4-54 show the daily profile
+average per month of the year of the modeled mixture layer height in the cell where it is in each
+of the seasons. It can be seen that the daily maximums for all months are reached between
+11:00 and 14:00 hours, reaching an average daily maximum of about 800 meters in height between the months
+from october to feb
+rero. There is a relatively low seasonal amplitude in the four seasons,
+typical of a coastal area, Nueva Libertad presenting a somewhat atypical seasonal behavior which
+It may be due to the complex geomorphological situation where said station is located. You can
+Note that the mixed layer height rises earlier and falls later during the winter months.
+summer, while in the winter months the mixture layer is maintained for more hours at levels
+low, mainly due to the fact that daylight hours are shorter in winter. The temporal variation
+61
+==================================================================================
+PAGE 69
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+of the modeled mixing layer height, both seasonal and hourly, presents a typical pattern of this
+parameter.
+Figure 4-51: Daily cycle modeled mixing layer height.
+Kingston College Station. Year 2022.
+Source: GAC
+62
+==================================================================================
+PAGE 70
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-52: Daily cycle modeled mixing layer height.
+New Liberty Station. Year 2022.
+Source: GAC
+Figure 4-53: Daily cycle modeled mixing layer height.
+Colonel North Station. Year 2022.
+Source: GAC
+63
+==================================================================================
+PAGE 71
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-54: Daily cycle modeled mixing layer height.
+Polyvalent Lyceum Station. Year 2022.
+Source: GAC
+4.5.5 Meteorological model conclusions
+In relation to the uncertainty analysis of the WRF meteorological model, the performance for the estimation
+of winds was evaluated in four stations and for temperature in three stations, in order to cover
+an important area of the modeling domain. The Kingston College station, 3.4 kilometers away, was analyzed
+southwest of the Project, the Liceo Polivalente station 15.9 kilometers north of the Project, the station
+Nueva Libertad located 10.1 kilometers west of the Project and the Coronel Norte station located 28.6 kilometers west of the Project.
+kilometers southwest of the Project.
+For Kingston College there is a correlation (r) of 0.52 and a medium agreement index (between 0 and
+0.5) out of 0.10. In the case of Nueva Libertad, a better performance of the model is shown, a correlation
+(r) of 0.65 and a high agreement index (greater than 0.5) of 0.55. For the Coronel north station,
+observes a correlation (r) of 0.69 and a high agreement index (greater than 0.5) of 0.55. Lastly
+In Liceo polyvalente, a correlation (r) of 0.64 and a high concordance index of 0.68 is shown. all
+The wind magnitude statisticians comply with the values recommended in the update of the
+Guide to the use of air quality models in the SEIA, with the exception of the Kingston College model which
+is slightly lower than 0.6.
+64
+==================================================================================
+PAGE 72
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The three stations present good agreement between modeled and measured wind direction data.
+wind and the Kingston College and Coronel Norte stations present good performance in temperatures
+modeled with respect to measured data. All temperature statisticians comply with the values
+recommended in the update of the Guide to the use of air quality models in the SEIA.
+Finally, the behavior of the average mixing layer height was qualitatively analyzed.
+hourly per month of the year, qualitatively since there are no measured data of the parameter, which presents
+a satisfactory estimated behavior with respect to the daily and seasonal cycle of said parameter
+three one
+coastal area.
+65
+==================================================================================
+PAGE 73
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4.6 Air quality standards
+Table 4-12 presents the current primary air quality regulations to be evaluated in the framework.
+of the Project and in Table 4-13 the secondary regulations.
+Table 4-12. Primary air quality standards.
+Standard Evaluation Period
+Pollutant Applicable Decree
+Value Unit Standard Compliance
+98th percentile of
+50
+Particulate Matter Supreme Decree 24-hour concentrations
+μg/m3
+Fine Breathable (MP2.5) N°12/2011
+20 Annual concentration
+98th percentile of
+Particulate Matter 130
+Supreme Decree No. 12/21 μg/m3N 24-hour concentrations
+Breathable (MP10)
+50 Annual concentration
+99th percentile of maximums
+30 daily concentration of 1
+Supreme Decree time
+Carbon Monoxide (CO) mg/m3N
+N°115/2002 99th percentile of maximums
+10 daily concentration of 8
+hours
+99th percentile of maximums
+Nitrogen Dioxide Supreme Decree 400 daily concentration of 1
+μg/m3N
+(NO2) N°114/2002 hour
+100 Annual concentration
+98.5th percentile of
+350
+1 hour concentrations.
+Supreme Decree
+Sulfur Dioxide (SO2) μg/m3N 99th percentile of
+N°104/2019 150
+24 hour concentrations
+60 Annual concentration
+Source: GAC.
+Table 4-13. Secondary air quality standards
+Standard Evaluation period
+Pollutant Applicable Decree
+Value Unit compliance with standard
+Particulate matter Reference standard -
+200 mg/m² day Annual average concentration
+sedimentable (MPS) Swiss confederation
+160 Annual average
+Sulfur dioxide (SO 2 ) DS 22/2009 MINSEGPRES μg/m3N 99.7th percentile of the
+730
+24 hr concentrations
+66
+==================================================================================
+PAGE 74
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Standard Evaluation period
+Pollutant Applicable Decree
+Value Unit compliance with standard
+99.73rd percentile
+1000
+1 hr concentrations
+Source: GAC
+67
+==================================================================================
+PAGE 75
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4.7 Air quality baseline
+4.7.1 Stations
+The air quality monitoring station with which public monitoring information is available
+of quality updated in the Project area, with data from January 2020 to December of the year
+2022, correspond to the Kingston College station, located in the Biobío Region.
+The station location coordinates are presented in Table 4-14, along with the contaminants and
+measurement period for each one.
+Table 4-14. Characterization of Air Quality Monitoring Stations.
+Station UTM Coordinates Measured Pollutants with Data Period Information
+from (Datum WGS84) Available Available by
+Monitoring East (m) North (m) Pollutant
+Fine Respirable Particulate Matter (MP2.5)
+Respirable Particulate Matter (MP10) January 1, 2020
+Kingston
+673,817 5,927,247 Carbon Monoxide (CO) as of December 31,
+College
+Nitrogen Dioxide (NO) 2022
+2
+Sulfur Dioxide (SO)
+2
+Source: GAC.
+Figure 4-49 shows the location of the air quality monitoring station with respect to the
+project location area and with respect to the meteorological modeling domain.
+68
+==================================================================================
+PAGE 76
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-1. Location of air quality monitoring station.
+Source: GAC.
+The results of the baseline of
+air quality.
+69
+==================================================================================
+PAGE 77
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 4-15. Baseline Summary Primary Air Quality. Period January 2020 to December 2022.
+Kingston College
+Pollutant Statistician Standard Unit
+Value % Norm
+P98 24h 50 μg/m3 53 41%
+MP2.5
+Annual 20 μg/m3 25 50%
+P98 24h 130 μg/m3N 38 75%
+MP10
+Annual 50 μg/m3N 13.8 69%
+P99 1h 30,000 µg/m3N 3,600 12%
+C.O.
+P99 8h 10,000 µg/m3N 1,400 14%
+P99 1h 400 μg/m3N 19.1 5%5
+NO2
+Annual 100 μg/m3N 7.5 8%
+P99 1h 350 μg/m3N 9.5 3%
+SO2 P99 24h 150 μg/m3N 6.5 4%
+Annual 60 μg/m3N 2.7 5%
+Source: GAC.
+Table 4-16. Secondary Air Quality Baseline Summary. Period January 2020 to December 2022.
+Kingston College
+Pollutant Statistician Standard Unit
+Value % Norm
+P99.73 1h 1000 μg/m3N 15.5 2%
+SO2 P99 24h 365 μg/m3N 7.3 2%
+Annual 80 μg/m3N 2.7 3%
+Source: GAC.
+70
+==================================================================================
+PAGE 78
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+5 AIR QUALITY MODEL
+5.1 Air quality model justification
+In accordance with the provisions of the Guide for the use of Air Quality Models in the SEIA, second
+edition, the selection of the Air Quality model is based on the complex topography of the area where it is
+location of the project and the scope of the emissions. For this reason, the model used was a type model
+“Puff” as it is CALPUFF.
+5.2 Air quality model description
+The simulation of the project's contribution to pollutant concentrations will be carried out using the
+CALPUFF model, recommended in the Guide for the use of Air Quality Models in the SEIA, second
+edition.
+CALPUFF is an advanced modeling system for air quality that also considers the
+non-permanent meteorology. Its development was carried out by the “Sigma Research Corporation”,
+while its current maintenance is the responsibility of Exponent17. Due to its performance,
+CALPUFF was listed by the USEPA as a recommended model for evaluating the impact on
+air quality of different types of projects, especially those where it is necessary to consider the
+variation in time and space of meteorological conditions and their impact on transportation,
+transformation and removal of contaminants.
+The modeling system is composed of the following main components:
+▪ CALMET: is a meteorological model that generates hourly three-dimensional wind fields, in
+based on surface records and height profile. Additionally, the outputs of this model deliver
+information in the modeling domain about mixing layer heights, characteristics
+surface and dispersion properties.
+▪ CALPUFF: corresponds to a Lagrangian-Gaussian model of transport and dispersion of puffs
+or “puff” emitted by the sources considered by the project. In this way, from the
+emissions and meteorology information provided, the program simulates the process of
+dispersion and transformation of contaminants, in a validity range from meters to
+hundreds of kilometers.
+▪ CALPOST: is a program used for post-processing the results obtained in the
+CALPUFF modeling, allowing the concentrations in the receptors to be calculated according to the
+averages required by each standard. In addition, it is capable of managing the data of each
+17 www.src.com/calpuff/calpuff1.htm
+71
+==================================================================================
+PAGE 79
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+contaminant according to the required period of time, ordering the maximum concentrations
+obtained and identifying the moment in which each of these occur (hour, day, month and year).
+Within the capabilities of the modeling system, the following points stand out:
+▪ Allows modeling long-range transportation (up to 200 km).
+▪ Simulates complex meteorological processes such as: very low wind speeds,
+stagnation, fumigation
+tion and recirculation.
+▪ It is capable of incorporating effects due to proximity to the coastline or due to topography
+complex.
+▪ Simultaneously models contaminants from sources of various types that modify their level of
+activity over time.
+▪ Allows differentiation between inert contaminants and those that undergo transformations
+of first order.
+The model on this occasion was used with the Rivad/Isorropia chemical mechanism (mech=6 in CALPUFF), this
+mechanism estimates the proportion between NO and NO and also nitrates (NO) and sulfates (SO), these
+2 3 4
+were added to the PM10 and PM2.5 concentrations estimated by the model.
+It is worth mentioning that the CALMET meteorological model was not used, because the information from
+meteorological records was used to perform the uncertainty analysis of the meteorological model.
+For this reason, the meteorology modeled by the WRF meteorological model corresponding to the year 2021,
+It was processed in MMIF v4 to be entered into the CALPUFF dispersion model directly.
+72
+==================================================================================
+PAGE 80
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6 RECEIVERS
+6.1 Discrete receivers
+The receivers to evaluate correspond to 29 discrete receivers. The coordinates of the entire
+The receptors of interest are presented in Table 6-1, and the location of each is presented in Figure 6-1.
+one of them. The R_25 receiver corresponds to the Kingston air quality monitoring stations
+College, and the rest to recipients of interest.
+Considering the guidelines indicated in the Guide for the use of Air Quality Models in the SEIA,
+second edition, the indicated recipients were considered in the evaluation of other projects that
+They have favorable RCA in the area of influence of the Project, and they have not yet been executed. The detail
+of these projects and the recipients considered are presented in point 7.1.1.
+Table 6-1. Interest Recipients defined for modeling
+UTM-WGS84-H18
+Receiver Description
+X (m) Y (m)
+R_1 1-story house, located next to Las Pataguas road. 680,390 5,932,896
+R_2 2-story house located next to Route O-390. 680,671 5,932,437
+R_3 Forest property entrance, located on the interior road to Route O-390. 681,441 5,932,015
+R_4 Complex of 1-story homes, located on the internal road to Route O-390 682,281 5,932,438
+R_5 1-story house, located on the interior road to Route O-390. 682,315 5,932,496
+R_6 Complex of 1-story homes, located on the internal road to Route O-390 682,568 5,932,367
+1-story house and restaurant "Donde Zulema", located next to
+R_7 683,019 5,932,079
+Route O-390.
+R_8 1-story house, located next to Route O-390. 683,194 5,932,076
+R_9 1-story house, close to Landfill 681,918 5,928,825
+R_11 1-story house, located on an interior road. 681,359 5,929,460
+R_12 Complex of 1 and 2-story homes, located on Calle Los Castaños N°34. 678,898 5,930,509
+R_13 Complex of 1 and 2-story homes, located on Calle Los Cipreses N°5. 679,093 5,930,752
+R_14 1-story house, located on Miramar street N°990. 679,242 5,931,249
+CESFAM Penco health center 2 floors, located on Acceso a Fundo street
+R_15 679,442 5,931,734
+Copihueco.
+R_16 Flora receptor 681,434 5,931,695
+R_17 Motel El Conquistador 677,098 5,928,598
+R_18 Flora receptor (BNP) with the presence of Queule or Pitao 682,501 5,931,908
+R_19 Flora receptor (BNP) with the presence of Queule or Pitao 681,537 5,931,092
+R_20 Flora receptor (BNP) with the presence of Queule or Pitao 682,294 5,930,369
+R_21 Flora receptor (BNP) with the presence of Queule or Pitao 682,116 5,930,099
+R_22 Flora receptor (BNP) with the presence of Queule or Pitao 682,031 5,929,949
+R_23 Flora receptor (BNP) with the presence of Queule or Pitao 680,729 5,928,975
+R_24 Flora receptor (BNP) with the presence of Queule or Pitao 681,225 5,929,512
+73
+==================================================================================
+PAGE 81
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+UTM-WGS84-H18
+Receiver Description
+X (m) Y (m)
+R_25 AC Station Kingston College 673,817 5,927,247
+R_28 1-story house, located on an interior road. 681,309 5,929,511
+Uninhabited one-story wooden building, located southeast of the
+R_29 681,935 5,928,791
+sanitary landfill
+Gatehouse and entry control to the current access road to the landfill
+R_30 677,118 5,928,271
+sanitary
+The Park Motel. Located on the side of the current access road to the
+R_31 677,266 5,928,175
+sanitary landfill
+R_32 1-story house, located on an interior road. 681,315 5,929,568
+Source: GAC.
+Figure 6-1. Location of the receptors of interest defined for modeling.
+Source: GAC.
+74
+==================================================================================
+PAGE 82
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6.2 Grid receivers
+For modeling, a grid of receivers was generated with a spatial resolution of 1,000 × 1,000 meters,
+resolution consistent with the resolution of the meteorological model, with an extension of 42 × 38 km.
+Finally, the modeling area considered and the receptor grid are seen in Figure 6-2. A
+From these receptors, isoconcentration maps are generated for each of the contaminants.
+analyzed.
+For the estimated contribution of respirable particulate matter and gases, they were identified and defined
+as discrete receptors within the model, the sites with the closest population presence, therefore
+Therefore, any contribution to air quality at greater distances will be lower than that estimated for these points,
+which are of low magnitude. The receptors identified as R_12, R_13, R_14 and R_15 correspond
+to the populated sector closest to the urban area of Penco. However, following the recommendation of the
+Guide for the use of Air Quality Models in the SEIA, second edition, one more grid was defined
+fine line of receivers in the urban area of Penco, 200 meters.
+Figure 6-2. Receiver Grids
+Source: GAC.
+75
+==================================================================================
+PAGE 83
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7 EMISSION SOURCES
+As presented in Annex 1-3 Estimation of atmospheric emissions, emissions were estimated
+for the construction, operation and closure phase of the Project, obtaining emissions for each source,
+pollutant and year of execution. Table 7-1 presents the annual emissions for each phase of the Project.
+Table 7-1. Annual emissions per pollutant
+Phase Year MPS MP10 MP2.5 NOx CO SO2 NH3 VOC
+1 100.84 35.43 11.45 73.40 51.71 0.28 0.04 6.41
+Construction
+2 63.74 20.86 5.60 44.46 31.54 0.22 0.03 3.98
+3 273.59 77.32 11.98 24.83 39.02 0.21 0.05 3.31
+4 309.55 87.50 13.41 26.35 40.79 0.22 0.05 3.45
+5 354.04 101.15 14.94 26.87 40.56 0.22 0.05 3.43
+Operation
+6 383.29 110.27 16.11 27.70 41.91 0.23 0.05 3.54
+7 371.71 106.26 15.31 22.98 22.18 0.14 0.03 2.01
+8 242.42 69.39 9.87 18.19 15.98 0.11 0.02 1.53
+Closing 9 44.60 14.05 3.98 28.52 10.98 1.52 0.01 2.72
+As seen in Table 7-1, the highest emissions were estimated for year 6 of the Project, which
+corresponds to year 4 of the operation phase. Considering that all phases will have the same type of
+emitting sources, and the emissions will be generated in the same sectors, the year of
+higher emissions as the most unfavorable scenario to evaluate the project's contributions in terms
+of air quality.
+Table 7-2 summarizes the emissions entered into the model, which correspond to emissions per
+emitting source from year 4 of the Project operation phase (year 6 of the Project).
+Table 7-2 Summary of emissions incorporated into the model (year 4 of operation).
+Emitting source MP30 MP10 MP2.5 NOx CO SO2 NH3 VOC
+Escarpment 0.00 0.00 0.00
+Excavations 28.17 8.07 2.96
+Compaction 1.19 0.34 0.12
+Leveling 1.57 0.46 0.05
+Movement of Materials 0.41 0.19 0.03
+Unpaved Roads 286.24 87.62 8.76
+Paved Roads 64.51 12.38 3.00
+Combustion gases Vehicles 0.07 0.07 0.07 11.90 0.33 0.02 0.01 0.03
+Machinery 1.08 1.08 1.08 14.94 41.38 0.17 0.05 3.45
+Generators 0.04 0.04 0.04 0.86 0.20 0.03 0.00 0.05
+Total 383.29
+110.27 16.11 27.70 41.91 0.23 0.05 3.54
+76
+==================================================================================
+PAGE 84
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-1 shows the location of the considered emission sources within the domain of
+modeling, which considers all activities within the project site sector, and the
+Access roads, for transporting inputs, waste and products.
+Figure 7-1. Emission sources entered into the model
+Source: GAC.
+77
+==================================================================================
+PAGE 85
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.1 Analysis of modeling results
+7.1.1 Modeled input
+Next, the contributions of the modeled scenario in the discrete receivers are presented,
+corresponding to year 4 of the operation phase, considering the quality standards statisticians
+MP10, MP2.5, NO, SO and CO applicable. It should be remembered that both the MP10 and the MP2.5 estimated by the
+2 2
+model considers the formation of nitrates (NO) and sulfates (SO) from oxide emissions
+3 4
+of nitrogen (NOx) and sulfur dioxide (SO) respectively. Table 7-3 indicates the contributions in each
+2,
+receptor and the estimated contribution at the point of maximum impact (PMI), together with the coordinates of the point.
+Table 7-4 presents the percentage contributions in each recipient with respect to each of the standards.
+primary air quality. The modeling files are presented in Appendix 4-1.1 of the EIA.
+Table 7-3. Estimated contributions in recipients.
+MP10 (µg/m³) MP2.5 (µg/m³) SO2 (µg/m³) NO2 (µg/m³) CO (µg/m³)
+receipt
+r Annual P98 24h Annual P98 24h Annual P99 24h P99 1h Annual P99 1h P99 8h P99 1h
+R_1 0.34 1.19 0.09 0.28 0.00 0.00 0.01 0.17 3.53 3.21 7.49
+R_2 0.40 1.25 0.10 0.32 0.00 0.00 0.01 0.20 3.28 3.16 5.35
+R_3 0.84 4.38 0.19 0.90 0.00 0.01 0.04 0.35 8.38 11.65 19.51
+R_4 0.46 2.34 0.12 0.56 0.00 0.01 0.03 0.21 10.60 13.69 26.53
+R_5 0.44 2.18 0.11 0.52 0.00 0.01 0.02 0.20 9.77 12.57 23.36
+R_6 0.37 1.65 0.10 0.42 0.00 0.01 0.02 0.18 8.33 13.94 23.41
+R_7 0.24 1.02 0.06 0.25 0.00 0.00 0.01 0.12 5.27 9.88 19.63
+R_8 0.20 0.78 0.05 0.22 0.00 0.00 0.01 0.10 3.21 8.56 17.43
+R_9 1.05 4.82 0.24 1.14 0.00 0.01 0.03 0.47 26.94 7.07 23.77
+R_11 3.94 23.58 0.80 4.70 0.01 0.05 0.10 1.47 60.06 26.64 66.03
+R_12 0.40 1.41 0.12 0.35 0.00 0.00 0.01 0.26 5.24 4.50 14.06
+R_13 0.44 1.36 0.13 0.36 0.00 0.00 0.01 0.29 5.19 4.00 13.68
+R_14 0.37 1.24 0.11 0.35 0.00 0.00 0.01 0.23 5.50 4.30 11.16
+R_15 0.37 1.53 0.11 0.40 0.00 0.00 0.01 0.20 5.88 4.57 10.99
+R_17 0.27 1.26 0.05 0.27 0.00 0.00 0.00 0.07 1.93 1.75 4.69
+R_25 0.03 0.23 0.01 0.07 0.00 0.00 0.00 0.01 0.53 0.68 1.11
+R_28 3.93 23.47 0.77 4.48 0.01 0.05 0.10 1.35 55.29 28.65 69.20
+R_29 0.99 4.44 0.22 1.07 0.00 0.01 0.03 0.45 23.85 6.68 22.86
+R_30 0.87 3.65 0.12 0.47 0.00 0.00 0.00 0.15 2.31 1.55 3.87
+R_31 0.42 2.25 0.06 0.31 0.00 0.00 0.00 0.08 1.72 1.67 4.00
+R_32 4.18 25.47 0.80 4.75 0.01 0.05 0.10 1.36 53.85 28.66 66.83
+PMI 10.07 37.50 2.77 8.57 0.04 0.15 0.31 4.21 75.70 114.46 245.00
+PMI
+682,436 681,550 682,577 682,577 680,523 680,523 680,523 680,523 680,523 680,523 680,523
+(UTM X)
+MPI 5,931.44 5,930.39 5,931.37 5,931.37 5,929.41 5,929.41 5,929.41 5,929.41 5,929.41 5,929.41 5,929.41
+(UTM Y) 8 4 4 4 3 3 3 3 3 3 3
+Source: GAC.
+78
+==================================================================================
+PAGE 86
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-4. Estimated percentage contributions in receptors with respect to primary air quality standards.
+MP10 (%) MP2.5 (%) SO2 (%) NO2 (%) CO (%)
+Receiver
+Annual P98 24h Annual P98 24h Annual P99 24h P99 1h Annual P99 1h P99 8h P99 1h
+R_1 0.7% 0.9% 0.5% 0.6% 0.0% 0.0% 0.0% 0.2% 0.9% 0.0% 0.0%
+R_2 0.8% 1.0% 0.5% 0.6% 0.0% 0.0% 0.0% 0.2% 0.8% 0.0% 0.0%
+R_3 1.7% 3.4% 1.0% 1.8% 0.0% 0.0% 0.0% 0.3% 2.1% 0.1% 0.1%
+R_4 0.9% 1.8% 0.6% 1.1% 0.0% 0.0% 0.0% 0.2% 2.6% 0.1% 0.1%
+R_5 0.9% 1.7% 0.5% 1
+.0% 0.0% 0.0% 0.0% 0.2% 2.4% 0.1% 0.1%
+R_6 0.7% 1.3% 0.5% 0.8% 0.0% 0.0% 0.0% 0.2% 2.1% 0.1% 0.1%
+R_7 0.5% 0.8% 0.3% 0.5% 0.0% 0.0% 0.0% 0.1% 1.3% 0.1% 0.1%
+R_8 0.4% 0.6% 0.3% 0.4% 0.0% 0.0% 0.0% 0.1% 0.8% 0.1% 0.1%
+R_9 2.1% 3.7% 1.2% 2.3% 0.0% 0.0% 0.0% 0.5% 6.7% 0.1% 0.1%
+R_11 7.9% 18.1% 4.0% 9.4% 0.0% 0.0% 0.0% 1.5% 15.0% 0.3% 0.2%
+R_12 0.8% 1.1% 0.6% 0.7% 0.0% 0.0% 0.0% 0.3% 1.3% 0.0% 0.0%
+R_13 0.9% 1.0% 0.7% 0.7% 0.0% 0.0% 0.0% 0.3% 1.3% 0.0% 0.0%
+R_14 0.7% 1.0% 0.5% 0.7% 0.0% 0.0% 0.0% 0.2% 1.4% 0.0% 0.0%
+R_15 0.7% 1.2% 0.5% 0.8% 0.0% 0.0% 0.0% 0.2% 1.5% 0.0% 0.0%
+R_17 0.5% 1.0% 0.3% 0.5% 0.0% 0.0% 0.0% 0.1% 0.5% 0.0% 0.0%
+R_25 0.1% 0.2% 0.0% 0.1% 0.0% 0.0% 0.0% 0.0% 0.1% 0.0% 0.0%
+R_28 7.9% 18.1% 3.9% 9.0% 0.0% 0.0% 0.0% 1.3% 13.8% 0.3% 0.2%
+R_29 2.0% 3.4% 1.1% 2.1% 0.0% 0.0% 0.0% 0.4% 6.0% 0.1% 0.1%
+R_30 1.7% 2.8% 0.6% 0.9% 0.0% 0.0% 0.0% 0.2% 0.6% 0.0% 0.0%
+R_31 0.8% 1.7% 0.3% 0.6% 0.0% 0.0% 0.0% 0.1% 0.4% 0.0% 0.0%
+R_32 8.4% 19.6% 4.0% 9.5% 0.0% 0.0% 0.0% 1.4% 13.5% 0.3% 0.2%
+Source: GAC.
+The estimated contributions for the receptors of interest and air quality stations, in most of the
+receptors, correspond to values less than 5% of the respective air quality standards. The
+contributions are consistent with the distance between the evaluated emission sources and the
+identified recipients, because the project is distant from the sectors with the greatest
+population density. The recipient where the greatest contributions are estimated corresponds to the recipient
+R_32, which is very close to an internal road of the Project. In the receiver R_32 the contribution of
+MP10 for the daily norm reaches 19.6% of the norm, while for the annual norm the value reaches
+8.4%.
+The contributions of MPS and SO for secondary standards were evaluated flora receptors, which
+2
+Most of them correspond to representative points of sectors with the presence of native forest of
+preservation (BNP). The estimated contributions in the defined discrete receptors and the PMI are presented in
+Table 7-5 and Table 7-6, for MPS and SO respectively. It is important to note that the PMI is
+2
+It is located outside the sectors identified with the presence of native preservation forest.
+79
+==================================================================================
+PAGE 87
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-5. MPS contributions
+Annual average % compared to norm
+Receiver
+(mg/m² day) (200 mg/m² day)
+R_16 8.28 4.1%
+R_18 0.78 0.4%
+R_19 19.28 9.6%
+R_20 5.89 2.9%
+R_21 18.80 9.4%
+R_22 17.22 8.6%
+R_23 22.34 11.2%
+R_24 14.16 7.1%
+PMI 81.30 40.7%
+PMI (UTM X) 681,529
+MPI (UTM Y) 5,929,391
+Source: GAC
+Table 7-6. Secondary standard SO2 contributions
+SO (µg/m³) SO (% with respect to standards)
+2 2
+Receiver Annual P99.7 24h P99.73 1h Annual P99.7 24h P99.73 1h
+R_16 0.01 3.60E-02 1.45E-01 0.0% 0.0% 0.0%
+R_18 0.00 1.90E-02 5.26E-02 0.0% 0.0% 0.0%
+R_19 0.02 1.32E-01 3.69E-01 0.0% 0.0% 0.0%
+R_20 0.01 5.70E-02 1.87E-01 0.0% 0.0% 0.0%
+R_21 0.01 9.78E-02 3.80E-01 0.0% 0.0% 0.0%
+R_22 0.01 1.37E-01 5.07E-01 0.0% 0.0% 0.1%
+R_23 0.01 8.05E-02 2.66E-01 0.0% 0.0% 0.0%
+R_24 0.01 5.40E-02 1.67E-01 0.0% 0.0% 0.0%
+PMI 0.04 1.73E-01 5.07E-01 0.0% 0.0% 0.1%
+PMI (UTM X) 681,529 681,529 682,031
+MPI (UTM Y) 5,929,391 5,929,391 5,929,948
+As indicated in Table 7-6, the contributions of SO2 are practically zero, reaching contributions of
+0.1% of reference standards.
+Regarding the contributions of MPS, as indicated in Table 7-5, the contributions on BNP sectors with
+presence of Queule and Pitao reach a maximum of 11.2% of the reference norm. At the maximum point
+impact, the estimated contribution reaches 40.7% of the reference standard, which corresponds to a sector without
+presence of BNP.
+It is important to note that the estimated contributions are conservative, because the contribution of
+MPS estimated by the model does not consider the effect of rainfall on the MPS deposited in the vegetation.
+80
+==================================================================================
+PAGE 88
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+As concluded in the study18 “Accumulation of particulate matt
+er and trace elements on vegetation
+as affected by pollution level, rainfall and the passage of time Accumulation of particulate matter and trace
+elements on vegetation as affected by pollution level, rainfall and the passage of time”, between 30% and
+40% of the particulate matter present in leaves can be washed away by rain, mostly
+coarse particulate matter.
+Finally, as seen in point 7.3 Maps of spatial concentration gradients
+(isoconcentrations), the contributions in the urban area of Penco, where a fine grid was generated,
+are equal to or less than those estimated in the point receptors R_12, R_13, R_14 and R_15, therefore
+that no contributions greater than those evaluated will be generated in these recipients within the urban area of
+Penco.
+18
+http://dx.doi.org/10.1016/j.scitotenv.2014.02.072
+81
+==================================================================================
+PAGE 89
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.1.1 Total concentrations
+Total concentrations are estimated considering the measured baseline, plus the contributions
+estimated by other projects that have a favorable RCA, but that have not been executed,
+plus the estimated contributions of the Project under evaluation. The following equation summarizes the methodology for
+calculate projected air quality.
+CAP = LdB + OP + AP
+where
+CAP: corresponds to the projected air quality.
+LdB: corresponds to the current baseline.
+OP: corresponds to the contribution of other projects that have favorable RCA, but that are not found
+executed.
+AP: corresponds to the contribution of the Project.
+Contribution from other projects
+The projects that have a favorable RCA in the Project location area were obtained
+from the SEA website, while its current state of execution was obtained from the information
+available in the National Environmental Control Information System (SNIFA), of the
+Environment Superintendence. Table 7-7 summarizes the identified projects, their status
+execution, and subsequently the availability of air quality modeling is indicated in its evaluation
+to be considered in the projection of the baseline.
+Table 7-7. Projects with favorable RCA
+Current Phase Date
+Project ID Holder Presentation
+Qualification (SNIFA)
+Bio Energy Los Pinos
+1 Los Pinos Bio Energy Plant DAY 02-19-2018 Construction
+SpA
+Real Estate Sources
+2 Fuentes de Piedra Condominium DIA 04-08-2019 Operation
+Stone Spa
+Crematorium Parque del Sendero de Inmobiliaria parks
+3 DAY 08-05-2019 YES
+Concepción y Jardíns S.A.
+Loteo, Lot 1, Reserva Norte, Inmobiliaria Gestora
+4 DAY 04-22-2019 Construction
+Las Ulloas Valmar Limita Farm
+Cerro Portuaria Lirquén RIL Plant Improvement
+5 DAY 10-25-2021 YES
+Verde, Puerto Lirquén S.A.
+Operational Continuity Center
+6 CEMARC SA EIA 04-12-2023 Construction
+Concepción Waste Management
+YES: no information
+82
+==================================================================================
+PAGE 90
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Of the projects indicated in Table 7-7.
+- The project identified with ID 2 does not evaluate contributions in defined recipients, but does so at
+different distances from the project.
+- The project with ID 4 evaluates its construction phase, which corresponds to the phase it is in
+at present.
+- The project with ID 5 evaluates does not present air quality modeling.
+- The project with ID 3 has receivers in the project environment, and is not executed.
+Therefore, it is considered a recipient in the most populated sector of the environment where they were
+the other receptors defined.
+- The project with ID 1 is not in execution, and its contributions are evaluated in the quality station
+of the Kington College air (R_25), and in the sectors where the R_29 and R_11 receivers are located
+from Table 6-1.
+- The Project with ID 6 is in the construction phase, however it will temporarily coincide
+its operation phase with the Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate. This project says
+for a reduction of their contributions
+in air quality, so it would not generate additional contributions to the existing baseline. For what
+Therefore, its reduction in contributions is not considered in the projection of air quality, with the
+objective of carrying out a conservative evaluation.
+Therefore, the contributions described in Table 7-8 are considered according to the evaluations.
+environmental aspects of the projects identified as ID 3 and ID 1.
+83
+==================================================================================
+PAGE 91
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-8, Contributions from other projects with favorable RCA and not executed (µg/m³).
+MP10 P98 MP10 MP2.5 MP2.5 NO2 SO2 SO2
+NO2 Receiver Project 1h CO 1h CO 8h
+24h annual P98 24h annual annual 24h annual
+R_29 3.13 0.39 3.13 0.39 70.41 2 132 73.97 1.14 0.121
+Bio Plant R_11 0.22 0.024 0.22 0.024 17.64 0.127 33.08 9.04 0.101 0.0077
+Energy Los Pinos Kington College
+0.019 0.0012 0.019 0.0012 1.58 0.0062 2.97 0.57 0.0066 0.000338
+(R_25)
+Crematorium
+park
+R_17 1.27 0.27 1.27 0.27 1.84 0.11 6.14 4.21 0.49 0.09
+trail of
+Conception
+84
+==================================================================================
+PAGE 92
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The estimated total concentrations for the operation phase of the Project are presented below.
+In the most conservative scenario, this is considering the year of highest estimated emissions. For
+project air quality at the discrete receptors of interest, was considered the baseline of the
+Kingston College station, because it is the closest station to the Project, and because it is a
+station that is not located in an industrial environment, as well as the receivers identified in the
+Project environment. It is also important to consider that the recipients closest to the project do not
+They do not have relevant emission sources in their surroundings, nor with a population density such as the
+existing in the environment of the air quality station (with all the emissions that this entails), with
+winds that have a main SW component, therefore, the existing baseline at the station
+Kingston College will prove conservative.
+Table 7-9. Total projected annual MP10 contribution (µg/m³)
+Annual MP10 (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 25 0.00 0.34 25.3 51%
+R_2 25 0.00 0.40 25.4 51%
+R_3 25 0.00 0.84 25.8 52%
+R_4 25 0.00 0.46 25.5 51%
+R_5 25 0.00 0.44 25.4 51%
+R_6 25 0.00 0.37 25.4 51%
+R_7 25 0.00 0.24 25.2 50%
+R_8 25 0.00 0.20 25.2 50%
+R_9 25 0.00 1.05 26.0 52%
+R_11 25 0.02 3.94 29.0 58%
+R_12 25 0.00 0.40 25.4 51%
+R_13 25 0.00 0.44 25.4 51%
+R_14 25 0.00 0.37 25.4 51%
+R_15 25 0.00 0.37 25.4 51%
+R_17 25 0.27 0.27 25.5 51%
+R_25 25 0.00 0.03 25.0 50%
+R_28 25 0.00 3.93 28.9 58%
+R_29 25 0.39 0.99 26.4 53%
+R_30 25 0.00 0.87 25.9 52%
+R_31 25 0.00 0.42 25.4 51%
+R_32 25 0.00 4.18 29.2 58%
+Source: GAC.
+85
+==================================================================================
+PAGE 93
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-10. Total projected contribution MP10 P98 24h (µg/m³)
+MP10 P98 24h (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 53 0.00 1.19 54.2 42%
+R_2 53 0.00 1.25 54.3 42%
+R_3 53 0.00 4.38 57.4 44%
+R_4 53 0.00 2.34 55.3 43%
+R_5 53 0.00 2.18 55.2 42%
+R_6 53 0.00 1.65 54.7 42%
+R_7 53 0.00 1.02 54.0 42%
+R_8 53 0.00 0.78 53.8 41%
+R_9 53 0.00 4.82 57.8 44%
+R_11 53 0.22 23.58 76.8 59%
+R_12 53 0.00 1.41 54.4 42%
+R_13 53 0.00 1.36 54.4 42%
+R_14 53 0.00 1.24 54.2 42%
+R_15 53 0.00 1.53 54.5 42%
+R_17 53 1.27 1.26 55.5 43%
+R_25 53 0.02 0.23 53.2 41%
+R_28 53 0.00 23.47 76.5 59%
+R_29 53 3.13 4.44 60.6 47%
+R_30 53 0.00 3.65 56.6 44%
+R_31 53 0.00 2.25 55.3 43%
+R_32 53 0.00 25.47 78.5 60%
+Source: GAC.
+Table 7-11. Total projected annual MP2.5 contribution (µg/m³)
+Annual MP2.5 (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 14 0.00 0.09 13.9 69%
+R_2 14 0.00 0.10 13.9 70%
+R_3 14 0.00 0.19 14.0 70%
+R_4 14 0.00 0.12 13.9 70%
+R_5 14 0.00 0.11 13.9
+70%
+R_6 14 0.00 0.10 13.9 69%
+R_7 14 0.00 0.06 13.9 69%
+R_8 14 0.00 0.05 13.9 69%
+R_9 14 0.00 0.24 14.0 70%
+R_11 14 0.02 0.80 14.6 73%
+R_12 14 0.00 0.12 13.9 70%
+R_13 14 0.00 0.13 13.9 70%
+R_14 14 0.00 0.11 13.9 70%
+R_15 14 0.00 0.11 13.9 70%
+86
+==================================================================================
+PAGE 94
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Annual MP2.5 (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_17 14 0.27 0.05 14.1 71%
+R_25 14 0.00 0.01 13.8 69%
+R_28 14 0.00 0.77 14.6 73%
+R_29 14 0.39 0.22 14.4 72%
+R_30 14 0.00 0.12 13.9 70%
+R_31 14 0.00 0.06 13.9 69%
+R_32 14 0.00 0.80 14.6 73%
+Source: GAC.
+Table 7-12. Total projected contribution MP2.5 P98 24h (µg/m³)
+MP2.5 P98 24h (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 38 0.00 0.28 38.3 77%
+R_2 38 0.00 0.32 38.3 77%
+R_3 38 0.00 0.90 38.9 78%
+R_4 38 0.00 0.56 38.6 77%
+R_5 38 0.00 0.52 38.5 77%
+R_6 38 0.00 0.42 38.4 77%
+R_7 38 0.00 0.25 38.3 77%
+R_8 38 0.00 0.22 38.2 76%
+R_9 38 0.00 1.14 39.1 78%
+R_11 38 0.22 4.70 42.9 86%
+R_12 38 0.00 0.35 38.4 77%
+R_13 38 0.00 0.36 38.4 77%
+R_14 38 0.00 0.35 38.4 77%
+R_15 38 0.00 0.40 38.4 77%
+R_17 38 1.27 0.27 39.5 79%
+R_25 38 0.02 0.07 38.1 76%
+R_28 38 0.00 4.48 42.5 85%
+R_29 38 3.13 1.07 42.2 84%
+R_30 38 0.00 0.47 38.5 77%
+R_31 38 0.00 0.31 38.3 77%
+R_32 38 0.00 4.75 42.8 86%
+Source: GAC.
+Table 7-13. Total projected NO annual contribution (µg/m³)
+2
+Annual NO (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_1 7.50 0.00 0.17 7.7 7.7%
+R_2 7.50 0.00 0.20 7.7 7.7%
+R_3 7.50 0.00 0.35 7.8 7.8%
+87
+==================================================================================
+PAGE 95
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Annual NO (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_4 7.50 0.00 0.21 7.7 7.7%
+R_5 7.50 0.00 0.20 7.7 7.7%
+R_6 7.50 0.00 0.18 7.7 7.7%
+R_7 7.50 0.00 0.12 7.6 7.6%
+R_8 7.50 0.00 0.10 7.6 7.6%
+R_9 7.50 0.00 0.47 8.0 8.0%
+R_11 7.50 0.13 1.47 9.1 9.1%
+R_12 7.50 0.00 0.26 7.8 7.8%
+R_13 7.50 0.00 0.29 7.8 7.8%
+R_14 7.50 0.00 0.23 7.7 7.7%
+R_15 7.50 0.00 0.20 7.7 7.7%
+R_17 7.50 0.11 0.07 7.7 7.7%
+R_25 7.50 0.01 0.01 7.5 7.5%
+R_28 7.50 0.00 1.35 8.8 8.8%
+R_29 7.50 2.00 0.45 9.9 9.9%
+R_30 7.50 0.00 0.15 7.7 7.7%
+R_31 7.50 0.00 0.08 7.6 7.6%
+R_32 7.50 0.00 1.36 8.9 8.9%
+Source: GAC.
+Table 7-14. Total projected contribution NO P99 1h (µg/m³)
+2
+NO P99 1h (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_1 19.10 0.00 3.53 22.6 5.7%
+R_2 19.10 0.00 3.28 22.4 5.6%
+R_3 19.10 0.00 8.38 27.5 6.9%
+R_4 19.10 0.00 10.60 29.7 7.4%
+R_5 19.10 0.00 9.77 28.9 7.2%
+R_6 19.10 0.00 8.33 27.4 6.9%
+R_7 19.10 0.00 5.27 24.4 6.1%
+R_8 19.10 0.00 3.21 22.3 5.6%
+R_9 19.10 0.00 26.94 46.0 11.5%
+R_11 19.10 17.64 60.06 96.8 24.2%
+R_12 19.10 0.00 5.24 24.3 6.1%
+R_13 19.10 0.00 5.19 24.3 6.1%
+R_14 19.10 0.00 5.50 24.6 6.1%
+R_15 19.10 0.00 5.88 25.0 6.2%
+R_17 19.10 1.84 1.93 22.9 5.7%
+R_25 19.10 1.58 0.53 21.2 5.3%
+R_28 19.10 0.00 55.29 74.4 18.6%
+R_29 19.10 70.41 23.85 113.4 28.3%
+88
+==================================================================================
+PAGE 96
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+NO P99 1h (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_30 19.10 0.00 2.31 21.4 5.4%
+R_31 19.10 0.00 1.72 20.8 5.2%
+R_32 19.10 0.00 53.85 72.9 18.2%
+Source: GAC.
+Table 7-15. Total projected annual SO contribution (µg/m³)
+2
+Annual SO (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_1 2.70 0.00 0.00 2.7 4.5%
+R_2 2.70 0.00 0.00 2.7 4.5%
+R_3 2.70 0.00 0.00 2.7 4.5%
+R_4 2.70 0.00 0.00 2.7 4.5%
+R_5 2.70 0.00 0.00 2.7 4.5%
+R_6 2.70 0.00 0.00 2.7 4.5%
+R_7 2.70 0.00 0.00 2.7 4.5%
+R_8 2.70 0.00 0.00 2.7 4.5%
+R_9 2.70 0.00 0.00 2.7 4.5%
+R_11 2.70 0.01 0.01 2.7 4.5%
+R_12 2.70 0.00 0.00 2.7 4.5%
+R_13 2.70 0.00 0.00 2.7 4.5%
+R_14 2.70 0.00 0.00 2.7 4.5%
+R_15 2.70 0.00 0.00 2.7 4.5%
+R_17 2.70 0.09 0.00 2.8 4.7%
+R_25 2.70 0.00 0.00 2.7 4.5%
+R_28 2.70 0.00 0.01 2.7 4.5%
+R_29 2.70 0.12 0.00 2.8 4.7%
+R_30 2.70 0.00 0.00 2.7 4.5%
+R_31 2.70 0.00 0.00 2.7 4.5%
+R_32 2.70 0.00 0.01 2.7 4.5%
+Source: GAC.
+Table 7-16. Total proj contribution
+ected SO P99 24h (µg/m³)
+2
+SO 24h (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_1 7 0.00 0.00 6.5 4.3%
+R_2 6.50 0.00 0.00 6.5 4.3%
+R_3 6.50 0.00 0.01 6.5 4.3%
+R_4 6.50 0.00 0.01 6.5 4.3%
+R_5 6.50 0.00 0.01 6.5 4.3%
+R_6 6.50 0.00 0.01 6.5 4.3%
+89
+==================================================================================
+PAGE 97
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+SO 24h (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_7 6.50 0.00 0.00 6.5 4.3%
+R_8 6.50 0.00 0.00 6.5 4.3%
+R_9 6.50 0.00 0.01 6.5 4.3%
+R_11 6.50 0.10 0.05 6.6 4.4%
+R_12 6.50 0.00 0.00 6.5 4.3%
+R_13 6.50 0.00 0.00 6.5 4.3%
+R_14 6.50 0.00 0.00 6.5 4.3%
+R_15 6.50 0.00 0.00 6.5 4.3%
+R_17 6.50 0.49 0.00 7.0 4.7%
+R_25 6.50 0.01 0.00 6.5 4.3%
+R_28 6.50 0.00 0.05 6.5 4.4%
+R_29 6.50 1.14 0.01 7.7 5.1%
+R_30 6.50 0.00 0.00 6.5 4.3%
+R_31 6.50 0.00 0.00 6.5 4.3%
+R_32 6.50 0.00 0.05 6.5 4.4%
+Source: GAC.
+Table 7-17. Total projected contribution SO P99 1h (µg/m³)
+2
+SO P99 1h (µg/m³)
+2
+Receiver % norm
+LdB AOP AP LdBP
+R_1 9.5 0.00 0.01 9.5 3.2%
+R_2 9.5 0.00 0.01 9.5 3.2%
+R_3 9.5 0.00 0.04 9.5 3.2%
+R_4 9.5 0.00 0.03 9.5 3.2%
+R_5 9.5 0.00 0.02 9.5 3.2%
+R_6 9.5 0.00 0.02 9.5 3.2%
+R_7 9.5 0.00 0.01 9.5 3.2%
+R_8 9.5 0.00 0.01 9.5 3.2%
+R_9 9.5 0.00 0.03 9.5 3.2%
+R_11 9.5 0.00 0.10 9.6 3.2%
+R_12 9.5 0.00 0.01 9.5 3.2%
+R_13 9.5 0.00 0.01 9.5 3.2%
+R_14 9.5 0.00 0.01 9.5 3.2%
+R_15 9.5 0.00 0.01 9.5 3.2%
+R_17 9.5 0.00 0.00 9.5 3.2%
+R_25 9.5 0.00 0.00 9.5 3.2%
+R_28 9.5 0.00 0.10 9.6 3.2%
+R_29 9.5 0.00 0.03 9.5 3.2%
+R_30 9.5 0.00 0.00 9.5 3.2%
+R_31 9.5 0.00 0.00 9.5 3.2%
+R_32 9.5 0.00 0.10 9.6 3.2%
+90
+==================================================================================
+PAGE 98
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: GAC.
+Table 7-18. Total projected contribution CO P99 1h (µg/m³)
+CO P99 1h (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 3,600 0.00 7.49 3,607.5 12.0%
+R_2 3,600 0.00 5.35 3,605.4 12.0%
+R_3 3,600 0.00 19.51 3,619.5 12.1%
+R_4 3,600 0.00 26.53 3,626.5 12.1%
+R_5 3,600 0.00 23.36 3,623.4 12.1%
+R_6 3,600 0.00 23.41 3,623.4 12.1%
+R_7 3,600 0.00 19.63 3,619.6 12.1%
+R_8 3,600 0.00 17.43 3,617.4 12.1%
+R_9 3,600 0.00 23.77 3,623.8 12.1%
+R_11 3,600 33.08 66.03 3,699.1 12.3%
+R_12 3,600 0.00 14.06 3,614.1 12.0%
+R_13 3,600 0.00 13.68 3,613.7 12.0%
+R_14 3,600 0.00 11.16 3,611.2 12.0%
+R_15 3,600 0.00 10.99 3,611.0 12.0%
+R_17 3,600 6.14 4.69 3,610.8 12.0%
+R_25 3,600 2.97 1.11 3,604.1 12.0%
+R_28 3,600 0.00 69.20 3,669.2 12.2%
+R_29 3,600 132.00 22.86 3,754.9 12.5%
+R_30 3,600 0.00 3.87 3,603.9 12.0%
+R_31 3,600 0.00 4.00 3,604.0 12.0%
+R_32 3,600 0.00 66.83 3,666.8 12.2%
+Source: GAC.
+Table 7-19. Total projected contribution CO P99 moving average 8h (µg/m³)
+CO P99 8h (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_1 1,400 0.00 3.21 1403.2 14.0%
+R_2 1,400 0.00 3.16 1,403.2 14.0%
+R_3 1,400 0.00 11.65 1,411.7 14.1%
+R_4 1,400 0.00 13.69 1,413.7 14.1%
+R_5 1,400 0.00 12.57 1,412.6 14.1%
+R_6 1,400 0.00 13.94 1,413.9 14.1%
+R_7 1,400 0.00 9.88 1,409.9 14.1%
+R_8 1,400 0.00 8.56 1,408.6 14.1%
+R_9 1,400 0.00 7.07 1,407.1 14.1%
+R_11 1,400 9.04 26.64 1,435.7 14.4%
+91
+==================================================================================
+PAGE 99
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+CO P99 8h (µg/m³)
+Receiver % norm
+LdB AOP AP LdBP
+R_12 1,400 0.00 4.50 1,404.5 14.0%
+R_13 1,400 0.00 4.00 1,404.0 14.0%
+R_14 1,400 0.00 4.30 1,404.3 14.0%
+R_15 1,400 0.00 4.57 1,404.6 14.0%
+R_17 1,400 4.21 1.75 1,406.0 14.1%
+R_25 1,400 0.57 0.68 1,401.3 14.0%
+R_28 1,400 0.00 28.65 1,428.6 14.3%
+R_29 1,400 73.97 6.68 1,480.6 14.8%
+R_30 1,400 0.00 1.55 1,401.6 14.0%
+R_31 1,400 0.00 1.67 1,401.7 14.0%
+R_32 1,400 0.00 28.66 1,428.7 14.3%
+Source: GAC.
+Table 7-20. MPS projected contribution (mg/m²/day)
+Annual MPS (mg/m² day)
+Receiver % norm
+LdB AOP AP Total
+R_16 YES 0.00 8.28 8.3 4.1%
+R_18 YES 0.00 0.78 0.8 0.4%
+R_19 YES 0.00 19.28 19.3 9.6%
+R_20 YES 0.00 5.89 5.9 2.9%
+R_21 YES 0.00 18.80 18.8 9.4%
+R_22 YES 0.00 17.22 17.2 8.6%
+R_23 YES 0.00 22.34 22.3 11.2%
+R_24 YES 0.00 14,
+16 14.2 7.1%
+YES: No information
+Source: GAC.
+Table 7-21. Projected annual SO contribution (µg/m³)
+2
+Annual SO (mg/m² day)
+2
+Receiver % norm
+LdB AOP AP Total
+R_16 2.7 0.00 0.01 2.7 1.7%
+R_18 2.7 0.00 0.00 2.7 1.7%
+R_19 2.7 0.00 0.02 2.7 1.7%
+R_20 2.7 0.00 0.01 2.7 1.7%
+R_21 2.7 0.00 0.01 2.7 1.7%
+R_22 2.7 0.00 0.01 2.7 1.7%
+R_23 2.7 0.00 0.01 2.7 1.7%
+R_24 2.7 0.00 0.01 2.7 1.7%
+Source: GAC.
+92
+==================================================================================
+PAGE 100
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-22. Projected contribution SO P99.7 24h (µg/m³)
+2
+SO P99.7 24h (mg/m² day)
+2
+Receiver % norm
+LdB AOP AP Total
+R_16 7.3 0.00 0.04 7.3 1.0%
+R_18 7.3 0.00 0.02 7.3 1.0%
+R_19 7.3 0.00 0.13 7.4 1.0%
+R_20 7.3 0.00 0.06 7.4 1.0%
+R_21 7.3 0.00 0.10 7.4 1.0%
+R_22 7.3 0.00 0.14 7.4 1.0%
+R_23 7.3 0.00 0.08 7.4 1.0%
+R_24 7.3 0.00 0.05 7.4 1.0%
+Source: GAC.
+Table 7-23. Projected contribution SO P99.73 1h (µg/m³)
+2
+SO P99.73 1h (mg/m² day)
+2
+Receiver % norm
+LdB AOP AP Total
+R_16 15.5 0.00 0.14 15.64 1.6%
+R_18 15.5 0.00 0.05 15.55 1.6%
+R_19 15.5 0.00 0.37 15.87 1.6%
+R_20 15.5 0.00 0.19 15.69 1.6%
+R_21 15.5 0.00 0.38 15.88 1.6%
+R_22 15.5 0.00 0.51 16.01 1.6%
+R_23 15.5 0.00 0.27 15.77 1.6%
+R_24 15.5 0.00 0.17 15.67 1.6%
+Source: GAC.
+The evaluation of the projected air quality indicates that the estimated contributions are not relevant,
+since they do not modify the condition of the component, maintaining all the values projected by
+below air quality standards. Regarding the contributions of particulate matter, the Project does not
+will generate relevant contributions in the populated sectors, while in the closest recipients, which
+are located less than 100 meters from the Project, the estimated contributions will not generate an exceedance
+of air quality standards. Regarding the contributions of gases to air quality, the Project
+will generate contributions of little relevance.
+MPS contributions, as indicated above, correspond to a conservative estimate at
+not considering the washing effect of rain on vegetation. However, the maximum contributions (PMI) are
+estimate values close to 81 mg/m² day as an annual average, which corresponds to 40.7% of the
+reference standard, therefore the contributions at any different point will be lower than this value. They were
+estimated contributions of up to 11.2% of the reference norm in sectors with BNP presence.
+93
+==================================================================================
+PAGE 101
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.2 Analysis of contributions of particulate matter in saturated zone
+The area where the Project will be located corresponds to an area declared saturated by MP2.5.
+for the annual average, through Decree 15/2015 of the Ministry of the Environment. The declaration
+saturation level for particulate matter implies that the magnitude of the contributions for the pollutant that
+defines the area as saturated (annual MP2.5), they must be evaluated considering the guide “Impact of
+emissions in saturated zones due to MP10 respirable particulate matter and fine particulate matter
+respirable MP2.5”, from the Environmental Evaluation Service, from September 2023. In accordance with the
+indicated in the guide, the condition of saturated zone must be considered even when there is a station
+of monitoring close to the project that does not present levels that exceed air quality regulations.
+The guide presents significance values for the contributions of particulate matter, on which
+considers that the contribution is significant in an area declared saturated. In particular for the
+This Project under evaluation, Table 7-24 presented below is applicable, due to
+that the Project will have a duration of more than 3 years.
+Table 7-24. Significance values for the increase in concentrations of MP10 and M2.5 on receptors
+humans in a period equal to or greater than 3 years in areas that exceed the value of the standard
+Source: Table 1, guide “Impact of emissions in saturated zones by respirable particulate matter MP10 and material
+fine particulate matter
+breathable MP2.5”, from the Environmental Evaluation Service, from September 2023
+Next, Table 7-25 presents the estimated contributions in the recipients for the annual average of
+MP2.5.
+Table 7-25. Contributions for the annual standard of MP2.5.
+MP2.5 (µg/m³)
+Receiver
+Annual average
+R_1 0.09
+R_2 0.10
+R_3 0.19
+R_4 0.12
+R_5 0.11
+R_6 0.10
+94
+==================================================================================
+PAGE 102
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MP2.5 (µg/m³)
+Receiver
+Annual average
+R_7 0.06
+R_8 0.05
+R_9 0.24
+R_11 0.80
+R_12 0.12
+R_13 0.13
+R_14 0.11
+R_15 0.11
+R_17 0.05
+R_25 0.01
+R_28 0.77
+R_29 0.22
+R_30 0.12
+R_31 0.06
+R_32 0.80
+As seen in Table 7-25, there are three receivers R_11, R_28 and R_32, where the estimated contribution
+for the annual average of PM2.5 exceeds the value of 0.33 µg/m³, indicated as the limit of significance
+for the increase in concentrations in an area declared as saturated for the annual PM2.5 standard.
+Receivers R_11, R_28 and R_32 correspond to receivers that are close to roads
+interiors in the Project location sector, located close to each other, however,
+These are isolated homes. Figure 7-2 presents the location of these homes.
+95
+==================================================================================
+PAGE 103
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-2. Recipients where contribution defined as significant is exceeded
+7.3 Maps of spatial concentration gradients (isoconcentrations)
+Below are the isoconcentration curves per contaminant of the contribution of the
+Project operation. The figures show that the greatest contributions will occur in the immediate vicinity
+of the Project, obtaining the point of maximum impact (PMI) in the same area of execution of the Project.
+The 29 receptors described in Table 6-1 are presented in blue. The figures present the contributions
+project estimates up to the equivalent of 1% of air quality and MPS standards, which is
+considers the area of influence of the Project, which is where the analysis of the contributions is carried out, since contributions
+below 1% of the different standards is considered low enough not to generate any type of effect
+in air quality. For SO and CO, the Project contributions throughout the modeling domain are
+2
+less than 1% of the norms, or with values very close to 1%, therefore, it is not possible to display the
+contributions as isoconcentration curves.
+96
+==================================================================================
+PAGE 104
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-1. MP10 P98 24 hours.
+97
+==================================================================================
+PAGE 105
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-2. Annual average MP10.
+98
+==================================================================================
+PAGE 106
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-3. MP2.5 P98 24 hours.
+99
+==================================================================================
+PAGE 107
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-4. MP2.5 annual average.
+100
+==================================================================================
+PAGE 108
+==============================================================================
+===
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-5. NO P99 1 hour.
+2
+101
+==================================================================================
+PAGE 109
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-6. NOT annual average.
+2
+102
+==================================================================================
+PAGE 110
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-7. Annual MPS.
+103
+==================================================================================
+PAGE 111
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8 CONCLUSIONS AIR QUALITY MODEL
+In relation to the uncertainty analysis of the WRF meteorological model, the performance for the
+Wind estimation was evaluated in four stations and for temperature in three stations, so
+to cover an important area of the modeling domain. The Kingston College station, at 3.4
+kilometers southwest of the Project, the Liceo Polivalente station 15.9 kilometers north of the Project,
+the Nueva Libertad station located 10.1 kilometers west of the Project and the Coronel Norte station
+located 28.6 kilometers southwest of the Project.
+For Kingston College there is a correlation (r) of 0.52 and a medium agreement index (between 0 and
+0.5) out of 0.10. In the case of Nueva Libertad, a better performance of the model is shown, a correlation
+(r) of 0.65 and a high agreement index (greater than 0.5) of 0.55. For the Coronel north station,
+observes a correlation (r) of 0.69 and a high agreement index (greater than 0.5) of 0.55. Lastly
+In Liceo polyvalente, a correlation (r) of 0.64 and a high concordance index of 0.68 is shown. all
+The wind magnitude statisticians comply with the values recommended in the update of the
+Guide to the use of air quality models in the SEIA, with the exception of the Kingston College model which
+is slightly lower than 0.6.
+The three stations present good agreement between modeled and measured wind direction data.
+wind and the Kingston College and Coronel Norte stations present good performance in temperatures
+modeled with respect to measured data. All temperature statisticians comply with the values
+recommended in the update of the Guide to the use of air quality models in the SEIA.
+Finally, the behavior of the average mixing layer height was qualitatively analyzed.
+hourly per month of the year, qualitatively since there are no measured data of the parameter, which
+presents a satisfactory estimated behavior with respect to the daily and seasonal cycle of said
+parameter a coastal zone.
+In relation to the estimated contributions in terms of air quality, it is possible to conclude the following.
+• There are three receptors close to each other, located near internal roads of the
+Project, where the maximum contributions of the Project for primary standards on
+human receptors.
+• The estimated contributions of respirable particulate matter (PM10 and PM2.5) in all receptors
+considered are not relevant with respect to the primary air quality regulations, they do not
+generating an exceedance of the reference standards due to the contributions that will be generated by the
+Project in its year of highest emissions (year 4 of operation).
+• The estimated contributions for gases correspond to values of small magnitude, less than 1% of
+the standards, for NO, SO and CO. The highest estimated contribution corresponds to that of NO for its standard
+2 2 2
+104
+==================================================================================
+PAGE 112
+==================================================================================
+Annex 4-1 Air quality modeling
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+hourly, which reaches 15% of the
+standard, however, it is important to consider that the calpuff model
+tends to overestimate extreme hourly values.
+• Based on the results obtained from the modeling of the Project's operation scenario, it is
+It is possible to conclude that the most relevant contributions will be concentrated in the vicinity of the
+project, where the contribution of the project was evaluated in discrete recipients, this because
+The most relevant emissions correspond to emissions of resuspended particulate matter, the
+which is mainly composed of coarse particles.
+• Regarding the evaluation of the total concentration at the air quality monitoring station
+Kigston College, it is possible to conclude that the estimated contributions for the elderly scenario
+Project emissions will not modify the air quality condition at the station,
+estimating contributions of less than 1% of the primary air quality standards.
+• Regarding the contributions in MPS, these will be concentrated in the environment closest to the Project, and
+It is estimated that the contributions in sites with the presence of native preservation forest will reach
+maximum values close to 11% of the reference norm.
+• The contributions of PM2.5 as an annual average, estimated for the highest emissions scenario,
+is higher than the values defined as significance in the “Emissions impact guide on
+zones saturated by MP10 respirable particulate matter and fine respirable particulate matter
+MP2.5”, from the Environmental Evaluation Service, as the Project is located in an area declared as
+saturated for MP2.5 as an annual average. Exceeding the contribution over the defined value
+as of significance, it was obtained in the three receptors closest to the Project.
+• Finally, it is possible to conclude that the estimated contributions for the most conservative scenario of
+execution of the Project, will not modify the condition of the air quality component in the area of
+influence of the Project, and these contributions will not imply an exceedance of the quality standards of the
+air. However, when contributions are generated that exceed the defined level of significance for the
+annual average of PM2.5, in an area declared as saturated, it is estimated that there could be a
+significant increase in pre-existing risk to the health of the population. The analysis of the
+The significance of this increase is analyzed in Annex 5-1 Health risk study of the
+population.
+105

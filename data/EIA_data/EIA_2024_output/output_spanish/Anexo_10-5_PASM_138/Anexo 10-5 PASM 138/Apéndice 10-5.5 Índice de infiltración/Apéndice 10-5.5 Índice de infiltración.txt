@@ -1,0 +1,161 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-5.5
+Índice de infiltración
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+ACLARA
+ENSAYO IN SITU - ÍNDICE DE INFILTRACIÓN
+PROYECTO DE EXTRACCIÓN DE ARCILLAS Y PRODUCCIÓN DE
+CONCENTRADO DE TIERRAS RARAS
+SECTOR PLANTA DE PROCESAMIENTO
+N° 01 0123
+PANGEA Geotecnia
+Cochrane 635, Of. 1503, A
+Concepción, Chile
+Preparado para Aclara
+REV. FECHA ENSAYO ANÁLISIS REV. DESCRIPCION
+A 18-01-2024 MJ GT RM Revisión Interna
+B 18-01-2024 MJ GT RM Aprobación Interna
+C 18-01-2024 MJ GT RM Revisión Interna
+================================================================================
+PAGE 3
+================================================================================
+ÍNDICE
+1. INTRODUCCIÓN ............................................................................................................ 2
+2. UBICACIÓN DE ENSAYOS .......................................................................................... 3
+3. METODOLOGÍA ............................................................................................................. 4
+4. RESULTADOS ENSAYOS ............................................................................................. 5
+5. REGISTRO FOTOGRÁFICO ENSAYOS ...................................................................... 7
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara.
+================================================================================
+PAGE 4
+================================================================================
+1. INTRODUCCIÓN
+El presente informe tiene por objeto determinar la capacidad de absorción del suelo en el
+sector de la Planta de Procesamiento del proyecto: Proyecto de Extracción de Arcillas y
+Producción de Concentrado de Tierras Raras, localizado en el límite de las comunas de
+Penco y Concepción, en la Región del Bío Bío. En la Figura 1 se aprecia la localización del
+proyecto señalado anteriormente.
+Figura 1. Emplazamiento general del Proyecto.
+Fuente: Elaboración propia
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 2
+================================================================================
+PAGE 5
+================================================================================
+2. UBICACIÓN DE ENSAYOS
+Se realizaron dos ensayos de infiltración en el sitio de estudio, en la Figura 2 se muestra la
+ubicación de cada uno de ellos y en la Tabla 1 sus respectivas coordenadas.
+Figura 2. Ubicación ensayos de infiltración.
+Fuente: Elaboración propia
+Tabla 1. Ubicación de las prospecciones
+Prospección Coordenadas UTM WGS 84
+Este Norte
+Ensayo N°1 681914.00 5929944.00
+Ensayo N°2 681744.00 5930083.00
+Fuente: Elaboración propia
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 3
+================================================================================
+PAGE 6
+================================================================================
+3. METODOLOGÍA
+Para determinar el índice de absorción se realizó el ensayo que se encuentra descrito en el
+D.S. Nº 236/26 Reglamento General de Alcantarillados Particulares, del Ministerio de Salud,
+éste deberá realizarse en el lugar y a la profundidad en que se infiltrarán las aguas tratadas,
+como se indica en la Figura 3.
+Figura 3. Descripción ensayo infiltración.
+Fuente: DS 236/1926
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 4
+================================================================================
+PAGE 7
+================================================================================
+4. RESULTADOS ENSAYOS
+ Resultados Ensayo N°1
+En la Tabla 2 se presentan los resultados obtenidos en el Ensayo N°1. El ensayo se realizó a
+una profundidad de 80 cm con respecto al nivel de terreno natural.
+Tabla 2. Resultados Ensayo N°1
+t Tiempo parcial Tiempo total Altura de agua
+(min:seg) (min:seg) (cm)
+T0 00:00 00:00 15
+T1 55:07 55:07 12,5
+T2 77:50 132:57 10
+T3 79:46 212:43 7,5
+T4 - - 5
+Fuente: Elaboración propia
+Tiempo obtenido de prueba absorción: 80 min
+Ingresando al gráfico señalado en la Figura 3 el índice de absorción para cañerías filtrantes
+(drenes) es de 25 l/m2/día.
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 5
+================================================================================
+PAGE 8
+================================================================================
+ Resultados Ensayo N°2
+En la Tabla 3 se presentan los resultados obtenidos en el Ensayo N°2. El ensayo se realizó a
+una profundidad de 80 cm con respecto al nivel de terreno natural.
+Tabla 3. Resultados Ensayo N°2
+t Tiempo parcial Tiempo total Altura de agua
+(min:seg) (min:seg) (cm)
+T0 00:00 00:00 15
+T1 09:41 09:41 12,5
+T2 10:20 20:01 10
+T3 10:35 30:36 7,5
+T4 09:46 40:22 5
+T5 09:57 50:19 2,5
+T6 10:08 60:27 0
+Fuente: Elaboración propia
+Tiempo obtenido de prueba absorción: 10 min
+Ingresando al gráfico señalado en la Figura 3 el índice de absorción para cañerías filtrantes
+(drenes) es de 70 l/m2/día.
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 6
+================================================================================
+PAGE 9
+================================================================================
+5. REGISTRO FOTOGRÁFICO ENSAYOS
+Figura 4. Calicata Ensayo N°1
+Fuente: Elaboración propia
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 7
+================================================================================
+PAGE 10
+================================================================================
+Figura 5. Ejecución Ensayo N°1
+Fuente: Elaboración propia
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 8
+================================================================================
+PAGE 11
+================================================================================
+Figura 6. Calicata Ensayo N°2
+Fuente: Elaboración propia
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 9
+================================================================================
+PAGE 12
+================================================================================
+Figura 7. Ejecución Ensayo N°2
+Fuente: Elaboración propia
+Rafael Martínez
+Gerente Técnico
+Máster en Mecánica de Suelos
+Imperial College London
+__________________________________________________________________________
+Ensayos de infiltración – Planta de Procesamiento, Aclara. 10

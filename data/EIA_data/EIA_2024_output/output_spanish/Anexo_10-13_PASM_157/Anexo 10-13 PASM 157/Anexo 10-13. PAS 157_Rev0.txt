@@ -1,0 +1,966 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-13
+Permiso Ambiental Sectorial
+PAS N°157
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado de
+Tierras Rara"
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Evaluación Impacto Ambiental
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado deTierras Raras
+Anexo 10.13
+Permiso Ambiental Sectorial N°157
+Fecha: Junio, 2024
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10.13
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+FMR GCB AVF
+0 31-01-2024 Jefe de Proyecto
+Ing. de Proyectos Ing. Senior
+Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Anexo 10.13
+Página 2 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 4
+================================================================================
+Índice
+1. Introducción ...................................................................................................... 7
+2. Contenidos Técnicos y Formales que Acrediten el Cumplimiento del PAS 157 ..... 9
+2.1. Descripción del lugar de emplazamiento de la Obra ......................................... 9
+2.1.1. Identificación de Cauces ......................................................................... 12
+2.1.2. Coordenadas UTM de las Obras y Descripción del sector en el que se
+emplazarán las Obras .............................................................................................. 12
+2.1.3. Descripción de las Características Generales del Cauce 100 metros antes
+y después de la modificación ................................................................................... 18
+2.2. Descripción de la Obra y sus Fases .................................................................. 19
+2.2.1. Obras de captación y conducción ........................................................... 19
+2.2.2. Dimensionamiento de Canales ............................................................... 22
+2.2.3. Obras de descarga para Canales ............................................................ 24
+2.2.4. Descripción de la etapa de construcción, operación y abandono si
+corresponde ............................................................................................................. 25
+2.3. Estimación de los Plazos y Períodos de Construcción de las Obras ................ 26
+2.4. Plano topográfico de planta y perfiles, georreferenciado, de la obra y del área
+susceptible de ser afectada ........................................................................................ 28
+2.5. Memoria del cálculo del estudio hidrológico, hidráulico, de arrastre de
+sedimentos y de socavaciones, para la situación con y sin proyecto, según
+corresponda ................................................................................................................ 28
+2.5.1. Estudio Hidrológico ................................................................................. 28
+2.5.2. Estudio Hidráulico ................................................................................... 28
+2.5.3. Estudio de Arrastre de Sedimentos y Socavación ................................... 28
+2.6. Plan de Monitoreo ........................................................................................... 29
+2.7. Medidas Tendientes a Minimizar los Efectos Sobre la Calidad de las Aguas,
+Aguas Abajo del Lugar de Construcción de las Obras. ................................................ 29
+2.7.1. Sobre el mineral presente en el lugar ..................................................... 29
+2.7.2. Características de las arcillas procesadas proveniente de la planta ...... 30
+2.7.3. Sobre el depósito formado por las arcillas procesadas .......................... 31
+Anexo 10.13
+Página 3 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 5
+================================================================================
+2.7.4. Plan de seguimiento de la calidad de las aguas durante la fase de
+operación 31
+2.8. Plan de Contingencias ...................................................................................... 34
+2.9. Plan de Emergencia .......................................................................................... 35
+Anexo 10.13
+Página 4 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 6
+================================================================================
+Figuras
+Figura - PAS 2-1. Ubicación general del proyecto, UTM WGS 84/Z18S. ........................ 10
+Figura - PAS 2-2: Obras del proyecto referentes a zonas de Extracción, Disposición y
+Acopio Vegetal, UTM WGS 84/ H18S. ............................................................................ 11
+Figura - PAS 2-3: Red de Drenaje de la zona en que se emplaza el Proyecto, UTM WGS
+84/ H18S. ........................................................................................................................ 12
+Figura - PAS 2-4: Ubicación en mapa de los canales de contorno para la ZE Maite, UTM
+WGS 84/ H18S. ............................................................................................................... 13
+Figura - PAS 2-5: Ubicación en mapa de los canales de contorno para la ZE Victoria Norte,
+UTM WGS 84/ H18S. ....................................................................................................... 14
+Figura - PAS 2-6: Ubicación en mapa de los canales de contorno para la ZE Luna, UTM
+WGS 84/ H18S. ............................................................................................................... 15
+Figura - PAS 2-7: Ubicación en mapa de los canales de contorno para la ZD Neptuno,
+UTM WGS 84/ H18S. ....................................................................................................... 16
+Figura - PAS 2-8: Ubicación en mapa de los canales de contorno para ZAV, UTM WGS 84/
+H18S. ............................................................................................................................... 17
+Figura - PAS 2-9: Esquema propuesto tipo canal de contorno. ..................................... 20
+Figura - PAS 2-10: Esquema tipo gradas disipadoras de energía. .................................. 20
+Figura - PAS 2-11: Esquema tipo descarga canal evacuador en un canal de contorno. 21
+Figura - PAS 2-12: Esquema tipo de obra de descarga canal de contorno. ................... 24
+Figura - PAS 2-13: Puntos de monitoreo. ....................................................................... 33
+Tablas
+Tabla - PAS 2-1: Coordenadas centroide de cada Zona del Proyecto. ........................... 11
+Tabla - PAS 2-2: Ubicación y longitud de los canales de contorno para la zona de
+extracción Maite. ............................................................................................................ 13
+Tabla - PAS 2-3: Ubicación y longitud de los canales de contorno para la zona de
+extracción Victoria Norte. .............................................................................................. 14
+Tabla - PAS 2-4: Ubicación y longitud de los canales de contorno para la zona de
+extracción Luna. .............................................................................................................. 15
+Tabla - PAS 2-5: Ubicación y longitud de los canales de contorno para la zona de
+disposición Neptuno. ...................................................................................................... 16
+Tabla - PAS 2-6: Ubicación y longitud de los canales de contorno para la zona de acopio
+vegetal. ........................................................................................................................... 17
+Tabla - PAS 2-7: Resumen de canales de contorno para ZE Maite................................. 22
+Anexo 10.13
+Página 5 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 7
+================================================================================
+Tabla - PAS 2-8: Resumen de canales de contorno para ZE Victoria Norte. .................. 22
+Tabla - PAS 2-9: Resumen de canales de contorno para ZE Luna. ................................. 22
+Tabla - PAS 2-10: Resumen de canales de contorno para ZD Neptuno. ........................ 23
+Tabla - PAS 2-11: Resumen de canales de contorno para ZAV. ..................................... 23
+Tabla - PAS 2-12: Cronograma fase de construcción de ZE (Luna y Victoria Norte). ..... 26
+Tabla - PAS 2-13: Cronograma fase de construcción ZD Neptuno y ZAV. ...................... 26
+Tabla - PAS 2-14. Cronograma fase de operación .......................................................... 27
+Tabla - PAS 2-15: Cronograma fase de operación ZD Neptuno y ZAV. .......................... 27
+Tabla - PAS 2-16: Coordenadas de los puntos de monitoreo. ........................................ 32
+Anexo 10.13
+Página 6 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 8
+================================================================================
+1. Introducción
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de
+Concentrado de Tierras Raras, en adelante, indistintamente, el “Proyecto”, corresponde
+al conjunto de partes, obras y acciones que permitirán la construcción, operación y
+cierre de una faena minera para la extracción y procesamiento de arcillas, material
+presente en la zona, el cual, por efectos naturales, se encuentra altamente meteorizado,
+con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin
+perjuicio que parte de las obras se emplazan en la comuna de Concepción, en el límite
+con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres
+(3) zonas de extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de
+disposición para lastre y arcillas procesadas (ZD Neptuno), una (1) zona de acopio de
+suelo vegetal (ZAV), una planta de procesamiento de arcillas (la “Planta”), un stockpile
+para el acopio temporal de material previo al procesamiento, una línea eléctrica y su
+conexión a línea existente y la construcción de caminos internos para acceder a las
+distintas áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta
+320 toneladas/hora de material para producir concentrado de Tierras Raras. Además, se
+considera la modificación de un tramo existente de aproximadamente 1,22 kilómetros
+del oleoducto Hualpén – San Fernando, propiedad de ENAP, motivo de la explotación de
+la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras temporales
+correspondiente a instalaciones de faenas para la construcción y habilitación de las
+obras del Proyecto.
+En el Capítulo 10 Plan de Cumplimiento Normativa Ambiental Aplicable se ha realizado
+un análisis de los Permisos Ambientales Sectoriales de Contenidos Únicamente
+Ambientales y aquellos Mixtos, establecidos en el Título VII del Reglamento del Sistema
+de Evaluación de Impacto Ambiental (D.S. Nº40/2012 del Ministerio del Medio
+Ambiente), donde se identificó la aplicabilidad del Permiso Ambiental Sectorial Mixto
+del artículo 157, cuyo texto dispone lo siguiente:
+“Artículo 157.- Permiso para efectuar obras de regularización o defensa de cauces
+naturales.
+«Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se
+refiere el artículo 41 de este Código, presentarán los proyectos correspondientes a la
+Anexo 10.13
+Página 7 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 9
+================================================================================
+Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación el
+procedimiento previsto en el párrafo 1° de este Título. Cuando se trate de obras de
+regularización o defensa de cauces naturales, los proyectos respectivos deberán contar,
+además, con la aprobación del Departamento de Obras Fluviales del Ministerio de Obras
+Públicas».
+El requisito para su otorgamiento consiste en no afectar la vida o salud de los habitantes,
+mediante la no alteración significativa del escurrimiento y de los procesos erosivos
+naturales del cauce y la no contaminación de las aguas.
+Los contenidos técnicos y formales que deben presentarse para acreditar su
+cumplimiento son los siguientes:
+a) Descripción del lugar de emplazamiento de la Obra.
+b) Descripción de la obra y sus fases.
+c) Estimación de los plazos y periodos de construcción de las obras.
+d) Plano topográfico de planta y perfiles, georreferenciado, de la obra y del área
+susceptible de ser afectada.
+e) Memoria del cálculo del estudio hidrológico, hidráulico, de arrastre de
+sedimentos y de socavaciones, para la situación con y sin proyecto, según
+corresponda.
+f) Plan de Monitoreo.
+g) Medidas tendientes a minimizar los efectos sobre la calidad de las aguas, aguas
+abajo del lugar de construcción de las obras.
+h) Plan de Contingencia.
+i) Plan de emergencia, si aplica.
+Anexo 10.13
+Página 8 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 10
+================================================================================
+2. Contenidos Técnicos y Formales que Acrediten el
+Cumplimiento del PAS 157
+En virtud de los requerimientos del artículo 157 del Reglamento del SEIA, a continuación
+se presentan los contenidos técnicos y formales que permiten acreditar el cumplimiento
+de los requisitos del citado PAS 157, el cual aplica a los canales de contorno y obras de
+descarga hacia quebradas en las Zonas de Disposición, Zonas de Acopio de Suelo Vegetal
+y Zonas de Extracción del Proyecto.
+2.1. Descripción del lugar de emplazamiento de la Obra
+El Proyecto será emplazado en un sector rural, en las comunas de Penco y Concepción,
+Provincia de Concepción, Región del Biobío. La zona de intervención es un área cercana
+a la costa, de uso esencialmente forestal.
+De acuerdo con la Clasificación de la DGA (Inventario de cuencas, subcuencas y
+subsubcuencas de Chile, DGA, 2014), el área de intervención se encuentra en la cuenca
+Costera e Islas entre Rio Itata y Rio Bio Bío (Código de cuenca 082) y entre las subcuencas
+Costeras Río Pingueral y Río Andalién (Código de subcuenca 0821). Estas cuencas son
+del tipo Costera Exorreica.
+Dentro de estas pequeñas cuencas costeras, algunas presentan escorrentía permanente
+mientras que otras presentan pequeños esteros y afloramientos de agua
+exclusivamente en los meses de invierno, luego de las tormentas. De acuerdo con el
+documento “Diagnóstico y clasificación de los cursos y cuerpos de agua según objetivos
+de calidad, Cuenca del Río Itata”, DGA, 2004, el régimen de estas cuencas es netamente
+pluvial, marcando los caudales altos en los meses asociados al invierno austral y bajos
+en la temporada de estiaje.
+Anexo 10.13
+Página 9 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 11
+================================================================================
+El Proyecto considera zona de disposición, acopio y extracción en algunas cuencas
+costeras del sector, modificando la red de drenaje natural de los cauces. Con el objetivo
+de restituir la escorrentía generada por eventos pluviales hacia los cauces del sector, se
+considera la construcción de canales evacuadores y de contorno en algunas de las áreas
+intervenidas por el Proyecto.
+En la Figura - PAS 2-1 se muestra la ubicación general del proyecto, en tanto que en la
+Figura - PAS 2-2 se presenta el emplazamiento de las distintas zonas de extracción,
+disposición y acopio vegetal, así como también los caminos internos y las instalaciones.
+Figura - PAS 2-1. Ubicación general del proyecto, UTM WGS 84/Z18S.
+Fuente: Elaboración propia, 2024.
+La Tabla - PAS 2.1 detalla las coordenadas de los centroides de las zonas de extracción,
+disposición y acopio de suelo vegetal, mientras que la Figura - PAS 2-2 presenta su
+ubicación en el mapa:
+Anexo 10.13
+Página 10 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 12
+================================================================================
+Tabla - PAS 2-1: Coordenadas centroide de cada Zona del Proyecto.
+Coordenadas WGS 84 UTM 18S
+Tipo Nombre
+Este Norte
+Zona de disposición Neptuno 679.978 5.929.528
+Zona de acopio Zona de acopio de suelo vegetal 680.651 5.929.438
+Zona de extracción Luna 681.563 5.928.804
+Zona de extracción Maite 680.497 5.928.446
+Zona de extracción Victoria Norte 681.246 5.931.015
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-2: Obras del proyecto referentes a zonas de Extracción, Disposición y
+Acopio Vegetal, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 11 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 13
+================================================================================
+2.1.1. Identificación de Cauces
+Con respecto a la ubicación de los cauces, la Figura - PAS 2-3 muestra una planta general
+de la red de drenaje natural en el área de influencia del Proyecto, el trazado del Estero
+Penco como referencia, las distintas zonas de disposición, extracción y acopio vegetal y
+las rutas aledañas al proyecto:
+Figura - PAS 2-3: Red de Drenaje de la zona en que se emplaza el Proyecto, UTM WGS
+84/ H18S.
+Fuente: Elaboración propia, 2024.
+2.1.2. Coordenadas UTM de las Obras y Descripción del sector en el
+que se emplazarán las Obras
+Las obras para las cuales resulta aplicable el PAS 157 corresponden a canales de
+contorno, obras de empalme y de descarga, las que se encontrarán alrededor de las
+zonas de extracción, acopio de material vegetal y disposición.
+A continuación, se muestran las coordenadas de los puntos de inicio y fin de cada tramo
+de canal, para cada una de las zonas del proyecto y su ubicación en el mapa:
+Anexo 10.13
+Página 12 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 14
+================================================================================
+Tabla - PAS 2-2: Ubicación y longitud de los canales de contorno para la zona de
+extracción Maite.
+Zona
+Extracción Coordenadas UTM WGS 84/ Z18S
+Longitud
+Maite
+tramo (m)
+Canal Inicio Fin
+Contorno Este Norte Este Norte
+TC1 680.498 5.928.816 680.384 5.928.725 175
+TC2 680.339 5.928.645 680.238 5.928.513 174
+TC3 680.135 5.928.400 680.208 5.928.499 131
+TC4 680.836 5.928.375 680.512 5.928.157 456
+TC5 680.755 5.928.753 680.742 5.928.746 14
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-4: Ubicación en mapa de los canales de contorno para la ZE Maite,
+UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 13 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 15
+================================================================================
+Tabla - PAS 2-3: Ubicación y longitud de los canales de contorno para la zona de
+extracción Victoria Norte.
+Zona
+Extracción
+Coordenadas UTM WGS 84/ Z18S
+Victoria Longitud
+Norte tramo (m)
+Canal Inicio Fin
+Contorno Este Norte Este Norte
+TC1 681.284 5.931.440 681.232 5.931.417 64
+TC2 681.389 5.931.456 681.511 5.931.412 141
+TC3 681.465 5.931.151 681.527 5.931.374 260
+TC4 681.473 5.931.058 681.458 5.930.907 194
+TC5 681.242 5.930.724 681.460 5.930.873 289
+TC6 681.045 5.930.590 681.034 5.930.704 124
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-5: Ubicación en mapa de los canales de contorno para la ZE Victoria
+Norte, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 14 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 16
+================================================================================
+Tabla - PAS 2-4: Ubicación y longitud de los canales de contorno para la zona de
+extracción Luna.
+Zona
+Extracción Coordenadas UTM WGS 84/ Z18S
+Longitud
+Luna
+tramo (m)
+Canal Inicio Fin
+Contorno Este Norte Este Norte
+TC1 681.565 5.928.965 681.453 5.928.901 135
+TC2 681.421 5.928.748 681.453 5.928.901 167
+TC3 681.453 5.928.901 681.417 5.928.866 53
+TC5 681.719 5.928.900 681.745 5.928.905 22
+TC6 681.676 5.928.724 681.454 5.928.653 265
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-6: Ubicación en mapa de los canales de contorno para la ZE Luna, UTM
+WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 15 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 17
+================================================================================
+Tabla - PAS 2-5: Ubicación y longitud de los canales de contorno para la zona de
+disposición Neptuno.
+Zona
+Disposición Coordenadas UTM WGS 84/ Z18S
+Longitud
+Neptuno
+tramo (m)
+Canal Inicio Fin
+Contorno Este Norte Este Norte
+TC1 679.667 5.929.596 679.874 5.930.003 486
+TC2 679.958 5.929.893 679.874 5.930.003 150
+TC3 680.041 5.929.817 680.177 5.929.870 146
+TC4 680.266 5.929.566 680.177 5.929.870 321
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-7: Ubicación en mapa de los canales de contorno para la ZD Neptuno,
+UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 16 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 18
+================================================================================
+Tabla - PAS 2-6: Ubicación y longitud de los canales de contorno para la zona de
+acopio vegetal.
+Zona
+Acopio Coordenadas UTM WGS 84/ Z18S
+Longitud
+Vegetal
+tramo (m)
+Canal Inicio Fin
+Contorno Este Norte Este Norte
+TC1 680.553 5.929.378 680.579 5.929.552 179
+TC2 680.559 5.929.348 680.607 5.929.304 66
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-8: Ubicación en mapa de los canales de contorno para ZAV, UTM WGS
+84/ H18S.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 17 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 19
+================================================================================
+2.1.3. Descripción de las Características Generales del Cauce 100
+metros antes y después de la modificación
+Con relación a las características hidrológicas generales de las cuencas, según
+antecedentes presentes en el Estudio Hidrogeológico Cuenca Bío Bío (DGA, 2012), se
+pudo observar que, debido a su ubicación costera, el régimen es netamente pluvial. Los
+patrones de drenaje son del tipo dendrítico, los cuales advierten que se trata de suelos
+de textura fina, arcillosa o bien con estrato rocoso superficial, lo que provoca una baja
+permeabilidad, facilitando la escorrentía de las precipitaciones y con ello la erosión del
+perfil edafológico, con posterior formación de canales que van modelando la estructura
+de los contribuyentes a la cuenca principal.
+No existe infraestructura construida ni singularidades ubicadas en un radio de 300 (m)
+respecto del emplazamiento de los futuros canales de contorno que contempla el
+proyecto. Las cuencas asociadas a las zonas de extracción y disposición presentan cauces
+con flujos permanentes de bajo porteo en las zonas bajas, y cauces sin flujos
+permanentes en las zonas altas de sus cuencas, siendo mayoritariamente quebradas
+donde escurren aguas lluvias en la temporada pluvial.
+Las áreas se encuentran con extensa cubierta de matorrales de quila y algunos arbustos,
+reduciendo el acceso en ciertos sectores. Más allá de las riberas, las pendientes
+aumentan y la vegetación es de origen introducido, lo que cierra el campo visual con
+extensas plantaciones forestales de eucaliptus y pino radiata.
+Para las zonas de disposición y extracción no existen singularidades naturales ni
+infraestructura construida que condicionen el eje hidráulico en la zona de intervención
+del proyecto.
+Anexo 10.13
+Página 18 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 20
+================================================================================
+2.2. Descripción de la Obra y sus Fases
+El presente PAS tiene como alcance la modificación de las direcciones de flujo,
+provenientes de quebradas que han sido intervenidas para ser parte de las zonas de
+extracción, acopio y disposición. Son en dichas zonas donde se proyecta la construcción
+de distintas obras que permitan captar las escorrentías generadas y restituirlas a las
+cuencas y/o quebradas más cercanas. Dichas obras corresponderán a canales de
+contorno, obras de descarga y empalmes.
+2.2.1. Obras de captación y conducción
+2.2.1.1. Canales de Contorno
+Los canales de contorno se encuentran ubicados en los bordes de las Zonas de
+Extracción, Disposición y de acopio vegetal; su función es direccionar los aportes de
+escorrentía superficial de cerros y quebradas aledañas, y lo que aportan los distintos
+canales evacuadores correspondientes.
+El trazado de estos canales es concordante con la topografía de las zonas de Extracción,
+Disposición y de Acopio, registrándose en algunos casos pendientes superiores al 1%.
+Para evitar la erosión de los canales de contorno, se contemplan las siguientes cuatro
+medidas:
+• Serán revestidos con hormigón, piedras dispuestas de forma irregular y sistema
+constructivo estable (con malla acma o solución técnicamente similar). El
+revestido también puede ser cambiado por características técnicamente
+similares, acorde a lo definido en fases posteriores de ingeniería de detalles).
+• En los tramos de alta pendiente se implementarán gradas disipadoras de
+energía, también de hormigón con malla tipo acma y piedras dispuestas de forma
+irregular (o solución técnicamente similar).
+• Los canales de contorno evacuarán sus aguas tan pronto la topografía lo
+posibilite, de forma de minimizar el caudal que portean. Esto se realiza para
+evitar que transporten grandes caudales (menores a 2 m3/s). Se considera la
+forma natural de la red de drenaje, a fin de producir el menor impacto posible.
+Como se sostiene anteriormente, la energía se disipa mediante gradas y caídas
+que frenarán el flujo, disminuyendo su velocidad, energía y por consecuencia
+capacidad erosiva.
+La Figura - PAS 2-9 muestra un esquema conceptual de la sección tipo de los canales de
+contorno, mientras que la Figura - PAS 2-10 las gradas previstas para zonas de descarga:
+Anexo 10.13
+Página 19 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 21
+================================================================================
+Figura - PAS 2-9: Esquema propuesto tipo canal de contorno.
+Fuente: Elaboración propia, 2024.
+Figura - PAS 2-10: Esquema tipo gradas disipadoras de energía.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 20 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 22
+================================================================================
+La obra de empalme que une los canales evacuadores con los canales de contorno es
+presentada a continuación:
+Figura - PAS 2-11: Esquema tipo descarga canal evacuador en un canal de contorno.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 21 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 23
+================================================================================
+2.2.2. Dimensionamiento de Canales
+De acuerdo con los criterios y metodologías antes indicadas, en el Apéndice 10-13-3 –
+Obras Hidráulicas se presentan tablas resumen con el dimensionamiento de los canales
+de contorno en las Zonas de Extracción, Acopio Vegetal y Disposición.
+2.2.2.1. Zona de Extracción Maite
+Tabla - PAS 2-7: Resumen de canales de contorno para ZE Maite.
+ID Q diseño (m3/s) i [m/m] B (m) H (m) z [-] Revestido
+TC1 0,579 0,200 0,7 0,6 1 SI
+TC2 0,363 0,115 0,7 0,6 1 SI
+TC3 0,101 0,038 0,7 0,6 1 SI
+TC4 1,069 0,224 1,0 0,6 1 SI
+TC5 0,028 0,071 0,7 0,6 1 SI
+Fuente: Elaboración propia, 2024.
+2.2.2.2. Zona de Extracción Victoria Norte
+Tabla - PAS 2-8: Resumen de canales de contorno para ZE Victoria Norte.
+ID Q diseño (m3/s) i [m/m] B (m) H (m) z [-] Revestido
+TC1 0,0765 0,297 0,7 0,6 1 SI
+TC2 0,0823 0,071 0,7 0,6 1 SI
+TC3 0,2106 0,146 0,7 0,6 1 SI
+TC4 0,0965 0,119 0,7 0,6 1 SI
+TC5 0,7071 0,156 0,7 0,6 1 SI
+TC6 0,1456 0,242 0,7 0,6 1 SI
+Fuente: Elaboración propia, 2024.
+2.2.2.3. Zona de Extracción Luna
+Tabla - PAS 2-9: Resumen de canales de contorno para ZE Luna.
+ID Q diseño (m3/s) i [m/m] B (m) H (m) z [-] Revestido
+TC1 0,189 0,126 0,7 0,6 1 SI
+TC2 0,3769 0,036 0,7 0,6 1 SI
+TC3 0,5099 0,285 0,7 0,6 1 SI
+TC5 0,044 0,010 0,7 0,6 1 NO
+TC6 0,639 0,102 0,7 0,6 1 SI
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 22 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 24
+================================================================================
+2.2.2.4. Zona de Disposición Neptuno
+Tabla - PAS 2-10: Resumen de canales de contorno para ZD Neptuno.
+ID Q diseño (m3/s) i [m/m] B (m) H (m) z [-] Revestido
+TC1 1,375 0,121 0,7 0,6 1 SI
+TC2 0,240 0,133 0,7 0,6 1 SI
+TC3 0,509 0,185 0,7 0,6 1 SI
+TC4 0,549 0,162 0,7 0,6 1 SI
+Fuente: Elaboración propia, 2024.
+2.2.2.5. Zona de Acopio Vegetal (ZAV)
+Tabla - PAS 2-11: Resumen de canales de contorno para ZAV.
+ID Q diseño (m3/s) i [m/m] B (m) H (m) z [-] Revestido
+TC1 0,131 0,246 0,7 0,6 1 SI
+TC2 0,123 0,045 0,7 0,6 1 SI
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 23 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 25
+================================================================================
+2.2.3. Obras de descarga para Canales
+Los canales de contorno descargarán las aguas hacia quebradas aledañas por medio de
+canaletas de acero galvanizado corrugado (o solución similar técnicamente
+competente), de acuerdo con el esquema tipo que se presenta en la Figura - PAS 2-12.
+Figura - PAS 2-12: Esquema tipo de obra de descarga canal de contorno.
+Fuente: Elaboración propia, 2024.
+Anexo 10.13
+Página 24 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 26
+================================================================================
+2.2.4. Descripción de la etapa de construcción, operación y abandono
+si corresponde
+Como se mencionó anteriormente, los canales de contorno serán construidos
+previamente a que se inicie la operación de cada obra, en la medida que avancen los
+frentes de intervención de estas, dado que las aguas de las cuencas que serán
+modificadas por las zonas de extracción, acopio vegetal y disposición serán captadas
+mediante canales evacuadores que serán construidos de manera progresiva conforme
+se desarrollen los bancos de deposición o extracción, según la obra del Proyecto en que
+estén emplazadas.
+Estos canales evacuadores se irán conectando mediante empalmes a los canales de
+contorno correspondiente. Dichos canales tendrán un revestido definitivo con
+hormigón, piedras dispuestas de forma irregular y sistema constructivo estable (con
+malla acma o solución técnicamente similar).
+Por su parte, el concepto global de manejo de las aguas lluvias sobre el depósito,
+corresponde al empleado en el saneamiento de aguas lluvias en carreteras de montaña,
+consistente en ir descargando las aguas a quebradas laterales de manera de no
+concentrar los caudales y asegurar el saneamiento y la estabilidad del depósito.
+Para la fase de cierre del proyecto tampoco se contemplan nuevas obras de conducción
+tipo canal de contorno, debido a que las aguas podrán escurrir de manera natural por
+las obras ya construidas.
+Anexo 10.13
+Página 25 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 27
+================================================================================
+2.3. Estimación de los Plazos y Períodos de Construcción de
+las Obras
+Fase de construcción
+Durante la fase de construcción se considera el escarpe de las ZE Victoria Norte y Luna
+durante los últimos 6 meses de la fase mencionada, tal como se detalla en la siguiente
+tabla.
+Tabla - PAS 2-12: Cronograma fase de construcción de ZE (Luna y Victoria Norte).
+Fuente: Elaboración propia.
+La habilitación de la ZD Neptuno se considera durante los primeros 8 meses de la fase
+de construcción del Proyecto, mientras que la ZAV considera el retiro de la vegetación y
+acondicionamiento del terreno durante 1 mes aproximadamente, tal como se detalla en
+la siguiente tabla.
+Tabla - PAS 2-13: Cronograma fase de construcción ZD Neptuno y ZAV.
+Fuente: Elaboración propia.
+Fase de operación
+La fase de operación de las ZE se considera durante un periodo de 6 años, donde en cada
+zona de extracción se habilitarán obras hidráulicas a fin de permitir captar las
+escorrentías generadas y restituirlas a las cuencas y/o quebradas más cercanas. Dichas
+obras corresponderán a canales evacuadores, de contorno y cuando lo amerite sentinas
+Anexo 10.13
+Página 26 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 28
+================================================================================
+de bombeo, en que se contempla la impulsión mediante bombas eléctricas para evacuar
+la acumulación de aguas lluvias a los canales de contorno.
+Tabla - PAS 2-14. Cronograma fase de operación
+Fuente: Elaboración propia.
+Con respecto a la operación de la ZD Neptuno y ZAV, estas se encontrarán operativas
+durante un periodo de 6 años, tal como se detalla en la Tabla - PAS 2-15.
+Tabla - PAS 2-15: Cronograma fase de operación ZD Neptuno y ZAV.
+Fuente: Elaboración propia.
+Fase de cierre
+Para las plataformas de la ZE, ZD y ZAV considera su reforestación con especies arbóreas
+nativas, se consideran las siguientes etapas:
+• Incorporación de una mezcla de escarpe superficial y material vegetal.
+• Siembra con semillas de herbáceas.
+• Plantación de arbustos.
+• Plantación de especies arbóreas.
+Se estima una frecuencia de monitoreo trimestral durante los dos primeros años y
+semestral a partir del tercer año. Lograr una cubierta con vegetación, permitirá asegurar
+la estabilidad de la revegetación y el control de la erosión.
+Anexo 10.13
+Página 27 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Z D
+S
+Á r e a
+N e p tu n
+Z A V
+to c k p ile
+o
+M
+D
+A c t iv id a d
+is p o s ic ió n d e a r c illa s
+la v a d a s
+D is p o s ic ió n d e la s tr e
+(E s c a r p e )
+in e r a l / D is p o s ic ió n d e
+a r c illa s la v a d a s
+2 0 2 6 2 0 2 7 2 0 2 8 2 0 2
+A
+9
+ñ o s
+2 0 3 0 2 0 3 1 2 0 3 2 2 0 3 3
+================================================================================
+PAGE 29
+================================================================================
+2.4. Plano topográfico de planta y perfiles, georreferenciado,
+de la obra y del área susceptible de ser afectada
+Los planos topográficos y perfiles se presentan en el Apéndice 10-13.1.
+2.5. Memoria del cálculo del estudio hidrológico, hidráulico,
+de arrastre de sedimentos y de socavaciones, para la
+situación con y sin proyecto, según corresponda
+2.5.1. Estudio Hidrológico
+El estudio hidrológico se presenta en el Anexo 10-13.2 – Informe Hidrológico.
+2.5.2. Estudio Hidráulico
+El estudio hidráulico se presenta en el Anexo 10-13.3 – Informe Hidráulico,
+complementado también por Anexo 10-13.3 B.1 – Cálculo de Escorrentía y Anexo 10-
+13.3 B.2 – Diseño de Canales y Alcantarillas.
+2.5.3. Estudio de Arrastre de Sedimentos y Socavación
+Para el diseño de obras hidráulicas se consideró la velocidad de erosión como un
+parámetro para decidir si revestir los canales de contorno o no. Esta velocidad de
+erosión se obtuvo del Manual de Carreteras Vol. 3, tabla 3.703.301 B para un terreno de
+tipo arcilla limosa. Finalmente, todos los canales de contorno, a excepción del canal TC5
+de la zona de extracción Luna, serán revestidos bajo el criterio mencionado
+anteriormente.
+Anexo 10.13
+Página 28 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 30
+================================================================================
+2.6. Plan de Monitoreo
+Se considera monitoreo de calidad de agua asociado a la zona de disposición Neptuno,
+dado que en esta área se acopiará tanto el estéril extraído desde las zonas de extracción,
+como las arcillas procesadas, proveniente del proceso de la Planta.
+No se considera monitoreo de calidad de agua para las zonas de extracción, debido a
+que en estas áreas solo se realizará extracción de material. Tampoco se considera
+monitoreo las zonas de acopio de suelo vegetal, siendo que en estas áreas se dispondrá
+temporalmente únicamente el escarpe de suelo a realizar en las zonas de extracción y
+zonas de disposición.
+2.7. Medidas Tendientes a Minimizar los Efectos Sobre la
+Calidad de las Aguas, Aguas Abajo del Lugar de
+Construcción de las Obras.
+A continuación, se indican las características del material a depositar en la zona de
+disposición y las medidas tendientes a minimizar los efectos sobre la calidad de las
+aguas, particularmente referidas al monitoreo de calidad de agua posterior al último
+lavado de mineral en la Planta de procesamiento.
+2.7.1. Sobre el mineral presente en el lugar
+Considerando las unidades litológicas que se encuentran en la zona del Proyecto y la
+mineralogía presente en estas, se puede concluir que las rocas y arcillas de Penco no son
+generadores de acidez ya que no contienen minerales sulfurados.
+En relación con lo anterior, cabe señalar que las aguas ácidas habituales en otro tipo de
+minería se originan mediante la oxidación química y biológica de la pirita (FeS ). Este
+2
+fenómeno se produce cuando las rocas conteniendo dichos sulfuros entran en contacto
+con oxígeno (aire o agua) en condiciones adecuadas.
+Las unidades que se encuentran en las zonas de desarrollo del Proyecto corresponden a
+2 tipos; rocas intrusivas del Batolito de la Costa, las que localmente se agrupan en el
+Complejo Plutónico Penco, y rocas metamórficas, denominadas Metapelitas.
+Durante los estudios de los materiales presentes en el área del proyecto, se revisaron
+las condiciones y procesos naturales actuales “insitu” del saprolito que será explotado,
+concluyéndose que éste no presenta ningún tipo de formación de aguas o drenajes
+ácidos en la zona del proyecto ni alrededores.
+Anexo 10.13
+Página 29 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 31
+================================================================================
+En el caso del Proyecto Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, la composición mineralógica del material que será extraído, procesado en planta
+y posteriormente llevado a las zonas de disposición, es bastante homogénea y está
+compuesto mayoritariamente por arcillas (40%), cuarzo (30%), micas (10%) y óxidos de
+hierro (9%). No presenta ningún tipo de sulfuros (ej. Pirita), que como se menciona con
+anterioridad es el principal productor de acidez y formador de aguas acidas cuando
+existen condiciones ambientales para ello.
+Por otro lado, el Proyecto empleará vehículos en buen estado y con revisiones técnicas
+al día, considerando realizar mantenciones, minimizando de esta manera la ocurrencia
+de algún vertido accidental de combustible o hidrocarburos en quebradas.
+En el Anexo 1-9 del Capítulo 1 Descripción de Proyecto del EIA se adjunta la
+Caracterización Geoquímica del material de las arcillas por procesar (zonas de
+extracción).
+2.7.2. Características de las arcillas procesadas proveniente de la
+planta
+Respecto del material que ha pasado por planta, arcillas procesadas, que será dispuesto
+en las zonas de disposición, en la fase de operación dentro del proceso de la Planta, el
+material será lavado para asegurar su estabilidad química, recuperando el agua de
+lavado y los reactivos empleados en el proceso para ser recirculados en el mismo. El
+proceso de lavado, contribuye a la estabilidad química para las arcillas procesadas.
+En relación con lo indicado sobre las características del agua de lavado, como parte de
+la operación de la Planta de procesamiento, no se contempla el monitoreo de calidad
+de agua de la etapa de lavado, dado que el lavado se hace en filtro de prensa y después
+va a la planta de recuperación, quedando el agua en un circuito cerrado sin agua de
+descarte. Para más información al respecto a las características geoquímicas del material
+de las zonas de Disposición, ver Anexo 10.3 PASM 136 del presente Estudio de Impacto
+Ambiental.
+Considerando los antecedentes presentados, no se prevé una afectación en la calidad
+del agua en las zonas de disposición en relación con las aguas lluvias que infiltrarán en
+estos depósitos.
+Anexo 10.13
+Página 30 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 32
+================================================================================
+2.7.3. Sobre el depósito formado por las arcillas procesadas
+En la zona de disposición se rellenará, para su disposición final, con estéril proveniente
+de las zonas de extracción, las arcillas procesadas en la Planta y material excedente del
+acondicionamiento y/o construcción de caminos.
+El material procesado proveniente de la Planta, el cual que será acopiado en las zonas
+de disposición no corresponde a relave, dado que, al no pasar por procesos de
+conminución, no alcanza una granulometría tal, que el material a disponer corresponda
+a una “suspensión de sólidos en líquidos formando una pulpa”. En el proceso de
+obtención de las tierras raras, antes de disponer las arcillas procesadas, estas son
+sometidas a un a lavado, obteniéndose un material sólido que presentará un contenido
+de humedad en torno al 20%. El material será dispuesto en capas, que irán siendo
+compactadas al momento de su disposición, de modo que alcancen las condiciones
+geotécnicas requeridas para la estabilidad del mismo. Para más información al respecto
+a la estabilidad química y física de las zonas de disposición, ver Anexo 10.3 PASM 136.
+La capa de suelo vegetal será escarpado antes del inicio de la operación de la ZD y la
+superficie expuesta será compactada junto el material depositado.
+2.7.4. Plan de seguimiento de la calidad de las aguas durante la fase
+de operación
+Para la zona de disposición se consideran monitoreos de calidad de agua en puntos
+previos a la zona de la descarga a las quebradas o cauces naturales.
+Los parámetros que se monitorearán serán los establecidos en la Norma Chilena de
+Riego NCh 1333, se incluirá además medición de Amonio y Nitrógeno Total.
+Para las Zonas de Disposición, durante la fase de operación, el monitoreo de calidad de
+aguas tendrá una frecuencia mensual durante los primeros tres (3) años, para
+posteriormente realizar monitoreos con una frecuencia trimestral.
+En virtud de los resultados, una vez finalizada la fase de operación y de acuerdo con lo
+que se establezca sectorialmente en el Plan de Cierre, se definirá la frecuencia de
+monitoreo para la fase de cierre y post cierre.
+A continuación, se presentan los puntos de monitoreo propuestos para cauces
+individualizados dentro del área de influencia del Proyecto (Apéndice 10-13-2 – Informe
+de Hidrología). Cabe destacar que los puntos donde se plantea el monitoreo de
+parámetros de calidad del agua (Temperatura, pH, Oxígeno disuelto, Conductividad
+Anexo 10.13
+Página 31 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 33
+================================================================================
+eléctrica, Sólidos Disueltos Totales, Aceites y Grasas) no consideran ninguna obra por
+construir dentro de la sección de cauce, desde la cual se extraerá la muestra por analizar
+(en caso de existir flujo al momento del monitoreo):
+Tabla - PAS 2-16: Coordenadas de los puntos de monitoreo.
+Coordenadas WGS84
+ID Tipología Punto de Control
+H18S
+Este Norte
+Puntos de control de cuencas de quebradas
+CAO1 679.922 5.930.209 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO2 676.870 5.928.247 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO3 679.574 5.927.717 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO4 679.408 5.924.733 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO5 680.634 5.929.983 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO6 680.556 5.929.598 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO7 680.183 5.929.882 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO8 679.945 5.930.064 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO9 680.029 5.928.601 afluentes al Río Andalién.
+Puntos de control de cuencas de quebradas
+CAO10 680.373 5.927.946 afluentes al Río Andalién.
+Puntos de control de obras y atraviesos de
+CAO11 680.378 5.931.251 quebradas afluentes al Estero Penco.
+Puntos de control de obras y atraviesos de
+CAO12 678.963 5.932.507 quebradas afluentes al Estero Penco.
+Puntos de control de obras y atraviesos de
+CAO13 682.579 5.930.492 quebradas afluentes al Estero Penco.
+Puntos de control de obras y atraviesos de
+CAO14 682.084 5.930.610 quebradas afluentes al Estero Penco.
+Puntos de control de obras y atraviesos de
+CAO15 680.972 5.931.279 quebradas afluentes al Estero Penco.
+Puntos de control de obras y atraviesos de
+CAO16 681.326 5.930.702 quebradas afluentes al Estero Penco.
+Fuente: Elaboración propia.
+Anexo 10.13
+Página 32 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 34
+================================================================================
+Figura - PAS 2-13: Puntos de monitoreo.
+Fuente: Elaboración propia.
+Anexo 10.13
+Página 33 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 35
+================================================================================
+2.8. Plan de Contingencias
+Como plan de contingencias se establecerá un plan de prevención de contaminación del
+cauce donde se disponen medidas generales, detalladas a continuación:
+• Capacitación de Trabajadores con respecto a la importancia del recurso hídrico
+y los contaminantes. En este mismo sentido, se prohibirá estrictamente la
+eliminación de desechos al interior de los cauces.
+• Se capacitará al personal a cargo de las obras con el objetivo de preservar las
+condiciones de las quebradas y evitar la perturbación por elementos, materiales
+o sustancias distintas a los de las quebradas. Se mantendrá un registro de esta
+actividad en la instalación de faena.
+• Manejo de elementos o materiales contaminantes en la instalación de faenas en
+el lugar determinado para esto.
+• Se prohibirá efectuar cualquier tipo de reparación o mantención de vehículos o
+maquinarias en sitios aledaños a los cauces.
+• Se prohibirá la colocación de acopios de escombros y basuras que puedan
+quedar en el cauce (vías preferenciales de escurrimiento) y que puedan afectar
+la calidad de las aguas.
+• Con el fin de evitar posibles derrames de aceites, lubricantes, combustibles o
+cualquier residuo líquido proveniente de maquinarias o equipos, se preferirá su
+operación por el costado exterior de los cauces.
+• Mantener observación periódica de los canales de contorno y, en particular,
+observación de estas obras después de ocurrido un evento sísmico y/o
+pluviométrico de importancia con el objeto de verificar el normal
+funcionamiento de cada obra y realizar las reparaciones o adecuaciones
+requeridas en caso de ser necesario.
+Anexo 10.13
+Página 34 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 36
+================================================================================
+2.9. Plan de Emergencia
+En caso de cualquier emergencia relacionada al derrame de sustancias indeseadas desde
+alguno de los canales de contorno, que pueda eventualmente afectar los cauces
+naturales aledaños, se propone el siguiente plan:
+• Determinar la naturaleza y extensión del derrame, identificando las sustancias
+involucradas y evaluando la proximidad a zonas sensibles como áreas
+residenciales o ecosistemas frágiles.
+• Notificar a las Autoridades Ambientales competentes, en este caso se deberá
+informar al Supervisor y al Especialista Ambiental Regional en turno a los cuales
+se les deberá entregar un informe con los detalles.
+• Lograr contener el derrame, para esto, se deberá cubrir con mezcla de arena
+seca, carbonato de sodio o tierra, evitando el uso de aserrín. Además, se debe
+evitar el uso indiscriminado de agua para diluir las sustancias.
+• Antes de retirar el residuo, se debe verificar que la mezcla de absorción se
+encuentre seca antes de almacenarla, en caso contrario se debe agregar mayor
+cantidad de material absorbente.
+• El contenedor donde se almacenarán los residuos debe ser de un material
+resistente al residuo. La recolección del material producto del derrame será
+almacenado en la Zona de Almacenamiento de Residuos Peligrosos y
+posteriormente retirado por un proveedor externo.
+• En el caso de que alguno de los parámetros monitoreados en el Registro de
+calidad de aguas supere el rango estipulado por la normativa, se paralizarán las
+obras en el sector dando aviso inmediato a la autoridad competente. Los
+informes con registros de muestreo se mantendrán en las oficinas
+administrativas del proyecto y podrán ser solicitadas por la SMA en caso de ser
+necesarios.
+• Finalmente, se deberá revisar el plan de contingencias para identificar áreas de
+mejora y realizar ajustes según sea necesario.
+En virtud de los antecedentes presentados en el presente documento, se confirma que
+las medidas adoptadas para la ejecución de las obras no afectan la vida y/o salud de los
+habitantes, mediante la no contaminación de las aguas.
+Anexo 10.13
+Página 35 de 35
+Permiso Ambiental Sectorial N°157
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras

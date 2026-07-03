@@ -1,0 +1,10 @@
+.env
+
+# ---- Large / binary geospatial files ----
+*.shp
+*.dbf
+*.shx
+*.tif
+*.tiff
+*.kmz
+*.gpkg

@@ -1,0 +1,1405 @@
+==================================================================================
+PAGE 1
+==================================================================================
+170 1 1 171 7 1 1 6 72 1 6 6 2 8 1 8 1 7 1 3 7 8 7 0 8 16 182 7 17 18 4 1 179 172 161 155 15 15 7 9 152 154 151 156 14 15 8 0 14 1 7 5 1 1 6 5 3 2 8 149 153 160 160 191 179 184 175 1 1 8 7 9 1 1 8 8 1 3 7 7 2 4 177 17 1 3 8 1 2 76 18 1 0 86 181 187 181 188 217 2 212 19 20 2 5 03 19 2 8 21 1 9 2 91 94 1 2 1 2 2 1 1 2 0 4 9 2 6 7 2 1 0 2 7 9 2 0 3 1 1 92 1 0 9 3 1 2 95 6 0 2 4 202 2 201 0 210 2 2 08 1 2 5 0 2 9 23 218 224 216 032 234 2 2 3 4 6 2 243 2 2 3 4 3 4 24 2 0 29 238 225 239 237 24 228 1 231 232 235 226 246 240 242 245 142 244 243 264 MANAGEMENT PLAN IO IV N IL D E E S PLANTATIONS
+185 192 190 189 193 227
+184 194
+187
+187
+291
+186
+188 194
+224 291
+228
+256 272 192 287 286 287 288
+174
+176
+219 291 289 291
+295
+171 173 178 181 195 290 295
+170 172
+17
+1
+7
+75
+17
+1
+1
+7
+1
+6
+1
+5
+6
+4
+6
+183
+190
+192
+211
+188
+203
+208 215
+216
+200 214
+254
+257 273
+276
+280
+2
+2
+88
+82
+283
+290
+286
+2
+29
+9
+3
+2
+294
+217 207 197 205 239 235 250 245 279 285
+178
+146 142 143 14 14 4 5 151 149 150 152
+155
+153
+159 156
+179
+161
+170
+1
+1
+7
+8
+2
+2
+18 1 6 80 185 212
+220
+223
+230 227
+221
+233
+222 258 271
+281
+275 287 277 289 278 274
+284 276
+278 147 148 189 244 252 274 280 297 288 288
+LEGEND 160
+169 178
+193 902
+236 240 251 286 302
+163 174 226 232 234 241 267
+316
+275 293 309 305 315
+165 273 290 295 304 299
+30
+2
+6
+96
+300
+301
+311
+317
+128
+177
+175
+206 210
+204
+213 201 224 255 2
+23
+4
+1
+7 249 246 277 276 268
+272
+292 288 285
+2
+2
+8
+9
+7
+8 308 310 3
+3
+1
+0
+9
+3
+294
+31
+3
+2
+20
+291
+3
+3
+1
+0
+3
+7
+318
+309
+314 311
+199
+123 270 269
+157
+167
+191
+253 217
+224 229 248
+271
+9 36 5 1 9 79 0 3 1 9 3 9 7 7 0 8 1 1 6 7 2 1 9 1 4 1 3 4 3 1 1 0 6 8 1 3 0 1 5 0 8 1 0 9 7 0 4 5 1 3 2 0 9 1 9 9 2 2 9 7 1 1 8 4 0 0 4 4 6 4 8 5 2 7 8 0 1 3 8 8 1 9 9 7 0 4 6 8 4 4 9 3 1 9 9 87 0 1 1 8 6 0 2 6 4 5 7 6 6 7 5 3 8 79 81 6 4 7 10 4 1 54 5 7 8 4 6 1 7 8 6 5 9 6 1 7 8 5 4 3 5 7 4 6 5 6 7 6 2 5 4 5 3 5 37 1 08 5 7 9 4 7 1 3 0 7 6 5 8 0 6 8 3 2 55 9 68 4 5 6 7 0 6 1 5 2 7 4 4 6 8 3 0 42 6 7 4 5 3 7 9 4 6 3 66 95 45 6 96 9 4 1 4 04 5 9 5 4 9 7 0 8 7 7 4 7 10 5 6 1 2 0 8 5 9 7 8 4 6 5 8 7 8 9 5 7 9 4 4 5 5 6 3 1 69 9 6 5 6 76 6 9 2 5 8 7 8 8 0 0 7 6 8 9 5 0 1 72 0 7 4 9 9 7 1 6 4 7 110 7 9 1 9 29 121 10 1 9 15 5 8 93 1 123 01 11 1 2 06 97 11 1 1 1 1 3 8 8 10 1 0 14 1 1 0 37 3 1 1 0 9 3 6 7 3 10 1 2 1 3 2 4 11 7 7 95 119 109 142 136 1 1 1 8 1 5 4 6 2 0 2 1 0 17 2 3 168 9 13 1 1 16 140 1 10 2 4 5 1 14 5 1 8 1 1 0 1 8 5 1 5 3 461 124 1 1 3 3 0 5 13 1 2 1 5 2 2 8 151 1 1 4 4 8 5 139 149 144 143 14 1 7 56 146 154 196 202 225 2 2 1 37 8 248 243 229 238 2 1 4 9 2 8 259 18 18 2 6 181 183 184 196 197 204 208 2102 2 1 0 4 7 208 207 212 214
+73
+104105 108 1 111 15 105 1 1 0 0 1 7 2 1 0 1 0 1 1 3 0 2 1 4 1 2 0 03 8 1 1 1 0 4 9 211 110 116 119 11 1 1 4 1 0 7 7 110 1 1 1 2 3 6 1 1 1 0 1 8 8 11 10 1 7 09 115 112 131 114 1 1 2 1 0 2 3 8 8 1 1 0 1 2 1 7 3 1 0 7 21 1 1 2 3 5 1 1 1 2 7 1 1 9 1 3 12 2 9 1 116 1 124 26 1 13 3 2 3 1 1 2 2 7 1 1 42 1 1 1 1 3 5 9 1 3 6 28 12 1 2 4 13 1 1 12 1 3 30 140 135 125 134 140 142 141 1 1 1 3 4 3 8 7 9 1 1 1 4 4 0 2 46 147 153 156 160 167 174 1 1 7 79 4 179 181 PROPERTY AREA TABLE
+CARTOGRAPHIC AND GEODETIC DATA
+UTM coordinates
+Datum: WGS84-Huso 18 South
+Equidistance: 1 meter
+ENVIRONMENTAL MANAGEMENT CONSULTANTS
+982
+3.22 8.3 2.1 3.12 2.3 3.11 3.16 3.10 3.25 3.24 B 1 e 2 l 9 la 0 v -1 is 7 t 0 a, 165 175 179 3.8 8.1 Lot 17 6 H 168 166 177 181 169 183 3.26 3.23 1281-65 1281-64 8.2 8.4 3.5 3.15
+3.1 4.34 1281-62 Santa 173
+172
+164 163
+167
+171 178 3.4 3.36 3.27 9.2 M
+I
+to
+ta
+you
+t
+l
+to
+of and
+c
+Q
+or
+c
+ih u
+1
+and
+R
+c
+u
+or
+ta
+9.4 3.7 182 170
+174 1281-63 Lot
+2 sector
+180
+Itata Route
+9.1 1290-169
+3.37 Bellavista,
+Lot G 3.13
+9.3 3.32 4.47 7.3
+3.28
+4.26
+7.4 7.5 261
+7.1 3.29
+3.33
+7.2
+3.30 3.31 3.6 4.8
+3.34 4.5 4.48
+4.39 4.49 4.4 4.24 291 4.3 1281-31 4.33 4.23 4.9 La Cruz 4.40 4.1 4.2 1287-1 El 4.7 4.35 Cortijo Dos 262
+4.6 4.29
+4.43 4.10 279 4.32
+4.25
+4.44 4.30 4.31 4.17 4.20 4.38 266 265
+4.11 4.28 4.46 4.45 4.12 4.18 4.22 4.4 4 1 .21 6.1 6.2 6.6 263 278 280 281 283 282 284 4.27 6.7 260 6.4 4.16
+4.19
+21287-6 El Retamo
+Two, Lot J
+462
+229 4.37 4.42
+6.8 4.15 4.14 4.13 6.9 6.5 4.36 6.3 86 81 85 82 84 78 83 79 63 80 21287-5 64
+166 115567 168 155 162 189 180 223 223 190193 245 260
+294
+141 287 282687
+248247
+216 119 210212 209 109 97 9955 222 197 118787 184 35 181 788 35 4444 81 81 81 781188 7 81
+185 109 1811
+18856 142 139 146 99 106 103 111 120 125 124 156 161
+89
+679,950 680,450 680,950 681,450 681,950 682,450
+1 1 151 6 58 16 6 96 1 0 1 1 1 6 1666 9 345 111767091 154 161 171 172 185 224 191 239 26 22 366 21 173 167 168169 175
+3.35
+277 279 287
+1111871115 11143 106 209 1 1111 11 0 000 9 0 00 8 35 9 6 9 7 02 7 96 2112212 2 2 12 2 6 2 71 2 0 1 11 12285 9 9 32 201 183 80 77 185 186 186
+75
+180 182 183 184 1 1 4401 137 101 106 106 106 11 11 1 19 0 1 05 1 2 0 1 11 46 1 3 8 111 5 0019 107 111211108 17 6 111 11554 54018 29
+679,950 680,450 680,950 681,450 681,950 682,450
+000.929.5
+005.829.5
+000.829.5
+005.729.5
+000.729.5
+000.929.5
+005.829.5
+000.829.5
+005.729.5
+000.729.5
+LOCATION SKETCH
+Region
+of the Biobío
+Commune
+from Penco
+dxm.21 ed
+4
+noicnevretnI
+ed
+onalP
+941 SAP - 2A\20V\dxM\941SAP\SAP\ocneP
+oludóM
+otceyorP
+IEA
+- 8605022\OSRUC
+NE
+SOTCEYORP\:S
+SCALE 1:5,000 0 125 250 500
+m
+G.L.
+:robalE
+±
+± 205 259 1281-63 Lot 2 sector Ruta Itata 262 9.3263 EIA "Clay Extraction Project for the Production of Rare Earth Concentrate" 204 220 4.47 PPllaann P o P o l l a d a d n e n e o o II nn 44 t t e d e d r e r e vv e 1 e 1 n 2 n 2 cciióónn
+199 201 221 196 4.26 1281-31 The Cross
+±195 231 ±
+198 CoComiuhunae cdoe
+197 202
+200
+1
+2
+9
+0
+4
+3
+226 dCeo Pmeunncao
+Province of
+Conception
+222
+218
+237238 241
+235
+219
+213 ±
+208 207
+214 225
+215 210
+209
+206 212
+234
+239240
+4.48 211 22 2 7 30 228 233 232 236
+1287-1 El Cortijo Dos 235 236 4.5 240 239 216 217 224 4.49 229 23 2 4 38 237 24 2 1 44 24 2 5 4 2 3 2 4 4 8 6 4.24 223 242 250 247 25 2 2 49 25
+2
+1
+56
+253
+254 255 257 259 258
+247 260 264 263 262 261 BASE MAPPING THEMATIC MAPPING 254 266 265
+267
+4.9 4.33 Administrative Limits ! Citronella mucronata 258
+1281-31 La Cruz ^_ 252 257 Provincial Boundary Reference Points
+4.40 Regional Limit 4.7 243 264 Land Use Capacity Class Communal Limit IV 4.6 265 Commune of Penco
+N.C.
+4.38 Property Limits
+VI
+4.25 245
+Land Affected to Short
+248 VII
+249
+Neighboring Properties
+251 250 263 VIII
+253 Project Works 255 259 246 262 261 260 267 Road Surface Covered by Plantations Forest Plantations Affected by Cutting 4.20 256 National Road Network 4.1 4.19 4.28 4.37 4.46 Orography 266 4.10 4.2 4.29 4.38 4.47 4.28 Contour Curves 4.21 4.11 4.20 4.3 4.39 4.48 242 6.1 6.6 Hydrog R ra e f hydrological day 4.12 4.21 4.30 4.4 4.49 244 4.41 2 2 4 4 0 7 6 24 .7 2 237 23 2 8 2 5 3 2 2 4 4 3 2 2 2 3 5 1 9 0 2 2 4 2 8 5 8 2 3 44 7 2 2 - 4 5 1 6 5 24 2 5 5 2 E 1 5 2 9 4 l 2 6 56 R 2 2 6 4 3 9 e 26 2 t 0 6 2 a 5 57 m 2 2 6 5 2 4 4 58 o 26 D 7 os, 2 6 L 2 ote 266 J 6.4 6.2 Slope 0 1 - 5 n 1 - t 5 3 e 0 s (°) 4 4 4 . . . 1 1 1 3 4 5 4 4 4 . . . 2 2 2 2 3 4 4 4 4 . . . 3 3 3 1 2 3 4 4 4 . . . 4 4 4 0 1 2 4 4 4 . . . 5 6 7 4.16 4.25 4.34 4.43 4.8 30-45 4.17 4.26 4.35 4.44 4.9
+45-60
+4.18 4.27 4.36 4.45 60 Y + 229 ±233 234 235
+171
+4.4
+4
+5
+.44 176
+4.27
+4.12
+184 185 1 4 90 .11 197 194 208 212 4.30
+4.18
+4. 2 3 0 1 7
+2
+2
+2
+1
+1
+1 209 210 222 223 4.17
+2
+4
+18
+.2
+22
+2
+5 226 228
+219
+231
+2 2 2 16
+2
+0
+27 4.2 22 0 4 230 232 195
+1 18 9 8 1
+12
+187
+9
+18
+0
+2
+19
+17
+0
+-
+7
+175
+1
+1 1
+1
+8 7 1
+8
+7 4 4 8
+9
+6
+17 17 9 1
+9
+1 1 8 7 3 2 16
+b
+1
+8 1
+8
+7 1
+6
+3 7
+and
+0
+3. l 3 1 l 9 a 0 4
+1
+1
+81
+7
+v
+6
+1 i 96 st
+18
+to
+0
+,
+192
+1
+l
+8
+1
+5
+9 or 8 tea
+1
+g
+9
+1
+3
+97
+199 3 202 2 . 0
+2
+6 1
+00
+204
+19
+2
+1
+6
+0
+9
+3
+3
+198
+3
+2 2 0 0 5 6
+.35
+207 208 3 20 . 9 34 012 3 211 .3 212 1 213 214
+20 19 5 9 211
+216 21 4 5 .8
+214
+220
+2
+2
+2
+3
+5
+1
+23 4 9 .5
+22
+2
+9
+38 233 232 23
+2
+6
+21 2 2 1 2 7 3
+±
+219
+234 224
+Predict 4 4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4 4 4 4 4
+4 4
+os No. No. C C C C C C
+C C C C C
+C C C C C C C C C
+C C
+R 0 0 0 0 0 0
+0 0 0 1 1
+1 1 1 1 1 1 1 1 1
+1 1
+or 9 9 9 9 9 9
+9 9 9 0 0
+0 0 0 0 0 0 1 1 1
+1 1
+d 0 1 2 3 4 5
+6 7 8 0 1
+2 5 6 7 8 9 0 2 3
+4 5
+to the Area
+4 4
+4 4 4 4 4 4 4 4 4
+4 4
+a 4 4 4 4 4 4
+4 4 4 . .
+. . . . . . . . .
+. .
+. . . . . .
+. . . 1 1
+1 1 1 1 1 1 1 1 2
+2 2
+C 1 2 3 4 5 6
+7 8 9 0 1
+2 3 4 5 6 7 8 9 0
+1 2
+orta P P P P P P
+P P P P P
+P P P P P P P P P
+P P
+l l l l l l
+l l l l l
+l l l l l l l l l
+l l
+a a a a a a
+a a a a a
+a a a a a a a a a
+to to
+n n n n n
+n n n n
+n n n n n n n n n
+n n
+t t t t t t
+t t t t t
+t t t t t t t t t
+t t
+a a a a a a
+a a a a a
+a a a a a a a a a
+to to
+c c c c c c
+c c c c c
+c c c c c c c c c
+c c
+i i i i i i
+i i i i i
+i i i i i i i i i
+i i
+ó ó ó ó ó
+or or or or or
+ó ó ó ó ó ó ó
+or or
+n n n n n
+n n n n
+n n n n n n n n n
+n n
+d d d d d d
+d d d d d
+d d d d d d d d d
+d d
+e e e e e e
+e e e e e
+e e e e e e e e e
+e e
+E E E E E E
+E E E E E
+E E E E E E E E E
+E E
+R u u u u u u
+u u u u u
+u u u u u u u u u
+u u
+o c c c c c c
+c c c c c
+c c c c c c c c c
+c c
+d a a a a a a
+a a a a a
+a a a a a a a a a
+to to
+a l l l l l l
+l l l l l
+l l l l l l l l l
+l l
+l and and and and and and
+and and and and and
+and and and and and and and and and
+and and
+p p p p p p
+p p p p p
+p p p p p p p p p
+p p
+t t t t t t
+t t t t t
+t t t t t t t t t
+t t
+u u u u u u
+u u u u u
+u u u u u u u u u
+u u
+yes yes yes yes yes
+yes yes yes yes
+s s s s s s s s s
+yes yes
+g g g g g g
+g g g g g
+g g g g g g g g g
+g g
+l l l l l l
+l l l l l
+l l l l l l l l l
+l l
+o o o o o o
+o o o o o
+o o o o o o o o o
+or or
+b b b b b b
+b b b b b
+b b b b b b b b b
+b b
+u u u u u u
+u u u u u
+u u u u u u u u u
+u u
+l l l l l l
+l l l l l
+l l l l l l l l l
+l l
+u u u u u u
+u u u u u
+u u u u u u u u u
+u u
+yes yes yes yes yes
+yes yes yes yes
+s s s s s s s s s
+yes yes
+Path
+Z
+Z Z Z Z Z Z
+Z Z Z Z Z
+Z Z Z Z Z Z Z
+Z Z
+B B E
+s E E E E E E
+E E E E E
+E E E E E E E
+E E
+Or
+and and
+p
+M
+M M M M M M
+M M M M M
+M M M M M M M
+M M
+b
+p p
+r r
+a to a
+or a a a a a a
+a a a a a
+a a a a a a a
+to to
+to
+i s s
+i i i i i i
+i i i i i
+i i i i i i i
+i i
+and yes
+t
+t t t t t t
+t t t t t
+t t t t t t t
+t t
+yes yes
+and
+and
+e e e e e e
+e e e e e
+e e e e e e e
+e e
+cted Capacity class V V V V V V
+V V V V V
+V V V V V V V V V
+V V
+d I I I I I I
+I I I I I
+I I I I I I I I I
+I I
+e land use Pending 1 1 1 1 1 1
+1 1 1
+1 1 1 1 1 1 3 1
+1 1
+t
+0 0
+0
+5 5 5 5 5 5
+5 5 5
+5 5 5 5 5 5 0 5
+5 5
+and
+- -
+-
+- - - - - -
+- - -
+- - - - - - - -
+- -
+1 1
+1
+m 3 3 3 3 3 3
+3 3 3
+3 3 3 3 3 3 4 3
+3 3
+5 5
+5
+0 0 0 0 0 0
+0 0 0
+0 0 0 0 0 0 5 0
+0 0
+edia (%) Surface p 0 0 0 1 1 1
+0 0 0 0
+0 0 0 1 0 1 0
+0 0
+2
+or , , , , , ,
+, , , ,
+, , , , , , ,
+, ,
+1
+1,
+1 6 5 2 0 1
+6 0 2 2
+1 0 0 3 5 1 7
+3 7
+r
+1
+9 7 7 3 5 3
+4 3 5 3
+9 3 6 9 1 5 1
+5 7
+affect (has)
+170 4
+4
+c
+c
+1
+1
+2
+2
+0
+1
+4
+4
+.
+.
+2
+2
+3
+4
+Q
+Q
+l
+l
+to
+to
+n
+n
+t
+t
+to
+to
+c
+c
+i
+i
+or
+or
+n
+n
+d
+d
+and
+and
+E
+E
+u
+u
+c
+c
+to
+to
+l
+l
+and
+and
+p
+p
+t
+t
+u
+u
+yes
+yes
+g
+g
+l
+l
+or
+or
+b
+b
+u
+u
+l
+l
+u
+u
+yes
+yes
+Z
+Z
+E
+E
+M
+M
+to
+to
+i
+i
+t
+t
+and
+and
+V
+V
+I
+I
+1
+1
+5
+5
+-
+-
+3
+3
+0
+0
+0
+0
+,
+,
+6
+8
+5
+6
+181 217 214 167 168 172 190 4 4 C C 1 1 2 2 2 8 4 4 . . 2 2 5 6 Q ad o o d s ification V V I I 1 1 5 5 - - 3 3 0 0 0 0 , , 4 2 2
+168 4.16
+213 215 173 175 179 182 192 197 222
+226
+4 4 4
+4 4
+C C C
+C C
+1 1 1
+1 1
+6 6 6
+8 8
+7 8 9
+0 1
+4 4 4
+4 4
+. . .
+. .
+2 2 2
+3 3
+7 8 9
+0 1
+P P P
+P P
+l l l
+l l
+a to a
+to to
+n n n
+n n
+t t t
+t t
+a to a
+to to
+c c c
+c c
+i i i
+i i
+or or or
+or or
+n n n
+n n
+d d d
+d d
+e e e
+e e
+E E E
+E E
+u u u
+u u
+c c c
+c c
+a to a
+to to
+l l l
+l l
+and and and
+and and
+p p p
+p p
+t t t
+t t
+u u u
+u u
+yes yes yes
+yes yes
+g g g
+g g
+l l l
+l l
+o o o
+or or
+b b b
+b b
+u u u
+u u
+l l l
+l l
+u u u
+u u
+yes yes yes
+yes yes
+Z Z Z
+Z Z
+E E E
+E E
+M M M
+M M
+a to a
+to to
+i i i
+i i
+t t t
+t t
+e e e
+e e
+V V V
+V V
+I I I
+I I
+1 3 1
+1 1
+5 0 5
+5 5
+- - -
+- -
+3 4 3
+3 3
+0 5 0
+0 0
+0 0 0
+0 0
+, , ,
+, ,
+0 0 4
+3 2
+6 2 6
+3 1
+154
+165
+170
+16
+1
+7
+73 191
+128
+1 2 9 0
+7
+8 2
+-1 The Farmhouse Two
+201
+2
+2
+0
+0
+6
+0 203 4.1 20 9 4205 196 162
+164
+163 165 171 183 184 187 186
+4.39
+213 216 4.4 4.24
+4 4 4 4
+4 4 4 4
+C C C C
+C C C C
+1 2 2 2
+2 1 1 1
+8 2 3 6
+6 1 8 8
+2 5 7 3
+8 1 3 5
+4 4 4 4
+4 4 4 4
+. . . .
+. . . .
+3 3 3 3
+3 3 3 3
+2 3 4 5
+6 7 8 9
+P P
+P P P P
+l l
+l l l l
+to to
+a to a to
+n n
+n n n n
+P P t t
+t t t t
+l l a a
+a to a to
+a a c c
+c c c c
+n n i i
+i i i i
+t t o o
+or or or or
+a a n n
+n n n n
+c c i i d d
+d d d d
+ó ó e e
+e e e e
+n n E E
+E E E E
+d d u u
+u u u u
+e e c c
+c c c c
+to to
+a to a to
+P P l l
+l l l l
+i i and and
+and and and and
+n n p p
+p p p p
+u u t t
+t t t t
+s s u u
+u u u u
+r r s s
+yes yes yes
+a a g g
+g g g g
+d d l l
+l l l l
+i i o o
+o o o o
+a a b b
+b b b b
+t t a u u
+u u u u
+l l
+l l l l
+u u
+u u u u
+yes yes
+yes yes yes
+Paths C
+C C
+and to
+to to
+m
+m m
+xis i
+i i
+n
+n n
+I hear you
+o o Z Z
+Z Z
+Z Z B B
+n
+E E
+yes
+yes yes
+E E
+E E and and
+t p
+p p M M
+M M
+M M
+and
+p p
+r
+r r
+yes
+a to a to
+or
+or or
+to to
+a a i i s s
+c i i
+i i
+and
+and and t t
+t t
+t t s s
+or and
+e e e e
+e e
+e e
+n c
+c c
+t
+t t
+m to
+to to
+d
+d d
+or or
+or or
+ds
+yes yes
+ification V V V V
+V V V V
+I I I I
+I I I I
+1 4 1
+3 1 1 1
+0 5 5 5
+0 5 5 5
+- - - -
+- - - -
+1 3 6 3
+4 3 3 3
+5 0 0 0
+5 0 0 0
+0 0 0 0
+0 1 2 1
+, , , ,
+, , , ,
+6 3 0 6
+1 2 1 1
+9 6 6 3
+5 6 4 5
+1
+14
+4
+6
+9 148
+14 15 7 0
+152
+15 1 6 51
+1
+1
+5
+5
+3
+7 1 1 6 5 6 5 162 163
+160 159
+172
+16
+1
+9
+1 7 8 7 0
+178 183 186
+192 199 195 193
+182 187
+188
+4.37 4.42 181
+189
+188
+192
+18 1
+5
+90 1
+1
+89
+1 9 1
+1
+9 4 9
+9
+3 5
+1
+161 15
+1
+4
+57 155 156 1 1 5 5 9 8 160 166
+174
+4
+1
+.
+178
+3
+2
+177 5
+87-1 1
+18
+8
+1
+5 The Co
+4
+r
+.
+t
+188 1
+ijo Two 203
+202
+208
+4 204 .2 210
+4.23
+212
+4.3
+218
+230 227
+228
+241 240
+4.6
+4.7 4 4 4 4 4 4 4
+4 4 4
+C C C C C C C
+C C C
+1 2 3 1 1 1 1
+1 1 1
+9 6 5 0 0 0 0
+8 8 8
+3 7 7 3 3 4 4
+4 4 4
+4 4 4 4 4 4 4
+4 4 4
+. . . . . . .
+. . .
+4 4
+4 4 4 4 4
+4 4 4
+0 1 2 3 4 5 6
+7 8 9
+P P P P P P P
+P P P
+l l l l l l l
+l l l
+a a a a a a a
+a to a
+n n n n n n
+n n n
+t t t t t t t
+t t t
+a a a a a a a
+a to a
+c c c c c c c
+c c c
+i i i i i i i
+i i i
+ó ó ó ó ó ó
+or or or
+n n n n n n
+n n n
+d d d d d d d
+d d d
+e e e e e e e
+e e e
+E E E E E E E
+E E E
+u u u u u u u
+u u u
+c c c c c c c
+c c c
+a a a a a a a
+a to a
+l l l l l l l
+l l l
+and and and and and and and
+and and and
+p p p p p p p
+p p p
+t t t t t t t
+t t t
+u u u u u u u
+u u u
+s s s s s s s
+yes yes yes
+g g g g g g g
+g g g
+l l l l l l l
+l l l
+o o o o o o o
+o o o
+b b b b b b b
+b b b
+u u u u u u u
+u u u
+l l l l l l l
+l l l
+u u u u u u u
+u u u
+s s s s s s s
+s s s C C C a a a m m m i i i n n no o o o s s s
+c
+C C C e e e
+to
+a a a x x x
+m
+m m m i i i s s s
+i
+i i i
+n
+n n n t t t e e e
+or
+o o o
+Z Z Z Z Z Z
+n n n
+B B B B B B E E E E E s
+yes yes yes
+E
+t t t
+and and and and and and and
+p p p
+M M M M M M
+e e e
+p p p p p p r
+r r r s s s
+a a a a a a a a a a a o
+o o o
+to
+c c c
+i i i i i s s s s s s i and
+and and and
+t t t t t t
+o o o
+s s s s s s e
+e e e
+e e e e e e
+n n n
+c
+c c c
+t
+t t t m m m
+to
+a to a
+d
+d d d o o o
+or
+o o o d d d
+yes
+s s s i i i f f f i i i c c c a a a c c c i i i ó ó ón n n
+V V V V V V V
+V V V
+I I I I I I I
+I I I
+3 3 1 1 1 1 1
+1 1 0
+0 0 5 5 5 5 5
+5 5 -
+- - - - - - -
+- - 1
+4 4 3 3 3 3 3
+3 3 5
+5 5 0 0 0 0 0
+0 0
+0 0 0 0 0
+0 0 0
+0 0 , , , , ,
+, , ,
+, , 2 2 6 2 5
+1 1 0
+1 8 2 2 6 4 4
+1 1 1
+158
+4.14
+4.
+16
+1
+4
+3 174
+4.15
+156
+6.5
+165 167 169 171 173
+177
+6.9 179 180
+18
+1
+2
+83
+184
+186
+187
+4.10 180
+189
+194
+195
+200
+201
+206
+209
+4.29
+235
+237
+4
+145 161 165 21287-5
+175
+180
+179
+179 175 166
+4.36
+6.3
+152 151 153 154
+155 157
+2 158 1 159 287 1 - 61 6
+160
+The
+16
+1 R
+2
+63 etamo
+1
+d
+64
+or
+16
+yes
+6
+16, 8 lot
+170
+and
+1
+72J
+174
+175 176
+178
+169 4.44 176 191
+4.30 4.31
+207 4.32
+215 4.17 4.20
+Paper format: A2 e
+c h a: 2
+8- 0 5- 2 0 2
+f

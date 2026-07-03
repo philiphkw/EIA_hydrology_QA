@@ -1,0 +1,162 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-5.1
+Planimetría de ubicación
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+681.500 681.600 681.700 681.800 681.900
+ProyectodeDesarrolloMinerodeExtraccióndeArcillas
+paralaProducción deConcentradode TierrasRaras
+PlanoEmplazamientoPAS 138 InstalacióndeFaenas
+Ubicación General
+LEYENDA
+!( !(
+!(!(!(!(
+!(!(
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM Cartografía del Proyecto
+Datum WGS 84 Huso 18S
+ESCALA LÁMINA:
+1 de 1
+Tamaño Hoja: A2
+ELABORADO POR: ELABORADO PARA:
+681.500 681.600 681.700 681.800 681.900
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+±
+!(
+!(
+± ±
+2
+1
+!( !( !( !(
+8 7 4 3
+!( !(
+6 5 Obras Instalación de Faenas
+Planta de Tratamiento de Aguas Servidas
+Otras Obras
+Área Instalación de Faenas
+!( Vértices
+Ubicación Comunal
+Área de Interés
+Comuna de Penco
+Otras Comunas
+Ubicación Regional
+Región del Biobio
+Regional
+TABLA DE INFORMACIÓN
+Fase Instalación Superficie m2 ID Norte Este
+1 5.930.103 681.763
+2 5.930.103 681.769
+Planta 3 5.930.092 681.769
+Tratamiento 4 5.930.092 681.767
+Construcción 74,52
+de Aguas 5 5.930.089 681.767
+Servidas 6 5.930.089 681.765
+7 5.930.092 681.765
+8 5.930.092 681.763
+0 60
+m
+================================================================================
+PAGE 3
+================================================================================
+681.500 681.600 681.700 681.800 681.900 682.000 682.100 682.200 682.300
+ProyectodeDesarrolloMinerodeExtraccióndeArcillas
+paralaProducción deConcentradode TierrasRaras
+PlanoEmplazamientoPAS138PlantadeProcesamiento-Etapa
+Operación
+Ubicación General
+LEYENDA
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(
+!(
+!(
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM Cartografía del Proyecto
+Datum WGS 84 Huso 18S
+ESCALA LÁMINA:
+1 de 1
+Tamaño Hoja: A2
+ELABORADO POR: ELABORADO PARA:
+681.500 681.600 681.700 681.800 681.900 682.000 682.100 682.200 682.300
+004.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+009.929.5
+008.929.5
+004.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+009.929.5
+008.929.5
+±
+!(
+!(
+± ±
+2
+1
+!( !( !( !(
+8 7 4 3
+!( !(
+6 5 Obras Planta de Procesamiento
+Planta Tratamiento de Aguas Servidas
+Otras Obras
+Área Planta de Procesamiento
+!( Vértices
+Ubicación Comunal
+Área de Interés
+Comuna de Penco
+Otras Comunas
+Ubicación Regional
+Región del Biobio
+Regional
+TABLA DE INFORMACIÓN
+Fase Instalación Superficie m2 ID Norte Este
+!( 1 5.930.103 681.763
+2 5.930.103 681.769
+11 3 5.930.092 681.769 Planta
+4 5.930.092 681.767
+Operación Tratamiento de 74,52
+5 5.930.089 681.767
+!( Aguas Servidas
+6 5.930.089 681.765
+7 5.930.092 681.765
+10
+8 5.930.092 681.763
+9 5.929.919 681.945
+Planta
+!( 10 5.929.927 681.940
+Operación Tratamiento de 90
+11 5.929.932 681.948
+Aguas Servidas 1
+12 12 5.929.923 681.953
+!(
+9
+0 140
+m

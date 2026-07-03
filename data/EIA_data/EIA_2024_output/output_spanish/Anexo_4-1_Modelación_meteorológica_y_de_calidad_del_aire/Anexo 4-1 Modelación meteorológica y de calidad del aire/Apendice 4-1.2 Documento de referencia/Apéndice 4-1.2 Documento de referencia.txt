@@ -1,0 +1,1260 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 4-1.2
+Documento de referencia que valida
+norma de MPS de la Confederación
+Suiza
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Nota explicativa
+El Titular indica a la autoridad que no fue posible encontrar en español la Ordenanza de la Confederación
+Suiza sobre control de Contaminación del Aire. Sin embargo, en el catalogador del Sistema Nacional de
+Información Ambiental (SINIA) del Ministerio del Medio Ambiente (MMA) se encontró un documento que
+puede ser usado como referencia para validar la idoneidad de la norma internacional utilizada. El
+documento corresponde a un informe mensual asociado a actividades de mantención y operación de
+estaciones de monitoreo instaladas en la ciudad de Antofagasta emanado por el consultor SERPRAM para
+la SEREMI de Medio Ambiente de la Región de Antofagasta, el cual, en su sección 2.3.2, explica el objetivo
+de la Ordenanza de la Confederación Suiza y sus implicancias respecto de la norma anual de MPS. Un dato
+relevante a tener en consideración, que le confiere notoriedad al documento, es que un profesional de la
+SEREMI de Medio Ambiente estableció comunicación con el jefe de la División de Gestión de Aire de la
+oficina Federal del Medio Ambiente (FOEN) de la Confederación Suiza, quien indico que el límite del valor
+norma de MPS se ajusta en base a la protección de los ecosistemas, lo que valida la idoneidad de la norma
+para estos efectos. Este dato se halla en el párrafo anterior al literal I) de la sección 2.3.2.
+Fuente de descarga de documento: 1 (mma.gob.cl)
+================================================================================
+PAGE 3
+================================================================================
+“MANTENCIÓN CALIBRACIÓN Y OPERACIÓN DE LAS
+ESTACIONES DE MONITOREO INSTALADAS EN LA CIUDAD DE
+ANTOFAGASTA, PARA LA VIGILANCIA DE LA CALIDAD DEL
+AIRE DE LOS CONTAMINANTES MATERIAL PARTICULADO
+RESPIRABLE (MP10), PLOMO (Pb) Y MATERIAL PARTICULADO
+SEDIMENTABLE (MPS)”
+INFORME MENSUAL
+PERÍODO: 22 DE OCTUBRE AL 31 DE DICIEMBRE DE 2015
+PARA : SECRETARIA REGIONAL MINISTERIAL DEL MEDIO AMBIENTE,
+REGIÓN DE ANTOFAGASTA
+DE : SERPRAM S.A.
+Elaborado por: Revisado por: Aprobado por:
+Daniela Ruz Daniela Caniu Luis Carrasco
+FEBRERO 2016
+================================================================================
+PAGE 4
+================================================================================
+Í N D I C E
+PAG.
+1. ANTECEDENTES 1
+2. METODOLOGÍA 3
+2.1 Material Particulado Respirable MP10 3
+2.2 Plomo en el Material Particulado Respirable, MP10 7
+2.3 Material Particulado Sedimentable 9
+2.4 Elementos de interés en el MPS 12
+2.5 Estaciones de monitoreo y equipos de medición utilizados 14
+3. RESULTADOS 20
+3.1 Monitoreo de Calidad de Aire 20
+3.2 Material Particulado Respirable MP10 20
+3.3 Plomo en el Material Particulado Respirable, MP10 22
+3.4 Material Particulado Sedimentable 25
+3.5 Elementos de interés en el MPS 26
+4. ANÁLISIS DE RESULTADOS 31
+4.1 Material Particulado Respirable MP10 31
+4.2 Plomo en el Material Particulado Respirable, MP10 32
+4.3 Material Particulado Sedimentable 33
+4.4 Elementos de interés en el MPS 34
+6. CONCLUSIONES 37
+================================================================================
+PAGE 5
+================================================================================
+ANEXOS
+ANEXO 1 ACREDITACIONES INN
+ANEXO 2 PLANILLA DE CÁLCULO DE CONCENTRACIÓN DE MP10 Y
+PLOMO
+ANEXO 3 ACTIVIDADES DE MANTENCIÓN
+ANEXO 4 PLANILLA DE CÁLCULO MPS
+ANEXO 5 ANÁLISIS QUÍMICO
+ANEXO 6 BITÁCORAS DE LAS ESTACIONES RENDIC Y ONCOLÓGICO
+ANEXO 7 METODOLOGÍAS
+ANEXO 8 VARIABLES CAA D.S. N°61
+ANEXO 9 NORMATIVA INTERNACIONAL DE REFERENCIA
+ANEXO 10 LÍMITES DE DETECCIÓN
+================================================================================
+PAGE 6
+================================================================================
+1. ANTECEDENTES
+Servicios y Proyectos Ambientales S.A. (SERPRAM S.A.) es contratado por la Secretaría
+Regional Ministerial del Medio Ambiente, Región de Antofagasta, para prestar servicios en la
+consultoría: “Mantención, calibración y operación de las estaciones de monitoreo
+instaladas en la ciudad de Antofagasta, para la vigilancia de la calidad del aire de los
+contaminantes Material Particulado Respirable (MP10), Plomo (Pb) y Material
+Particulado Sedimentable (MPS)”.
+El programa de monitoreo consiste en realizar mediciones de calidad de aire, de acuerdo a lo
+siguiente:
+ Material Particulado Respirable, MP10
+ Plomo en el Material Particulado Respirable MP10
+ Material Particulado Sedimentable, MPS
+ Elementos Químicos de Interés Presentes en el MPS.
+Las principales actividades del servicio se pueden resumir como sigue:
+1. Desarrollar en las estaciones de monitoreo de Calidad del Aire Rendic y Oncológico,
+una campaña de monitoreo semi-continuo, mediante metodología gravimétrica de alto
+volumen.
+2. Realizar el muestreo de las dos estaciones de MP10, con una frecuencia de 24 horas
+cada tres días, según la metodología vigente, chequear los flujos, limpiar los cabezales
+y los equipos, cambiar la silicona de la placa de impacto y chequear el controlador de
+flujo volumétrico cada tres meses con orificios calibrados.
+3. Proporcionar los filtros para las dos estaciones de MP10, de modo tal de realizar el
+muestreo con una frecuencia de 24 horas, cada tres días.
+4. Realizar el análisis gravimétrico de MP10, para los filtros monitoreados durante la
+campaña, de modo tal de obtener la concentración de dicho contaminante.
+5. Realizar análisis químico a los filtros de MP10, para obtener la concentración de Pb
+presente en el aire. Realizar el análisis químico de acuerdo a lo que se establece en el
+D.S. N°136/2001, del MINSEGPRES.
+6. Realizar una campaña de monitoreo de Material Particulado Sedimentable (MPS), en
+cuatro puntos al interior de la ciudad de Antofagasta. Incluir caracterización química
+de los elementos de interés presentes en el MPS (Arsénico (As), Cobre (Cu),
+Manganeso (Mn), Molibdeno (Mo), Níquel (Ni), Selenio (Se), Vanadio (V), Zinc (Zn),
+Plomo (Pb) y Hierro (Fe)), utilizando como referencia el D.S. Nº 4/1992, del
+Ministerio de Agricultura, la Resolución Nº 099/1992 modificada por Resolución
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 1
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 7
+================================================================================
+Exenta N° 177 de Marzo de 2008 del Servicio Agrícola y Ganadero (SAG), Región de
+Atacama, el informe “Especificaciones Técnicas para Implementación de Red de
+Monitoreo Material Particulado Sedimentable en Cuenca Río Huasco”, realizado por
+el Centro de Investigación Minería y Metalúrgica, CIMM y normativa internacional de
+referencia.
+7. Realizar una propuesta de selección y localización de puntos para medición de
+Material Particulado Sedimentable, para cuatro puntos de la ciudad de Antofagasta.
+8. Instalar equipos para monitorear el Material Particulado Sedimentable.
+9. Transportar los filtros muestreados de las dos estaciones de MP10 y las botellas con
+Material Particulado Sedimentable a laboratorio acreditado, para su posterior análisis
+químico.
+10. Enviar un informe mensual con los resultados del muestreo de las dos estaciones de
+MP10, Plomo en el Material Particulado Respirable, los resultados de MPS y los
+elementos de interés presentes en el MPS, de acuerdo a lo requerido en las bases
+técnicas.
+El monitoreo de MP10 y análisis de Plomo en los filtros de MP10 comenzó el 22 de Octubre
+de 2015, en estaciones Rendic y Oncológico.
+El monitoreo de MPS comenzó el día 20 de Noviembre de 2015, a excepción del punto
+identificado como MPS 02 Medio Ambiente, el cual inició su medición el 21 de Noviembre
+de 2015.
+En Diciembre de 2015, los días de monitoreo para el punto identificado como MPS 02 Medio
+Ambiente, fueron 28, debido a que los días 14 y 15 de Diciembre de 2015 se realizó una
+actividad en la terraza donde se localiza el equipo, por lo que no estuvo expuesto a la
+intemperie.
+El presente documento corresponde al informe Nº 3, el cual contiene resultados de MP10 y Pb
+en MP10 para el periodo comprendido entre el 1 al 31 de Diciembre de 2015, así como los
+resultados de MPS y elementos de interés presentes en el MPS obtenidos para el mes de
+Diciembre de 2015.
+Cabe mencionar que desde Mayo de 2014, los laboratorios de gravimetría y estufas a leña de
+SERPRAM S.A., están acreditados por el INN, acreditación LE1194 y LE1195, para operar
+como laboratorios de ensayo según la norma NCh-ISO 17025.Of 2005. El alcance de esta
+acreditación está especificado en el documento verificador adjuntado en Anexo 1.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 2
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 8
+================================================================================
+2. METODOLOGÍA
+Para asegurar la calidad de los datos obtenidos, se estableció un programa que contempla los
+siguientes aspectos:
+ Procedimientos de calibración para los equipos utilizados en la medición
+ Programa de operación, control y mantención
+ Procedimientos para el procesamiento de datos
+ Procedimiento para el manejo de muestras de partículas
+ Procedimiento de localización de sitios para MPS
+Por último, cabe hacer notar que la operación de las estaciones de calidad del aire se realiza
+bajo las directrices del D.S. N° 61/2008, del Ministerio de Salud, mientras que el monitoreo
+de MPS se basa en el D.S. Nº 4/1992 del Ministerio de Agricultura, en la Ordenanza Sobre
+Control de Contaminación del Aire; y en la Norma ASTM D 1739-98 (Ultima modificación
+año 2010) “Standard Test Methods for Collection and Measurement of Dustfall” (Settleable
+Particulate Matter).
+2.1. Material Particulado Respirable MP10
+2.1.1 El D.S. Nº 59/1998, Ministerio Secretaría General de la Presidencia, establece la
+norma de calidad primaria para Material Particulado Respirable MP10.
+La normativa vigente corresponde al D.S. Nº 59 de 1998, del MINSEGPRES, que establece
+Norma de Calidad Primaria para Material Particulado Respirable MP10, en especial de los
+valores que definen situaciones de emergencia. Luego que el Segundo Tribunal Ambiental por
+sentencia anuló el D.S. Nº 20/2013, del Ministerio del Medio Ambiente. Dicho fallo entró en
+vigencia el día 17 de octubre de 2015, con la publicación en el Diario Oficial de su parte
+resolutiva y señaló que, en consecuencia, a partir de la publicación mencionada se deberá
+entender que recobra su vigencia y validez plena el mencionado D.S. Nº 59 de 1998.
+La actual normativa establece límites anuales y diarios para el MP10:
+TABLA 2.1
+LÍMITES MÁXIMOS PERMISIBLES MP10
+CONTAMINANTE NORMA ANUAL NORMA DIARIA
+MP10 (µg/m3N) 50 150
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 3
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 9
+================================================================================
+I) Norma Diaria:
+La norma primaria de calidad del aire para el contaminante Material Particulado Respirable
+MP10, es ciento cincuenta microgramos por metro cúbico normal (150 µg/m3N), como
+concentración de 24 horas.
+Se considerará sobrepasada la norma diaria de calidad del aire para material particulado
+MP10 cuando:
+a) El Percentil 98 de los valores promedios de 24 horas, registradas durante el período
+anual de cualquier estación monitora calificada como EMRP, sea mayor o igual a
+150 g/m3N.
+b) Asimismo, se considerará superada la norma, si antes que concluya el período anual
+de mediciones de las estaciones monitoras de material particulado respirable MP10
+calificada con EMRP, se registrare un número de días con mediciones sobre el valor
+de 150 g/m3N mayor que siete (7).
+II) Norma Anual:
+La norma primaria de calidad del aire para el contaminante Material Particulado respirable
+MP10, es cincuenta microgramos por metro cúbico normal (50 µg/m3N), como
+concentración anual.
+Se considerará sobrepasada la norma primaria anual de calidad del aire para material
+particulado respirable MP10 cuando:
+a) La concentración anual calculada como promedio aritmético de tres años calendario
+consecutivos en cualquier estación monitora clasificada como EMRP, sea mayor o
+igual que 50 µg/m3N.
+Para evaluar el cumplimiento de la norma de calidad primaria para Material Particulado
+Respirable MP10, la estación donde se realice el monitoreo de calidad del aire, debe estar
+clasificada como Estación de Monitoreo con Representatividad Poblacional (EMRP)
+Una estación de monitoreo podrá clasificarse como EMRP si cumple simultáneamente los
+siguientes criterios:
+ Que exista al menos un área edificada habitada en un círculo de radio 2 km, contados de
+la estación.
+ Que esté ubicada a más de 15 m de la calle o avenida más cercana, y a más de 50 m de
+la calle o avenida más cercana que tenga un flujo igual o superior a 2500 vehículos/día.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 4
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 10
+================================================================================
+ Que esté ubicada a más de 50 m de la salida de un sistema de calefacción (que utilice
+carbón, leña o petróleo equivalente a petróleo - 2 o superior) o de otras fuentes fijas
+similares.
+Además, según Artículo 8º del D.S. N°59/1998, indica que para efectos del emplazamiento
+de un colector de muestras de MP10 en una EMRP, se deben considerar los siguientes
+aspectos:
+a) Los colectores deben estar a una distancia mínima de separación.
+b) Se requiere tomar la muestra a alturas que vayan desde los 2 a 15 m sobre el nivel
+del suelo.
+c) Obstrucciones espaciales:
+i. Si el monitor es colocado sobre un techo o sobre otra estructura similar,
+entonces debería estar mínimo a 2 m de distancia de la pared más cercana, de
+una casa o cualquier otro obstáculo vertical;
+ii. Es aconsejable que los colectores estén a una distancia de aproximadamente 10
+veces la altura del obstáculo mayor que esté en la misma dirección del viento.
+iii. En el caso de emisiones de chimeneas producidas por la combustión de gas
+natural, se debiera tomar como precaución ubicar el muestreador a lo menos a 5
+m de distancia de la chimenea.
+iv. Los árboles proporcionan una buena superficie para la acumulación de
+partículas, además de restringir un flujo expedito del aire. De esta forma, es
+favorable que un muestreador sea colocado a lo menos a 20 m. de la línea de
+goteo de la rama más larga de un grupo determinado de árboles y a 10 m de
+ella, si es que este obstáculo actúa como un reductor del flujo.
+v. La posición de un colector debe ser tal, que permita un área libre de obstáculos
+que proporcione a lo menos un arco de 270° para poder recolectar libremente y
+sin restricciones las muestras de MP10.
+Por otro lado, el Decreto Supremo N° 61/2008 del Ministerio de Salud, indica las directrices
+y disposiciones en cuanto a las calibraciones de equipos de medición, mantención de
+monitores, registros mínimos que deben mantenerse en la estación, disposiciones para el
+tratamiento de los datos e informes, características físicas de los sistemas y subsistemas que
+integran las estaciones, entre otras.
+2.1.2 Procedimiento de muestreo:
+Para el muestreo de MP10 se utiliza un muestreador para material particulado Tich
+Environmental de alto volumen (Hi-Vol), el cual mide las partículas en suspensión de
+diámetro aerodinámico igual o inferior a 10 micrones (MP10). A este quipo se realizó un
+chequeo antes del inicio de las mediciones, usando un calibrador de flujo másico BIOS, para
+conocer el caudal de aire muestreado. Cabe hacer notar, que estos equipos tienen un
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 5
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 11
+================================================================================
+controlador de flujo másico, el cual viene calibrado de fábrica, para aspirar aire a 16,7
+litros/min.
+El muestreo de MP10, se realiza con una frecuencia de 24 horas cada tres días, utilizando un
+filtro de fibra de vidrio, por su eficiencia de retención de partículas finas y por sus
+propiedades no higroscópicas, los cuales son enviados al laboratorio de gravimetría de
+SERPRAM S.A., en Santiago, para determinar la concentración de MP10. Los filtros son
+pesados antes y después de muestreados en una balanza electrónica (precisión 10-4 gramos).
+Luego con la masa de MP10 obtenida, es posible realizar el cálculo de la concentración de
+material particulado en condiciones normales (μg/m3N).
+ Evaluación y tratamiento de los filtros antes del muestreo
+- Los filtros para realizar muestreo de Material Particulado, deben ser chequeados para
+detección de fallas de fabricación.
+- Cuando se adquiere filtros que no vienen codificados de fábrica, es necesario
+rotularlos con un código de identificación para el control de calidad durante la cadena
+de custodia (ID), este código debe ser impreso mediante un foliador en esquinas
+contrapuestas del filtro en la superficie que no se expondrá a recibir la muestra (cara
+más lisa).
+Al usar filtros codificados, estos tienen una serie numérica (Nº ID de filtro), se debe
+registrar este código en forma correlativa. Si los filtros no están codificados, se
+deben rotular correlativamente.
+Cuando se adquieren filtros que vienen codificados de fábrica, estos no se mezclan
+con aquellos que son foliados en las esquinas contrapuestas del filtro.
+- Los filtros deben tratarse para ser estandarizados, expuestos con la cara más rugosa
+hacia arriba en la cabina de ambientación correspondiente por un periodo mínimo de
+24 horas.
+Comprobar que la temperatura y la humedad relativa de la sala de balanzas, se han
+mantenido dentro de los límites permitidos (Tº: 20ºC +/- 5.6 ºC, H.R < 50%), para las
+últimas 24 horas.
+- Para el pesaje de los filtros primeramente, se retiran los filtros de la cabina de
+ambientación acercándolos al sector, donde se utiliza la balanza de la siguiente
+manera:
+Se abre la cámara de pesaje y se deposita el primer filtro tomándolo con pinza lisa,
+teniendo especial cuidado con los bordes del filtro, ya que se dañan fácilmente. Debe
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 6
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 12
+================================================================================
+quedar centrado en el soporte de pesaje para no alterar su peso. Cerrar la cámara y
+esperar a que el peso se estabilice por un período mínimo de 30 segundos antes de
+transferir el peso a la planilla de registro.
+- El display de la balanza debe mostrar 0,0000 g., después de pesar filtros de 8x10
+pulg. Antes de cada pesada tarar si es necesario.
+- Cada filtro de 8x10 pulg. es pesado 2 veces, de la misma manera, y se registran los
+dos valores.
+- Después de concluida la etapa de determinación gravimétrica, los filtros son
+almacenados. Este proceso de medición es no destructivo y el material particulado
+puede ser objeto de posteriores análisis físicos o químicos.
+- Las muestras luego del pesaje son almacenadas en bolsas plásticas selladas y
+rotuladas para ser enviadas al laboratorio DICTUC.
+2.2 Plomo en el Material Particulado Respirable MP10
+2.2.1 El D.S. N° 136/2000, Ministerio Secretaría General de la Presidencia, establece la
+norma de calidad primaria para Plomo en el aire.
+I) Norma Anual:
+La norma primaria de calidad del aire para el contaminante plomo será de 0,5 microgramos
+por metro cúbico normal (μg/m3N), como concentración anual.
+Se considerará sobrepasada la norma primaria anual de calidad primaria para Plomo en el
+aire cuando:
+a) El promedio aritmético de los valores de concentración anual de dos años sucesivos
+supera el nivel de la norma en cualquier estación de monitoreo con
+representatividad poblacional EMPB, es decir lugares con niveles de contaminación
+representativos de la calidad del aire, al cual están expuestas las personas.
+b) Asimismo se considerará sobrepasada la norma si la concentración anual
+correspondiente al primer período anual contado desde la entrada en vigencia de la
+presente norma, es superior en más de un 100 % al nivel de la norma, en cualquier
+estación EMPB.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 7
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 13
+================================================================================
+Para evaluar el cumplimiento de la norma de calidad primaria para Plomo, la estación donde
+se realice el monitoreo de calidad del aire, debe estar clasificada como Estación de
+Monitoreo con Representatividad Poblacional (EMPB).
+Una estación de monitoreo podrá clasificarse como EMPB si cumple simultáneamente los
+siguientes criterios:
+a) Que la estación se utilizará para el muestreo de material particulado de 24 horas con
+el fin de realizar un análisis de plomo.
+b) Que exista al menos un área habitada en un radio de 2 kilómetros (km), contados
+desde la ubicación de la estación.
+c) Que se ubique a más de 15 metros de la calle o avenida más cercana, y a más de 50
+metros de la calle o avenida más cercana que tenga un flujo igual o superior a 2.500
+vehículos/día.
+d) Que se ubique a más de 50 metros de una fuente fija emisora de plomo.
+La medición de la concentración de plomo en aire comprenderá dos etapas: el muestreo de
+material particulado respirable MP10 y el análisis de plomo en éste.
+2.2.2 Procedimiento de muestreo:
+Para dar cumplimiento con el artículo 4º del D.S Nº 136/2000 del MINSEGPRES,
+SERPRAM utiliza el método gravimétrico de muestreador de alto volumen equipado con
+cabezal MP10 en estaciones Oncológico y Rendic para la determinación de Material
+Particulado MP10; una vez finalizado el muestreo de los filtros, éstos son enviados a
+Santiago al laboratorio de SERPRAM para ser pesados en la sala de gravimetría y de éste
+modo obtener posteriormente, la concentración del MP10 en unidad µg/m3N A
+.
+continuación, para el análisis de Plomo (Pb), los filtros de MP10, son trasladados al
+laboratorio DICTUC, en donde, por medio del método Espectrofotometría de Emisión de
+Plasma (ICP), se determina la masa de Plomo contenida en los filtros de MP10, en unidad
+mg/filtro. Si bien el D.S. N° 136/2000, indica que el método de análisis del Plomo en el
+Material Particulado corresponde a la Espectrometría de Absorción Atómica, se utiliza el
+método señalado anteriormente (ICP), debido a que tiene rangos más bajos de límites de
+detección, lo que permite determinar la presencia de Plomo (Pb) en bajas concentraciones.
+Para mayor información y detalles de esta metodología ver Anexo Nº 7 Metodologías,
+“Determinación de Metales en muestras sólidas por Espectrofotometría de Emisión de
+Plasma”.
+El método utilizado para la determinación de plomo en filtros corresponde a los métodos
+descritos en la norma TMECC “Test Methods for the Examination Composting and
+Compost” basados en la EPA 3050 y 6010. Estos métodos TMECC describen un
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 8
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 14
+================================================================================
+pretratamiento de muestras sólidas, que consiste en una digestión en medio ácido para
+obtener así los analitos a determinar en solución (TMECC 04.12), posteriormente la muestra
+digestada es analizada por plasma inductivamente acoplado ICP-OES (TMECC 04.14),
+cuantificando los metales requeridos.
+En Anexo Nº 1 se adjuntan los certificados del laboratorio Dictuc, y en Anexo N° 7 las
+metodologías.
+2.3 Material Particulado Sedimentable
+El país no dispone de una norma primaria o secundaria de calidad de Material Particulado
+Sedimentable (MPS), para la zona de estudio, por lo que se utilizará como referencia, la
+normativa nacional (D.S. Nº 4/1992) e internacional (Ordenanza de la Confederación Suiza,
+Sobre Control de Contaminación del Aire), que se describen a continuación:
+2.3.1 D.S. Nº 4/1992, del Ministerio de Agricultura, que establece Normas de Calidad de
+Aire para Material Particulado sedimentable en la cuenca del río Huasco.
+Este Decreto Supremo, corresponde a una norma de calidad secundaria que establece lo
+siguiente:
+I) Norma Mensual:
+a) El límite de material particulado sedimentable es 150 milígramos por metro cuadrado
+por día (mg/ (m2día)), como concentración media aritmética mensual.
+II) Norma Anual:
+a) Material particulado sedimentable: 100 (mg/(m2día)), como concentración media
+aritmética anual.
+2.3.2 Ordenanza de la Confederación Suiza, Sobre Control de Contaminación del Aire,
+de 1993.
+El objetivo de esta ordenanza es proteger a los seres humanos, animales, plantas, sus
+comunidades biológicas y hábitats, y al suelo, de los efectos nocivos o trastornos producidos
+por la contaminación del aire, para ello dicha norma regulará:
+a) Las medidas preventivas para limitar las emisiones de fuentes que contaminan el
+aire y la incineración de desperdicios al aire libre;
+b) La normas para los combustibles;
+c) El contenido máximo permitido de contaminantes;
+d) Procedimientos a seguir si se alcanzan niveles excesivos de contaminación.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 9
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 15
+================================================================================
+De acuerdo a lo comunicado por el Dr. Martin Schiess, Jefe de División de Gestión de Aire y
+Control de la Contaminación Química, de la oficina Federal del Medio Ambiente (FOEN), de
+la Confederación Suiza, esta Ordenanza no tiene la intención de poseer objetivos de protección
+separados. Para ajustar la norma de MPS, los valores se definieron en base a la protección de la
+fertilidad del suelo, vegetación y aguas, lo que en última instancia conduce a la protección
+humana y salud animal1.
+I) Norma Anual MPS:
+a) Se define el límite de Material Particulado Sedimentable en 200 (mg/(m2día)), como
+promedio anual.
+La evaluación del cumplimiento normativo se realiza determinando el promedio aritmético
+de las tasas de sedimentación mensuales (mg/m2d), registradas durante un año de medición.
+2.3.3 Procedimiento de muestreo:
+La metodología y colectores de material particulado sedimentable cumplen con las
+exigencias establecidas en el D.S. Nº 4/1992 del Ministerio de Agricultura, donde se
+establecen las Normas de Calidad del Aire para Material Particulado Sedimentable en la
+Cuenca del río Huasco, también con la Resolución exenta Nº 099 del SAG III Región, con
+las especificaciones descritas en el informe “Especificaciones Técnicas para Implementación
+de Red de Monitoreo Material Particulado Sedimentable en Cuenca Río Huasco”, realizado
+por el Centro de Investigación Minería y Metalúrgica, CIMM y según las especificaciones
+establecidas en la norma ASTM D 1739-98 Standard Test Methods for Collection and
+Measurement of Dustfall (Settleable Particulate Matter), última modificación en el año 2010.
+Ver Anexo N º 9, Normativa Internacional de referencia.
+Para la selección de los lugares donde se instalaron los equipos colectores de Material
+Particulado Sedimentable (MPS), se consideraron diversos criterios, los cuales se encuentran
+establecidos en el informe del Centro de Investigación Minería y Metalúrgica, CIMM. En el
+siguiente cuadro resumen se aprecian los criterios para la selección e instalación de los
+puntos de medición de material particulado sedimentable. También es importante señalar
+que el lugar donde se instaló el equipo debe estar protegido del ingreso de personas ajenas al
+monitoreo.
+1 Comunicación interna entre profesional de la Secretaría Regional Ministerial del Medio Ambiente y la
+Oficina Federal del Medio Ambiente (FOEN), de la Confederación Suiza, de fecha 11 de febrero de 2016.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 10
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 16
+================================================================================
+TABLA 2.2
+CRITERIOS PARA LA SELECCIÓN DEL LUGAR DE INSTALACIÓN DE MPS
+Criterios Comentarios
+Altura - La altura ideal es a nivel del suelo.
+- Boca del depósito entre 1.5 y 15 m del suelo.
+Distancias
+- Mayor a 2 m en caso de estar en un techo u otra estructura.
+obstrucciones
+Otros - La distancia del muestreador a un obstáculo tal como árboles y
+criterios edificios, deberá ser el doble de la altura que el obstáculo sobresale del
+muestreador.
+- El flujo del aire alrededor del muestreador no deberá estar restringido
+en un arco de 270 º
+- No debe haber cerca chimeneas de incineradores u hornos.
+- Debe haber una distancia mínima desde los caminos.
+- A 2 metros de altura se recomienda una separación mínima de 5
+metros para caminos con tráfico menor a 3000 vehículos por día y una
+separación mínima de 25 metros para caminos con un tráfico mayor a
+3000 vehículos por día.
+Para la elección de los lugares de monitoreo, durante el mes de Octubre y parte de
+Noviembre del 2015, SERPRAM elaboró una propuesta de localización de puntos para la
+medición de Material Particulado Sedimentable (MPS), en donde se analizaron los criterios
+mencionados anteriormente. Ver Anexo Nº 7, de informe Nº 1.
+En dicho documento SERPRAM analizó las características de ocho posibles puntos para la
+instalación de los quipos colectores de MPS, esta propuesta fue presentada a la Secretaría
+Regional Ministerial (SEREMI) del Medio Ambiente, quien aprobó dos puntos de
+monitoreo, los cuales corresponden a Regimiento Logístico y Terraza primer piso del
+Edificio Productivo. Debido a que los puntos de monitoreo son cuatro, la SEREMI propuso
+dos nuevos puntos, los cuales corresponden a la Plaza del Edificio de Obras Publicas y la
+Casa de Retiro del Colegio San Luis. De esta forma los cuatro lugares aprobados para la
+instalación de equipos colectores de MPS son:
+1. Regimiento Logístico
+2. Terraza primer piso Edificio Productivo
+3. Plaza Edificio de Obras Públicas
+4. Casa de Retiro del Colegio San Luis.
+Una vez aprobados los sitios de muestreo por la SEREMI, se instaló un colector tipo ASTM,
+basado en el equipo standard británico, al que se le modificó el diámetro del depósito del
+colector (50 cm). El colector se monta en una estructura de acero, tipo trípode, a una altura
+de 1.5 m. El colector permite recoger las partículas existentes en el aire, las que se depositan
+por gravedad. Su parte inferior termina en un embudo de acero inoxidable. Ver figuras 2.3 a
+2.6.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 11
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 17
+================================================================================
+El muestreador se deja al aire libre durante un mes calendario. El día 1 de cada mes en que
+se inicia el programa de muestreo, se coloca la botella que recolecta el material particulado
+sedimentable, lavada previamente con detergente y enjuagada con agua destilada. El día 1
+del mes siguiente, de preferencia a la misma hora, el muestreador se lava cuidadosamente
+con agua destilada para arrastrar todo el material particulado sedimentable depositado en las
+paredes, se saca la botella y se reemplaza por otra igual. Se tapa la botella con la muestra y
+se traslada al laboratorio DICTUC.
+El día de recambio de la botella puede atrasarse o adelantarse en dos días, siempre que se
+tome nota del día en que se hizo el cambio.
+El tratamiento de las muestras de MPS en el laboratorio, es el siguiente:
+Para muestras líquidas: mida el volumen, normalmente corresponde a 1 lt. Agite
+vigorosamente y tome 200 ml, filtre a través de filtro de membrana 0,45µm (previamente
+pesado).
+Luego del filtrado, los filtros se traspasan a placas Petri; y se llevan a estufa de secado por un
+período de 48 a 72 horas o hasta peso constante, a una temperatura de 36 °C. Se calcula el
+peso de las muestras por diferencia, entre el peso del filtro con y sin muestra, se expresa el
+valor en miligramo (mg). Una vez que los filtros se encuentran secos se traspasan a vasos
+previamente rotulados y se digieren según indica el protocolo de digestión para filtros
+ambientales.
+2.4. Elementos de Interés en el MPS
+El país no dispone de norma primaria o secundaria de calidad para elementos de interés
+presentes en el Material Particulado Sedimentable (MPS), para la zona de estudio, por lo que
+se utilizará como referencia la normativa nacional (D.S. Nº 4/1992) e internacional
+(Ordenanza de la Confederación Suiza, Sobre Control de Contaminación del Aire), que se
+describen a continuación:
+2.4.1 D.S. Nº 4/1992 del Ministerio de Agricultura, que establece Normas de Calidad de
+Aire para Material Particulado sedimentable en la cuenca del río Huasco
+Este Decreto Supremo, corresponde a una norma de calidad secundaria que establece lo
+siguiente:
+I) Norma Mensual:
+a) Hierro en el material particulado sedimentable: 60 mg/m2 día, como concentración
+media aritmética mensual, con excepción de los meses de Septiembre, Octubre,
+Noviembre y primera mitad de Diciembre en el que ésta será de 30 mg/m2 día, como
+concentración media aritmética mensual.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 12
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 18
+================================================================================
+Para el mes de Diciembre se considerara el valor más restrictivo, es decir 30 mg/m2día.
+II) Norma Anual:
+a) Hierro en el material particulado sedimentable: 30 mg/m2 día, como concentración
+media aritmética anual.
+2.4.2 Ordenanza de la Confederación Suiza, Sobre Control de Contaminación del Aire
+A continuación, se mencionan como referencia los límites definidos por la Confederación
+Suiza
+.
+I) Norma Anual:
+a) Plomo (Pb) en Material Particulado Sedimentable: 100 ug/m2día, como concentración
+media aritmética anual.
+b) Zinc (Zn) en Material Particulado Sedimentable: 400 ug/m2 día, como concentración
+media aritmética anual.
+La evaluación del cumplimiento normativo de los elementos Plomo (Pb) y Zinc (Zn) se realiza
+determinando el promedio aritmético de los valores de las tasas de sedimentación trimestral
+correspondientes a un año.
+2.4.3 Procedimiento de muestreo:
+La metodología utilizada por el laboratorio Dictuc para el análisis de elementos de interés en el
+MPS, se describe brevemente en el anexo Nº 8 Metodologías:” Determinación de metales en
+muestra sólida”, la cual se basa en los protocolos descritos en TMECC 02.02: Laboratory
+simple prepartion, TMECC 04.12-B Nitric Acid Digestion of Compost and Soils y TMECC
+04.14: Inductively Coppled Plasma Analysis.
+La determinación de los elementos de interés en el MPS comprende dos etapas: el muestreo de
+MPS y el análisis químico de los elementos de interés en el MPS.
+El muestreo de MPS se realiza como se indica en el numeral 2.3.3 “Procedimiento de muestreo
+para el MPS” del presente informe, luego, para determinar los elementos de interés, se debe
+ajustar y verificar el equipo (Espectrómetro), el cual determina el porcentaje de metal en las
+muestras, metodología que se detalla a partir del punto 6.5 del documento Determinación de
+metales en muestra sólida, elaborado por el Dictuc y adjuntado en el Anexo Nº 8.
+Cabe mencionar que Dictuc ha presentado una solicitud de renovación de su acreditación al
+Instituto Nacional de Normalización (INN), para incluir el análisis de Zn, Mo, Se, Mn, V,
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 13
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 19
+================================================================================
+Ni, Al, Cd, Cr y Pb en Polvos sedimentables, la cual se incorpora en el Anexo Nº 1. Cabe
+hacer notar que la metodología usada en su determinación, es la misma que se usa en filtros
+y suelos, para lo cual el DICTUC está acreditado.
+2.5 Estaciones de Monitoreo y Equipos de Medición Utilizados
+2.5.1 Estaciones de monitoreo de MP10 y análisis de Plomo en MP10:
+A continuación se presenta un detalle de los equipos instalados en el sector norte y centro de
+la ciudad de Antofagasta, para realizar el monitoreo de Calidad del Aire.
+Las estaciones de monitoreo de MP10 se describen a continuación:
+ESTACIÓN RENDIC
+Lugar: Avenida Antonio Rendic Nº 6071, Antofagasta
+Mediciones de calidad del aire: MP10 y Análisis de Plomo.
+Las coordenadas geográficas (UTM) son según Datum WGS 84:
+7 387 679 N
+358 921 E
+En el siguiente cuadro se describen los equipos instalados.
+TABLA 2.3
+EQUIPOS INSTALADOS EN ESTACIÓN RENDIC
+PARÁMETRO EQUIPO MODELO Nº DE SERIE PRINCIPIO OPERACIÓN
+Gravimetría, control flujo
+MP10 Tisch Environmental TE-10557 P7272-X
+volumétrico
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 14
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 20
+================================================================================
+A continuación en figura 2.1 se presenta una fotografía de la estación Rendic y su equipo de
+monitoreo:
+2.1. Equipo de monitoreo Estación Rendic
+ESTACIÓN ONCOLÓGICO
+Lugar: Calle 21 de Mayo Nº 1352, Antofagasta
+Mediciones de calidad del aire: MP10 y Análisis de Plomo.
+Las coordenadas geográficas (UTM) son según WGS 84:
+7 382 847 N
+357 711 E
+En el siguiente cuadro se describen los equipos instalados.
+TABLA 2.4
+EQUIPOS INSTALADOS EN ESTACIÓN ONCOLÓGICO
+PARÁMETRO EQUIPO MODELO Nº DE SERIE PRINCIPIO OPERACIÓN
+Gravimetría, control flujo
+MP10 Tisch Environmental TE-10557 P7232- X
+volumétrico
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 15
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 21
+================================================================================
+A continuación en figura 2.2 se presenta una fotografía de la estación Oncológico y su
+equipo de monitoreo:
+2.2. Equipo de monitoreo Estación Oncológico
+2.5.2 Equipos de muestreo de Material Particulado Sedimentable
+En el siguiente cuadro se presentan las coordenadas geográficas (UTM), según Datum
+WGS 84, de los lugares donde fueron instalados los colectores de Material Particulado
+Sedimentable.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 16
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 22
+================================================================================
+TABLA 2.5
+ESTACIONES DE MATERIAL PARTICULADO SEDIMENTABLE
+COORDENADAS
+ESTACIÓN UBICACIÓN
+UTM
+Patio Sur Edificio Ministerio de Obras Públicas-
+MPS 01 0356972E;
+Intercepción Calle Latorre y Avenida Grecia (Latorre
+MOP 7383619N
+2027), Antofagasta, Región de Antofagasta.
+MPS 02
+Terraza de Edificio Productivo (CORFO) - Calle 0356994E;
+Medio
+Carrera 1701, Antofagasta, Región de Antofagasta. 7382873N
+Ambiente
+MPS 03 Casa de Retiro Colegio San Luis - Avenida Pedro
+0358006E;
+San Luis Aguirre Cerda 9451, Antofagasta, Región de
+7391641N
+Antofagasta.
+MPS 04 Regimiento Logístico - Av. Ejército 01750, 0355362E;
+Ejército Antofagasta, Región de Antofagasta 7379652N
+En el siguiente cuadro se describen los equipos instalados.
+TABLA 2.6
+EQUIPOS DE MATERIAL PARTICULADO SEDIMENTABLE
+PARÁMETRO EQUIPO PRINCIPIO PERACIÓN
+Colector ASTM basado en
+MPS Gravimetría
+equipo standard británico
+En las Figuras 2.3 a 2.6, se presentan fotografías de los equipos de monitoreo de Material
+Particulado Sedimentable.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 17
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 23
+================================================================================
+FIGURA 2.3. MPS 01- MOP
+FIGURA 2.4. MPS 02-Medio Ambiente
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 18
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 24
+================================================================================
+FIGURA 2.5. MPS 03- San Luis
+FIGURA 2.6. MPS 04-Ejército
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 19
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 25
+================================================================================
+3. RESULTADOS
+3.1 Monitoreo de Calidad de aire
+El programa de monitoreo para el mes de Diciembre, consiste en realizar las siguientes
+mediciones de calidad de aire:
+ MP10 Material Particulado Respirable
+ Análisis de Plomo (Pb) en MP10
+ Material Particulado Sedimentable
+ Elementos de Interés Presentados en el MPS
+3.2 Material Particulado Respirable MP10
+En la Tabla 3.1, se presentan los resultados de las mediciones realizadas de material
+particulado respirable MP10, realizadas en Estaciones RENDIC y ONCOLÓGICO, para el
+período de mediciones comprendido entre el 22 de Octubre al 31 de Diciembre de 2015.
+En Anexo 2 se presenta un detalle de cada uno de los parámetros tomados en terreno que
+permitieron determinar la concentración de material particulado respirable.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 20
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 26
+================================================================================
+TABLA 3.1
+RESULTADOS DE CONCENTRACIÓN DE
+MATERIAL PARTICULADO RESPIRABLE MP10 EN EL AIRE AMBIENTE
+ESTACIONES RENDIC Y ONCOLÓGICO
+PERÍODO 22 DE OCTUBRE AL 31 DE DICIEMBRE DE 2015
+Concentración expresada en µg/m3N
+FECHA MUESTREO RENDIC ONCOLÓGICO
+22-10-15 29 43
+25-10-15 36 33
+28-10-15 48 38
+31-10-15 34 48
+PROMEDIO MES 37 41
+03-11-15 36 31
+06-11-15 34 27
+09-11-15 38 27
+12-11-15 34 28
+15-11-15 36 25
+18-11-15 31 26
+21-11-15 33 33
+24-11-15 31 38
+27-11-15 31 16
+30-11-15 17 32
+PROMEDIO MES 32 28
+03-12-15 39 30
+06-12-15 22 18
+09-12-15 33 31
+12-12-15 25 22
+15-12-15 25 22
+18-12-15 25 20
+21-12-15 36 30
+24-12-15 31 29
+27-12-15 16 17
+30-12-15 21 17
+PROMEDIO MES 27 24
+PROMEDIO
+PERÍODO
+32 31
+22 de Octubre al 31 de
+Diciembre de 2015
+Valor Máximo 54 48
+Valor Mínimo 16 16
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 21
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 27
+================================================================================
+3.3 Plomo en el Material Particulado Respirable MP10
+3.3.1 Plomo en el Material Particulado Respirable MP10 Estación Rendic
+En la Tabla 3.2, se presentan los resultados de las mediciones realizadas de material
+particulado respirable MP10 en estación Rendic y los resultados de plomo, para el período
+comprendido entre el 22 de Octubre al 31 de Diciembre de 2015.
+En Anexo 2 se presenta un detalle de cada uno de los parámetros utilizados para determinar
+la concentración de plomo en el MP10 y su aporte porcentual.
+TABLA 3.2
+PLOMO EN MP10
+PERÍODO 22 DE OCTUBRE AL 31 DE DICIEMBRE DE 2015
+ESTACIÓN RENDIC
+CONCENTRACIÓN PLOMO (Pb)
+Nº FILTRO FECHA MP10
+µg/m³N µg/m³N %
+15102456 22-10-15 29 0,004 0,014
+15102451 25-10-15 36 0,004 0,010
+15102460 28-10-15 48 0,005 0,011
+15102478 31-10-15 34 0,004 0,010
+15092280 03-11-15 36 0,011 0,031
+15102452 06-11-15 34 0,009 0,026
+15071753 09-11-15 38 0,013 0,035
+15071558 12-11-15 34 0,009 0,026
+15071562 15-11-15 36 0,013 0,036
+15112801 18-11-15 31 <0,002 <0,002
+15112792 21-11-15 33 0,022 0,067
+15112790 24-11-15 31 <0,002 <0,002
+15112787 27-11-15 31 0,016 0,054
+15123019 30-11-15 17 0,007 0,041
+15071560 03-12-15 39 0,003 0,007
+15122998 06-12-15 22 0,006 0,026
+15123021 09-12-15 33 0,008 0,023
+15123003 12-12-15 25 0,006 0,026
+15123224 15-12-15 25 0,005 0,019
+15123005 18-12-15 25 0,005 0,021
+15123026 21-12-15 36 0,007 0,020
+15123006 24-12-15 31 0,009 0,030
+15123222 27-12-15 16 0,012 0,076
+15123205 30-12-15 21 0,004 0,019
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 22
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 28
+================================================================================
+A continuación se presenta el aporte porcentual del Plomo en el MP10, en la estación Rendic.
+Gráfico N°1: Porcentaje de Plomo contenido en el MP10, estación Rendic
+3.3.2 Plomo en el Material Particulado Respirable MP10 Estación Oncológico
+En la Tabla 3.3, se presentan los resultados de las mediciones realizadas de material
+particulado respirable MP10, en estación Oncológico, y los resultados de plomo, para el
+período comprendido entre el 22 de Octubre al 31 de Diciembre de 2015.
+En Anexo 2 se presenta un detalle de cada uno de los parámetros utilizados para determinar
+la concentración de plomo en el MP10 y su aporte porcentual.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 23
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 29
+================================================================================
+TABLA 3.3
+PLOMO EN MP10
+PERÍODO 22 DE OCTUBRE AL 31 DE DICIEMBRE DE 2015
+ESTACIÓN ONCOLÓGICO
+CONCENTRACIÓN PLOMO (Pb)
+Nº FILTRO FECHA MP10
+µg/m³N µg/m³N %
+15082011 22-10-15 43 0,021 0,048
+15071563 25-10-15 33 0,010 0,031
+15102458 28-10-15 38 0,009 0,024
+15102459 31-10-15 48 0,007 0,001
+15071752 03-11-15 31 0,027 0,084
+15102453 06-11-15 27 0,025 0,093
+15071557 09-11-15 27 0,005 0,020
+15112802 12-11-15 28 0,036 0,127
+15112793 15-11-15 25 0,017 0,069
+15112789 18-11-15 26 0,009 0,033
+15071559 21-11-15 33 0,018 0,056
+15112788 24-11-15 38 0,020 0,054
+15123018 27-11-15 16 0,007 0,044
+15123027 30-11-15 32 0,006 0,019
+15071561 03-12-15 30 0,008 0,028
+15122999 06-12-15 18 0,006 0,033
+15123020 09-12-15 31 0,009 0,028
+15123004 12-12-15 22 0,004 0,016
+15123223 15-12-15 22 0,005 0,024
+15123206 18-12-15 20 0,006 0,030
+15123007 21-12-15 30 0,006 0,020
+15123000 24-12-15 29 0,009 0,031
+15123221 27-12-15 17 0,004 0,021
+15123207 30-12-15 17 0,004 0,024
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 24
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 30
+================================================================================
+A continuación se presenta el aporte porcentual del Plomo en el MP10, en la estación
+Oncológico.
+Gráfico N°2: Porcentaje de Plomo en el MP10, estación Oncológico
+3.4 Material Particulado Sedimentable
+En la Tabla 3.4, se presentan los resultados del contenido de Material Particulado
+Sedimentable en cada punto de monitoreo, expresado como tasa de sedimentación. Cabe
+mencionar que en Anexo Nº 4, se presenta planilla de cálculo con la cual se obtuvo el valor de
+la tasa de sedimentación.
+TABLA 3.4
+RESULTADOS DE MATERIAL PARTICULADO SEDIMENTABLE
+DICIEMBRE 2015
+MPS MPS
+ESTACIÓN
+(mg) (mg/m2día)
+MPS 01
+688 117
+MOP
+MPS 02
+300 55
+Medio Ambiente
+MPS 03
+236 40
+San Luis
+MPS 04
+175 30
+Ejército
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 25
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 31
+================================================================================
+3.5 Elementos de interés en el Material Particulado Sedimentable
+En las Tablas 3.5 A y B, se presentan los resultados del contenido de Arsénico (As), Cobre
+(Cu), Manganeso (Mn), Molibdeno (Mo), Níquel (Ni), Plomo (Pb), Selenio (Se), Vanadio
+(V), Zinc (Zn) y Hierro (Fe) en el Material Particulado Sedimentable, como tasa de
+sedimentación expresado en mg/(m2día) y aporte porcentual de cada elemento de interés en
+el MPS. En anexo Nº 4, se presenta planilla Excel con valores y cálculos de MPS, así como
+también los valores de elementos de interés contenidos en el MPS.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 26
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Febrero 2016
+================================================================================
+PAGE 32
+================================================================================
+TABLA 3.5 A
+RESULTADOS DE ELEMENTOS DE INTERÉS EN EL MPS
+TASA DE SEDIMENTACIÓN
+DICIEMBRE 2015
+MPS As Cu Mn Mo Ni Pb Se V Zn Fe Otros
+ESTACIÓN
+mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día
+MOP 117 0,023 3,791 0,047 0,008 0,005 0,152 <0,001 0,007 4,875 10,516 97,50
+MEDIO
+55 0,005 0,341 0,022 0,002 0,010 0,013 <0,001 0,003 0,415 1,861 51,96
+AMBIENTE
+SAN LUIS 40 0,001 0,073 0,024 0,001 0,024 0,004 <0,001 0,003 0,059 1,700 38,15
+EJERCITO 30 0,004 0,244 0,016 0,002 0,046 0,009 <0,001 0,002 0,209 1,855 27,35
+TABLA 3.5 B
+RESULTADOS DE ELEMENTOS DE INTERÉS EN EL MPS
+APORTE PORCENTUAL
+DICIEMBRE 2015
+As Cu Mn Mo Ni Pb Se V Zn Fe Otros
+ESTACIÓN
+(%) (%) (%) (%) (%) (%) (%) (%) (%) (%) (%)
+MOP 0,02 3,242 0,04 0,007 0,004 0,13 <0,001 0,006 4,169 8,994 83,388
+MEDIO
+0,01 0,624 0,041 0,003 0,019 0,023 <0,001 0,006 0,76 3,407 95,107
+AMBIENTE
+SAN LUIS 0,003 0,182 0,06 0,002 0,059 0,009 <0,001 0,007 0,148 4,247 95,283
+EJERCITO 0,013 0,822 0,054 0,007 0,154 0,03 <0,001 0,007 0,702 6,237 91,974
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 27
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 33
+================================================================================
+A continuación se presentan gráficos con la composición de elementos de interés en el MPS
+para cada punto de muestreo:
+Gráfico Nº 3: Aporte porcentual de elementos de interés, estación MOP
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 28
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 34
+================================================================================
+Gráfico Nº 4: Aporte porcentual de elementos de interés, estación Medio Ambiente
+Gráfico Nº 5: Aporte porcentual de elementos de interés, estación San Luis
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 29
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 35
+================================================================================
+Gráfico Nº 6: Aporte porcentual de elementos de interés, estación Ejército
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 30
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 36
+================================================================================
+4. ANÁLISIS DE RESULTADOS
+4.1 Material Particulado Respirable MP10
+De la Tabla 3.1 donde se presentaron los valores de MP10, en las estaciones Rendic y
+Oncológico, se puede observar lo siguiente:
+OCTUBRE
+Los valores promedios diarios en estación RENDIC estuvieron comprendidos entre 29 y 48
+µg/m3N y el valor promedio de las mediciones del mes de octubre fue de 37 µg/m3N.
+Los valores promedios diarios en estación ONCOLÓGICO estuvieron comprendidos entre
+33 y 48 µg/m3N y el valor promedio de las mediciones del mes de octubre fue de 41
+µg/m3N.
+NOVIEMBRE
+Los valores medios diarios en estación RENDIC estuvieron comprendidos entre 17 y
+38 µg/m3N y el valor medio fue de 32 µg/m3N.
+Los valores medios diarios en estación ONCOLÓGICO estuvieron comprendidos entre 16 y
+38 µg/m3N y el valor medio fue de 28 µg/m3N.
+DICIEMBRE
+Los valores medios diarios en estación RENDIC estuvieron comprendidos entre 16 y
+39 µg/m3N; y el valor medio fue de 27 µg/m3N.
+Los valores medios diarios en estación ONCOLÓGICO estuvieron comprendidos entre 17 y
+31 µg/m3N; y el valor medio fue de 24 µg/m3N.
+Al revisar los resultados que se presentaron en la Tabla 3.1, con el valor medio de 24 horas
+de 150 µg/m3N, fijado en la norma de calidad, podemos inferir que no fue sobrepasado
+durante el período de monitoreo comprendido entre el 22 de Octubre al 31 de Diciembre de
+2015, en las dos estaciones de monitoreo.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 31
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 37
+================================================================================
+4.2 Plomo en el Material Particulado Respirable MP10
+De las Tablas 3.2 y 3.3, donde se presentaron los contenidos medidos de plomo (Pb), en los
+filtros MP10, se puede observar lo siguiente:
+OCTUBRE
+Los valores promedios diarios en estación RENDIC estuvieron comprendidos entre 0,004 y
+0,005 µg/m3N y el valor promedio de las mediciones del mes de Octubre fue de 0,004
+µg/m3N.
+Los valores promedios diarios en estación ONCOLÓGICO estuvieron comprendidos entre
+0,007 y 0,021 µg/m3N y el valor promedio de las mediciones del mes de Octubre fue de
+0,012 µg/m3N.
+NOVIEMBRE
+Los valores promedios diarios en estación RENDIC estuvieron comprendidos entre <0,002 y
+0,022 µg/m3N y el valor promedio de las mediciones del mes de Noviembre fue de 0,013
+µg/m3N.
+Los valores promedios diarios en estación ONCOLÓGICO estuvieron comprendidos entre
+0,005 y 0,036 µg/m3N y el valor promedio de las mediciones del mes de Noviembre fue de
+0,017 µg/m3N.
+DICIEMBRE
+Los valores promedios diarios en estación RENDIC estuvieron comprendidos entre 0,003 y
+0,012 µg/m3N y el valor promedio de las mediciones del mes de Diciembre fue de 0,007
+µg/m3N.
+Los valores promedios diarios en estación ONCOLÓGICO estuvieron comprendidos entre
+0,004 y 0,009 µg/m3N y el valor promedio de las mediciones del mes de Diciembre fue de
+0,006 µg/m3N.
+Al observar los resultados que se presentaron en las Tablas 3.2 y 3.3, con el valor establecido
+en norma primaria de calidad del aire para el contaminante plomo de 0,5 (μg/m3N) como
+concentración anual, podemos inferir que no fue sobrepasado durante todo el período de
+monitoreo comprendido entre el 22 de Octubre al 31 de Diciembre de 2015, en las dos
+estaciones de monitoreo.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 32
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 38
+================================================================================
+4.3 Material Particulado Sedimentable
+I) Análisis con respecto a normativas de referencia
+Los resultados de MPS obtenidos durante el mes de Diciembre, y los valores establecidos en
+el D.S Nº 4/1992 y la Ordenanza de la Confederación Suiza, se presentan en la tabla 4.1.
+TABLA 4.1
+MPS Y NORMATIVA DE REFERENCIA
+DICIEMBRE 2015
+Ordenanza
+MPS MPS Confederación D.S Nº4/1992
+ESTACIÓN (mg) (mg/m2día) Suiza (mg/m2día)
+(mg/m2día)
+Mensual Mensual Anual Mensual Anual
+MPS 01
+688 117
+MOP
+MPS 02
+300 55
+Medio Ambiente
+200 150 100
+MPS 03
+236 40
+San Luis
+MPS 04
+175 30
+Ejército
+De la Tabla 4.1, es posible inferir que en la estación denominada MOP se concentra la
+mayor cantidad de MPS, mientras que en la estación Ejército se presenta la menor cantidad
+de MPS medido durante el mes de Diciembre.
+Con respecto a la norma mensual de MPS, indicada en el D.S.N°4/1992, se observa que
+todas las estaciones se encuentran bajo dicha norma.
+Con respecto a la norma anual del D.S.N°4/1992 y de la Ordenanza de la Confederación
+Suiza, los resultados obtenidos se encuentran bajo el valor de dichas normas, excepto la
+estación MOP, la cual se encuentra sobre el valor de la norma anual establecida en el D.S.
+N°4/1992.
+No es posible comparar los resultados obtenidos con la norma anual de MPS, debido a que no
+se cuenta con la cantidad de datos requeridos por las normas de referencia utilizadas.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 33
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 39
+================================================================================
+4.4 Elementos de interés en el Material Particulado Sedimentable
+II) Análisis con respecto a normativas de referencia
+En la tabla 4.2 se observan los valores de Arsénico (As), cobre (Cu), Manganeso (Mn), Molibdeno (Mo), Níquel (Ni), Plomo (Pb), Selenio
+(Se), Vanadio (V), zinc (Zn) y Hierro (Fe), contenidos en el MPS y la normativa de referencia con la cual se compara.
+TABLA 4.2
+ELEMENTOS DE INTERÉS Y NORMATIVA DE REFERENCIA
+DICIEMBRE 2015
+.
+As Cu Mn Mo Ni Pb Se V Zn Fe
+ESTACIÓN
+mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día mg/m2día
+MOP 0,023 3,791 0,047 0,008 0,005 0,152 <0,001 0,007 4,875 10,516
+MEDIO AMBIENTE 0,005 0,341 0,022 0,002 0,010 0,013 <0,001 0,003 0,415 1,861
+SAN LUIS 0,001 0,073 0,024 0,001 0,024 0,004 <0,001 0,003 0,059 1,700
+EJERCITO 0,004 0,244 0,016 0,002 0,046 0,009 <0,001 0,002 0,209 1,855
+D.S Nº 4/1992
+(mg/m2día)desde
+segunda quincena de - - - - - - - - - 60
+Diciembre hasta
+Agosto
+D.S Nº 4/1992
+(mg/m2día)
+Septiembre- Octubre-
+- - - - - - - - - 30
+Noviembre y primera
+quincena de
+Diciembre.
+Ordenanza
+Confederación Suiza - - - - - 0,1 - - 0,4 -
+(mg /m2día)
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 34
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 40
+================================================================================
+Con respecto al mes de diciembre, se consideró el valor más restrictivo, 30 mg/m2día
+De la tabla 4.2, se observan los elementos de interés contenidos en el MPS, expresados en
+mg/m2día. A partir de ella, es posible observar en cuál(es) estación(es) se presenta(n) los
+elementos con mayor aporte al MPS y aquellos con menor aporte, como se expresa a
+continuación:
+As: El contenido de Arsénico varía entre 0,001 y 0,023 mg/m2día, registrándose su valor
+mínimo y máximo en estación SAN LUIS y MOP respectivamente.
+Cu: El contenido de Cobre varía entre 0,073 y 3,791 mg/m2día, registrándose su valor
+mínimo y máximo en estación SAN LUIS y MOP respectivamente.
+Mn: El contenido de Manganeso varía entre 0,016 y 0,047 mg/m2día, registrándose su valor
+mínimo y máximo en estación EJÉRCITO y MOP respectivamente.
+Mo: El contenido de Molibdeno varía entre 0,001 y 0,008 mg/m2día, registrándose su valor
+mínimo y máximo en estación SAN LUIS y MOP respectivamente.
+Ni: El contenido de Níquel varía entre 0,005 y 0,46 mg/m2día, registrándose su valor mínimo
+y máximo en estación MOP y EJÉRCITO respectivamente.
+Pb: El contenido de Plomo varía entre 0,004 y 0,152 mg/m2día, registrándose su valor
+mínimo y máximo en estación SAN LUIS y MOP respectivamente.
+Se: El contenido de Selenio en todas las estaciones no es detectable por el instrumento de
+medición, los valores fueron inferiores a 0,001 mg/m2día.
+V: El contenido de Vanadio varía entre 0,002 y 0,007 mg/m2día, registrándose su valor
+mínimo y máximo en estación EJÉRCITO y MOP respectivamente.
+Zn: El contenido de Zinc varía entre 0,059 y 4,875 mg/m2día, registrándose su valor mínimo
+y máximo en estación SAN LUIS y MOP respectivamente.
+Fe: El contenido de Hierro varía entre 1,700 y 10,516 mg/m2día, registrándose su valor
+mínimo y máximo en estación SAN LUIS y MOP respectivamente.
+De todos los elementos analizados, el Hierro (Fe), es el único elemento posible de evaluar
+con la norma D.S Nº4/1992, que establece el hierro en el material particulado sedimentable
+como 30 mg/ (m2día) como concentración media aritmética mensual para el mes de
+Diciembre, el cual se encuentra bajo dicha norma.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 35
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 41
+================================================================================
+Con respecto a la norma anual de Hierro (Fe), indicada en el D.S.N°4/1992, no es posible
+comparar los resultados con dicha norma, debido que no se cuenta con la cantidad de datos
+requeridos para su evaluación.
+De los resultados de Hierro (Fe) obtenidos, se observa que se encuentran bajo el valor de la
+norma anual, en todas las estaciones.
+En cuanto al Plomo (Pb) y Zinc (Zn), no es posible comparar estos resultados con la norma
+anual indicada en la Ordenanza de la Confederación Suiza, debido a que no se cuenta con la
+cantidad de datos requeridos por dicha norma.
+De los resultados obtenidos para el Plomo (Pb), se puede observar que sólo en la estación
+MOP, este elemento se encuentra sobre el valor establecido en la Ordenanza de la
+Confederación Suiza.
+Para el caso del Zinc (Zn), se presentan valores altos en dos estaciones, MOP y Medio
+Ambiente. Cabe señalar, que en la estación MOP el valor obtenido supera ampliamente el
+valor indicado por la Ordenanza de la Confederación Suiza.
+III) Análisis con respecto al aporte porcentual de los elementos de interés en el MPS.
+De los gráficos Nº 3, 4, 5 y 6, es posible observar lo siguiente:
+En la estación MOP, la suma de todos elementos analizados es de 16,61 %, siendo los
+elementos con mayor aporte porcentual el Fe (8,99 %), Zn (4,17 %) y Cu (3,24 %).
+En la estación Medio Ambiente, la suma de todos elementos analizados es de 4,89 %, siendo
+los elementos con mayor aporte porcentual el Fe (3,41 %), Zn (0,76 %) y Cu (0,62 %).
+En la estación San Luis, la suma de todos elementos analizados es de 4.72 %, siendo los
+elementos con mayor aporte porcentual el Fe (4,25 %), Zn (0,15 %) y Cu (0,18 %).
+En la estación Ejército, la suma de todos elementos analizados es de 8,03 %, siendo los
+elementos con mayor aporte porcentual el Fe (6,24 %), Zn (0,70 %) y Cu (0,82 %).
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 36
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016
+================================================================================
+PAGE 42
+================================================================================
+6. CONCLUSIONES
+De las mediciones efectuadas en el período 22 de Octubre al 31 de Diciembre de 2015, se
+puede inferir, que en los dos lugares de medición de material particulado respirable (MP10),
+estaciones RENDIC y ONCOLÓGICO, no se supera el valor límite máximo permisible de
+24 horas de 150 µg/m3N, fijado por la legislación Chilena para material particulado
+respirable, D.S. Nº 59/1998 del Ministerio Secretaría General de la Presidencia de la
+República.
+Con respecto al análisis de Plomo (Pb), de las mediciones de Pb en MP10 se puede inferir
+que no se supera el valor límite máximo permisible 0.5 µg/m3N, fijado por la legislación
+chilena para Plomo en el Aire, D.S. Nº 136/2001 del Ministerio Secretaría General de la
+Presidencia de la República.
+En cuanto a las mediciones de Material Particulado Sedimentable (MPS), durante el mes de
+Diciembre de 2015, es posible evaluar los resultados de todas las estaciones con la norma
+mensual definida en el D.S Nº 4/1992, que establece el límite de material particulado
+sedimentable en 150 mg/(m2día), no sobrepasándose esta norma en ninguna de las estaciones
+en estudio.
+En cuanto a la Ordenanza Sobre Control de Contaminación del Aire de la Confederación
+Suiza que establece el límite de Material Particulado Sedimentable en 200 mg/(m2día), como
+promedio anual. No se dispone de la cantidad de datos suficientes para evaluar dicha
+Ordenanza, sin embargo a modo referencial los valores obtenidos se encuentran bajo el valor
+señalado, en todos los puntos de monitoreo.
+Con respecto a los elementos de interés en el MPS, el Hierro (Fe), es el único elemento que
+es posible evaluar en relación con la norma mensual indicada en el D.S Nº4/1992. Los
+valores obtenidos se encuentran bajo dicha norma en todos los puntos de monitoreo.
+Con respecto al Zinc (Zn) se observa que la estación MOP y Medio Ambiente presentan los
+valores más altos comparados con el resto de las estaciones. Cabe señalar, que con respecto
+al Zinc (Zn) es posible inferir que de seguir una tendencia similar durante un año, el valor
+podría sobrepasar ampliamente la norma indicada en la Ordenanza Suiza.
+En cuanto al Selenio (Se), es posible observar que el instrumento no detectó este elemento
+en el MPS, en ninguno los puntos de medición, por lo cual los valores de este elemento se
+expresan en como inferiores a 0,001 %.
+Con respecto al Plomo (Pb), Cobre (Cu), Zinc (Zn) y Hierro (Fe), los mayores aportes se
+registran en la estación MOP.
+Informe Diciembre 2015 SEREMI DEL MEDIO AMBIENTE 37
+REGIÓN DE ANTOFAGASTA
+SERPRAM
+Enero 2016

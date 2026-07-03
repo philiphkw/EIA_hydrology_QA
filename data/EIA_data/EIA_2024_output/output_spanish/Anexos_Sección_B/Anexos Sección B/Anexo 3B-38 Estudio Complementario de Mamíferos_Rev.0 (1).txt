@@ -1,0 +1,1181 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3B-38
+Estudio Complementario de
+Mamíferos
+EIA "Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras"
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+EIA Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado Tierras Raras Estudio
+Complementario de Mamíferos
+MAYO 2024
+================================================================================
+PAGE 3
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+ÍNDICE
+1 INTRODUCCIÓN ........................................................................................................................................... 2
+2 OBJETIVOS ................................................................................................................................................... 2
+2.1 OBJETIVO GENERAL ....................................................................................................................................... 2
+2.2 OBJETIVOS ESPECÍFICOS ................................................................................................................................ 2
+3 ÁREA DE INFLUENCIA .................................................................................................................................. 3
+3.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA ................................................................................................ 3
+3.1.1 JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA ....................................................................................................... 3
+4 METODOLOGÍA............................................................................................................................................ 5
+4.1 DETERMINACIÓN Y DESCRIPCIÓN DE AMBIENTES PRESENTES EN LASOBRAS DEL PROYECTO .................... 5
+4.2 DISEÑO DE MUESTREO .................................................................................................................................. 7
+4.2.1 PUNTOS DE MUESTREO .............................................................................................................................. 7
+4.2.2 ORGANIZACIÓN Y CREACIÓN DE BASE DE DATOS ............................................................................................ 10
+4.2.3 PATRONES ESPACIALES Y TEMPORALES DE MESO MAMÍFEROS, Y SU RELACIÓN CON LOS AMBIENTES PRESENTES EN EL ÁREA
+DEL PROYECTO ...................................................................................................................................... 11
+5 RESULTADOS ..............................................................................................................................................14
+5.1 ESPECIES E REGISTRADOS ........................................................................................................................... 14
+5.2 REGISTROS POR ESPECIE Y AMBIENTE ........................................................................................................ 14
+5.3 TASA DE DETECCIÓN (RAI) A NIVEL DE ESPECIE .......................................................................................... 15
+5.4 PATRONES ESPACIALES Y TEMPORALES DE MESO MAMÍFEROS ................................................................ 17
+5.5 IDENTIFICACIÓN DE INDIVIDUOS Y COMPARACIÓN ENTRE SITIOS ............................................................. 27
+5.6 DENSIDAD Y MOVIMIENTO DE MESO MAMÍFEROS .................................................................................... 30
+6 DISCUSIÓN Y CONCLUSIONES .....................................................................................................................34
+7 REFERENCIAS ..............................................................................................................................................36
+8 ANEXOS ......................................................................................................................................................38
+8.1 ANEXO FOTOGRÁFICO ................................................................................................................................. 38
+8.1.1 LYCALOPEX CULPAEUS .............................................................................................................................. 38
+8.1.2 LEOPARDUS GUIGNA ................................................................................................................................ 39
+8.1.3 PUDU PUDA ........................................................................................................................................... 40
+8.1.4 GALICTIS CUJA ........................................................................................................................................ 41
+Pág.i
+================================================================================
+PAGE 4
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+1 INTRODUCCIÓN
+El presente informe entrega los resultados de la caracterización de línea de base de fauna (animales silvestres)
+asociado al “Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras” (en adelante “el
+Proyecto”), el cual se emplazará en las comunas de Penco (mayoritariamente) y Concepción, provincia de
+Concepción, región del Biobío, y su sensibilidad en relación con las actividades y obras proyectadas. Cabe destacar
+que, para la elaboración del presente informe, se siguieron los lineamientos establecidos en la “Guía para la
+Descripción del área de Influencia: Descripción de los Componentes Suelo, Flora y Fauna de Ecosistemas Terrestres
+en el SEIA (SEA 2015), “Guía sobre el Área de Influencia en el Sistema de Evaluación de Impacto Ambiental” (SEA
+2017) y la Guía “Criterios de Evaluación en el SEIA: Criterios Técnicos para Campañas de Terreno de Fauna Terrestre
+y Validación de datos” (SEA 2022).
+De esta manera, la caracterización del componente se realizó en función de los requerimientos del Sistema de
+Evaluación de Impacto Ambiental, en el marco de lo que establece la Ley N°19.300 sobre Bases Generales del Medio
+Ambiente y sus modificaciones posteriores, y específicamente, la letra e.2) del Artículo 18 del D.S. N°40 del 2012 del
+Ministerio de Medio Ambiente, que modificó el Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA).
+2 OBJETIVOS
+2.1 OBJETIVO GENERAL
+El objetivo de este informe es caracterizar ecológicamente la comunidad de meso mamíferos presentes en el Área
+de influencia del Proyecto, presentando aspectos que pudiesen ser relevantes en el contexto de la ejecución de obras
+de este.
+2.2 OBJETIVOS ESPECÍFICOS
+• Identificar los ambientes presentes en el área de influencia del Proyecto.
+• Evaluar los patrones espaciales y temporales de las especies de meso mamíferos en el Área de influencia
+del Proyecto
+• Relacionar los patrones de ocurrencia con los ambientes presentes en el Área de influencia del Proyecto
+• Estimar la abundancia de cada especie de meso mamífero en el Área de influencia del Proyecto
+• Identificar sitios de importancia para el grupo de especies dentro del Área de influencia del Proyecto
+Pág.2
+================================================================================
+PAGE 5
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+3 ÁREA DE INFLUENCIA
+3.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA
+El área de influencia se ubica en las ciudades de Penco y Concepción, comunas homónimas, en la provincia de
+Concepción, Región de Biobío. El área donde se emplazará el Proyecto corresponde a un sector al este de la ruta 150
+y cruza la ruta 152 por el centro del área, con una extensión de 3,0 km por 2,5 km y un área de intervención de 169,03
+ha. A esta área se le incluye un área buffer considerando un ancho aproximado de 200 m desde el límite de las áreas
+del proyecto hacia el exterior, formando un polígono con una superficie total de 673,62 hectáreas (Figura 3-1). Esta
+área buffer, es mayor al área del Proyecto, ya que considera una superficie extra que podría, potencialmente, ser
+afectada por el desarrollo de las actividades del Proyecto, considerando la capacidad de desplazamiento inherente
+que posee el componente fauna.
+3.1.1 Justificación del Área de Influencia
+La extensión del área de influencia del Proyecto está directamente determinada por cada componente ambiental,
+sus interrelaciones o dinámica natural y la naturaleza de la acción o efecto inducido por el Proyecto. Considerando
+lo anterior, la dimensión del área de influencia tiene una extensión geográfica y territorial en relación con la variable
+fauna vertebrada terrestre, por lo cual, esta área incluye la variación geográfica para cada taxón, abarcando aspectos
+de la biología de cada grupo y las interacciones con el medio abiótico.
+Para la definición y descripción del área de influencia del componente fauna vertebrada terrestre, se siguieron las
+directrices de la “Guía para la descripción de los componentes suelo, flora y fauna de ecosistemas terrestres en el
+SEIA” (SEA 2015) y la “Guía para la descripción del área de influencia en el SEIA” (SEA 2017), las cuales consideran los
+siguientes aspectos: identificación preliminar de posibles efectos, extensión espacial de las partes, obras y/o
+actividades del Proyecto, el espacio geográfico de los elementos receptores de impactos, atributos relevantes y
+situación actual. Una vez definidos estos aspectos, se estableció el área de influencia donde pueden manifestarse
+los efectos sobre el componente fauna producto de las partes y obras del Proyecto, como del desarrollo de sus
+actividades (Figura 3-1).
+Pág.3
+================================================================================
+PAGE 6
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 3-1. Área de Influencia (AI) para estudio meso mamíferos.
+Fuente: GAC
+Pág.4
+================================================================================
+PAGE 7
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4 METODOLOGÍA
+4.1 DETERMINACIÓN Y DESCRIPCIÓN DE AMBIENTES PRESENTES EN LAS OBRAS DEL PROYECTO
+En base a la información levantada en terreno y a los análisis fotointerpretativos de las formaciones vegetacionales
+del componente flora y vegetación, se determinaron los ambientes para la fauna presentes en el área de influencia.
+En base a lo anterior se utilizaron como criterios para la definición de los ambientes: las características
+vegetacionales, la presencia de cuerpos de agua y la presencia de actividad antrópica. En la Tabla 4-1 se indica la
+determinación de los ambientes para la fauna en base a los criterios para su definición. Luego, en la Tabla 4-2 se
+señalan las superficies de cada ambiente y su representación porcentual del total. La disposición de los ambientes
+identificados al interior del área de influencia del Proyecto se presenta en la Figura 4-1.
+Tabla 4-1. Determinación de ambientes para la fauna en el área de influencia del Proyecto.
+Criterios para la definición de ambiente
+Ambiente de fauna
+Características vegetacionales Presencia de cuerpo de agua Nivel de intervención antrópica
+Bosque asilvestrado Si
+Bosque de preservación Si Media Bosque
+Bosque nativo Si
+Herbazal No
+Matorral No
+Media Matorral
+Matorral arborescente No
+Pradera No
+Área industrial No
+Área urbana No Alta Modificado
+Camino No
+Plantación forestal SI Alta Plantación forestal
+FUENTE: GAC
+Tabla 4-2. Superficie (Ha) y participación relativa (%) de cada ambiente para fauna.
+Ambiente de fauna Superficie (Ha) Participación relativa (%)
+Bosque 148,05 21,98
+Matorral 81,03 12,03
+Modificado 74,16 11,01
+Plantación 370,38 54,98
+TOTAL 673,62 100
+FUENTE: GAC
+Pág.5
+================================================================================
+PAGE 8
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 4-1. Ambientes dentro del Área de Influencia (AI) para componente Fauna terrestre
+Fuente: Elaboración propia.
+Pág.6
+================================================================================
+PAGE 9
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4.2 DISEÑO DE MUESTREO
+4.2.1 Puntos de muestreo
+Con la finalidad de obtener registros fotográficos de mesomamíferos presentes en el área de influencia del proyecto,
+se utilizó el método de estaciones olfativas en combinación con la utilización de cámaras-trampa (O´Connell et al.
+2011), las cuales fueron distribuidas en el AI según se muestra en la Figura 4-2. Esta metodología consiste en la
+instalación de cámaras sensibles al movimiento del tipo Bushnell Trophy Cam., junto con el uso de un cebo (atractor),
+en lugares cercanos a posibles sitios de tránsito de especies del grupo objetivo, como senderos o cuerpos de agua,
+logrando así capturar fotográficamente a especies más elusivas o de menor frecuencia.
+Posteriormente, la tarjeta de memoria de cada cámara es retirada y las fotos son analizadas en gabinete para
+reconocer las especies registradas y confirmar su presencia en al AI. El esfuerzo dedicado para esta metodología se
+basó según el criterio de los especialistas, el tipo de terreno o ambientes en que se encontraba el punto de muestreo,
+esto es, la idoneidad que presentaba el sector para registrar presencias de grandes mamíferos, especialmente de
+carnívoros.
+Para el reconocimiento de las especies se consideraron las descripciones propuestas por Acosta & Simonetti (1999),
+Skewes (2009), Muñoz-Pedreros & Yáñez (2009) e Iriarte (2008) y para su identificación a nivel de individuo se usaron
+características morfométricas, sexo, comportamiento y edad, así como singularidades rastreables de cada uno de los
+individuos registrados.
+Cada una de las 26 cámaras instaladas fue georreferenciada y programada para registrar fotografías. Las Cámaras
+Trampas fueron instaladas en julio de 2022 y fueron monitoreadas con campañas semestrales hasta julio de 2023. El
+diseño procuró abarcar de mejor forma el AI y los distintos ambientes de fauna identificados. El detalle de la ubicación
+de cada una de las cámaras se presenta en la Tabla 4-3.
+Tabla 4-3. Estaciones de muestreo por ambiente de fauna.
+Coordenadas UTM WGS 84 18S
+Punto de muestreo Ambiente de fauna
+E N
+CTPudu01 680.160 5.929.048 Bosque
+CT01 679.861 5.930.103 Plantación
+CT02 680.182 5.929.348 Plantación
+CT03 680.853 5.929.188 Bosque
+CT04 681.703 5.929.748 Plantación
+CT05 681.024 5.930.320 Modificado
+CT06 680.912 5.931.050 Bosque
+CT08 681.249 5.930.823 Plantación
+CT10 681.664 5.928.766 Matorral
+CT11 679.598 5.929.498 Plantación
+CT12 679.815 5.929.074 Plantación
+CT13 680.082 5.929.684 Bosque
+CT14 680.684 5.929.577 Plantación
+CT15 680.572 5.929.236 Plantación
+Pág.7
+================================================================================
+PAGE 10
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Coordenadas UTM WGS 84 18S
+Punto de muestreo Ambiente de fauna
+E N
+CT16 682.197 5.930.434 Bosque
+CT17 681.222 5.929.914 Plantación
+CT19 680.673 5.930.152 Plantación
+CT20 681.784 5.930.095 Plantación
+CT21 681.460 5.930.826 Matorral
+CT23 681.186 5.929.509 Bosque
+CT25 680.865 5.928.856 Plantación
+CT26 680.350 5.928.253 Modificado
+CT27 680.358 5.928.597 Plantación
+CT28 680.535 5.928.868 Plantación
+CTCR01 680.055 5.930.197 Bosque
+CTCR02 680.209 5.928.567 Modificado
+Reubicación-CT18 681.459 5.930.337 Plantación
+Fuente: Elaboración propia.
+Pág.8
+================================================================================
+PAGE 11
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 4-2. Trampas cámara instaladas por ambiente.
+Fuente: Elaboración propia.
+Pág.9
+================================================================================
+PAGE 12
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4.2.2 Organización y creación de Base de datos
+Una vez recuperadas las fotografías, éstas se organizarán por cada trampa cámara utilizando el paquete de
+programas “Sweet Cam”, desarrollado por Sanderson & Harris 2013 para el software R. Este paquete, mediante
+“Renamer”, permite cambiar el nombre de la fotografía por la fecha y hora en la cual se obtuvo el registro,
+ordenándolas para facilitar su análisis. La organización se realizará aplicando “Data organize”; programa que viene
+incorporado en el paquete. Finalmente, para el análisis de los datos se ejecutará el programa “Data analize” (Ver
+Figura 4-3), definiendo previamente el tiempo de independencia de cada fotografía, para ello se seguirá las
+recomendaciones de Sanderson y Harris (2013), es decir definiendo un tiempo de independencia cada una hora, lo
+que permitirá discriminar una ráfaga de fotografías a un mismo individuo en un mismo momento.
+Figura 4-3. Esquema explicativo del paquete “Sweet cam”.
+Fuente: Elaboración propia.
+Pág.10
+================================================================================
+PAGE 13
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4.2.3 Patrones espaciales y temporales de meso mamíferos, y su relación con los ambientes presentes en el
+área del proyecto
+4.2.3.1 Patrones espaciales
+Para este objetivo se calcularon dos parámetros poblacionales simple y ampliamente utilizado para el estudio de
+especies de mamíferos: i) se calculó el parámetro de ocupación sencilla (o naive). La ocupación se define como la
+proporción de áreas, parches o lugares ocupados por una especie (MacKenzie et. al. 2006). La estimación de la
+ocupación sencilla tiene en cuenta la presencia y ausencia de la especie, mientras que la real tiene en cuenta la
+variable de estado "presente pero no detectado" (es decir, probabilidad de detección imperfecta o p<1); ii) la tasa
+de detección (RAI en inglés) expresado como el número de registros independiente cada 100 trampas-día (# reg/100
+trampas-día). Este índice que provee información sobre los patrones de ocurrencia/actividad de una especie en una
+determinada área a partir de estaciones de muestreo desplegadas durante un periodo de tiempo (Rovero & Marshall
+2009). Para ello, las fotografías de cada especie de meso mamíferos en cada cámara trampa fueron procesadas, y se
+calculó el número de registros independiente (aquellos separados al menos cada 60 min) usando el programa Camera
+Sweet (https://smallcats.org/resources/). Con la cantidad de registros y el esfuerzo de muestreo de cada cámara
+trampa se procedió a calcular las tasas de detección (RAI) de cada especie de meso mamífero en cada estación de
+muestreo (cámara trampa). El índice RAI se comparó entre los diferentes ambientes para evaluar la importancia de
+estos como hábitat para cada especie. Además, a una escala más fina, se comparó el RAI de cada especie entre las
+diferentes estaciones desplegadas en el área de estudio con el fin de identificar aquellos sitios con mayor actividad
+de cada especie de meso mamífero. Para este último análisis, se usó de la función de densidad de kernel para
+espacializar explícitamente los resultados distribuyéndolos en deciles.
+Pág.11
+================================================================================
+PAGE 14
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4.2.3.2 Patrones temporales
+El conjunto de registros fotográficos cada especie fue usado para evaluar los patrones de actividad temporal de cada
+una. Para ello, el registro de horario de cada fotografía fue transformado a minutos y divididos por la cantidad total
+de minutos existentes en un día para obtener su valor de frecuencia. Mediante el paquete estadístico “Overlap”,
+desarrollado por Ridou y Linkie (2009) e implementado en el programa R, se construyó la curva de actividad de la
+especie en el área de estudio. El gráfico de actividad fue centrado en la media noche, asumiendo que las especies
+podrían tener un comportamiento preferentemente nocturno.
+Figura 4-4. Esquema explicativo del paquete “Overlap”.
+Fuente: Elaboración propia.
+Figura 4-5. Ejemplo gráfico de patrón de actividad.
+Fuente: Elaboración propia.
+Pág.12
+================================================================================
+PAGE 15
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+4.2.3.3 Identificación de meso carnívoros y comparación entre sitios
+Los registros sistematizados obtenidos para cada especie en cada cámara trampa mediante el uso del programa
+Camera Sweet (ver sección anterior) fueron distribuidos entre cuatros especialistas de meso mamíferos para poder
+realizar la identificación de individuos para cada especie. Para ello, los individuos se identificaron por marcas obvias
+(colas retorcidas, cicatrices y cortes en las orejas), por marcas menos obvias (cicatrices), coloración de la punta de la
+cola y anillos) y por marcas sutiles (manchas, patrones, coloración en la parte inferior de las patas, porte de la cola y
+forma y porte del cuerpo (Fig. 2). Este tipo de aproximaciones ha sido previamente usado para identificar individuos
+en especies que presentan una variación importante en su patrón morfológico como jaguares, tigres y ocelotes
+(Karanth et al. 1995, Silver et al. 2004, Di Bitetti et al. 2006), como también una baja variación morfológicas como
+pumas (Kelly et al. 2018). Cada investigador clasificó los registros de cada individuo en identificaciones positivas,
+identificaciones provisionales y no posibles de distinguir (normalmente una foto inutilizable debido a su mala
+calidad).
+4.2.3.4 Densidad y movimiento de meso mamíferos
+La cantidad de individuos identificados por especie se usó para estimar la densidad poblacional de cada una. Para
+determinar el tamaño del área muestreada, se calculó la distancia mínima y máxima recorrida por las especies
+(considerada como movimiento) entre cámaras (DMRC), y se usó la mitad de cada distancia (1/2 DMRC) como radio
+buffer alrededor de cada ubicación de cámara trampa (Long et al. 2008). De manera paralela, se construyó un
+histograma de distancias por especie para explorar los rangos de dispersión máximo y mínimos registrados. Las áreas
+buffers que se solapan se disolvieron y el área total se calculó en Arc View (ESRI 1999) utilizando X-tools o Spatial
+Analyst. Luego, el número de individuos de cada especie se dividió por el área total del estudio para obtener la
+densidad de por cada especie. Este método de estimación es uno de los más simples pues no considera el historial
+de captura-recaptura de los individuos como se ha abordado en otros estudios (Kelly et al. 2018).
+Pág.13
+================================================================================
+PAGE 16
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+5 RESULTADOS
+5.1 ESPECIES REGISTRADAS
+Durante la evaluación de la presencia de meso mamíferos se detectaron 4 especies de meso mamíferos. En cuanto a
+la taxonomía se identificaron 2 órdenes y 4 familias. Todas las especies registradas poseen un origen nativo y se
+encuentran clasificadas dentro de alguna categoría de conservación. El detalle de cada una de ellas se presenta en la
+Tabla 5-1.
+Tabla 5-1. Especies registradas durante el monitoreo.
+Nombre Nombre
+Clase Orden Familia Origen categoría Fuente
+científico común
+Preocupación DS 16/2016
+Mammalia Carnivora Mustelidae Galictis cuja Quique Nativa
+Menor MMA
+Lycalopex Preocupación DS 33/2011
+Mammalia Carnivora Canidae Zorro culpeo Nativa
+culpaeus Menor MMA
+Leopardus DS 42/2011
+Mammalia Carnivora Felidae Güiña Nativa Vulnerable
+guigna MMA
+DS 151/2007
+Mammalia Artiodactyla Cervidae Pudu puda Pudú Nativa Vulnerable
+MINSEGPRES
+Fuente: Elaboración propia.
+5.2 REGISTROS POR ESPECIE Y AMBIENTE
+Los datos obtenidos por las cámaras trampas arrojaron 736 registros independientes (separados por 1 hr) de meso
+mamíferos al interior del área de estudio, correspondiendo en su mayoría a la especie Lycalopex culpaeus (zorro
+culpeo). Esta especie muestra la mayor cantidad de registros para cada ambiente evaluado, mientras que la especie
+Pudu puda (pudú) es la que presenta una menor cantidad de registros, siendo detectada en los ambientes de
+“Bosque” y “Plantación”. Por otra parte, el ambiente que posee una mayor cantidad de registros para cada especie
+corresponde a “Plantación”, seguido de “Bosque”. El detalle de los registros por ambiente y cámara para cada especie
+se muestra en la Tabla 5-2.
+Tabla 5-2. Cantidad de registros por especie y ambiente.
+Ambiente Galictis cuja Leopardus guigna Lycalopex culpaeus Pudu puda Total general
+Bosque 12 24 195 8 239
+Matorral 4 2 4 0 10
+Modificado 0 2 17 0 19
+Plantación 5 10 446 7 468
+Total 21 38 662 15 736
+Fuente: Elaboración propia.
+Pág.14
+================================================================================
+PAGE 17
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+5.3 TASA DE DETECCIÓN (RAI) A NIVEL DE ESPECIE
+Las 26 estaciones permanecieron activas sin mal funcionamiento, con un promedio de 51 días de monitoreo (min:
+48 días; max: 53 días). La cantidad de cámaras con al menos un registro, lo que representa la ocupación sencilla
+(naive), varió entre especie desde 0.15 para el quique hasta casi cinco veces más alto para el zorro culpeo.
+Respecto a la tasa de detección, y considerando las cuatro especies de meso mamíferos, el promedio de detección
+entre todas las estaciones de muestreo fue de 0.60 registros/100 trampas día (min: 0; max: 4.82). Al considerar solo
+las estaciones con al menos un registro, la tasa promedio se incrementó a 0.68 registros/100 trampas día (min:
+0.0192; max: 4.82). Un resumen de estos parámetros por cada especie de meso mamífero y en total para las cuatro
+se muestra en la Tabla 5-3 y Figura 5-1. Al analizar las tasas de detección por ambientes se observa que la tasa de
+detección promedio para zorro culpeo fue mayor en plantación respecto bosque nativo, matorral y modificado. Lo
+opuesto se aprecia para guiña, quique y pudú donde las tasas de detección promedio fueron mayores en el bosque
+respecto a los otros tres ambientes (Figura 5-2).
+Tabla 5-3. Parámetros de evaluación de la presencia meso mamíferos en el área del Proyecto
+Parámetro Quique Guiña Zorro culpeo Pudú
+Número de cámaras con al
+4 8 20 5
+menos una detección
+Ocupación 0.15 0.31 0.77 0.19
+Tasa de detección (todas
+las cámaras) Promedio 0.02 (0-0.25) 0.03 (0-025) 0.51 (0-4.74) 0.01 (0-0.1)
+(min-max)
+Tasa de detección
+(cámaras con al menos
+0.12 (0.04-0.25) 0.11 (0.04-0.25) 0.68 (0.02-4.73) 0.63 (0.17-1.87)
+una detección) Promedio
+(min-max)
+Fuente: Elaboración propia.
+Pág.15
+================================================================================
+PAGE 18
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Q
+uique
+G
+uiña
+Z
+orr o
+c
+ulpeo
+P
+udu
+es o
+m a
+mif er
+os
+m
+otal
+T
+Figura 5-1. Tasa de detección (RAI) promedio para cada especie de mes mamífero detectado en el área del Proyecto y para las
+cuatro especies juntas.
+Fuente: Elaboración propia.
+Figura 5-2. RAI promedio (# registros cada 100 trampas – noche) de las cuatro especies de meso mamíferos detectadas en el
+área del Proyecto.
+Fuente: Elaboración propia.
+Pág.16
+)ehcon-sapmart
+001
+/
+sortsiger
+°n(oidemorp
+IAR
+1
+0
+0
+0
+0
+.0
+.8
+.6
+.4
+.0
+Q ui q u e G ui ñ a
+Z
+orr o
+c ul p e o P u d ú
+o
+m a
+mif er os
+es
+M
+)ehcon
+-sapmart
+001
+/adac
+.ger
+#(
+IAR
+10
+Bosque nativo
+8 Matorral nativo
+Modificado
+Plantación
+6
+4
+0
+================================================================================
+PAGE 19
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+PATRONES ESPACIALES Y TEMPORALES DE MESO MAMÍFEROS
+La tasa de detección de cada especie a lo largo de las estaciones de muestreo se presenta en la Figura 5-3. En ella se
+aprecian diferencias entre especies en cuanto a la proporción de cámaras con tasas de detección. En el caso del
+quique, más del 50% de las tasas de detección se concentran en una cámara (CTpudu01). Algo similar ocurre en la
+guiña, pudú y zorroculpeo donde dos cámaras concentran el 50% de las tasas de detección. Sin embargo, en el caso
+del zorro culpeo, la distribución del 50% restante se distribuye de manera más homogénea entre otras 16
+estaciones de muestreo.
+Los registros fotográficos usados para evaluar el patrón de actividad (Figura 5-4) de las cuatro especies de meso
+mamíferos detectados en el área de influencia muestran una distribución relativamente homogénea para el caso de
+zorro culpeo y guiña, algo más nocturno y crepuscular en el caso de pudú (00:00-05:00) y más diurno en el caso del
+quique (08:00-12:00). La sobreposición temporal de cada uno de los patrones de actividad se muestra en la Figura
+5-5 y Figura 5-6. A partir de estos patrones temporales, se aprecia que la mayor sobreposición temporal se encuentra
+entre el zorro culpeo y la guiña (0.78), mientras que la menor sobreposición se produjo entre el zorro culpeo y el
+pudú (0.23) (Figura 5-5 y Figura 5-6)
+La representación espacial de la tasa de detección mediante el análisis de densidad de kernel se muestra en la Figura
+5-7, Figura 5-8, Figura 5-9, Figura 5-10 y Figura 5-11, en ellas se aprecia la existencia de áreas que concentran una
+mayor actividad de las especies en el área del Proyecto.
+Pág.17
+================================================================================
+PAGE 20
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Guiña
+CT16 CT03 CT04 CT15 CT05 CT28 C c T tp 2 u 1 du01 CT11 CT10 CT01 CT02 CT06 CT08 CT12 CT13 CT14 CT17 CT18 CT19 CT20 C C T T 25 C C R T 01 C R02
+Figura 5-3. Tasa de detección (# registros / 100 trampas-día) de cuatro especies de meso mamíferos registrados las 26 estaciones (cámaras trampas) desplegadas entre enero
+y julio 2023. Tasa de muestra ordenada en valores de mayor a menor.
+Fuente: Elaboración propia.
+Pág.18
+ehcon-sapmart
+001/.ger
+#(
+IAR
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+Pudú
+CT11 CT13 CT03 CT06 CT04 C c T tp 1 u 5 du01 CT25 CT01 CT14 CT02 CT05 CT12 CT28 CT21 CT19 C C T T 08 C R02 CT17 CT16 CT10 CT18 C C T T 20 C R01
+)ehcon
+-sapmart
+001
+/adac
+.ger
+#(
+IAR
+0.12
+0.10
+0.08
+0.06
+0.04
+0.02
+0.00
+Z o rro c u lp e o
+C c T tp 1 u 5 du01 CT03 CT25 CT01 CT14 CT11 CT02 CT06 CT05 CT12 CT28 CT13 CT21 CT19 C C T T 08 CR02 CT17 CT16 CT04 CT10 CT18 C C T T 20 CR01
+)ehcon-sapmart
+001/c
+.ger
+#(
+IAR
+5
+4
+3
+2
+1
+0
+Quique
+ctpudu01 CT11 CT10 CT04 CT01 CT02 CT03 CT05 CT06 CT08 CT12 CT13 CT14 CT15 CT16 CT17 CT18 CT19 CT20 CT21 CT25
+C C T T
+28
+C C R T
+01 CR02
+)ehcon-sapmart
+001/.ger
+#(
+IAR
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+================================================================================
+PAGE 21
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-4. Densidad del patrón de actividad diario cuatro especies de meso mamíferos en el área del Proyecto. La línea negra sobre el eje x representa la frecuencia horaria
+en que los individuos fueron fotografiados (registros independientes; n=1340).
+Fuente: Elaboración propia.
+Pág.19
+H
+H
+o
+o
+ra
+ra
+d
+d
+e
+e
+l d
+l d
+ía
+ía H
+H o
+o ra
+ra
+d
+d e
+e l d
+l d
+ía
+ía
+s o rts
+ig
+e r
+e d
+d a d is
+n e D
+s o rts
+ig
+e r
+e d
+d a d is
+n e D
+s s
+o o
+rts rts
+ig ig
+e e
+r
+e
+r
+e
+d d
+d d
+a a
+d d
+is is
+n n
+e e
+D D
+N =
+N
+7
+=
+3
+3 7 N =
+N
+1
+= 2 4
+2 0 6
+================================================================================
+PAGE 22
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-5. Sobreposición temporal de los patrones de actividad de algunas de las especies de mesomamíferos registradas.
+Fuente: Elaboración propia.
+Pág.20
+================================================================================
+PAGE 23
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-6. Sobreposición temporal de los patrones de actividad de algunas de las especies de mesomamíferos registradas.
+Fuente: Elaboración propia.
+Pág.21
+================================================================================
+PAGE 24
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-7. Representación espacial RAI mesomamíferos.
+Fuente: Elaboración propia.
+Pág.22
+================================================================================
+PAGE 25
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-8. Representación espacial RAI zorro culpeo.
+Fuente: Elaboración propia.
+Pág.23
+================================================================================
+PAGE 26
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-9. Representación espacial RAI güiña.
+Fuente: Elaboración propia.
+Pág.24
+================================================================================
+PAGE 27
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-10. Representación espacial RAI pudú.
+Fuente: Elaboración propia.
+Pág.25
+================================================================================
+PAGE 28
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-11. Representación espacial RAI quique.
+Fuente: Elaboración propia.
+Pág.26
+================================================================================
+PAGE 29
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+5.4 IDENTIFICACIÓN DE INDIVIDUOS Y COMPARACIÓN ENTRE SITIOS
+Según el reconocimiento de especialistas en base a las características morfológicas singulares se logró identificar a
+44 individuos diferentes (Figura 5-12). Sin embargo, la variación en la identificación fue mayor en el caso de algunas
+especies como el quique y zorro culpeo, y baja como en el caso del pudú, tal y como lo representa el coeficiente de
+variación (C.V). Este parámetro relaciona la desviación estándar como porcentaje de la media aritmética, donde
+valores menores o iguales al 30%, significa que la media aritmética es representativa del conjunto de datos (por
+ejemplo, alta consistencia en la identificación de individuos), por ende, el conjunto de datos es "Homogéneo". Por el
+contrario, si el C.V supera al 30%, el promedio no será representativo del conjunto de datos (baja consistencia en la
+identificación de individuos).
+25
+20
+s
+o u 15
+d
+iv
+id
+n
+i
+e
+23
+d 10
+°
+N
+5
+8
+7
+6
+0
+Galictis cuja Leopardus guigna Lycalopex culpaeus Pudu pudu
+Especie
+Figura 5-12. Cantidad de individuos por especie detectados durante el monitoreo.
+Fuente: Elaboración propia.
+Tabla 5-4. Número de especies identificadas por los cuatro especialistas responsables de la clasificación de imágenes de
+cámaras trampas
+Especialista
+Especies A B C D C.V.
+Guiña 5 2 6 4 40.18%
+Pudú 5 3 5 3 28.87%
+Quique 3 3 8 3 58.82%
+zorro culpeo 13 6 22 8 58.25%
+Fuente: Elaboración propia.
+Pág.27
+================================================================================
+PAGE 30
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+La distribución de los individuos a lo largo de las estaciones muestra que ciertas cámaras tuvieron una mayor tasa de
+visitación por parte de meso mamíferos, pero además de varios individuos distintos. En contraste, si bien existieron
+cámaras con alta tasa de detección, esta tasa se concentró en pocos individuos. Por ejemplo, en el caso del quique,
+las cámaras CT01 tuvo la mayor cantidad de registros y además con hasta ocho individuos distintos (Figura 5-13). Por
+otro lado, en el caso de la guiña, las cámaras CT03 y CT16 tuvieron la mayor tasa de detección concentrando hasta
+cinco animales diferentes. En contraste, la cámara CT15 tuvo mayor tasa de registros que la cámara CT05, pero solo
+de un individuo (Figura 5-14). En el caso del zorro culpeo, este resultado es más marcado; la CT15 concentra gran
+parte de las detecciones, pero asociado a cuatro de los 18 individuos, en contraste con la estación CTPudu01 que
+concentro menos registros, pero asociados a una mayor cantidad de individuos diferentes (Figura 5-15). Finalmente,
+en el caso del pudú, la distribución de los registros e individuos fue más o menos homogénea en las cámaras con
+detecciones (Figura 5-16).
+14
+12
+10
+s
+o
+r
+t s 8
+ig
+e
+r
+e 6
+d
+°
+n 4
+2
+0
+CTpudu01 CT10 CT04 CT11
+Bosque Matorral Plantación
+Cámara por ambiente
+Galcuj Galcuj_01 Galcuj_02 Galcuj_03 Galcuj_04 Galcuj_05 Galcuj_06 Galcuj_07
+Figura 5-13.Registros de quique por cámara en cada ambiente identificado.
+Fuente: Elaboración propia.
+Pág.28
+================================================================================
+PAGE 31
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+14
+12
+s 10
+o
+r
+t
+s 8
+ig
+e
+r
+e
+6
+d
+n ° 4
+2
+0
+CT03 CT16 CT21 CT05 CT04 CT15 CT28
+Bosque Matorral Modificado Plantación
+Cámara por ambiente
+Leogui Leogui_01 Leogui_02 Leogui_03 Leogui_04 Leogui_05 Leogui_06
+Figura 5-14. Registros de güiña por cámara en cada ambiente identificado.
+Fuente: Elaboración propia.
+250
+200
+s
+o
+r
+t 150
+s
+ig
+e
+r
+e 100
+d
+°
+n
+50
+0
+3 6 3 1 1 5 2 6 1 2 8 1 2 4 5 7 9 5 8
+0 0 1 0 2 0 0 2 0 0 0 1 1 1 1 1 1 2 2
+T T T u T T R T T T T T T T T T T T T
+C C C d C C C C C C C C C C C C C C C
+u T
+p C
+T
+C
+Bosque Matorral Modificado Plantación
+Cámara por ambiente
+Lyccul Lyccul_01 Lyccul_02 Lyccul_03 Lyccul_04 Lyccul_05 Lyccul_06 Lyccul_07
+Lyccul_08 Lyccul_09 Lyccul_10 Lyccul_11 Lyccul_12 Lyccul_13 Lyccul_14 Lyccul_15
+Lyccul_16 Lyccul_17 Lyccul_18 Lyccul_19 Lyccul_20 Lyccul_21 Lyccul_22
+Figura 5-15. Registros de zorro culpeo por cámara en cada ambiente identificado.
+Fuente: Elaboración propia.
+Pág.29
+================================================================================
+PAGE 32
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+6
+5
+s
+o 4
+r
+t
+s
+ig
+e 3
+r
+e
+d
+2
+°
+n
+1
+0
+CT03 CT06 CT13 CT04 CT11
+Bosque Plantación
+Cámara por ambiente
+Pudpud Pudpud_01 Pudpud_02 Pudpud_03 Pudpud_04 Pudpud_05
+Figura 5-16. Registros de pudú por cámara en cada ambiente identificado.
+Fuente: Elaboración propia.
+5.5 DENSIDAD Y MOVIMIENTO DE MESO MAMÍFEROS
+Los datos de detección de los individuos entre cámaras arrojaron que las especies tuvieron similares distancias de
+dispersión o movimiento (C.V. menor a 23%; Figura 5-17), siendo la menor y mayor dispersión o movimiento
+reportada en el quique y zorro culpeo, respectivamente (Tabla 5-5).
+Tabla 5-5. Valores mínimos y máximos de dispersión (movimiento) entre estaciones de monitoreo
+Especie min (0.05%) max (0.95%)
+Quique 916.8 2116.9
+Guiña 1017.9 1832.7
+Zorro culpeo 1530.2 2191.8
+Pudú 1292.7 2085.3
+Fuente: Elaboración propia.
+Pág.30
+================================================================================
+PAGE 33
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-17. Distribución de frecuencias de distancias reportadas para cada especie en función de los diferentes individuos
+identificados.
+Fuente: Elaboración propia.
+A partir de los valores mínimos y máximos de dispersión encontrados para cada especie, se calcularon dos escenarios
+de superficie evaluada según la metodología (Figura 5-18): una superficie máxima de 16.61 km2 y una mínima de 7.78
+km2, lo que resulto en densidades para cada especie que van desde 0.36 ind/km2 en el caso del pudú, hasta 2.96
+ind/km2 en el caso del zorro culpeo (Tabla 5-6)
+Pág.31
+Q
+Z o
+u
+r
+i q
+r o
+u
+c
+e
+u l p e o
+G
+P
+u
+u
+i
+d
+ñ
+ú
+a
+================================================================================
+PAGE 34
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 5-18. Áreas evaluadas según escenarios de mínima (izquierda; 7.78km2) y máxima (derecha; 16.61 km2) considerando la dispersión de los individuos detectados.
+Fuente: Elaboración propia.
+Pág.32
+================================================================================
+PAGE 35
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Tabla 5-6. Densidades calculadas a partir de los individuos detectados y el área evaluada.
+Densidades (Ind/km2)
+Especies
+Min Max
+Quique 0.48 1.03
+Guiña 0.42 0.9
+Zorro culpeo 1.38 2.96
+Pudú 0.36 0.77
+Fuente: Elaboración propia.
+Pág.33
+================================================================================
+PAGE 36
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+6 DISCUSIÓN Y CONCLUSIONES
+El monitoreo realizado entre enero y julio de 2023 a lo largo de 26 estaciones con cámaras trampas (1,288 trampas-
+noche), detectó la presencia de cuatro especies de mesomamíferos al interior del área de influencia del Proyecto,
+todas ellas de origen nativo y listadas en alguna categoría de conservación. Se obtuvo un total de 736 registros
+independientes del grupo objetivo, mostrando diferencias en la ocurrencia de estos en los cuatro ambientes
+identificados en el área de influencia. La especie con un mayor número de registros es Lycalopex culpaeus (zorro
+culpeo), con 662 registros (90 %), seguido de Leopardus guigna (güiña) con 38 registros (5 %). Las especies Galictis
+cuja (quique) y Pudu puda (pudú) obtuvieron 21 (3 %) y 15 (2 %) registros respectivamente. Al analizar las tasas de
+detecciones de cada una de estas especies mediante el índice RAI se destaca la mayor actividad del zorro culpeo en
+Plantación, respecto a la guiña, pudú y quique cuyas detecciones son mayores en bosque nativo (en el caso del pudú
+es levemente superior). Un patrón similar se observa al analizar la proporción de sitios donde cada una de las especies
+fue detectada, es decir, la ocupación. Por otro lado, el ambiente con mayor ocurrencia de registros fue “Plantación”,
+acumulando el 64 % de los registros totales, seguido de “Bosque” con un 32%. Los ambientes “Modificado” y
+“Matorral” acumulan un 3 % y 1 % respectivamente. Esto coincide con la mayor superficie de plantaciones forestales
+al interior del área de estudio (54%), seguido por el bosque nativo (21.98%) principalmente en quebradas. Los
+patrones de uso encontrados en ese monitoreo son consistentes con lo reportado por Moreira-Arce et al. (2015) para
+meso carnívoros del bosque templado costero, donde el zorro culpeo y la guiña son especies mayormente detectadas
+(83% y 75%, respectivamente). La dominancia de la superficie de plantaciones y bosque nativo en el área de estudio
+también es un factor que podría explicar la mayor presencia de registros en ambos ambientes. No obstante, es
+conocido el generalísimo ecológico del zorro culpeo y la guiña, lo que pueden ser factores que expliquen la presencia
+de estas especies en los diferentes ambientes al interior, y particularmente en plantaciones forestales. Estas últimas,
+si se encuentran con sotobosque nativo, también pueden actuar como hábitat complementario para las especies
+presentes proporcionando presas nativas como exóticas (Moreira-Arce et al. 2015 y 2016). En el caso del pudú, cuya
+detección fue levemente mayor en bosque nativo respecto a plantación (solo se registró en estos ambientes), se
+debe a que este ambiente ofrece mejores condiciones en cuanto refugio y alimentos más ricos nutricionalmente, lo
+que lleva a especies como Pudu puda a preferirlos por sobre otros ambientes (Pavez-Fox & Estay 2016).
+El patrón espacial obtenido a través de los análisis de kernel muestra variaciones para cada una de las especies
+evaluadas, mostrando mayores tasas de detección en la zona centro-sur del área de influencia del proyecto para las
+especies Lycalopex culpaeus y Leopardus guigna, mientras que para Pudu puda y Galictis cuja esto ocurre hacia zonas
+más ubicadas en los bordes este y suroeste del área de influencia. La zona del área de estudio donde la tasa de
+detección es mayor para todo el grupo objetivo es la zona ubicada en el centro-sur del área de influencia,
+correspondiente en su mayoría a ambientes de “Plantación” y “Bosque”, la cual se encuentra rodeada de caminos y
+limita al norte con un área de acopio y al sur con un área de extracción según el plano de obras del proyecto. Un
+mayor grado de ocupación por parte de las especies evaluadas en esta zona, sugiere la importancia que este sitio
+podría tener para el grupo de mesomamíferos, probablemente debido a una mayor disponibilidad de recursos como
+alimento, agua o refugio.
+En cuanto a los patrones temporales de actividad de los mesomamíferos identificados, o también conocidos como
+ritmos circadianos, la especie el zorro culpeo y la guiña muestran una distribución homogénea en cuanto a las horas
+de actividad, con un leve peak en el caso de esta última en horarios cercanos a la medianoche y antes del amanecer.
+El pudú muestra un comportamiento marcadamente nocturno, en contraste con el quique que muestra patrones de
+actividad en horario diurno. Patrones espaciales reportados por Zúñiga et al. (2016) en los Bosques Templados
+costeros de la IX región muestran un patrón más marcado de estas especies: más bien diurno y nocturno del zorro
+culpeo y la guiña, respectivamente. Por otro lado, los resultados de este monitoreo sobre los patrones nocturnos del
+Pág.34
+================================================================================
+PAGE 37
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+pudú si son consistentes con lo reportado para la especie por Zúñiga et al. (2018) para el bosque templado costero
+de la VIII y IX Región. El rito circadiano es un rasgo usualmente considerado adaptativo y determinado principalmente
+por las características fisiológicas (Kronfeld-Schor & Dayan 2003) como por la historia evolutiva (Halle 2000; Roll et
+al. 2006). Sin embargo, el ritmo circadiano no está sólo definido por características endógenas de una especie, sino
+que también es modulado por múltiples factores ambientales, como la variación estacional (Caravaggi et al. 2018),
+la disponibilidad de alimento (Pereira 2010), la depredación (Caravaggi et al. 2018) la competencia (Monterroso et
+al. 2014; Bhatt et al. 2021) o las perturbaciones antrópicas (Zaman et al. 2022), factores que pueden estar variando
+entre el área del Proyecto y las áreas menos antropizadas donde se llevaron los estudios de Zúñiga et al..
+A partir de las detecciones de las especies y las identificaciones llevadas a cabo por cuatro especialistas, se registró
+un total de 44 individuos, siendo la especie más abundante el zorro culpeo. Si bien este ejercicio de identificación
+involucró especialistas en mamíferos carnívoros, la variación en la cantidad de individuos identificados fue alta
+particularmente para el zorro culpeo y el quique, especies que no presentan diferencias morfológicas. En el caso de
+la guiña, su patrón de manchas, y en el caso del pudú, la presencia de cornamentas en los machos permitió tener
+una menos tasa de variación entre los especialistas. La abundancia de individuos por cámara no se distribuyó de
+manera homogénea entre las estaciones, destacando las cámaras CT15 y CTpudu01 con mayor cantidad de individuos
+de zorro culpeo. Algo similar fue encontrado para el caso del quique cuya abundancia fue muy superior en la cámara
+CT pudu01.
+Según los registros en las distintas estaciones se calculó la dispersión de cada especie evaluada, mostrando valores
+similares de dispersión entre las especies, pese a diferir en sus tamaños corporales. La especie que registró el menor
+valor de dispersión fue el quique, mientras que el zorro culpeo registró el mayor valor. Se calcularon 2 escenarios,
+donde la mayor dispersión tiene un área total de 16,61 km2, mientras que el escenario mínimo un total de 7,78 km2.
+La densidad de individuos fue distinta en ambos escenarios, con valores en el escenario de mínima dispersión de 0,77
+ind/km2 para pudú, hasta 2,96 ind/km2 en el caso de para el zorro culpeo. Lo mismo ocurre en el escenario de máxima
+dispersión, donde los valores para estas especies van desde 0,36 ind/km2, hasta 1,38 ind/km2 para pudu y zorro
+culpeo respectivamente. Estos valores son coincidentes con lo reportado en la literatura para algunas de estas
+especies. Por ejemplo, el zorro culpeo es el que posee más información acerca de distribución y rangos de hogar. Los
+valores de densidad reportados en la literatura van desde 0,2 – 2,6 ind/km2 (Gurtiñas et al 2021), mientras que los
+rangos de hogar van desde los 6 – 9 km2 en hembras y de 2-10 km2 para los machos. En el caso de la guiña, los valores
+reportados para esta especie en paisajes fragmentados varían entre 0.05 a 0.77 ind /km2. El resto de las especies de
+este estudio poseen información general acerca de su distribución en base a estudios específicos en ciertas áreas de
+interés como lo son las áreas protegidas en el caso de Pudu puda, por lo que la información aquí obtenida en este
+estudio no solo es relevante para los alcances del Proyecto, sino que también aporta al conocimiento de la historia
+natural de estas especies y así mejorar los planes de conservación de estas en la zona centro-sur de Chile.
+Pág.35
+================================================================================
+PAGE 38
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+7 REFERENCIAS
+ACOSTA G. Y J.A. SIMONETTI. 1999. Guía de huellas de once especies de mamíferos del bosque templado chileno.
+Boletín del Museo Nacional de Historia Natural (Chile) 48: 19-27.
+BHATT, U., SINGH ADHIKARI, B., HABIB, B., & LYNGDOH, S. (2021). Temporal interactions and moon illumination effect on
+mammals in a tropical semievergreen forest of Manas National Park, Assam, India. Biotropica, 53(3), 831-845.
+CARAVAGGI, A., GATTA, M., VALLELY, M., HOGG, K., FREEMAN, M., FADAEI, E., DICK, J.T.A., MONTGOMERY, W.I., REID, N.,
+& TOSH, D.G. (2018). Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera
+traps. PeerJ 6:e5827.
+DELIBES-MATEOS M, DÍAZ-RUIZ F, CARO J, FERRERAS P (2014). Activity patterns of the vulnerable guiña (Leopardus guigna)
+and its main prey in the Valdivian rainforest of southern Chile. Mammalian Biology 79(6): 393–397
+DI BITETTI, M. S., PAVIOLO, A., & DE ANGELO, C. (2006). Density, habitat use and activity patterns of ocelots
+(Leopardus pardalis) in the Atlantic Forest of Misiones, Argentina. Journal of Zoology, 270(1), 153-163.
+GUNTIÑAS, M., LOZANO, J., CISNEROS, R., LLORENTE, E., MALO, A. F. (2021). Ecology of the culpeo (Lycalopex
+culpaeus): a synthesis of existing knowledge. Hystrix, the Italian Journal of Mammalogy, 32(1), 5-17.
+https://doi.org/10.4404/hystrix-00388-2020
+IRIARTE A. 2008. Los mamíferos de Chile. Lynx Edicions. Barcelona, España. 420 pp.
+Karanth, K. U. (1995). Estimating tiger Panthera tigris populations from camera-trap data using capture—
+recapture models. Biological conservation, 71(3), 333-338.
+KELLY, M. J., NOSS, A. J., DI BITETTI, M. S., MAFFEI, L., ARISPE, R. L., PAVIOLO, A., ... & DI BLANCO, Y. E. (2008).
+Estimating puma densities from camera trapping across three study sites: Bolivia, Argentina, and Belize. Journal of
+mammalogy, 89(2), 408-418.
+KRONFELD-SCHOR, N., & DAYAN, T. (2003). Partitioning of time as an ecological resource. Annual review of ecology,
+evolution, and systematics, 34(1), 153-181.
+LONG, R. A., MACKAY, P., RAY, J., & ZIELINSKI, W. (Eds.). (2012). Noninvasive survey methods for carnivores. Island
+Press.
+MACKENZIE, D. I., J. D. NICHOLS, J. A. ROYLE, K. H. POLLOCK, L. L. BAILEY, AND J. E. HINES. 2006. Occupancy estimation
+and modeling: inferring patterns and dynamics of species occurrence. Elsevier, Amsterdam.
+MONTERROSO, P., ALVES, P.C., & FERRERAS, P. (2014). Plasticity in circadian activity patterns of mesocarnivores in
+Southwestern Europe: implications for species coexistence. Behavioral Ecology and Sociobiology, 68, 1403-1417.
+MUÑOZ-PEDREROS A & J YÁÑEZ (eds). 2009. Mamíferos de Chile. Segunda Edición. Centro de Estudios Agrarios y.
+Ambientales (CEA) Ediciones, Valdivia, Chile.
+O´CONNELL, A., NICHOLS, J. & KARANTH, K. 2011. Camera Traps in Animal Ecology. Methods and Analyses. Springer.
+271 pp
+Pág.36
+================================================================================
+PAGE 39
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+PAVEZ-FOX M., ESTAY S.A. (2016) Correspondence between the habitat of the threatened pudú (Cervidae) and the
+national protected-area system of Chile. BMC Ecol. 2016;16:1. doi: 10.1186/s12898-015-0055-7.
+PEREIRA, J.A. (2010). Activity pattern of Geoffroy’s cats (Leopardus geoffroyi) during a period of food shortage.
+Journal of Arid Environments 74(9):1106–1109
+RIDOUT, M. & LINKIE, M. 2009. Estimating overlap of daily activity patterns from camera trap data. JABES 14: 322–
+337p
+ROVERO F., MARSHALL A.R., 2009. Camera trapping photographic rate as an index of density in forest ungulates. J.
+Appl. Ecol. 46: 1011–1017
+SANDERSON, J. & HARRIS, G. 2013. Automatic data organization, storage, and analysis of camera trap pictures.
+Journey of Indonesian Natural History. 1 (1): 11-19p
+SERVICIO DE EVALUACIÓN AMBIENTAL (SEA). 2015. Guía para la descripción del Área de Influencia – Descripción de
+los componentes Suelo, Flora y Fauna de Ecosistemas Terrestre. Servicio de Evaluación de Impacto Ambiental.
+SERVICIO DE EVALUACIÓN AMBIENTAL (SEA). 2017. Guía para la descripción del Área de Influencia – Área de
+Influencia en el Sistema de Evaluación de Impacto Ambiental. Servicio de Evaluación de Impacto Ambiental.
+SERVICIO DE EVALUACIÓN AMBIENTAL (SEA), 2022. Criterio de Evaluación en el SEIA: Criterios Técnicos para
+campañas de terreno de Fauna Terrestre y Validación de Datos. 17 pp.
+Silver, S. C., Ostro, L. E., Marsh, L. K., Maffei, L., Noss, A. J., Kelly, M. J., ... & Ayala, G. (2004). The use of camera traps
+for estimating jaguar Panthera onca abundance and density using capture/recapture analysis. Oryx, 38(2), 148-154.
+SKEWES, O. 2009. Manual de Huellas Mamíferos Silvestres de Chile. Chillán, Chile, 99 pp.
+ZAMAN, M., ROBERTS, N.J., ZHU, M., VITEKERE, K., WANG, M., & JIANG, G. (2022). Temporal activity patterns of North
+China leopards and their prey in response to moonlight and habitat factors. Ecology and Evolution, 12, e9032.
+ZÚÑIGA, A. H., & JIMÉNEZ, J. E. (2018). Activity patterns and habitat use of pudu deer (Pudu puda) in a mountain
+forest of south-central Chile. Journal of natural history, 52(31-32), 2047-2054.
+ZÚÑIGA, A. H., JIMÉNEZ, J. E., & RAMÍREZ DE ARELLANO, P. (2016). Activity patterns in sympatric carnivores in the
+Nahuelbuta Mountain Range, southern-central Chile. Mammalia, 81(5), 445-453.
+Pág.37
+================================================================================
+PAGE 40
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+8 ANEXOS
+8.1 ANEXO FOTOGRÁFICO
+8.1.1 Lycalopex culpaeus
+Fotografía 8-1. Individuos de zorro culpeo presentes en el área de influencia.
+Pág.38
+================================================================================
+PAGE 41
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+8.1.2 Leopardus guigna
+Fotografía 8-2. Individuos de güiña presentes en el área de influencia.
+Pág.39
+================================================================================
+PAGE 42
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+8.1.3 Pudu puda
+Fotografía 8-3. Individuos de pudú presentes en el área de influencia.
+Pág.40
+================================================================================
+PAGE 43
+================================================================================
+Mayo, 2024 Anexo 3B-38
+Estudio complementario de mamíferos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+8.1.4 Galictis cuja
+Fotografía 8-4. Individuos de quique presentes en el área de influencia.
+Pág.41

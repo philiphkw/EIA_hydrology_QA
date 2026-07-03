@@ -1,0 +1,482 @@
+
+================================================================================
+PAGE 1
+================================================================================
+143 145 152 116 118 11 1 3 20 1 12 0 1 8110 115 1 1 1 1 1 9 114 128 105 107 10 1 3 08 106 113 109 142 140 143 141 136 135 142 143 148 1 1 3 47 7 1 1 4 51 5 1 1 1 3 1 5 5 2 8 0 1 9 1 6 5 4 3 6 1 144 5 139 1 4 40 141 149 179 179 181 182 185 1 184 83 193 191 188 1 1 87 95 1 2 9 04 0 186 207 189 1 1 9 8 4 2 1 1 7 8 3 7 1 1 7 1 7 0 8 6 1 1 1 8 1 7 9 8 6 4 184 178 183 185 217 2 2 15 19 22 2 0 23 231 226 215 216 214 234 216 2 2 1 2 1 0 1 1 1 1 9 2 4 96 1 2 20 9 2 0 8 4 21 197 7 20 1 0 99 2 201 0 2 5 14 2 2 0 0 6 3 2 2 0 1 2 7 5 13 2 2 09 08 235 241 244 232 253 238 243 2 2 1 3 8 3 259 222 255 212 217 237 215 218 207 2 2 1 0 2 0 6 14 2 2 0 1 8 1 209 2 2 1 2 3 6 220 216 223 214 2 2 1 2 2 7 4 1 2 0 12 2 2 2 1 1 1 1 5 9 240 2 2 1 13 6 225 227 228 215 209 216 209 2 2 1 0 1 8 205 200 207 196 20 1 203 9 2 1 8 2 9 01 7 195 194 206 192 1 1 2 8 8 8 9 1 0 9 4 1 199 1 1 8 9 21 3 7 7 PLAN DE MANEJ P O A C R O A R E T J A E C Y U R T E A F R O O RE B S R T A A S C C IO IV N IL D E E S PLANTACIONES 12 12 8 8 1 1 29 29 118 12 1 3 1 2 4 1 1 1 7 4 2 3 1 7 4 1 6 22 146 12 1 5 48 13 1 1 1 2 4 1 4 2 49 145 1 1 1 2 2 1 3 4 8 6 6 4 13 1 0 33 132 129 144 130 135 129 140 132 12 A P 7 r c e c d e i s o 125 o 1 188 189 190 189 192 197 199 202 2 1 21 98 205 19 188 1 2 1 0 9 6 4 189 2 19 1 1 3 3 9 2 0 03 192 201 1 2 9 1 5 0 211 212 21 2 4 00 216 209 208 224 218 227 222 228 241 225 23 2 0 29 239 236 247 246 258 2 2 2 5 5 4 0 4 2 248 245 251 262 257 264 256 231 230 229 219 214 2 210 20 22 2 1 13 2 2 2 17 0 212 2 2 2 2 7 1 22 2 5 1 2 2 8 2 1 2 2 35 2 8 3 9 3 4 1 223 240 2 2 1 2 8 3 3 2 2 2 8 2 3 4 9 2 3 4 2 2 3 2 4 7 4 2 2 4 5 3 2 2 3 2 2 2 2 2 2 2 3 0 4 6 4 4 2 2 6 2 1 3 6 9
+147 133 152 144 131 249 150 151 153 152 143 150 151 153 143 157 137
+1
+1
+4
+39
+1
+134 14 14 2 6 150 151 160 147 1 1 6 3 3 6 138
+169
+16 1 6 65 171 167 168 162 148 158 176
+186
+180 183 18 18 5 4 187 194 191 215 220 217 221 224 237 238 252 240 240 242 242 247 2 2 4 4 9 6 2 2 5 4 0 5 243 2 2 4 5 7 3 2 2 5 5 2 1 5 56 2 2 4 52 8 249 2 2 5 58 4 257 259 26 2 2 61 26 2 3 5 2 2 65 8 57 25 26 8 6 2 2 6 6 2 6 4 60 259 258 2 2 58 58 237 239 23 235 8 2 2 3 32 4 2 2 2 33 3 3 23 6 1 6 238 237
+192 247
+1 1 5 4 1 8 152 156 145 161 170 175 172 173 181 226 242 143 14 1 4 45 1 1 4 4 7 6 1 1 5 49 0 154 153 157 15 1 8 55 164 149 159 189 174 178 177 18 1 2 90 193 LEYENDA
+168 155 156 244
+188
+224
+154
+243
+179 223 187 232 241 291
+196
+237 291
+174 176 185 272 291 192 287 28 2 8 86 2 2 8 8 9 7 291 295
+170 171
+173 178 181 290
+295
+172
+17
+1
+7
+75
+17
+1
+1
+76
+166
+195
+183
+190
+203
+188
+216 217
+201
+209
+20
+2
+2
+08
+215
+218
+219
+221
+254
+258 273
+276
+28
+28
+3
+7
+282 290
+286
+2
+29
+9
+3
+2
+294
+192 210
+245 233 211
+243
+279 285
+178
+155
+153
+179 170
+1
+1
+7
+8
+2
+2 228
+229
+252
+281 289 284 276
+146 142 150 143 1 1 5 44 4 145 147 151 149 14 15 8 2 159 156 161 18 1 6 80 227 240 231 225 220 236 239 230 255 238 253 271 27 2 4 75 288 277 280 278 274 278 280 288 288 TABLA SUPERFICIE PREDIAL 189 199 235 259 297
+160 193 197 214 234
+169 178 286 302
+246 163 174 165 242 251 257 275 273 29 293 0 295 3 3 0 1 4 1 309 29 3 9 14 30 2 6 96 3 3 1 0 0 0 30 3 5 1 30 8 1 312 319 267 277 276 268 292 288 285 298 308 313 316 320 128 177 175 206 212 205 222 249 272 287 303 317 315 307 198 247 294 291 123 270 269
+157
+167
+191
+217
+224 229
+248
+271
+250 256 214 8 9 6 8 8 8 4 8 8 7 4 8 1 8 7 9 7 1 8 1 8 0 0 3 77 0 6 8 8 76 1 7 0 9 8 5 37 2 6 7 8 8 4 7 7 6 9 3 7 6 9 0 8 2 5 10 6 7 5 7 7 8 4 7 7 2 99 6 5 7 9 93 5 9 89 6 7 85 1 7 0 8 4 4 7 7 5 6 1 6 75 5 27 66 3 63 6 5 8 54 0 6 5 4 2 5 6 65 0 5 7 5 9 1 49 10 6 5 8 1 7 0 9 4 7 3 5 7 11 1 8 8 2 1 8 46 1 9 1 1 1 6 6 2 4 3 6 5 6 1 1 4 8 0 1 1 0 1 1 0 3 9 2 1 1 1 1 2 9 1 6 1 4 1 0 1 7 1 3 0 6 9 1 1 5 1 4 1 1 3 2 3 8 5 0 5 3 7 1 6 1 7 0 9 9 4 3 2 4 1 2 2 1 7 2 1 8 1 0 9 1 29 6 8 2 71 12 1 2 8 1 1 4 0 1 1 1 0 16 7 2 66 7 1 2 9 111 0 3 1 0 7 06 8 97 1 6 0 9 4 7 2 9 9 1 3 00 8 7 4 8 3 35 1 4 0 0 1 5 0 3 7 9 6 1 1 8 5 0 0 9 1 6 4 2 1 3 4 5 1 4 4 7 9 3 1 6 1 3 1 1 1 8 0 1 3 1 9 8 8 5 0 7 3 52 50 1 1 1 5 0 0 6 7 4 4 4 7 6 2 1 1 0 0 5 6 7 1 5 8 83 4 5 3 9 7 4 4 0 8 5 7 4 2 6 6 3 8 8 7 3 5 2 4 5 1 5 58 4 5 61 3 0 7 5 6 4 5 7 1 5 1 5 5 7 3 4 0 6 8 0 6 3 2 9 5 7 9 2 4 4 3 2 6 7 4 5 3 7 9 4 6 3 44 97 6 9 4 6 9 7 45 10 6 46 5 9 0 51 8 6 4 7 6 7 8 4 7 10 5 5 0 8 9 8 6 4 9 7 4 6 5 8 9 7 5 8 5 7 7 9 4 3 5 5 6 3 1 69 9 6 5 6 76 6 9 2 5 8 7 8 8 0 0 6 7 9 5 8 0 1 72 04 7 9 7 1 9 6 4 7 110 7 9 1 9 29 70 11 121 1 7 0 9 5 8 93 122 101 11 1 2 06 97 11 1 1 1 1 3 8 8 10 1 0 14 1 1 0 37 3 1 1 0 9 3 6 7 1 3 0 1 4 1 1 0 5 1 2 34 9 1 5 1 0 1 30 1 8 9 109 142 136 1 1 1 1 8 5 4 6 2 0 2 1 0 17 2 3 168 9 13 1 1 16 14 1 0 2 10 7 4 1 14 5 1 8 1 1 0 1 8 5 1 1 5 3 461 23 128 135 1 111 1 1 3 5 1 1 2 5 0 2 5 108 1 1 1 0 0 1 0 3 3 1 1 0 0 4 9 1 10 1 2 7 106 1 5 4 112 110 1 11 5 6 1 1 1 4 4 1 8 1 5 1 2 9 4 139 14 1 9 1 1 4 2 4 1 1 1 0 7 7 109 1 1 1 2 1 3 6 0 1 7 1 1 8 1 1 1 0 1 8 0 1 6 4 1 3 1 1 4 4 1 1 1 7 5 0 11 6 5 146 154 200 131 1 11 2 1 1 1 1 2 1 1 0 6 38 1 11 0 4 7 1 1 3 1 2 7 0 2 7 1 1 1 2 3 5 13 1 1 1 0 1 3 20 2 9 117 12 1 3 3 1 4 24 1 1 3 32 3 1 1 1 2 2 3 7 1 1 1 42 1 1 1 3 2 5 1 3 6 0 28 12 14 3 1 1 1 2 2 9 14 2 0 135 125 248 140 213 142 141 1 1 4 3 1 7 8 39 1 1 1 40 42 46 1 2 4 04 7 24 1 4 53 156 160 20 1 7 67 194 174 1 17 8 9 1 184 8 2 6 17 180 9 1 1 84 83 187 196 197 204 208 216 210 208 207 212 DATOS CA D R at T E um O q C u : o G i W d o R i r s d G Á t e a S F n n 8 a I c C 4 d ia - a O H : s 1 S u U s m Y o T e M 1 G t 8 ro E S O u D r ÉSICOS
+GESTIÓN AMBIENTAL CONSULTORES
+982
+679.450 679.950 680.450 680.950 681.450 681.950
+16.44 15.3 16.43 16.39 15.1 16.42 220 16.36 113 1281-186 16.51 15.2 1.4 1.10 119 11 122 2 11 11 0 5 12 1 1 11 114 117 118 1 F 2 u 8 n 1 d -5 o 5 232 16.9 16.34 230 2 2 2 21 4 219 228 222 223 218 225 16.52 16.31 16 1 . 6 3 . 7 40 16.16 128 C 1 o - L 1 i o h 8 t u 8 e e F C c u o n , do 116 Coihueco 261 1.11 1.9 1.8 1.1 124 120 235 229 226 227 1281-187 Fundo 16.32 16.10 260 3.17 123 1.5 1.6 231 Coihueco, Lote B 16.11 1.3 1.2 233 240 238 16.6 135 141 1.7 234 16.35 16.41 140 138 3.19 236 16.15 239 16.28 16.12 139
+137 136 2.2 237 16.33 16.29 13.3 13.4 13.1 1290-170 Bellavista, Lote H 3.2 13.2 Ruta 152 1281-190 2.4 12.1 El Retamo 1281-191 3.16 Uno, Lote E El Retamo 1281-189 Uno, Lote F 3.18 3.14 3.3 3.9
+3.21
+1281-64 3.22 3.20 3.25 1290-169 8.3 Bellavista, 1281-65 2.1 3.12 Lote G 1281-62 Santa
+2.3 Matilde PC 1 Ruta 3.11 Itata Coihueco
+3.10 3.24
+3.8 8.1
+3.23 8.4
+3.26 8.2
+3.5 3.15 3.1
+4.34
+3.4 3.36 3.27 9.2 9.4 3.7 1281-63 Lote
+2 sector
+Ruta Itata
+9.1
+3.37
+3.13
+9.3 3.32 7.3 4.47 3.28 4.26
+7.4 7.5
+7.1 3.29
+3.33
+7.2
+3.30
+3.31 3.6 4.8
+3.34
+4.5 4.48 291
+4.39 4.49 261 4.24 4.3 263 4.4 4.23 4.33 1281-31 4.9 4.40 4.1 4.2 1287-1 El La Cruz 4.7 Cortijo Dos 4.35 4.6 4.38
+4.29 262 4.43 4.10
+279 4.32
+4.25 4.44 4.30 4.31 4.17 4.20 266 265 4.11 4.28 4.46 4.45 4.27 4.12 4.18 4.22 4.4 4 1 6 . . 2 7 1 6.1 260 6.4 6.2 6.6 278 280 281 283 282 284 4.16 4.19 21287-6 El Retamo Dos, Lote J
+4.37 4.42
+264
+6.8 4.15 4.14 4.13 6.9 6.5 4.36 6.3 21287-5 86 81 63 82 84 78 83 85 79 64 80
+679.450 679.950 680.450 680.950 681.450 681.950
+000.039.5
+005.929.5
+000.929.5
+005.829.5
+000.829.5
+000.039.5
+005.929.5
+000.929.5
+005.829.5
+000.829.5
+CROQUIS DE UBICACIÓN
+Región del Biobío Comuna de Penco
+dxm.21 ed 3 noicnevretnI ed onalP
+941
+SAP - 2A\20V\dxM\941SAP\SAP\ocneP oludóM otceyorP AIE - 8605022\OSRUC NE SOTCEYORP\:Z ESCALA 1:5.000 0 125 250 500 m
+GL
+:órobalE
+±
+±±
+1.11 1.9 1.10 1.1 122 124 12 1 1 23 521 133 120 139 141 146 154 1 1 4 5 9 3 1281-55 Fundo Coihueco 127 1.5 1.6 158 EIA "Proyecto de Extracción de Arcillas para Producción 145 15 1 2 47 151 3.17 1.3 128 127 126 125 133 129 126 1.7 128 A 1 142 3 1 7 30 cceso Predi 1 o .2 1 431 1 1 132 3 4 5 6 129 1 3 31 .19 138 140 631 142 137 145 14 341 4 147 148 15 1 152 4 0 9 157 151 1 1 5 5 6 9 155 160 1 1 6 6 1 5 3 61 16 1 8 66 171 174 1 1 7 7 0 3 16 1 1 1 4 7 6 6 2 7 2 169 ± de C ± o PP n llaa c nn e P o P o n l l t a d a d r n e a n e o o d II n o n 33 t d t e d e d e r e r e vv T e 1 e 1 i n 2 e n 2 c r c r iió a ón s n Raras" CoComiuhunae cdoe 146 155 132 130 131 145 148 dCeo Pmeunncao 147 Provincia de 2.2 Concepción 153 160 148 159 1290-170 Bellavista, Lote H 134 143 152
+135
+153 1 1 1 5 5 44 0 8 14 15 9 6 157 155 154 3. 154 18 1290- 136 169 Bellavista, Lote G 157161 162 3.20 1503.2 170 178 185 179 184 176 1 1 8 1 8 7 1 6 2 1 1 1 6 7 8 8 3 7 ± 3.16 159 2.4 163 166 174 175 180 183 160 165 144 164 161 162 361
+164
+1 1 6 6 6 8 169 139 140
+165
+167 961 177 182
+167 171 141 3.14
+170 172 158 188 3.3 1 17 7 3 8 17 1 1 6 7 7 9 4 175 138 151 156 171 189 3 ± .9 3.21 3.3 183 231 CARTOGRAFÍA BASE CARTOGRAFÍA TEMÁTICA
+3.9 185 197 203 Límites Administrativos ! Citronella mucronata
+3.21
+194
+187
+19 1
+1
+86
+188
+184
+182
+226
+227
+237
+L
+L
+í
+í
+m
+m
+i
+i
+t
+t
+e
+e
+P
+R
+r
+e
+o
+g
+v
+i
+i
+o
+n
+n
+c
+a
+ia
+l
+l
+C
+^_
+lase C
+P
+a
+un
+p
+t
+a
+o
+c
+s
+i d
+de
+a d
+re
+U
+fe
+s
+re
+o
+n
+d
+ci
+e
+a
+Suelo
+3.14
+207
+198 192
+230 235
+233 Límite Comunal IV
+Comuna de Penco N.C.
+1 1 6 6 5 9 1 1 7 7 0 6 1 1 1 1 7 6 7 6 6 3 8 8 16 1 7 1 7 7 2 7 171 174 189 3 1 . 9 2 5 2 205 219 214 201 232 239 240 Límite P s r e P d r i e o d s i a A l f e e s ctos a Corta V V V I I I I II
+179 221
+3.25
+Predios Vecinos
+Obras del Proyecto
+175 Superficie Cubierta por Plantaciones
+Plantaciones Forestales Afecto a Corta
+200 1290-169 Bellavista, Lote G 220 243 Vialidad 180 181
+193 196
+202 208 216 224 206
+Orogra
+R
+fí
+e
+a
+d Vial Nacional 3
+3
+.
+.
+1
+10
+3
+3
+.
+.
+1
+2
+9 3
+3
+.
+.
+2
+2
+8
+9
+3
+3
+.
+.
+3
+4
+7
+3.24 199
+Curvas de Nivel 3.11 3.20 3.3 3.5
+3.8
+190 211
+209
+213 218 223
+222 229 234
+242
+Hidrog
+R
+ra
+e
+f
+d
+ía
+hidrológica
+3
+3
+.
+.
+1
+1
+2
+3
+3
+3
+.
+.
+2
+2
+1
+2
+3
+3
+.
+.
+3
+3
+0
+1
+3
+3
+.
+.
+6
+7
+3.23 241 244 Pendientes (°) 3.14 3.23 3.32 3.8 238
+236 0-15 3.15 3.24 3.33 3.9
+3.5 225 3.15 228 15-30 3.16 3.25 3.34
+4.34 30-45 223 3.17 3.26 3.35 222
+220 45-60
+3.18 3.27 3.36
+219 215 225 60 Y + ± 215 1287-1 El Cortijo Dos 227 229 181 180 3.18 164 158 148 141 140 1 139 38 142 145 147 14 15 4 2 3.14 204 210 212 217 224 221 217 21 212 3 214 216 226 218 232 ± 238 231 2 2 3 3 6 0 243 23 2 2 4 9 3 2 2 4 4 2 2 5 3 4 7 0 Predi 3 3 3 3 os N° N° C C C C R 0 0 0 0 o 3 5 6 6 d 2 6 2 7 al Área 3 3 3 3 . . . . C 1 2 3 4 orta P P P P l l l l a a a a n n n n t t t t a a a a c c c c i i i i ó ó ó ó n n n n d d d d e e e e E E E E R u u u u o c c c c d a a a a a l l l l l y y y y p p p p t t t t u u u u s s s s g g g g l l l l o o o o b b b b u u u u l l l l u u u u s s s s Caminos exis Z Z Z Z t D D D D en N N N N O te e e e e b s p p p p ra t t t t c s u u u u o n n n n n o o o o modificación Clase capacidad V V V V d I I I I e uso de suelos Pendien 1 3 1 t 0 5 0 5 e - - - - 1 m 3 4 3 5 0 5 0 edia (%) Superficie p 1 0 0 2 o , , , , 4 3 1 0 r 1 2 2 6 afectar (ha)
+149 143 3.16 187 211 221 3 3 3 C C C 0 0 1 8 8 7 2 9 1 3 3 3 . . . 5 6 7 P P P l l l a a a n n n t t t a a a c c c i i i ó ó ó n n n d d d e e e E E E u u u c c c a a a l l l y y y p p p t t t u u u s s s g g g l l l o o o b b b u u u l l l u u u s s s C C a a m m i i n n o o s s C e e am x x i i s s in t t e e o n n s t t p e e r s s o c c y o o e n n c t m m ad o o o d d s i i f f i i c c a a c c i i ó ó n n V V V I I I 1 1 1 5 5 5 - - - 3 3 3 0 0 0 0 0 0 , , , 0 1 1 6 8 8
+177 175178 182 175 172
+168
+161 1 1 6 5 0 1 0 55 146 154 151 171
+3.20
+169 171 176 189 191 193 197 201 208 206 212
+902
+214 218
+912
+222 224
+3 3
+3 3 3 3 3 3 3
+C C
+C C C C C C C
+1 1
+1 1 1 1 2 2 0
+7 7
+8 8 8 9 0 3 3
+2 3
+6 7 8 2 4 7 3 3 3 3 3 3 3 3
+3 3
+. . . . . . .
+. .
+1 1 1 1 1 1 1
+8 9
+0 1 2 3 4 5 6
+P P
+P P P P P
+l l
+l l l l l
+a a
+a a a a a
+n n
+n n n n n P P
+t t
+t t t t t l l
+a a
+a a a a a a a
+c c
+c c c c c n n
+i i
+i i i i i t t
+ó ó
+ó ó ó ó ó a a
+n n
+n n n n n c c i i
+d d
+d d d d d ó ó
+e e
+e e e e e n n
+E E
+E E E E E d d
+u u
+u u u u u e e
+c c
+c c c c c
+a a
+a a a a a P P
+l l
+l l l l l i i
+y y
+y y y y y n n
+p p
+p p p p p u u
+t t
+t t t t t s s
+u u
+u u u u u r r
+s s
+s s s s s a a
+g g
+g g g g g d d
+l l
+l l l l l i i
+o o
+o o o o o a a
+b b
+b b b b b t t a a
+u u
+u u u u u
+l l
+l l l l l
+u u
+u u u u u
+s s
+s s s s s C C C C C C a a a a a a m m m m m m i i i i i i n n n n n n o o o o o o s s s s s s C e e e e e e a x x x x m x x i i i i i i s s s s s s i
+Z Z
+Z Z Z Z n t t t t t t
+D D
+D D D D e e e e e e o n n n n n n s
+N N
+N N N N t t t t t t p e e e e
+e e
+e e e e e e r s s s s
+p p
+p p p p s s o
+t t
+t t t t c c c c c c y
+u u
+u u u u o o o o o o e
+n n
+n n n n n n n n n n c
+o o
+o o o o t m m m m m m ad o o o o o o o d d d d d d s i i i i i i f f f f f f i i i i i i c c c c c c a a a a a a c c c c c c i i i i i i ó ó ó ó ó ó n n n n n n
+V V
+V V V V V V V
+I I
+I I I I I I I
+1
+1 1 1 3 3 3 1
+0 5
+5 5 5 0 0 0 5
+- -
+- - - - - - -
+1 3
+3 3 3 4 4 4 3
+5 0
+0 0 0 5 5 5 0
+0 0
+0 0 0 1 0 5 0
+, ,
+, , , , , , ,
+3 0
+8 8 8 4 0 0 2
+5 8
+5 2 5 9 3 8 ZD Neptuno 1290-170 Bellavista, Lote H Caminos existentes con modificación 1 16 6 4 1 9 16 8 7 0 17 1 1 17 7 1 3 7 9 6 2. 1 3 81 183 2.1 182 3.12 179 1
+1
+7 59 3 156 153 170 3.10 1 3 86 .11 174 1 167 72 3.28 183 3.32 181180 3.13 195 188 091 194 192 196 199 20 198 5 302 20 2 0 04 202 20 21 7 0 213 216 2 2 17 15 220 223 209 207 208 219 220 2 225 17 3 3 3 3 3 3 3 C C C C C C C 0 0 0 0 0 0 0 3 3 6 6 6 6 6 4 4 0 0 9 9 9 3 3 3 3 3 3 3 . . . . . . . 1 1 1 2 2 2 2 7 8 9 0 1 2 3 P P P P P P P l l l l l l l a a a a a a a n n n n n n n t t t t t t t a a a a a a a c c c c c c c i i i i i i i ó ó ó ó ó ó ó n n n n n n n d d d d d d d e e e e e e e E E E E E E E u u u u u u u c c c c c c c a a a a a a a l l l l l l l y y y y y y y p p p p p p p t t t t t t t u u u u u u u s s s s s s s g g g g g g g l l l l l l l o o o o o o o b b b b b b b u u u u u u u l l l l l l l u u u u u u u s s s s s s s C C C C a a a a m m m m i i i i n n n n o o o o s s s s C C C C e e e e a a a a x x x x m m m m i i i i s s s s i i i i Z Z Z Z Z Z
+Z
+n n n n t t t t D D D D D D
+D
+e e e e o o o o n n n n s s s s N N N N N N
+N
+t t t t Z Z Z p p p p e e e e e e e e e e
+e
+A A A r r r r s s s s p p p p p p
+p
+o o o o V V V t t t t t t
+t
+c c c c y y y y u u u u u u
+u
+o o o o e e e e n n n n n n
+n
+n n n n c c c c o o o o o o
+o
+t t t t m m m m a a a a d d d d o o o o o o o o d d d d s s s s i i i i f f f f i i i i c c c c a a a a c c c c i i i i ó ó ó ó n n n n V V V V V V V I I I I I I I 3 3 1 1 1 0 0 0 0 5 5 5 - - - - - - - 1 1 4 4 3 3 3 5 5 5 5 0 0 0 0 3 0 2 0 1 0 , , , , , , , 0 9 0 9 4 8 1 6 9 3 5 7 6
+177 174 162 167 184 179 1290-169 Bellavista, Lote G 202 199 3 3 C C 0 0 6 7 9 0 3 3 . . 2 2 4 5 P P l l a a n n t t a a c c i i ó ó n n d d e e E E u u c c a a l l y y p p t t u u s s g g l l o o b b u u l l u u s s C C a a m m i i n n o o s s e e x x i i s s Z t t D e e n n N t t Z Z e e e A A s s p V V t c c u o o n n n o m m o o d d i i f f i i c c a a c c i i ó ó n n V V I I 1 3 5 0 - - 3 4 0 5 0 1 , , 6 5 8 7 166 1290-169 Bellavista, Lote G 165 193 168 186 3 3 3 C C C 0 0 0 8 8 8 3 3 5 3 3 3 . . . 2 2 2 6 7 8 Plan P P t l l a a a c n n i t t ó a a n c c i i d ó ó e n n E d d u e e c a P P l i i y n n p u u t s s u r r s a a g d d l i i o a a b t t a a ulus C C C a a a m m m i i i n n n o o o s s s C e e e a x m x x i i i s s s in t t t e e e o n n n s t t t p e e e r s s s o c c c y o o o e n n n c t m m m ad o o o o d d d s i i i f f f i i i c c c a a a c c c i i i ó ó ó n n n V V V I I I 1 1 1 5 5 5 - - - 3 3 3 0 0 0 0 0 0 , , , 0 1 3 4 3 185 3.26 17 1 5 73 177 3.29 195 197 226 3 3 C C 0 0 8 8 5 5 3 3 . . 2 3 9 0 P P l l a a n n t t a a c c i i ó ó n n d d e e E E u u c c a a l l y y p p t t u u s s g g l l o o b b u u l l u u s s C C a a m m i i n n o o s s C C e e a a x x m m i i s s i i n n t t e e o o n n s s t t p p e e r r s s o o c c y y o o e e n n c c t t m m a a d d o o o o d d s s i i f f i i c c a a c c i i ó ó n n V V I I 3 0 0 - - 1 4 5 5 0 0 , , 0 0 1 3 223 3 C085 3.31 Plantación de Eucalyptus globulus Caminos C e a x m is in te o n s t p e r s o c y o e n c t m ad o o d s ificación VI 0-15 0,03 157 189 191 3.36 196 198 170 185 3.33 201 200 196 198 224 24 24 3 2 3 3 3 3 C C C C 0 0 1 1 8 8 8 8 8 8 5 5 3 3 3 3 . . . . 3 3 3 3 2 3 4 5 P P l l a a n n P P t t l l a a a a c c n n i i t t ó ó a a n n c c i i d d ó ó e e n n E E d d u u e e c c a a P P l l i i y y n n p p u u t t s s u u r r s s a a g g d d l l i i o o a a b b t t a a u u l l u u s s C C a a m m i i n n o o s s C C e e a a m m x x i i s s i i n n t t e e o o Z Z n n s s E E t t p p M M e e r r s s o o a a c c i i y y t t o o e e e e n n c c t t m m a a d d o o o o d d s s i i f f i i c c a a c c i i ó ó n n V V V V I I I I 1 1 1 1 5 5 5 5 - - - - 3 3 3 3 0 0 0 0 0 0 0 0 , , , , 0 0 0 0 8 2 6 1 163 176 183 187 3.4 3.27 195 197 159 163 166 3.30 3.6 3.31 4.8 1287 2 - 2 0 1 3 1 3 El Cortijo 2 0 D 4 os 221 20 2 6 22 218 227 3 3 C C 3 3 5 5 8 8 3 3 . . 3 3 6 7 P P l l a a n n t t a a c c i i ó ó n n d d e e E E u u c c a a l l y y p p t t u u s s g g l l o o b b u u l l u u s s C C a a m m i i n n o o s s e e x x i i s s t t e e n n t t e e s s c c o o n n m m o o d d i i f f i i c c a a c c i i ó ó n n V V I I 3 0 0 - - 1 4 5 5 0 0 , , 0 1 4 169 155 161 3.35 3.34 210 211 3.7 3.1 194 190 188 3 178 .37 184 192 176 169 174 171 166 175 172 167 173 165 1 1 7 1 6 0 6 4 8 153 151150 156 152 1 1 6 5 0 7 162 15 15 1 8 4 65 164 178 182 165 163 166 164 1 1 7 68 2 1 17 6 1 7 170 1 1 7 1 7 6 6 4 1 9 78 17 1 9 82 185 17 1 5 89 17 1 1 19 3 0 8 8 8 4 180 177 1 1 8 9 3 1 3 87 194 181 186 191 4 192 .39 4. 4 2 . 3 4 4.3 4. 231 6 4. 2 5 38 23 2 3 241 29 234 2 2 3 3 5 0 236 239 216 21 4 4 .24 2 2 32 37 228 4 2 . 1 9 5 24 21 0 2 205 Formato Papel: A2 e c h a: 2 8- 0 5- 2 0 2 4 F

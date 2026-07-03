@@ -1,0 +1,827 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-3.3
+Memorándum Geoquímica
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+MT-001
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Documento: Memo Técnico 01
+Destinatarios: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Elaborado por: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Fecha: 28/02/2024
+Referencia: Caracterización geoquímica ambiental proyecto Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1. INTRODUCCIÓN
+El presente memo técnico analiza la representatividad de las muestras seleccionadas para la
+caracterización geoquímica, específicamente los análisis de cabezas, del proyecto “Extracción de
+Arcillas para Producción de Concentrado de Tierras Raras” como soporte técnico al Estudio de Impacto
+Ambiental ingresado al Sistema de Evaluación de Impacto Ambiental, donde es necesario evaluar y
+garantizar la estabilidad química de las zonas de extracción (ZDE) y de los residuos que conformaran la
+zona de disposición (ZDD) que se genere debido a la explotación de las tierras raras (REE).
+ACLARA RE realizó muestreos en las unidades litológicas de extracción principales que corresponden a
+Granitos de granate (GG), Dioritas (DRT) y Metapelitas (MP) de las distintas ZDE. En total se tomaron
+14 muestras de cabezas más 1 duplicado.
+2. DESARROLLO
+2.1 Unidades de extracción
+Se ha establecido que las principales unidades de extracción corresponden a los Granitos de Granate
+(GG), Dioritas (DRT) y Metapelitas (MP).
+Acorde al plan minero y el modelo de bloques realizado para este proyecto, se explotarán 10.13 Mt de
+material. El detalle de los porcentajes y tonelajes para cada unidad de extracción se muestra en la
+gráfica de la Figura 2-1.
+www.taypi-ghc.cl / 1
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 3
+================================================================================
+MT-001
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Figura 2-1. Porcentajes de las unidades de extracción principales del depósito
+Tonelaje Unidad Porcentaje
+Unidad de
+de extracción Unidad de
+extracción
+(Ton) extracción
+GG 8459000 84%
+DRT 1373000 14%
+MP 298000 3%
+TOTAL 10130000 100%
+Fuente: elaboración propia.
+2.2 Muestreo geoquímico
+Las zonas de extracción (ZDE) acorde a la descripción del Proyecto corresponden a Victoria norte (V
+NOR), Maite (MAY) y Luna (LUN), mientras que la zona de disposición (ZDD) corresponde a Neptuno
+(NEP). También se considera una zona de acopio vegetal denominada ZAV.
+Se obtuvieron 14 muestras (más 1 duplicado), a partir de sondajes sónicos, de material de las
+principales unidades de extracción asociadas a las litologías predominantes (Granitos de granate,
+Dioritas y Metapelitas), distribuidas en las distintas ZDE. En la Figura 2-2 se muestra la distribución de
+las muestras tomadas, así como las ZDE y ZDD del proyecto. También se incluye la geología local del
+sector. En la siguiente tabla se indica el ID y origen de las muestras.
+Tabla 2-1: Muestras seleccionadas para la caracterización geoquímica de cabezas del proyecto
+ID ID X (Este) Y Z Drillhole FROM TO Litología ZDE
+Taypi PROMET (Norte)
+M-01 VTN-028 681412 5931150 164,86 SDVIN20021 8,3 10,7 MP VTN
+M-02 MYT-025 680497 5928761 219,74 SDMAI20006 15,7 17,3 DRT MYT
+M-03 AXD-003 683103 5930725 288,75 SDAXD20006 3,0 4,7 GG
+M-04 AXD-011 682575 5930719 222,89 SDAXD20016 2,7 6,7 GG
+M-05 LUN-003 681575 5928895 300,81 SDLUN20013 13,7 14,7 DRT LUN
+M-06 MYT-004 680471 5928541 210,01 SDMAI20012 3,7 5,7 GG MYT
+M-07* AXD-011 682575 5930719 222,89 SDAXD20016 2,7 6,7 GG
+M-08 MYT-016 680192 5928394 185,87 SDMAI20029 6,7 8,7 GG MYT
+M-09 VTS-014 681122 5930167 243,03 SDVIS20022 29,7 30,3 GG
+M-10 MYT-015 680431 5928314 215,33 SDMAI20062 26,3 28,3 GG MYT
+M-11 VTN-004 681231 5930876 190,32 SDVIN20012 13,7 14,7 GG VTN
+M-12 MYT-010 680704 5928484 244,09 SDMAI20045 14,1 15,7 DRT MYT
+M-13 MYT-022 680631 5928669 245,2 SDMAI20069 32,7 34,7 GG MYT
+www.taypi-ghc.cl / 2
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 4
+================================================================================
+MT-001
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+ID ID X (Este) Y Z Drillhole FROM TO Litología ZDE
+Taypi PROMET (Norte)
+M-14 VTS-001 681083 5929967 245,32 SDVIS20026 13,7 15,2 GG
+M-15 VTN-008 681372 5931236 168,97 SDVIN20023 2,7 3,7 GG VTN
+GG: Granitos de granate; DRT: Diorita; MT: Metapelitas
+*M-07 duplicado de M-04
+Fuente: elaboración propia.
+Figura 2-2: Distribución de muestras geoquímicas vista en planta.
+Fuente: elaboración propia a partir de información geológica del Titular
+2.3 Evaluación de representatividad de las muestras de cabeza
+En la Figura 2-3 se muestran los porcentajes de las unidades de extracción representadas por las
+muestras de cabeza seleccionadas. Considerando estos valores, se establece que son representativas
+del depósito total dado que los porcentajes de cada una de estas unidades de extracción son similares
+www.taypi-ghc.cl / 3
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 5
+================================================================================
+MT-001
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+(Figura 2-1), con un error estadístico de 0,057. La principal variación que existe corresponde a la
+sobrerrepresentación de las unidades Diorita y Metapelita, debido a que cada muestra representa un
+7% del total de las muestras (14), generando unos porcentajes un poco mayor a la distribución total de
+dichas unidades en el depósito.
+Figura 2-3 Porcentajes de las unidades de extracción representadas por las muestras de cabezas
+seleccionadas
+Fuente: elaboración propia.
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11.626.035-2 17.209.178-4
+Máster profesional en hidrología subterránea Máster profesional en hidrología subterránea
+Magister en recursos hídricos
+www.taypi-ghc.cl / 4
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+G
+D
+M
+T
+G
+R
+P
+O
+U
+e
+T
+T
+n
+x
+A
+id
+t r a
+L
+a
+c
+d
+c
+d
+ió
+e
+n
+N º m
+C a
+u e
+b e
+1 0
+3
+1
+1 4
+s t
+z a
+r
+s
+a s
+P o
+m
+C
+r c e n t a
+u e s t r a
+a b e z a
+7 1 %
+2 1 %
+7 %
+1 0 0 %
+je
+s
+s
+================================================================================
+PAGE 6
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Documento: Memo Técnico 02
+Destinatarios: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Elaborado por: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Fecha: 28/02/2023
+Referencia: Caracterización geoquímica ambiental proyecto Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1. INTRODUCCIÓN
+El presente memo técnico resume los resultados de la caracterización geoquímica de las unidades
+litológicas presentes en las zonas de extracción o cabezas, para el proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras, como soporte técnico al Estudio de Impacto Ambiental
+ingresado al Sistema de Evaluación de Impacto Ambiental, donde es necesario evaluar y garantizar la
+estabilidad química de las zonas de extracción (ZDE) que quedaran expuestas debido a la explotación
+de las tierras raras (REE).
+ACLARA realizó durante el año 2022, muestreos en las unidades de extracción principales que
+corresponden a Granitos de granate (GG), Dioritas (DRT) y Metapelitas (MP) de las distintas Zonas de
+Extracción, para la caracterización geoquímica de estas.
+Estas muestras se caracterizaron según las recomendaciones de la Guía de estabilidad química
+(SERNAGEOMIN et al., 2015), ejecutándose el test pH en pasta, test SPLP (EPA, 1994) y mineralogía.
+Cabe señalar que el test SPLP también es requerido en el Artículo 23 del DS 148 sobre residuos
+peligrosos (MINSAL, 2003).
+Objetivo
+Evaluar la estabilidad química del material de cabezas que será expuesto en las Zonas de Extracción del
+proyecto “Extracción de Arcillas para Producción de Concentrado de Tierras Raras”.
+2. DESARROLLO
+Se colectaron 14 muestras (más 1 duplicado) como parte de la caracterización geoquímica para estudio
+de estabilidad química para las cuales se ejecutó el Test SPLP “Synthetic Precipitation Leaching
+Procedure” (EPA, 1994) sugerido en el Artículo 23 del DS148 (MINSAL, 2003) y recomendado en la Guía
+Metodológica para la Estabilidad Química de Faenas e Instalaciones Mineras, (SERNAGEOMIN et al.,
+2015). Además de las concentraciones de As, Cr, Hg, Pb, Se, Ba, Cd y Ag requeridas por el DS 148, se
+hizo un barrido de metales traza, así como aniones y cationes mayoritarios.
+Los resultados del test SPLP se compararon con los límites máximos permisibles de las normas de
+calidad de aguas DS 90 (SEGPRES, 2001) y NCh 1333 (INN, 1987).
+Adicionalmente se realizaron las pruebas de pH en pasta y mineralogía a través de TIMA.
+www.taypi-ghc.cl / 1
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 7
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+En la Tabla 2-1 se indica el ID y origen de las muestras.
+Tabla 2-1: Muestreo geoquímico “Extracción de Arcillas para Producción de concentrado de Tierras Raras”.
+ID X Y
+N ID Original Objetivo Drillhole FROM TO Litología ZDE
+Laboratorio (Este) (Norte)
+1 VTN-028 M-01 Cabezas 681412 5931150 SDVIN20021 7.3 14.3 MP VTN
+2 MYT-025 M-02 Cabezas 680497 5928761 SDMAI20006 15.7 21.7 DRT MYT
+3 AXD-003 M-03 Cabezas 683103 5930725 SDAXD20006 3 8.7 GG
+4 AXD-011 M-04 Cabezas 682575 5930719 SDAXD20016 2.7 10.7 GG
+5 LUN-003 M-05 Cabezas 681575 5928895 SDLUN20013 11.1 20.9 DRT LUN
+6 MYT-004 M-06 Cabezas 680471 5928541 SDMAI20012 3.7 13.7 GG MYT
+7 AXD-011 M-07* Cabezas 682575 5930719 SDAXD20016 2.7 10.7 GG
+8 MYT-016 M-08 Cabezas 680192 5928394 SDMAI20029 6.2 12.2 GG MYT
+9 VTS-014 M-09 Cabezas 681122 5930167 SDVIS20022 25.9 31.8 GG
+10 MYT-015 M-10 Cabezas 680431 5928314 SDMAI20062 23.3 31.3 GG MYT
+11 VTN-004 M-11 Cabezas 681231 5930876 SDVIN20012 13.7 21.7 GG VTN
+12 MYT-010 M-12 Cabezas 680704 5928484 SDMAI20045 10.1 16.1 DRT MYT
+13 MYT-022 M-13 Cabezas 680631 5928669 SDMAI20069 31.5 39.7 GG MYT
+14 VTS-001 M-14 Cabezas 681083 5929967 SDVIS20026 7.7 16.7 GG
+15 VTN-008 M-15 Cabezas 681372 5931236 SDVIN20023 0.9 8.9 GG VTN
+GG: Granitos de granate; DRT: Diorita; MT: Metapelitas
+*M-07 duplicado de M-04
+Fuente: Elaboración Propia
+www.taypi-ghc.cl / 2
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 8
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+3. RESULTADOS
+3.1 pH en pasta
+Para evaluar la acidez se ejecutó el test pH en pasta indicado en la Guía de estabilidad química
+(SERNAGEOMIN et al., 2015) para determinar la acidez o alcalinidad del material.
+Los resultados son presentados en el Gráfico 3-1. La media corresponde a un pH 5.83 ligeramente ácido
+que cumple con lo establecido en la norma NCh. 1333 cuyo rango va desde 5.5 a 9. Existen algunos
+valores bajo el límite inferior de la norma.
+La Guía Metodológica para la Estabilidad Química de faenas e instalaciones Mineras (SERNAGEOMIN,
+2015) señala que un pH en pasta inferior a 5.0 dará indicios de una posible generación de ácidos por
+parte de la muestra, mientras un pH superior a 7.0, la posible presencia de carbonatos. Acorde a lo
+anteriormente señalado si bien los resultados de algunas muestras estarían bajo el límite permitido por
+la NCH. 1333 (pH de 5.5), al ser estos resultados mayor a pH 5 no existiría potencial para generar acidez.
+Gráfico 3-1. pH en pasta en muestras de cabezas 2022
+Fuente: Elaboración Propia.
+www.taypi-ghc.cl / 3
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 9
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+3.2 Test SPLP
+Esta prueba está diseñada para simular la movilidad de compuestos orgánicos e inorgánicos a partir de
+un residuo expuesto a aguas lluvias ácidas. Para la evaluación, se agita por 18h una porción del material
+de la muestra, con un solvente acido a pH 4.2, y la solución resultante es analizada por cationes, aniones
+y metales trazas, incluido sulfatos y amonio.
+En la Tabla 3-1 se presentan los resultados de los análisis del test SPLP de los elementos más relevantes
+y en el Anexo 1 se entregan los certificados de todos estos análisis realizados por el laboratorio AGQ.
+Los resultados de las concentraciones en el eluato del SPLP de todos los analitos, cumplen con los
+límites establecidos por las normas de calidad de aguas DS 90 (SEGPRES, 2001) y NCh 1333 (INN, 1987),
+e incluso algunos se encuentran bajo el límite de detección. Cabe señalar que los elementos tales como
+sulfatos y amonio, tienen concentraciones promedio de 2 y 0.16 mg/l respectivamente, muy por debajo
+de los valores máximos establecidos por la NCh 1333 ([SO ] : 250 mg/l) y según el DS 90 ([NH4] :
+4 max max
+64 mg/l, equivalente a 50 mg/l de N Total Kjeldahl).
+Respecto al resultado del test SPLP para los analitos exigidos por la norma del D.S N°148/2003, que
+exige el análisis del extracto por As, Ba, Cd, Cr, Pb, Hg, Se y Ag, se concluye que el material de cabeza
+que será expuesto en las Zonas de Extracción no supera los límites máximos permitidos, descartando
+su toxicidad extrínseca.
+www.taypi-ghc.cl / 4
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 10
+================================================================================
+Tabla 3-1 Resultados SPLP
+Muestra CE pH HCO - NH + As Ba Cd Cr Fe Mn Hg Ag Pb Se SO =
+3 4 4
+FILTRADA filtrado
+µS/cm U de pH mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l
+AXD-003 19.0 5.96 10.00 0.45 <0,0010 0.004 <0,0005 <0,00250 <0,010 0.0222 <0,00050 <0,0010 <0,00050 <0,0010 0.6
+AXD-011 35.0 6.05 10.00 0.18 <0,0010 0.0421 <0,0005 <0,00250 0.022 0.1323 <0,00050 <0,0010 <0,00050 0.0018 2.29
+LUN-003 16.4 5.56 10.00 0.16 <0,0010 0.0011 <0,0005 <0,00250 0.029 0.0031 <0,00050 <0,0010 <0,00050 <0,0010 2.03
+MYT-004 18.3 6.19 10.00 0.08 <0,0010 0.0054 <0,0005 <0,00250 0.019 0.0124 <0,00050 <0,0010 <0,00050 <0,0010 1.62
+MYT-010 12.8 6.13 10.00 0.27 <0,0010 <0,0010 <0,0005 <0,00250 <0,010 0.0077 <0,00050 <0,0010 <0,00050 <0,0010 1.09
+MYT-015 20.3 6.12 10.00 0.14 <0,0010 0.0178 <0,0005 <0,00250 <0,010 0.0276 <0,00050 <0,0010 <0,00050 0.0033 1.49
+MYT-016 21.0 6.22 10.00 0.1 <0,0010 0.0038 <0,0005 <0,00250 <0,010 0.0136 <0,00050 <0,0010 <0,00050 0.0011 1.49
+MYT-022 28.3 6.55 10.00 <0,06 <0,0010 <0,0010 <0,0005 <0,00250 <0,010 0.0065 <0,00050 <0,0010 <0,00050 <0,0010 1.32
+MYT-025 19.0 6.71 10.00 <0,06 <0,0010 <0,0010 <0,0005 <0,00250 0.017 <0,0010 <0,00050 <0,0010 <0,00050 0.0019 1.3
+VTN-004 23.6 6.56 10.00 0.2 <0,0010 0.0047 <0,0005 0.0242 <0,010 0.0095 <0,00050 <0,0010 <0,00050 0.0011 1.84
+VTN-008 21.5 6.18 10.00 0.2 <0,0010 0.0047 <0,0005 <0,00250 <0,010 0.0607 <0,00050 <0,0010 <0,00050 <0,0010 1.84
+VTN-028 14.4 6.96 10.00 0.13 <0,0010 <0,0010 <0,0005 <0,00250 0.103 0.0157 <0,00050 <0,0010 <0,00050 0.0025 1.78
+VTS-001 13.2 6.25 10.00 0.11 <0,0010 0.0137 <0,0005 <0,00250 <0,010 0.0283 <0,00050 <0,0010 <0,00050 <0,0010 1.56
+VTS-014 15.6 6.52 10.00 0.09 <0,0010 0.0187 <0,0005 0.0052 0.705 0.0215 <0,00050 <0,0010 <0,00050 <0,0010 1.15
+Promedio 19.9 6.28 10.0 0.16 <0,0010 0.0187 <0,0005 0.0042 0.0630 0.0259 <0,00050 <0,0010 <0,00050 0.0014 2
+Mediana 19.0 6.21 10.0 0.14 <0,0010 0.0086 <0,0005 0.0025 0.01 0.0147 <0,00050 <0,0010 <0,00050 0.0010 1.53
+Norma NCh.1333 NCh.1333 - DS 90 DS 148 DS 148 DS 148 DS 148 NCh. NCh. DS 148 DS 148 DS 148 DS 148 NCh.
+1333 1333 1333
+Límite 750 5.5-9 - 64 5 100 1 5 5 0.2 0.2 5 5 1 250
+Norma
+Fuente: Elaboración propia a partir de certificados de SPLP de AGQ Labs.
+================================================================================
+PAGE 11
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+3.3 Mineralogía
+Se realizó un barrido mineralógico bajo Tescan (TIMA) y DRX en el laboratorio SGS, para determinar la
+mineralogía de mena y ganga presente, información a partir de la cual se destacan los siguientes puntos
+graficados.
+Sulfuros y sulfatos
+Se detectan sólo trazas de sulfuros
+correspondientes a Marcasita. El
+laboratorio SGS, quien realizo la
+mineralogía, no especifica el tipo de
+sulfuro presente. Se destaca la
+escasa presencia de sulfuros y
+sulfatos en el sector, esto implica
+que el material naturalmente no
+tiene potencial de generar drenajes
+sulfatados o ácidos.
+Oxihidróxidos y óxidos de hierro
+Respecto a las fases minerales de
+óxidos e hidróxidos de hierro, se
+reportan una sumatoria de Óxidos
+de Fe, Cr, Ti y Mn, indicando
+goethita vía DRX, equivalentes a
+hidróxidos de Fe, en
+concentraciones bastante bajas.
+www.taypi-ghc.cl / 6
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 12
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Grupo de arcillas
+Las fases de arcillas principales en el
+mineral de cabezas son caolín,
+vermiculita del grupo de las
+esmectitas, e illita, detectadas por
+DRX, esta última, relevante en el
+proceso de intercambio catiónico.
+Minerales de REE
+Las fases minerales con REE
+identificadas son Monazite,
+Allanite-(Ce), Florencite-(La),
+Bastnasite, Xenotime-(Y), y
+Cheralite.
+www.taypi-ghc.cl / 7
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 13
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+4. CONCLUSIONES
+Los resultados del pH en Pasta presentan una media de pH 5.83, ligeramente ácido que cumple con lo
+establecido en la norma NCh. 1333 cuyo rango va desde 5.5 a 9. Existen algunos valores bajo el límite
+inferior de la norma, pero todos superior a pH 5. Considerando los resultados mineralógicos realizados
+por TIMA y DRX, se destaca la escasa presencia de sulfuros y sulfatos en el sector, esto implica que el
+material naturalmente no tiene potencial de generar drenajes sulfatados o ácidos.
+Respecto al test SPLP, acorde a los resultados de los análisis químicos del eluato (solución resultante
+de la agitación), se pudo comprobar que los materiales de cabezas que quedaran expuestos en las
+zonas de extracción, cumplirán con estabilidad química dado que las concentraciones en el eluato del
+SPLP en todos los analitos están bajo las concentraciones máximas permitidas por la norma de calidad
+de aguas D.S N°90 (SEGPRES, 2001) y NCh 1333 (INN, 1987), además de descartar su toxicidad
+extrínseca.
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11.626.035-2 17.209.178-4
+Máster profesional en hidrología subterránea Máster profesional en hidrología subterránea
+Magister en recursos hídricos
+www.taypi-ghc.cl / 8
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 14
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+5. ANEXOS
+Certificados de laboratorios
+www.taypi-ghc.cl / 9
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 15
+================================================================================
+MT-002
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+6. REFERENCIAS
+EPA, U. (1994). Method 1312: Synthetic Precipitation Leaching Procedure, part of Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods (SW-846), 3rd edition. Environmental
+Protection Agency, National Center for Environmental Publications, Cincinnati, OH 45268.
+https://www.epa.gov/hw-sw846/sw-846-test-method-1312-synthetic-precipitation-leaching-
+procedure
+INN, 1987. Norma Chilena Oficial NCh 1333/Of78 Modificada en 1987. Requisitos de calidad del agua
+para diferentes usos.
+MINSAL. (2003). Decreto Supremo No148 Aprueba Reglamento sanitario sobre manejo de residuos
+peligrosos.
+Decreto Supremo No 90. Establece norma de emisión para la regulación de contaminantes asociados a
+las descargas de residuos líquidos a aguas marinas y continentales superficiales. Ministerio
+Secretaria General de la Presidencia., (2001) (testimony of SEGPRES).
+SERNAGEOMIN, FCH, & Corfo. (2015). Guía Metodológica para la Estabilidad Química de Faenas e
+Instalaciones Mineras. Fundación Chile, Sernageomin, Corfo.
+http://www.sernageomin.cl/pdf/mineria/cierrefaena/GuiaMetodologicaQuimica.pdf
+www.taypi-ghc.cl / 10
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 16
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Documento: Memo Técnico 03
+Destinatarios: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Elaborado por: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Fecha: 27/02/2024
+Referencia: Caracterización geoquímica ambiental proyecto Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1. INTRODUCCIÓN
+El presente memo técnico resume los resultados de la caracterización geoquímica, realizada en el
+proyecto “Extracción de Arcillas para Producción de Concentrado de Tierras Raras”, como soporte
+técnico al Estudio de Impacto Ambiental ingresado al Sistema de Evaluación de Impacto Ambiental,
+donde es necesario evaluar y garantizar la estabilidad química de los residuos que conformara la zona
+de disposición (ZDD) que se genere debido a la explotación de las tierras raras (REE).
+ACLARA realizó durante el año 2023, muestreos en las unidades de extracción principales que
+corresponden a Granitos de granate (GG), Dioritas (DRT) y Metapelitas (MP) de las distintas Zonas de
+Extracción, cuyas muestras fueron divididas para recrear el proceso metalúrgico y obtener el respectivo
+residuo, o también denominado, arcilla procesada que serán dispuestas en la ZDD.
+Estas muestras se caracterizaron según las recomendaciones de la Guía de estabilidad química
+(SERNAGEOMIN et al., 2015), ejecutándose el test SPLP (EPA, 1994) el cual también es requerido en el
+Artículo 23 del DS 148 sobre residuos peligrosos (MINSAL, 2003).
+Objetivo
+Evaluar la estabilidad química del material que dará origen a los residuos que conformaran la zona de
+disposición de la arcilla procesada del proyecto “Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras”.
+2. DESARROLLO
+Se colectaron 20 muestras (más 1 duplicado) las cuales fueron sometidas al proceso de lixiviación,
+filtración y lavados, siendo estas muestras representativas del residuo que se generara a partir del
+proceso metalúrgico presentado en el proyecto para la extracción de tierras raras. Estas muestras
+forman parte de la caracterización geoquímica para estudio de estabilidad química ejecutándose el Test
+SPLP “Synthetic Precipitation Leaching Procedure” (EPA, 1994) sugerido en el Artículo 23 del DS148
+(MINSAL, 2003) y recomendado en la Guía Metodológica para la Estabilidad Química de Faenas e
+Instalaciones Mineras, (SERNAGEOMIN et al., 2015). Además de las concentraciones de As, Cr, Hg, Pb,
+Se, Ba, Cd y Ag requeridas por el DS 148, se hizo un barrido de metales traza, así como aniones y
+cationes mayoritarios.
+www.taypi-ghc.cl / 1
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 17
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+Los resultados del test SPLP se compararon también con los límites máximos permisibles de las normas
+de calidad de aguas DS 90 (SEGPRES, 2001) y NCh 1333 (INN, 1987).
+En la Tabla 2-1 se indica el ID y origen de las muestras.
+Tabla 2-1: Muestreo geoquímico “Extracción de Arcillas para Producción de Concentrado de Tierras Raras”,
+2023.
+ID ID X
+Y FRO
+N Origin Lab Certificado Analisis Drillhole TO Litología ZDE
+(Norte) M
+al Laboratorio (Este)
+LX-23/000545-
+M1 AQG SPLP
+VIN00 S2 SDVINPIL
+1 681188 5930908 0.5 17 GG VTN
+5-C 193962/2023- O005C
+M-15 ALS SPLP
+1.0
+LX-23/000546-
+M2 AQG SPLP
+MYT00 S2 SDMAIPIL
+2 680195 5928374 0 14 GG MYT
+4-A 193963/2023- O004A
+M-16 ALS SPLP
+1.0
+LX-23/000547-
+M3 AQG SPLP
+AXDP0 S2 SDAXDPIL
+3 682107 5930881 0 14 DRT AXDP
+10-C O010C
+193964/2023-
+M-17 ALS SPLP
+1.0
+LX-23/000548-
+M4 AQG SPLP
+VIS001 S2 SDVISPIL
+4 681228 5930091 0 8 GG VTS
+-F 193965/2023- O001F
+M-18 ALS SPLP
+1.0
+LX-23/000549-
+M5 AQG SPLP
+LUN00 S2 SDLUNPIL
+5 681539 5928697 0.4 20 GG LUN
+8-D O008D
+193966/2023-
+M-19 ALS SPLP
+1.0
+LX-23/000550-
+M6 AQG SPLP
+MYT00 S2 SDMAIPIL
+6 680285 5928185 0.7 14 DRT MYT
+3-A 193967/2023- O003A
+M-20 ALS SPLP
+1.0
+LX-23/000551-
+M7 AQG SPLP
+VIN00 S2 SDVINPIL
+7 681425 5931250 0 8 GG VTN
+6-F O006F
+193968/2023-
+M-21 ALS SPLP
+1.0
+LX-23/000552-
+M8 AQG SPLP
+VIS002 S2 SDVISPIL
+8 681059 5929906 0.4 11 GG VTS
+-Q 193969/2023- O002Q
+M-22 ALS SPLP
+1.0
+LX-23/000553-
+M9 AQG SPLP
+AXDO0 S2 SDAXDPIL
+9 682718 5930609 0 11.7 GG AXDO
+09-A 193970/2023- O009A
+M-23 ALS SPLP
+1.0
+LX-23/000554-
+M10 AQG SPLP
+VIS001 S2 SDVISPIL
+10 681223 5930093 0 8 GG VTS
+-N 193991/2023- O001N
+M-24 ALS SPLP
+1.0
+LX-23/000555-
+M11 AQG SPLP
+LUN00 S2 SDLUNPIL
+11 681650 5928883 0 11 GG LUN
+7-F 193992/2023- O007F
+M-25 ALS SPLP
+1.0
+LX-23/000556-
+M12 AQG SPLP
+LUN00 S2 SDLUNPIL
+12 681542 5928698 0 20 GG LUN
+8-B 193993/2023- O008B
+M-26 ALS SPLP
+1.0
+www.taypi-ghc.cl / 2
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 18
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+ID ID X
+Y FRO
+N Origin Lab Certificado Analisis Drillhole TO Litología ZDE
+(Norte) M
+al Laboratorio (Este)
+LX-23/000557-
+M13 AQG SPLP
+MYT00 S2 SDMAIPIL
+13 680286 5928186 0.1 14 DRT MYT
+3-E 193994/2023- O003E
+M-27 ALS SPLP
+1.0
+LX-23/000558-
+M14 AQG SPLP
+MYT00 S2 SDMAIPIL
+14 680197 5928371 0 14 MP MYT
+4-F O004F
+193995/2023-
+M-28 ALS SPLP
+1.0
+LX-23/000559-
+M15 AQG SPLP
+AXDO0 S2 SDAXDPIL
+15 682723 5930611 0 14 GG AXDO
+09-F 193996/2023- O009F
+M-29 ALS SPLP
+1.0
+LX-23/000560-
+M16 AQG SPLP
+AXDP0 S2 SDAXDPIL
+16 682108 5930883 0 14 DRT AXDP
+10-D O010D
+193997/2023-
+M-30 ALS SPLP
+1.0
+LX-23/000561-
+M17 AQG SPLP
+VIN00 S2 SDVINPIL
+17 681189 5930911 0.4 17 GG VTN
+5-E 193998/2023- O005E
+M-31 ALS SPLP
+1.0
+LX-23/000562-
+M18 AQG SPLP
+LUN00 S2 SDLUNPIL
+18 681647 5928885 0 11 GG LUN
+7-B 193999/2023- O007B
+M-32 ALS SPLP
+1.0
+LX-23/000563-
+M19 AQG SPLP
+VIS002 S2 SDVISPIL
+19 681050 5929896 0.7 11 GG VTS
+-B 194000/2023- O002B
+M-33 ALS SPLP
+1.0
+LX-23/000564-
+M20 AQG SPLP
+VIN00 S2 SDVINPIL
+20 681424 5931254 0.5 8 GG VTN
+6-D 194001/2023- O006D
+M-34 ALS SPLP
+1.0
+LX-23/000565-
+M21 AQG SPLP
+VIN00 S2 SDVINPIL
+21 681188 5930908 0.5 17 GG VTN
+5-C 194002/2023- O005C
+M-35 ALS SPLP
+1.0
+GG: Granitos de granate; DRT: Diorita; MT: Metapelitas
+Fuente: Elaboración Propia
+www.taypi-ghc.cl / 3
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 19
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+3. RESULTADOS
+En la Tabla 3-1 se presentan los resultados de los análisis del test SPLP de los elementos más relevantes
+y en el Anexo 1 se entregan los certificados de todos estos análisis realizados por los laboratorios AGQ
+y ALS.
+Se puede observar que las concentraciones de As, Cr, Hg, Pb, Se, Ba, Cd y Ag en el eluato (solución
+resultante de la agitación) del test SPLP, no hay evidencias de solubilización de estas especies, en todas
+las muestras, descartando toxicidad extrínseca acorde al DS 148.
+Las concentraciones en el eluato del SPLP de todos los analitos, incluso el sulfato y amonio que son
+agregados durante el proceso metalúrgico, están bajo las concentraciones máximas permitidas por la
+norma de calidad de aguas DS 90 (SEGPRES, 2001) y NCh 1333 (INN, 1987). El sulfato presenta una
+concentración promedio de 210 mg/l y una mediana de 225 mg/l, valores por debajo de la
+concentración máxima de 250 mg/l permitida por la NCh1333 mientras que el amonio tiene un
+promedio de 17 mg/l y una mediana de 17.4 mg/l, concentraciones bajo los 64 mg/l indicados como
+máximo según DS90 (equivalente a 50 mg/l de N Total Kjeldahl).
+www.taypi-ghc.cl / 4
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 20
+================================================================================
+Tabla 3-1 Resultados SPLP
+CE pH
+HCO - NH + As Ba Cd Cr Fe Mn Hg Ag Pb Se SO =
+3 4 4
+Muestra FILTRADA filtrado
+µS/cm U de pH mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l
+VIN005-C 425 6.78 <10 15 0.0006 0.0032 < 0.0003 0.0059 0.0973 0.0189 < 0.0001 < 0.0003 0.0091 < 0.0003 159
+MYT004-A 446 5.9 <10 23.1 < 0.0003 0.0066 < 0.0003 0.0017 0.0173 0.0085 < 0.0001 < 0.0003 0.001 < 0.0003 182
+AXDP010C 612 5.6 <10 23.2 0.0004 0.0056 < 0.0003 0.005 0.1083 0.0534 < 0.0001 < 0.0003 0.0006 0.001 245
+VIS001-F 556 5.79 <10 21.3 0.0006 0.003 < 0.0003 0.0063 0.0466 0.0062 < 0.0001 < 0.0003 < 0.0004 0.0003 226
+LUN 008 D 536 5.71 <10 18.4 0.0004 0.0058 < 0.0003 0.007 0.0229 0.0501 < 0.0001 < 0.0003 < 0.0004 < 0.0003 227
+MYT003A 489 7.58 10.3 9.41 0.0008 0.0064 < 0.0003 0.0058 0.0815 0.0176 < 0.0001 < 0.0003 < 0.0004 < 0.0003 202
+VIN006F 622 5.55 <10 21.8 0.0004 0.0092 < 0.0003 0.0052 0.1373 0.1747 < 0.0001 < 0.0003 < 0.0004 < 0.0003 259
+VIS002Q 388 5.45 <10 13.8 0.0003 0.006 < 0.0003 0.0058 0.1488 0.056 < 0.0001 < 0.0003 0.0016 < 0.0003 152
+AXD009A 410 5.33 <10 16.3 < 0.0003 0.0138 < 0.0003 0.002 0.2425 0.3105 < 0.0001 < 0.0003 < 0.0004 < 0.0003 163
+VIS001N 535 5.69 <10 19.5 0.0006 0.008 < 0.0003 0.0045 0.0185 0.025 < 0.0001 < 0.0003 0.0045 0.0003 228
+LUN007F 637 5.46 <10 26.2 0.0009 0.0036 < 0.0003 0.0062 0.0293 0.0173 < 0.0001 < 0.0003 0.0011 0.0004 257
+LUN008B 243 6.3 <10 9.01 0.001 0.0008 < 0.0003 0.0047 < 0.0060 0.0319 < 0.0001 < 0.0003 < 0.0004 0.0003 93.2
+MYT003E 583 5.53 <10 15.7 0.0006 0.0075 < 0.0003 0.0056 0.0085 0.0303 < 0.0001 < 0.0003 0.0077 < 0.0003 252
+MYT004F 364 5.72 <10 13.8 0.0008 0.0045 < 0.0003 0.0062 < 0.0060 0.0203 < 0.0001 < 0.0003 0.0025 0.0005 140
+AXDP0009F 520 5.93 <10 11.2 0.0005 0.0034 < 0.0003 0.0054 0.0375 0.0469 < 0.0001 < 0.0003 0.0008 < 0.0003 222
+AXDPO10D 625 6.65 <10 18.1 0.0006 0.0041 < 0.0003 0.006 0.0105 0.0027 < 0.0001 < 0.0003 0.0025 < 0.0003 271
+VIN005E 571 6.63 <10 18.9 0.0006 0.0057 < 0.0003 0.0064 0.0725 0.0305 < 0.0001 < 0.0003 0.0049 < 0.0003 225
+LUN007B 453 5.62 <10 13.8 < 0.0003 0.0092 < 0.0003 0.0011 0.0701 0.0404 < 0.0001 < 0.0003 0.0013 < 0.0003 177
+VIS002B 581 5.87 <10 17.4 0.0006 0.0064 < 0.0003 0.0063 0.0297 0.014 < 0.0001 < 0.0003 0.0025 < 0.0003 243
+VIN006D 652 5.17 <10 17.7 0.0007 0.0063 < 0.0003 0.0053 0.0266 0.1191 < 0.0001 < 0.0003 0.0027 < 0.0003 277
+VIN005-C 541 5.9 <10 13.1 0.0009 0.0032 < 0.0003 0.0058 0.0106 0.0075 < 0.0001 < 0.0003 0.0053 < 0.0003 220
+Promedio 514 5.91 <10 17.0 0.0006 0.0059 < 0.0003 0.0052 0.0560 0.0532 < 0.0001 < 0.0003 0.0020 < 0.0003 210
+Mediana 536 5.72 <10 17.4 0.0006 0.0059 < 0.0003 0.0058 0.0295 0.0304 < 0.0001 < 0.0003 0.0012 < 0.0003 225
+DS NCh. NCh. NCh.
+Norma NCh1333 NCh1333 - DS 148 DS 148 DS 148 DS 148 DS 148 DS 148 DS 148 DS 148
+90 1333 1333 1333
+Límite 750 5.5-9 - 64 5 100 1 5 5 0.2 0.2 5 5 1 250
+Fuente: Elaboración propia a partir de certificados de SPLP de AGQ Labs y ALS.
+================================================================================
+PAGE 21
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+4. CONCLUSIONES
+Se realizaron a 20 muestras de residuos (más 1 duplicado) el test de tipo SPLP. Acorde a los resultados
+de los análisis químicos del eluato (solución resultante de la agitación), se pudo comprobar que los
+residuos que conformarán la zona de disposición cumplirán con estabilidad química debido a las bajas
+concentraciones, incluso algunas de ellas bajo el límite de detección, de As, Cr, Hg, Pb, Se, Ba, Cd y Ag.
+Estos elementos no evidenciarían la solubilización de estas especies en todas las muestras, descartando
+toxicidad extrínseca acorde al DS 148.
+Las concentraciones en el eluato del SPLP en todos los analitos están bajo las concentraciones máximas
+permitidas por la norma de calidad de aguas DS 90 (SEGPRES, 2001) y NCh 1333 (INN, 1987),
+cumpliendo, por tanto, con todas las normativas vigentes con respecto a la estabilidad química de
+las posibles aguas de contacto con los residuos de la zona de disposición.
+Por su parte, las arcillas tratadas n otiene n característica s deradioactivid a d ,to da vez q ue,las
+arcillas en su estadon aturalh ans idoa nalizadasp orla sC omisiónCh ilenade En ergíaNu clear (CCHEN
+),comose hapr ese nta doenlosce rtif icad osdeanális isq uímicos (verApén dice 10-3.4).
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11.626.035-2 17.209.178-4
+Máster profesional en hidrología subterránea Máster profesional en hidrología subterránea
+Magister en recursos hídricos
+www.taypi-ghc.cl / 6
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 22
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+5. ANEXOS
+Certificados de test SPLP laboratorios
+www.taypi-ghc.cl / 7
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321
+================================================================================
+PAGE 23
+================================================================================
+MT-003
+Proyecto “Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Versión 0
+GeoHidroConsultores
+6. REFERENCIAS
+EPA, U. (1994). Method 1312: Synthetic Precipitation Leaching Procedure, part of Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods (SW-846), 3rd edition. Environmental
+Protection Agency, National Center for Environmental Publications, Cincinnati, OH 45268.
+https://www.epa.gov/hw-sw846/sw-846-test-method-1312-synthetic-precipitation-leaching-
+procedure
+INN, 1987. Norma Chilena Oficial NCh 1333/Of78 Modificada en 1987. Requisitos de calidad del agua
+para diferentes usos.
+MINSAL. (2003). Decreto Supremo No148 Aprueba Reglamento sanitario sobre manejo de residuos
+peligrosos.
+Decreto Supremo No 90. Establece norma de emisión para la regulación de contaminantes asociados a
+las descargas de residuos líquidos a aguas marinas y continentales superficiales. Ministerio
+Secretaria General de la Presidencia., (2001) (testimony of SEGPRES).
+SERNAGEOMIN, FCH, & Corfo. (2015). Guía Metodológica para la Estabilidad Química de Faenas e
+Instalaciones Mineras. Fundación Chile, Sernageomin, Corfo.
+http://www.sernageomin.cl/pdf/mineria/cierrefaena/GuiaMetodologicaQuimica.pdf
+www.taypi-ghc.cl / 8
+La Concepción 81 Of. 213. Providencia +56 9 3910 5321

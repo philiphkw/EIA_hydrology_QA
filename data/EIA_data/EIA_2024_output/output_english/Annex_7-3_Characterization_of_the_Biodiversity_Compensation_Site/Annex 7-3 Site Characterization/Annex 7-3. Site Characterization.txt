@@ -1,0 +1,1569 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 7-3
+Site Characterization
+Biodiversity Offset
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ........................................................................................................................... 1-4
+2 Objectives ................................................................................................................................... 2-5
+3 Justification of compensation measures and proposed compensation site ................................... 3-5
+4 Characterization Methodology ................................................................................................... 4-8
+4.1 Sampling points of the Fauna component ................................................................................... 4-9
+4.2 Sampling points of the Flora and vegetation component ................................................... 4-9
+5 Results ........................................................................................................................... 5-10
+5.1 Vertebrate Animals (wildlife) ................................................................................... 5-10
+5.1.1 Species of interest and/or sensitive in the project area ................................................... 5-13
+5.2 Vegetation ................................................................................................................................... 5-18
+5.3 Flora ................................................................................................................................... 5-20
+5.3.1 Phytogeographic Origin and Growth Habit ................................................................... 5-33
+5.3.2 Conservation Status of the Flora ................................................................................................... 5-34
+5.3.3 Tree or shrub species native to the country ........................................................... 5-34
+6 Conclusions ........................................................................................................................... 6-35
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 4-1. Synthesis of the sampling techniques applied by environment and their total efforts during the
+total campaigns in the area of influence of the project ................................................................................... 4-9
+Table 4-2. Number of flora and vegetation sampling points per campaign ................................................... 4-10
+Table 5-3. Wildlife species recorded in the compensation area ................................................... 5-11
+Table 5-4. Summary of the species of interest and/or sensitive for the area of influence of the project... 5-14
+Table 5-1. Land and surface use (ha) at the compensation site ................................................................... 5-18
+Table 5-2. Vegetation formations and surface area (ha) of the compensation site ........................................... 5-19
+Table 5-5. Floristic catalog present at the Compensation Site ................................................................... 5-21
+Table 5-6. Number of species by Division and Taxonomic Class at the Compensation Site ............. 5-31
+Table 5-7. Families in the area of influence ........................................................................................................... 5-31
+Table 5-8. Phytogeographic origin of the recorded vascular flora
+at the clearing site ............. 5-33
+Table 5-9. Growth habit of vascular flora recorded at the compensation site ............. 5-33
+Table 5-10. Species in conservation category registered in the Area of Influence ................................... 5-34
+Table 5-11. Native tree or shrub species present in the Area of Influence ........................... 5-35
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 3-1. Location of compensation sites and Project works ........................................... 3-8
+Figure 5-1 Vegetation formations of the biodiversity compensation site ........................................... 5-19
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+According to the results of the impact evaluation (Chapter 4 of the EIA), it is recognized as an impact
+significant in protection objects associated with biodiversity, specifically in the component
+flora and vegetation, vertebrate fauna and invertebrate fauna (arthropods).
+Chapter 7 details the proposed mitigation, repair and compensation measures. Regarding
+the latter, the compensation measures are associated with the “residual impact” which is recognized
+as the one that can be neither mitigated nor compensated. In the case of the flora component, the measurement of
+proposed mitigation only responds to the impact of loss of Citronella mucronata, therefore, as
+residual impact is considered the loss of Asplenium trilobum, Gardoquia multiflora and Vestia foetida
+(search and rescue of individuals before the intervention, 51 and 248 specimens, of Gardoquia multiflora
+and Vestia foetida and what is possible to record of Asplenium trilobum, understanding that the records of the
+ldb are probably not present at the time of the measurement).
+Regarding the loss of habitat for terrestrial fauna, it was significant for the Eupsophus species
+roseus (Amphibious), Liolaemus schroederi (Reptile), Dromiciops gliroides (Micromammal) Pudu puda
+(mesomammals), Puma concolor (mesomammals), Leopardus guigna (mesomammals). Although the
+surface to be intervened by the Project is 150.17 hectares, of these 103.02 hectares correspond to
+forest plantations, which is subject to cycles of clear felling and, therefore, there will be this loss of habitat
+in the future with or without a project. Considering the above, only 47.15 hectares correspond to the impact
+residual habitat loss for fauna. Regarding invertebrate fauna and its significant impact,
+It is indicated that mitigation measures will be applied, therefore, it is not pertinent to present mitigation measures.
+compensation.
+Offset measures must meet a biodiversity offset standard
+appropriate, considering:
+• Equivalence requirement: Refers to the fundamental objective of appropriate compensation, which
+seeks to ensure that the elements of biodiversity affected by a project or activity are
+compensated on the ground by elements of similar characteristics, class, nature, quality and
+function.
+• Additionality: Refers to the biodiversity gain obtained in the scenario with
+compensation, compared to the scenario without compensation. This means checking that the
+gain in biodiversity produced by the compensation measure would not have occurred in
+absence of the measure, as well as verifying that the implementation of the compensation measure
+does not cause adverse impacts, such as the displacement of activities that generate losses
+of biodiversity to other sectors.
+1-4
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Ra Earth Concentrate
+ras
+To comply with the two previous concepts, 2 measures are presented, which are detailed in the
+Chapter 7 of the EIA and are briefly indicated below
+MC-03: Germplasm Collection, Nursery and Replanting of Individuals of Vestia foetida, Gardoquia
+multiflora and Asplenium trilobum. This measure aims to compensate for the loss of flora in the category
+of conservation resulting from the implementation of the parts, works and actions of the project. The species
+to be considered in this measure correspond to those whose loss turned out to be a significant impact.
+The measure seeks to compensate the intervention of the three (3) species in the conservation category (Vestia
+foetida, Gardoquia multiflora and Asplenium trilobum), replanting an amount ten times greater than the
+cut due to the development of the Project, contributing to the increase in the number of individuals of
+species in conservation category (ECC). This planting will be carried out in the enrichment sites
+described for the measure, specifically in the sector of a stream located northeast of the area of
+influence, which aim to generate a new surface of native forest (BN) and/or native forest of
+preservation (BNP).
+MC-05 Protection of areas surrounding the project. The objective of the measure is to ensure the existence of
+patches of native and exotic vegetation, which as a whole and with a specific spatial distribution,
+allow the persistence of populations of the target species. The measure focuses mainly
+in the species: Pudu puda (pudú), Leopardus guigna (güiña) and Puma concolor (puma). However, it
+considers that the measure will benefit a larger group of species by allowing the permanence of habitat
+for these. This measure will be effective in 90.66 hectares.
+The site of the flora and vegetation compensation measure is located within the site of
+wildlife habitat protection compensation. The document below presents a brief
+description of the compensation site, focused on the protection objects that are sought to be compensated, is
+say vertebrate flora and fauna. The characterization of the compensation sites is considered
+standard requested by the Methodological Guide for Biodiversity Compensation in Terrestrial Ecosystems
+and Continental Aquatics (SEA, 2023).
+2 OBJECTIVES
+The objective of this report is to identify the presence of environmental singularities that represent
+critical variables for the flora and vegetation and fauna component in relation to the compensation site
+in biodiversity proposed.
+3 JUSTIFICATION OF COMPENSATION MEASURES AND PLACE OF
+PROPOSED COMPENSATION
+From a flora and vegetation point of view, the justification of the measure refers to compensating the species
+in a conservation category whose affectation corresponds to a significant impact, replanting a
+3-5
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+amount ten times greater than that cut due to the development of the Project, contributing to the increase in
+number of ECC individuals.
+Additionally, through the measure, environments with the presence of species in the category of
+conservation, specifically native preservation forest with the presence of Gomortega keule,
+Pitavia punctata and Citronella mucronata. These plant units are highly fragmented
+due to the historical intervention of the sector (forest plantations, industries, fires, among others),
+Furthermore, due to the low percentage of protection they present at the local and regional level, which is why their
+Conservation is of vital importance to ensure its continuity.
+Additionally, this measure is in line with the Queule Recovery, Conservation and Management Plan
+(Gomortega keule), which has been promulgated by the Ministry of the Environment (MMA), through
+Exempt Resolution No. 1,367 of December 9, 2020. Within the plan, the following are considered:
+lines of action that are consistent with the proposed measure:
+• Strengthening the evaluation and protection of the species in the SEIA
+• Design and implementation of a restoration and protection program for the Queule
+• Increase in public or p protected areas
+private and incorporation into territorial regulations
+• Promotion and development of research for monitoring the species and its habitats
+Regarding the fauna measure, this is based on the fact that those forest plantations that have
+Certain characteristics – such as the presence of undergrowth – are capable of becoming habitat for
+species of native mammals such as Pudu puda, Leopardus guigna, Galictis cuja, among others (Simonetti
+et al 20131). This proposal follows the idea of designing policies that promote environmentally friendly practices.
+biodiversity on productive lands (Fisher et al 20082), in line with the Aichi Targets indicated by the
+Convention on Biological Diversity in 2010.
+The use that various groups of terrestrial vertebrates make of forest plantations has been
+widely documented (Simonetti et al 2013, Estades et al 20123, Acosta-Jamett and Simonetti 20044,
+Estades 19995), and its persistence in this habitat would depend, among other factors, on the composition
+landscape scale, for example, the distance between habitat patches, the existence of biological corridors
+and absence of elements that limit connectivity (e.g. Acuña and Estades, 20116).
+1 Simonetti, J., Grez, A. and Estades, C. 2013. Providing habitat for native mammals through understory enhances in forestry
+plantations. Cons Biol 27(5):1117-1121
+2 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J and Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+3 Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. In: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. University Publishing, Santiago; 2012. pp.
+77–98
+4 Acosta-Jamett and Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+5 Estades, C. 1999. Bird nesting in a mature stand of Pinus radiata. Bowl Chil Ornit 6:35-38
+6 Acuña, P. and Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+3-6
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In this way, based on the vast literature available on this topic, it is understood that there are
+certain key characteristics for the existence of good quality habitat – at a landscape scale
+– for forest species. These characteristics are summarized according to Arroyo-Rodríguez et al (2020)7, a
+broad strokes, in the maintenance of ≥ 40% forest cover, organized in at least 10% in
+a large patch and the remaining 30% in various scattered patches and corridors, also being surrounded by
+an anthropogenic matrix friendly to biodiversity.
+It is this theoretical-practical framework that gives justification to this measure, which seeks to approximate these
+standards for designing a landscape that allows the persistence of the target species in the area.
+On the other hand, the presence of meso- and macromammal species distributed throughout the area of
+influence of the Project emphasizes the need to include this approach at the landscape level rather than a
+directed at particular sites.
+It is necessary to specify that the fauna habitat is dominated by forest plantations, therefore,
+is a habitat that is subject to cycles of clear-cutting and that, within a period of time, there will be a
+loss of that habitat due to the harvest of forest plantations.
+Added to all the above, this measure provides continuity to present biological corridors.
+in the area of influence, which correspond mainly to native forest streams, patches of
+forest plantations, water courses or floods present in the area.
+The proposed compensation site has an area of 90.80 hectares, which is shown in the
+following figure.
+7 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation.
+Ecology Letters
+23:1404-1420
+3-7
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 3-1. Location of compensation sites and Project works
+Source: GAC
+4 CHARACTERIZATION METHODOLOGY
+The methodology for characterization of the compensation sites corresponds to the same methodology of
+characterization of fauna, flora and vegetation carried out for the baseline campaigns. Specifically
+Those mentioned below were carried out, if you need to see the details of the methodology, review
+Chapter 3 of the EIA.
+terrestrial fauna
+• Transects
+• Observation points
+• Camera traps
+Flora and vegetation
+• Forest inventory plots
+4-8
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Braun Blanquet method
+• Observation points
+It is necessary to clarify that the limits of the proposed compensation site are related to streams with
+natural vegetation and surface of surrounding unharvested forest plantations. In some cases the
+sampling points used are not located within the compensation site itself, but
+if they are found within the same vegetation formation that will be used for compensation,
+being equally representative.
+4.1 Sampling points of the Fauna component
+A total of 10 fauna sampling points (PMF) were carried out. In each of these,
+different methodologies, such as: transects, specific stations for birds and directed search for
+the detection of amphibians, reptiles, birds and mammals (PMF Type 1: points where the techniques were applied
+standard for different taxa). The methods of camera traps, Sherman traps, playback and
+ultrasound detector were implemented in seven of the PMF (PMF Type 2: points where
+apart from standard techniques, complementary techniques). Information was also obtained from cameras
+trap installed at a site between February and July 2023.
+Table 4-1. Synthesis of the sampling techniques applied by environment and their total efforts during the total of
+campaigns in the project's area of influence
+Methodology
+Environment TA TR TM EA PBav Pban CT TS BD BuD
+Forest - - - - - - 1 -- - -
+Thicket - - - - - - - - - -
+Modified 5 5 5 5 5 5 6 5 5 5
+Plantation 5 5 5 5 - - - - - 5
+TA: Amphibian transect, TR: Reptile transect, TM: Mammal transect, EA: Bird station, PBav: Playback nocturnal birds of prey, PBan:
+Amphibian playback, CT: Camera trap, TS: Sherman trap, BD: Bat detector, BuD: Directed search.
+Source: GAC
+4.2 Sampling points of the Flora and vegetation component
+A total of 56 sampling points were carried out at the compensation site and its surrounding sectors.
+flora and vegetation, as indicated in Table 4-2. The characterizations were carried out during the year 2022 and
+2023. Appendix 7.3-2 includes the databases of the sampling carried out in the site area.
+where the geographical coordinates of these points are included.
+4-9
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 4-2. Number of flora and vegetation sampling points per campaign
+No. of points
+Campaign Campaign date
+made
+Fall 2022 May 30 and June 4 9
+Winter 2022 August 22 and 27 9
+Spring 2022 November 21-25 17
+January 9 and 13 9
+Summer 2023
+January 23 2
+Spring 2023 September 25-29 11
+Source: GAC
+5 RESULTS
+5.1 Vertebrate Animals (wildlife)
+The following table shows the species of wildlife recorded in the characterization of the area.
+of compensation. 33 species of wildlife were identified: one (1) reptile, twenty
+seven (27) birds and three
+(3) mammals.
+5-10
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-1. Wildlife species registered in the compensation area
+Class Order Family Scientific name Common name EC RCE Decree OB M EM B S E
+Liolaemus Lizard by D.S.
+Reptilia Squamata Liolaemidae VU 12° E B R - S E
+schroederi Schröeder 16/2016
+Geranoaetus
+Birds Accipitriformes Accipitridae Harrier - - - N A R B - E
+polyosoma
+Passeriformes Birds Tyrannidae Anairetes parulus Cachudito - - - N A R B - E
+Piciformes Birds Picidae Picoides lignarus Woodpecker - - - N A R B S -
+Passeriformes Birds Troglodytidae Troglodytes aedon Chercán - - - N A R B - E
+Zonotrichia
+Passeriformes Birds Emberizidae Chincol - - - N A R B - -
+capensis
+Scelorchilus D.S.
+Passeriformes Birds Rhinocryptidae Chucao LC 14° N A R B - -
+rubecola N°79/2018
+Birds Strigiformes Strigidae Glaudicium nana Chuncho - - - N A R B - E
+Churrin of the
+Passeriformes Birds Rhinocryptidae Eugralla paradoxa - - - N A R B - -
+mocha
+Birds Passeriformes Rhinocryptidae Scytalopus fuscus Northern Churrín - - - E A R B - -
+Scytalopus
+Birds Passeriformes Rhinocryptidae Southern Churrín - - - N A R B - -
+magellanicus
+Pygarrhichas
+Passeriformes Birds Furnariidae Large Grasshopper - - - N A R B - -
+albogularis
+Phrygilus Cometocine
+Passeriformes Birds Thraupidae - - - N A R - - E
+patagonian patagonicus
+Passeriformes Birds Tyrannidae Xolmis pyrope Diucón - - - N A MDTN B - E
+Birds Passeriformes Tyrannidae Elaenia albiceps Fío fío - - - N A MFTN B - E
+Seagull
+Birds Charadriiformes Laridae Larus dominicanus - - - N A R - - E
+dominican
+Swallow R and
+Passerine Birds Hirundinidae Tachycineta meyeni - - - N A B - E
+Chilean MDTN
+R and Pygochelidon Swallow
+Passeriformes Birds Hirundinidae - - - N A B - E
+black-backed cyanoleuca MDTN
+Pteroptochos Hued hued
+Passeriformes Birds Rhinocryptidae - - - N A R B S -
+chestnut castaneus
+D.S.
+Birds Passeriformes Rhinocryptidae Pteroptochos tarnii Southern Hued LC 14° N A R B - -
+N°79/2018
+Birds Passeriformes Fringillinae Spinus barbata Goldfinch - - - N A R - - -
+5-11
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Class Order Family Scientific name Common name EC RCE Decree OB M EM B S E
+Head screw
+Birds Cathartiformes Cathartidae Cathartes aura - - - N A R B - -
+red
+Head screw
+Birds Cathartiformes Cathartidae Coragyps atratus - - - N A R B - -
+black
+Aphrastura
+Passeriformes Birds Furnariidae Striped - - - N A R B - -
+spinicauda
+Patagioenas D.S.
+Columbiformes Birds Columbidae Wood Dove LC 12° N A R - S -
+araucana N°16/2016
+Birds Passeriformes Icteridae Curaeus curaeus Thrush - - - N A R - - -
+Colorhamphus
+Passeriformes Birds Tyrannidae Widow - - - N A MDTN B - E
+parvirostris
+Passerine Birds Turdidae Turdus flacklandii Thrush - - - N A R - - -
+Mammalia Rodentia Cricetidae Abrothrix olivaceus Olive mouse - - - N B R - - E
+D.S.
+Mammalia Artiodactyla Cervidae Pudu pudu Pudú VU 1° N A R - S -
+N°151/2007
+D.S.
+Mammalia Carnivora Felidae Leopardus guigna Güiña VU 7° N A R B S E
+N°42/2011
+Dromiciops Monito of the D.S.
+Mammalia Microbiotheria Microbiotheridae NT 7° N B R B S -
+gliroids Monte N°42/2011
+Tadarida Tailed Bat D.S.
+Mammalia Chiroptera Molossidae LC 13° N A M B - -
+mouse brasiliensis N°06/2017
+EC: Conservation status, RCE: Regulation for the classification of wild species, NT: Near threatened, DD: Data deficient, LC: Least concern, VU: Vulnerable.
+OB: Biogeographic origin, M: Mobility, A: High mobility, B: Low mobility. EM: Immigration status, R: Resident; MDTN: Migration within the national territory; MFTN: Immigration
+outside the national territory; M: Migratory.BSE= B: species cataloged as beneficial for forestry and agricultural activity, S: species cataloged with population densities
+reduced, E: species classified as beneficial for maintaining the balance of natural ecosystems.
+Source: GAC
+5-12
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+5.1.1 Species of interest and/or sensitive in the project area
+Of the total number of species recorded in the 10 sampling sites in total, 12 have been considered as
+species of interest and/or sensitive in the baseline of terrestrial vertebrate fauna. Of these, four
+correspond to species of interest (one reptile and three mammals) and 12 are sensitive species: one (1) reptile,
+seven (7) birds and four (4) mammals. Below are the species that are included within
+these categories:
+Four (4) species of interest were recorded, that is, those that are in the conservation category.
+according to national legislation, being considered in the threat category including those almost
+threatened. Below is the detail of the species of interest registered for each class:
+• In the group of reptiles, there is L. schroderi (Schröeder's lizard), classified as
+“Vulnerable” according to the twelfth process of the species classification regulations (D.S.
+Nº16/2016 MMA.
+• In the group of mammals, there is P. puda (pudú), a species classified as “Vulnerable”
+according to the first species classification process (D.S. Nº151/2007 MINSEGPRES). In the case
+of the güiña (L. guigna) and monito del monte (D. gliroides) are found in the state of
+Vulnerable and Near Threatened conservation according to the 7th classification process of
+species (D.S: N°42/2011 of the MMA).
+On the other hand, 12 sensitive species were recorded, which correspond to those that, whether or not
+of interest, may be affected due to the relationship between the type of Project and its
+specific construction and operation characteristics. Below is the details of the species
+sensitive registered for each class:
+• In the group of reptiles, the species L. schroederi, due to its low mobility and, therefore, a
+low natural escape capacity in response to intervention activities in their habitats.
+• Species that are considered species of birds were included as sensitive in the group of birds.
+medium to large scale due to the risk of collision and mainly electrocution with the
+medium voltage line considered within the Project works. They are found in this
+category: C. aura, C. atratus, G. nana, G polyosoma, L. dominicanus, P. araucana and V. lignarius.
+• The group of mammals, two micromammals are considered, the olive mouse (A. olivaceus) and
+monito del monte (D. gliroides), due to its low mobility and, therefore, a low capacity
+effective natural escape from disturbances in their habitats. With respect to mesomammals,
+pudú (P. puda) and güiña (L. guigna) are considered species potentially susceptible to
+accidents
+Details of the species of interest and/or sensitive species are listed below in Table 5-2:
+5-13
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-2. Summary of the species of interest and/or sensitive for the area of influence of the project
+Species of interest Sensitive species
+In the Risk category
+Class Low category Specialist Risk of
+of no Total electrocution with
+threat habitat mobility run over
+LTE threat
+Amphibia 0 0 0 0 0 0 0
+Reptilia 1 0 1 1 0 0 0
+Birds 0 3 3 0 0 7 0
+Mammalia 1 2 3 2 2 0 2
+TOTAL 3 5 8 3 2 7 2
+*LTE: electrical transmission line
+Source: GAC
+5.1.1.1 Description of the registered species of interest and/or sensitive species
+Below, a description is indicated for each species of interest and/or sensitive, based on the
+bibliography available for each one, which allows weighing the relevance of the findings made.
+a) Liolaemus schroederi
+Schröeder's lizard (Liolaemus schroederi) is a species of reptile in the family Liolamidae.
+considered endemic to the country. Its distribution goes from the Metropolitan region to the region of
+Araucanía, among
+s 200 and 2,600 m.a.s.l. It lives mainly in forests and bushes, very shy.
+to human presence. Of insectivorous habits and viviparous reproduction (Demangel 2016, Mella 2017).
+At the local level it is classified as “Vulnerable” according to D.S. N°16/2016 of the Ministry of the Environment
+Environment. According to the IUCN classification, it does not present a threat category as it is classified as
+“Least concern” (Avilés 2016b).
+Its international conservation status is “Least Concern” according to IUCN (BirdLife International).
+2023). In Chile it is not classified according to the criteria of the Hunting Law or RCE, so it does not present
+conservation category according to current national regulations.
+b) Cathartes aura
+The red-headed jote (Cathartes aura) is a species of bird belonging to the order Cathartiformes.
+and family Cathartidae. It is distributed from Arica to Magallanes, from sea level to 2,500
+m.s.n.m. It feeds on carrion and can rarely kill its prey. It reproduces between
+months of September and October, with a lay of 1-2 white eggs with red spots.
+At a global level it is considered in the “Least Concern” category (BirdLife International 2018a), in Chile
+It is not classified according to the criteria of the Hunting Law or RCE.
+5-14
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+c) Coragyps atratus
+The black-headed jote (Coragyps atratus) is a species of bird belonging to the order Cathartiformes.
+and family Cathartidae. It is distributed from Arica to Aysén, from sea level to 2,000 m a.s.l. If
+feeds on carrion and in groups. It reproduces between the months of September and October, with a posture
+of 2 white eggs with red spots.
+At a global level it is considered in the “Least Concern” category (BirdLife International 2016b), in Chile
+It is not classified according to the criteria of the Hunting Law or RCE.
+d) Geranoaetus polyosoma
+The harrier (Geranoaetus polyosoma), is a species of bird belonging to the order Accipitriformes and
+family Accipitridae. It is distributed from Venezuela to Chile and Argentina. In Chile from the region of
+Arica and Parinacota to the Magallanes region (Tierra del Fuego) from sea level to 4,500
+m.s.n.m. (Muñoz et al. 2004). Its feeding is adaptable and opportunistic, capturing mainly
+rodents, also small rabbits and birds. It begins to reproduce at 4 or 5 years, its breeding period
+Reproduction is very variable depending on its location, it builds nests on trees, bushes, cacti or in
+crags, laying one to three eggs. Incubation lasts 28 days, with the male and female incubating
+(Muñoz et al. 2004).
+At the local level it is not evaluated so it does not present any conservation category according to the
+current regulations, however, it is classified as a beneficial species for the activity
+silvoagropecuaria (B) and as beneficial for maintaining the balance of natural ecosystems (E).
+At a global level it is classified as “Least Concern” (BirdLife International 2016c).
+e) Glaucidium nana
+The chuncho (Glaucidium nana) is a species of native bird belonging to the order Strigiformes and family
+Strigidae. In Chile it is distributed from the Atacama region to the Magallanes region (Tierra del
+Fire) from sea level to 2,000 meters above sea level. (Martínez and González 2017). Wide range of
+environments, including bushes, coast, forests, thorns, parks and gardens. It is a bird of prey, capable of
+hunt small prey such as birds, mammals and reptiles, and even insects (Martínez and González 2017).
+At the local level it is not evaluated so it does not present any conservation category according to the
+current regulations, however, it is classified as a beneficial species for the activity
+silvoagropecuaria (B) and as beneficial for maintaining the balance of natural ecosystems (E).
+At a global level it is classified as “Least Concern” (BirdLife International 2016d).
+f) Larus dominicanus
+The Dominican gull (Larus dominicanus) is a bird native to Chile belonging to the order
+Charadriiformes and the family Laridae. It is a bird with a wide distribution
+throughout Chile, covering from
+5-15
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+the Arica - Parinacota region to Cape Horn. It lives along the entire Chilean coast and towards the
+interior of rivers. Their diet is based on fish, shellfish and crustaceans; in places where the seagulls
+Dominicans cohabit with humans has become omnivorous, feeding on waste
+food, in addition to this there are times that chicks and eggs neglected by their parents become
+form part of the diet of this bird. Their preferred nesting site is flat areas on islands.
+rocky or coastal cliffs, there are also times that they nest on the roofs of coastal buildings. By
+Clutch lays 2 to 3 greenish-cream eggs with black spots.
+Its international conservation status is “Least Concern” according to IUCN (BirdLife International).
+2018b) and in Chile it is not classified according to the criteria of the Hunting Law or RCE.
+g) Patagioenas araucana
+The pigeon dove (Patagioenas araucana) is a species of native bird belonging to the order Columbiformes and
+family Columbidae. In Chile it is distributed from the Atacama region to the Magallanes region
+(Couve et al; 2016). Its environment is associated with wooded or wooded areas, also on forest edges and
+cultivated areas. It is a bird closely linked to the history of Chile and pre-Columbian, this bird was greatly affected
+due to an emerging disease that had it on the brink of extinction. It feeds on fruits and berries, usually
+nest between December and May, the lay only consists of a white egg (online consultation at
+Birds of Chile).
+At the local level it is not evaluated so it does not present any conservation category according to the
+current regulations, however, it is classified as a beneficial species for the activity
+silvoagropecuaria (B) and as beneficial for maintaining the balance of natural ecosystems (E).
+At a global level it is classified as “Least Concern” (BirdLife International 2016f).
+h) Veniliornis lignarius
+The woodpecker (Veniliornis lignarius) is a species of native bird, belonging to the order Piciforme and to the
+family Picidae. In Chile it is distributed from the Coquimbo Region to the Magallanes Region. Usually
+found in scattered trees, in meadows, slopes of hills, orchards, plantations and wooded areas.
+Its diet is based mainly on worms, larvae and insects that it looks for between cracks in trunks or
+drilling rotten trees. It begins to nest in October in the central provinces and towards summer
+In the rainy areas of the south, their nests are made by making holes in trees or thick branches which
+They fill with sawdust and small branches, laying 3 to 4 white, shiny, elongated eggs per clutch.
+Its international conservation status is “Least Concern” according to IUCN (BirdLife International).
+2016i.). In Chile it is not classified by the RCE, however, it is considered with densities
+reduced population (S) in accordance with the SAG protection criteria.
+5-16
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+i) Abrothrix olivaceus
+The olive mouse (Abrothrix olivaceus) is a species of mammal belonging to the order Rodentia and
+family Cricetidae. In Chile it is distributed from the region of Arica and Parinacota (northern border with Peru) to
+the Magallanes region (Tierra del Fuego), from sea level to 2,500 meters above sea level. (Iriarte 2008).
+It inhabits diverse environments, from grassland and scrubland areas to humid forests and scrublands.
+Its activity is preferably nocturnal twilight (Muñoz and Yáñez 2009). It plays between
+September and April, produces 3 litters of 4 to 6 young, usually builds simple galleries for its
+reproduction. Its diet is omnivorous and it consumes a wide variety of foods (Iriarte 2008).
+At the local level it is not found
+evaluated, so it does not present any conservation category according to the
+current regulations, however, it is classified as a beneficial species for the maintenance
+of the balance of natural ecosystems (E). Globally it is classified as “Least Concern”
+(Patterson 2017).
+j) Dromiciops bozinovici
+The Pancho mountain monkey (Dromiciops bozinovici), is a species of marsupial native to the country of
+order Microbiotheria and the family Microbiotheriidae. It is distributed from the Biobío region to the
+Araucanía region. It mainly inhabits forests dominated by coihues with quila scrub,
+in addition to trees such as boldo, lingue and olivillo (D’Elia et al. 2018).
+Due to the recent separation of this species from its peer D. gliroides, the species D. bozinovici has not been
+classified by the latest species classification processes of the Ministry of the Environment, by
+This and for this report, the classification for D. gliroides is considered, which is locally found
+evaluated as “Near Threatened” according to D.S. No. 42/2011 of the MMA. At a global level it is classified as
+“Almost threatened” (Martin et al. 2015).
+k) Leopardus guigna
+The güiña (Leopardus guigna) is a species of the order Carnivora and the family Felidae. Its distribution in
+Chile is specified between the regions of Coquimbo to Aysén, it is described as a solitary species or in
+couples during mating season, day and night behaviors and climbing habits. You will
+It is found in mountainous environments, humid and temperate forests, scrubland, savanna and near
+human settlements, from sea level to the limits of vegetation between 1,900 and 2,500
+m.s.n.m. It is carnivorous and feeds on live prey, small mammals, birds and domestic species.
+It builds nests on trees, it has 1 to 5 young that it deposits on them. At a global level it is classified
+as “Vulnerable (VU)” by the IUCN and in Chile it is classified by the RCE as “Vulnerable (VU)” of Los Ríos
+to the north and as “Near Threatened (NT)” from Los Lagos to the south.
+5-17
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+l) Pudu puda
+The pudú (Pudu puda) is a native species of the order Artiodactyla and the family Cervidae, the largest deer.
+small from Chile. Its distribution in the country is specified between the regions of Maule and Aysén, it is described
+as a solitary species or forming groups of up to 3 individuals. It is found in mountainous areas
+of the Andes and the Coast, associated with humid and temperate forests and shady areas from the level of the
+sea up to 1,700 m.a.s.l. It is herbivorous and feeds preferably on ferns, shrubs and fruits.
+There is a heat period between April and June and during September one calf is born per female.
+At a global level it is classified as “Near Threatened” by the IUCN (Silva-Rodríguez et al. 2016) and
+In Chile it is classified as “Vulnerable” by the RCE (D.S. N°151/2007).
+5.2 Vegetation
+The compensation site has an area of 90.66 hectares. This surface was covered and
+prospected on the ground, managing to define the current use of the land, as shown in Table 5-3 and following
+the same type of classification as the flora and vegetation baseline.
+Table 5-3. Land and surface use (ha) at the compensation site
+Environment Current use Sub-Use Law No. 20,283 Surface (ha)
+Plantation
+Intervened Plantation Forestry plantation 76.92
+forestry
+Forest
+Forest 4.9 Native Preservation Forest
+preservation
+natural
+Grassland Grassland Not applicable 4.21
+Scrub Not applicable 2.95
+thicket
+Tree scrub Not applicable 1.68
+Total 90.66
+Source: GAC
+Of the intervened environments, the vast majority correspond to Pinus radiata plantations and to a lesser extent
+measure to Eucalyptus globulus plantations. The streams with native forest are for preservation
+due to the presence of Gomortega keule, Pitavia punctata and Citronella mucronata. The species
+Dominant in the streams are Aextoxicon punctatum and Laurelia sempervirens. The grassland corresponds
+to a formation dominated by Chusquea quila, which corresponds to a highly intervened sector where
+the species has been colonized over other native and/or introduced species. Finish me
+nte, the bushes are
+we dominate by Teline monspessulana, Fuchsia magellanica and Rubus ulmifolius. The detail of the surfaces
+in the following table.
+5-18
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-4. Vegetation formations and area (ha) of the compensation site
+AI Surface Use Engagement
+Sub-use Training
+Land (ha) (%)
+Eucalyptus globulus plantation 16.37 11.5
+Plantation Forest plantation
+Pinus radiata plantation 60.55 42.4
+Total Plantation 76.92 53.9
+Aextoxicon Preservation Native Forest Forest
+Forest 4.9 3.4
+punctatum preservation
+Total Forest 4.9 3.4
+Grassland Grassland Grassland of Chusquea quila 4.21 3
+Total Grassland 4.21 3
+Shrub Shrub Teline monspessulana Shrub 2.95 2.1
+thicket
+Fuchsia magellanica arborescent thicket 0.36 0.3
+arborescent
+Rubus ulmifolius arborescent thicket 1.32 0.9
+Total Shrubland 4.63 3.3
+TOTAL 90.66 63.5
+Source: GAC
+Figure 5-1 Vegetation formations of the biodiversity compensation site
+Source: GAC
+5-19
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+5.3 Flora
+According to the 56 sampling points carried out to characterize the sector, it was possible to record a total of
+137 species. The floristic catalog of the Compensation Site is presented in Table 5-5, along with its
+taxonomic classification, phytogeographic origin, growth habit and membership in the D.S. No. 68/2009 of
+MINAGRI.
+5-20
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-5. Floristic catalog present at the Compensation Site
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Bomarea salsilla (L.) VAL- RME- LBO- MAU- NUB- BIO-
+Alstroemeriaceae N HP - -
+Mirb. ARA
+Amaryllidaceae Miersia minor Kunth E HP RME- LBO- NUB- BIO- ARA - -
+Herreria stellata Ruiz &
+Asparagaceae E HP MAU- BIO- LLA - -
+Pav.
+Greigia sphacelata (Ruiz
+Bromeliaceae E HP MAU- NUB- BIO- ARA- LLA - -
+& Pav.) Regel
+ATA- COQ- VAL- RME- LBO- MAU-
+Cyperaceae Cyperus eragrostis Lam. N HP - -
+NUB- BIO- ARA- LRI- LLA- JFE- IPA
+Uncinia phleoides (Cav.) COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+Pers. BIO- ARA- LRI- LLA- AIS- JFE
+Dioscorea brachybotrya
+N HP LBO- MAU- NUB- BIO- ARA- LRI- LLA - -
+Poepp.
+to
+t Dioscorea humifusa ATA- COQ- VAL- RME- LBO- MAU-
+and h p a d Dioscoreaceae Poepp. E HP NUB- BIO- ARA - -
+or is
+ilo p
+or
+Dioscorea saxatilis
+E.H.P.
+COQ- VAL- RME- LBO- MAU- NUB-
+- -
+n
+g
+to
+iliL Poepp. BIO
+M Crocosmia
+crocosmiiflora (Lemoine
+I HP VAL- ARA- LLA- JFE - -
+ex Burbidge & Dean)
+N.E. Br.
+Libertia sessiliflora VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Iridaceae E HP - -
+(Poepp.) Skottsb. LLA
+Sisyrinchium arenarium COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+Poepp. BIO- ARA- AIS- MAG
+Sisyrinchium striatum ATA- COQ- VAL- RME- LBO- MAU-
+N HP - -
+Sm. NUB- BIO- ARA
+LBO-MAU- NUB- BIO- ARA- LRI- LLA-
+Juncaceae Juncus procerus E. Mey. N HP - -
+AIS- MAG- JFE
+Luzuriaga radicals Ruiz LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Luzuriagaceae N Ar - -
+& Pav. AIS
+5-21
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Lapageria rosea Ruiz & COQ- VAL- LBO- MAU- NUB- BIO-
+Philesiaceae E Ar - -
+Pav. ARA- LRI- LLA
+COQ- VAL- RME- MAU- NUB- BIO-
+Agrostis capillaris L. I HP - -
+ARA-
+LRI- LLA- AIS- MAG
+LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Chusquea quila Kunth E HP - -
+AIS
+Chusquea valdiviensis E.
+N HP NUB- BIO- ARA- LRI- LLA - -
+Dev.
+Poaceae COQ- VAL- RME- LBO- MAU- NUB-
+Holcus lanatus L. I HA - -
+BIO- ARA- LRI- LLA- AIS- MAG
+Nassella chilensis (Trin.) AYP- ANT- COQ- VAL- RME- LBO-
+N HP - -
+E. Desv. MAU- NUB- BIO- ARA- LRI
+TAR- ANT- COQ- VAL- RME- LBO-
+Poa annua L. I HA MAU- NUB- BIO- ARA- LRI- LLA- AIS- - -
+MAG- JFE- IPA
+L.C.
+Aextoxicon punctatum COQ- VAL- LBO- MAU- NUB- BIO-
+Aextoxicaceae N A X D.S. No.
+Ruiz & Pav. ARA- LRI- LLA
+79/2018
+Lithrea caustica ATA- COQ- VAL- RME- LBO- MAU-
+Anacardiaceae E A X -
+(Molina) Hook. & Arn. NUB- BIO- ARA- LRI
+to
+d Centella 5-22rgent (L.) MAU- BIO- ARA- LRI- LLA- AIS- MAG-
+is N HP - -
+p Urb. JFE
+or
+ilo
+VAL- RME- LBO- MAU- NUB- BIO-
+n Daucus carota L. I HP - -
+g Apiaceae ARA- LRI- LLA- IPA
+to
+M
+Eryngium paniculatum
+COQ- VAL- RME- LBO- MAU- NUB-
+Cav. & Dombey ex F. N HP - -
+BIO- ARA- LRI- LLA
+Delaroche
+Acrisione
+COQ- VAL- RME- LBO- MAU- NUB-
+5-22rgentea5-22te N Ar - -
+BIO- ARA- LRI- LLA
+Asteraceae (Hook. & Arn.) B. Nord.
+Baccharis racemosa VAL- RME- LBO- MAU- NUB- BIO-
+N Ar - -
+(Ruiz & Pav.) DC. ARA- LRI- LLA
+5-22
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Carduus pycnocephalus COQ- VAL- RME- LBO- MAU- NUB-
+I HP - -
+L. BIO- ARA- LRI- LLA- JFE
+COQ- VAL- RME- LBO- MAU- NUB-
+Cynara cardunculus L. I HP - -
+BIO- JFE- IPA
+Eupatorium salvium COQ- VAL- RME- LBO- MAU- NUB-
+E Ar - -
+BIO Colla
+AYP- COQ- VAL- RME- LBO- MAU-
+American Gamochaeta
+N HP NUB- BIO- ARA- LRI- LLA- AIS- MAG- - -
+(Mill.) Wedd.
+JFE-IPA
+ANT- ATA- COQ- VAL- RME- LBO-
+Lactuca serriola L. I HP - -
+MAU- NUB- BIO- ARA
+Leontodon hirtus L. I HP VAL- NUB- BIO- LRI- LLA - -
+Podanthus mitiqui Lindl. E Ar COQ- VAL- RME- LBO- MAU- NUB X -
+COQ- VAL- RME- LBO- MAU- NUB-
+Proustia pyrifolia DC. E Ar - -
+BIO- ARA- LRI- LLA
+Pseudognaphalium AYP- TAR- ATA- COQ- VAL- RME-
+viravira (Molina) N HP LBO- MAU- NUB- BIO- ARA- LLA- AIS- - -
+Anderb. M.A.G.
+Senecio otites Kunze former
+N HP MAU- NUB- BIO- ARA- LRI- LLA- AIS - -
+D.C.
+ANT- ATA- COQ- VAL- RME- LBO-
+Senecio vulgaris L. I HA MAU- NUB- BIO- ARA- LRI- LLA- MAG- - -
+JFE
+Silybum marianum (L.) COQ- VAL- RME- LBO- MAU- NUB-
+I HP - -
+Gaertn. BIO- ARA- LRI- LLA- JFE
+Laurelia sempervirens
+E A LBO- MAU- NUB- BIO- ARA- LRI- LLA X -
+(Ruiz & Pav.) Tulle.
+Atherospermataceae
+Laureliopsis philippiana
+N A MAU- NUB- BIO- ARA- LRI- LLA- AIS X -
+(Looser) Schodde
+Campsidium
+MAU- NUB- BIO- ARA- LRI- LLA- AIS-
+Bignoniaceae valdivianum (Phil.) N Ar - -
+M.A.G.
+Skottsb.
+Raphanus raphanistrum ANT- ATA- COQ- VAL- RME- LBO-
+Brassicaceae I HP - -
+L. MAU- NUB- BIO- ARA- LLA
+5-23
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Calceolaria dentata Ruiz VAL- RME- LBO- MAU- NUB- BIO-
+N Ar - -
+& Pav. ARA- LRI- LLA
+Calceolaria integrifolia COQ- VAL- RME- LBO- MAU- NUB-
+N Ar - -
+L. BIO- ARA- LRI- LLA
+Calceolariaceae
+Jovellana punctata Ruiz
+E Ar VAL- RME- MAU- NUB- BIO- ARA- LRI - -
+& Pav.
+Jovellana 5-24rgenta
+E Ar MAU- NUB- BIO- ARA- LRI - -
+(Cav.) G. Don
+AYP- TAR- ANT- ATA- COQ- VAL-
+Lobelia oligophylla
+N HP RME- LBO- MAU- NUB- BIO- ARA- - -
+(Wedd.) Lammers
+Campanulaceae LLA- AIS- MAG
+VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Lobelia tupa L. E HP X -
+LLA-JFE
+VU
+Citronella mucronata COQ- VAL- RME- LBO- MAU- NUB-
+Cardiopteridaceae E A X D.S. No.
+(Ruiz & Pav.) Mr. Don BIO- ARA-LLA
+16/2016
+Dichondra 5-24rgénte ANT- ATA- COQ- VAL- RME- LBO-
+Convolvulaceae N HP - -
+Sw. MAU- NUB- BIO- ARA- LLA- JFE
+Aristotelia chilensis COQ- VAL- RME- LBO- MAU- NUB-
+Elaeocarpaceae N A X -
+(Molina) Stuntz BIO- ARA- LRI- LLA- AIS- JFE
+Gaultheria insana ANT- MAU- NUB- BIO- ARA- LRI- LLA-
+Ericaceae N Ar - -
+(Molina) D.J. Middleton AIS-
+M.A.G.
+Escallonia pulverulenta COQ- VAL- RME- LBO- MAU- NUB-
+Escalloniaceae E Ar X -
+(Ruiz & Pav.) Pers. BIO- ARA
+VAL- RME- LBO- MAU- NUB- BIO-
+Acacia dealbata Link I A - -
+ARA- LRI- LLA- JFE
+Senna stipulacea (Aiton) COQ- VAL- LBO- MAU- NUB- BIO-
+E Ar - -
+H.S. Irwin & Barneby ARA- LRI- LLA
+Fabaceae
+Sophora macrocarpa COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+Sm. BIO-ARA
+Teline monspessulana VAL- RME- LBO- MAU- NUB- BIO-
+I Ar - -
+(L.) K. Koch ARA- LRI- LLA- JFE
+Francoa appendiculata VAL- RME- LBO- MAU- NUB- BIO-
+Francoaceae E HP - -
+Cav. ARA- LRI- LLA
+5-24
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+AYP- TAR- ANT- ATA- COQ- VAL-
+Erodium cicutarium (L.)
+I HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+L'Hér. Former Aiton
+LLA- AIS- MAG- JFE
+Geraniaceae
+AYP- TAR- ANT- ATA- COQ- VAL-
+Geranium core-core
+N HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+Steud.
+LLA- AIS- MAG- JFE
+Sarmienta scandens
+COQ- MAU- NUB- BIO- ARA- LRI- LLA-
+Gesneriaceae (J.D. Brandis ex Molina) E Ar - -
+AIS
+Pers.
+IN
+Gomortega keule
+Gomortegaceae E A MAU- NUB- BIO No.
+(Molina) Baill.
+151/2007
+Ribes punctatum Ruiz & COQ- VAL- RME- LBO- MAU- NUB-
+Grossulariaceae N Ar - -
+Pav. BIO-ARA-LLA
+Gunnera tinctoria COQ- VAL- LBO- MAU- NUB- BIO-
+Gunneraceae N HP - -
+(Molina) Mirb. ARA- LLA- AIS- MAG- JFE
+Hypericum perforatum VAL- RME- LBO- MAU- NUB- BIO-
+Hypericaceae I HP - -
+L. ARA- LRI- LLA- JFE
+Lepechinia chilensis COQ- VAL- LBO- MAU- NUB- BIO-
+E Ar - -
+(Molina) R. Morales ARA- LRI- LLA
+COQ- VAL- RME- LBO- MAU- NUB-
+Mentha pulegium L. I HP - -
+BIO- ARA- LRI- LLA- JFE
+Lamiaceae
+COQ- VAL- RME- LBO- MAU- NUB-
+Stachys macraei Benth. E HP - -
+BIO- ARA- LRI- LLA- AIS
+COQ- VAL- RME- LBO- MAU- NUB-
+Teucrium bicolor Sm. E Ar - -
+BIO- ARA- LRI- LLA
+Trifoliolata mouthpiece (DC.)
+N Ar MAU- NUB- BIO- ARA- LRI- LLA - -
+Decne.
+Lardizabalaceae
+Lardizabala biternata VAL- RME- LBO- MAU- NUB- BIO-
+E Ar - -
+Ruiz & Pav. ARA- LRI- JFE
+Cryptocarya alba COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+(Molina) Looser BIO- ARA
+Lauraceae LC
+Persea lingue (Ruiz & VAL- RME- LBO- MAU- NUB- BIO-
+N A X D.S. No.
+Pav.) Nees ARA- LRI- LLA
+42/2011
+5-25
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Loasa acanthifolia Desr. N HP MAU- NUB- BIO- ARA- LRI- LLA - -
+Loasaceae
+Ker Gawl tricolor loasa. N HA ATA- COQ- VAL- RME- MAU - -
+Modiola caroliniana (L.) ATA- COQ- VAL- RME- LBO- MAU-
+Malvaceae I HP - -
+G. Don NUB- BIO- ARA- LRI- LLA- JFE
+COQ- VAL- RME- LBO- MAU- NUB-
+Monimiaceae Peumus boldus Molina E A X -
+BIO- ARA- LRI- LLA
+Amomyrtus luma
+(Molina) D. Legrand & N A MAU- NUB- BIO- ARA- LRI- LLA- AIS X -
+Kausel
+Amomyrtus meli (Phil.)
+E A BIO- ARA- LRI- LLA X -
+D. Legrand & Kausel
+Eucalyptus globulus VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+I A - -
+Labill. JFE-IPA
+Luma apiculata (DC.) COQ- VAL- RME- LBO- MAU- NUB-
+N A X -
+Burret BIO- ARA- LRI- LLA- AIS
+L.C.
+Myrtaceae Luma checken (Molina) COQ- VAL- RME- LBO- MAU- NUB-
+E A X D.S. No.
+A. Gray BIO- ARA- LRI- LLA
+10/2023
+Myrceugenia exsucca COQ- VAL- RME- LBO- MAU- NUB-
+N A X -
+(DC.) O. Berg BIO- ARA- LRI- LLA- AIS
+Myrceugenia obtusa COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+(DC.) O. Berg BIO- ARA
+Myrceugenia planipes
+N A NUB- BIO- ARA- LRI- LLA- AIS X -
+(Hook. & Arn.) O. Berg
+LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Ugni molinae Turcz. N Ar X -
+AIS-JFE
+Nothofagus obliqua VAL- RME- LBO- MAU- NUB- BIO-
+Nothofagaceae N A X -
+(Mirb.) Oerst. ARA- LRI- LLA
+Fuchsia magellanica VAL- RME- LBO- MAU- NUB- BIO-
+Onagraceae N Ar X -
+Lam. ARA- LRI- LLA- AIS- MAG- JFE
+ANT- ATA- COQ- VAL- RME- LBO-
+Oxalis laxa Hook. & Arn. N HA - -
+MAU-BIO
+Oxalidaceae
+COQ- VAL- RME- LBO- MAU- NUB-
+Oxalis rosea Jacq. E HA - -
+BIO- ARA- LRI- LLA- AIS
+5-26
+===========================================================
+=======================
+PAGE 28
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Oxalis sp. In HA - - -
+ANT- ATA- COQ- VAL- RME- LBO-
+Papaveraceae Fumaria agraria Lag. I HA - -
+MAU- NUB- BIO- ARA- LRI- LLA
+ATA- VAL- MAU- NUB- BIO- ARA- LRI-
+Plantaginaceae Digitalis purpurea L. I HP - -
+LLA- AIS- MAG- JFE
+Muehlenbeckia AYP- TAR- ATA- COQ- VAL- RME-
+hastulata (Sm.) I.M. N Ar LBO- MAU- NUB- BIO- ARA- LRI- LLA- - -
+Johnst. AIS-MAG
+Polygonaceae
+AYP- TAR- ANT- COQ- VAL- RME-
+Rumex acetosella L. I HP LBO- MAU- NUB- BIO- ARA- LRI- LLA- - -
+AIS- MAG- JFE
+ANT- ATA- COQ- VAL- RME- LBO-
+Rumex crispus L. I HP MAU- NUB- BIO- ARA- LRI- LLA- AIS- - -
+MAG- JFE- IPA
+AYP- TAR- ATA- COQ- VAL- RME-
+Anagallis arvensis L. I HA LBO- MAU- NUB- BIO- ARA- LLA- JFE- - -
+Primulaceae IPA
+Lysimachia arvensis (L.)
+I HA - - -
+U. Manns & Anderb.
+Gevuina hazelnut
+N A MAU- NUB- BIO- ARA- LRI- LLA X -
+Molina
+Proteaceae
+Lomatia dentata (Ruiz & COQ- VAL- LBO- MAU- NUB- BIO-
+N A X -
+Pav.) R. Br. ARA- LRI- LLA
+ATA- COQ- VAL- RME- LBO- MAU-
+Ranunculaceae Ranunculus repens L. I HP - -
+NUB- BIO- ARA- LRI- LLA- AIS- MAG
+Rhamnaceae Rhamnus diffusus Clos E Ar MAU- NUB- BIO- ARA- LRI X -
+Acaena 5-27rgent
+N HP LBO- MAU- NUB- BIO- ARA- LLA- JFE - -
+Ruiz & Pav.
+Prunus domestica L. I A - - -
+Rosaceae VAL- RME- LBO- MAU- NUB- BIO-
+Rosa rubiginosa L. I Ar - -
+ARA- LLA- AIS- MAG
+Rubus constrictus P.J.
+I Ar COQ- BIO- ARA- LRI- LLA - -
+Müll. & Lefevre
+5-27
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+COQ- VAL- RME- LBO- MAU- NUB-
+Rubus ulmifolius Schott I Ar - -
+BIO- ARA- LLA- JFE
+AYP- TAR- ANT- ATA- COQ- VAL-
+Galium aparine L. I HA RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+LLA- AIS- MAG- JFE
+Galium fuegianum
+N HA LBO- MAU- NUB- BIO- ARA- AIS- MAG - -
+Rubiaceae Hook.f.
+Galium hypocarpium (L.) ANT- COQ- VAL- RME- LBO- MAU-
+N HP - -
+Endl. Former Griseb. NUB- BIO- ARA- LRI- LLA- AIS
+Nertera granadensis COQ- VAL- MAU- NUB- BIO- ARA- LRI-
+N HP - -
+(Mutis ex L.f.) Druce LLA- AIS- MAG- JFE
+IN
+Pitavia punctata (Ruiz &
+Rutaceae E A MAU- NUB- BIO- ARA No.
+Pav.) Molina
+151/2007
+Azara integrifolia Ruiz & VAL- RME- LBO- MAU- NUB- BIO-
+E Ar X -
+Salicaceae Pav. ARA-LRI
+Azara sp. N Ar - - -
+Alonsoa meridionalis COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+(L.f.) Kuntze BIO
+AYP- COQ- VAL- RME- LBO- MAU-
+Scrophulariaceae Buddleja globosa Hope N Ar X -
+NUB- BIO- ARA- LRI- LLA
+Verbascum virgatum ATA- COQ- VAL- RME- LBO- MAU-
+I HP - -
+Stokes NUB- BIO- ARA- LLA- JFE- IPA
+AYP- TAR- ANT- ATA- COQ- VAL-
+Solanum furcatum
+N HP RME- LBO- MAU- NUB- BIO- ARA- - -
+Dunal
+LLA- AIS- JFE
+AYP- TAR- ANT- ATA- COQ- VAL-
+Solanaceae Solanum nigrum L. I HA RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+LLA-AIS
+IN
+Vestia foetida
+E Ar VAL- LBO- NUB- BIO- ARA- LRI - D.S. No.
+Hoffmanns.
+10/2023
+Tropaeolum ciliatum
+Tropaeolaceae E HP VAL- RME- MAU- NUB- BIO- ARA - -
+Ruiz & Pav.
+5-28
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Rhaphithamnus
+COQ- VAL- RME- LBO- MAU- NUB-
+Verbenaceae spinosus (Juss.) N Ar X -
+BIO- ARA- LRI- LLA- AIS
+Moldenke
+Viola capillaris Pers. N Ar LBO- MAU- NUB- BIO- ARA- LRI- LLA - -
+Violaceae VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Viola portalesia Gay E Ar - -
+LLA
+Cissus striata Ruiz & COQ- VAL- RME- LBO- MAU- NUB-
+Vitaceae N Ar - -
+Pav. BIO- ARA- LRI- LLA- AIS- MAG
+to to
+t d
+and h is VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+p o n p o n Pinaceae Pinus radiata D. Don I A LLA- JFE - -
+iP iP
+to
+d
+is AYP- TAR- ANT- ATA- COQ- VAL-
+p Equisetum bogotense
+o t Equisetaceae N HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+e Kunth
+s iu LLA- AIS
+q
+E
+L.C.
+Blechnum chilense COQ- VAL- RME- LBO- MAU- NUB-
+N Ar - D.S. No.
+to you
+(Kaulf.) Mett. BIO- ARA- LRI- LLA- AIS- MAG- JFE
+19/2012
+and
+h p Blechnaceae
+o d ir e t P a d is p o id Blechnu K m au h lf a . statum N HP COQ- B V I A O L - - A R R M A- E - L R LB I- O L - L A M - A JF U E - NUB- -
+1
+d
+9
+.
+/
+S L
+2
+. c
+0
+N
+1
+°
+2
+or
+p
+and Blechnum sp. N HP - - -
+it
+PLC
+Hypolepis poeppigii COQ- VAL- RME- LBO- MAU- NUB-
+Dennstaedtiaceae N HP - D.S. No.
+(Kunze) R.A. Rodr. BIO- ARA- LRI- LLA- AIS- MAG- JFE
+52/2014
+Lophosoria LC
+MAU- NUB- BIO- ARA- LRI- LLA- AIS-
+Dicksoniaceae quadripinnata (J.F. N Ar - D.S. N°
+JFE
+Gmel.) C. Chr. 19/2012
+5-29
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. Habit No.
+Division Class Family Species Origin1 Distribution in Continental Chile3 RCE4
+growth2 68/2009
+Polystichum NT
+Dryopteridaceae subintegerrimum (Hook. E HP NUB- BIO- ARA- LRI- LLA- AIS- MAG - D.S. N°
+& Arn.) R.A. Rodr. 13/2013
+TAR- ATA- COQ- VAL- RME- LBO- LC
+Pteridaceae Adiantum chilense Kaulf. N HP MAU- NUB- BIO- ARA- LRI- LLA- AIS- - D.S. No.
+MAG- JFE 19/2012
+1E: Endemic, N: Native, I: Introduced.
+2HP: Perennial herb, HA: Annual herb, S: Succulent; A: Tree,
+Ar: Shrub, Indeterminate: In
+3AYP: Arica and Parinacota, TAR: Tarapacá, ANT: Antofagasta, ATA: Atacama; COQ: Coquimbo, VAL: Valparaíso, RME: Metropolitana de Santiago, LBO: Libertador
+Bernardo O’Higgins, MAU: Maule, NUB: Ñuble, BIO: Biobío, ARA: Araucanía, LRI: Los Ríos, LLA: Los Lagos, AIS: Aisén, MAG: Magallanes.
+4LC: Least Concern, NT: Near Threatened, VU: Vulnerable,
+EN: In Danger
+5-30
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In Table 5-6 it can be seen that of the total number of species recorded in the area of influence, 93%
+corresponds to the Division Magnoliophyta (128 species), within which the Class Magnoliopsida
+It groups the majority of the taxa with 77.4% (106 species) and the remaining 16.1% correspond to the Class
+Liliopsida (22 species). Then the Pteridophyta Division continues with 8 species (5.8%), distributed
+mostly in Class Polypodiopsida (7 species). Finally, for the Pinophyta Division, it was recorded
+one species (0.7%) classified within the Class Pinopsida. All flora identified in the area
+of influence of the Project represents 2.5% of Chile's flora, according to Rodríguez's catalog
+and Marticorena (2019).
+Table 5-6. Number of species by Division and Taxonomic Class in the Compensation Site
+No. of Participation No. of species in Participation
+Class Division
+species (%) Chile (%)
+Liliopsida 22 16.1 1,191 1.8
+Magnoliophyta
+Magnoliopsida 106 77.4 4,051 2.6
+Gnetopsida - - 6 -
+Pinophyta
+Pinopsida 1 0.7 12 8.3
+Equisetopsida 1 0.7 3 33.3
+Pteridophyta Lycopodiopsida - - 12 -
+Polypodiopsida 7 5.1 150 4.7
+Total 137 100 5,425 2.5
+Source: GAC
+According to the floristic catalog of the area of influence, 67 families were registered in the area of
+influence, the dominant being Asteraceae with 14 species, which is equivalent to 10.2% of the total record
+(137 species). They are followed by the Myrtaceae and Poaceae families, with 6.6%; 4.4% respectively (9 and 6
+species each) and finally Rosaceae with 3.6% (five species). The remaining 74.4% correspond to
+63 families that have less than 5 species (Table 5-7).
+Table 5-7. Families in the area of influence
+No. of % of
+Family
+species participation
+Asteraceae 14 10.2
+Myrtaceae 9 6.6
+Poaceae 6 4.4
+Rosaceae 5 3.6
+Calceolariaceae 4 2.9
+Fabaceae 4 2.9
+Iridaceae 4 2.9
+Lamiaceae 4 2.9
+Rubiaceae 4 2.9
+Apiaceae 3 2.2
+Blechnaceae 3 2.2
+Dioscoreaceae 3 2.2
+Oxalidaceae 3 2.2
+Polygonaceae 3 2.2
+5-31
+==================================================================================
+PAGE 33
+==================================================================
+================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+No. of % of
+Family
+species participation
+Scrophulariaceae 3 2.2
+Solanaceae 3 2.2
+Atherospermataceae 2 1.5
+Campanulaceae 2 1.5
+Cyperaceae 2 1.5
+Geraniaceae 2 1.5
+Lardizabalaceae 2 1.5
+Lauraceae 2 1.5
+Loasaceae 2 1.5
+Primulaceae 2 1.5
+Proteaceae 2 1.5
+Salicaceae 2 1.5
+Violaceae 2 1.5
+Aextoxicaceae 1 0.7
+Alstroemeriaceae 1 0.7
+Amaryllidaceae 1 0.7
+Anacardiaceae 1 0.7
+Asparagaceae 1 0.7
+Bignoniaceae 1 0.7
+Brassicaceae 1 0.7
+Bromeliaceae 1 0.7
+Cardiopteridaceae 1 0.7
+Convolvulaceae 1 0.7
+Dennstaedtiaceae 1 0.7
+Dicksoniaceae 1 0.7
+Dryopteridaceae 1 0.7
+Elaeocarpaceae 1 0.7
+Equisetaceae 1 0.7
+Ericaceae 1 0.7
+Escalloniaceae 1 0.7
+Francoaceae 1 0.7
+Gesneriaceae 1 0.7
+Gomortegaceae 1 0.7
+Grossulariaceae 1 0.7
+Gunneraceae 1 0.7
+Hypericaceae 1 0.7
+Juncaceae 1 0.7
+Luzuriagaceae 1 0.7
+Malvaceae 1 0.7
+Monimiaceae 1 0.7
+Nothofagaceae 1 0.7
+Onagraceae 1 0.7
+Papaveraceae 1 0.7
+5-32
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+No. of % of
+Family
+species participation
+Philesiaceae 1 0.7
+Pinaceae 1 0.7
+Plantaginaceae 1 0.7
+Pteridaceae 1 0.7
+Ranunculaceae 1 0.7
+Rhamnaceae 1 0.7
+Rutaceae 1 0.7
+Tropaeolaceae 1 0.7
+Verbenaceae 1 0.7
+Vitaceae 1 0.7
+Total 137 100
+Source: GAC
+5.3.1 Phytogeographic Origin and Growth Habit
+The analysis of the flora according to phytogeographic origin shows that species of native origin dominate
+with 45.3% (62 species), followed by endemic species (27.6%) and in third place introduced species
+of the country (24.7%) (Table 5-8).
+Table 5-8. Phytogeographic origin of the vascular flora recorded at the compensation site
+Origin No. of Species % of participation
+Native 62 45.3
+Endemic 40 29.2
+Introduced 34 24.8
+Indeterminate 1 0.7
+Total 137 100
+Source: GAC
+It is important to mention that the Catalog of Vascular Plants of Chile by Rodríguez and Marticorena del
+The year 2019 indicates that 15.1% of the existing species in Chile correspond to species of origin
+exotic. In this case, the percentage of presence of species of non-native origin within the area of
+influence is 25.2%, which allows us to assert that there is an important presence of intervention
+anthropic in the sector. Regarding the 40 endemic species registered, none are regional endemic.
+On the other hand, Table 5-9 shows the number of species by growth habit. In it
+observes that, of the recorded flora, herbs (annual and perennial) dominate with 52.6% (72 species),
+followed by shrubs with 28.5% (39 species) and trees with 19.0% (26 species).
+Table 5-9. Growth habit of vascular flora recorded at the compensation site
+Growth habit No. of Species % participation
+Perennial Herb 59 43.1
+Annual Herb 13 9.5
+Shrub 39 28.5
+5-33
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Growth habit No. of Species % participation
+Tree 26 19.0
+Total 137 100
+Source: GAC
+5.3.2 Flora Conservation Status
+Considering the 19 current RCE processes, 13 taxa were registered under conservation category in
+the Project compensation site, which are shown in Table 5-10.
+Of the total number of registered species, four are at a threat level, corresponding to
+Gomortega keule, Pitavia punctata and Vestia foetida in the Endangered category and Citronella mucronata in
+Vulnerable category. The remaining 10 taxa correspond to species not considered in degree of
+threat (Near Threatened and Least Concern) according to IUCN criteria 3.18.
+Table 5-10. Species in conservation category registered in the Area of Influence
+CER Source Species Common name
+D.S. N° 10/2023 Vestia foetida Chuplín, echuelcúb, huevil.
+In Danger D.S. No. 151/2007 Gomortega keule Queule, keule.
+D.S. No. 151/2007 Pitavia p
+unctata Pitao.
+Vulnerable D.S. N° 16/2016 Citronella mucronata Huillipatagua, naranjillo.
+Almost Threatened D.S. N° 13/2013 Polystichum subintegerrimum -
+D.S. N° 10/2023 Luma checken Chequén, white myrtle.
+Doradilla, black stick fern, black stick,
+D.S. N° 19/2012 Adiantum chilense
+maidenhair
+D.S. N° 19/2012 Blechnum chilense Cow rib, palmilla, quilquil, iquide.
+Concern
+D.S. N° 19/2012 Blechnum hastatum Palmilla, quilquil, arriquilquil.
+Minor
+D.S. N° 19/2012 Lophosoria quadripinnata Palmita, palmilla, fern or Valdivia palmita, ampe.
+D.S. No. 42/2011 Persea lingue Lingue.
+D.S. No. 52/2014 Hypolepis poeppigii Wilel-lawen, manger.
+D.S. N° 79/2018 Aextoxicon punctatum Olivillo, palo muerte, tique, teque, aceitunillo.
+Source: GAC
+5.3.3 Tree or shrub species native to the country
+According to the D.S. No. 68/2009 of MINAGRI, 31 species were recorded in the area of influence
+considered as originating in the country, which represents 22.6% of the taxa registered on the site of
+5-34ompensation. The species and their distribution are presented in Table 5-11.
+8 IUCN 3.1 corresponds to version 3.1. The first edition of the IUCN Red List Categories and Criteria: Version 3.1 was
+published in 2001, following its formal adoption by the IUCN Council in February 2000. Since then it has been used as the
+standard for global Red List assessments published in the IUCN Red List of Threatened Species™. Also
+has been used in conjunction with the Guidelines for the use of IUCN Red List Criteria at regional and national levels (IUCN
+2003, 2012) by many countries around the world as the standard system for national Red List assessments.
+5-34
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-11. Native tree or shrub species present in the Area of Influence
+Species Distribution in Chile*
+Aextoxicon punctatum COQ- VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Amomyrtus luma MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Amomyrtus meli BIO- ARA- LRI- LLA
+Aristotelia chilensis COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- JFE
+Azara integrifolia VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI
+Buddleja globosa AYP- COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Citronella mucronata COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LLA
+Cryptocarya alba COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Escallonia powder COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Fuchsia magellanica VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- MAG- JFE
+Gevuina hazelnut MAU- NUB- BIO- ARA- LRI- LLA
+Gomortega keule MAU- NUB- BIO
+Laurelia sempervirens LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Laureliopsis philippiana MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Lithrea caustica ATA- COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI
+Lobelia tupa VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA- JFE
+Lomatia dentata COQ- VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Luma apiculata COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Luma check COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Myrceugenia exsucca COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Myrceugenia obtusa COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Myrceugenia planipes NUB- BIO- ARA- LRI- LLA- AIS
+Nothofagus obliqua VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Persea lingue VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Peumus boldus COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Pitavia punctata MAU- NUB- BIO- ARA
+Podanthus mitiqui COQ- VAL- RME- LBO- MAU- NUB
+Rhamnus diffusus MAU- NUB- BIO- ARA- LRI
+Rhaphithamnus spinosus COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Sophora macrocarpa COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Ugni molinae LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- JFE
+(*): ATA: Atacama; COQ: Coquimbo, VAL: Valparaíso, RME: Metropolitana, LBO: Libertador Bernardo O'Higgins, MAU: Maule, NUB:
+Ñuble, BIO: Biobío, ARA: Araucanía, LRI: Los Ríos, LLA: Los Lagos, AIS: Aisén, MAG: Magallanes, JFE: Juan Fernández
+Source: GAC, based on Rodríguez and Marticorena, 2019
+6 CONCLUSIONS
+33 species of wildlife were identified: one (1) reptile, 27 birds and five (5) mammals. In relation to
+the baseline of vertebrate fauna, 45.2% were identified
+species from the total species inventory
+identified in the area of influence of the Project. Of the species registry, 12 have been considered as
+species of interest and/or sensitive in the baseline of terrestrial vertebrate fauna. Of these, four
+6-35
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 7-3. Biodiversity Compensation Site Characterization
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+correspond to species of interest (one reptile and three mammals) and 17 are sensitive species: one (1) reptile,
+nine (9) birds and seven (7) mammals. Four (4) species of interest were recorded, that is, those
+that are in the threatened conservation category, including those that are almost threatened according to legislation
+national, three (3) of them are Vulnerable and one (1) Near Threatened. On the other hand, 12 were registered
+sensitive species, which correspond to those that, whether or not of interest, can be seen
+affected due to the relationship between the type of Project and its specific characteristics of
+construction and operation.
+Regarding vegetation, it is indicated that the existing vegetation matrix in the compensation site is
+equivalent to the area of influence of the Project, because the vegetation formations are similar
+in both areas, dominated by forest plantations and in ravine areas, presence of formations
+natural such as forest and scrub.
+Regarding the species in the conservation category, 13 were recorded at the compensation site.
+species, while in the area of influence there were 19 recorded. All species of
+compensation site are present in the area of influence of the Project. The 4 species in the category of
+threatened conservation of the compensation site are registered are registered in the
+area of influence.
+Considering the above, it is possible to indicate that the proposed site has similar characteristics to the
+area of influence of the Project, therefore, its conservation will mean protecting an environment similar to the
+affected.
+6-36

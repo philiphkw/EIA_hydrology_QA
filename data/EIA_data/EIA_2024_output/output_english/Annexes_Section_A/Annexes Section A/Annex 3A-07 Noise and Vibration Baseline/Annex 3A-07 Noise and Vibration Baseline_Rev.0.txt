@@ -1,0 +1,2962 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 3A-07
+Noise and Vibration Baseline
+EIA "Mining Development Project
+of Clay Extraction for Production
+of Rare Earth Concentrates"
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION MINING DEVELOPMENT PROJECT
+FOR PRODUCTION OF RARE EARTH CONCENTRATE
+BIOBIO REGION
+PREPARED FOR:
+PROJECT N°5760B
+VERSION DATE DESCRIPTION PREPARATION REVISION APPROVAL
+As of 02/01/2024 Initial Preparation JMS-BVS MGD
+B 16.02.2024 KTC MGD Corrections
+SANTIAGO, MAY 2024
+GERARD ACOUSTIC ENGINEERING SPA
+IT IS CERTIFIED BY:
+==================================================================================
+PAGE 3
+==================================================================================
+INDEX OF CONTENTS
+1 Introduction ....................................................................................................................................................... 4
+2 Objectives ........................................................................................................................................................... 4
+2.1 General objective.............................................................................................................................................. 4
+2.2 Specific objectives ................................................................................................................................... 4
+3 Regulations and reference guides ........................................................................................................................... 5
+3.1 Supreme Decree No. 38/2011 of the Ministry of the Environment (MMA) ................................................... 5
+3.2 FTA - Transit Noise and Vibration Impact Assessment Manual ................................................................... 6
+3.3 Evaluation of effects on Fauna ........................................................................................................... 9
+4 Project Description and measurement points ........................................................................................................... 12
+4.1 Project Description ........................................................................................................................... 12
+4.2 Measurement points ................................................................................................................................ 12
+4.3 Maximum allowed and evaluation criteria................................................................................................... 24
+Zoning according to D.S. No. 38/2011 of the MMA ................................................................................... 24
+5 Methodology ................................................................................................................................................... 25
+5.1 Noise measurements ................................................................................................................................... 25
+Background noise measurements ........................................................................................................... 25
+Measurements according to FTA, Leq (h) for LDN estimation ................................................................................... 26
+5.2 Vibration measurements ........................................................................................................................... 26
+6 Results ....................................................................................................................................................... 27
+6.1 Noise measurements ................................................................................................................................... 27
+Background noise measurements ........................................................................................................... 27
+Leq measurements (h) ...........................................................
+................................................................................... 31
+Existing noise level according to LDN descriptor ................................................................................... 32
+Noise measurements at wildlife points ................................................................................................ 32
+6.2 Maximum permitted ................................................................................................................................ 34
+Noise - According to D.S. N°38/2011 of the MMA ................................................................................................... 34
+Noise - According to FTA - Transit Noise and Vibration Impact Assessment Manual ................................... 35
+6.3 Vibration measurements ........................................................................................................................... 36
+7 Conclusions ................................................................................................................................................... 37
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+1
+==================================================================================
+PAGE 4
+==================================================================================
+8 Instrumental ................................................................................................................................................... 39
+9 Bibliography used ........................................................................................................................................... 39
+10 Participating professionals ................................................................................................................................... 40
+11 Glossary ........................................................................................................................................................... 40
+ANNEX I ................................................................................................................................................................... 42
+ANNEX II ................................................................................................................................................................... 73
+ANNEX III ................................................................................................................................................................... 92
+ANNEX IV ........................................................................................................................................................... 97
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+2
+==================================================================================
+PAGE 5
+==================================================================================
+INDEX OF ILLUSTRATIONS
+Illustration 1: Noise impact criteria. ................................................................................................................................................................................... 6
+Illustration 2: Location of human receptors. ................................................................................................................................................................... 13
+Illustration 3: Location of human receptors – Vehicular flow. ................................................................................................................................... 14
+Illustration 4: Location of fauna receptors. ................................................................................................................................................................... 15
+Illustration 6: Photographs of the noise and vibration measurement points – human receiver. ................................................................................................... 17
+Illustration 7: Photographs of the noise and vibration measurement points – fauna receiver. ................................................................................................... 23
+TABLE INDEX
+Table 1: Description of zone types according to the D.S. No. 38/2011 MMA................................................................................................................................ 5
+Table 2: Maximum allowability
+NPCs according to D.S. No. 38/2011 of the MMA. ................................................................................................................................... 5
+Table 3: Land use category and descriptor for vehicular traffic noise impact criteria. ................................................................................... 7
+Table 4: Definition of impact types according to FTA. ................................................................................................................................................................... 7
+Table 5: Criterion of discomfort to people from vibrations transmitted through the ground. ................................................................................................................... 8
+Table 6: Structure damage criteria for general vibration levels. FTA extract. ................................................................................................... 8
+Table 7: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Amphibians ................. 10
+Table 8: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Reptiles...............10
+Table 9: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Avifauna. ............. 10
+Table 10: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Mammals. ........ 11
+Table 11: Location and description of human receptors. ....................................................................................................................................................... 15
+Table 12: Location and description of Vehicular Flow receivers. ................................................................................................................................... 16
+Table 13: Location and description of fauna receptors. ................................................................................................................................................... 16
+Table 11: Zoning and maximum levels allowed according to D.S. No. 38/2011 of the MMA. ....................................................................................................... 25
+Table 55: Background noise values, in [dB(A)]-Slow and noise sources present in the measurement. daytime period. ................................................................... 28
+Table 56: Background noise values, in [dB(A)]-Slow and noise sources present in the measurement. Night period. .................................................... 29
+Table 47: Results of Leq (h) measured in the daytime period. ................................................................................................................................................... 31
+Table 48: Estimation of existing noise level according to LDN descriptor. ................................................................................................................................... 32
+Table 57: Summary of noise levels obtained by 1/3 octave of frequency and global levels – Daytime period. ................................................... 32
+Table 58: Summary of noise levels obtained by 1/3 octave of frequency and global levels – Night period. ................................................ 33
+Table 59: Maximum permissible levels of NPC, according to the D.S. No. 38/2011 of the MMA. ........................................................................................................... 35
+Table 53: Impact criteria according to FTA standard. Category 2. ........................................................................................................................................... 35
+Table 60: Particle velocity values and velocity level according to measurement period. Human receptor. ............................................................ 36
+Table 60: Particle velocity values and velocity level. Points A and B................................................................................................................. 36
+INDEX OF GRAPHICS
+Graph 1: Background noise levels recorded during daytime.................................................................................................................................
+....................... 29
+Graph 2: Background noise levels recorded at night................................................................................................................................................... 30
+Graph 3: Noise levels Leq (h). ........................................................................................................................................................................................... 31
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+3
+==================================================================================
+PAGE 6
+==================================================================================
+1 INTRODUCTION
+This document, prepared by Gerard Ingeniería Acústica SpA., contains the Baseline report of
+noise and vibrations of the Project “Mining Development Project for the Extraction of Clays for the Production of
+Rare Earth Concentrate”, (hereinafter Project), which will be located in the Antofagasta Region.
+The activities involved in the construction and operation phases of the Project could be capable of generating
+an increase in the level of noise and vibrations in surrounding areas. In relation to the above, sectors were identified
+inhabited, determining a total of fifteen (15) sensitive human receptors, nine (9) points of interest
+fauna and two (2) vehicle flow evaluation receivers. For this, the realization of two (2) was contemplated
+measurement campaigns, the first of which took place between November 28 and December 2, 2022,
+while the second campaign took place on January 18 and 19, 2024.
+With the measurements carried out, a basal record of the levels of background noise and vibrations in the
+different points distributed in the vicinity of the Project.
+The measurements were carried out under the guidelines indicated in the “Guide for the prediction and evaluation of impacts by
+noise and vibration in the SEIA”, of the Environmental Evaluation Service (SEA).
+2 OBJECTIVES
+2.1 General objective
+Obtain background noise and vibration levels in nearby sectors that could be affected by the
+construction and operation of the Project.
+2.2 Specific objectives
+▪ Identify receptors sensitive to future noise and vibration emissions produced by the Project
+in the sensitive sectors closest to its works and activities.
+▪ Carry out noise level and vibration level measurements in the selected receivers.
+▪ Determine the maximums allowed according to national and reference regulations.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+4
+==================================================================================
+PAGE 7
+==================================================================================
+3 REGULATIONS AND REFERENCE GUIDES
+3.1 Supreme Decree No. 38/2011 of the Ministry of the Environment (MMA)
+The objective of this regulation is to protect the health of the community by establishing maximum levels
+of noise immission generated by the noise emitting sources defined in its Article N°6, point 13.
+The maximum limits allowed by the regulations are associated with the zoning in accordance with the Instrument of
+Territorial Planning (IPT) respective. The types of zones are defined as:
+Table 1: Description of zone types according to the D.S. No. 38/2011 MMA.
+Zone Type Description
+That area defined in the respective IPT and located within the urban limit, which exclusively allows
+Zone I Residential land use or this land use and any of the following land uses: Public Space
+and/or Green Area.
+That area defined in the respective IPT and located within the urban limit, which also allows the uses
+Zone II
+of Zone I, Equipment at any scale.
+That area defined in the respective IPT and located within the urban limit, which allows, in addition to the
+Zone III
+land uses of Zone II, Productive and/or Infrastructure Activities.
+That area defined in the respective IPT and located within the urban limit, which allows only uses of
+Zone IV
+land for Productive Activities and/or Infrastructure.
+Rural Area That located outside the urban limit established in the respective IPT.
+The Corrected Sound Pressure Levels (NPC) obtained may not exceed the values
+of the following
+table:
+Table 2: Maximum permissible NPC according to the D.S. No. 38/2011 of the MMA.
+Maximum Allowable NPC [dB(A)]
+Type of Zone Day Period Night Period
+7:00 a.m. to 9:00 p.m. 9:00 p.m. to 7:00 a.m.
+Zone I 55 45
+Zone II 60 45
+Zone III 65 50
+Zone IV 70 70
+Rural Zone Lowest level between the Background Noise Level +10 [dB] and the maximum NPC allowed for Zone III
+The criterion for rural areas will be applied in the daytime and nighttime periods independently.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+5
+==================================================================================
+PAGE 8
+==================================================================================
+3.2 FTA - Transit Noise and Vibration Impact Assessment Manual1
+The Federal Transit Administration (FTA) of the United States establishes regulations and policies for the
+care of the environment, of the possible impacts that transportation systems could cause. Among these
+regulations contain the maximum noise levels for different means of transport, such as
+railways, buses and automobiles.
+a) Noise evaluation criterion
+The following illustration shows the Noise Impact Criteria established by the FTA,
+for the categories of land uses and for two types of impacts of the transportation project (moderate and severe),
+considering the existing noise level in the evaluated homes and the noise threshold for the project.
+Illustration 1: Noise impact criteria.
+Source: FTA.
+The noise impact criteria are based on the comparison of existing outdoor noise levels and the levels
+of future exterior noise of the proposed Project, these incorporate absolute criteria, which consider the contribution of the
+activity generated only by the operation of the Project.
+The category of the recipient and/or building evaluated are defined according to the land use, as detailed below.
+1 Evaluation of noise and vibration in transit.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+6
+==================================================================================
+PAGE 9
+==================================================================================
+Table 3: Land use category and descriptor for vehicular traffic noise impact criteria.
+Category according to Unit of
+Description
+land use measurement [dB(A)]
+Sectors where low noise levels are essential for the activities to be carried out.
+1 L [h]
+eq (Theaters, concert halls, recording studios, among others)
+Sectors with buildings that people normally use to sleep. (Housing,
+2L
+DN hospitals and hotels)
+Institutional land with mainly daytime use. This category includes schools, bookstores,
+theaters and churches, where it is important to avoid interference with activities such as
+speech, meditation and concentration on reading material. Places for meditation or
+3 L [h]*
+eq associated with study with cemeteries, monuments, museums, camping sector and
+recreational, may also be considered to be in this category. Sites
+historic sites and parks can also be considered
+*Leq the noisiest hour related to traffic activities during noise-sensitive hours
+Source: Federal Transit Administration.
+In the previous classification it can be seen that each category is evaluated with a different descriptor, which is due to
+that categories 1 and 3 present a limited temporal functioning, placing emphasis on the highest level of pressure
+sound obtained per hour during this period (in Leq(h)). On the other hand, for category 2, related to the use
+housing, is evaluated in relation to the day-night level (L), since this descriptor is taken into consideration for
+D.N.
+areas where the night period is a sensitive factor.
+Regarding the impact classification, the regulations establish that severe impact warrants implementation
+immediate action of some noise control measure, while moderate impact corresponds to a warning
+which indicates that the levels are close to the limit of severe impact. The following table describes the
+impact rating given by the FTA standard.
+Table 4: Definition of impact types according to FTA.
+Impact classification Definition
+The introduction of project noise entails an increase
+insignificant ment in the number of people
+There is no impact
+highly annoying.
+The change in accumulated noise level is noticeable to most people, but not
+Moderate impact
+high enough to produce an adverse reaction from the community.
+Severe impact A significant percentage of people would be highly bothered by the noise introduced by the project.
+Source: Federal Transit Administration.
+b) Vibration evaluation criteria
+In the case of vibrations, this standard identifies two (2) types of impact due to vibrations, the first makes
+reference to the criterion of inconvenience to people, while the second to the criterion of damage to structures. The criterion of
+“annoyance” is related to the vibration levels transmitted by the ground whose influence and perception can
+generate “annoyance” in the influenced humans. The evaluation indicators are based on the speed of
+RMS vibration, which has shown a better correlation with respect to the sensitivity of vibration in the body
+human. Vibration speed levels (L) are expressed in units of decibels [dB] referenced to
+v
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+7
+==================================================================================
+PAGE 10
+==================================================================================
+1 [µin/s] or with a V prefixed to dB [VdB]. In general, the threshold of human perceptibility is 65 [VdB]. The criterion
+Annoyance is in turn subdivided into a “General” criterion and a “Detailed Analysis”. The general FTA criterion,
+It considers the number of daily vibrational events and classifies them into frequent, occasional and infrequent events.
+▪ “Frequent events” are defined as when more than 70 events occur per day.
+▪ “Occasional events” are defined as when between 30 and 70 events occur per day.
+▪ “Infrequent events” are defined as when less than 30 events occur per day.
+The evaluation indicators for the “General” discomfort criterion are presented in the following table and are
+They establish different limits according to types of land uses, which are classified as: highly sensitive,
+residential and institutional.
+Table 5: Criterion of discomfort to people from vibrations transmitted through the ground.
+Vibration impact level
+([VdB] re 1 [µin/s])
+Land use category
+Events Events Events
+frequent occasional infrequent
+Category 1:
+Buildings where low vibration environments are essential for operations 65a 65a 65a
+internal (hospital instruments, research laboratories, etc.)
+Category 2:
+72 75 80
+Residences or buildings where people normally sleep.
+Category 3:
+75 78 83
+Institutional land uses primarily daytime (Schools, Churches, etc.)
+aThis criterion is based on limit levels that are acceptable for moderately sensitive equipment such as optical microscopes.
+Vibration-sensitive manufacturing buildings should be evaluated with a more detailed level analysis. Ensure low levels of
+Vibrations within the same building require a special design of ventilation and extraction systems.
+Source: Federal Transit Administration.
+Finally, the regulations do not specify admissible limits to guarantee the non-generation of damage to
+buildings as a result of transportation operations. However, the above does establish a criterion of
+evaluation for construction activities associated with transportation infrastructure projects. The values
+Maximum permitted values are indicated in the North American system ([in/s]) and correspond to the statements in the following
+table:
+Table 6: Structure damage criteria for general vibration levels. FTA extract.
+Building category PPV [in/s] Approximate Lv [VdB]a
+I. Concrete reinforced with wood or steel (without plaster) 0.5 102
+II. Concrete and masonry engineering design 0.3 98
+III. Wood and masonry without engineering design 0.2 94
+IV. Building very susceptible to damage from vibrations 0.12 90
+a RMS speed in decibels [VdB] reference 1 [µin/s.]
+Source: Federal Transit Administration.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+8
+==================================================================================
+PAGE 11
+===========================================================
+============================
+3.3 Evaluation of effects on fauna
+Evaluation criterion in the SEIA: Evaluation of impacts due to noise on native fauna
+This technical document “Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna”,
+indicates that according to what is established in letter b) of article 11 of Law No. 19,300, a study of
+environmental impact to evaluate the significance of adverse effects of noise impact on native fauna.
+In accordance with what is stated in letter e) of article 6 of the SEIA Regulations to consider an adverse effect
+significant particularly for impacts associated with noise, “the difference between the
+noise levels with the project and the background noise level representative and characteristic of the environment where it is
+concentrate native fauna associated with habitats of relevance for their nesting, reproduction or feeding.”
+In this context, the object of protection will be understood as the habitat of relevant fauna for nesting,
+reproduction or feeding, which must be found within the Area of Influence (AI) of the project, which is
+must be defined considering the scenario with the greatest exposure to noise. Additionally, an area must be determined
+representative for the object of protection (relevant habitat) on the AI as indicated in the Guide for the
+Description of the Soil, Flora and Fauna Components of Terrestrial Ecosystems in the SEIA (SEA, 2015) due to
+which is a dynamic component due to its movement in the environment.
+To predict impacts, the prediction models indicated in the Prediction Guide must be used.
+and Evaluation of Impacts by Noise and Vibration in the SEIA, (SEA, 2019), as appropriate to the noise sources
+that contemplates the project or activity for each of its phases.
+To evaluate the impact, the estimated noise levels must be compared with impact thresholds for each
+species, which are determined according to the species evaluated, the noise source (continuous, impulsive or intermittent)
+and the associated adverse effect (physiological and behavioral). Furthermore, they must be determined and represented
+cartographically “affected areas”, which correspond to geographical areas around the project where
+exceed the thresholds associated with physiological effects and behavioral effects, defined for each species.
+which must be contrasted with the area where the receivers are located.
+Once it is identified that there is a difference between the noise levels with the project and the noise levels of
+characteristic and representative background of the relevant habitat, it must be kept in mind that:
+▪ When the receivers have a level of noise exposure higher than the impact thresholds for
+physiological effects, either as a species or taxonomic group according to the information available, are
+will consider that the impact caused is significant.
+▪ When the receivers present a noise exposure level that exceeds the reference thresholds
+associated with behavioral effects, the significance of the impact on the species must be evaluated
+evaluated based on what is stated in article 6 of the SEIA Regulations:
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+9
+==================================================================================
+PAGE 12
+==================================================================================
+- Affectation of the permanence of the resource, in this case, native fauna.
+- Alteration of the regeneration or renewal capacity of the resource.
+- Alteration of the conditions that make possible the presence and development of species and ecosystems,
+with special emphasis on those resources of the country that are scarce, unique and representative.
+It will be enough for at least one of the aforementioned effects to occur to consider that the impact caused
+It is significant.
+The technical document also indicates that “in case of absence or lack of information for the definition of thresholds
+of affectation, the evaluation must be carried out under a preventive criterion, establishing those actions and
+conditions that allow the occurrence of impact to be avoided.”
+Below is the list with reference thresholds for impact evaluation that indicates the
+technical document in Chapter 5.
+Table 7: References for determining re thresholds
+reference for the evaluation of the impact of noise on terrestrial fauna. Amphibians
+Amphibians
+Effect Description Effect Type Source Type Threshold Reference
+Frequency shift Continuous (noise 62 dB(C) Shieh, et al.,
+Behavioral
+in environmental vocalizations) Average 2012
+Reduction in duration Continuous-+
+72 dB(A) Shannon et al.,
+of songs in anurans Behavioral intermittent
+average 2015.
+males (transport)
+Source: Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna.
+Table 8: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Reptiles
+Reptiles
+Effect Description Effect Type Source Type Threshold Reference
+Difficulty for Continuous-intermittent 75 dB(C) Shannon et al.,
+Behavioral
+average location (transport) 2015.
+Source: Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna.
+Table 9: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna. Avifauna.
+Avifauna
+Effect Description Effect Type Source Type Threshold Reference
+Frequency shift Continuous (noise 60 dB(A) Dooling et al.,
+Behavioral
+in environmental vocalizations) Average 2007
+Continuous (noise 58 dB(A)
+environmental) average
+Decreased success Intermittent Shannon et al.,
+Behavioral
+reproductive (noise of 68 dB(A) 2015.
+construction, average
+transportation)
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+10
+==================================================================================
+PAGE 13
+==================================================================================
+Avifauna
+Effect Description Effect Type Source Type Threshold Reference
+Effects on Continuous-intermittent 60 dB(A)
+Physiological
+physiology and development (transport) max
+80dB(A)
+Impulsive
+Max Status Increase
+Behavioral (military or
+alert and surveillance 63 dB(A)
+blasting)
+average
+Single pulse 140 dB(A)
+Direct hearing damage
+(blasting) Max
+Impulses
+multiple
+Dooling et al.,
+Physiological displacement (construction,
+93 dB(A) 2007
+temporary hammer threshold
+max
+pneumatic auditory by
+e.g.) and noise
+transportation
+Source: Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna.
+Table 10: References for determining reference thresholds for evaluating the impact of noise on terrestrial fauna.
+Mammals.
+Mammals
+Effect Description Effect Type Source Type Threshold Reference
+Continuous-intermittent
+Stress increase 52 dB(Z) Blickley et al.
+Physiological (construction,
+Physiological Average (2012)
+industrial)
+Disruption in
+Continuous-intermittent 80 dB(A)
+Behavioral foraging
+(transport) Average
+in bats
+Continuous-Intermittent
+68 dB(A) reduction
+Behavioral (construction,
+Average reproductive efficiency
+industrial) Shannon et al., 2015
+Rhythm increase
+cardiac and alteration
+Impulsive 85 dB(Z)
+of Physiological-Behavioral dynamics
+(military) average
+rest and mobility
+in ungulates
+Source: Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+11
+==================================================================================
+PAGE 14
+==================================================================================
+4 PROJECT DESCRIPTION AND MEASUREMENT POINTS
+4.1 Project Description
+The Project corresponds to the set of works and activities that will allow the construction and operation of a site
+mining and a clay processing plant, a material present in the area, which due to natural effects
+It is highly weathered, with the presence of lanthanides adsorbed on clay minerals.
+The plant has a capacity to process up to 320 tons/hour of material and produce approximately
+3,100 tons per year of Rare Earth concentrate.
+4.2 Measurement points
+The location and description of the evaluation points is provided below. This selection of points is
+was carried out according to the following criteria specified in the “Guide for the prediction and evaluation of impacts by
+noise and vibration in the SEIA, of the Environmental Evaluation Service (SEA), 2019”, section 4.1.
+▪ Represent the most exposed location of a rec
+eptor or a set of them to noise emissions and
+vibrations.
+▪ The set of measurement points must necessarily include a sufficient number of points to
+represent all potentially affected recipients, under the most unfavorable circumstances.
+Based on the above, the closest points were identified, which represent the location most exposed to the
+emissions.
+Illustration 2, Illustration 3, Illustration 4, Table 11, Table 12 and Table 13, present the description of the points of
+evaluation.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+12
+==================================================================================
+PAGE 15
+==================================================================================
+Illustration 2: Location of human receptors.
+Preparation: Gerard Ingeniería Acústica SpA.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+13
+==================================================================================
+PAGE 16
+==================================================================================
+Illustration 3: Location of human receptors – Vehicular flow.
+Preparation: Gerard Ingeniería Acústica SpA.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+14
+==================================================================================
+PAGE 17
+==================================================================================
+Illustration 4: Location of fauna receptors.
+Preparation: Gerard Ingeniería Acústica SpA.
+Table 11: Location and description of human receptors.
+UTM coordinates
+Receiver height* Datum WGS 84
+Receiver Description Effective use
+[m] 18H zone
+East North
+1-story house, located next to Las road
+1 1.5 Residential 680,390 5,932,896
+Pataguas.
+2-story house located on the side of Route O-
+2 1.5 - 4 Residential 680,671 5,932,437
+390.
+Forest property entrance, located on the interior road to Ruta
+3 1.5 Industrial 681,441 5,932,015
+O-390.
+1-story housing complex, located on the road
+4 1.5 Residential 682,281 5,932,438
+interior to Route O-390
+1-story house, located on the interior road to Route O-
+5 1.5 Residential 682,315 5,932,496
+390.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+15
+==================================================================================
+PAGE 18
+==================================================================================
+UTM coordinates
+Receiver height* Datum WGS 84
+Receiver Description Effective use
+[m] 18H zone
+East North
+1-story housing complex, located on the road
+6 1.5 Residential 682,568 5,932,367
+interior to Route O-390
+1-story house and restaurant "Donde Zulema", located Residential/
+7 1.5 683,019 5,932,079
+on the side of Route O-390. Commercial
+8 1-story house, located next to Route O-390. 1.5 Residential 683,194 5,932,076
+9 1-story home, close to Landfill 1.5 Residential 681,918 5,928,825
+Administrative/
+10 Cemarc main sentry box, 1 floor. 1.5 681,542 5,929,206
+Industrial
+11 1-story house, located on an interior road. 1.5 Residential 681,359 5,929,460
+Complex of 1 and 2-story homes, located on Calle
+12 1.5 - 4 Residential 678,898 5,930,509
+Los Castaños N°34.
+Complex of 1 and 2-story homes, located on Calle
+13 1.5 - 4 Residential 679,093 5,930,752
+The Cypresses N°5.
+14 1-story house, located on Miramar Street N°990. 1.5 Residential 679,242 5,931,249
+CESFAM Penco health center 2 floors, located in
+15 1.5 - 4 Health 679,442 5,931,734
+Access street to Fundo Copihueco.
+* Receiver height per floor, from – to, in steps of 2.5 [m].
+Table 12: Location and description of Vehicular Flow receivers.
+UTM coordinates
+Height
+Datum WGS 84
+Receiver Description receiver*
+18H spindle
+[m]
+East North
+A Cemarc main sentry box, 1 floor. 1.5 681,578 5,929,337
+B 1-story house, located on an interior road. 1.5 681,359 5,929,460
+Table 13: Location and description of fauna receptors.
+UTM coordinates
+Height
+Datum WGS 84
+Receiver Description receiver*
+18H spindle
+[m]
+East North
+F1 Fauna point associated with native forest 1.5 680,920 5,931,032
+F2 Fauna point associated with plantation 1.5 680,812 5,928,949
+F3 Fauna point associated with plantation 1.5 680,203 5,928,355
+F4 Aso fauna point
+scrubbed 1.5 680,634 5,930,114
+F5 Fauna point associated with wild forest 1.5 679,647 5,929,447
+F6 Fauna point associated with native forest 1.5 682,181 5,930,423
+F7 Fauna point associated with native forest 1.5 681,535 5,930,108
+F8 Fauna point associated with native forest 1.5 681,433 5,930,957
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+16
+==================================================================================
+PAGE 19
+==================================================================================
+UTM coordinates
+Height
+Datum WGS 84
+Receiver Description receiver*
+18H spindle
+[m]
+East North
+F9 Fauna point associated with native forest 1.5 680,718 5,929,566
+In order to facilitate the interpretation of results and evaluations, the human receiver “10” and the receiver of
+vehicular flow “A”, correspond to the same receiver, but it will be named “A” only when it is in relation to the flow
+vehicular. In the same way with point “11” and “B”.
+Below are photographs of the evaluation points obtained in the baseline campaign.
+Illustration 5: Photographs of the noise and vibration measurement points – human receiver.
+Point 1-Noise Point 1-Vibrations
+Point 2-Noise Point 2-Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+17
+==================================================================================
+PAGE 20
+==================================================================================
+Point 3-Noise Point 3-Vibrations
+Point 4-Vibrations
+Point 4-Noise
+Point 5-Noise Point 5-Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+18
+==================================================================================
+PAGE 21
+==================================================================================
+Point 6-Noise Point 6-Vibrations
+Point 7-Noise Point 7-Vibrations
+Point 8-Noise
+Point 8-Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+19
+==================================================================================
+PAGE 22
+==================================================================================
+Point 9-Noise Point 9-Vibrations
+Point 10-Noise Point 10-Vibrations
+Point 11-Noise Point 11-Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+20
+==================================================================================
+PAGE 23
+==================================================================================
+Point 12-Noise Point 12-Vibrations
+Point 13-Noise Point 13-Vibrations
+Point 14-Noise Point 14-Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+21
+==================================================================================
+PAGE 24
+==================================================================================
+Point 15-Noise Point 15-Vibrations
+Point A - Noise Point A - Vibrations
+Point B - Noise Point B - Vibrations
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+22
+==================================================================================
+PAGE 25
+==================================================================================
+Illustration 6: Photographs of the noise and vibration measurement points – fauna receiver.
+Noise-F1 Noise-F2
+Noise-F3 Noise-F4
+Noise-F5 Noise-F6
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+23
+==================================================================================
+PAGE 26
+==================================================================================
+Noise-F7 Noise-F8
+Noise-F9
+4.3 Maximum allowed and evaluation criteria
+Zoning according to D.S. No. 38/2011 of the MMA
+The D.S. No. 38/2011 of the MMA establishes the Maximum Permissible Corrected Sound Pressure Levels (NPC), of
+in accordance with permitted land uses at the recipient location.
+Below is the location of the evaluation points and the areas in which they are located according to the Plan.
+Communal Regulator (PRC) of Penco.
+The points are located in the following z
+onas:
+• Point 1 is located in the “ZER-1 Urban Extension Area” zone of the PRC of Penco, whose land use
+It allows residences and equipment, being approved as zone II according to regulations.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+24
+==================================================================================
+PAGE 27
+==================================================================================
+• Points 12 to 15 are located in the “Urban Extension Area ZR-2” zone of the PRC of Penco, whose use
+of land allows residences, equipment, public space and green areas, being approved as zone II
+according to the regulations.
+• Points 2 to 11 are located outside the urban limit in the Territorial Planning instrument.
+respective, being approved as a rural area according to the regulations.
+In accordance with what was described above, below is the approval and the maximum permitted limits that
+establishes the applicable regulations for both periods.
+Table 14: Zoning and maximum levels allowed according to D.S. No. 38/2011 of the MMA.
+Zoning according to
+Maximum daytime level Maximum level
+Receiver Zone according to PRC D.S. No. 38/2011 of
+[dB(A)] night [dB(A)]
+MMA
+1 ZER-1 Zone Il 60 45
+12-15 ZR-2 Zone Il 60 45
+Outside the urban limit Lowest level between the Background Noise Level + 10
+2-11 Rural
+communal [dB], and the maximum NPC allowed for Zone III
+In points 1, 12, 13, 14 and 15 the maximum levels allowed correspond to 60 [dB(A)] in the daytime period, and 45
+[dB(A)] during the night period, values corresponding to the maximum permitted in zone II. On the other hand, in both
+evaluation periods, the maximum levels allowed in points 2 to 11 will be established based on
+of the lowest value between the Background noise level + 10 [dB] and the maximum value allowed for Zone III. These values are
+apply to the noise emitting sources defined in Article No. 6, point 13 of the D.S. No. 38/11 of the MMA.
+Noise - Evaluation of effects on Fauna
+5 METHODOLOGY
+5.1 Noise measurements
+Background noise measurements
+▪ Between November 28 and December 2, 2022, in addition to January 18 and 19, 2024,
+Measurements of background noise were made during the day and night depending on the receiving points.
+indicated in Illustration 2.
+▪ The duration of each noise measurement was subject to the difference between the recorded values.
+every 5 minutes, until the reading is considered stable (difference less than or equal to 2 [dB(A)] between
+each reading), according to the background noise measurement procedure established in the D.S. No. 38/2011
+of the MMA.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+25
+==================================================================================
+PAGE 28
+==================================================================================
+▪ For the fauna points, noise measurements were made in 1/3 of an octave and without noise weighting.
+frequencies, during the day and night.
+▪ The sound level meter was located 1.5 [m] in its vertical axis from the ground and, if possible, 3.5 [m] from any surface
+reflective on its horizontal axis (walls, walls, windows).
+▪ For the measurements, the equipment indicated in chapter 8 was used, which complies with the IEC 61672 standard.
+1:2002. The instruments were duly calibrated by the operator in the field. In Annex IV
+They deliver calibration certificates for the equipment used.
+Measurements according to FTA, Leq (h) for LDN estimation
+▪ Two (2) measurements were carried out with a total time of one (1) hour, recording in each case the Leq (h),
+NPS and NPS. This is in accordance with one of the procedures stipulated in the reference regulations.
+min max
+of the FTA Transit Noise and Vibration Assessment Manual2, for estimation of the L descriptor at the points
+D.N.
+A and B, corresponding to those closest to the main road used by the Project (Illustration 3).
+▪ From the one-hour measurements, the LDN descriptor is estimated using the following
+expressions:
+• For measurements between 7 a.m. and 7 p.m.:
+𝑳 ≈ 𝑳 −𝟐 (Equation 1)
+𝑫𝑵 𝒆𝒒
+• For measurements between 7 p.m. and 10 p.m.:
+𝑳 ≈ 𝑳 +𝟑 (Equation 2)
+𝑫𝑵 𝒆𝒒
+• For measurements between 10 p.m. and 7 a.m.:
+𝑳 ≈ 𝑳 +𝟖 (Equation 3)
+𝑫𝑵 𝒆𝒒
+▪ As indicated in the guide, the resulting L value is moderately underestimated. This underestimation
+d
+N
+is intended to compensate for the reduced computational precision of L .
+D.N.
+▪ For the measurements, the equipment indicated in chapter 8 was used, which complies with the IEC 61672 standard.
+1:2002. The instruments were duly calibrated by the operator in the field. In Appendix IV
+They deliver calibration certificates for the equipment used.
+5.2 Vibration measurements
+▪ Vibration measurements were carried out at the same points proposed for noise.
+2 Appendix E: Determination of existing level; Method Option 4.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+26
+==================================================================================
+PAGE 29
+==================================================================================
+▪ To carry out the vibration records, the provisions of the regulations were taken as reference.
+“Transit Noise and Vibration Impact Assessment Manual”, from the FTA of the United States, which stipulates in
+its Section 6.5, the characterization of existing vibration conditions.
+▪ In this way, to document the existing vibration levels at the points mentioned above,
+made a measurement for a continuous period of between 10 to 30 minutes, obtaining an average
+representative of the vibrational characteristics of each sector.
+▪ The records obtained correspond to Vertical Particle Velocity (VVP) values ​​in [mm/s].
+The speed level (Lv) is defined as:
+ref 1 [µin/s]
+𝑣
+𝐿𝑣 𝜇 𝑖𝑛 = 20 𝑙𝑜𝑔( ) [𝑉𝑑𝐵] (Equation 4)
+𝑟𝑒𝑓 𝑣
+𝑠 𝑟𝑒𝑓
+Where:
+𝜇 𝑖𝑛
+𝑣 : Speed in [ ]
+𝑠
+𝜇 𝑖𝑛
+𝑣 : Reference speed (𝑣 = 1[ ])
+𝑟𝑒𝑓 𝑟𝑒𝑓
+𝑠
+▪ The measurement points were located outside the buildings identified as sensitive receptors,
+installing the transducer on a magnetized post on a metal stake inserted into the ground. In the
+In cases where there was no possibility of installing the metal stake, the transducer was installed at points of
+natural support in the vicinity of the evaluated point, by applying wax to the support
+respective.
+▪ For the records, the equipment indicated in chapter 8 was used; Annex IV shows the certificate of
+instrument calibration.
+6 RESULTS
+6.1 Noise measurements
+Background noise measurements
+In this section, the background noise values are given for all the points described above, and
+They mention the main sources of noise present at the time of sampling.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+27
+==================================================================================
+PAGE 30
+==================================================================================
+daytime period
+Below, the background noise values for the daytime period, recorded during the campaign, are provided.
+basal measurements, and the noise sources associated with them are described. Annex I provides details of
+each measurement made.
+Table 15: Background noise values, in [dB(A)]-Slow and noise sources present in the measurement. daytime period.
+NPS NPS NPS Time of
+eq min max
+Point Noise Sources
+[dB(A)]* [dB(A)] [dB(A)] measurement
+Wild birds, distant vehicular traffic on the Tomé Highway and local street,
+1 48 35.5 67.0 16:22
+distant air traffic.
+2 46 33.6 66.2 Wild birds, distant vehicular traffic on the Highway to Tomé. 15:53
+3 54 31.5 70.7 Wild birds, vehicular traffic on Route O-390. 15:26
+Wild birds, distant vehicular traffic on Route O-390, farmyard animals,
+4 36 30.9 51.0 18:35
+wind effect on foliage slight.
+Vehicular traffic on interior roads, wild birds and the effect of wind
+5 42 35.1 59.4 17:45
+on the foliage.
+Free range animals, wild birds, effect of wind on slight foliage,
+6 35 29.7 46.1 18:13
+distant vehicular traffic on Route O-390.
+Vehicular traffic on interior roads, wild birds and the effect of wind
+7 62 30.5 84.9 17:15
+above the foliage, distant community noise.
+Wild birds, vehicular traffic on Route O-390, distant dogs and noise
+8 63 34.4 86.0 16:50
+domiciliary.
+Wild birds, machinery operation inside the Landfill, traffic
+9 51 43.6 65.7 15:02
+distant vehicular
+Wild birds, machinery operation inside the Landfill, traffic
+10 56 46.8 73.4 15:29
+vehicular to Landfill.
+Wild birds, machinery operation inside the Landfill, animals
+of
+11 47 38.4 64.2 14:33
+corral, distant dogs.
+12 53 45.4 80.5 Distant vehicular traffic on the Itata Highway, wild birds, distant dogs. 17:46
+13 59 41.8 82.4 Vehicular traffic on the Itata Highway, wild birds, distant dogs. 17:16
+Wild birds, distant vehicular traffic along El Maitén street, traffic
+14 45 39.8 57.6 17:25
+far vehicular through By-Pass Penco, occasional far dogs.
+Vehicular traffic through By Pass Penco, through Access Street to Fundo Copihueco,
+15 54 43.5 63.9 16:58
+CESFAM parking vehicle movement.
+*Approximate value to the nearest integer.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+28
+==================================================================================
+PAGE 31
+==================================================================================
+Graph 1: Background noise levels recorded during daytime.
+Preparation: Gerard Ingeniería Acústica SpA.
+According to what is indicated in Table 15 and Graph 1, the NPSeq values in the daytime period fluctuate between 35 and 63
+[dB(A)], where the main noise sources correspond to wild birds, effect of wind on foliage,
+machinery operation inside the Landfill and vehicular traffic along the Itata Highway, Carretera a Tomé, Route O-390
+and By-Pass Penco.
+night period
+Table 16 and Graph 2 show the values for the night period of background noise recorded during the
+measurement campaign and the noise sources associated with them. The details of each measurement are provided in Annex I.
+performed.
+Table 16: Background noise values, in [dB(A)]-Slow and noise sources present in the measurement. Night period.
+NPS NPS NPS Time of
+eq min max
+Point Noise Sources
+[dB(A)]* [dB(A)] [dB(A)] measurement
+Wild birds, distant vehicular traffic on the Highway to Tomé, crickets,
+1 42 37.0 53.8 22:24
+wind effect on foliage
+2 37 33.9 43.5 Wild birds, distant vehicular traffic on the Highway to Tomé, crickets. 22:27
+Wild birds, crickets, effect of wind on foliage, vehicular traffic
+3 36 32.6 41.4 21:58
+distant
+4 30 27.4 36.0 Wild birds, effect of wind on foliage, farmyard animals. 0:18
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+29
+==================================================================================
+PAGE 32
+==================================================================================
+NPS NPS NPS Time of
+eq min max
+Point Noise Sources
+[dB(A)]* [dB(A)] [dB(A)] measurement
+5 29 27.3 36.6 Wild and poultry birds, effect of wind on foliage, crickets. 23:28
+6 29 27.0 41.3 Wild and poultry birds, effect of wind on foliage, crickets. 23:55
+Wild birds, effect of wind on foliage, distant vehicular traffic
+7 40 34.0 48.6 22:27
+by Itata Highway.
+Wild birds, effect of wind on foliage, distant vehicular traffic
+8 40 34.0 48.6 22:33
+by Itata Highway.
+Machinery operation inside the Landfill, wild birds and traffic
+9 51 48.5 69.0 23:17
+vehicle far from the Landfill.
+10 52 48.4 65.5 Machinery operation inside distant landfill, wild birds. 23:47
+Machinery operation inside the Landfill, distant vehicular traffic,
+11 51 46.2 75.3 0:08
+slight generator, wild birds, slight household noise.
+Distant vehicular traffic on the Itata Highway, wild birds, effect of
+12 50 43.7 63.2 22:02
+wind on the foliage.
+13 47 41.4 63.3 Distant vehicular traffic on the Itata Highway, distant dogs. 23:35
+Wild birds, distant vehicular traffic along El Maitén street, traffic
+14 49 43.7 54.8 23:49
+distant vehicular through By-Pass Penco, crickets.
+Crickets, CESFAM air extractors, vehicular traffic through Pass Penco,
+15 49 44.6 57.9 23:21
+distant dogs
+*Approximate value to the nearest integer.
+Graph 2: Background noise levels recorded at night.
+Preparation: Gerard Ingeniería Acústica SpA.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+30
+==================================================================================
+PAGE 33
+==================================================================================
+According to what is indicated in Table 16 and Graph 2, the NPSeq values fluctuate between 29 and 52 [dB(A)], the sources
+main noise sources correspond to crickets, distant traffic,
+noise due to the effect of the wind on the foliage and wild birds.
+Leq measurements (h)
+Table 17 shows the Leq (h) values obtained from measurements carried out during the daytime period. Measurements
+were carried out in the same locations declared in Appendix III.
+Table 17: Results of Leq (h) measured in the daytime period.
+Leq (h)* NPS NPS
+Min Max Point Description Date Time
+[dB(A)] [dB(A)] [dB(A)]
+Heavy vehicle traffic, operation from landfill
+A 63 47.9 84.3 01-19-2024 10:40
+sanitary, wild birds.
+Traffic of heavy vehicles, wild birds and alarms
+B 48 39.6 65.4 01-19-2024 8:40
+retreat from landfill
+*Approximated to the nearest integer.
+Graph 3: Noise levels Leq (h).
+Preparation: Gerard Ingeniería Acústica SpA.
+It can be seen in the table and graph above that the measured values of Leq (h) correspond to 63 and 48 [dB(A)],
+where the noise sources correspond to wild birds, heavy vehicle traffic and landfill operation
+sanitary.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+31
+==================================================================================
+PAGE 34
+==================================================================================
+Existing noise level according to LDN descriptor
+According to the procedure indicated by the FTA, from the hourly measurement it is possible to obtain the L, as
+D.N.
+mentioned in chapter 5.1.2. According to what is indicated in chapter 6.1.2, the measurements were carried out between the
+7am and 7pm, so the equation (Equation 1) given in chapter 5.1.2 (Correction – 2 [dB]) will be applied.
+This correction will only be applied to point B, which will be evaluated with the descriptor L that represents the worst
+DN,
+condition for evaluation purposes.
+Table 18: Estimation of existing noise level according to LDN descriptor.
+noise level
+Measurement time Noise level
+Existing point Correction [dB]
+[hh:mm] existing L [dB(A)]*
+D.N.
+Leq (h) [dB(A)]
+At 10:40 63 - -
+B 08:40 48 -2 46
+*From one-hour records between 7 a.m. and 7 a.m. and 7 p.m. (𝐿 ≈ 𝐿 (ℎ)−2).
+𝐷𝑁 𝑒𝑞
+In the previous table it is observed that the value of L corresponds to 46 [dB(A)]. These results will determine the
+D.N.
+maximum levels allowed for the Project.
+Noise measurements at wildlife points
+Below are the average NPS values in 1/3 octave, in addition to the global values of
+eq
+NPS and NPS, without frequency weighting [dB] and with frequency weighting [dB(A)], for the points of
+min max
+evaluation of fauna during the day and night period. The details of each measurement are provided in Annex II.
+performed.
+Table 19: Summary of noise levels obtained by 1/3 octave of frequency and global levels – Daytime period.
+Frequency [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+20 41.1 51.8 36.3 53.0 43.8 40.3 55.5 39.6 47.2
+25 39.7 53.0 37.1 51.8 43.6 37.8 52.2 37.3 47.7
+31.5 39.4 50.6 38.3 52.3 43.4 35.9 48.0 34.7 43.6
+40 40.2 49.7 39.5 49.6 43.3 35.0 45.4 32.6 40.8
+50 39.2 50.0 40.7 52.9 43.8 30.9 45.2 31.6 38.9
+63 41.2 46.4 38.4 56.9 43.4 33.0 46.6 32.7 40.0
+80 44.8 41.6 40.0 55.7 42.6 32.6 45.6 32.6 38.3
+100 37.9 34.3 41.2 49.5 41.5 30.6 41.3 29.4 32.8
+125 35.4 29.5 34.3 45.4 39.1 31.7 35.6 27.6 31.1
+160 38.8 28.4 33.3 43.4 38.0 29.7 35.3 26.2 30.8
+200 38.0 26.9 31.6 38.9 36.8 28.6 35.8 25.8 28.8
+250 38.2 26.7 29.4 38.3 37.0 30.7 37.2 28.8 28.0
+315 36.2 27.5 28.5 36.6 35.5 30.9 36.5 29.6 26.2
+400 36.2 27.2 27.7 36.9 34.2 32.7 36.0 29.9 25.6
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+32
+==================================================================================
+PAGE 35
+==================================================================================
+Frequency [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+500 36.0 27.8 27.2 38.2 33.5 32.6 34.9 30.1 25.8
+630 33.7 28.3 26.9 37.9 32.7 33.6 34.8 30.1 25.6
+800 33.2 28.2 26.9 38.5 32.6 34.3 35.5 30.1 26.6
+1000 31.6 27.6 26.5 38.2 31.6 34.5 35.3 29.8 26.5
+1250 29.3 27.9 28.2 37.2 31.6 34.6 35.6 29.6 25.4
+1600 27.1 27.0 33.4 36.2 29.3 34.3 30.7 28.2 24.2
+2000 24.9 25.1 34.8 35.4 27.8 33.5 26.9 27.7 21.6
+2500 23.7 24.2 33.1 34.6 27.3 32.8 24.7 27.2 20.7
+3150 23.0 22.7 27.5 33.1 26.0 32.8 22.1 26.3 20.6
+4000 22.1 21.2 26.4 33.9 25.1 31.9 20.1 24.7 18.7
+5000 23.3 20.9 24.7 33.2 24.2 28.5 18.5 24.5 17.3
+6300 21.5 20.9 23.8 30.0 23.2 24.5 16.8 22.9 15.2
+8000 20.4 19.2 21.4 26.6 21.5 20.5 14.1 1
+9.9 15.2
+10000 19.1 18.3 19.4 24.8 19.8 18.4 12.3 20.0 16.2
+12500 19.2 17.9 18.9 22.8 18.5 17.7 10.8 12.4 12.3
+16000 18.9 18.4 18.6 20.5 18.6 18.4 9.3 9.3 10.3
+20000 21.4 21.3 21.2 21.7 21.3 21.3 7.1 7.0 7.6
+NPS [dB(Z)] 51.6 58.6 49.4 62.8 53.2 47.9 59.0 45.7 52.6
+eq
+NPS [dB(A)] 41.6 37.5 41.7 47.8 41.7 44.2 43.2 39.4 35.1
+eq
+NPS [dB(Z)] 46.7 46.5 33.8 54.8 48.7 45.2 49.3 42.4 45.8
+min
+NPS [dB(Z)] 60.9 67.1 78.0 71.1 60.7 54.4 73.8 50.1 66.2
+max
+The main sources of noise recorded during the daytime period correspond to wild birds, wind effect
+on the foliage and water flow.
+Particularly at point F4, vehicular traffic is perceived on the Itata Highway, which is why it has a higher level.
+Table 20: Summary of noise levels obtained by 1/3 octave of frequency and global levels – Night period.
+Frequency [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+20 37.0 34.1 36.0 49.8 36.8 36.8 51.1 37.4 43.8
+25 36.6 34.9 36.9 49.8 36.9 36.1 49.0 36.7 41.1
+31.5 37.2 35.7 36.4 48.7 37.6 35.3 47.7 37.5 41.0
+40 36.9 36.3 37.4 48.4 38.4 35.3 46.7 37.9 39.1
+50 39.2 38.6 39.7 47.3 39.7 34.8 46.5 37.3 39.1
+63 41.4 39.8 40.6 49.9 40.7 33.2 46.0 36.4 40.3
+80 42.2 39.7 39.7 52.4 40.5 31.2 46.0 34.1 37.0
+100 37.0 36.1 37.0 45.3 39.8 29.9 43.9 31.8 33.2
+125 36.8 35.1 37.0 46.1 39.5 32.6 42.2 31.1 32.6
+160 37.3 32.9 32.5 44.1 35.7 28.2 38.8 27.9 33.0
+200 34.1 32.7 30.8 39.6 33.6 26.6 38.4 25.8 29.2
+250 34.1 31.3 28.5 40.3 32.1 27.1 37.6 27.3 30.1
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+33
+==================================================================================
+PAGE 36
+==================================================================================
+Frequency [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+315 30.6 28.8 29.1 38.6 31.1 28.1 38.9 28.8 32.8
+400 29.7 28.4 28.2 38.3 31.3 29.5 38.8 28.3 29.1
+500 30.4 28.1 28.1 37.5 31.9 30.9 40.2 28.1 28.1
+630 28.8 26.7 27.7 37.4 31.1 32.2 41.3 28.5 30.1
+800 27.6 26.8 26.6 38.6 29.8 33.5 42.0 28.9 30.3
+1000 26.4 25.8 24.9 37.4 27.7 33.8 40.8 28.9 29.9
+1250 23.7 22.6 22.6 36.0 25.0 33.6 37.2 28.5 28.5
+1600 21.4 19.3 19.4 34.3 21.3 33.2 33.8 28.3 25.5
+2000 19.2 16.3 17.3 31.7 17.9 32.6 29.1 27.5 21.8
+2500 18.0 14.6 15.4 28.4 15.1 31.3 23.9 26.3 18.6
+3150 16.5 13.9 14.4 25.1 13.9 29.3 19.9 24.7 16.4
+4000 15.3 14.2 14.9 21.0 14.6 26.8 17.1 22.7 15.3
+5000 15.4 15.0 15.0 17.6 15.0 23.9 15.0 19.9 13.4
+6300 15.4 15.1 15.2 16.5 15.2 21.3 13.8 17.6 12.2
+8000 15.9 15.9 16.0 16.7 16.0 19.3 12.2 17.1 10.8
+10000 18.0 20.0 18.9 23.2 20.7 22.7 11.6 31.5 14.3
+12500 20.0 22.2 20.3 25.3 22.5 25.1 13.7 41.8 29.6
+16000 18.4 18.5 18.5 18.9 18.6 19.2 12.2 30.9 33.2
+20000 21.7 21.4 21.7 21.5 21.8 22.8 7.6 16.0 23.3
+NPS [dB(Z)] 49.3 47.5 48.3 59.2 49.5 46.6 57.6 48.0 50.0
+eq
+NPS [dB(A)] 36.6 35.0 34.8 46.0 37.6 42.7 47.5 41.2 38.1
+eq
+NPS [dB(Z)] 44.6 44.4 44.4 51.0 46.2 45.1 51.7 43.3 39.6
+min
+NPS [dB(Z)] 57.0 54.8 54.7 69.3 57.4 53.3 72.7 59.8 58.8
+max
+The main sources of noise recorded, both during the day and at night, correspond to the noise generated
+by wild birds, water flow and distant vehicular traffic, and it was possible to perceive that the presence of wild birds
+is greater than in the daytime period.
+6.2 Maximum allowed
+Noise - According to D.S. N°38/2011 of the MMA
+The maximum limits defined for each sampled point are presented in the following tables. These values are
+determined based on the limits established in D.S. Nº38/2011 of the MMA, in relation to the approval
+described in section 4.3.1.
+Table 21 shows the maximum corrected sound pressure level allowed for the sampled points.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+34
+==================================================================================
+PAGE 37
+==================================================================================
+Table 21: Maximum permissible levels of NPC, according to the D.S. No. 38/2011 of the MMA.
+Zoning Day period Night period
+point of agreement
+S.D. measurement No. 38/2011 Maximum NPC background noise Maximum NPC background noise
+NPS [dB(A)]* permitted [dB(A)] NPS [dB(A)]* permitted [dB(A)]
+MMA eq eq
+1 Zone II 48 60 42 45
+2 Rural Area 46 56 37 47
+3 Rural Area 54 64 36 46
+4 Rural Area 36 46 30 40
+5 Rural Area 42 52 29 39
+6 Rural Area 35 45 29 39
+7 Rural Area 62 65 40 50
+8 Rural Area 63 65 40 50
+9 Rural Area 51 61 51 50
+10 Zone
+Rural 56 65 52 50
+11 Rural Area 47 57 51 50
+12 Zone II 53 60 50 45
+13 Zone II 59 60 47 45
+14 Zone II 45 60 49 45
+15 Zone II 54 60 49 45
+*Approximate value to the nearest integer.
+The table above indicates the maximum levels allowed in the selected receivers, whose values vary
+between 45 and 65 [dB(A)] for the daytime period, while for the nighttime period the levels range between 39 and 50
+[dB(A)].
+Noise - According to FTA - Transit Noise and Vibration Impact Assessment Manual
+Below are the levels for impact classification according to the FTA standard. For point B
+The existing noise level was determined according to the day-night level descriptor L for residential receivers.
+D.N.
+(Category 2), while point A, which is industrial, was considered for the descriptor Leq(h) (Category 3). In
+Based on this value, the permitted levels given by the reference standard were calculated3.
+Table 22: Impact criteria according to FTA standard. Category 2.
+Noise level Level “Impact Level “Impact”
+“No impact” level
+Receiver Existing exposure descriptor Moderate” Severe”
+Leq (h) or L dB(A)]*
+D.N.
+Leq (h) or L dB(A)] Leq (h) or L [dB(A)] Leq (h) or L [dB(A)]**
+DN DN DN
+A Leq (h) 63 <65 65-70 >70
+B L 46 <53 53-59 >59
+D.N.
+* Maximum reference for the project to not generate impact (Do not exceed the lower curve Illustration 1).
+** Maximum reference for the project to not generate Severe impact (Do not exceed the upper curve Illustration 1).
+3 Table 4-5 of the FTA regulations, pag. 28
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+35
+==================================================================================
+PAGE 38
+==================================================================================
+6.3 Vibration measurements
+Table 23 shows the vibration values obtained at each measurement point during the daytime and
+nocturnal The results obtained show the Lv and the VVP.
+Table 23: Particle velocity values ​​and velocity level according to measurement period. Human receptor.
+Day period Night period
+Point
+VVP [mm/s] Lv* [VdB] VVP [mm/s] Lv* [VdB]
+1 2.51E-02 59.9 1.34E-02 54.4
+2 1.81E-02 57.1 1.31E-02 54.2
+3 1.47E-02 55.2 1.38E-02 54.7
+4 1.35E-02 54.5 1.29E-02 54.1
+5 1.34E-02 54.5 1.29E-02 54.1
+6 1.35E-02 54.5 1.30E-02 54.2
+7 1.65E-02 56.3 1.27E-02 54.0
+8 1.47E-02 55.2 1.38E-02 54.7
+9 1.84E-02 57.2 1.33E-02 54.4
+10 2.08E-02 58.3 1.28E-02 54.1
+11 1.77E-02 56.9 1.71E-02 56.6
+12 1.32E-02 54.3 8.07E-03 50.0
+13 1.38E-02 54.7 1.28E-02 54.0
+14 2.54E-02 60.0 1.34E-02 54.5
+15 2.09E-02 58.3 1.32E-02 54.3
+F1 1.53E-02 55.6 1.27E-02 54.0
+F2 1.85E-02 57.3 1.28E-02 54.0
+F3 1.73E-02 56.6 1.27E-02 54.0
+F4 1.71E-02 56.5 1.31E-02 54.3
+F5 1.98E-02 57.9 1.27E-02 54.0
+F6 1.98E-02 55.1 1.27E-02 54.1
+F7 6.93E-04 28.7 5.86E-04 27.3
+F8 5.69E-04 27.0 5.62E-04 26.9
+F9 6.63E-04 28.3 7.31E-04 29.2
+* Ref: 1 [µin/s]
+Table 24: Particle velocity values and velocity level. Points A and B.
+daytime period
+Point
+VVP [mm/s] Lv* [VdB]
+A 1.22E-02 53.6
+B 3.62E-03 43.1
+All values obtained correspond to the natural vibrations of the ground in each sector. On the other hand, it
+can determine that for all points the recorded values are below the threshold of
+human perception defined in the FTA document, which is 65 [VdB].
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+36
+==================================================================================
+PAGE 39
+==================================================================================
+7 CONCLUSIONS
+This report provides the levels obtained from baseline measurements of sound pressure level and vibrations.
+in sensitive sectors close to the site of the project “Clay Extraction Project for Production
+of Rare Earth Concentrate”, which will be located in the communes of Penco and Concepción, obtaining fifteen
+(15) noise and vibration level sampling points that characterize said sensitive sectors, nine (9) points
+representatives of fauna and two (2) vehicular traffic evaluation points. The first measurement campaign was
+It was carried out between November 28 and December 2, 2022, while the second campaign was developed
+on January 18 and 19, 2024.
+The applied methodology allowed us to determine the magnitude
+of the acoustic emissions that the Project will generate and, from
+of this, evaluate the potential impact that it could generate on its environment.
+This evaluation was carried out under the guidelines indicated in the “Guide for the prediction and evaluation of impacts
+for noise and vibration in the SEIA, of the Environmental Evaluation Service (SEA).
+For this purpose, receptors located in the closest sectors of the Project were identified, for which
+determined the maximum allowed.
+During the daytime period, the recorded NPS vary between 35 and 63 [dB(A)], where the main noise sources
+eq
+correspond to wild birds, effect of wind on foliage, operation of machinery inside the Landfill and
+vehicular traffic on the Itata Highway, Carretera a Tome, Route O-390 and By-Pass Penco, during the night period
+The recorded NPS fluctuate between 29 and 52 [dB(A)], where levels are mainly influenced by crickets,
+eq
+distant traffic, noise due to the effect of wind on foliage and wild birds.
+For the fauna points, the NPS recorded vary between 37.5 and 47.8 [dB(A)] for the daytime period, while
+eq
+For the night period, the NPS recorded vary between 34.8 and 47.5 [dB(A)], where the main noise sources
+eq
+correspond to wild birds, water flow and distant vehicular traffic, it is worth mentioning that for the period
+At night, in addition to the previously mentioned noise sources, it was possible to perceive that the presence of birds
+wild is greater than in the daytime period.
+On the other hand, continuous measurements of one (1) hour were carried out in two (2) receivers, in order to obtain the
+existing level according to the LDN descriptor, based on methods established by the FTA guide - Transit Noise and Vibration
+Impact Assessment Manual, where the existing levels are 61 LDN [dB(A)] for point A and 46 LDN
+[dB(A)] for point B.
+Finally, measurements of vibration velocity level (Lv) and vertical particle velocity (VVP) were made.
+in all the points evaluated. The values obtained obey the natural vibrations of the ground in
+each sector, and to vehicular traffic on nearby routes, with no other clearly identified sources that
+may affect the records. The values recorded at all points are below the threshold of
+human perception defined in the FTA guide, which is 65 [VdB].
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+37
+==================================================================================
+PAGE 40
+==================================================================================
+Finally, these measurements represent the sound environment of the Project and can be used in future
+studies where basal levels of noise and vibrations are required.
+BETSABÉ VÁSQUEZ SÁEZ MAX GLISSER DONOSO
+CIVIL ENGINEER IN SOUND AND ACOUSTICS CIVIL ENGINEER IN SOUND AND ACOUSTICS
+PROJECT MANAGER TECHNICAL MANAGER
+GERARD ACOUSTIC ENGINEERING SPA. GERARD ACOUSTIC ENGINEERING SPA.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+38
+==================================================================================
+PAGE 41
+==================================================================================
+8 INSTRUMENTAL
+▪ 01. Rion brand sound level meter, model NL-52, Class 1 according to IEC 61672-1:2002.
+▪ 01. Sound level calibrator, Rion brand, model NC-74, Class 1.
+▪ 01. Triaxial terrestrial vibration analyzer, Rion brand, model VM-56
+▪ 01. Svantek brand real-time sound level meter and analyzer, model Svan 958A with triaxial accelerometer
+PCB.
+▪ 01. Digital camera;
+▪ 01. Extech brand thermo anemometer, model 45158;
+9 BIBLIOGRAPHY USED
+▪ IEC 61672-1:2002, Electroacoustic – Sound Level Meters – Part 1: Specifications.
+▪ Decree No. 38/2011 of the MMA: Establishes the Noise Standard generated for sources that it indicates, prepared
+from the review of Decree No. 146, of 1997, Ministry of the General Secretary of the Republic.
+▪ Exempt Resolution No. 491/2016 of the SMA: “Issues general instructions on criteria for approval
+of zones of Supreme Decree No. 38, of 2011, of the Ministry of the Environment”, published in the Official Gazette
+on June 8, 2016.
+▪ U.S. Federal Transit Administration Report, Transit Noise and Vibration Impact Assessment Manual, Edition
+Yes
+September 2018.
+▪ Guide for the prediction and evaluation of impacts due to noise and vibration in the SEIA, from the Evaluation Service
+Environmental (SEA), 2019.
+▪ Guide “Evaluation criteria in the SEIA: Evaluation of impacts due to noise on native fauna”, 2022.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+39
+==================================================================================
+PAGE 42
+==================================================================================
+10 PARTICIPANT PROFESSIONALS
+LIST OF PROFESSIONALS
+Project Manager Claudio Salas Castro.
+Technical Manager Max Glisser Donoso.
+Project Manager Betsabé Vásquez Sáez.
+Juan Pablo Martínez Sobarzo
+Project Assistants
+Joaquín Retamal Coloma
+11 GLOSSARY
+a) Decibel [dB]: Dimensionless unit used to express 10 times the logarithm of the ratio between a
+measured quantity and a reference quantity.
+b) Decibel A [dB(A)]: It is the dimensionless unit used to express the sound pressure level, measured with
+the frequency weighting filter A.
+c) Noise emitting source: Any activity, process, operation or device that generates, or may generate,
+noise emissions to the community.
+d) Background noise: is noise that is present at the same place and time of measurement as the source.
+that you want to evaluate, in the absence of this.
+e) Sound Pressure Level (NPS or L): It is expressed in decibels [dB] and is defined by the following relationship
+p
+math:
+𝑃
+1
+𝑁𝑃𝑆 = 20∙log ( )
+10𝑃
+Where:
+𝑃 : Effective value of the measured pressure
+1
+𝑃 : Effective value of the reference sound pressure, set at 2×10-5 [N/m2]
+f) Equivalent Continuous Sound Pressure Level (NPSeq, or Leq): It is that level of sound pressure
+constant, expressed in decibels A, that in the same time interval, contains the same total energy
+(or dose) than the measured noise.
+g) Maximum Sound Pressure Level (NPS): It is the highest NPS recorded during the measurement period.
+max
+with slow response.
+h) Minimum Sound Pressure Level (NPS): It is the lowest NPS recorded during the measurement period.
+min
+with slow response.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+40
+==================================================================================
+PAGE 43
+==================================================================================
+i) Corrected Sound Pressure Level (NPC): It is that equivalent continuous sound pressure level, which
+results from applying the measurement procedure and the corrections defined in the S.D. No. 38/2011 of the MMA.
+j) Receiver: Any person who lives, resides or remains in an area, whether a private home or in
+a workplace, which is or may be exposed to noise generated by a noise emitting source
+external.
+k) Slow Response: It is the temporary response of the measuring instrument that evaluates the average energy in
+an interval of 1 second. When the instrument measures the sound pressure level with a slow response, said
+level is called Slow NPS. If the A-weighting filter is also used, the level obtained is expressed
+in [dB(A)] Slow.
+l) Vibrations: Disturbance that causes the oscillation of bodies about their equilibrium position.
+m) Accelerometer: Device that converts the effects of mechanical movement into an electrical signal, which
+It is proportional to the acceleration value of the movement.
+n) Effective speed or RMS: Root mean square (RMS) value of the speed of the vibration wave.
+o) Reference speed: Speed used to transform the vibrating speed into speed level
+inch
+vibration, such as 10–6 [ ]], defined in international regulations.
+yes
+p) Speed Level (Lv): It is expressed in decibels [dB] and is defined by the following mathematical relationship:
+v
+L = 20∙log ( )
+v 10 v
+ref
+Where:
+inch
+v: Measured Speed value, in units [ ]]
+yes
+inch
+v: Reference speed value, set at 1×10-6 [ ]
+ref
+yes
+q) Measurement directions: Coordinate system that originates at the point from which it is considered
+that enters the vibration into the human body.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+41
+==================================================================================
+PAGE 44
+==================================================================================
+ANNEX I
+MEDICI FILES
+HUMAN RECEIVER
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+42
+==================================================================================
+PAGE 45
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 1
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, located next to Las Pataguas road.
+Point 1
+Effective use Residential
+Zoning D.S No. 38/2011 Zone II
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680390 5932896
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+43
+==================================================================================
+PAGE 46
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 1
+Measurement background
+Day-Night Measurement Period
+Date 11-29-2022 11-29-2022
+Time 16:22 22:24
+Meteorological Conditions
+Wind speed [m/s] 2.5 1.5
+Temperature [ºC] 28.0 16.0
+Relative humidity [%] 42.0 84.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 41.5 48.1 47.8 41.9 42.3 -
+eq
+NPS /NPS [dB(A)] 35.5 67.0 37.0 53.8
+min max
+Observation during measurements
+Wild birds, distant vehicular traffic Wild birds, distant vehicular traffic
+Main sources by Carretera a Tomé and local street, by Carretera a Tomé, crickets, effect
+distant air traffic. wind on the foliage
+Vibrations
+VVP [mm/s] / Lv [VdB] 2.51E-02 59.9 1.34E-02 54.4
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+44
+==================================================================================
+PAGE 47
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 2
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 2-story house located next to Route O-390.
+Point 2
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680671 5932437
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+45
+==================================================================================
+PAGE 48
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 2
+Measurement background
+Day-Night Measurement Period
+Date 11-29-2022 11-29-2022
+Time 15:53 22:27
+Meteorological Conditions
+Wind speed [m/s] 1.0 0.0
+Temperature [ºC] 33.0 16.0
+Relative humidity [%] 36.0 82.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 47.1 46.0 - 36.6 36.9 -
+eq
+NPS /NPS [dB(A)] 33.6 66.2 33.9 43.5
+min max
+Observation during measurements
+Wild birds, distant vehicular traffic Wild birds, distant vehicular traffic
+Main sources
+on the road to Tomé. On the road to Tomé, crickets.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.81E-02 57.1 1.31E-02 54.2
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+46
+==================================================================================
+PAGE 49
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 3
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Entrance to forest property, located on the interior road to Route O-390.
+Point 3
+Industrial effective use
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+681441 5932015
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+47
+==================================================================================
+PAGE 50
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 3
+Measurement background
+Medici period
+Daytime Nighttime
+Date 11-29-2022 11-29-2022
+Time 15:26 21:58
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 32.0 16.0
+Relative humidity [%] 37.0 82.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 52.3 53.5 - 36.8 36.3 -
+eq
+NPS /NPS [dB(A)] 31.5 70.7 32.6 41.4
+min max
+Observation during measurements
+Wild birds, vehicular traffic by Wild birds, crickets, wind effect
+Main sources
+Route O-390. over the foliage, distant vehicular traffic.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.47E-02 55.2 1.38E-02 54.7
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+48
+==================================================================================
+PAGE 51
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 4
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Complex of 1-story homes, located on the interior road to Route O-390
+Point 4
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+682281 5932438
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+49
+==================================================================================
+PAGE 52
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 4
+Measurement background
+Day-Night Measurement Period
+Date 11-28-2022 11-29-2022
+Time 18:35 0:18
+Meteorological Conditions
+Wind speed [m/s] 2.2 1.2
+Temperature [ºC] 19.0 14.0
+Relative humidity [%] 65.0 73.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 37.0 36.2 - 30.0 29.7 -
+eq
+NPS /NPS [dB(A)] 30.9 51.0 27.4 36.0
+min max
+Observation during measurements
+Wild birds, distant vehicular traffic
+Wild birds, effect of the wind on
+Main sources along Route O-390, free-range animals,
+foliage, barnyard animals.
+wind effect on foliage slight.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.35E-02 54.5 1.29E-02 54.1
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+50
+==================================================================================
+PAGE 53
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 5
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, located on the interior road to Route O-390.
+Point 5
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+682315 5932496
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+51
+==================================================================================
+PAGE 54
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 5
+Measurement background
+Day-Night Measurement Period
+Date 11-28-2022 11-28-2022
+Time 17:45 23:28
+Meteorological Conditions
+Wind speed [m/s] 2.2 1.0
+Temperature [ºC] 18.7 14.0
+Relative humidity [%] 63.0 71.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 43.3 41.6 - 29.2 28.7 -
+eq
+NPS /NPS [dB(A)] 35.1 59.4 27.3 36.6
+min max
+Observation during measurements
+Vehicular traffic on internal roads,
+Wild and poultry birds, effect of
+Main sources of wild birds and effect of wind on
+wind on the foliage, crickets.
+the foliage.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.34E-02 54.5 1.29E-02 54.1
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+52
+==================================================================================
+PAGE 55
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 6
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Joint Location
+of 1-story homes, located on the interior road to Route O-390
+Point 6
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+682568 5932367
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+53
+==================================================================================
+PAGE 56
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 6
+Measurement background
+Day-Night Measurement Period
+Date 11-28-2022 11-28-2022
+Time 18:13 23:55
+Meteorological Conditions
+Wind speed [m/s] 2.0 1.2
+Temperature [ºC] 19.0 14.0
+Relative humidity [%] 63.0 71.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 35.9 35.1 - 29.0 29.0 -
+eq
+NPS /NPS [dB(A)] 29.7 46.1 27.0 41.3
+min max
+Observation during measurements
+Free range animals, wild birds,
+effect of wind on slight foliage, wild and poultry birds, effect of
+Main sources
+distant vehicular traffic on Route O- wind on the foliage, crickets.
+390.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.35E-02 54.5 1.30E-02 54.2
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+54
+==================================================================================
+PAGE 57
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 7
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+1-story house and restaurant "Donde Zulema", located next to Ruta O-
+Location
+390.
+Point 7
+Effective Residential/Commercial Use
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+683019 5932079
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+55
+==================================================================================
+PAGE 58
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 7
+Measurement background
+Day-Night Measurement Period
+Date 11-28-2022 11-28-2022
+Time 17:15 22:27
+Meteorological Conditions
+Wind speed [m/s] 2.0 2.0
+Temperature [ºC] 20.0 14.0
+Relative humidity [%] 60.0 82.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 56.2 62.7 61.7 39.9 39.6 -
+eq
+NPS /NPS [dB(A)] 30.5 84.9 34.0 48.6
+min max
+Observation during measurements
+Vehicular traffic on interior roads, wild birds, effect of wind on
+Main sources wild birds and effect of wind on foliage, distant vehicular traffic through
+the foliage, distant community noise. Itata Highway.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.65E-02 56.3 1.27E-02 54.0
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+56
+==================================================================================
+PAGE 59
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 8
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, located next to Route O-390.
+Point 8
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+683194 5932076
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+57
+==================================================================================
+PAGE 60
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 8
+Measurement background
+Day-Night Measurement Period
+Date 11-28-2022 11-28-2022
+Time 16:50 22:33
+Meteorological Conditions
+Wind speed [m/s] 3.0 2.0
+Temperature [ºC] 20.0 14.0
+Relative humidity [%] 52.0 82.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 61.2 63.8 63.3 39.9 39.6 -
+eq
+NPS /NPS [dB(A)] 34.4 86.0 34.0 48.6
+min max
+Observation during measurements
+Wild birds, vehicular traffic by Wild birds, effect of
+the wind on
+Main sources Route O-390, distant dogs and foliage noise, distant vehicular traffic through
+domiciliary. Itata Highway.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.47E-02 55.2 1.38E-02 54.7
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+58
+==================================================================================
+PAGE 61
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 9
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, close to Landfill
+Point 9
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+681918 5928825
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+59
+==================================================================================
+PAGE 62
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 9
+Measurement background
+Day-Night Measurement Period
+Date 01-12-2022 01-12-2022
+Time 15:02 23:17
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 34.0 15.0
+Relative humidity [%] 34.0 61.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 52.2 51.2 - 53.0 51.1 -
+eq
+NPS /NPS [dB(A)] 43.6 65.7 48.5 69.0
+min max
+Observation during measurements
+Wild birds, machinery operation inside Machinery operation inside
+Main sources inside the Landfill, landfill vehicular traffic, wild birds and traffic
+distant vehicle far from the Landfill.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.84E-02 57.2 1.33E-02 54.4
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+60
+==================================================================================
+PAGE 63
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 10
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Cemarc main checkpoint, 1 floor.
+Point 10
+Administrative/Industrial effective use
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+681542 5929206
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+61
+==================================================================================
+PAGE 64
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 10
+Measurement background
+Day-Night Measurement Period
+Date 01-12-2022 01-12-2022
+Time 15:29 23:47
+Meteorological Conditions
+Wind speed [m/s] 1.0 0.0
+Temperature [ºC] 35.0 15.0
+Relative humidity [%] 30.0 63.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 54.5 55.8 - 51.0 51.6 -
+eq
+NPS /NPS [dB(A)] 46.8 73.4 48.4 65.5
+min max
+Observation during measurements
+Wild birds, machinery operation
+Machinery operation inside
+Main sources inside the Landfill, vehicular traffic
+Distant landfill, wild birds.
+to Landfill.
+Vibrations
+VVP [mm/s] / Lv [VdB] 2.08E-02 58.3 1.28E-02 54.1
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+62
+==================================================================================
+PAGE 65
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 11
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, located on an interior road.
+Point 11
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+681359 5929460
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+63
+==================================================
+==================================
+PAGE 66
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 11
+Measurement background
+Day-Night Measurement Period
+Date 01-12-2022 02-12-2022
+Time 14:33 0:08
+Meteorological Conditions
+Wind speed [m/s] 2.0 1.0
+Temperature [ºC] 30.0 15.0
+Relative humidity [%] 34.0 64.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 48.3 46.6 - 49.0 50.7 -
+eq
+NPS /NPS [dB(A)] 38.4 64.2 46.2 75.3
+min max
+Observation during measurements
+Machinery operation inside
+Wild birds, operation
+Landfill, distant vehicular traffic,
+Main sources of machinery inside the Landfill,
+slight generator, wild birds, noise
+barnyard animals, distant dogs.
+mild home
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.77E-02 56.9 1.71E-02 56.6
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+64
+==================================================================================
+PAGE 67
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 12
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Complex of 1 and 2-story homes, located on Calle Los Castaños N°34.
+Point 12
+Effective use Residential
+Zoning D.S No. 38/2011 Zone II
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+678898 5930509
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+65
+==================================================================================
+PAGE 68
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 12
+Measurement background
+Day-Night Measurement Period
+Date 01-12-2022 01-12-2022
+Time 17:46 22:02
+Meteorological Conditions
+Wind speed [m/s] 0.0 1.0
+Temperature [ºC] 23.0 16.0
+Relative humidity [%] 61.0 67.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 52.7 53.3 - 51.0 49.5 -
+eq
+NPS /NPS [dB(A)] 45.4 80.5 43.7 63.2
+min max
+Observation during measurements
+Distant vehicular traffic on the highway
+Distant vehicular traffic on the highway
+Main sources Itata, wild birds, wind effect
+Itata, wild birds, distant dogs.
+on the foliage.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.32E-02 54.3 8.07E-03 50.0
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+66
+==================================================================================
+PAGE 69
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 13
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Complex of 1 and 2-story homes, located on Calle Los Cipreses N°5.
+Point 13
+Effective use Residential
+Zoning D.S No. 38/2011 Zone II
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+679093 5930752
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+67
+==================================================================================
+PAGE 70
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 13
+Measurement background
+Day-Night Measurement Period
+Date 01-12-2022 01-12-2022
+Time 17:16 23:35
+Meteorological Conditions
+Wind speed [m/s] 1.0 0.0
+Temperature [ºC] 23.0 16.0
+Relative humidity [%] 61.0 67.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 58.9 58.7 - 45.0 47.0 -
+eq
+NPS /NPS [dB(A)] 41.8 82.4 41.4 63.3
+min max
+Observation during measurements
+Vehicular traffic on the Itata Highway, Far vehicular traffic on the Highway
+Main sources
+wild birds, distant dogs. Itata, distant dogs.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.38E-02 54.7 1.28E-02 54.0
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+68
+==================================================================================
+PAGE 71
+=============
+========================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 14
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location 1-story house, located on Miramar Street N°990.
+Point 14
+Effective use Residential
+Zoning D.S No. 38/2011 Zone II
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+679242 5931249
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+69
+==================================================================================
+PAGE 72
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 14
+Measurement background
+Day-Night Measurement Period
+Date 11-29-2022 11-29-2022
+Time 17:25 23:49
+Meteorological Conditions
+Wind speed [m/s] 2.0 1.2
+Temperature [ºC] 28.0 14.0
+Relative humidity [%] 37.0 89.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 43.9 44.9 - 48.5 48.5 -
+eq
+NPS /NPS [dB(A)] 39.8 57.6 43.7 54.8
+min max
+Observation during measurements
+Wild birds, distant vehicular traffic
+Wild birds, distant vehicular traffic
+along El Maitén street, vehicular traffic
+Main sources along El Maitén Street, vehicular traffic
+far by By-Pass Penco, but
+distant by By-Pass Penco, crickets.
+occasional distant ones.
+Vibrations
+VVP [mm/s] / Lv [VdB] 2.54E-02 60.0 1.34E-02 54.5
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+70
+==================================================================================
+PAGE 73
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT 15
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+CESFAM Penco health center 2 floors, located on Acceso a Fundo street
+Location
+Copihueco.
+Point 15
+Effective use Health
+Zoning D.S No. 38/2011 Zone II
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+679442 5931734
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+71
+==================================================================================
+PAGE 74
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT 15
+Measurement background
+Day-Night Measurement Period
+Date 11-29-2022 11-29-2022
+Time 16:58 23:21
+Meteorological Conditions
+Wind speed [m/s] 2.0 1.0
+Temperature [ºC] 30.0 14.0
+Relative humidity [%] 39.0 88.0
+noise
+NPS 5 / 10 / 15 min [dB(A)] 53.3 54.1 - 48.1 48.6 -
+eq
+NPS /NPS [dB(A)] 43.5 63.9 44.6 57.9
+min max
+Observation during measurements
+Vehicular traffic through by Pass Penco,
+Crickets, CESFAM air extractors,
+by street Access to Fundo Copihueco,
+Main sources of vehicular traffic through Pass Penco,
+vehicle movement
+distant dogs
+CESFAM parking lot.
+Vibrations
+VVP [mm/s] / Lv [VdB] 2.09E-02 58.3 1.32E-02 54.3
+* Ref: 1 [µin/s]
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+72
+==================================================================================
+PAGE 75
+==================================================================================
+ANNEX II
+FAUNA POINT MEASUREMENT SHEETS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+73
+==================================================================================
+PAGE 76
+==================================================================================
+FAUNA F1 REFERENCE POINT GEOREFERENCE SHEET
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Fauna point associated with native forest
+Point F1
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680920 5931032
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+74
+==================================================================================
+PAGE 77
+=================
+==============================================================
+MEASUREMENT SHEET MEASUREMENT POINT F1
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 11-30-2022
+Time 17:37 22:21
+Meteorological Conditions
+Wind speed [m/s] 2.5 1.0
+Temperature [ºC] 25.0 15.0
+Relative humidity [%] 44.0 64.0
+noise
+NPSeq [dB] 51.6 49.3
+NPS / NPS [dB] 46.7 60.9 44.6 57.0
+min max
+Observation during measurements
+Wild birds, distant vehicular traffic Wild birds, distant vehicular traffic
+Main sources
+by Itata Highway, insects. by Itata Highway, insects.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.53E-02 55.6 1.27E-02 54.0
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+75
+==================================================================================
+PAGE 78
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F2
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Wildlife point associated with plantation
+Point F2
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680812 5928949
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+76
+==================================================================================
+PAGE 79
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F2
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 11-30-2022
+Time 15:41 22:55
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 32.0 13.0
+Relative humidity [%] 42.0 74.0
+noise
+NPSeq [dB] 58.6 47.5
+NPS / NPS [dB] 46.5 67.1 44.4 54.8
+min max
+Observation during measurements
+Wild birds, effect of wind on Wild birds, insects, traffic
+Main sources
+foliage, distant vehicular traffic. distant vehicular
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.85E-02 57.3 1.28E-02 54.0
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+77
+==================================================================================
+PAGE 80
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F3
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Wildlife point associated with plantation
+Point F3
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680203 5928355
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+78
+==================================================================================
+PAGE 81
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F3
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 11-30-2022
+Time 16:19 23:37
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 30.0 12.0
+Relative humidity [%] 40.0 78.0
+noise
+NPSeq [dB] 49.4 48.3
+NPS / NPS [dB] 33.8 78.0 44.4 54.7
+min max
+Observation during measurements
+Wild birds, effect of wind on Wild birds, insects, traffic
+Main sources
+foliage, distant vehicular traffic. distant vehicular
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.73E-02 56.6 1.27E-02 54.0
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+79
+==================================================================================
+PAGE 82
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F4
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Fauna point associated with scrub
+Point F4
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+680634 5930114
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+80
+==================================
+===========================================================
+PAGE 83
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F4
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 11-30-2022
+Time 17:07 21:56
+Meteorological Conditions
+Wind speed [m/s] 2.0 1.5
+Temperature [ºC] 28.0 18.0
+Relative humidity [%] 40.0 62.0
+noise
+NPSeq [dB] 62.8 59.2
+NPS / NPS [dB] 54.8 71.1 51.0 69.3
+min max
+Observation during measurements
+Wild birds, insects, stream
+Wild birds, distant vehicular traffic
+Main sources of water vehicular traffic along Avenida del
+by Itata Highway, insects.
+Itata.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.71E-02 56.5 1.31E-02 54.3
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+81
+==================================================================================
+PAGE 84
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F5
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Fauna point associated with wild forest
+Point F5
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+679647 5929447
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+82
+==================================================================================
+PAGE 85
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F5
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 12-01-2022
+Time 15:00 0:23
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 30.0 11.0
+Relative humidity [%] 48.0 80.0
+noise
+NPSeq [dB] 53.2 49.5
+NPS / NPS [dB] 48.7 60.7 46.2 57.4
+min max
+Observation during measurements
+Wild birds, effect of the wind on
+Wild birds, insects, traffic
+Main sources foliage, movement and fall of
+distant vehicular
+distant material.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.98E-02 57.9 1.27E-02 54.0
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+83
+==================================================================================
+PAGE 86
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F6
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez - Joaquín Retamal
+Location Fauna point associated with native forest
+Point F6
+Datum: WGS 84 Zone: 18H
+UTM East North Coordinates
+682181 5930423
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+84
+==================================================================================
+PAGE 87
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F6
+Measurement background
+Day-Night Measurement Period
+Date 11-30-2022 11-30-2022
+Time 18:09 21:33
+Meteorological Conditions
+Wind speed [m/s] 1.0 1.0
+Temperature [ºC] 24.0 19.0
+Relative humidity [%] 45.0 52.0
+noise
+NPSeq [dB] 47.9 46.6
+NPS / NPS [dB] 45.2 54.4 45.1 53.3
+min max
+Observation during measurements
+Wild birds, insects, stream
+Main sources Wild birds, water current.
+water.
+Vibrations
+VVP [mm/s] / Lv [VdB] 1.98E-02 55.1 1.27E-02 54.1
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+85
+==================================================================================
+PAGE 88
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F7
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez Sobarzo
+Location Representative area of fauna, close to a stream.
+Point F7
+Datum: WGS84 Zone: 18H
+UTM East North Coordinates
+681535 5930108
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR D PRODUCTION
+E RARE EARTH - REV. b
+86
+==================================================================================
+PAGE 89
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F7
+Measurement background
+Day-Night Measurement Period
+Date 01-18-2024 01-18-2024
+Time 14:17 23:01
+Meteorological Conditions
+Wind speed [m/s] 5.0 0.0
+Temperature [ºC] 32.0 15.0
+Relative humidity [%] 34.0 51.2
+noise
+NPSeq [dB] 59.0 57.6
+NPS / NPS [dB] 49.3 73.8 51.7 72.7
+min max
+Observation during measurements
+Wild birds, effect of the wind on
+Insects and occasional vehicular traffic
+Main sources foliage and vehicular traffic from Ruta
+via North Access Route.
+North Access.
+Vibrations
+VVP [mm/s] Lv [VdB] 6.93E-04 28.7 5.86E-04 27.3
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+87
+==================================================================================
+PAGE 90
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F8
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez Sobarzo
+Location Representative fauna sector, located in native forest.
+Point F8
+Datum: WGS84 Zone: 18H
+UTM East North Coordinates
+681433 5930957
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+88
+==================================================================================
+PAGE 91
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F8
+Measurement background
+Day-Night Measurement Period
+Date 01-18-2024 01-18-2024
+Time 16:06 22:33
+Meteorological Conditions
+Wind speed [m/s] 0.0 0.0
+Temperature [ºC] 30.0 14.0
+Relative humidity [%] 40.4 57.6
+noise
+NPSeq [dB] 45.7 48.0
+NPS / NPS [dB] 42.4 50.1 43.3 59.8
+min max
+Observation during measurements
+Effect of wind on foliage, flow
+Insects, wild birds and water flow
+Main sources of mild stream, wild birds and
+slight stream.
+occasional distant vehicular traffic.
+Vibrations
+VVP [mm/s] Lv [VdB] 5.69E-04 27.0 5.62E-04 26.9
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+89
+==================================================================================
+PAGE 92
+==================================================================================
+FAUNA REFERENCE POINT GEOREFERENCE SHEET F9
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez Sobarzo
+Representative fauna sector, located between the interior road to Cemarc and Ruta
+Location
+North Access.
+Point F9
+Datum: WGS84 Zone: 18H
+UTM East North Coordinates
+680718 5929566
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+90
+==================================================================================
+PAGE 93
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT F9
+Measurement background
+Day-Night Measurement Period
+Date 01-18-2024 01-18-2024
+Time 13:27 23:27
+Meteorological Conditions
+Wind speed [m/s] 3.0 0.0
+Temperature [ºC] 32.0 12.0
+Relative humidity [%] 34.0 58.1
+noise
+NPSeq [dB] 52.6 50.0
+NPS / NPS [dB] 45.8 66.2 39.6 58.8
+min max
+Observation during measurements
+Wild birds, insects, effect of
+wind on foliage, vehicular traffic Insects and occasional vehicular traffic
+Main sources
+far by North Access Route and by North Access Route.
+occasional by private road to Cemarc.
+Vibrations
+VVP [mm/s] Lv [VdB] 6.63E-04 28.3 7.31E-04 29.2
+PHOTOGRAPHS
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+91
+==================================================================================
+PAGE 94
+==================================================================================
+ANNEX III
+LEQ MEASUREMENT SHEETS (H)
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+92
+=====================================================
+=====================================================
+PAGE 95
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT A
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez
+Location Cemarc main checkpoint, 1 floor.
+Point A
+Administrative/Industrial effective use
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS84 Zone: 18 H
+UTM East North Coordinates
+681578 5929337
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+93
+==================================================================================
+PAGE 96
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT A
+Measurement background
+Daytime Measurement Period
+Date 01-19-2024
+Time 10:40
+Meteorological Conditions
+Wind speed [m/s] 1.3
+Temperature [ºC] 28.0
+Relative humidity [%] 31.0
+noise
+Leq (h) [dB(A)] 63
+NPS /NPS [dB(A)] 47.9 84.3
+min max
+Observation during measurements
+Main sources Heavy vehicle traffic, operation from landfill, wild birds.
+Vibrations
+VVP [mm/s] Lv [VdB] 1.22E-02 53.6
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+94
+==================================================================================
+PAGE 97
+==================================================================================
+GEOREFERENCE SHEET MEASUREMENT POINT B
+Project Clay Extraction Project for the Production of Rare Earths
+Land Operator Juan Pablo Martínez
+Location 1-story house, located on an interior road.
+Point B
+Effective use Residential
+Zoning D.S No. 38/2011 Rural Area
+Datum: WGS84 Zone: 18 H
+UTM East North Coordinates
+681359 5929460
+EXPANDED VIEW OF MEASUREMENT POINT.
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+95
+==================================================================================
+PAGE 98
+==================================================================================
+MEASUREMENT SHEET MEASUREMENT POINT B
+Measurement background
+Daytime Measurement Period
+Date 01-19-2024
+Time 8:40
+Meteorological Conditions
+Wind speed [m/s] 2.1
+Temperature [ºC] 17.4
+Relative humidity [%] 49.6
+noise
+Leq (h) [dB(A)] 48
+NPS /NPS [dB(A)] 39.6 65.4
+min max
+Observation during measurements
+Traffic of heavy vehicles, wild birds and backup alarms from
+Main sources
+sanitary landfill
+Vibrations
+VVP [mm/s] Lv [VdB] 3.62E-03 43.1
+LOCATION PHOTOGRAPHY
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+96
+==================================================================================
+PAGE 99
+==================================================================================
+ANNEX IV
+CALIBRATION CERTIFICATES
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+97
+==================================================================================
+PAGE 100
+==================================================================================
+SVANTEK SVAN 958-A SOUNDMETER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+98
+==================================================================================
+PAGE 101
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+99
+==================================================================================
+PAGE 102
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+100
+==================================================================================
+PAGE 103
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+101
+==============================================================================
+======
+PAGE 104
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+102
+==================================================================================
+PAGE 105
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+103
+==================================================================================
+PAGE 106
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+104
+==================================================================================
+PAGE 107
+==================================================================================
+CALIBRATION CERTIFICATE FOR SVANTEK SV33 ACOUSTIC CALIBRATOR
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+105
+==================================================================================
+PAGE 108
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+106
+==================================================================================
+PAGE 109
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+107
+==================================================================================
+PAGE 110
+==================================================================================
+PCB TRIAXIAL ACCELEROMETER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+108
+==================================================================================
+PAGE 111
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+109
+==================================================================================
+PAGE 112
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+110
+==================================================================================
+PAGE 113
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+111
+==================================================================================
+PAGE 114
+==================================================================================
+RION NL-52 SOUND METER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+112
+==================================================================================
+PAGE 115
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+113
+==================================================================================
+PAGE 116
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+114
+==================================================================================
+PAGE 117
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+115
+==================================================================================
+PAGE 118
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+116
+==============================================================================
+==
+PAGE 119
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+117
+==================================================================================
+PAGE 120
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+118
+==================================================================================
+PAGE 121
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+119
+==================================================================================
+PAGE 122
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+120
+==================================================================================
+PAGE 123
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+121
+==================================================================================
+PAGE 124
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+122
+==================================================================================
+PAGE 125
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+123
+==================================================================================
+PAGE 126
+==================================================================================
+ISP ACCEPTANCE LETTER RION NL-52 SOUND METER
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+124
+==================================================================================
+PAGE 127
+==================================================================================
+RION NC-74 CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+125
+==================================================================================
+PAGE 128
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+126
+==================================================================================
+PAGE 129
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+127
+==================================================================================
+PAGE 130
+==================================================================================
+RION VM TRIAXIAL ACCELEROMETER CALIBRATION CERTIFICATE - 56
+SVANTEK SVAN 958-A SOUNDMETER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+128
+==================================================================================
+PAGE 131
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+129
+==================================================================================
+PAGE 132
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+130
+==================================================================================
+PAGE 133
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+131
+===============================
+==================================================
+PAGE 134
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+132
+==================================================================================
+PAGE 135
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+133
+==================================================================================
+PAGE 136
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+134
+==================================================================================
+PAGE 137
+==================================================================================
+CALIBRATION CERTIFICATE FOR SVANTEK SV33 ACOUSTIC CALIBRATOR
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+135
+==================================================================================
+PAGE 138
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+136
+==================================================================================
+PAGE 139
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+137
+==================================================================================
+PAGE 140
+==================================================================================
+PCB TRIAXIAL ACCELEROMETER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+138
+==================================================================================
+PAGE 141
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+139
+==================================================================================
+PAGE 142
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+140
+==================================================================================
+PAGE 143
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+141
+==================================================================================
+PAGE 144
+==================================================================================
+RION NL-52 SOUND METER CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+142
+==================================================================================
+PAGE 145
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+143
+==================================================================================
+PAGE 146
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+144
+==================================================================================
+PAGE 147
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+145
+==================================================================================
+PAGE 148
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+146
+================================================
+===========================================================
+PAGE 149
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+147
+==================================================================================
+PAGE 150
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+148
+==================================================================================
+PAGE 151
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+149
+==================================================================================
+PAGE 152
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+150
+==================================================================================
+PAGE 153
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+151
+==================================================================================
+PAGE 154
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+152
+==================================================================================
+PAGE 155
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+153
+==================================================================================
+PAGE 156
+==================================================================================
+ISP ACCEPTANCE LETTER RION NL-52 SOUND METER
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+154
+==================================================================================
+PAGE 157
+==================================================================================
+RION NC-74 CALIBRATION CERTIFICATE
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+155
+==================================================================================
+PAGE 158
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+156
+==================================================================================
+PAGE 159
+==================================================================================
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+157
+==================================================================================
+PAGE 160
+==================================================================================
+RION VM TRIAXIAL ACCELEROMETER CALIBRATION CERTIFICATE - 56
+NOISE AND VIBRATION BASELINE
+CLAY EXTRACTION PROJECT FOR RARE EARTH PRODUCTION - REV. b
+158

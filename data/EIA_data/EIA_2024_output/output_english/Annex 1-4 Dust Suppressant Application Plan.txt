@@ -1,0 +1,423 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 1-4
+Dust Suppressant Application Plan
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Report Number
+1615421
+Original
+Road dust suppression plan
+paved, application and monitoring in
+“Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+for Aclara Resources
+Santiago, January 26, 2024
+==================================================================================
+PAGE 3
+==================================================================================
+Project Title Body of the Progress Report
+Dust suppression plan on unpaved roads, 11 sheets (includes cover)
+application and monitoring in “Development Project
+Clay Extraction Miner for the Production of
+Rare Earth Concentrate”
+Authors: Report date
+Project Manager: Álvaro González V. January 30, 2024
+Project engineering: Jonathan Valderrama R. Contractual Information
+Dictuc S.A. OC N°: 4570073159 of 01-29-2024
+Vicuña Mackenna Nº 4860, Macul – Santiago
+Data Client Technical counterparty
+Company Name: Ree Uno SpA Name: Viviana Flores
+RUT: 76.181.614-4 Position: Environmental Engineer
+Address: Cerro El Plomo 5630, Piso 15, Las Condes E-mail: viviana.flores@aclara-re.com
+Mr. Álvaro González V. Mr. Felipe Bahamondes
+Road Engineering Unit General Manager
+Dictuc S.A. Dictuc S.A.
+==================================================================================
+PAGE 4
+==================================================================================
+GENERAL RULES
+ This report presents the recommendations of the study “Dust suppression plan in
+unpaved roads, application and monitoring in “Mining Development Project
+of Clay Extraction for the Production of Rare Earth Concentrate” started in
+December 2021, and cancels and replaces report 1598876 of April 17, 2023
+ This report was prepared by Dictuc at the request of the Principal for use to be defined by him,
+under your exclusive responsibility.
+ The scope of this study is explicitly defined in Section 3 of this report.
+The conclusions of this report are limited to the information available for its execution, until the
+date.
+ The information contained in this report may not be reproduced in whole or in part,
+for advertising purposes, without the prior written authorization of Dictuc through a Marketing Contract.
+Brand Use.
+ The Principal may state and leave verbal and written evidence, in front of third parties, whether they are
+judicial or extrajudicial authorities, that the work was prepared by Dictuc, and if it decides
+deliver knowledge of this Dictuc report to any third party, must do so in
+complete and complete form, and not parts thereof.
+ This report is the property of the Principal, however, if Dictuc receives the request for a
+judicial instance will deliver a copy of this document to the court that requires it, prior
+written communication to the Principal.
+ This report is the result of the methodologies developed by Dictuc, the scope of the
+entrusted report and the background information that the Principal made available to Dictuc. The
+Principal expressly accepts that the results of this report may, ultimately,
+not be favorable to their particular interests.
+ The Principal declares that he knows and accepts the general terms and conditions for the provision of
+services, available to the public on its official website www.dictuc.cl/tyc.
+Dust suppression plan on unpaved roads, application and monitoring in “Mining Development Project of
+Extraction of Clays for the Production of Rare Earth Concentrates”
+Report 1615421
+Page 3 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 5
+===================
+==============================================================
+Content
+1. Introduction ................................................................................................................................... 5
+2. Objectives ................................................................................................................................... 5
+3. Scope of the measures ........................................................................................................................... 5
+4. General maintenance measures ........................................................................................... 7
+4.1 Application planning ........................................................................................... 7
+4.2 General application recommendations obtained from the road under study ................................... 8
+5. Control measures ................................................................................................................... 9
+5.1 Characteristics of the measuring equipment for control ........................................................... 9
+5.2 Installation of the equipment in a vehicle ................................................................................... 10
+5.3 Characteristics of the sections to be measured ................................................................................... 10
+6. Adjustments to the maintenance plan ....................................................................................................... 11
+Dust suppression plan on unpaved roads, application and monitoring in “Mining Development Project of
+Extraction of Clays for the Production of Rare Earth Concentrates”
+Report 1615421
+Page 4 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 6
+==================================================================================
+Report No. 1615421
+Original
+1. Introduction
+Ree Uno SpA has requested advice from Dictuc's Road Engineering Unit for the management of
+its unpaved roads from its “Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate” (The Project), located in the communes of Penco and
+Conception. The project requires defining and taking actions to reduce the natural emission of
+particulate matter emitted by vehicle traffic on unpaved roads in the
+project, in order to meet the objectives set out in its environmental planning.
+This progress report provides recommendations so that efficiency in the
+Suppression of particulate matter from the circulation of vehicles on unpaved roads is
+equal to or greater than 80%, considering both maintenance and control actions.
+2. Objectives
+The objectives of the consultancy are:
+ Recommend general maintenance measures for unpaved roads that are
+are in operation during the useful life of the project.
+ Recommend general monitoring actions that allow obtaining indicators of
+performance of the reduction of particulate matter emitted by vehicle traffic in
+the unpaved roads of the project.
+ Present procedures and parameters that allow future changes to be made to the plan.
+of maintenance, in a way that allows evaluating new techniques, technologies and practices
+that may arise during the useful life of the project.
+3. Scope of the measures
+The scope of the plan applies to unpaved roads that are operational and that are
+traveled by vehicles and machinery during the activities of the “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production.”
+General recommendations are provided that can be adopted by the “Mining Development Project.”
+of Clay Extraction for the Production of Rare Earth Concentrate” tending to reduce
+emissions of suspended particulate matter from vehicle traffic on non-road roads
+paved. General actions to control particulate matter are recommended that can
+ensure compliance with the objectives set, as well as their monitoring over time.
+The recommendations provided in this maintenance plan are general and not
+necessarily replace adequate road engineering that can further reduce the
+particulate matter from roads.
+Dust suppression plan on unpaved roads, application and monitoring
+ent in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 5 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 7
+==================================================================================
+Report No. 1615421
+Original
+The recommendations delivered focus on paths that have (Figure 3-1) or will have
+dust suppression treatment. On those roads that are not treated, and that
+in an extraordinary way they must be traveled by some machinery or vehicle, it is suggested
+establish a maximum speed of 10 km/h in order to minimize the suspension of material
+particulate.
+Figure 3-1: Roads with dust suppressant application.
+Dust suppression plan on unpaved roads, application and monitoring in “Dust Suppression Plan
+on unpaved roads, application and monitoring in “Mining Development Project for the Extraction of
+Clays for the Production of Rare Earth Concentrates”
+Report 1615 421
+Page 6 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 8
+==================================================================================
+Report No. 1615421
+Original
+4. General maintenance measures
+4.1 Application planning
+According to the information obtained in the study carried out on the ground in a particular section of the
+project and reported in Dictuc report 1573881 for Aclara Resources, to achieve efficiency1
+desired you can apply the DMS-DS100 polymeric dust suppressant product, or any other
+demonstrate equal or greater efficiency in dust suppression, every no more than eight days. This
+Frequency may vary in other areas of the project and according to the particular conditions of
+weather and traffic.
+It is recommended to schedule dust suppressant applications on unpaved roads
+with a weekly irrigation plan, which is the product of planning that must be carried out
+analyzing the variables associated with the characteristics and conditions of the roads to be treated.
+Irrigation planning considers the following stages: obtaining variables, modeling
+performance, approval of the engineering area, and verification (or not) of compliance with the
+performance indicators. With this information it is decided (or not) if it is necessary to carry out the
+application of dust suppressant and the amount to be applied.
+Weekly planning must take into account the following road variables: type of
+road, traffic type, KPI, PM10, and cumulative dose:
+• Type of Road: Refers to the type of vehicle that uses the road. Normally it is
+They have two levels: primary and secondary. The primary roads are those in which
+large trucks or CAEX circulate and the secondary roads correspond to
+roads on which large trucks do not circulate, that is, roads for vehicles
+light.
+• Type of Traffic: Refers to the intensity of traffic that a road presents, which
+It is usually divided into high and low. This classification only affects primary roads.
+• PM10: Refers to the level of emissions, in Particles per Cubic Centimeter (PCC) that
+presents each path in its last measurement (to be explained in Section 5).
+• KPI: Refers to the general level of emissions measured in PCC. It is a unique value that
+represents the state of the roads at the network level.
+1 Efficiency is defined as the percentage reduction of particulate matter achieved by a treatment
+dust suppressant. All efficiency requires knowing a baseline or quantity of particles that
+It initially emits a path, before applying a dust suppressant. Once the suppressor is applied
+powder and subsequent measurements are made, the efficiency is calculated as 100% minus the quotient between the
+subsequent measurement and the baseline, expressed as a percentage.
+Dust suppression plan on unpaved roads, application and monitoring in “Dust Suppression Plan
+on unpaved roads, application and monitoring in “Mining Development Project for the Extraction of
+Clays for the Production of Rare Earth Concentrates”
+Report 1615 421
+Page 7 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 9
+========================================
+=========================================
+Report No. 1615421
+Original
+• Cumulative dose: Refers to the historical amount of dust suppressant applied in l/m²
+that has been applied on each road or section after the last major intervention with
+machinery that has had the road surface.
+4.2 General application recommendations obtained from the road under study
+For the application of the dust suppression treatment, a plant may be installed inside the
+task, or the dust suppressant product may come premixed in tank trucks. The
+concentration in the initial application of each path will be 1:10, and subsequently it may be
+adjusted according to the supplier's instructions, and performance in each path.
+In the event that the road has not been previously treated with dust suppressant, it is important
+Consider the preparation of the existing surface. In this case, work will be carried out
+Previous repairs if the existing road surface has any of the following problems:
+loose material, potholes, calamines, chuscals, subsidence due to the instability of the
+subgrade and areas that have a very altered surface appearance. In these cases, we will proceed
+to remove and replace the thickness necessary to eliminate this defect in a minimum of 10 cm of
+depth. If the path to be treated does not present the problems described above,
+Only a simple profiling with a motor grader will be enough to level the platform and make it
+The material is permeable, allowing the additive to penetrate the surface. During profiling,
+Loose and oversized stones will be removed. Subsequently, it must be done
+a complete irrigation with water prior to application of the additive since humidification favors the
+additive penetration.
+Dust suppressing irrigations will be applied uniformly over the entire width of the surface,
+using a tank truck equipped with an irrigation bar with sprinklers and a self-contained pump,
+which will ensure constant and homogeneous irrigation, independent of the speed and progress of the
+truck. This homogeneity will be controlled 3 times for every 50 m3 applied, with the method of
+tray developed by Dictuc. This motor pump must have a shut-off valve that is
+controlled from the cab to prevent solution spills when the truck stops.
+It must also have a speedometer or, failing that, a tachometer that allows measuring the
+engine revolutions, in order to control the speed of the truck.
+The unpaved road under study is described in more detail in Dictuc report 1573881 for
+Clarifies Resources. The road is located in an area with forest crops, and connects
+with the Cemarc Landfill so it has a significant flow of trucks. The appreciation
+visual of the road during the field visit carried out indicates that the surface has a condition
+of satisfactory regularity, being able to maintain safe and comfortable driving for a
+unpaved road under the conditions observed during the field visit days. By
+These conditions were selected for the present study, since it is the road within the area
+that best represents the network of roads that will be operational during the operation of the
+project.
+Dust suppression plan on unpaved roads, application and monitoring in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 8 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 10
+==================================================================================
+Report No. 1615421
+Original
+Control of the application of dust suppressant will be carried out by keeping an application record,
+through a physical and/or digital record, which must have at least the following information:
+ Date and time of start and end of application
+ Path and start and end point of application (accompany GPS file)
+ Amount of suppressor applied
+ Measured dose per m2 by tray method, recording application speed.
+ Application width
+ Application length
+ Responsible and signature
+5. Control measures
+5.1 Characteristics of the measuring equipment for control
+To determine the efficiency of the treatments applied, at least one monitoring must be done.
+annually in a representative sample d
+e roads in operation, with a time window that
+allows evaluating its evolution between applications, with at least three measurements per section, in
+summer season. This monitoring may be more frequent in the event that the
+project conditions (e.g. increased traffic).
+It is recommended to carry out the measurements with portable direct quantification equipment for measuring
+particulate matter such as the Turnkey Brand Dustmate model or similar equipment, which records data
+of particulate matter per unit volume of air (Figure 5-1). This equipment performs analysis
+photometric of a standard air sample, allowing the diameter of the particles to be identified
+contained in the sample and establish their total mass in micrograms per cubic meter
+(gr/m3) of air or in the number of particles per cubic centimeter of air (PCC).
+Figure 5-1 Dustmate Team
+Dust suppression plan on unpaved roads, application and monitoring in “Clay Project for
+Production of Rare Earth Concentrate”
+Report 1615421
+Page 9 of 13
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 11
+==================================================================================
+Report No. 1615421
+Original
+5.2 Installation of the equipment in a vehicle
+The Dustmate measurement probe must be installed in the rear bumper of a
+truck, facing the opposite side of the exhaust outlet (Figure 5-2). At the same time, the
+air inlet of the probe is connected to the equipment through a flexible duct of diameter
+interior of 4 millimeters. The air intake should be located approximately 40 centimeters from the
+ground (which corresponds to approximately 50% of the height of the tire from the ground) and 110
+centimeters from the source of particulate matter generation by traction (car tire).
+vehicle).
+Figure 5-2 Dustmate equipment probe location
+The same truck must be used during testing to eliminate tire type as
+a variable. The measurements must be carried out accompanied by a GPS device, which allows
+record the position of the vehicle during measurements, to georeference the measurements
+carried out.
+5.3 Characteristics of the sections to be measured
+Measurements should not be made when the road is newly moistened or the presence of
+of mud, since on the one hand the emission of particulate matter will be zero, and on the other hand the sensor
+placed at the rear of the vehicle will become covered in mud, altering the following measurements if
+It is not cleaned properly.
+The sections must be between 300 to 1,000 meters in length. The section must be in condition
+natural at the time of raising the baseline2 (which may be set at the beginning of the project, or may
+2 The baseline refers to the number of particles that a path initially emits, before applying
+a dust suppressant and can be measured with truck-mounted Dustmate equipment or similar.
+Dust suppression plan on unpaved roads, application and monitoring in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 10 of 13 Code
+V03: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 12
+==================================================================================
+Report No. 1615421
+Original
+measured every year), that is, without humidification or application of suppressant. The section must be
+made up of a homogeneous material (it must have the same type of soil along its length) in
+Otherwise the measurement results will also be heterogeneous. You must also have
+a homogeneous geometry (without closed curves or changes in slope, ideally in an area
+flat) and without intersections, in order to allow the truck to develop a speed
+constant when circulating through it. The speed will be 40 ± 5 km/h, unless traffic restrictions
+safety of the project set a lower circulation speed, in which case it will be the
+adopted for measurements.
+At least two paths must be chosen that represent two or more subgroups of paths in the
+project (due to materiality, treatment, use, geometry, sun-shade condition, etc.).
+The measurements carried out must be grouped in a report, which accounts for at least:
+ Number of roads studied
+ Length of roads
+ Date
+a of the measurements
+ Justification of the standard section to be compared (date, weather, materiality, etc.)
+ Time elapsed between last suppressor application and measurement
+ Average emission level in particles per cubic centimeter in each path
+ Efficiency in each emission for each path
+ Efficiency curve of each path studied
+ Estimation of time between treatments to maintain target efficiency
+ Identification of critical emission points on each road, if any.
+In addition to this annual report, measurements may be made at other times of the year that
+allow adjusting the dose and frequency of suppressor application in other seasons and climates of the
+year, in order to support said engineering decisions.
+6. Adjustments to the maintenance plan
+The techniques and technologies applied for the maintenance of unpaved roads and the
+dust suppression, have a constant advancement and development, so they could be changed or
+adjusted over the life of the project. It is convenient for the project to define
+performance indicators such as the PCC or others that allow making the decision regarding the
+adoption of a new product or technique, and evaluate changing what is being applied or used
+at a particular point in the project.
+To make the decision to change or modify the dust suppression product for a new one,
+recommends studying and/or comparing at least the following parameters:
+ Abatement efficiency over time of the new suppressor versus the one used
+ Calculation of water used with new versus used dust suppressant.
+Dust suppression plan on unpaved roads, application and monitoring in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 11 of 13 Code
+V03: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 13
+==================================================================================
+Report No. 1615421
+Original
+ Environmental safety.
+In addition to these parameters, multiple additional factors may be taken into account, such as
+cost, ease of application, road safety normally related to resistance to
+vehicle slippage, life cycle analysis, local manufacturing, vehicle care,
+improvement of the structural parameters of the roads, among others.
+Dust suppression plan on unpaved roads, application and monitoring in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 12 of 13 Code
+V03: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 14
+==================================================================================
+Report No. 1615421
+Original
+7. Annexes
+7.1 Example of control sheet
+Correlative
+Date Time Start Time End
+Path
+Home X UTM Y UTM Coordinates
+Term X UTM Y UTM Coordinates
+Suppressant quantity Home
+in tanker Liters
+Amount of suppressor =(I)-(T) Liters
+Start in tanker (I) Liters
+Term in tanker (T) Liters
+Density Solution Kg/lt
+Dose calculation
+Volume in tray Liters
+Walking speed km/h
+Length traveled kilometers
+Average width Application meters
+Name Applicator Signature
+Name Supervisor Signature
+Dust suppression plan on unpaved roads, application and monitoring in “Development Project
+Clay Extraction Miner for Rare Earth Concentrate Production”
+Report 1615421
+Page 13 of 13 Code
+V03: FI-A.01-DSA
+www.dictuc.cl

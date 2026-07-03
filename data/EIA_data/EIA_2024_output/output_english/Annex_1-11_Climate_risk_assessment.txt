@@ -1,0 +1,742 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 1-11
+Climate risk assessment
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ........................................................................................................................... 1-3
+2 Methodology ........................................................................................................................... 2-4
+3 Results ........................................................................................................................... 3-6
+3.1 Risks associated with the mining sector ........................................................................................... 3-6
+3.1.1 Impact of drought on mining operations ................................................................................... 3-6
+3.1.2 Impact of high rainfall on mine tailings ................................................................ 3-7
+3.2 Risks associated with water resources ........................................................................................... 3-7
+3.2.1 Floods due to river overflows ........................................................................................... 3-7
+3.2.2 Floods in urban areas ........................................................................................... 3-8
+3.2.3 Decrease in the availability of surface water for environmental purposes ................................... 3-8
+3.2.4 Use of surface water in irrigation................................................................................ 3-8
+3.2.5 Hydrological drought ................................................................................................................ 3-9
+3.3 Risks associated with the health and human well-being sector ................................................................... 3-9
+3.3.1 Flooding of coastal settlements ................................................................................... 3-9
+3.3.2 Floods ................................................................................................................... 3-10
+3.3.3 Increase in morbidity due to increased temperatures and heat waves ......................... 3-10
+3.3.4 Premature mortality due to heat ................................................................................................... 3-11
+3.3.5 Effect of heat waves on human health ........................................................................... 3-11
+3.3.6 Environmental thermal discomfort ........................................................................................... 3-12
+3.3.7 Fires in urban settlements ................................................................................... 3-12
+3.3.8 Effects of frost in cities. ................................................................................... 3-12
+3.3.9 Effects of the urban heat island ........................................................................................... 3-12
+3.3.10 Urban domestic water security ................................................................................... 3-12
+3.3.11 Rural domestic water security................................................................................................ 3-13
+3.4 Risks to native forests ........................................................................................... 3-14
+3.4.1 Fires in native forests ........................................................................................... 3-14
+3.4.2 Loss of greenery in native forests ........................................................................................... 3-14
+3.5 Risks to biodiversity ................................................................................................ 3-15
+3.5.1 Loss of fauna due to changes in precipitation.........
+.................................................... 3-15
+3.5.2 Loss of flora due to changes in precipitation ................................................................... 3-15
+3.5.3 Loss of fauna due to temperature changes ................................................................... 3-15
+3.5.4 Loss of flora due to temperature changes ................................................................... 3-16
+3.5.5 Degradation of coastal wetlands ................................................................................... 3-16
+4 Conclusions ........................................................................................................................... 4-17
+5 Bibliography ........................................................................................................................... 5-19
+1-i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 3-1. Risk of decreased water security that affects the productivity of mining operations.
+................................................................................................................................................................... 3-6
+Table 3-2. Risk of flooding due to river overflows. ....................................................................... 3-7
+Table 3-3. Risk of flooding in urban areas. ................................................................................... 3-8
+Table 3-4. Increase in the risk of hydrological drought. ............................................................................ 3-9
+Table 3-5. Risk of flooding of coastal settlements. ................................................................... 3-9
+Table 3-6. Risk of health impacts due to flooding due to sewer overflow. ............ 3-10
+Table 3-7. Risk of adverse effects on the health of the population (mortality and morbidity) generated
+due to increased temperatures and heat waves. ....................................................................................... 3-11
+Table 3-8. Risk of adverse effects on the health of the population, premature mortality due to heat. .....
+................................................................................................................................................................... 3-11
+Table 3-9. Risk of adverse effects on the health of the population, premature mortality due to heat. .....
+................................................................................................................................................................... 3-11
+Table 3-10. Risk of adverse effects on the health of the population, premature mortality due to heat. ...
+................................................................................................................................................................... 3-12
+Table 3-11. Risk of negative impacts on the health of the population due to water security
+urban domestic. ................................................................................................................................... 3-13
+Table 3-12. Risk of negative impacts on the health of the population due to water security
+rural domestic. ....................................................................................................................................... 3-13
+Table 3-13. Increase in the risk of fires in native forests. ................................................... 3-14
+Table 3-14. Increase in the potential risk to the greenery of native forests. ............................ 3-14
+Table 3-15. Risk of loss of fauna species due to future change in precipitation
+annual average. ....................................................................................................................................... 3-15
+Table 3-16. Risk of loss of flora species due to future change in average precipitation
+annual. ....................................................................................................................................................... 3-15
+Table 3-17. Risk of loss of fauna species
+as a result of the future change in average temperature.
+................................................................................................................................................................... 3-16
+Table 3-18. Risk of loss of flora species as a result of future change in average temperature.
+................................................................................................................................................................... 3-16
+Table 3-19. Risk of degradation of coastal wetlands due to changes in environmental conditions. ..
+................................................................................................................................................................... 3-16
+INDEX OF FIGURES
+Figure 2-1 Project objectives and associated climate risk maps. .................................................. 2-5
+1-ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+This report presents an analysis of climate risks in the face of a climate change scenario
+severe (RCP 8.5) in the commune of Penco, Biobío Region, in order to identify those
+risks that must be considered by the Project “Extraction Mining Development Project
+of Clays for the Production of Rare Earth Concentrates” (hereinafter, the “Project”).
+The analysis was carried out based on the impact chains and climate risk maps available in Atlas
+of Climate Risks (ARClim) of the Ministry of the Environment. This platform allows you to analyze the
+climate risks based on threat, exposure and vulnerability parameters, which makes it possible to evaluate
+the most relevant impact chains in accordance with the Project objectives.
+As a preliminary note, it should be noted that in accordance with the criteria established in Resolution No.
+202399101883 dated November 10, 20231, from the Environmental Evaluation Service, the area of
+Project location (zone K) would be affected by the following variations in conditions
+climatic:
+• Decrease in precipitation: a -20.1% decrease in precipitation is projected
+annual cumulative for the future period (2035-2065) compared to the historical period
+(1980-2010) for the P25th percentile of the projections, and a decrease in precipitation
+(-9.5% change) for the P75th percentile of the projections.
+• Temperature increase: an increase in the average annual temperature is projected in the
+future period (2035-2065) compared to the historical period (1980-2010), in a
+magnitude of 1.4 °C throughout the continental national territory.
+These variations are consistent with the trends observed in a set of climatic indices
+proposed in the report “Analysis of climate scenarios for Environmental Impact Assessment
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate”,
+prepared by the Center for Global Change of the Catholic University (Annex 1-11 of the EIA). This study
+performs a historical characterization of the hydrometeorology of the commune of Penco, in particular for
+the coastal basins and islands between the Itata River and the Biobío River, and generated projections of trends and indicators
+of extreme events based on different climate change models2 and emission scenarios. The
+The results show a significant increase in the indicators linked to the increase in
+1 Evaluation Criterion in the SEIA: Climate change in the environmental evaluation of water resources.
+2 The study in reference selected the models NorESM1-M (dry), CESM1-CAM5 (intermediate) and HadGEM2-ES
+(humid), which had a better representation of the study area when comparing the historical data of the
+projections with data observed at measurement stations.
+1-3
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+temperatures around year 2
+070 (warm days3, warm nights4 and summer days5), and a decrease in
+precipitations on an annual scale towards the year 2050, although this last result does not present a
+statistical significance in all models analyzed.
+These variations in future climate conditions are related to a set of climate risks.
+that could generate effects on environmental components and on operations and facilities
+of the Project. To identify the most significant climate risks in the Project environment,
+The methodology and results of the analysis carried out for the risk analysis are presented below.
+according to the background information available on the ARClim platform. The section of
+Conclusions identify the priority climate risks in the Project location area.
+2 METHODOLOGY
+The climate risk assessment is prepared based on the information available in ARClim. Although
+Each risk is estimated using different methodologies depending on the nature of each risk, these have
+in common the definition of the concept of climate risk based on the factors of threat, exposure and
+vulnerability, as indicated in Figure 2-1 below.
+Figure 2-1. Climate risk
+Source: Methodological guide for the consideration of climate change in the SEIA (SEA, 2023).
+According to the “Methodological guide for the consideration of climate change in the SEIA” (SEA, 2023):
+• Threat refers to the expected probability or intensity of adverse weather conditions.
+in a certain territory, considering the change in climate between the recent past (1980-2010) and the
+3 Number of days in which the maximum temperature exceeds the 90th percentile of the record.
+4 Number of days in which the minimum temperature exceeds the 90th percentile of the record.
+5 Number of days in which the maximum temperature exceeds 25 °C.
+2-4
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+medium future (2035-2065) under a pessimistic scenario of greenhouse gas emissions
+greenhouse (RCP8.5).
+• Exposure is related to the presence and dimension of environmental components
+potentially susceptible to being negatively affected by climatic events. As for
+more elements (e.g. population, area, etc.) are located in an affected territory
+due to climate threats, the greater the exposure and, therefore, the climate risk.
+• Vulnerability corresponds to non-climatic factors, and indicates the propensity or predisposition to
+that a territory, ecosystem, community or sector is negatively affected by the
+sensitivity or susceptibility to harm and lack of ability to respond and adapt.
+Section 0 evaluates the climate risk maps available in ARClim for impact chains.
+that have a greater relationship with the Project. The selection of impact chains was made based on the
+Table 2 of the “Methodological guide for the consideration of climate change in the SEIA” (SEA, 2023), which
+establishes the impact chains or risk maps to be evaluated based on the Project objectives
+and the types of entry to the SEIA. In this case, the risk maps evaluated correspond to the
+categories mining, water resources, health and human well-being, biodiversity and native forests, according to
+is specified in Figure 2-1 below.
+Figure 2-1 Project objectives and associated climate risk maps.
+Source: Methodological guide for the consideration of climate change in the SEIA (SEA, 2023).
+2-5
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The assessment of these climate risks is available in the results section (sections 3.1 to
+3.5) of this report. Regarding the incorporation of adaptation plans to climate change and
+the strategic plans mentioned in Figure 2-1, the evaluation of their relationship with the Project is
+discussed in chapter 11
+in relation to the development policies, plans and programs of this EIA.
+3 RESULTS
+3.1 Risks associated with the mining sector
+The following impact chains are applicable to the mining sector, which is compatible with the
+Project objectives. However, it should be noted that these impact chains do not necessarily have
+a direct relationship with the Project, as noted in the sections below.
+3.1.1 Impact of drought on mining operations
+The risk of a decrease in water security that affects the productivity of mining operations due to
+The low rainfall is evaluated at a very low level in the commune of Penco.
+This risk index evaluates the decrease in water security that may affect the productivity of
+mining tasks. The risk consists of a threat related to decreased precipitation,
+an exposure parameter that accounts for the density of mining operations, a sensitivity parameter that
+combines the lack of preparation or adequacy of the infrastructure and the viability of having water sources
+alternatives, and an adaptive capacity parameter that accounts for the percentage of water consumption
+coming from the sea with respect to the total extraction.
+It should be noted that this indicator is currently under review, and that the assessment of this risk is
+explains the absence of mining operations in the commune, which would change if the present materializes
+project. According to the information available in chapter 1 of the Project description, it will not extract
+surface or underground waters, and considering that industrial water will be supplied through
+tank trucks coming from the ESSBIO plant, the productivity of the work would not be diminished
+due to the effect of drought.
+Table 3-1. Risk of decreased water security that affects the productivity of mining operations.
+Commune Threat Exposure Sensitivity Risk
+0.3798 0.000 0.499 0.0000
+Penco
+(Low) (Nil) (Moderate) (Nil)
+Source: ARClim (2023).
+3-6
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.1.2 Impact of high rainfall on mining tailings
+There is no information available for this risk in the Biobío Region. The above can
+be due to the nonexistence of tailings structures or the lack of systematized information about them.
+3.2 Risks associated with water resources
+3.2.1 Floods due to river overflows
+There is no information for this risk in the commune of Penco. For reference, without
+results can be directly extrapolated, in the communes of Concepción and Chiguayante they are not projected
+significant changes in the risk level between the historical period (1980-2010) and the future period (2035-
+2065) associated with floods due to river overflows for floods with a return period of 100 years.
+The risk index presents the susceptibility that the critical hydraulic infrastructure near the channel
+main that describes the urban area suffering the impacts in greater or lesser magnitude in the face of an overflow
+of river. The index is constructed from a change in the level of threat associated with the severity of the
+evaluated flood, an exposure index that considers the density of critical infrastructure (works
+hydraulics contained in a 2 km buffer) and a sensitivity index that considers the vulnerability
+average of the hydraulic works (based on the return period of the design of the work with respect to the period
+of the evaluated flood return) and a qualitative vulnerability scale that evaluates the characteristics
+of the channel and the adjacent river defense works.
+Table 3-2. Risk of flooding due to river overflows.
+Capacity
+Population Threat Exposure Sensitivity Risk
+adaptive
+Penco No information
+0.0 0.0 0.0 0 0.0
+Conception
+(No change) (Null) (Null) (No information) (No change)
+0.0 0.0 0.0 0 0.0
+Chiguayan
+(No change) (Null) (Null) (No information) (No change)
+Source: ARClim (2023).
+It should be noted that the risk index is evaluated as unchanged between the historical period and the period
+future in Concepción and Chiguayante, which shows that climate change would not accentuate
+significant risk of flooding
+ones due to overflowing rivers. It should be considered that this assessment is
+explains by the low assessment of the exposure and sensitivity parameters, and by the lack of
+significant variations in the threat parameter between the historical period and the future period. For
+This last parameter, it is necessary to consider that it is evaluated without significant changes between
+periods, but the rating for both periods is 0.8 (high) on a scale of 0-1, which accounts for
+that the threat associated with river flooding is present in both analysis periods.
+3-7
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.2.2 Floods in urban areas
+There is no information for this risk in the commune of Penco. For reference, without
+results can be directly extrapolated, in the commune of Concepción a slight increase is projected
+in the level of risk associated with urban flooding between the historical period (1980-2010) and the period
+future (2035-2065), while in the commune of Chiguayante no changes are projected. This index of
+risk shows the effects of floods generated by extreme rainfall of different periods
+of return in urban areas at the communal level, considering social aspects and existence of services
+basics together with the present and current climatic conditions.
+The flood risk index in urban areas is made up of a hazard parameter that illustrates
+the impact of communities by flooding due to the change in extreme precipitation events
+between periods, which is shown through the change in the percentage of failure of rainwater collectors.
+The results for this parameter are presented in this paper for extreme rainfall of
+return period of 10 years. The flood risk index is in turn composed of a parameter
+of exposure, which includes indicators of population density, educational density and number of
+critical services available. Finally, risk considers a sensitivity parameter, which evaluates the
+quality of housing and critical public services (firefighters, police, health services and
+education). Exposure and sensitivity parameters are evaluated under the current condition (year 2018)
+Table 3-3. Risk of flooding in urban areas.
+Commune Threat Exposure Sensitivity Risk
+Historical Future Historical Future Historical Future
+Penco No information
+0.6761 0.7759 1 0.7029 0.6936 0.7960
+Conception
+(Slight increase) (Very high) (Very high) (Slight increase)
+0.6657 0.7846 1 0.9261 1 1
+Chiguayan
+(Slight increase) (Very high) (Very high) (Decrease)
+Source: GAC (2023), based on ARClim data.
+3.2.3 Decrease in the availability of surface water for environmental purposes
+There is no information available for this risk in basins in the Biobío Region. This chain
+impact estimates risks associated with the availability of surface water according to environmental criteria,
+Therefore, it seeks to estimate the risk to which the ecosystems that depend on these resources are exposed.
+3.2.4 Use of surface water in irrigation
+There is no information available for this risk in basins in the Biobío Region. This index
+risk shows changes in extreme vulnerability for the different irrigation areas exposed to
+3-8
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+changes in mean precipitation. The risk increases when there is a decrease in flows,
+preventing the use of the right from being fully exercised under the effects of climate change.
+3.2.5 Hydrological drought
+There is no information for this risk in the commune of Penco. For reference, without
+results can be directly extrapolated, the risk of hydrological drought was evaluated with a strong
+increase between the historical reference period (1980-2010) and the future period (2035-2065) in the basin
+of the Biobío River
+in the commune of Concepción.
+This index accounts for the susceptibility of water-dependent services to suffer greater
+or less adverse impact, and was estimated from changes in average daily flows (threat),
+the resident rural population at the community level (exposure) and the susceptibility of people due to
+demographic and socioeconomic conditions and the presence of water infrastructure (vulnerability).
+Table 3-4. Increase in the risk of hydrological drought.
+Commune Period Threat Exposure Vulnerability Risk
+Penco No information
+Historical 0.375 0.3972
+(Moderate) (Moderate)
+Future Conception 1 0.4107 0.4610 0.5620
+(Biobío River Basin) (Very high) (Moderate) (High) (High)
+Delta 1 0.4148
+(Strong increase) (Strong increase)
+Source: ARClim (2023).
+3.3 Risks associated with the health and human well-being sector
+3.3.1 Flooding of coastal settlements
+In the commune of Penco, the risk of flooding of coastal sectors due to storm surges and the rise in
+sea level is evaluated at a high level. This risk evaluates changes in the flood level between the
+historical period and the future (threat), the size of sites in low-lying coastal areas measured
+through the number of homes (exposure), and a sensitivity parameter that considers density
+population, housing density and type of housing. This risk has been normalized, so
+corresponds to a ranking between the different settlements analyzed.
+Table 3-5. Risk of flooding of coastal settlements.
+Location Threat Exposure Vulnerability Risk
+0.9072 0.1059 0.3218 0.0309
+Penco
+(Very high) (Low) (Moderate) (High)
+Source: ARClim (2023).
+3-9
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.3.2 Floods
+There is no information available for this risk in the commune of Penco. For reference,
+Without the results being directly extrapolated, the risk of flooding increases
+in the commune of Concepción and a decrease in the commune of Talcahuano.
+This index evaluates the possible adverse impacts on the conditions of housing and critical services.
+associated with flooding due to overflow of rainwater collectors, considering conditions
+historical and future climatic, social and institutional conditions.
+Table 3-6. Risk of health impacts due to flooding due to sewer overflow.
+City Period Threat Exposure Sensitivity Resilience Risk
+Present No information No information No information
+Penco Future No information No information No information No information No information
+Change No information No information No information
+0.0053 0.7226
+Present --
+(Very low) (Very high)
+0.1984 0.4603 0.599 0.4223
+Future Conception --
+(Low) (very high) (High) (High)
+0.0381 0.426
+Change --
+(slight increase) (Increase)
+0.0525 0.5934
+Present --
+(Very low) (Very high)
+0.1411 0.2282 0.5546 0.4874
+Talcahuano Future --
+(Very low) (very high) (High) (High)
+-0.003 -0.2971
+Change --
+(low) (Decrease)
+Source: ARClim (2023).
+3.3.3 Increase in morbidity due to increased temperatures and heat waves
+In the commune of Penco, a low6 risk index of increased morbidity due to increased
+temperatures and heat waves. It should be noted that the index is expressed in terms of the change in the level of
+risk between the historical and future period. This index is composed of the threat of increasing incidence
+of temperatures and heat waves, the exposure of the exposed communal population (urban and rural), the
+population or territorial conditions that increase the susceptibility of the commune to suffer impacts
+adverse effects of heat waves (sensitivity), and the ability of human settlements to adapt to these
+threats (resilience).
+6 The increase in risk is evaluated in ARClim based on a numerical scale. The classification in
+Discrete categories (nil; very low; low; moderate; high) are proposed from the numerical scale available in
+ARClim.
+3-10
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+cos
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 3-7. Risk of adverse effects on the health of the population (mortality and morbidity) generated by
+rising temperatures and heat waves.
+Commune Threat Exposure Sensitivity Adaptive capacity Risk
+1.5°C 52,082 inhabitants 19.4274 deaths 0.85 0.0289
+Penco
+(Moderate) (Moderate) (High) (High) (Low)
+Source: ARClim (2023).
+3.3.4 Premature mortality due to heat
+In the commune of Penco, a high risk of increased mortality is projected for all causes not
+accidents due to changes in temperature and the increase in the frequency of heat waves due to the effect
+of climate change. This index consists of changes in the average annual maximum temperature
+daily during the period 2035-2064 with respect to the average of the maximum temperature observed
+during the period 1980-2010, for the months with increased mortality (threat), communal population
+projected to the year 2050 (exposure), number of deaths from non-accidental causes expected per year
+2050 without considering an increase in temperature as a result of climate change (sensitivity) and quantity
+of full daily work days of doctors, in primary health, per 10,000 inhabitants
+(adaptive capacity).
+It should be noted that premature mortality due to heat considers the capacity to adapt to the
+threat of high temperatures. If the effect of adaptive capacity is not considered, the index of
+The risk would increase from 0.0553 to 1.7 deaths by 2050.
+Table 3-8. Risk of adverse effects on the health of the population, premature mortality due to heat.
+Commune Threat Exposure Sensitivity Adaptive Capacity Risk
+1.5°C 277 deaths 0.85 0.0553 deaths
+Penco 52,082 inhabitants
+(Moderate) (High) (High) (Slight increase)
+Source: ARClim (2023).
+3.3.5 Effect of heat waves on human health
+In the commune of Penco, a low risk of adverse effects on the health of the population is projected
+(mortality and morbidity) generated by heat waves. This index is made up of the change in the
+threat of heat wave incidence between the historical climate and the future climate, the exposed population
+(urban and rural) by the year 2035, the population or territorial conditions that increase susceptibility
+of the commune to suffer adverse impacts from heat waves (sensitivity), and the capacity of settlements
+humans to adapt to these threats (resilience).
+Table 3-9. Risk of adverse effects on the health of the population, premature mortality due to heat.
+Commune Threat Exposure Sensitivity Resilience Risk
+0.4709 0.2625 0.3789 0.37343
+Penco 0.4018
+(Slight increase) (Low) (Moderate) (Slight increase)
+Source: ARClim (2023).
+3-11
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.3.6 Environmental thermal discomfort
+There is no information available for this risk in the commune of Penco. This risk is evaluated
+for cities with more than 50,000 inhabitants.
+3.3.7 Fires in urban settlements
+In the commune of Penco, a low increase in the level of risk associated with fires is projected in
+human settlements. This index considers a threat factor corresponding to the variation in the
+incidence of temperatures above 30 °C (conducive to the occurrence of fires) among the historical climate
+and the future climate, the present urban population that is projected to reside in the commune by 2035, a
+sensitivity factor associated with the materiality of the homes, and an adaptive capacity that considers
+the communal rate of number of fire companies per 100,000 inhabitants.
+Table 3-10. Risk of adverse effects on the health of the population, premature mortality due to heat.
+Commune Threat Exposure Sensitivity Adaptive Capacity Risk
+0.0664 0.805 0.1975 0.2435 0.0515
+Penco
+(Low magnification) (Moderate) (Low) (Moderate) (Low magnification)
+Source: ARClim (2023).
+3.3.8 Effects of frost in cities.
+There is no information available for this risk in the commune of Penco.
+3.3.9 Urban heat island effects
+There is no information available for this risk in the commune of Penco.
+3.3.10 Urban domestic water security
+If
+projects a sharp increase in the risk of negative impacts on the health of the population due to
+urban domestic water security in the commune of Penco. This risk index is constructed from
+of the variation in the incidence of meteorological droughts (threat), the urban population (exposure), the
+susceptibility of the commune to suffer adverse impacts on its urban domestic water security
+(sensitivity) that is related to demographic, socioeconomic and infrastructure conditions
+water resources of the commune, and with the capacity of human settlements to respond and adapt
+(resilience) to the threat of increased incidence of meteorological droughts.
+3-12
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 3-11. Risk of negative impacts on population health due to domestic water security
+urban.
+Commune Period Threat Exposure Sensitivity Resilience Risk
+0.1374 0.6872 0.0085
+Historical
+(Low) (Moderate) (Very low)
+0.7685 0.4864 0.6037 0.3789 0.6179
+Penco Future
+(High) (Moderate) (High) (Moderate) (High)
+0.3891 0.3891
+Delta --
+(Strong increase) (Strong increase)
+Source: ARClim (2023).
+3.3.11 Rural domestic water security
+A sharp increase in the risk of negative impacts on the health of the population is projected due to
+rural domestic water security in the commune of Penco. This risk index is constructed from
+the variation in the incidence of meteorological droughts (threat), the rural population (exposure), the
+susceptibility of the commune to suffer adverse impacts on its rural domestic water security
+(sensitivity) that is related to demographic, socioeconomic and infrastructure conditions
+water resources of the commune, and with the capacity of human settlements to respond and adapt
+(resilience) to the threat of increased incidence of meteorological droughts.
+Table 3-12. Risk of negative impacts on population health due to domestic water security
+rural.
+Commune Period Threat Exposure Sensitivity Resilience Risk
+0.1374 0.0056 0.2602
+Historical
+(Low) (Very low) (Low)
+0.7685 0.008 0.7565 0.3789 0.8516
+Penco Future
+(High) (Very low) (High) (Moderate) (Very high)
+0.3891 0.6373
+Delta --
+(Slight increase) (Strong increase)
+Source: ARClim (2023).
+3-13
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.4 Risks to native forests
+3.4.1 Fires in native forests
+The risk associated with fires in native forests as a consequence of heat waves is evaluated in a
+very low level in the commune of Penco, presenting a slight increase between the historical period and the
+future period. The valuation of this index is significantly influenced by the parameter of
+exhibition, which represents the communal area covered by native forest. The index is also composed
+by the sensitivity of a forest to experiencing a fire, which depends on geographical factors (for example
+(for example, the slope of the terrain), human factors (for example, proximity to urban centers) and
+ground cover (e.g. vegetation type).
+Table 3-13. Increase in the risk of fires in native forests.
+Commune Period Threat Exposure Sensitivity Risk
+0.016 0.012
+Historical
+(Very low) (Very low)
+0.0824 0.1034 0.980 0.062
+Penco Future
+(Very low) (Very low) (Very high) (Very low)
+0,0664 0,050
+Delta
+(Very low) (Slight increase)
+Source: ARClim (2023).
+3.4.2 Loss of greenery in native forests
+The potential effect of climate changes on the vigor or greenness of native forests at the communal level
+in Penco it is evaluated at a very low level, presenting a slight increase between the historical period and the
+future period. Vigor or greenness represents the abundance of chlorophyll in the leaves, which is a
+approximation of the photosynthetic capacity and growth potential of plants. Its decrease
+may represent decreased growth, defoliation and death of parts of the crown
+or of the
+individuals. The risk is calculated from native forest cover data, the condition
+topography and soils where forests are found and the threats expressed in changes in
+temperature and precipitation.
+Table 3-14. Increase in the potential risk to the greenery of native forests.
+Commune Period Threat Exposure Sensitivity Risk
+Historical 0.4629 0.0881
+(Moderate) (Very low)
+Future 0.9027 0.1034 0.3755 0.1717
+Penco
+(Very high) (Very low) (Low) (Very low)
+Delta 0.4629 0.0837
+(Moderate increase) (Slight increase)
+Source: ARClim (2023).
+3-14
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.5 Risks on biodiversity
+3.5.1 Loss of fauna due to changes in precipitation
+For the commune of Penco, a high risk of loss of diversity of fauna species is projected
+product of future changes in precipitation patterns. The index is built at the community level
+from the decrease in average annual precipitation in the future climate with respect to the conditions
+historical climatic conditions, the level of intervention measured as the degree of loss of natural vegetation
+that the territory has experienced in the last 30 years, and a vulnerability index that represents the
+climatic tolerance and the adaptive capacity of the species, which is related to the breadth of their
+climatic niche for the precipitation variable.
+Table 3-15. Risk of loss of fauna species due to future change in average precipitation
+annual.
+Commune Threat Intervention Vulnerability Risk
+0.5015 0.8824 0.1777 0.6433
+Penco
+(Moderate) (Very high) (Very low) (High)
+Source: ARClim (2023).
+3.5.2 Loss of flora due to changes in precipitation
+For the commune of Penco, a very high risk of loss of diversity of flora species is projected
+product of future changes in precipitation patterns. The risk of loss index
+Flora diversity is built at the communal level from the decrease in average precipitation
+annual change in future climate relative to historical climate conditions, the level of intervention measured
+as the degree of loss of natural vegetation that the territory has experienced in the last 30
+years, and a vulnerability index that represents the climatic tolerance and adaptive capacity of the
+species, which is related to the breadth of their climatic niche for the variable precipitation.
+Table 3-16. Risk of loss of flora species due to future change in average precipitation
+annual.
+Commune Threat Intervention Vulnerability Risk
+0.5015 0.8824 1 0.9218
+Penco
+(Moderate) (Very high) (Very high) (Very high)
+Source: ARClim (2023).
+3.5.3 Loss of fauna due to temperature changes
+For the commune of Penco, a very low risk of loss of fauna species is projected as a result of
+future changes in temperature patterns. The risk index of loss of fauna diversity
+is built at the communal level based on the increase in average temperature in the future climate with respect to
+historical climatic conditions (hazard), level of intervention measured as degree of loss
+of the vegetation that the territory has experienced in the last 30 years, and a vulnerability index
+3-15
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+which represents the climatic tolerance and adaptive capacity of the species, which is related to the
+breadth of its climatic niche for the variable temperature.
+Table 3-17. Risk of loss of fauna species as a result of future change in average temperature.
+Commune Threat Exposure Sensitivity Adaptive capacity Risk
+0.1654 0.8824 0.0638 0.0 0.6975
+Penco
+(Very low) (Very high) (Very low) (Low) (High)
+Source: ARClim (2023).
+3.5.4 Loss of flora due to temperature changes
+For the commune of Penco, a very low risk of loss of flora species is projected as a result of the
+future changes in patterns
+of temperature. The risk index of loss of flora diversity is
+builds at the communal level based on the increase in average temperature in the future climate with respect to the
+historical climatic conditions (hazard), the level of intervention measured as the degree of loss of
+the vegetation that the territory has experienced in the last 30 years, and a vulnerability index that
+represents the climatic tolerance and adaptive capacity of the species, which is related to the
+breadth of its climatic niche for the variable temperature.
+Table 3-18. Risk of loss of flora species as a result of future change in average temperature.
+Commune Threat Intervention Vulnerability Risk
+0.1654 0.8824 0.7134 0.7813
+Penco
+(Very low) (Very high) (High) (High)
+Source: ARClim (2023).
+3.5.5 Degradation of coastal wetlands
+In relation to the degradation of coastal wetlands, a risk of
+high level according to changes in environmental conditions. Being located in areas
+low coastal areas, these wetlands are threatened by permanent flooding due to
+an increase in sea level, such as by the alteration of the composition of its water column
+caused by the increase in seawater ingress associated with storm surge events.
+Table 3-19. Risk of degradation of coastal wetlands due to changes in environmental conditions.
+Commune Threat Exposure Sensitivity Adaptive capacity Risk
+0.73 0.7749 1.0 0.2 0.9472
+Penco
+(Moderate) (Moderate) (Very sensitive) (Low) (High)
+Source: ARClim (2023).
+3-16
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4 CONCLUSIONS
+As described in the introduction, in accordance with the criteria established in Resolution No.
+202399101883/2023 dated November 10, 20237, from the Environmental Evaluation Service, the area of
+The Project site would be affected by a reduction in accumulated precipitation at the level
+annual. According to the P25th percentile of available climate projections, this reduction
+would reach a value of 20.1%, while according to the P75 percentile of the projections
+would produce a decrease of 9.5%. Regarding temperature trends, a projected
+increase in the average annual temperature of 1.4 °C throughout the national territory
+continental.
+Consequently, the main climatic risks in the commune of Penco are related both to the
+decrease in precipitation and increase in temperature. There is a strong increase in
+the risk of hydrological drought between the historical period (1980-2010) and the future period (2035-2065). In
+Similarly, a sharp increase in risk is projected for rural and domestic domestic water security.
+urban between the historical period and the future period in the commune of Penco. Regarding the impact of the
+decrease in rainfall over the mining sector, based on the information available in ARClim
+it is not possible to anticipate a negative effect of the decrease in rainfall on productivity
+of mining operations, and regarding the possible effects on the Project, the water supply
+industrial use of tank trucks from the ESSBIO plant increases the degree of resilience
+against the possible effects of droughts.
+Regarding risks related to high precipitation events, there is no history in
+ARClim on the risk of health impacts due to flooding due to overflowing sewers
+rain in the commune of Penco, and although the results cannot be directly extrapolated, a
+increase in this risk in the commune of Concepción and a decrease in Talcahuano. For the case of
+health risk due to flooding that could cause rivers to overflow, no changes are projected
+in the assessment of this risk in the communes of Concepción and Chiguayante. There is no information
+available for this last risk in the Penco commune. Finally, the risk of flooding of sectors
+coastal areas due to storm surges and rising sea levels are evaluated at a high level in the town of Penco.
+In relation to the increase in te
+temperatures, in the commune of Penco a slight increase in the
+risk of adverse effects on the health of the population due to an increase in heat waves and the risk
+of premature mortality due to heat. The risk of fires in urban settlements, which is seen
+accentuated by the occurrence of temperatures above 30 °C, it is evaluated with a low increase between the
+historical period and the future period in the commune of Penco.
+7 Evaluation Criterion in the SEIA: Climate change in the environmental evaluation of water resources.
+4-17
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Finally, regarding climatic risks on biotic components, for the flora and fauna component
+vegetation, a very high risk of loss of flora species is projected due to changes in the
+precipitation and a high risk of species loss due to changes in temperatures. For him
+fauna component, these risks are evaluated at a high level. Regarding risks related to forests
+natives, a slight increase in the risk of fires and the risk of loss of greenery in
+native forests. Regarding the risk of degradation of coastal wetlands, a high risk of
+degradation due to rising sea levels and the effect of storm surges.
+4-18
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 1-11 Climate Risk Assessment
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+5 BIBLIOGRAPHY
+UC Global Change Center, 2023. Analysis of climate scenarios for Impact Assessment
+Environmental Mining Development Project for Clay Extraction for Concentrate Production
+of Rare Earths. Final report.
+Environmental Assessment Service, 2023. Methodological guide for the consideration of climate change in
+the SEIA. First edition. Santiago, Chile.
+Environmental Evaluation Service, 2023. Evaluation criterion in the SEIA: Climate change in the
+environmental evaluation of water resources. First edition.
+Ministry of the Environment, 2022. Climate Risk Atlas (ARClim).
+https://arclim.mma.gob.cl/atlas/
+5-19

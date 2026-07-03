@@ -1,0 +1,1048 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-3
+Permiso Ambiental Sectorial
+N°136
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE GENERAL
+1 INTRODUCCIÓN .................................................................................................................................... 4
+2 CONTENIDOS TÉCNICOS Y FORMALES .................................................................................................. 6
+2.1 Localización y descripción general de la faena ............................................................................... 6
+2.2 Ubicación y descripción general del botadero de estériles ............................................................ 7
+2.3 Cronograma de Operación ........................................................................................................... 9
+2.4 Capacidad del botadero de estériles ..........................................................................................10
+2.5 Presentación de antecedentes técnicos geológicos, geotécnicos, hidrológicos, hidrogeológicos,
+sísmicos, meteorológicos, topográficos y otros que correspondan ...................................................................10
+3 ANTECEDENTES SOBRE GENERACIÓN DE AGUAS DE CONTACTO O AGUAS ÁCIDAS, FILTRACIONES E
+INFILTRACIONES ..................................................................................................................................31
+4 DIAGRAMA DE FLUJOS Y PLANO GENERAL DE LAS OBRAS .................................................................32
+5 DEPÓSITOS ADYACENTES ....................................................................................................................34
+6 PARAMETROS DE ESTABILIDAD FISICA Y QUÍMICA DURANTE LA OPERACIÓN...................................34
+INDICE DE TABLAS
+Tabla 2-1. Coordenadas de ubicación Zona de disposición Neptuno. ........................................................... 8
+Tabla 2-2. Cronograma fase de construcción ZD Neptuno, ZAV y Stockpile. ................................................. 9
+Tabla 2-3.Cronograma fase de operación ZD Neptuno, ZAV y Stockpile. ...................................................... 9
+Tabla 2-4. Resumen de datos geotécnicos de calicatas realizadas en Neptuno ..........................................19
+Tabla 2-5. Resultados ensayos veleta de corte (in situ). ..............................................................................21
+Tabla 2-6. Resultados de la medición de velocidad de ondas de corte (Vs) ................................................22
+Tabla 2-7. Frecuencias fundamentales obtenidas (Fo) y amplitud de la razón espectral H/V (Ao) .............22
+Tabla 2-8. Profundidades estimadas de la roca para los puntos de medición .............................................22
+Tabla 2-9. Ensayo triaxial de muestra en Calicata 8 .....................................................................................23
+Tabla 2-10. Resultados de ensayos de compresión no confinada. ..............................................................23
+Tabla 2-11. Catálogo Sísmico de Chile. Terremotos >7° Richter en Región del Biobío. ...............................30
+Tabla 6-1. Factores de Seguridad para análisis estático y pseudo-estático. ................................................35
+INDICE DE FIGURAS
+Figura 2-1. Ubicación del proyecto................................................................................................................. 6
+Figura 2-2. Ubicación de la Zona de Disposición y stockpile. ......................................................................... 8
+Figura 2-3 Geología Regional Simplificada. En cuadro rojo, la ubicación del Proyecto. ..............................12
+Figura 2-4. Geología Local en el área del Proyecto. .....................................................................................17
+Figura 2-5. Perfiles transversales a la Zona de Disposición del Proyecto. ...................................................18
+Figura 2-6. Ubicación de las prospecciones geotécnicas realizadas en Neptuno. .......................................20
+Figura 2-7. Red Hidrográfica del Área de Influencia.....................................................................................25
+Figura 2-8. Climograma de precipitación media mensual (2000 – 2020), estación DGA Andalién y
+temperatura media mensual (1966 – 2020), estación DMC Carriel Sur ......................................................26
+Figura 2-9. Pozos Hidrogeológicos. ..............................................................................................................27
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 3
+================================================================================
+Anexo10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 2-10. Área de epicentros de magnitud mayor a 7,0 ° Richter, en zonas aledañas al Proyecto, Región
+de Biobío. ......................................................................................................................................................29
+Figura 4-1. Diagrama de Flujo asociado a la ZD, ZAV y Stockpile. ................................................................32
+Figura 4-2. Ubicación general de la Zona de Disposición. ............................................................................33
+APÉNDICES
+Apéndice 10-3.1 Plano Ubicación General de la Faena, obras e instalaciones
+Apéndice 10-3.2 Topografía en Zona de Disposición
+Apéndice 10-3.3 Memorándum Geoquímica
+Apéndice 10-3.4 Certificados Análisis químicos
+Apéndice 10-3.5 Informe geotécnico terraplenes de prueba y análisis de estabilidad de taludes ZD
+Neptuno
+Apéndice 10-3.6 Análisis de estabilidad de acumulación de material a procesar (stockpile)
+Apéndice 10-3.7 Estudio de estabilidad física Zona de Acopio Vegetal
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto.
+El proyecto requiere del otorgamiento del permiso que se encuentra señalado en el artículo 136 del
+Reglamento del SEIA, que corresponde a la autorización para establecer un botadero de estériles o
+acumulación de mineral, toda vez que, en la ZD Neptuno será dispuesto el material estéril proveniente de
+las zonas de extracción en conjunto a las arcillas procesadas provenientes de la planta de procesamiento,
+en la ZAV será dispuesto el material estéril (capa vegetal) proveniente de las ZE, ZD, Planta de
+Procesamiento, entre otras obras del Proyecto y el área asociada al stockpile temporal donde se
+almacenarán eventualmente las arcillas a alimentar a la planta de procesamiento y/o arcillas lavadas a ser
+transportadas a la ZD.
+El requisito para su otorgamiento consiste en velar por la estabilidad física y química del botadero o
+depósito y que contenga las máximas medidas de seguridad tanto en su construcción como crecimiento,
+con el fin de proteger el medio ambiente y la vida e integridad física de las personas.
+Los contenidos tanto técnicos como formales que deben presentarse para acreditar el cumplimiento del
+PAS 136, son los siguientes y se aplican a las partes y obras señaladas en el artículo 339 del Reglamento
+de Seguridad Minera, es decir, a botaderos de estériles y acumulación de mineral, en el contexto de una
+faena minera, en el caso del Proyecto a la zona de disposición Neptuno, Zona de Acopio Vegetal y Stockpile.
+4
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Artículo 136.- Permiso para botaderos de estériles o acumulación de mineral
+Los botaderos de estériles y la acumulación de mineral se establecerán de acuerdo a un proyecto que
+la empresa deberá presentar al Servicio para su revisión y aprobación, donde se garantice su
+estabilidad y contenga las máximas medidas de seguridad tanto en su construcción como
+crecimiento.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los
+siguientes:
+a) Localización y descripción general de la faena de explotación minera y su entorno
+b) Ubicación del botadero de estériles o lugar de acumulación de minerales
+c) Cronograma de construcción, incluyendo si considera fases de crecimiento, según corresponda
+d) Capacidad del botadero de estériles o acumulación de minerales
+e) Presentación de antecedentes geológicos, geotécnicos, hidrológicos, hidrogeológicos,
+sísmicos, meteorológicos, topográficos y otros que correspondan
+f) Antecedentes respecto de la generación de aguas de contacto o aguas ácidas, filtraciones
+e infiltraciones del botadero de estériles o acumulación de minerales, así como de los
+ensayos y pruebas químicas correspondientes
+g) Presentación de un diagrama de flujo y plano general de las obras anexas asociadas al
+botadero de estériles o acumulación de minerales
+h) Indicar si existen otros botaderos o depósitos adyacentes y sus características principales
+i) Descripción general de los parámetros de estabilidad física y química durante la operación
+del botadero de estériles o acumulación de minerales
+5
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 CONTENIDOS TÉCNICOS Y FORMALES
+2.1 Localización y descripción general de la faena de explotación minera y su
+entorno
+Localización
+El Proyecto se localiza en las Comunas de Penco y Concepción, Provincia de Concepción, Región del Biobío.
+La Figura 2-1 a continuación muestra la ubicación georreferenciada de la faena minera y la ubicación de
+sus obras y partes.
+Figura 2-1. Ubicación del proyecto.
+Fuente: GAC.
+6
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Descripción General de la Faena
+El Proyecto considera la habilitación de tres (3) Zonas de Extracción (ZE: Victoria Norte, Maite y Luna) para
+la extracción de material, una (1) Zona de Disposición (ZD: Neptuno) para la disposición final de estériles
+y las arcillas procesadas, una (1) Planta de Procesamiento, una (1) zona de acopio de suelo vegetal, un (1)
+Stockpile, habilitación de caminos, empalme eléctrico y el mejoramiento de caminos existentes para
+acceder a las distintas áreas. Además, se considera la modificación de un tramo existente de
+aproximadamente 1,22 km del oleoducto Hualpén – San Fernando, propiedad de ENAP, motivo de la
+explotación de la ZE Maite. El proyecto a su vez cuenta con la implementación de obras temporales
+correspondiente a instalaciones de faenas, para la construcción y habilitación de las obras del Proyecto.
+Las arcillas(mineral) se obtienen desde las zonas de extracción por medio de excavadoras hidráulicas y su
+traslado se realiza en camiones tolvas por caminos internos hacia la planta de procesamiento.
+La materia prima para el proceso es la arcilla con tierras raras incorporados en su estructura laminar. Este
+material es recibido en la Planta y alimentado al área de preparación y clasificación del material para la
+eliminación de elementos con sobre tamaño. Luego es alimentado a un circuito de extracción del producto
+mediante dos etapas de mezclado y reacción en contracorriente con una solución disolvente, desde donde
+la pulpa obtenida es sometida a una separación sólido/líquido generando por una parte arcillas lavadas
+que serán llevadas a disposición, una solución cargada que va a la etapa de precipitación de impurezas y
+una solución de lavado que se lleva al sistema de recuperación de agua. La solución cargada en tierras
+raras y purificada de impurezas continúa hacia el área de precipitación del concentrado, donde las tierras
+raras se precipitarán en reactores agitados, para luego ser sometidos a una separación sólido/líquido y
+producir un concentrado de tierras raras para ser envasado, almacenado y posteriormente enviado a
+comercialización.
+Las fases líquidas obtenidas de los procesos de separación sólido/líquido son tratadas en un sistema de
+recuperación de agua para ser recirculadas al proceso con la finalidad de generar un circuito cerrado para
+recuperar agua y reactivos, mejorar la extracción del producto desde el material y disminuir el suministro
+necesario de agua en la planta de procesamiento, dejando así un consumo de agua industrial o “make up”
+reducido y evitando que el proyecto libere residuos líquidos industriales (RILes).
+2.2 Ubicación y descripción general del botadero de estériles o lugar de
+acumulación de minerales
+A continuación, la Figura 2-2 presenta la ubicación específica de la ZD Neptuno, ZAV y el stockpile
+respecto de las obras del proyecto.
+7
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-2. Ubicación de la ZD, ZAV y stockpile.
+Fuente: GAC
+Tabla 2-1. Coordenadas de ubicación ZD, ZAV y Stockpile.
+Nombre Vértices Norte Este
+1 5.930.011 679.828
+2 5.929.890 680.181
+3 5.929.426 680.378
+4 5.929.311 680.199
+ZD Neptuno 5 5.929.159 679.969
+6 5.929.099 679.807
+7 5.929.242 679.680
+8 5.929.561 679.643
+9 5.929.761 679.687
+1 5.929.325 680.545
+2 5.929.443 680.552
+3 5.929.555 680.568
+ZAV
+4 5.929.537 680.749
+5 5.929.420 680.772
+6 5.929.360 680.738
+Stockpile 1 5.930.244 682.000
+8
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre Vértices Norte Este
+2 5.930.331 682.002
+3 5.930.396 682.033
+4 5.930.357 682.074
+5 5.930.250 682.060
+Fuente: Elaboración propia, 2024
+2.3 Cronograma de Construcción, incluyendo si considera fases de crecimiento
+según corresponda
+Fase de construcción
+La habilitación de la ZD Neptuno se considera durante los primeros 8 meses de la fase de construcción del
+Proyecto, mientras que el área de Stockpile y la ZAV considera el retiro de la vegetación y
+acondicionamiento del terreno durante 1 mes aproximadamente, tal como se detalla en la siguiente tabla.
+Tabla 2-2. Cronograma fase de construcción ZD Neptuno, ZAV y Stockpile.
+Fuente: Elaboración propia, 2024
+Fase de operación
+En la Tabla 2-3 se presenta el cronograma de operación de la ZD Neptuno, la ZAV y el Stockpile, las cuales
+se encontrarán operativas durante un periodo de 6 años.
+Tabla 2-3.Cronograma fase de operación ZD Neptuno, ZAV y Stockpile.
+Fuente: Elaboración propia, 2024
+9
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3.1 Fecha estimada del cierre del botadero de estériles, ZAV y acumulación de mineral,
+según corresponda.
+Para las plataformas de la ZD y ZAV considera su reforestación con especies arbóreas nativas, se consideran
+las siguientes etapas:
+• Incorporación de una mezcla de escarpe superficial y material vegetal.
+• Siembra con semillas de herbáceas.
+• Plantación de arbustos.
+• Plantación de especies arbóreas.
+Se estima una frecuencia de monitoreo trimestral durante los dos primeros años y semestral a partir del
+tercer año. Lograr una cubierta con vegetación, permitirá asegurar la estabilidad de la revegetación y el
+control de la erosión.
+Por otra parte, en caso eventual que la zona de Stockpile se encuentre con arcillas a alimentar a la planta
+de procesamiento y/o arcillas lavadas a ser transportadas a la ZD, se retirará el material del área en un
+plazo de 1 mes aproximadamente.
+2.4 Capacidad del botadero de estériles o acumulación de minerales
+La capacidad máxima de disposición de los botaderos de estériles son las siguientes:
+• ZD Neptuno: 9.900.000 m3
+• ZAV: 491.000 m3
+• Stockpile: 4.800 m3
+2.5 Presentación de antecedentes técnicos geológicos, geotécnicos, hidrológicos,
+hidrogeológicos, sísmicos, meteorológicos, topográficos y otros que
+correspondan
+2.5.1 Antecedentes Geológicos
+Geología Regional
+En la Región del Biobío se emplazan rocas del Batolito Costero del Sur de Chile (Hervé et al., 1977) de edad
+Carbonífero superior (Deckart et al., 2014), y se dispone en una franja NNE-SSW (Figura 2-3). En el borde
+oriental está en contacto con el Complejo Metamórfico Acrecionario paleozoico (Creixell, 2001). En el
+borde costero de la Región se encuentran rocas sedimentarias cretácicas de la Formación Quiriquina (Biró,
+1982) y del Paleoceno-Eoceno Formación Curanilahue (MuñozCristi,1968), estas corresponden a
+10
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+secuencias marinas y marino-continentales. Otras secuencias sedimentarias próximas al área de
+emplazamiento del proyecto, corresponden a Sedimentos y terrazas marinas.
+Conforme a estudios realizados por el Titular en el área del Proyecto, este se emplaza sobre el Batolito
+Costero.
+11
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-3 Geología Regional Simplificada. En cuadro rojo, la ubicación del Proyecto.
+Fuente: GAC. Modificado de Mapa Geológico de Chile 1:1.000.000, 2002, SERNAGEOMIN
+12
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+A continuación, se definen las unidades mencionadas:
+i. Batolito Costero
+Corresponde a un complejo plutónico con litologías entre tonalita y granodiorita, con áreas acotadas de
+diorita cuarcífera y granito (Gajardo, 1981). Denominado Batolito Costero del Sur por Hervé en 1987.
+Aflora en franja NNE-SSW al este del Complejo Metamórfico Acrecionario.
+Las unidades intrusivas del Batolito Costero instruyen durante el Paleozoico Superior a la Serie Oriental
+del Complejo Metamórfico, generando un metamorfismo regional de contacto tipo Buchan (baja presión
+y alta temperatura) que se extiende aproximadamente 20 a 30 km paralelo al borde del cuerpo intrusivo
+(Vásquez, 2001). Acotados afloramientos de pegmatitas son identificados y caracterizados por distintos
+autores (Collao, 2009; Velásquez, 2012; Jil, 2014) como eventos tardíos al proceso de cristalización del
+batolito. Localmente, al sur del área del Proyecto, es posible observar migmatización en la zona de
+contacto del intrusivo con el Complejo Metamórfico.
+Las rocas del Batolito Costeo, en las áreas cercanas al Proyecto, infrayace a las formaciones sedimentarias
+Quiriquina y Curanilahue.
+ii. Complejo Metamórfico
+El Basamento Metamórfico Paleozoico de la Cordillera de la Costa que consiste en una franja de unos 800
+km de largo y 30 km de ancho en promedio Aguirre (1972) divide la franja en dos principales unidades:
+Serie Oriental y Serie Occidental, que difieren entre sí por su litología dominante, estructuras presentes y
+grado metamórfico que las afecta. Las unidades metamórficas del complejo se interpretan como un
+cinturón metamórfico pareado constituido por una serie de bajo P/T al este y otra de alto P/T al oeste
+(Aguirre et al.). 197; Hervé, 1988;). Actualmente, ambas series son interpretadas como resultados de una
+acreción frontal y basal, respectivamente, en un contexto de margen continental activo (Willner et al.
+2005; Glodny et al., 2005, Glodny et al., 2008).
+La Serie Oriental, es la dominante en el área de estudio, está compuesta principalmente por una
+alternancia de metapelitas y metarenitas de origen turbidítico (Hervé et al., 2007, 2013), que fueron
+depositadas en un margen continental estable profundo y acrecionadas al continente al reiniciar la
+subducción durante el Ordovícico (Glodny et al., 2005). La serie es sometida, desde el oeste, a una acreción
+frontal, lo que genera foliación en los metasedimentos y es responsable de un metamorfismo regional del
+tipo Barroviano, expresado por asociaciones pretectónicas de estaurolita, granate y biotita (Vásquez,
+2001).
+Estudios realizados por Hervé et al. (2013), la Serie Oriental se habría depositado en el Carbonífero Inferior,
+antes que la Serie Occidental. Sin embargo, ambas se habrían formado antes que la intrusión del Batolito
+Costero, a la cual asocian una edad de 305-320 Ma.
+iii. Formación Quiriquina
+13
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Biró (1982) define formalmente esta Formación, la cual corresponde a una secuencia transgresiva clásica,
+marina-litoral, formada por un conglomerado basal, compuesto de clastos metamórficos y algunos restos
+fósiles, que subyace a areniscas marinas, en parte glauconíticas, fosilíferas y bioturbadas. A medida que
+ascendemos en la columna aparecen varios niveles de concreciones, las cuales son características en los
+afloramientos de la costa. Localmente, existe estratificación cruzada.
+Basado en el estudio de ammonoideos, Salazar (2004) establece que la edad de la Formación Quiriquina
+es Maastrichtiano.
+Sobreyace en discordancia angular al Complejo Metamórfico y subyace a la Formación Curanilahue.
+iv. Formación Curanilahue y Formación Cosmito
+Formación Curanilahue, de edad eocena, corresponde a secuencias sedimentarias compuestas por lutitas,
+areniscas, conglomerados y mantos de carbón. Dispuestas horizontalmente y/o levemente basculadas
+hacia el Oeste, estas afloran en el área de Concepción, Penco y Talcahuano. Esta unidad ha sido
+subdividida, de base a techo: Miembro Lota (continental), Miembro Intercalación (marino) y Miembro
+Colico (continental) (Muñoz Cristi, 1968). En la localidad de Cosmito, los afloramientos fueron definidos
+por Galli (1967) como formación Cosmito. Sin embargo, es aún controversial la definición de estos
+afloramientos, como una nueva unidad.
+v. Sedimentos no consolidados de Terrazas Marinas
+Las terrazas de abrasión marina generadas durante el proceso del Cuaternario se encuentran cubiertas
+por sedimentos arenosos y limosos parcialmente estratificados, compuestos por material proveniente de
+las erupciones volcánicas de la Cordillera de los Andes. Presentan alturas máximas de 15 m.s.n.m.
+Geología Distrital o local
+A continuación, se presenta la descripción de las unidades presentan en el área del Proyecto, las cuales
+son definidas de manera informal por Aclara. El mapeo desarrollado por el Titular en el área del Proyecto
+y sus cercanías fue desarrollado de manera superficial, con escala 1:200, y se suma a esta información la
+proporcionada por los sondajes geológicos, los cuales en las áreas de interés geológico, tienen una malla
+de 200 m*200 m a 50 m*50 m.
+i. Complejo Plutónico Penco
+Las rocas intrusivas que afloran en el área pertenecen al Batolito Costero del Sur, definido por Hervé et al.
+(1987) y pueden ser asociadas espacialmente a la subunidad “Granitoides de Concepción” sugerida por
+Creixell (2001). Son rocas faneríticas equigranulares de grano medio a grueso de composición tonalítica a
+diorítica. Análisis modales realizados en secciones delgadas, permiten la clasificación de 3 litologías:
+tonalitas, dioritas cuarcíferas y dioritas.
+Las unidades definidas por el Titular, y que conforman el complejo Plutónico Penco son:
+14
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+a) Granito de Granate
+Aflora estudio como una franja discontinua de ~6km de largo con elongación NNE-SSW y conformada por
+cuerpos con extensiones que varían entre 0,5 – 1km.
+Esta unidad intruye a las metapelitas de la Serie Oriental, lo cual se evidencia por la habitual presencia de
+xenolitos. La tonalita de granate y biotita es cortada por fallas NNW y con menor frecuencia por aquellas
+de orientación ENE, estas fallas ponen en contacto esta unidad con otras presentes en el área. La textura
+es fanerítica equigranular de grano medio a grueso. El granate se reconoce fácilmente, debido a su
+abundancia. El granate se desarrolla en cristales euhedrales entre 3 – 6mm y posee un color rojizo a pardo
+rosáceo en roca fresca.
+b) Granito de Biotita
+Rocas faneríticas equigranulares de grano medio a grueso, localmente porfídicas. Compuesta de tonalitas,
+granodioritas y granitos y monzogranitos; todos con abundante biotita. El cuerpo tiene elongación
+predominantemente NS.
+En su margen oeste, se encuentra en contacto por intrusión y por falla con las metapelitas de la Serie
+Oriental, y subyace en inconformidad con las rocas sedimentarias de la Formación Quiriquina y
+Curanilahue.
+c) Diorita
+Aflora en el sector centro-occidental de la Cordillera de la Costa, desde el Estero Lirquén, por el Norte,
+hasta las cercanías de la Ruta 152, por el sur. Aflora como un cuerpo con eje mayor levemente orientado
+NNE-SSW. Se caracteriza por tener una distribución fuertemente controlada por fallas, en especial hacia
+el norte, mientras que hacia el sur los contactos pasan a ser por intrusión.
+i. Metapelitas
+Rocas metamórficas de muy bajo grado compuestas, con foliación incipiente y escasa alteración a arcillas.
+Pertenecen a la Serie Oriental del cinturón metamórfico pareado. Son de alta competencia y muy
+resistentes a la erosión.
+ii. Estructuras Secundarias
+El modelo estructural, fue construido por el consultor Matías Sánchez entre los años 2014 y 2015, donde
+fue validado que el área del Proyecto y sus cercanías. Está dominado por dos estilos estructurales
+principales:
+Sistemas de falla/fractura de larga data (Pérmico Triásico ¿Jurásico?) de orientación noroeste (NW):
+manteo sub-vertical y último movimiento normal-sinistral. Estos acomodan sistemas de diques a lo largo
+lineamientos de destrucción de magnetita en el batolito costero y secuencias meta-sedimentarias (MP).
+(Sánchez, 2015).
+15
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fallamiento extensional (normal) de orientación NNE y manteo principalmente al ESE. Estos conforman un
+sistema de bloques rotados “en domino” de edad Cretácico Superior a Plioceno. Acomodan extensión
+cortical y subsidencia con sedimentación sin-extensional a lo largo de una serie de semi-grabens durante
+el Cretácico Superior (Formación Quiriquina; ambiente marino) y Terciario (“Terciario de Arauco”;
+continental - fluvial) (Sánchéz,2015).
+Se identifican por los estudios realizados por el Titular, las siguientes estructuras principales, agrupadas
+según el estilo predominante:
+a) Sistema NW
+Las estructuras principales de este sistema son las fallas Madesal y Estero Penco.
+La Falla Madesal tiene tendencia N60°W/80°SW. Se identifica por la presencia de una brecha de falla, con
+clastos angulares en matriz de salvanda, acompañada de un dique andesítico fuertemente cloritizado, con
+micro fracturas rellenas de sulfuros. Esta brecha ha sido observada en sondajes geológicos a más de 50 m
+de profundidad.
+La zona de Falla Estero Penco constituye una discontinuidad detectada en la magnetometría regional. Pone
+en contacto a las unidades intrusivas Granito de Biotita, que aflora en el lado oeste de la estructura con
+Granito de Granate y Diorita, unidades que afloran al este de la Falla. Al norte del área del Proyecto, FEP
+tiene orientación N10°-25°E. Índices cinemáticos normales han sido reconocidos en talud al norte del
+Proyecto, zona de fracturamiento de hasta 30 m de espesor, con relleno centimétrico de arcillas-clorita-
+yeso. Una brecha de falla de clastos angulosos y fuertemente alterados, asociado a esta misma zona de
+cizalle se observa en pozo de exploración geológica. El manteo es variable, siendo la tendencia 80°SE a
+vertical.
+b) Sistema NE
+Estas estructuras presentan brechas de < 1m de espesor, en el área sur del Proyecto, con tendencias N40°-
+60°E/50°-70°NW, aparentemente cortadas por el sistema NW. En superficie se observa una matriz de
+salvanda y caolín con clastos fuertemente argilizados. Al norte del Proyecto estas estructuras ponen en
+contacto bloques de Diorita con la unidad metamórfica.
+Acomodan sedimentación en la Cuenca Arauco-Itata. No se ha observado en el área del proyecto
+estructura de escala regional.
+c) Sistema EW
+La estructura más importante es la Falla Estero El Cabrito, que corta al intrusivo Granito de Granate.
+Observado en pozo de exploración geológica, presenta una brecha de falla con matriz de salvanda-
+16
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+limonita-arcilla. Su rumbo principal es entre N80°W a N80°E, con manteo entre 65° a 70° al norte.
+Figura 2-4. Geología Local en el área del Proyecto.
+Fuente: GAC
+Para más información sobre la Geología estructural del área del Proyecto, ver Capítulo 3-Sección A,
+acápite 3.4.5.1, en el presente EIA.
+17
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-5. Perfiles transversales a la Zona de Disposición del Proyecto.
+Fuente: Elaboración Propia, 2024.
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5.2 Antecedentes Geotécnicos
+I. ZONA DEL PROYECTO
+Los suelos de fundación del sector donde se emplaza el Proyecto, se caracterizan por ser suelos de tipo
+residual desarrollados a partir de rocas intrusivas (Lancuyen, 2021a, 2021b). A continuación, se describen
+los ensayos en terreno, de laboratorio y sus correspondientes resultados para la zona de disposición del
+Proyecto.
+Específicamente, para la zona de disposición (ZD) de Neptuno, se realizaron 12 calicatas excavadas
+manualmente de 2.0 m de profundidad (Figura 2-6). Además, se realizaron 6 mediciones geofísicas con el
+objetivo de determinar la profundidad de la roca, de éstas, 4 mediciones correspondieron al método
+denominado relación espectral H/V y 2 mediciones con métodos SPAC – MASW, para determinar el perfil
+de la velocidad de ondas de corte (Vs). En algunos casos, los ensayos geofísicos de H/V fueron realizados
+junto a las calicatas por lo que en la Figura 2-6 se muestra la posición cómo un único punto.
+a) Calicatas
+La Tabla 2-4 presenta un resumen de la clasificación y características del material encontrado mediante la
+exploración en base a calicatas, mientras que la Tabla 2-5 muestra los resultados de los ensayos con veleta
+de corte al fondo de las calicatas.
+Tabla 2-4. Resumen de datos geotécnicos de calicatas realizadas en Neptuno
+Calicata Densidad seca humedad LL IP USCS
+[-] [gr/cm3] [%] [%] [%] [-]
+CLN1 1.34 15.8 39 6 SM
+CLN2 1.45 17.7 40 11 SM
+CLN3 1.30 16.8 48 11 SM
+CLN4 1.43 22.5 51 15 SM
+CLN5 1.39 21.6 43 7 SM
+CLN6 1.52 25.7 44 14 ML
+CLN7 1.74 7.7 -- NP SM
+CLN8 1.41 16.9 43 14 SM
+CLN9 1.23 23.8 58 24 MH
+CLN10 1.44 18.9 41 19 CL
+CLN11 1.42 19.9 39 10 ML
+CLN12 1.49 16.1 43 6 ML
+LL: límite líquido, IP: límite plástico. Clasificación de suelos según
+Unified Soil Classification System USCS (SM: Arena limosa; ML: Limo;
+MH: Limo de alta plasticidad; CL: Arcilla)
+Fuente: Lancuyen, 2021ª
+19
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-6. Ubicación de las prospecciones geotécnicas realizadas en Neptuno.
+Se indica la posición de las calicatas realizadas. En el nombre “HV”, cuando se han realizado ensayos geofísicos en el
+mismo punto. Vs indica la posición de ensayos de SPAC - MASW.
+Fuente: Modificado de Lancuyen, 2021a.
+20
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-5. Resultados ensayos veleta de corte (in situ).
+Calicata Profundidad Res. Peak Res. Residual
+[-] [m] [kPa] [kPa]
+CLN1 2.0 151.4 36.5
+CLN2 2.0 196.3 44.9
+CLN3 2.0 165.4 56.1
+CLN4 2.0 196.3 42.1
+CLN5 2.0 196.3 51.9
+CLN6 2.0 (*)
+CLN7 2.0 168.2 42.1
+CLN8 2.0 196.3 54.7
+CLN9 2.0 196.3 57.5
+CLN10 2.0 196.3 58.9
+CLN11 2.0 196.3 50.5
+CLN12 2.0 196.3 64.5
+(*): CLN6 no medido por presencia de agua.
+**: La veleta tiene como límite superior 196.3 kPa.
+Fuente: Modificado de Lancuyen, 2021a
+En la Calicata 6 no fue posible medir el peak de resistencia con la veleta de corte debido a la presencia de
+un nivel saturado que licúa la muestra. Este nivel de agua colgada, es resultado de la acumulación local de
+agua de lluvia que percola desde la superficie y se estanca por la presencia de niveles más impermeables,
+como roca en este caso metapelitas, más resistentes a la meteorización, que afloran en la Calicata 6.
+b) Ensayos Geofísicos
+Con la finalidad de estimar las características del suelo y la profundidad de la roca, se realizaron ensayos
+para la estimación de perfiles de velocidad de ondas de corte (Vs) con dos metodologías de trabajo: Ensayo
+Activo (MASW) y Ensayo Pasivo (SPAC). Los puntos analizados se muestran en la Figura 2-7 donde se
+instalaron varios sismómetros en lectura simultánea, con separación máxima entre instrumentos de 30 m.
+Dada la topografía y dificultad de acceso a los valles, se privilegió la medición de Vs en zonas altas con
+áreas que permitieran arreglos instrumentales de gran apertura, mientras que, para los valles y sus
+accesos, se realizaron mediciones de periodo fundamental, los que requieren sólo de un sismómetro
+triaxial.
+Los resultados de la medición de velocidad de ondas de corte (Vs) se presentan en la Tabla 2-6, mientras
+que los resultados de las frecuencias fundamentales obtenidas y la amplitud de la razón H/V se muestran
+en la Tabla 2-7.
+21
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-6. Resultados de la medición de velocidad de ondas de corte (Vs)
+Punto Profundidad (m)
+Vs (m/s)
+analizado Inicial Final
+0.0 13.3 220
+Vs-01 13.3 14.8 566
+14.8 --- 1,018
+0.0 6.3 200
+Vs-02 6.3 33.5 389
+33.5 --- 1,164
+En los puntos Vs-01 y Vs-02 (ubicación de los puntos analizados en Figura 2-6.
+Fuente: Modificado de Lancuyen, 2021a
+Tabla 2-7. Frecuencias fundamentales obtenidas (Fo) y amplitud de la razón espectral H/V (Ao)
+Sitio Fo (Hz) Ao
+CLN1 Ind. > 4.0
+CLN6 4.63 2.02
+CLN9 Ind. >2.0
+CLN11 1.09 4.10
+Ubicación de los puntos analizados en Figura 2.7
+Fuente: Lancuyen, 2021c
+A partir de las razones espectrales H/V, y la velocidad de ondas de corte promedio del suelo residual
+estimado para la zona, se obtienen las siguientes profundidades estimadas de la roca (Tabla 2-8).
+Tabla 2-8. Profundidades estimadas de la roca para los puntos de medición
+Sitio H (m)
+VS-01 14.8
+VS-02 33.5
+CLN1 >20
+CLN6 12.7
+CLN9 >17
+CLN11 45.8
+Fuente: Modificado de Lancuyen, 2021a
+Cabe destacar que para los sitios CLN1 y CLN9 no es posible distinguir un peak claro que determine la
+frecuencia fundamental, no obstante, si se considera el límite superior de las frecuencias donde ocurre
+amplificación significativa, es posible estimar una profundidad mínima desde la cual se puede encontrar
+la roca, que corresponde a lo indicado en la Tabla 2-8.
+22
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+c) Ensayos Triaxiales
+En las calicatas CLN-1 y CLN-8 se realizaron ensayos triaxiales consolidados no drenados, de muestras
+inalteradas y tomadas a 2 metros de profundidad (Lancuyen, 2021c). Los ensayos fueron realizados en el
+Instituto de Investigaciones Tecnológicas de la UDEC (Lancuyen 2021c).
+Las probetas de la Calicata CLN-1 se fracturaron fácilmente al momento de instalar en el equipo triaxial,
+por lo que no pudieron ser ensayadas. Finalmente, se realizó un ensayo triaxial CIU a 3 probetas extraídas
+como muestras de probeta (no perturbadas) de la calicata CLN 8. Los resultados del ensayo se presentan
+en la Tabla 2-9.
+Tabla 2-9. Ensayo triaxial de muestra en Calicata 8
+Datos/parámetros 01_150 02_300 03_450
+*Altura (cm) 9.92 9.96 9.98
+*Diámetro (cm) 5.02 5.03 5.02
+Peso total inicial (g) 347.7 357.4 341.2
+*Densidad natural (g/cm3) 1.773 1.804 1.723
+B Skempton 0.97 0.94 0.94
+p’c (kPa) 149.97 298.91 449.76
+Fuente: Lancuyen, 2021c
+d) Ensayos de compresión no confinada (CNC)
+La Tabla 2-10 resume los resultados de ensayos de compresión no confinada (CNC) de muestras tomadas
+en el fondo de las calicatas. La diferencia de resultados de la veleta de corte (Tabla 2-5) con el ensayo CNC
+se explican debido a la heterogeneidad del terreno (Lancuyen, 2021a). Adicionalmente, a las diferencias
+que se generan por la inestabilidad que generan las partículas de mayor tamaño en las probetas ensayadas
+en CNC, es un fenómeno bien documentado que ambos ensayos siempre muestran diferencias a favor de
+la veleta (Wesley, 2010).
+Tabla 2-10. Resultados de ensayos de compresión no confinada.
+Calicata Profundidad Tipo Res. Peak Res. Residual
+[-] [m] [-] [kPa] [kPa]
+CLN11 2.0 Inalterada 133.0 66.5
+CLN11 2.0 Inalterada 92.4 46.2
+CLN12 2.0 Inalterada 174.0 87.0
+CLN12 2.0 Inalterada 168.7 84.3
+Fuente: Modificado de Lancuyen, 2021a
+En virtud de lo anterior, mediante la ejecución de las calicatas, mediciones geofísicas y diversos ensayos
+en la ZD Neptuno, se ha determinado que los suelos del sitio en estudio, corresponden principalmente a
+arena limosa (maicillo) de origen residual, material que presenta una alta variabilidad espacial debido a su
+origen geológico. Para la determinación de los parámetros resistentes operacionales, mediante ensayos
+23
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+triaxiales, se ha determinado un ángulo de fricción interna ’ = 32° y c’ = 0. Estos parámetros resistentes
+del suelo son fundamentales para los estudios de estabilidad física.
+No se ha detectado nivel freático en las calicatas excavadas manualmente hasta 2.0 m de profundidad y
+la ubicación de la roca se detecta mediante ensayos geofísicos a un mínimo de 13 m de profundidad.
+Antes de verter el material sobre la zona será necesario preparar la superficie de la ladera, para lo que se
+deberá ejecutar un escarpe y endentado del terreno (escalonamiento), removiendo al menos la vegetación
+y suelos vegetales. Los escarpes deberán tener un ancho mínimo de 3 m y pendiente de 4%, mientras que
+los escalones una pendiente máxima de relación H:V=1:1. Adicionalmente, se deberá verificar que el suelo
+natural posterior al escarpado, posea una resistencia mínima de 190 kPa medido con veleta de corte.
+2.5.3 Antecedentes Hidrológicos
+El área de estudio se sitúa en la Región del Biobío, específicamente en la Cordillera de la Costa, donde el
+patrón de drenaje se desarrolla de Oeste a Este y donde destacan algunos cauces como el río Andalién,
+cuyo régimen es completamente pluvial, de caudal permanente y continuo durante todos los meses del
+año. Lo anterior, ha sido validado mediante el levantamiento de la red hidrográfica gruesa, obtenida
+mediante el modelo digital de elevación de ALOS PALSAR DEM (https://search.asf.alaska.edu/#/) de 12,5
+m de resolución por pixel. La red fina fue generada mediante la topografía de curvas de nivel cada 1 m de
+la zona de estudio.
+A continuación, la Figura 2-7 presenta la red hidrográfica del área de influencia del proyecto.
+24
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-7. Red Hidrográfica del Área de Influencia.
+Fuente APM Consultores
+Respecto de la pluviometría, se han analizado los datos aportados por la red de estaciones DGA cercanas
+a la zona del proyecto. Estas estaciones son; Estación Concepción, Estación Andalién, Estación Las Pataguas
+y Estación Rafael. No obstante, en base a la caracterización básica de cada una de estas y la extensión de
+sus registros, la estación pluviométrica DGA Andalién se considera representativa de la zona, debido a su
+cercanía (menos de 10 km) y a una altura semejante de la zona de estudio y presenta una buena
+consistencia de datos
+El clima en la zona de estudio se caracteriza por una estación seca de menos de cuatro meses, alcanzando
+un valor anual acumulado de agua caída de 1.136 mm promedio durante los últimos 20 años de estadística
+(2000-2020). La variación mensual de precipitaciones evidencia que el mes de junio es el mes más lluvioso
+con un promedio de 256 mm de agua caída, mientras que el mes de febrero es el mes más seco con 12
+mm de agua caída promedio.
+25
+================================================================================
+PAGE 26
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+A continuación, la Figura 2-9 se presenta un climograma con la variación temporal de precipitación.
+Figura 2-8. Climograma de precipitación media mensual (2000 – 2020), estación DGA Andalién y temperatura
+media mensual (1966 – 2020), estación DMC Carriel Sur
+Fuente: APM Consultores
+2.5.4 Antecedentes Hidrogeológicos
+El área de emplazamiento del Proyecto de caracterización se sitúa en la Cordillera de La Costa, en la cual
+afloran rocas cristalinas intrusivas y metamórficas de muy baja a nula permeabilidad primaria. En escala
+regional esta zona se define como un área de importancia hidrogeológica nula (referencia).
+A escala del proyecto, cabe mencionar que producto del clima de la zona, templado con periodos de lluvias
+bien marcados, además de la cobertura vegetal importante, se producen procesos intensos de
+meteorización química y física en las rocas del batolito, ocasionando la alteración de la mineralogía
+primaria a arcillas y la disgregación de los granos de minerales más resistentes.
+El resultado de esto se traduce en un suelo residual denominado como Saprolito, el cual se extiende de
+manera semi horizontal, en gran parte del área del proyecto, y es donde se encuentran los recursos de
+Tierras Raras. El saprolito se desarrolla en forma extensiva y preponderante, confiriendo además un nivel
+con características que condicionan fuertemente la infiltración y movimiento de las aguas subterráneas.
+La permeabilidad en el Saprolito está limitada por el importante contenido de arcillas, lo que motiva que
+este horizonte tiende a actuar como un acuitardo, incluso presentando en la componente vertical
+ausencia de agua; aunque en el componente horizontal más somero puede observarse la ocurrencia de
+humectación de este suelo, asociado a las condiciones climáticas, pero sin establecer una condición de
+saturación y flujo de agua, que se constriñe a sectores someros y localmente situados.
+26
+================================================================================
+PAGE 27
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En la transición entre el Saprolito y la roca basal, corresponde a una unidad compuesta por un saprolito
+menos desarrollado mezcla de una roca semi desintegrada químicamente y fracturada, lo cual le infiere
+características hidráulicas distintivas del resto de las unidades, con mayor permeabilidad relativa respecto
+de la unidad suprayacente. De hecho, la ocurrencia de agua se detecta en esta zona de transición profunda
+entre saprolito y roca sana, donde las permeabilidades son mayores en varios ordenes de magnitud, sin
+embargo, de muy baja productividad.
+La unidad conformada por el saprolito que presenta la mayor extensión en la zona de estudio no permite
+la existencia de flujo continuo y bien desarrollado, debido sus características, con alto contenido de arcillas
+y limos; debe agregarse además que las pendientes pronunciadas, hace que prevalezca la escorrentía en
+lugar de la infiltración.
+Durante noviembre de 2022 y abril de 2023 se ejecutó la perforación y habilitación de un total de 8 pozos
+con características constructivas de estándar hidrogeológico para caracterización litológica detallada,
+ensayos hidráulicos, monitoreo de niveles y control ambiental.
+Figura 2-9. Pozos Hidrogeológicos.
+Fuente: APM Consultores
+27
+================================================================================
+PAGE 28
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La ubicación de los pozos hidrogeológicos fue elegida para las zonas de cabeceras de cuencas intentando
+seguir el posible flujo subterránea asociado a la topografía del proyecto, junto con complementar de
+manera más precisa los datos de nivel para la generación de piezometrías.
+Las pruebas de bombeo muestran que para caudales extremadamente bajos (0,4 a 0,8 l/s) se produce
+agotamiento en tiempos muy cortos (del orden de 15 minutos); lo que indica que es un sistema de pobre
+alimentación hídrica, consistente con lo ya indicado. De hecho, el nivel conformado por el saprolito le
+confiere condiciones de confinamiento que establecen condiciones de presión, pero con caudales muy
+bajos para otorgar una valoración hidrogeológica con alguna relevancia. A su vez, la calidad del agua
+muestra una diferenciación con las aguas de escorrentía superficial; de hecho, a partir del pH se concluye
+que el aporte de estas aguas presentes en la zona de transición entre el saprolito y el basamento resulta
+muy escaso y significativamente inferior a 1 l/s.
+Las aguas subterráneas en el sector, por lo tanto, están restringidas principalmente a los depósitos
+fluviales escasamente desarrollados en los cursos de los esteros mayores, pudiendo encontrarse a pocos
+decímetros del nivel del terreno. Estas aguas son más bien subsuperficiales, acotadas y no conforman un
+acuífero de importancia hidrogeológica de la zona de estudio, la que además no se utiliza como recurso
+subterráneo para fuente de abastecimiento de agua potable o de riego.
+Para mayor información, ver Capítulo 3 del EIA – Sección A Medio Físico.
+2.5.5 Antecedentes Sísmicos
+Las fuentes sísmicas más relevantes para el proyecto corresponden a sismos de subducción interplaca e
+intraplaca, y los eventos corticales.
+Los sismos interplaca son aquellos que ocurren en la interfaz entre las placas Sudamericana y de Nazca.
+Dentro de los interplaca se cuenta con los registros de un sismo muy severo (con magnitud Mw=8.8) para
+el tipo interplaca, como el de Maule (2010).
+Por otro lado, los sismos intraplaca de profundidad intermedia, corresponden a aquellos que ocurren
+dentro de la placa de Nazca a una profundidad intermedia (por lo general mayores a 80 km). Estos sismos
+pueden generar aceleraciones importantes, en general con mayor contenido de altas frecuencias y
+atenuación con distancia más pronunciada. Un ejemplo histórico de este último tipo es el evento de Chillán
+(1939), el evento sísmico con mayor registro de muertes en la historia de Chile.
+Finalmente, los eventos corticales son fallas superficiales con bajas recurrencias, pero con eventualmente
+gran poder destructivo.
+En particular, la zona de interés se encuentra aproximadamente entre los paralelos 32°S y 40°S, la cual
+está caracterizada por una ancha zona de Wadati–Benioff con inclinación de aproximadamente 30° (Cahill
+& Isacks, 1992).
+28
+================================================================================
+PAGE 29
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La tasa de convergencia estimada entre las placas de Nazca y Sudamericana en la zona del proyecto se
+estima en torno a los 80 mm/año.
+En la Tabla 2-11 se enlistan los sismos más significativos con frecuencias mayor a 7,0° para magnitud de
+ondas superficiales y magnitud de momento, entre los 36º y 39º Latitud Sur.
+En la siguiente figura se observa la ubicación del Proyecto respecto de epicentros de sismos con magnitud
+mayor a 7.0 en las escalas ya indicadas.
+Figura 2-10. Área de epicentros de magnitud mayor a 7,0 ° Richter, en zonas aledañas al Proyecto, Región de
+Biobío.
+Fuente: Modificado de Servicio Sismológico Universidad de Chile.
+29
+================================================================================
+PAGE 30
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-11. Catálogo Sísmico de Chile. Terremotos >7° Richter en Región del Biobío.
+Fecha Hora Latitud Longitud Ms Prof (km) Mw Efec. Sec.
+08/02/1570 9:00 -36.800 -73.000 8.3 - - TD
+15/03/1657 19:30 -36.830 -73.030 8.0 - - TD
+25/05/1751 1:00 -36.830 -73.030 8.5 - - TM
+20/02/1835 11:30 -36.830 -73.030 8.5 - - TD
+19-04-1949 23:29 -38.000 -73.500 7.3 - 70 -
+21-05-1960 6:02 -37.500 -73.500 7.3 - - -
+22-05-1960 6:32 -37.500 -73.000 7.3 - - -
+19-06-1960 22:01 -38.000 -73.500 7.3 - - -
+01-11-1960 4:45 -38.500 -75.100 7.4 - 55 -
+27-02-2010 3:34 -36.290 -73.239 - 8.8 30 TD
+Ms: Magnitud determinada con ondas sísmicas superficiales;
+Mw: Magnitud de momento determinada a partir de la energía liberada en
+un sismo.; S: Hipocentro poco profundo (a menos de 40 km);
+T: Tsunami menor; TD:
+Tsunami destructivo y
+mayor;
+TM: Tsunami moderado o marejada
+importante; Fecha y Hora son locales.
+Fuente: Centro Sismológico Nacional Universidad de Chile.
+Sin perjuicio de lo anterior, e independiente de la distancia de ocurrencia de sismos respecto de la
+ubicación de obras y partes del Proyecto, su emplazamiento, determina que conforme a la norma chilena
+NCh 2369:2003 sobre “Diseño Sísmico de Estructuras e Instalaciones industriales”, se ubica en la zona
+sísmica 3, de tal forma que las construcciones a emplear deben dar cumplimiento a las condiciones de
+aceleración que establece dicha norma, asegurando las características de diseño y constructivas
+apropiadas para la zonificación indicada.
+2.5.6 Antecedentes Meteorológicos
+Se utilizó la data de 4 estaciones de monitoreo cercanas al lugar de emplazamiento del Proyecto: Kingston
+College, Liceo Polivalente, Coronel Norte y Nueva Libertad.
+De acuerdo con las estaciones descritas, el promedio de velocidad de los vientos no supera los 3,66 m/s.
+Las calmas, correspondientes a los vientos con una velocidad menor a 0,5 m/s, ocurren principalmente en
+horario nocturno y presentan hasta una frecuencia promedio anual de hasta 18% en la estación Liceo
+Polivalente. En relación con la dirección del viento, la mayoría de las estaciones comparten componentes
+predominantes provenientes desde el Oeste y del Sur en horario diurno, mientras que en horario nocturno
+la dirección se observa más heterogénea.
+El promedio de la temperatura en las estaciones caracterizadas se encuentra en torno a los 13°C, con
+mínimas (entre -0,5°C y 0,1°C) y máximas (entre los 31 °C y 32 °C), con amplitudes térmicas diarias y
+estacionales bajas, debido a la cercanía de las estaciones a la costa.
+30
+================================================================================
+PAGE 31
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En relación con la humedad relativa, se observa que aumenta en el horario nocturno y disminuye en el
+horario diurno producto de la radiación solar, esta última con máximos que se producen en torno al
+mediodía.
+La precipitación en la zona se concentra mayoritariamente en los meses invernales, con excepción en la
+estación Liceo Polivalente, donde la precipitación durante el año 2020 alcanzó su máximo en meses
+estivales.
+Para mayor información respecto al componente Clima y Meteorología ver Capítulo 3-Sección A, acápite
+3.1.4.2, en el presente EIA.
+2.5.7 Antecedentes Topográficos
+El área de emplazamiento de las obras y partes del Proyecto presenta una topografía característica
+representada por la Cordillera de la Costa, con rangos de pendientes que van desde leve hasta escarpadas.
+Para representar el relieve de emplazamiento del Proyecto, se utilizó un modelo de elevación digital DEM
+de alta resolución (1 m) tipo Lidar (Light Detection and Ranging) adquirido por Aclara (2022) (Ver Apéndice
+10-3.1).
+El Proyecto se emplaza en altitudes que van desde los 150 a los 350 m.s.n.m. La mayor altura se encuentra
+en el sector sureste del Proyecto (ZE luna), mientras que las cercanas a 150 m.s.n.m. se encuentran en el
+sector centro oeste (ZD Neptuno). En la extensión general del Proyecto las alturas disminuyen de Este a
+Oeste.
+El área presenta un relieve complejo con pendientes variadas, encontrándose en menor medida
+pendientes menor a 8%, siendo los rangos de pendiente con mayor representación aquellas que se
+encuentran entre 15 a 45% y 45 a 60%, y en menor medida pendientes mayores a 60%.
+3 ANTECEDENTES RESPECTO DE LA GENERACIÓN DE AGUAS DE CONTACTO O
+AGUAS ÁCIDAS, FILTRACIONES E INFILTRACIONES DEL BOTADERO DE
+ESTÉRILES O ACUMULACIÓN DE MINERALES, ASÍ COMO DE LOS ENSAYOS Y
+PRUEBAS QUÍMICAS CORRESPONDIENTES
+Caber precisar, que tanto la ZD Neptuno como la ZAV consideran obras hidráulicas periféricas, cuya función
+será colectar las aguas de escurrimiento natural y aquellas que entran en contacto con el material
+dispuesto en ellas, para luego reencauzar el flujo gravitacionalmente aguas abajo, hacia un curso o
+quebrada. El detalle de estas obras de intercepción y colectoras se presentan en el Capítulo 10, en el
+acápite destinado al desarrollo de los antecedentes necesarios para el cumplimiento de los requisitos a
+que se refiere el artículo 157 del Reglamento del SEIA.
+Para evaluar la eventualidad de generación de aguas ácidas, se ha realizado una completa caracterización
+realizada a las arcillas procesadas que se generan en la planta de procesamiento, según lo establece la
+31
+================================================================================
+PAGE 32
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Guía de Estabilidad Química de Residuos Masivos Mineros (SERNAGEOMIN 2015). El test propuesto por
+esta guía es el SPLP “Synthetic Precipitation Leaching Procedure” (EPA, 1994).
+Sobre la base de lo anterior, se descarta la generación de aguas ácidas debido a que no existe presencia
+de minerales sulfurados en el yacimiento y, por su parte, el proceso de obtención de concentrado de
+tierras raras que se utilizará no favorece la acidificación del medio.
+Mayores antecedentes en el Apéndice 10-3.3 y Apéndice 10-3.4 del presente documento.
+4 PRESENTACIÓN DE UN DIAGRAMA DE FLUJOS Y PLANO GENERAL DE LAS
+OBRAS ANEXAS ASOCIADAS AL BOTADERO DE ESTÉRILES O ACUMULACIÓN DE
+MINERALES
+A continuación, en la Figura 4-1 presenta el diagrama de flujo asociado a la ZD, ZAV y Stockpile.
+Figura 4-1. Diagrama de Flujo asociado a la ZD, ZAV y Stockpile.
+Fuente: Elaboración Propia, 2024
+32
+================================================================================
+PAGE 33
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-2. Ubicación general de la ZD, ZAV y Stockpile.
+Fuente: Elaboración Propia, 2024
+33
+================================================================================
+PAGE 34
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+5 INDICAR SI EXISTEN OTROS BOTADEROS O DEPÓSITOS ADYACENTES Y SUS
+CARACTEÍSTICAS PRINCIPALES
+No se evidencian botaderos o depósitos adyacentes al presente Proyecto.
+6 DESCIPCIÓN GENERAL DE LOS PARAMETROS DE ESTABILIDAD FISICA Y
+QUÍMICA DURANTE LA OPERACIÓN DEL BOTADERO DE ESTÉRILES O
+ACUMULACIÓN DE MINERALES
+a) ZD Neptuno
+En relación con la estabilidad química, y tal como se ha descrito anteriormente, se han realizado pruebas
+a las arcillas procesadas, a fin de verificar la estabilidad química de la ZD Neptuno.
+Estas pruebas consistieron en la selección de 20 muestras a las cuales se ejecutó el Test SPLP “Synthetic
+Precipitation Leaching Procedure” (EPA, 1994). Los resultados del test fueron comparados con los límites
+máximos permisibles de las normas de calidad de aguas D.S N°90 del (MINSEGPRES, 2001) y NCh 1333
+(INN, 1987), donde las concentraciones de los analitos en la solución resultante (eluato) se encuentran por
+debajo las concentraciones máximas permitidas por las referidas normas.
+En virtud de lo anterior, la evaluación mediante el muestreo y análisis considerado dan cuenta del
+cumplimiento que tendrán la Zona de Disposición Neptuno durante la operación del proyecto.
+Mayores antecedentes en el Apéndice 10-3.3 y Apéndice 10-3.4 del presente documento.
+Por su parte, respecto de la Estabilidad Física para la ZD Neptuno, se confeccionaron probetas en
+laboratorio ajustando el nivel de compactación, contenido de finos y humedad con las características del
+material de salida de planta (arcilla lavada) y del material lastre representativo de las distintas ZE. En base
+a los parámetros de resistencia estimados, se realizó un análisis de estabilidad, definiendo así
+recomendaciones respecto del nivel de compactación requerido, así como también de la inclinación
+máxima permitida para el talud de ZD Neptuno.
+Con el propósito de validar los resultados de laboratorio y replicar a escala la confección del depósito,
+durante mayo de 2021 fue construido un terraplén de prueba (T-01) el cual tenía por función representar
+la compactación in situ de los materiales de la zona, sin alterar su contenido de humedad. Los parámetros
+de resistencia considerados en esta etapa permitieron determinar la pendiente de la zona del talud del
+depósito. Como tercera parte y final del proceso de validación, durante octubre y noviembre de 2021
+fueron construidos dos terraplenes de prueba adicionales:
+• (T-02) representa el material procesado por planta y dispuesto en las canchas de secado en la
+misma ZD (para disminuir la humedad a aproximadamente 20%).
+34
+================================================================================
+PAGE 35
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• (T-03) representa al material lastre, construido con la humedad natural del material (17%).
+Finalmente, se ha considerado que aquellos materiales con mejores características mecánicas como el
+lastre y arcilla lavada con disminución de humedad conformarán la zona estructural de la ZD Neptuno y el
+material que no pueda disminuir su humedad durante periodos de lluvia se depositará en el sector no
+estructural de la ZD.
+Los resultados en base a los parámetros de resistencia, indican que el ángulo de inclinación máxima para
+la conformación de la ZD Neptuno con material estéril y procesado de planta alcanza los 18°.
+Los factores de seguridad requeridos para la ZD Neptuno obtenida del Modelo mediante software
+“Stability”, cumple los valores recomendados por la (FHWA) según se muestra en la Tabla 6-1 a
+continuación:
+Tabla 6-1. Factores de Seguridad para análisis estático y pseudo-estático.
+Zona de Disposición Escenario Situación Condición FS Requerido FS Modelo
+Temporal No Drenada 1,25 1,56
+Drenada 2,32
+Estático Permanente 1,50
+Estéril No Drenada 2,19
+(w=17%) Drenada 1,33
+Sísmico Permanente 1,10
+No Drenada 1,18
+Temporal No Drenada 1,25 1,65
+Drenada 2,27
+Estático Permanente 1,50
+No Drenada 1,97
+Procesado
+Drenada 1,31
+(w=20%) Sísmico Permanente 1,10
+No Drenada 1,10
+Fuente: lancuyen 2021.
+Según lo anterior, se concluye que la Zona de Disposición considera un diseño estable respecto de sus
+condiciones estáticas y pseudo-estáticas.
+Para mayores antecedentes ver Apéndice 10-3.5 del presente documento.
+b) Zona de Acopio Vegetal (ZAV).
+En la ZAV se acopiará material estéril de las ZE (escarpe o capa suelo vegetal) así también como la capa de
+suelo vegetal de la planta de procesamiento, ZD Neptuno y de la misma ZAV.
+Los resultados del análisis de estabilidad indican que considerando una inclinación de 18° del material en
+el acopio de suelo vegetal y una altura máxima de 36 m., estos son estables y cumplen con los criterios de
+aceptabilidad conforme a las recomendaciones de la FHWA (Administración Federal de Carreteras, por sus
+ingles en inglés). Finalmente, bajo el análisis actual, la condición sísmica (drenada y no drenada) es la que
+controla el diseño de la geometría del depósito de acopio vegetal.
+35
+================================================================================
+PAGE 36
+================================================================================
+Anexo 10-3. PASM 136
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Para mayores antecedentes ver Apéndice 10-3.7 del presente Anexo.
+c) Stockpile.
+Eventualmente, en la zona del stockpile, se acumulará temporalmente mineral a procesar o arcilla lavada,
+como conclusión del estudio realizado, indica que los resultados para las condiciones de geometría
+analizadas, el material en los Stockpile de entrada debe disponerse con un ángulo máximo de 45° a una
+altura de h=4.0 m, la condición es controlada por la condición estática. Por otro lado, para la arcilla lavada
+se verifica la condición de disposición de cono con 4.0 m de altura, diámetro de 8.00 m y ángulo máximo
+de 45°, la condición es controlada por la condición estática.
+Para mayores antecedentes ver Apéndice 10-2.6 del presente Anexo.
+En virtud de todo lo anterior, es posible concluir que durante la operación de los depósitos para el cual
+resulta aplicable el PAS 136, se cumple con los requisitos de estabilidad física y química.
+36

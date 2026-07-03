@@ -1,0 +1,1859 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3B -15
+Fichas de Descripción de Suelo y
+Resultados de Laboratorio
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado de
+Tierras Raras"
+Región de Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE GENERAL
+1 Fichas de Descripción de Suelo .................................................................................................... 4
+1.1 Calicata MP-04............................................................................................................................... 4
+1.2 Calicata MP-05............................................................................................................................... 5
+1.3 Calicata MP-06............................................................................................................................... 6
+1.4 Calicata MP-07............................................................................................................................... 8
+1.5 Calicata MP-08............................................................................................................................... 9
+1.6 Calicata MP-09............................................................................................................................. 11
+1.7 Calicata MP-10............................................................................................................................. 13
+1.8 Calicata MP-12............................................................................................................................. 14
+1.9 Calicata MP-14............................................................................................................................. 16
+1.10 Calicata MP-16............................................................................................................................. 17
+1.11 Calicata MP-18............................................................................................................................. 18
+1.12 Calicata MPH-01 .......................................................................................................................... 20
+1.13 Calicata MPH-02 .......................................................................................................................... 21
+1.14 Calicata MPH-03 .......................................................................................................................... 22
+1.15 Calicata MPH-04 .......................................................................................................................... 24
+1.16 Calicata CA-04 .............................................................................................................................. 26
+1.17 Calicata CA-05 .............................................................................................................................. 27
+1.18 Calicata CA-10 .............................................................................................................................. 29
+1.19 Calicata CA-11 .............................................................................................................................. 30
+1.20 Calicata CA-17 .............................................................................................................................. 32
+1.21 Calicata CA-21 .............................................................................................................................. 33
+1.22 Calicata CA-23 .............................................................................................................................. 35
+1.23 Calicata CA-24 .............................................................................................................................. 36
+1.24 barreno MPB-01 .......................................................................................................................... 38
+1.25 Barreno MPB-02 .......................................................................................................................... 39
+1.26 Barreno MPB-03 .......................................................................................................................... 40
+1.27 Barreno MPB-04 .......................................................................................................................... 41
+1.28 Barreno MPB-05 .......................................................................................................................... 43
+1.29 Barreno MPB-06 .......................................................................................................................... 44
+1.30 Barreno MPB-07 .......................................................................................................................... 45
+1.31 Barreno MPB-08 .......................................................................................................................... 46
+1.32 Barreno MPB-09 .......................................................................................................................... 48
+1.33 Barreno MPB-10 .......................................................................................................................... 49
+1.34 Barreno MPB-11 .......................................................................................................................... 50
+1.35 Punto de Observación PO-01 ...................................................................................................... 51
+1.36 Punto de Observación PO-02 ...................................................................................................... 52
+1.37 Punto de Observación PO-04 ...................................................................................................... 53
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.38 Punto de Observación PO-05 ...................................................................................................... 53
+1.39 Punto de Observación PO-06 ...................................................................................................... 54
+2 Resultados de Laboratorio......................................................................................................... 55
+INDICE DE TABLAS
+Tabla 1-1. Descripción física y morfológica de la Calicata MP-04 ................................................................. 4
+Tabla 1-2. Descripción física y morfológica de la Calicata MP-05 ................................................................. 5
+Tabla 1-3. Descripción física y morfológica de la Calicata MP-06 ................................................................. 6
+Tabla 1-4. Descripción física y morfológica de la Calicata MP-07 ................................................................. 8
+Tabla 1-5. Descripción física y morfológica de la Calicata MP-08 ................................................................. 9
+Tabla 1-6. Descripción física y morfológica de la Calicata MP-09 ............................................................... 11
+Tabla 1-7. Descripción física y morfológica de la Calicata MP-10 ............................................................... 13
+Tabla 1-8. Descripción física y morfológica de la Calicata MP-12 ............................................................... 14
+Tabla 1-9. Descripción física y morfológica de la Calicata MP-14 ............................................................... 16
+Tabla 1-10. Descripción física y morfológica de la Calicata MP-16 ............................................................. 17
+Tabla 1-11. Descripción física y morfológica de la Calicata MP-18 ............................................................. 18
+Tabla 1-12. Descripción física y morfológica de la Calicata MPH-01 ........................................................... 20
+Tabla 1-13. Descripción física y morfológica de la Calicata MPH-02 ........................................................... 21
+Tabla 1-14. Descripción física y morfológica de la Calicata MPH-03 ........................................................... 22
+Tabla 1-15. Descripción física y morfológica de la Calicata MPH-04 ........................................................... 24
+Tabla 1-16. Descripción física y morfológica de la Calicata CA-04 .............................................................. 26
+Tabla 1-17. Descripción física y morfológica de la Calicata CA-05 .............................................................. 27
+Tabla 1-18. Descripción física y morfológica de la Calicata CA-10 .............................................................. 29
+Tabla 1-19. Descripción física y morfológica de la Calicata CA-11 .............................................................. 30
+Tabla 1-20. Descripción física y morfológica de la Calicata CA-17 .............................................................. 32
+Tabla 1-21. Descripción física y morfológica de la Calicata CA-21 .............................................................. 33
+Tabla 1-22. Descripción física y morfológica de la Calicata CA-23 .............................................................. 35
+Tabla 1-23. Descripción física y morfológica de la Calicata CA-24 .............................................................. 36
+Tabla 1-24.. Descripción física y morfológica del perfil de suelo MPB-01 .................................................. 38
+Tabla 1-25. Descripción física y morfológica del perfil de suelo MPB-02 ................................................... 39
+Tabla 1-26. Descripción física y morfológica del perfil de suelo MPB-03 ................................................... 40
+Tabla 1-27. Descripción física y morfológica del perfil de suelo MPB-04 ................................................... 41
+Tabla 1-28. Descripción física y morfológica del perfil de suelo MPB-05 ................................................... 43
+Tabla 1-29. Descripción física y morfológica del perfil de suelo MPB-06 ................................................... 44
+Tabla 1-30. Descripción física y morfológica del perfil de suelo MPB-07 ................................................... 45
+Tabla 1-31. Descripción física y morfológica del perfil de suelo MPB-08 ................................................... 46
+Tabla 1-32. Descripción física y morfológica del perfil de suelo MPB-09 ................................................... 48
+Tabla 1-33. Descripción física y morfológica del perfil de suelo MPB-10 ................................................... 49
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 34. Descripción física y morfológica del perfil de suelo MPB-11 ....................................................... 50
+Tabla 1-35. Descripción Punto de Observación PO-01 ................................................................................ 51
+Tabla 1-36. Descripción Punto de Observación PO-02 ................................................................................ 52
+Tabla 1-37. Descripción Punto de Observación PO-04 ................................................................................ 53
+Tabla 1-38. Punto de observación PO-05 .................................................................................................... 53
+Tabla 1-39. Punto de observación PO-06 .................................................................................................... 54
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1 FICHAS DE DESCRIPCIÓN DE SUELO
+1.1 Calicata MP-04
+Tabla 1-1. Descripción física y morfológica de la Calicata MP-04
+MP-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.663 E / 5.930.011 N / 268 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como muy profundo (100 cm); pendiente compleja, fuertemente ondulada (15%); sin
+Características pedregosidad superficial; drenaje moderado; textura superficial franco arcillosa; condición
+Generales buena de agua aprovechable (12,04 cm c.a.); sin pedregosidad subsuperficial; erosión no
+aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales
+clasifican el suelo como no salino (0,23 dS m-1), no sódico (0,45%) y no calcáreo. La Clase de
+Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares
+medios y gruesos, moderados; friable en húmedo; moderado plástico y moderado adhesivo;
+0-23 raíces finas y medias abundantes; poros finos abundantes, y medios, pocos. Sin pedregosidad.
+Sin reacción al HCl. Moteados rojo amarillento (5YR 5/8), medios, pocos. Concreciones medias,
+pocas. Límite ondulado, claro.
+Rojo amarillento (5YR 4/6) en húmedo; franco arcillosa; estructura de bloques subangulares
+medios, moderados; friable en húmedo; moderado plástico y moderado adhesivo; raíces finas,
+23-61
+pocas; poros finos y medios abundantes, gruesos pocos; Sin pedregosidad. Sin reacción al HCl.
+Cutanes medios, abundantes. Límite lineal, claro.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; estructura de bloques angulares gruesos,
+61-100 débiles; firme en húmedo; muy plástico y moderado adhesivo; raíces medias, pocas; poros finos
+y medianos abundantes. Sin pedregosidad. Sin reacción al HCl.
+Fotografías
+4
+================================================================================
+PAGE 6
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.663 E / 5.930.011 N / 268 m.s.n.m.
+Fuente: GAC
+1.2 Calicata MP-05
+Tabla 1-2. Descripción física y morfológica de la Calicata MP-05
+MP-05 Coordenadas: Datum WGS 1984 HUSO 18S 681.174 E /5.930.004 N / 261 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como profundo (100 cm); pendiente compleja, moderadamente ondulada (11%); sin
+Características pedregosidad superficial; drenaje imperfecto; textura superficial franco arcillosa; condición
+Generales regular de agua aprovechable (11,54 cm c.a.); sin pedregosidad subsuperficial; erosión no
+aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales
+clasifican el suelo como no salino (0,12 dS m-1), no sódico (0,61%) y no calcáreo. La Clase de
+Capacidad de Uso es IVs2 por el atributo crítico pendiente moderadamente ondulada.
+Profundidad
+Características
+(cm)
+Negro (10YR 2/1) en húmedo; franco arcillosa; estructura granular fina, moderada; friable en
+húmedo; moderadamente plástico y moderadamente adhesivo; raíces muy finas y finas
+0-9 abundantes; poros muy finos, finos y medios abundantes, gruesos pocos. Sin pedregosidad. Sin
+reacción al HCl. Nódulos de hierro, finos, pocos (color rojo amarillento 5YR 4/6). Límite lineal,
+abrupto.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; arcillosa; estructura de bloques subangulares
+medios y gruesos, moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas
+9-62 y pocas, finas comunes; poros muy finos, finos y medios comunes; Sin pedregosidad. Sin
+reacción al HCl. Nódulos de hierro, finos, pocos (color rojo amarillento 5YR 4/6). Límite lineal,
+abrupto.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; friable en húmedo; muy
+62-100 plástico y muy adhesivo; raíces muy finas, pocas; poros finos y medianos abundantes. Sin
+pedregosidad. Moteados medios, pocos (color amarillo rojizo 5YR 6/8). Sin reacción al HCl.
+Fotografías
+5
+================================================================================
+PAGE 7
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-05 Coordenadas: Datum WGS 1984 HUSO 18S 681.174 E /5.930.004 N / 261 m.s.n.m.
+Fuente: GAC
+1.3 Calicata MP-06
+Tabla 1-3. Descripción física y morfológica de la Calicata MP-06
+MP-06 Coordenadas: Datum WGS 1984 HUSO 18S 680.602 E / 5.928.646 N / 250 m.s.n.m.
+Unidad homogénea: Cerros
+Características
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+Generales
+como profundo (100 cm); pendiente compleja, fuertemente ondulada (29%); sin pedregosidad
+6
+================================================================================
+PAGE 8
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-06 Coordenadas: Datum WGS 1984 HUSO 18S 680.602 E / 5.928.646 N / 250 m.s.n.m.
+superficial de piedras (0%) y de gravas (5%); bien drenado; textura superficial franco arcillosa;
+condición regular de agua aprovechable (9,59 cm c.a.); sin pedregosidad subsuperficial; erosión
+no aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios
+especiales clasifican el suelo como no salino (0,41 dS m-1), no sódico (0,28%) y no calcáreo. La
+Clase de Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (7.5YR 2.5/2) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos y medios, moderados; friable en húmedo; muy plástico y muy adhesivo;
+0-25
+raíces muy finas y finas abundantes, medias comunes; poros muy finos y finos abundantes,
+medios comunes. Gravas en un 5%. Sin reacción al HCl. Límite lineal, claro.
+Pardo rojizo oscuro (5YR 3/3) en húmedo; arcillosa; estructura de bloques subangulares finos,
+medios y gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas pocas;
+25-60
+poros muy finos y finos abundantes, medios comunes. Sin pedregosidad. Sin reacción al HCl.
+Límite lineal, claro.
+Pardo rojizo oscuro (5YR 3/4) en húmedo; arcillosa; estructura de bloques subangulares medios
+60-100 y gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas, pocas; poros
+muy finos y finos abundantes. Sin pedregosidad. Sin reacción al HCl.
+Fotografías
+7
+================================================================================
+PAGE 9
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-06 Coordenadas: Datum WGS 1984 HUSO 18S 680.602 E / 5.928.646 N / 250 m.s.n.m.
+Fuente: GAC
+1.4 Calicata MP-07
+Tabla 1-4. Descripción física y morfológica de la Calicata MP-07
+MP-07 Coordenadas: Datum WGS 1984 HUSO 18S 680.310 E / 5.928.272 N / 211 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como profundo (100 cm); pendiente compleja, fuertemente ondulado (23%); sin pedregosidad
+Características superficial; drenaje moderado; textura superficial franco arcillosa; condición buena de agua
+Generales aprovechable (12,44 cm c.a.); sin pedregosidad subsuperficial; erosión no aparente; tiene un
+promedio de 345 días consecutivos libres de heladas. Los criterios especiales clasifican el suelo
+como no salino (0,25 dS m-1), no sódico (0,91%) y no calcáreo. La Clase de Capacidad de Uso es
+VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares finos
+y medios, débiles; muy friable en húmedo; moderadamente plástico y muy adhesivo; raíces muy
+0-30
+finas y finas abundantes, medias comunes, gruesas pocas; poros muy finos, finos, medios y
+gruesos pocos. Sin pedregosidad. Sin reacción al HCl. Límite ondulado, difuso.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos, medios y gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo;
+30-60 raíces muy finas, finas y medianas comunes; poros muy finos, finos y medios abundantes. Sin
+pedregosidad (Gravas en un 2%). Sin reacción al HCl. Moteados medios, pocos (color amarillo
+rojizo 5YR 6/8)Límite ondulado, claro.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; estructura de bloques subangulares finos,
+medio y gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas y medias
+60-100
+comunes; poros muy finos y finos abundantes. Sin pedregosidad (Gravas en un 2%). Sin reacción
+al HCl.
+Fotografías
+8
+================================================================================
+PAGE 10
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-07 Coordenadas: Datum WGS 1984 HUSO 18S 680.310 E / 5.928.272 N / 211 m.s.n.m.
+Fuente: GAC
+1.5 Calicata MP-08
+Tabla 1-5. Descripción física y morfológica de la Calicata MP-08
+MP-08 Coordenadas: Datum WGS 1984 HUSO 18S 679.798 E / 5.929.279 N / 189 m.s.n.m.
+Unidad homogénea: Quebrada
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como profundo (100 cm); pendiente compleja, de lomajes (38%); sin pedregosidad (gravas 8%);
+Características drenaje imperfecto; textura superficial franco arcillo arenosa; condición pobre de agua
+Generales aprovechable (8,93 cm c.a.); sin pedregosidad subsuperficial; erosión no aparente; tiene un
+promedio de 345 días consecutivos libres de heladas. Los criterios especiales clasifican el suelo
+como no salino (0,11 dS m-1), no sódico (0,52%) y no calcáreo. La Clase de Capacidad de Uso es
+VIs2 por el atributo crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10YR 2/2) en húmedo; franco arcillo arenosa; estructura granular, finos y
+0-8
+medios, moderados; friable en húmedo; moderado plástico y moderado adhesivo; raíces muy
+9
+================================================================================
+PAGE 11
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-08 Coordenadas: Datum WGS 1984 HUSO 18S 679.798 E / 5.929.279 N / 189 m.s.n.m.
+finas y finas abundantes, medianas pocas; poros muy finos, finos, medios y gruesos abundantes.
+Gravas en un 8%. Sin reacción al HCl. Moteados finos medios y gruesos, comunes (color pardo
+oscuro 7.5YR 5/8). Límite lineal, abrupto.
+Rojo amarillento (5YR 5/8) en húmedo; arcillosa; estructura de bloques subangulares finos y
+medios, moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+8-42 comunes, medianas pocas; poros muy finos abundantes, finos y medios comunes; Sin
+pedregosidad. Sin reacción al HCl. Moteados finos abundantes (color rojo amarillento 5YR 4/6).
+Límite lineal, claro.
+Rojo amarillento (5YR 5/8) en húmedo; arcillosa; sin estructura, masivo, que rompe a bloques
+subangulares finos y medios, débiles; friable en húmedo; muy plástico y muy adhesivo; raíces
+42-100
+muy finas, pocas; poros finos y medianos abundantes. Sin pedregosidad. Moteados finos,
+medios y gruesos, abundantes (color rojo amarillento 5YR 4/6). Sin reacción al HCl.
+Fotografías
+Fuente: GAC
+10
+================================================================================
+PAGE 12
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.6 Calicata MP-09
+Tabla 1-6. Descripción física y morfológica de la Calicata MP-09
+MP-09 Coordenadas: Datum WGS 1984 HUSO 18S 680.674E / 5.929.491 N / 180 m.s.n.m.
+Unidad homogénea: Quebrada
+Suelos de origen aluvial que ocupan una posición de quebrada; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, de lomajes (41%); sin pedregosidad; drenaje
+Características imperfecto; textura superficial arcillosa; condición regular de agua aprovechable (11,96 cm c.a.);
+Generales sin pedregosidad subsuperficial (5% de gravas); erosión no aparente; tiene un promedio de 345
+días consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino
+(0,25 dS m-1), no sódico (0,32%) y no calcáreo. Suelo saturado. La Clase de Capacidad de Uso es
+VIs2 por el atributo crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+Variegado, Pardo oliva (2.5Y 4/3) y Pardo grisáceo muy oscuro (2.5Y 3/2) en húmedo; arcillosa;
+sin estructura, masivo que rompe a bloques subangulares finos, medios y gruesos débiles; firme
+0-26 en húmedo; muy plástico y muy adhesivo; raíces muy finas, finas y gruesas, comunes; poros muy
+finos y finos abundantes, gruesos pocos. Sin pedregosidad. Sin reacción al HCl. Límite lineal,
+abrupto.
+Pardo oliva (2.5Y 4/3) en húmedo; arcillosa; estructura de bloques subangulares medios y
+gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas, finas y
+26-45
+gruesas, comunes; poros muy finos y finos abundantes. Sin pedregosidad (Gravas en un 2%). Sin
+reacción al HCl. Límite lineal, claro.
+Pardo oliva claro (2.5Y 5/4) en húmedo; arcillosa; estructura de bloques subangulares medios y
+gruesos, débiles; firme en húmedo; muy plástico y moderadamente adhesivo; raíces muy finas
+40-77
+y finas pocas, medianas y gruesas comunes; poros muy finos y finos abundantes, medianos
+pocos; Sin pedregosidad (Gravas en un 5%). Sin reacción al HCl. Límite lineal, abrupto.
+Pardo oliva claro (2.5Y 5/3) en húmedo; arcillosa; sin estructura, masivo; friable en húmedo;
+muy plástico y muy adhesivo; raíces finas, comunes; poros finos y muy finos abundantes. Sin
+77-100
+pedregosidad. Moteados finos y medios abundantes (color pardo amarillento 10YR 5/6) y nivel
+freático incipiente. Sin reacción al HCl.
+Fotografías
+11
+================================================================================
+PAGE 13
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-09 Coordenadas: Datum WGS 1984 HUSO 18S 680.674E / 5.929.491 N / 180 m.s.n.m.
+Fuente: GAC
+12
+================================================================================
+PAGE 14
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.7 Calicata MP-10
+Tabla 1-7. Descripción física y morfológica de la Calicata MP-10
+MP-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.126 E /5.928.834 N / 262 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso actual silvestre.
+Clasificado como profundo (100 cm); pendiente compleja, de lomajes (34%); sin pedregosidad
+Características superficial (10% gravas); drenaje moderado; textura superficial franco arcillosa; condición
+Generales regular de agua aprovechable (10,72 cm c.a.); sin pedregosidad subsuperficial (2% de gravas);
+erosión no aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios
+especiales clasifican el suelo como no salino (0,17 dS m-1), no sódico (0,3%) y no calcáreo. La
+Clase de Capacidad de Uso es VIs2 por el atributo crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (7.5YR 2.5/2) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos, moderados; firme en húmedo; ligeramente plástico y moderadamente
+0-20
+adhesivo; raíces muy finas y finas abundantes; poros muy finos, finos y medios abundantes. Sin
+pedregosidad (10% de gravas). Sin reacción al HCl. Límite ondulado, abrupto.
+Pardo rojizo oscuro (5YR 3/3) en húmedo; arcillosa; estructura de bloques subangulares finos y
+medios, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+20-50
+comunes; poros muy finos, finos y medios abundantes, gruesos pocos. Sin pedregosidad
+(Piedras en un 1% y gravas en un 1%). Sin reacción al HCl. Límite ondulado, claro.
+Pardo rojizo (5YR 4/6) en húmedo; franco arcillosa; estructura de bloques subangulares finos,
+medios y gruesos, débiles; firme en húmedo; moderadamente plástico y moderadamente
+50-100 adhesivo; raíces muy finas y finas, pocas; poros muy finos y finos abundantes, medianos
+comunes y gruesos pocos. Sin pedregosidad (Gravas en un 2%). Sin reacción al HCl. Moteados
+finos, pocos (color amarillo rojizo 5YR 6/8).
+Fotografías
+13
+================================================================================
+PAGE 15
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.126 E /5.928.834 N / 262 m.s.n.m.
+Fuente: GAC
+1.8 Calicata MP-12
+Tabla 1-8. Descripción física y morfológica de la Calicata MP-12
+MP-12 Coordenadas: Datum WGS 1984 HUSO 18S 681.996 E / 5.930.204 N / 233 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como profundo (100 cm); pendiente compleja, fuertemente ondulada (18%); sin pedregosidad
+Características superficial; drenaje imperfecto; textura superficial arcillosa; condición buena de agua
+Generales aprovechable (12,97 cm c.a.); sin pedregosidad subsuperficial (5% de gravas); erosión no
+aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales
+clasifican el suelo como no salino (0,12 dS m-1), no sódico (0,71%) y no calcáreo. La Clase de
+Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+14
+================================================================================
+PAGE 16
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-12 Coordenadas: Datum WGS 1984 HUSO 18S 681.996 E / 5.930.204 N / 233 m.s.n.m.
+Pardo rojizo (5YR 4/4) en húmedo; arcillosa; estructura de bloques subangulares finos, medios
+y gruesos, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+0-30
+abundantes, medianas y gruesas pocas; poros muy finos y finos abundantes, gruesos comunes.
+Sin pedregosidad. Sin reacción al HCl. Límite lineal, claro.
+Pardo rojizo oscuro (5YR 3/4) en húmedo; arcillosa; estructura de bloques subangulares finos,
+medios y gruesos, moderados; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas
+30-70
+y finas abundantes y medianas pocas; poros muy finos, finos, medios y gruesos, abundantes;
+Gravas en un 5%. Sin reacción al HCl. Límite lineal, claro.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo; muy
+plástico y muy adhesivo; raíces finas abundantes y medianas comunes; poros muy finos, finos y
+70-100
+medianos, abundantes. Sin pedregosidad. Sin reacción al HCl. Moteados medios y gruesos,
+abundantes color amarillo rojizo (5YR 6/8).
+Fotografías
+Fuente: GAC
+15
+================================================================================
+PAGE 17
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.9 Calicata MP-14
+Tabla 1-9. Descripción física y morfológica de la Calicata MP-14
+MP-14 Coordenadas: Datum WGS 1984 HUSO 18S 630.850 E / 5.929.516 N / 249 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como moderadamente profundo (81 cm); pendiente compleja, fuertemente ondulada (20%);
+sin pedregosidad superficial; bien drenado; textura superficial franco arcillosa; condición pobre
+Características
+de agua aprovechable (8,5 cm c.a.); pedregosidad subsuperficial muy abundante (Piedras en un
+Generales
+90%); erosión no aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los
+criterios especiales clasifican el suelo como no salino (0,15 dS m-1), no sódico (0,39%) y no
+calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente
+ondulada.
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares finos
+y medios, moderados; firme en húmedo; moderadamente plástico y moderadamente adhesivo;
+0-29
+raíces muy finas, finas y medias abundantes; poros finos y medios abundantes, gruesos
+comunes. Sin pedregosidad. Sin reacción al HCl. Límite lineal, claro.
+Pardo oscuro (7.5YR 3/4) en húmedo; arcillosa; estructura de bloques subangulares finos y
+medios, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+29-67
+abundantes; poros muy finos y finos abundantes, gruesos pocos. Sin pedregosidad. Sin reacción
+al HCl. Límite lineal, abrupto.
+Matriz Pardo oscuro (7.5YR 3/4) en húmedo; matriz arcillosa; sin estructura, masivo, que rompe
+a bloques subangulares finos y medios, débiles; firme en húmedo; muy plástico y muy adhesivo;
+67-81
+raíces finas comunes; poros muy finos y finos abundantes. Piedras en un 90%. Sin reacción al
+HCl.
+Fotografías
+16
+================================================================================
+PAGE 18
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-14 Coordenadas: Datum WGS 1984 HUSO 18S 630.850 E / 5.929.516 N / 249 m.s.n.m.
+Fuente: GAC
+1.10 Calicata MP-16
+Tabla 1-10. Descripción física y morfológica de la Calicata MP-16
+MP-16 Coordenadas: Datum WGS 1984 HUSO 18S 679.904 E / 5.930.094 N – 134 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición de ladera de cerro. Uso actual forestal.
+Clasificado como profundo (100 cm); pendiente simple, moderadamente escarpada (40%); sin
+pedregosidad superficial; bien drenado (W5); textura superficial franco arcillosa; condición de
+Características
+agua aprovechable regular (10,30 cm c.a.); sin pedregosidad subsuperficial; erosión moderada
+Generales
+(escalones pequeños y zanjas en activación); tiene un promedio de 345 días consecutivos libres
+de heladas. Los criterios especiales clasifican el suelo como ligeramente salino (0,15 dS m-1), no
+sódico (0,58%) y no calcáreo. Se interpreta una Clase de Capacidad de Uso VIs2 por la limitante
+pendiente moderadamente escarpada.
+Profundidad
+Características
+(cm)
+Pardo amarillento oscuro (10YR 3/4) en húmedo. Franco arcillosa; Estructura de bloques
+subangulares finos, fuertes. Friable en húmedo; muy plástico y moderadamente adhesivo.
+0 – 22 Raíces muy finas, finas abundantes y medias pocas; poros muy finos, finos y medios
+abundantes. Se observan raíces carbonizadas. Primeros 4 cm de horizontes sustentado por
+raíces. Sin reacción al HCl. Sin pedregosidad. Límite lineal, claro.
+Pardo (7.5YR 4/4) en húmedo. Arcillosa; Estructura de bloques subangulares finos, moderados.
+muy plástico y muy adhesivo; friable en húmedo. Raíces muy finas pocas, finas abundantes y
+22 – 43
+medias pocas; poros muy finos, finos abundantes y medios comunes. Presencia de casquillos
+de cuarzo. Sin reacción al HCl. Sin pedregosidad. Límite lineal, difuso.
+Pardo (7.5YR 4/6) en un 50% y pardo amarillento (10YR 5/4) en un 50%, en húmedo. Arcillo
+43 - 61
+limosa; bloques subangulares medios, moderados; friable en húmedo; muy plástico y muy
+17
+================================================================================
+PAGE 19
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-16 Coordenadas: Datum WGS 1984 HUSO 18S 679.904 E / 5.930.094 N – 134 m.s.n.m.
+adhesivo; Raíces muy finas, finas, medias abundantes y gruesas pocas; poros muy finos, finos
+pocos y medios abundantes. Presencia de casquillos de cuarzo. Sin reacción al HCl. Sin
+pedregosidad. Límite lineal, claro.
+Variegado en húmedo. Franco arcillosa; Estructura de bloques subangulares finos, débiles; muy
+friable en húmedo; moderadamente plástico y moderadamente adhesivo. Raíces finas pocas;
+61 - 100
+poros muy finos y finos abundantes. Presencia de casquillos de cuarzo. Sin reacción al HCl. Sin
+pedregosidad.
+Fotografías
+Fuente: GAC
+1.11 Calicata MP-18
+Tabla 1-11. Descripción física y morfológica de la Calicata MP-18
+MP-18 Coordenadas: Datum WGS 1984 HUSO 18S 679.832 E / 5.929.752 N – 142 m.s.n.m.
+Unidad homogénea: Quebrada
+Características Suelos de origen aluvial que ocupan una posición de quebrada. Uso actual forestal, plantación
+Generales de eucalipto. Clasificado como moderadamente profundo (73 cm). Pendiente simple,
+moderadamente ondulado (14%); sin pedregosidad superficial; drenaje imperfecto; textura
+18
+================================================================================
+PAGE 20
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-18 Coordenadas: Datum WGS 1984 HUSO 18S 679.832 E / 5.929.752 N – 142 m.s.n.m.
+media en superficie (franco arcillo arenosa); agua aprovechable regular (11,46 cm c.a.); sin
+pedregosidad subsuperficial; erosión moderada (escalones pequeños y zanjas en activación).
+Tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales clasifican
+el suelo como ligeramente salino (0,32 dS m-1), no sódico (0,39%) y no calcáreo. Se interpreta
+una Clase de Capacidad de Uso IVIs2 por la limitante pendiente moderadamente ondulada.
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10R 2/2) en húmedo. Franco arcillo arenosa; estructura de bloques
+subangulares finos, débiles; friable en húmedo; moderadamente plástico, moderadamente
+0 – 27 adhesivo. Raíces muy finas, finas abundantes y medias comunes; poros muy finos y finos
+comunes y medios abundantes. Primeros 3 cm de horizonte con estructura granular,
+sustentada por raíces. Sin reacción al HCl. Límite ondulado, claro.
+Pardo (7.5YR 4/3) en húmedo. Arcillosa; estructura de bloques subangulares finos, débiles que
+tiende a masivo; friable en húmedo; muy plástico, muy adhesivo. Raíces muy finas y finas
+27 – 58 pocas; poros muy finos, finos y medios abundantes. Presencia de casquillos de cuarzo.
+Moteados de color pardo fuerte (7,5YR 5/8). Matriz de suelo no calcárea. Sin pedregosidad.
+Limite lineal, difuso.
+Pardo (7.5YR 4/3) en húmedo; arcilloso limosa; bloques subangulares medios, moderados que
+tiende a masivo; friable en húmedo; moderadamente plástico y moderadamente adhesivo.
+58 - 73 Raíces finas pocas; poros muy finos, finos pocos y medios comunes. Presencia de casquillos de
+cuarzo. Moteados finos y medios de color pardo fuerte (7.5YR 5/8) en un 50%. Sin reacción al
+HCl. Sin pedregosidad. Limite lineal, difuso.
+Pardo (7.5YR 4/3) en húmedo; franco arcillosa; sin estructura, masivo; friable en húmedo; muy
+plástico y muy adhesivo. Sin raíces; poros muy finos, finos y medios pocos. Presencia de
+73 - 100
+casquillos de cuarzo. Moteados finos y medios de color pardo fuerte (7.5YR 4/6) en un 50%. Sin
+reacción al HCl. Sin pedregosidad.
+Fotografías
+19
+================================================================================
+PAGE 21
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MP-18 Coordenadas: Datum WGS 1984 HUSO 18S 679.832 E / 5.929.752 N – 142 m.s.n.m.
+Fuente: GAC
+1.12 Calicata MPH-01
+Tabla 1-12. Descripción física y morfológica de la Calicata MPH-01
+MPH-01 Coordenadas: Datum WGS 1984 HUSO 18S 679.852 E / 5.929.911 N / 121 m.s.n.m.
+Unidad homogénea: Quebrada
+Suelos de origen aluvial que ocupan una posición de quebrada; uso silvestre (bosque).
+Clasificado como delgado (35 cm); pendiente compleja, casi plano (2%); sin pedregosidad
+Características superficial; pobremente drenado; textura superficial franco arcillo limosa; condición muy pobre
+Generales de agua aprovechable (4,25 cm c.a.); sin pedregosidad subsuperficial; erosión no aparente; tiene
+un promedio de 345 días consecutivos libres de heladas. Los criterios especiales clasifican el
+suelo como no salino, no sódico y no calcáreo. La Clase de Capacidad de Uso es IVs8 por el
+atributo crítico muy pobre agua aprovechable. Suelo hídrico.
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (7.5YR 2.5/2) en húmedo; franco arcillo limosa; estructura de bloques
+subangulares finos y medios, moderados; muy friable en húmedo; moderadamente plástico y
+0-11 moderadamente adhesivo; raíces finas y medias abundantes; poros muy finos, finos y medios
+abundantes. Sin pedregosidad. Sin reacción al HCl. Horizonte casi saturado de agua. Moteados
+pardo rojizo oscuro (5YR 3/4) medios comunes. Límite lineal, claro.
+Pardo oscuro (7.5YR 3/2) en húmedo; franco arcillo limosa; sin estructura, masivo; muy friable
+en húmedo; moderadamente plástico y muy adhesivo; raíces muy finas y finas comunes, medias
+11-35
+abundantes; poros muy finos y finos abundantes, medios comunes. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 5/8) medios comunes. Nivel freático.
+Fotografías
+20
+================================================================================
+PAGE 22
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-01 Coordenadas: Datum WGS 1984 HUSO 18S 679.852 E / 5.929.911 N / 121 m.s.n.m.
+Fuente: GAC
+1.13 Calicata MPH-02
+Tabla 1-13. Descripción física y morfológica de la Calicata MPH-02
+MPH-02 Coordenadas: Datum WGS 1984 HUSO 18S 679.882 E / 5.929.837 N / 132 m.s.n.m.
+Unidad homogénea: Quebrada
+Suelos de origen aluvial que ocupan una posición de quebrada; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, de montaña (62%); sin pedregosidad superficial;
+Características drenaje imperfecto; textura superficial franco arcillosa; condición regular de agua aprovechable
+Generales (11,08 cm c.a.); sin pedregosidad subsuperficial; erosión no aparente; tiene un promedio de 345
+días consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino
+(0,15 dS m-1), no sódico (0,61%) y no calcáreo. Olor a ácido sulfhídrico. La Clase de Capacidad de
+Uso es VIIs2 por el atributo crítico pendiente de montaña.
+Profundidad
+Características
+(cm)
+Gris muy oscuro (7.5YR 3/1) en húmedo; franco arcillosa; estructura de bloques subangulares
+0-18
+finos y medios, moderados; friable en húmedo; moderadamente plástico y ligeramente
+21
+================================================================================
+PAGE 23
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-02 Coordenadas: Datum WGS 1984 HUSO 18S 679.882 E / 5.929.837 N / 132 m.s.n.m.
+adhesivo; raíces muy finas, finas, medias y gruesas abundantes; poros muy finos, finos, medios
+y gruesos abundantes. Sin pedregosidad. Sin reacción al HCl. Límite lineal, claro.
+Rojo amarillento (5YR 4/6) en húmedo; franco arcillosa; estructura de bloques subangulares
+medios y gruesos, moderados; firme en húmedo; moderadamente plástico y ligeramente
+18-47
+adhesivo; raíces medias y gruesas comunes; poros muy finos y finos abundantes, medios
+comunes; Sin pedregosidad. Sin reacción al HCl. Límite ondulado, claro.
+Rojo amarillento (5YR 4/6) en húmedo; franco arcillosa; sin estructura, masivo; firme en
+húmedo; moderadamente plástico y moderadamente adhesivo; raíces medias comunes,
+47-100
+gruesas pocas; poros muy finos y finos abundantes, medios comunes. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 5/8) medios comunes.
+Fotografías
+Fuente: GAC
+1.14 Calicata MPH-03
+Tabla 1-14. Descripción física y morfológica de la Calicata MPH-03
+MPH-03 Coordenadas: Datum WGS 1984 HUSO 18S 680.036 E / 5.929.384 N / 149 m.s.n.m.
+Unidad homogénea: Quebrada
+22
+================================================================================
+PAGE 24
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-03 Coordenadas: Datum WGS 1984 HUSO 18S 680.036 E / 5.929.384 N / 149 m.s.n.m.
+Suelos de origen aluvial que ocupan una posición de quebrada; uso silvestre (bosque).
+Clasificado como profundo (100 cm); pendiente compleja, de cerros (57%); sin pedregosidad
+superficial (gravas 10%); drenaje imperfecto; textura superficial franco arcillosa; condición
+Características
+regular de agua aprovechable (10,03 cm c.a.); moderada pedregosidad subsuperficial (20% de
+Generales
+gravas); erosión no aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los
+criterios especiales clasifican el suelo como no salino (0,07 dS m-1), no sódico (0,69%) y no
+calcáreo. La Clase de Capacidad de Uso es VIIs2 por el atributo crítico pendiente de cerros.
+Profundidad
+Características
+(cm)
+Pardo amarillento oscuro (10YR 3/4) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos y medios, moderados; firme en húmedo; moderadamente plástico y
+0-24 moderadamente adhesivo; raíces muy finas, finas y medias abundantes; poros muy finos, finos,
+medios y gruesos abundantes. Gravas en un 10% de gravas. Sin reacción al HCl. Concreciones
+finas pocas. Límite lineal, claro.
+Pardo amarillento oscuro (10YR 3/6) en húmedo; franco arcillosa; estructura de bloques
+subangulares medios y gruesos, débiles; firme en húmedo; moderadamente plástico y
+24-57 moderadamente adhesivo; raíces finas abundantes, medias y gruesas comunes; poros muy
+finos, finos, medios y gruesos abundante. Sin pedregosidad. Sin reacción al HCl. Moteados rojo
+amarillento (5YR 4/6) finos pocos. Concreciones finas pocas. Límite lineal, abrupto.
+Sustrato color variegado, material parental en proceso de meteorización; sin estructura, masivo;
+moderadamente plástico y moderadamente adhesivo; raíces muy finas pocas; poros muy finos
+57-100
+y finos abundantes, medios comunes. Gravas en un 20%. Moteados rojo amarillento (5YR 4/6)
+finos abundantes. Concreciones finas abundantes. Sin reacción al HCl.
+Fotografías
+23
+================================================================================
+PAGE 25
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-03 Coordenadas: Datum WGS 1984 HUSO 18S 680.036 E / 5.929.384 N / 149 m.s.n.m.
+Fuente: GAC
+1.15 Calicata MPH-04
+Tabla 1-15. Descripción física y morfológica de la Calicata MPH-04
+MPH-04 Coordenadas: Datum WGS 1984 HUSO 18S 683.407 E / 5.930.500 N / 295 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, fuertemente ondulada (18%); pedregosidad superficial
+Características moderada (gravas 20%); drenaje imperfecto; textura superficial franca; condición pobre de agua
+Generales aprovechable (5,31 cm c.a.); muy abundante pedregosidad subsuperficial (60% de gravas);
+erosión no aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios
+especiales clasifican el suelo como no salino (0,12 dS m-1), no sódico (0,34%) y no calcáreo. La
+Clase de Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Negro (10YR 2/1) en húmedo; franca; estructura granular media firme; muy friable en húmedo;
+0-15
+no plástico y no adhesivo; raíces muy finas, finas y medias abundantes, gruesas comunes; poros
+24
+================================================================================
+PAGE 26
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-04 Coordenadas: Datum WGS 1984 HUSO 18S 683.407 E / 5.930.500 N / 295 m.s.n.m.
+muy finos, finos, medios y gruesos abundantes. Gravas en un 10% de gravas. Sin reacción al HCl.
+Límite ondulado, abrupto.
+Color variegado en húmedo; franco arcillo arenosa; estructura de bloques subangulares medios
+débiles; friable en húmedo; moderadamente plástico y muy adhesivo; raíces finas comunes,
+15-35
+medias pocas; poros muy finos y finos abundantes, medios comunes. Gravas en un 20% de
+gravas. Sin reacción al HCl. Límite lineal, claro.
+Sustrato color variegado, material parental en proceso de meteorización; franco arenoso; sin
+estructura, masivo; moderadamente plástico y moderadamente adhesivo; raíces finas pocas;
+35-100 poros muy finos y finos abundantes, medios comunes. Gravas en un 60% de casquillos de cuarzo.
+Moteados rojo amarillento (5YR 4/6) finos abundantes. Concreciones finas abundantes. Sin
+reacción al HCl. Material parental en proceso de meteorización.
+Fotografías
+25
+================================================================================
+PAGE 27
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPH-04 Coordenadas: Datum WGS 1984 HUSO 18S 683.407 E / 5.930.500 N / 295 m.s.n.m.
+Fuente: GAC
+1.16 Calicata CA-04
+Tabla 1-16. Descripción física y morfológica de la Calicata CA-04
+CA-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.377 E / 5.931.223 N / 162 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, de lomajes (30%); Sin pedregosidad superficial; bien
+Características drenado; textura superficial arcillosa; condición regular de agua aprovechable (11,13 cm c.a.);
+Generales sin pedregosidad subsuperficial; erosión no aparente; tiene un promedio de 345 días
+consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino (0,46
+dS m-1), no sódico (0,31%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo
+crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+Pardo rojizo oscuro (5YR 3/3) en húmedo; arcillosa, estructura de bloques subangulares
+finos, medios y gruesos moderados. Friable en húmedo; muy plástico y muy adhesivo.
+0-22 Raíces muy finas y finas abundantes, medias comunes y gruesas pocas; poros muy finos
+a medios abundantes y gruesos pocos. Sin pedregosidad. Sin reacción al HCl. Límite
+ondulado, claro.
+Pardo rojizo oscuro (5YR 3/4) en húmedo; arcillosa; estructura de bloques angulares
+finos y medios, débiles. Firme en húmedo; muy plástico y muy adhesivo. Raíces muy
+22-63
+finas a medias, abundantes y gruesas pocas; poros muy finos a medios, abundantes,
+gruesos pocos. Sin pedregosidad. Sin reacción al HCl. Límite lineal, claro.
+Pardo rojizo oscuro (5YR 3/4) en húmedo; franco arcillosa. Estructura de bloques
+angulares gruesos, débiles. Firme en húmedo; muy plástico y muy adhesivo. Raíces
+63-100
+muy finas y finas, comunes; poros muy finos a medios abundantes. Sin pedregosidad.
+Sin reacción al HCl.
+26
+================================================================================
+PAGE 28
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.377 E / 5.931.223 N / 162 m.s.n.m.
+Fotografías
+Fuente: GAC
+1.17 Calicata CA-05
+Tabla 1-17. Descripción física y morfológica de la Calicata CA-05
+CA-05 Coordenadas: Datum WGS 1984 HUSO 18S 631.220 E / 5.930.346 N / 201 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+moderadamente profundo (90 cm); pendiente compleja, de lomajes (30%); pedregosidad
+superficial moderada (Piedras en un 15% y gravas en un 5% de gravas.); drenaje imperfecto;
+Características
+textura superficial franco arcillosa; condición regular de agua aprovechable (11,67 cm c.a.);
+Generales
+ligera pedregosidad subsuperficial (12% de gravas); erosión no aparente; tiene un promedio de
+345 días consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino
+(0,30 dS m-1), no sódico (0,91%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el
+atributo crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+27
+================================================================================
+PAGE 29
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-05 Coordenadas: Datum WGS 1984 HUSO 18S 631.220 E / 5.930.346 N / 201 m.s.n.m.
+Pardo muy oscuro (7.5YR 2,5/3) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos y medios, débiles; friable en húmedo; muy plástico y muy adhesivo; raíces
+0-33
+muy finas a medias abundantes; poros muy finos a medios abundantes. Piedras en un 15% y
+gravas en un 5% de gravas. Sin reacción al HCl. Límite ondulado, abrupto.
+Pardo oscuro (7.5YR 3/4) en húmedo; estructura de bloques subangulares finos, medios y
+gruesos débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas a medias, comunes;
+33-63
+poros muy finos y finos comunes , medios abundantes. Sin pedregosidad. Sin reacción al HCl.
+Moteados rojo amarillento (5YR 4/6) finos comunes. Límite lineal, difuso.
+Rojo amarillento (5YR 4/6) en húmedo; estructura de bloques subangulares medios y gruesos
+débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas a finas pocas; poros
+63-90
+muy finos y finos abundantes, medios y gruesos pocos. Gravas en un 12% de gravas. Sin reacción
+al HCl. Moteados rojo amarillento (5YR 5/8) finos pocos. Límite lineal, difuso.
+Pardo (7.5 YR 4/4) en húmedo; franco arcillo arenosa; sin estructura, masivo; firme en húmedo;
+moderadamente plástico y moderadamente adhesivo; sin raíces; poros muy finos a medios
+90-120
+abundantes. Sin pedregosidad. Sin reacción al HCl. Moteados rojo amarillento (5YR 4/6) finos
+abundantes. Concreciones finas abundantes.
+Fotografías
+28
+================================================================================
+PAGE 30
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-05 Coordenadas: Datum WGS 1984 HUSO 18S 631.220 E / 5.930.346 N / 201 m.s.n.m.
+Fuente: GAC
+1.18 Calicata CA-10
+Tabla 1-18. Descripción física y morfológica de la Calicata CA-10
+CA-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.783 E / 5.929.927 N / 264 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición Cerro; uso forestal y actualmente se encuentra
+intervenido y escarpado. Clasificado como moderadamente profundo (80 cm); pendiente
+compleja, fuertemente ondulada (15%); Sin pedregosidad superficial; pobremente drenado;
+Características
+textura superficial arcillosa; condición regular de agua aprovechable (10 cm c.a.); sin
+Generales
+pedregosidad subsuperficial; erosión no aparente; tiene un promedio de 345 días consecutivos
+libres de heladas. Los criterios especiales clasifican el suelo como no salino (0,59 dS m-1), no
+sódico (0,55%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo crítico
+pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; estructura de bloques subangulares medios
+moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas pocas;
+0-6
+poros muy finos y finos abundantes, medios y gruesos. Sin pedregosidad. Sin reacción al HCl.
+Moteados rojo amarillento (5YR 5/8) gruesos pocos. Límite irregular, abrupto.
+Pardo oscuro (7.5YR 3/4) en húmedo; franco arcillosa; estructura de bloques subangulares
+gruesos moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas, finas y
+6-31 gruesas pocas; poros muy finos y finos abundantes, medios pocos. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 5/8) medios comunes. Concreciones medias y
+gruesas abundantes. Límite irregular, abrupto.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo; muy
+plástico y muy adhesivo; raíces finas y medias pocas; poros muy finos y finos comunes. Sin
+31-80
+pedregosidad. Sin reacción al HCl. Moteados rojo amarillento (5YR 5/8) finos pocos. Límite lineal,
+abrupto.
+29
+================================================================================
+PAGE 31
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.783 E / 5.929.927 N / 264 m.s.n.m.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo; muy
+80-100 plástico y muy adhesivo; sin raíces; poros muy finos a medios pocos. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 4/8) medios pocos.
+Fotografías
+Fuente: GAC
+1.19 Calicata CA-11
+Tabla 1-19. Descripción física y morfológica de la Calicata CA-11
+CA-11 Coordenadas: Datum WGS 1984 HUSO 18S 681.110 E / 5.930.208 N / 261 m.s.n.m.
+Unidad homogénea: Cerro (Colina)
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal, cercano a sector
+intervenido y con actividad industrial. Clasificado como profundo (100 cm); pendiente compleja,
+Características
+fuertemente ondulada (15%); sin pedregosidad superficial; bien drenado; textura superficial
+Generales
+franco arcillosa; condición regular de agua aprovechable (9,97 cm c.a.); sin pedregosidad
+subsuperficial; erosión no aparente; tiene un promedio de 345 días consecutivos libres de
+heladas. Los criterios especiales clasifican el suelo como no salino (0,1 dS m-1), no sódico (0,35%)
+30
+================================================================================
+PAGE 32
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-11 Coordenadas: Datum WGS 1984 HUSO 18S 681.110 E / 5.930.208 N / 261 m.s.n.m.
+y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente
+ondulada.
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares finos
+y medios débiles; firme en húmedo; moderadamente plástico y moderadamente adhesivo;
+0-20
+raíces muy finas a medias abundantes; poros muy finos a medios abundantes. Sin pedregosidad.
+Sin reacción al HCl. Límite lineal, claro.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; franco arcillosa; estructura de bloques
+subangulares finos y medios débiles; firme en húmedo; moderadamente plástico y
+20-43
+moderadamente adhesivo; raíces muy finas y finas comunes; poros muy finos a medios
+abundantes, gruesos pocos. Sin pedregosidad. Sin reacción al HCl. Límite lineal, claro.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; arcillosa; estructura de bloques subangulares finos,
+medios y gruesos débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas
+43-73
+abundantes; poros muy finos y finos abundantes y gruesos pocos. Sin pedregosidad. Sin reacción
+al HCl. Límite lineal, abrupto.
+Rojo rojizo (5YR 4/4) en húmedo; arcillo arenosa; estructura de bloques finos débiles; friable en
+73-100 húmedo; muy plástico y muy adhesivo; raíces muy finas y finas abundantes; poros muy finos a
+medios abundantes. Sin pedregosidad. Sin reacción al HCl.
+Fotografías
+31
+================================================================================
+PAGE 33
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-11 Coordenadas: Datum WGS 1984 HUSO 18S 681.110 E / 5.930.208 N / 261 m.s.n.m.
+1.20 Calicata CA-17
+Tabla 1-20. Descripción física y morfológica de la Calicata CA-17
+CA-17 Coordenadas: Datum WGS 1984 HUSO 18S 683.407 E / 5.930.500 N / 295 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, de lomajes (36%); sin pedregosidad superficial; drenaje
+Características moderado; textura superficial franca; condición regular de agua aprovechable (11,66 cm c.a.);
+Generales sin pedregosidad subsuperficial; erosión no aparente; tiene un promedio de 345 días
+consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino (0,39
+dS m-1), no sódico (0,61%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo
+crítico pendiente de lomajes.
+Profundidad
+Características
+(cm)
+Pardo amarillento oscuro (10YR 3/4) en húmedo; franco arcillosa; estructura de bloques
+subangulares medios moderados; friable en húmedo; friable en húmedo; muy plástico y muy
+0-25
+adhesivo; raíces muy finas a gruesas comunes; poros muy finos a medios abundantes y gruesos
+pocos. Sin pedregosidad. Sin reacción al HCl. Límite lineal, abrupto.
+Pardo (10YR 4/3) en húmedo; arcillosa; estructura de bloques subangulares medios y gruesos
+débiles; friable en húmedo; muy plástico y muy adhesivo; raíces medias y gruesas pocas; poros
+25-60
+muy finos a medianos abundantes, gruesos comunes. Sin pedregosidad. Sin reacción al HCl.
+Límite lineal, abrupto.
+Pardo (7.5YR 4/4) en húmedo; arcillosa; sin estructura, masivo; friable en húmedo; muy plástico
+y muy adhesivo; raíces medias pocas; poros muy finos y finos abundantes. Sin pedregosidad.
+60-100
+Moteados rojo amarillento (5YR 4/6) finos abundantes. Concreciones finas abundantes. Sin
+reacción al HCl.
+Fotografías
+32
+================================================================================
+PAGE 34
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-17 Coordenadas: Datum WGS 1984 HUSO 18S 683.407 E / 5.930.500 N / 295 m.s.n.m.
+Fuente: GAC
+1.21 Calicata CA-21
+Tabla 1-21. Descripción física y morfológica de la Calicata CA-21
+CA-21 Coordenadas: Datum WGS 1984 HUSO 18S 681.622 E / 5.928.758 N / 303 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso silvestre. Clasificado como
+profundo (100 cm); pendiente compleja, fuertemente ondulada (18%); pedregosidad superficial
+ligera (Piedras en un 2% y gravas en un 10%); drenaje imperfecto; textura superficial franco
+Características
+arcillosa; condición pobre de agua aprovechable (7,57 cm c.a.); moderada pedregosidad
+Generales
+subsuperficial (piedras en un 10% y 30% de gravas); erosión no aparente; tiene un promedio de
+345 días consecutivos libres de heladas. Los criterios especiales clasifican el suelo como no salino
+(0,12 dS m-1), no sódico (0,71%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el
+atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+33
+================================================================================
+PAGE 35
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-21 Coordenadas: Datum WGS 1984 HUSO 18S 681.622 E / 5.928.758 N / 303 m.s.n.m.
+Pardo muy oscuro (7.5YR 2.5/2) y Pardo rojizo (5YR 4/6) en húmedo; franco arcillosa; estructura
+de bloques subangulares finos y medios moderados; friable en húmedo; friable en húmedo;
+moderadamente plástico y moderadamente adhesivo; raíces muy finas y finas abundantes,
+0-22
+medias y gruesas comunes; poros muy finos y finos abundantes, medios comunes. Piedras en
+un 2% y gravas en un 10%. Sin reacción al HCl. %. Moteados rojo amarillento (5YR 4/6) finos
+pocos. Límite ondulado, abrupto.
+Pardo rojizo oscuro (5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares
+finos moderados; friable en húmedo moderadamente plástico y moderadamente adhesivo;
+22-55
+raíces muy finas y finas abundantes; poros muy finos y finos abundantes. Piedras en un 10% y
+gravas en un 15%. Sin reacción al HCl. Límite ondulado, abrupto.
+Pardo rojizo oscuro (5YR 2.5/2) en húmedo; arcillosa; estructura de bloques subangulares finos
+y medios débiles; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+55-100
+comunes; poros muy finos y finos abundantes. Piedras en un 1% y gravas en un 30%. Sin reacción
+al HCl.
+Fotografías
+34
+================================================================================
+PAGE 36
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-21 Coordenadas: Datum WGS 1984 HUSO 18S 681.622 E / 5.928.758 N / 303 m.s.n.m.
+Fuente: GAC
+1.22 Calicata CA-23
+Tabla 1-22. Descripción física y morfológica de la Calicata CA-23
+CA-23 Coordenadas: Datum WGS 1984 HUSO 18S 680.513 E / 5.9328.414 N / 222 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, fuertemente ondulada (15%); pedregosidad superficial
+Características moderada (gravas 20%); drenaje imperfecto; textura superficial franco arcillosa; condición
+Generales regular de agua aprovechable (10,87 cm c.a.); sin pedregosidad subsuperficial; erosión no
+aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales
+clasifican el suelo como no salino (0,37 dS m-1), no sódico (0,28%) y no calcáreo. La Clase de
+Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Negro (7.5YR 2.5/1) en húmedo; franco arcillosa; estructura granular media firme; friable en
+húmedo; moderadamente plástico y moderadamente adhesivo; raíces muy finas a medias
+0-29
+abundantes; poros muy finos y finos abundantes, gruesos comunes. Gravas en un 10%. Sin
+reacción al HCl. Límite lineal, claro.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; franco arcillosa; estructura de bloques
+subangulares medios débiles; firme en húmedo; moderadamente plástico y moderadamente
+29-70 adhesivo; raíces muy finas y finas abundantes, medias y gruesas pocas; poros muy finos y finos
+abundantes, medios comunes. Sin pedregosidad. Sin reacción al HCl. Moteados pardo fuerte
+(7.5YR 5/8) finos pocos. Límite lineal, claro.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo;
+70-100 muy plástico y muy adhesivo; raíces muy finas y finas comunes; poros muy finos y finos
+abundantes. Sin pedregosidad. Concreciones finas abundantes. Sin reacción al HCl.
+Fotografías
+35
+================================================================================
+PAGE 37
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-23 Coordenadas: Datum WGS 1984 HUSO 18S 680.513 E / 5.9328.414 N / 222 m.s.n.m.
+Fuente: GAC
+1.23 Calicata CA-24
+Tabla 1-23. Descripción física y morfológica de la Calicata CA-24
+CA-24 Coordenadas: Datum WGS 1984 HUSO 18S 681.545 E / 5.928.712 N / 302 m.s.n.m.
+Unidad homogénea: Cerro
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal. Clasificado como
+profundo (100 cm); pendiente compleja, fuertemente ondulada (20%); ligera pedregosidad
+superficial moderada (Piedras en un 5% y gravas en un 5%); drenaje imperfecto; textura
+Características
+superficial franco arcillosa; condición regular de agua aprovechable (10,37 cm c.a.); sin
+Generales
+pedregosidad subsuperficial (Piedras en un 1% y gravas en un 2%); erosión no aparente; tiene
+un promedio de 345 días consecutivos libres de heladas. Los criterios especiales clasifican el
+suelo como no salino (0,53 dS m-1), no sódico (1,02%) y no calcáreo. La Clase de Capacidad de
+Uso es VIs1 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+36
+================================================================================
+PAGE 38
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+CA-24 Coordenadas: Datum WGS 1984 HUSO 18S 681.545 E / 5.928.712 N / 302 m.s.n.m.
+Pardo muy oscuro (7.5YR 2.5/2) y pardo oscuro (7.5YR 5/8) en húmedo; franco arcillosa;
+estructura de bloques subangulares finos a gruesos, moderados; friable en húmedo;
+0-20 ligeramente plástico y moderadamente adhesivo; raíces muy finas y finas abundantes; poros
+muy finos a gruesos abundantes. Piedras en un 5% y gravas en un 5%. Sin reacción al HCl. Límite
+ondulado, abrupto.
+Pardo muy oscuro (7.5YR 2.5/3) en húmedo; arcillosa; estructura de bloques subangulares finos
+y medios, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas comunes y
+20-50
+finas abundantes; poros muy finos a medios abundantes. Sin pedregosidad. Sin reacción al HCl.
+Límite ondulado, claro.
+Pardo oscuro (7.5YR 3/4) en húmedo; arcillosa; estructura de bloques subangulares finos y
+medios, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces finas y medias comunes;
+50-70
+poros muy finos a medios abundantes. Gravas en un 2%. Sin reacción al HCl. Moteados pardo
+fuerte (7.5YR 5/8) finos pocos. Límite ondulado, abrupto.
+Pardo rojizo oscuro (5YR 3/3) en húmedo; arcillosa; estructura de bloques subangulares finos y
+medios, débiles; firme en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas
+70-100
+comunes; poros muy finos y finos abundantes. Piedras en un 1% y gravas en un 2%. Sin reacción
+al HCl.
+Fotografías
+Fuente: GAC
+37
+================================================================================
+PAGE 39
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.24 barreno MPB-01
+Tabla 1-24.. Descripción física y morfológica del perfil de suelo MPB-01
+MPB-01 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Suelo de uso actual silvestre. Presencia de agua en la superficie del suelo. Pendiente simple,
+Características
+fuertemente inclinada (13%); textura media en los primeros 50 cm de suelo (franco limosa). Los
+Generales
+criterios especiales clasifican el suelo como ligeramente salino (2,36 dS m-1), no sódico (0,28%)
+y no calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Rasgos redoximórficos de color pardo fuerte (7.5 YR 5/8) en húmedo en forma de
+Indicadores concentraciones de hierro
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona interior
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico Sí
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10YR 2/2) en húmedo. Franco limosa; moderadamente plástico, no
+0 - 15
+adhesivo. Nivel freático en superficie. Sin reacción al HCl.
+Pardo grisáceo muy oscuro (10YR 3/2) en húmedo. Franco limosa; muy plástico, no adhesivo.
+15 - 50
+Sin reacción al HCl.
+Fotografías
+38
+================================================================================
+PAGE 40
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-01 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.25 Barreno MPB-02
+Tabla 1-25. Descripción física y morfológica del perfil de suelo MPB-02
+MPB-02 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo de uso actual silvestre. Sin presencia de agua en la superficie del suelo. Pendiente simple,
+Generales fuertemente inclinada (13%); clase textural moderadamente fina en los primeros 50 cm de
+suelo (franco arcillo arenosa) y no calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona interior
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10YR 2/2) en húmedo. Franco arcillo arenosa; moderadamente plástico,
+0 - 25
+moderadamente adhesivo. Sin reacción al HCl.
+25 – 50 Pardo (7.5YR 4/3) en húmedo. Arcillosa; muy plástico, muy adhesivo. Sin reacción al HCl.
+Fotografías
+39
+================================================================================
+PAGE 41
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-02 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.26 Barreno MPB-03
+Tabla 1-26. Descripción física y morfológica del perfil de suelo MPB-03
+MPB-03 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo de uso actual silvestre. Sin presencia de nivel freático en superficie. Pendiente simple,
+Generales suavemente inclinada (4%); clase textural moderadamente fina en los primeros 50 cm de suelo
+(franco arcillosa); no calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de uso silvestre
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+40
+================================================================================
+PAGE 42
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-03 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/4) en húmedo. Franco arcillosa; muy plástico y muy adhesivo. Nivel
+0 – 50
+freático en superficie. Sin reacción, ni visible, ni audible al HCl
+Fotografías
+Fuente: GAC
+1.27 Barreno MPB-04
+Tabla 1-27. Descripción física y morfológica del perfil de suelo MPB-04
+MPB-04 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo de uso actual silvestre. Sin agua en superficie. Pendiente simple, suavemente inclinada
+Generales (4%); clase textural moderadamente fina (franco arcillosa) en los primeros 50 cm de suelo y no
+calcáreo (sin reacción, ni visible, ni audible al HCl).
+41
+================================================================================
+PAGE 43
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-04 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de uso silvestre
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/4) en húmedo. Franco arcillosa; muy plástico, muy adhesivo. Sin
+0 – 50
+reacción al HCl.
+Fotografías
+Fuente: GAC
+42
+================================================================================
+PAGE 44
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.28 Barreno MPB-05
+Tabla 1-28. Descripción física y morfológica del perfil de suelo MPB-05
+MPB-05 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo Uso actual forestal, plantación de eucalipto. Sin agua en superficie. Pendiente compleja,
+Generales de lomajes (35%); clase textural moderadamente fina en los primeros 50 cm de suelo (franco
+arcillosa) y no calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de quebrada
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo oscuro (10YR 3/3) en húmedo; franco arcillosa; moderadamente plástico y muy adhesivo.
+0 – 50
+Raíces en crecimiento activo. Presencia de casquillos de cuarzo. Sin reacción al HCl.
+43
+================================================================================
+PAGE 45
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-05 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.29 Barreno MPB-06
+Tabla 1-29. Descripción física y morfológica del perfil de suelo MPB-06
+MPB-06 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo Uso actual forestal, plantación de eucalipto. Sin agua en superficie. Pendiente simple,
+Generales ligeramente escarpada (18%); clase textural muy fina (arcillosa) en los primeros 50 cm de y no
+calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de quebrada
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo amarillento oscuro (10YR 3/4) en húmedo; arcillosa; muy plástico, muy adhesivo.
+0 – 50
+Raíces en crecimiento activo. Sin reacción, ni visible, ni audible al HCl
+44
+================================================================================
+PAGE 46
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-06 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.30 Barreno MPB-07
+Tabla 1-30. Descripción física y morfológica del perfil de suelo MPB-07
+MPB-07 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo Uso actual silvestre. Sin agua en superficie. Pendiente simple, ligeramente escarpada
+Generales (28%); clase textural moderadamente fina (franco arcillosa) en los primeros 50 cm de suelo y
+no calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de ladera
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+45
+================================================================================
+PAGE 47
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-07 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo oscuro (10YR 3/3) en húmedo. Franco arcillosa, con presencia de gravas finas en un 25%;
+0 – 50
+muy plástico, muy adhesivo. Raíces en crecimiento activo. Sin reacción al HCl.
+Fotografías
+Fuente: GAC
+1.31 Barreno MPB-08
+Tabla 1-31. Descripción física y morfológica del perfil de suelo MPB-08
+MPB-08 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo con uso actual silvestre. Sin agua en superficie. Pendiente compleja, de lomajes (31%);
+Generales clase textural moderadamente fina (franco arcillosa); no calcáreo (sin efervescencia, ni visible,
+ni audible al HCl).
+46
+================================================================================
+PAGE 48
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-08 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de quebrada / ex camino
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10YR 3/3) en húmedo. Franco arcillosa; ligeramente plástico, muy adhesivo.
+0 – 50
+Raíces en crecimiento activo. Sin efervescencia, ni visible, ni audible al HCl.
+Fotografías
+Fuente: GAC
+47
+================================================================================
+PAGE 49
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.32 Barreno MPB-09
+Tabla 1-32. Descripción física y morfológica del perfil de suelo MPB-09
+MPB-09 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Suelo con uso actual silvestre. Sin agua en superficie. Pendiente simple, suavemente inclinada
+Características
+(4%); clase textural moderadamente fina (franco arcillosa) en los primeros 38 cm de suelo y no
+Generales
+calcáreo (sin reacción, ni visible, ni audible al HCl).
+Presencia de materia orgánica superficial
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de quebrada
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo muy oscuro (10YR 3/3) en húmedo; franco arcillosa, con presencia de gravas finas en un
+0 - 38 45%; moderadamente plástico, ligeramente adhesivo. Raíces en crecimiento activo. Sin
+reacción al HCl.
+Fotografías
+48
+================================================================================
+PAGE 50
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-09 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.33 Barreno MPB-10
+Tabla 1-33. Descripción física y morfológica del perfil de suelo MPB-10
+MPB-10 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo uso actual silvestre. Presencia de nivel freático en la superficie del suelo. Pendiente
+Generales simple, suavemente inclinada (4%); textural moderadamente fina en los primeros 50 cm de
+suelo. No calcáreo (sin reacción, ni visible, ni audible al HCl).
+Suelo mineral, con presencia de materia orgánica en descomposición en superficie
+Rasgos redoximórficos de color pardo fuerte (7.5YR 5/8) en húmedo en forma de
+Indicadores concentraciones de hierro
+Sin matriz reducida
+Olor característico de presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona interior
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico Sí
+Profundidad
+Características
+(cm)
+Pardo oscuro (10YR 3/3) en húmedo. Franco arcillosa; muy plástico, muy adhesivo. Raíces en
+0 – 50
+crecimiento activo y en descomposición. Nivel freático en superficie. Sin reacción al HCl.
+Fotografías
+49
+================================================================================
+PAGE 51
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-10 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Fuente: GAC
+1.34 Barreno MPB-11
+Tabla 34. Descripción física y morfológica del perfil de suelo MPB-11
+MPB-11 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo con uso actual silvestre. Sin agua en superficie. Pendiente simple, suavemente inclinado
+Generales (4%); clase textural moderadamente fina (franco arcillosa) en los primeros 50 cm de suelo y no
+calcáreo (sin reacción, ni visible, ni audible al HCl).
+Presencia de materia orgánica superficial
+Sin rasgos redoximórficos en forma de concentraciones de hierro
+Indicadores
+Sin matriz reducida
+Sin olor por presencia de ácido sulfhídrico en el suelo superficial
+Zona típica Zona de uso silvestre
+Las condiciones climáticas e hidrológicas son típicas para la época del año en que se realizó la
+Clima
+evaluación de suelo.
+50
+================================================================================
+PAGE 52
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MPB-11 Coordenadas: Datum WGS 1984 HUSO 18S 679.859 E / 5.929.812 N – 135 m.s.n.m
+Unidad homogénea: Quebrada
+Características Suelo con uso actual silvestre. Sin agua en superficie. Pendiente simple, suavemente inclinado
+Generales (4%); clase textural moderadamente fina (franco arcillosa) en los primeros 50 cm de suelo y no
+calcáreo (sin reacción, ni visible, ni audible al HCl).
+Estado del sitio El sitio no se encuentra artificialmente drenado y el suelo no se encuentra modificado.
+Suelo hídrico No
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/4) en húmedo. Franco arcillosa; muy plástico, muy adhesivo. Nivel
+0 – 50
+freático en superficie. Sin reacción al HCl.
+Fotografías
+Fuente: GAC
+1.35 Punto de Observación PO-01
+Tabla 1-35. Descripción Punto de Observación PO-01
+PO-01 Coordenadas: Datum WGS 1984 HUSO 18S 681.343 E / 5.929.240 N / 254 m.s.n.m.
+Unidad homogénea: Intervenido
+Características Camino a relleno sanitario, con tránsito de camiones de forma permanente. Debido al grado de
+Generales intervención no corresponde clasificarlo como suelo, por lo cual no se le asigna una clase de
+capacidad de uso.
+Fotografías
+51
+================================================================================
+PAGE 53
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+PO-01 Coordenadas: Datum WGS 1984 HUSO 18S 681.343 E / 5.929.240 N / 254 m.s.n.m.
+Fuente: GAC
+1.36 Punto de Observación PO-02
+Tabla 1-36. Descripción Punto de Observación PO-02
+PO-02 Coordenadas: Datum WGS 1984 HUSO 18S 681.513 E / 5.928.564 N / 286 m.s.n.m.
+Unidad homogénea: Intervenido
+Características Intervenido con maquinaria. Sector de acopio y retiro de material. Debido al grado de
+Generales intervención no corresponde clasificarlo como suelo, por lo cual no se le asigna una clase de
+capacidad de uso.
+Fotografías
+Fuente: GAC
+52
+================================================================================
+PAGE 54
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.37 Punto de Observación PO-04
+Tabla 1-37. Descripción Punto de Observación PO-04
+PO-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.080 E / 5.929.090 N / 266 m.s.n.m.
+Unidad homogénea: Intervenido
+Características Camino a relleno sanitario, con tránsito de camiones de forma permanente. Debido al grado de
+Generales intervención no corresponde clasificarlo como suelo, por lo cual no se le asigna una clase de
+capacidad de uso.
+Fotografías
+Fuente: GAC
+1.38 Punto de Observación PO-05
+Tabla 1-38. Punto de observación PO-05
+PO-05 Coordenadas: Datum WGS 1984 HUSO 18S 679.855 E / 5.929.800 N – 139 m.s.n.m.
+Unidad homogénea: Quebrada
+Características Uso actual silvestre. El suelo se encuentra compactado debido a que en el pasado constituyó
+Generales un camino, por lo que no es posible tomar muestras con barrenos. No se observan indicadores
+de suelo hídrico.
+Fotografías
+53
+================================================================================
+PAGE 55
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+PO-05 Coordenadas: Datum WGS 1984 HUSO 18S 679.855 E / 5.929.800 N – 139 m.s.n.m.
+Unidad homogénea: Quebrada
+Características Uso actual silvestre. El suelo se encuentra compactado debido a que en el pasado constituyó
+Generales un camino, por lo que no es posible tomar muestras con barrenos. No se observan indicadores
+de suelo hídrico.
+Fuente: GAC
+1.39 Punto de Observación PO-06
+Tabla 1-39. Punto de observación PO-06
+PO-06 Coordenadas: Datum WGS 1984 HUSO 18S 679.849 E / 5.929.524 N – 131 m.s.n.m.
+Unidad homogénea: Quebrada
+Características Uso actual silvestre. El suelo se encuentra compactado debido a que en el pasado constituyó
+Generales un camino, por lo que no es posible tomar muestras con barrenos. No se observan indicadores
+de suelo hídrico. No presenta nivel freático en la superficie del suelo.
+Fotografías
+Fuente: GAC
+54
+================================================================================
+PAGE 56
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+2 RESULTADOS DE LABORATORIO
+55
+================================================================================
+PAGE 57
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+56
+================================================================================
+PAGE 58
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+57
+================================================================================
+PAGE 59
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+58
+================================================================================
+PAGE 60
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+59
+================================================================================
+PAGE 61
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+60
+================================================================================
+PAGE 62
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+61
+================================================================================
+PAGE 63
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+62
+================================================================================
+PAGE 64
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+63
+================================================================================
+PAGE 65
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+64
+================================================================================
+PAGE 66
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+65
+================================================================================
+PAGE 67
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+66
+================================================================================
+PAGE 68
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+67
+================================================================================
+PAGE 69
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+68
+================================================================================
+PAGE 70
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+69
+================================================================================
+PAGE 71
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+70
+================================================================================
+PAGE 72
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+71
+================================================================================
+PAGE 73
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+72
+================================================================================
+PAGE 74
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+73
+================================================================================
+PAGE 75
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+74
+================================================================================
+PAGE 76
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+75
+================================================================================
+PAGE 77
+================================================================================
+Anexo 3B-15
+Fichas de Descripción de Suelo y Resultados de Laboratorio
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+76

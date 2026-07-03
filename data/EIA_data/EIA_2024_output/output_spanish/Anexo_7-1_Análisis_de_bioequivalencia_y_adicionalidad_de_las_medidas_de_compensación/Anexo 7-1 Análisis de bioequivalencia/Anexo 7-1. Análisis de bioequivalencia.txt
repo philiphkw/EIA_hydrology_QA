@@ -1,0 +1,1986 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 7-1
+Análisis de Bioequivalencia y
+Adicionalidad de las Medidas de
+Compensación
+EIA "Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras"
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Objetivos .................................................................................................................................... 1
+3 Evaluación de Impactos en biodiversidad (Flora, vegetación y fauna). .......................................... 1
+3.1 Singularidades ambientales en flora y vegetación ........................................................................ 1
+3.2 Singularidades ambientales en fauna silvestre ............................................................................. 5
+3.3 Singularidades de fauna invertebrada .......................................................................................... 6
+3.4 Impactos significativos en Biodiversidad ...................................................................................... 6
+4 Metodología: Criterios de la Guía de Compensación (SEA, 2023) .................................................. 9
+4.1 Metodología de 3 niveles de compensación biodiversidad ........................................................ 10
+4.1.1 Nivel 1. Mapas de relevancia del sitio ................................................................................. 10
+4.1.2 Nivel 2. Matriz de componentes clave de biodiversidad .................................................... 11
+4.1.3 Nivel 3. Métrica de Cuantificación ...................................................................................... 12
+5 Identificación del Impacto Residual ........................................................................................... 18
+5.1 Medida de Mitigación y Reparación ............................................................................................ 18
+5.2 Estimación del Impacto Residual ................................................................................................. 19
+6 Medidas de compensación ........................................................................................................ 20
+6.1 MC-03: Colecta de Germoplasma, Viverización y Replante de Individuos de Vestia foetida,
+Gardoquia multiflora y Asplenium trilobum ............................................................................................ 21
+6.2 MC-06 Protección de áreas aledañas al proyecto ....................................................................... 21
+6.3 Justificación de las medidas de compensación ........................................................................... 23
+7 Estimación de pérdida y ganancia de biodiversidad .................................................................... 26
+7.1 Nivel 1. Determinación de la relevancia de acuerdo con los mapas de relevancia del sitio. ...... 26
+7.2 Nivel 2. Matriz de componentes clave de biodiversidad ............................................................ 26
+7.2.1 Matriz de componentes claves del área de influencia ........................................................ 26
+7.2.2 Matriz de componentes claves de las áreas de compensación .......................................... 33
+7.3 Nivel 3. Métrica de Cuantificación .............................................................................................. 38
+7.3.1 Relevancia del sitio impactado respecto al área de influencia y de los sitios de compensación
+............................................................................................................................................. 38
+7.3.2 Temporalidad ...................................................................................................................... 39
+7.3.3 Localización ......................................................................................................................... 39
+7.3.4 Manejo ................................................................................................................................ 39
+7.3.5 Condición ............................................................................................................................. 39
+7.4 Resultados de la métrica ............................................................................................................. 45
+8 Amenazas del sitio de compensación ......................................................................................... 46
+9 Conclusión ................................................................................................................................ 46
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE APENDICE
+Apéndice 7-1.1 Cálculo de métricas
+INDICE DE TABLAS
+Tabla 3-1. Intervención de especies en categoría de conservación cuyo impacto es significativo .............. 7
+Tabla 4-1. Puntuación del parámetro relevancia del sitio .......................................................................... 11
+Tabla 4-2. Puntuación de los parámetros que determinan la condición del paisaje .................................. 15
+Tabla 4-3. Puntuación de los parámetros a nivel de ecosistema terrestre ................................................. 16
+Tabla 4-4. Puntuación del parámetro de temporalidad .............................................................................. 17
+Tabla 4-5. Puntuación del parámetro de Localización ................................................................................ 18
+Tabla 4-6. Puntuación del parámetro de Manejo ....................................................................................... 18
+Tabla 5-1. Hábitat de fauna a intervenir ..................................................................................................... 19
+Tabla 6-1. Hábitat de fauna a proteger a través de la medida de compensación ...................................... 22
+Tabla 7-1. Matriz de componentes claves área de intervención ................................................................ 30
+Tabla 7-2. Matriz de componentes claves del sitio de compensación ........................................................ 36
+Tabla 7-3. Métricas de paisaje para el área de influencia antes del Proyecto ............................................ 40
+Tabla 7-4. Métricas de paisaje para el área de influencia después del Proyecto ....................................... 40
+Tabla 7-5. Parámetros para el área de influencia ....................................................................................... 41
+Tabla 7-6. Parámetros para sitio de compensación .................................................................................... 44
+Tabla 7-7. Impacto residual ......................................................................................................................... 46
+Tabla 7-8. Ganancia de biodiversidad ......................................................................................................... 46
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 4-1. Jerarquía de medidas y magnitud relativa deseable en la aplicación de medidas ..................... 9
+Figura 4-2. Resumen de metodología para medidas de compensación de biodiversidad ......................... 10
+Figura 4-3. Condición de la biodiversidad ................................................................................................... 17
+Figura 4-4. Compensación apropiada .......................................................................................................... 17
+Figura 5-1. Pérdida neta cero de Biodiversidad .......................................................................................... 20
+Figura 6-1. Ubicación de los sitios de compensación y las obras del Proyecto ........................................... 22
+Figura 6-2. Ubicación de los sitios de compensación y las obras del Proyecto ........................................... 25
+Figura 7-1. Compensación apropiada .......................................................................................................... 38
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+En la evaluación de impacto del presente Proyecto (Capitulo 4) se reconoce el impacto significativo en el
+componente de flora y vegetación, específicamente impacto por “Pérdida de ejemplares de flora”.
+Adicionalmente se reconoce el impacto significativo de fauna en “Pérdida de ejemplares de fauna de
+interés y/o sensibles” y “Pérdida y/o modificación de hábitat de especies de interés y/o sensibles”
+El proyecto presenta medidas de mitigación y compensación para los impactos mencionados (Capitulo 7).
+Específicamente, las medidas de compensación se diseñan para producir un efecto positivo alternativo y
+equivalente a un efecto adverso identificado como impacto residual (aquel que no fue posible ni mitigar
+ni reparar). Una correcta medida de compensación es aquella que resulta tener una ganancia en
+biodiversidad mayor al impacto significativo que se producirá por la ejecución del Proyecto.
+El presente documento identifica cuales son los impactos residuales y estima la ganancia en biodiversidad
+de la medida de compensación propuesta, según lo establecido en la Guía Metodológica para la
+Compensación de Biodiversidad en Ecosistemas Terrestres y Acuáticos Continentales (SEA, 2023).
+2 OBJETIVOS
+• Identificar los impactos residuales en biodiversidad que se generan por el Proyecto.
+• Calcular la pérdida en biodiversidad del impacto residual considerando la métrica propuesta en la
+Guía Metodológica para la Compensación de Biodiversidad en Ecosistemas Terrestres y Acuáticos
+Continentales (SEA, 2023).
+• Calcular la ganancia en biodiversidad de las medidas de compensación considerando la métrica
+propuesta en la Guía Metodológica para la Compensación de Biodiversidad en Ecosistemas
+Terrestres y Acuáticos Continentales (SEA, 2023).
+3 EVALUACIÓN DE IMPACTOS EN BIODIVERSIDAD (FLORA, VEGETACIÓN Y
+FAUNA).
+3.1 Singularidades ambientales en flora y vegetación
+El área de influencia (AI) del Proyecto se ubica en las comunas de Penco y Concepción, Provincia de
+Concepción, Región del Biobío y considera una superficie de 673,62 ha. Según la clasificación de Gajardo
+(1994)1, el área de Proyecto se inserta dentro de la Región del Bosque Caducifolio, en la subregión del
+1 Gajardo, R. 1994. La vegetación natural de Chile. Clasificación y distribución geográfica.
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Bosque Caducifolio del Llano, específicamente en la formación del Bosque Caducifolio de Concepción. Esta
+formación se extiende por las laderas bajas y medias de la Cordillera de la Costa, en la Región del Biobío,
+presentando una fase húmeda hacia la vertiente oceánica y una fase seca hacia el oriente. Originalmente
+debe haber tenido un gran desarrollo y riqueza florística, debiéndose encontrar una fuerte penetración de
+especies laurifolias en la fisionomía típica de árboles de hoja caduca dominante, además, de ser el área
+geográfica del roble (Nothofagus obliqua), sin embargo, la cobertura vegetal ha sido casi completamente
+remplazada por plantaciones de Pinus radiata.
+De acuerdo con Luebert y Pliscoff (2019)2 el Proyecto se ubica en dos (2) formaciones. Una
+correspondiente al Bosque Esclerófilo, específicamente al piso vegetacional Bosque esclerófilo
+mediterráneo costero de Lithrea caustica - Azara integrifolia, y la otra denominada formación del Bosque
+Caducifolio, específicamente al piso vegetacional Bosque caducifolio mediterráneo costero de Nothofagus
+obliqua - Gomortega keule.
+Según los resultados de la línea de base del componente (Capítulo 03-Sección B), se determinó que los
+ambientes intervenidos cubren la mayor superficie del área de influencia alcanzando el 71% de la
+superficie total (478,37 ha), seguido por el ambiente natural con 121,02 ha (18%) y en tercer lugar el
+ambiente modificado con 74,23 ha (11%). En general, se puede indicar que el AI está compuesta
+mayoritariamente por plantaciones forestales y bosques asilvestrados, seguido por matorrales y
+formaciones boscosas.
+Respecto de las formaciones vegetacionales correspondientes a ambiente intervenidos, las que presentan
+mayor superficie dentro del área de influencia corresponden a la plantación de Eucalyptus globulus, el
+bosque asilvestrado de Pinus radiata, y la plantación de Pinus radiata con 332,73 ha, 47,60 ha y 37,65 ha
+respectivamente. En los ambientes naturales, las formaciones predominantes corresponden a Matorral
+de Teline monspessulana (39,28 ha), Matorral arborescente de Teline monspessulana (15,04 ha), seguido
+por el bosque nativo de preservación de Nothofagus obliqua (15,16 ha) y el bosque nativo de preservación
+de Aextoxicon punctatum (13,24 ha).
+La flora vascular registrada en el área de influencia da cuenta de la presencia de 247 especies, de las cuales
+194 pertenecen a la Clase Magnoliopsida, 37 a la Clase Liliopsida, 13 a la Clase Polypodiopsida y las tres
+restantes se distribuyen entre la Clase Equisetopsida (una especie) y Pinopsida (dos especies). Del registro
+total, y según su origen fitogeográfico 106 corresponden a elemento nativos, 61 a endémicas y 80
+corresponden a especies introducidas al país. De acuerdo con el hábito de crecimiento, el mayor número
+de especies identificadas en el área de influencia corresponden a hierbas (anuales y perennes) con 145
+taxa, seguido por los arbustos (65 especies) y los árboles (37 especies).
+Se registraron 19 especies bajo categoría de conservación en el área de influencia del Proyecto. Del total
+de especies registradas, cinco se encuentran grado de amenaza, correspondiente a Gomortega keule,
+2 Luebert, F. y Pliscoff, P. 2019. Sinopsis bioclimática y vegetacional de Chile.
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Pitavia punctata y Vestia foetida en categoría En Peligro y Asplenium trilobum y Citronella mucronata en
+categoría Vulnerable. Los 14 taxa restantes corresponden a especies no consideradas en grado de
+amenaza (Casi Amenazada y Preocupación Menor), correspondientes a Adiantum chilense, Aextoxicon
+punctatum, Asplenium dareoides, Blechnum arcuatum, Blechnum chilense, Blechnum hastatum, Drimys
+winteri, Hymenophyllum dicranotrichum, Hypolepis poeppigii, Lophosoria quadripinnata, Myrceugenia
+leptospermoides y Persea lingue en Preocupación Menor, y Gardoquia multiflora y Polystichum
+subintegerrimum en categoría Casi Amenazada.
+De acuerdo con lo indicado en la Guía de Evaluación Ambiental de CONAF (2020) se registraron las
+siguientes singularidades ambientales dentro del área de influencia del Proyecto.
+• Los bosques nativos de preservación con presencia de ejemplares de Gomortega keule y Pitavia
+Punctata (25,11 ha) fueron considerados como formaciones vegetales relictuales, reliquias,
+remanentes y frágiles.
+• Se identificaron 36,28 ha de bosque nativo de preservación dentro del área de influencia.
+• Se identificaron 170,07 ha de formaciones vegetacionales con especies en grado de amenaza, no
+considerando bosque nativo de preservación.
+• Se registraron 19 especies bajo categoría de conservación. Del total de especies registradas, cinco
+se encuentran grado de amenaza, correspondiente a Gomortega keule, Pitavia punctata y Vestia
+foetida en categoría En Peligro y Asplenium trilobum y Citronella mucronata en categoría
+Vulnerable. Los 14 taxa restantes corresponden a especies no consideradas en grado de amenaza
+(Casi Amenazada y Preocupación Menor). Si bien en el área de influencia se registraron individuos
+de las especies Gomortega keule (queule) y Pitavia punctata (pitao), estos no serán intervenidos
+por las obras del proyecto.
+• De acuerdo con el Atlas de Riesgos Climáticos en la comuna de Penco, sector donde se ubica el
+área de influencia del Proyecto, existe una susceptibilidad a los efectos asociados al cambio
+climático a nivel de ecosistema. A nivel de especie, los resultados más negativos se presentarían
+para Gomortega keule y Gardoquia multiflora, ya que ambas tendrían una tendencia negativa en
+su probabilidad de presencia dentro del AI, les sigue en condiciones de disminución de
+probabilidad de presencia las especies Citronella mucronata y Asplenium trilobum. Para el caso de
+Pitavia punctata y Vestia foetida presentan un aumento en la probabilidad de presencia. Los
+valores representan la probabilidad de presencia de cada especie en el área de influencia en un
+período histórico (1980-2010) y en el período futuro (2035-2065), lo cual da cuenta de la existencia
+de condiciones climáticas propicias para la existencia de las especies en el área de influencia. Lo
+anterior no debe interpretarse como un cambio en la densidad o en el rango de distribución
+geográfica de estas especies.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Se registró la presencia de tres especies reguladas por medidas de protección especial,
+correspondiente a Gomortega keule, Pitavia punctata y Lapageria rosea.
+• Se registró la presencia de 61 especies endémicas en el área de influencia.
+De acuerdo con el Atlas de Riesgos Climáticos (ARCLIM-MMA) existe una susceptibilidad al cambio
+climático a nivel de ecosistemas (perdida de flora, verdor o vigor del bosque nativo e incendios forestales)
+en la comuna de Penco, lugar donde se ubica la mayor superficie del área de influencia del Proyecto.
+Respecto con los efectos adversos sobre la distribución de la biodiversidad de especies vegetales, producto
+del cambio futuro de las condiciones de precipitación promedio anual y de la temperatura media anual,
+se estima para la comuna de Penco un valor muy alto para el índice de riesgo de pérdida de la biodiversidad
+de flora por cambios de precipitaciones y temperatura. Para el caso del efecto potencial de los cambios en
+el clima sobre el vigor o verdor de los bosques nativos a nivel comunal, se estima un valor muy bajo para
+el índice de riesgo de pérdida de verdor, mientras que, para la cadena de impacto y el riesgo a incendios
+en los bosques nativos y plantaciones forestales, se estima para la comuna de Penco un valor muy bajo y
+bajo respectivamente.
+Para el caso de la susceptibilidad al cambio climático a nivel de especie, en ARCLIM se pudo obtener
+modelos de distribución para tres (3) especies de interés del Proyecto, para un periodo histórico (1980-
+2010) y futuro (2035-2065) en un escenario de intensas emisiones de gases con efecto invernadero,
+correspondiente a Citronella mucronata (Vulnerable), Gomortega keule (En Peligro) y Pitavia punctata (En
+peligro). Además, a través de la herramienta Maxent se obtuvo modelos de distribución para otras tres (3)
+especies de interés: Asplenium trilobum (Vulnerable), Vestia foetida (especie que se está evaluando en el
+proceso 18° como en categoría En Peligro) y Gardoquia multiflora (Casi Amenazada).
+Para considerar si la probabilidad de la presencia de la especie dentro de la comuna Penco se mantiene,
+aumenta o disminuye, se consideran los siguientes rangos de análisis para el resultado entre la diferencia
+entre la probabilidad futura y la histórica. Se mantiene con un rango entre 0-10%, leve aumento entre 10-
+25% y aumenta cuando es >25%. Lo mismo en sentido inverso para la disminución en la probabilidad de la
+presencia.
+Al respecto, la probabilidad de la presencia de las especies Citronella mucronata (-4,33%), Pitavia punctata
+(2,04%) y Vestia foetida (1,57%) se mantienen en un periodo futuro en relación con la comuna de Penco.
+Lo contrario sucede para las especies Asplenium trilobum (-14,96%), Gomortega keule (-29%) y Gardoquia
+multiflora (-39,62%), donde la probabilidad de la presencia en un periodo futuro presenta una leve
+disminución para la primera especie, mientras que, para las dos restantes está disminuye dentro de la
+comuna de Penco.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.2 Singularidades ambientales en fauna silvestre
+El área de influencia para la fauna vertebrada terrestre estuvo compuesta por cuatro ambientes,
+correspondientes a bosque, matorral, modificado y plantación. Tales ambientes se encuentran acordes a
+las formaciones vegetacionales registradas por el componente flora y vegetación, debido a que fueron
+identificados y/o establecidos en función a estas.
+A partir del levantamiento de información en terreno, se registró la presencia de 73 especies de fauna
+terrestre nativa (48 registros en otoño 2022, 48 en invierno 2022, 49 en primavera 2022, 57 en verano
+2023 y 47 en primavera 2023), correspondientes a dos anfibios, seis reptiles, 49 aves y 16 mamíferos.
+En relación con las categorías de conservación, endemismo, grado de movilidad, estatus migratorio y
+criterios BSE, del total de especies registradas (n= 73), se puede indicar lo siguiente:
+• Categoría de conservación: 28 (38,4% del total) se encuentran en categoría de conservación según
+la legislación nacional vigente: dos anfibios, seis reptiles, siete aves y 13 mamíferos. Tres de ellas
+están en categoría de amenaza (un anfibio, un reptil y dos mamíferos).
+• Endemismo: seis especies de vertebrados terrestres con distribución exclusiva en nuestro país (un
+anfibio, un reptil, tres aves y un mamífero), que corresponden al 8,2% de las especies totales
+registradas.
+• Movilidad: 13 son de movilidad baja (dos anfibios, seis reptiles y cinco micromamíferos) y 60 de
+movilidad alta (49 aves y 11 mamíferos).
+• Estatus migratorio: 54 especies, 74% del total; son residentes, mientras que, 14 especies migran
+dentro del territorio nacional, dos migran fuera del territorio nacional y tres especies (quirópteros)
+son migratorias, pero no hay estudios científicos que indiquen si lo realizan fuera o dentro del
+país.
+• Criterios BSE: 45 especies catalogadas como beneficiosas para la actividad silvoagropecuaria (B)
+(un reptil, 36 aves y ocho mamíferos), 15 especies catalogadas con densidades poblacionales
+reducidas (S) (un anfibio, tres reptiles, ocho aves y tres mamíferos) y 35 especies catalogadas como
+benéficas para la mantención del equilibrio de los ecosistemas naturales (E) (dos anfibios, seis
+reptiles, 22 aves y ocho mamíferos).
+Con respecto a los índices de biodiversidad es posible mencionar que los ambientes con mayor diversidad,
+según los índices de Shannon y Simpson, son plantación en la campaña primavera 2023 (H’=2,09) y
+matorral en la campaña de primavera 2022 (D=0,89).
+Con respecto a la curva de rarefacción, se desprende que en el área de influencia se registró un 85% del
+total de la riqueza estimada (teórica), con una riqueza observada de 73 de un total 86 especies, según el
+estimador Chao 2, lo que considera una suficiencia en el muestreo, considerándose este, un muestreo
+representativo del área de influencia.
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Del total de especies registradas durante las cinco campañas de muestreo, 40 han sido consideradas como
+especies de interés y/o sensibles. De estas, 11 corresponden a especies de interés (dos anfibios, dos
+reptiles, dos aves y cinco mamíferos) y 37 son especies sensibles (dos anfibios, siete reptiles, 18 aves y 10
+mamíferos).
+Por último, en relación con el mapa de riesgo para la pérdida de biodiversidad de fauna asociado a la
+susceptibilidad al cambio climático a nivel de especies, el riesgo resultó alto tanto para la variable Pérdida
+de biodiversidad de fauna por cambios de precipitación como para la Pérdida de biodiversidad de fauna
+por cambios de temperatura en la comuna de Penco. Se obtuvieron modelos de distribución para cinco
+especies de interés del Proyecto en ARCLIM, para un periodo histórico (1980-2010) y futuro (2035-2065).
+En cuanto a especies evaluadas, el modelo preliminar de presencia histórica versus presencia futura otorgó
+como resultado, una disminución en la probabilidad de presencia de 25% para la especie Eupsophus
+roseus, 10% para Dromiciops gliroides, 8,5% para Pudu puda y 4,8% para Puma concolor. Por otra parte, la
+especie Liolaemus schroederi presenta un margen de seguridad positivo, con un aumento de 4% en la
+probabilidad de ocurrencia de la especie en la Región del Biobío.
+3.3 Singularidades de fauna invertebrada
+A través de las técnicas de muestreo propuestas para caracterizar el área de influencia, se logró
+determinar, un total de 247 especies. En este sentido, en la campaña de verano 2023 se determinó un
+total de 109 especies y 160 para la campaña de invierno dentro del Área de influencia.
+Se registraron 247 especies en ambas campañas donde 4 tiene consideraciones de conservación de
+acuerdo con la resolución de calificación de especies en categoría por el Ministerio del Medio Ambiente
+(RCE) y la Ley de Caza: Ceroglossus chilensis cyanicollis (Preocupación Menor DS 06/2017 MMA),
+Phrixotrichus scrofa (En Peligro DS 44/2021 MMA), Euathlus manicata (Casi Amenazada DS 06/2017 MMA)
+y Acanthogonathus pissi (Preocupación Menor DS 44/2021 MMA).
+La comunidad de invertebrados en el área de influencia del Proyecto para la temporalidad de verano está
+conformada por 3 clases de artrópodos: Insecta, Arachnida y Entognatha. Por su parte, la campaña de
+invierno, se observó la presencia de 6 clases: Insecta, Arachnida, Entognatha, Diplopoda, Chilopoda y
+Malacostraca. La clase Insecta domina el ensamble en un 96% en verano y 71,5% en invierno respecto a
+las otras clases observadas.
+3.4 Impactos significativos en Biodiversidad
+Las singularidades ambientales anteriormente señaladas fueron consideradas y evaluadas en el Capítulo 4
+del presente EIA, identificando la relevancia ambiental del componente y evaluando los siguientes
+impactos.
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Resulta relevante mencionar que en el Capítulo 4 del EIA se descarta la afectación de los bosques nativos
+de preservación con presencia de Gomortega keule, Pitavia punctata y Citronella mucronata (Anexo 4-5
+Fundamentos para la definición de impactos descartados sobre la vegetación nativa). Según lo indicado en
+el mencionado anexo, se descarta el impacto a las dos primeras especies y en el caso de Citronella
+mucronata, solo se verán afectados los individuos que se encuentran presentes en plantaciones forestales
+de Eucalyptus globulus y Pinus radiata y, en Bosque asilvestrado de Pinus radiata.
+▪ Pérdida de ejemplares de flora
+Este impacto se manifiesta por las actividades de despeje de la vegetación en los ambientes naturales e
+intervenidos, traduciéndose en pérdida de ejemplares de flora por la materialización del Proyecto. Las
+especies cuyo impacto es significativo son Citronella mucronata, Asplenium trilobum, Gardoquia multiflora
+y Vestia foetida. El número de ejemplares a intervenir se indican en la siguiente tabla.
+Tabla 3-1. Intervención de especies en categoría de conservación cuyo impacto es significativo
+Especie N° de individuos
+Citronella mucronata 20 en fase de construcción
+Asplenium trilobum3 fase de construcción
+Gardoquia multiflora 4 en la fase de construcción y 47 en fase de operación
+Vestia foetida 221 en fase de construcción y 27 en fase de operación
+Total 319
+Fuente: GAC
+▪ Pérdida de ejemplares de fauna de interés y/o sensibles (fauna vertebrada)
+Corresponde a la muerte de ejemplares de una o más especies de interés y/o sensibles producto de la
+instalación de obras y/o actividades del Proyecto. A continuación, se detalla la relación del impacto con
+las especies a evaluar:
+– En particular para los reptiles, anfibios y micromamíferos, se evalúa el riesgo de muerte por
+aplastamiento por instalación de estructuras o el tránsito de vehículos y/o maquinarias, debido a
+que son especies de baja movilidad, por lo que sus posibilidades de huir frente a acciones de
+intervención son bajas.
+– A las aves se evalúa el riesgo de muerte por la colisión y electrocución con línea de transmisión
+eléctrica.
+– En el caso de los mesomamíferos, se evalúa la pérdida de ejemplares por atropellamiento, debido a
+que son especies de alta movilidad que suelen acercarse a lugares con presencia de actividad
+antrópica o; porque se desplazaban o habitan el área.
+3
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Se aclara que, en el caso de quirópteros, no se evalúa este impacto dada su alta movilidad e inherente
+capacidad de ecolocalización, lo que le confiere a este grupo la posibilidad de evasión ante estructuras
+estáticas que obstaculicen el espacio aéreo.
+Este impacto resulta significativo para las especies, Eupsophus roseus (anfibio), Liolaemus schroederi
+(reptil) y Dromiciops gliroides (micromamífero).
+▪ Pérdida y/o modificación de hábitat de especies de interés y/o sensibles (fauna vertebrada)
+Corresponde a la modificación significativa de las condiciones y recursos necesarios para la existencia de
+especies nativas, como consecuencia de la remoción total del suelo y su vegetación y/o cambios en los
+lugares que transitan. El concepto de hábitat suele emplearse para referirse a un sector del espacio que
+reúne ciertas condiciones que permiten la existencia de algunas especies, pero no de otras.
+Resulta importante destacar que este impacto incluye en su evaluación la fragmentación de ambientes y
+hábitats naturales producto de la remoción de vegetación y movimiento de tierras, lo que dificulta el
+desplazamiento de especies de fauna (en especial las especies de baja movilidad), afecta la variabilidad
+genética y merma la posibilidad de búsqueda de alimento de los vertebrados terrestres de mayor tamaño.
+Este impacto resultó significativo para las especies Eupsophus roseus (Anfibio), Liolaemus schroederi
+(Reptil), Dromiciops gliroides (Micromamífero) Pudu puda (mesomamíferos), Puma concolor
+(mesomamíferos), Leopardus guigna (mesomamíferos).
+▪ Pérdida de ejemplares de interés y/o sensibles (fauna invertebrada)
+Este impacto corresponde a la potencial pérdida de ejemplares por la construcción del Proyecto. Este
+impacto resultó significativo para las especies Acanthogonathus pissi, Euathlus manicata, Phrixotrichus
+scrofa, Acanthinodera cumngii
+▪ Pérdida y/o modificación de hábitat de especies de interés y/o sensibles (fauna
+invertebrada)
+Corresponde a la modificación significativa de las condiciones y recursos necesarios para la existencia de
+especies nativas, como consecuencia de la remoción total del suelo y su vegetación y/o cambios en los
+lugares que transitan. El concepto de hábitat suele emplearse para referirse a un sector del espacio que
+reúne ciertas condiciones que permiten la existencia de algunas especies, pero no de otras. Este impacto
+resultó significativo para las especies Ceroglossus chilensis cyanicollis, Acanthogonathus pissi, Euathlus
+manicata, Phrixotrichus scrofa, Acanthinodera cumngii
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4 METODOLOGÍA: CRITERIOS DE LA GUÍA DE COMPENSACIÓN (SEA, 2023)
+La Guía de compensación de Biodiversidad define criterios para lograr un estándar de compensación
+apropiada, específicamente:
+1.- Adherencia a la jerarquía de medidas: aplicación secuencial de medidas para evitar, minimizar, reparar
+y compensar los elementos de la biodiversidad afectados. Lo anterior se puede ver en la siguiente gráfica.
+Figura 4-1. Jerarquía de medidas y magnitud relativa deseable en la aplicación de medidas
+Fuente: SEA, 2023
+Las medidas de mitigación tienen por finalidad evitar o disminuir los efectos adversos del proyecto
+o actividad, cualquiera sea su fase de ejecución, y abarcan:
+Las medidas de reparación tienen por finalidad reponer uno o más de los componentes o
+elementos del medio ambiente a una calidad similar a la que tenían con anterioridad al impacto
+sobre dicho componente o elemento o, en caso de no ser ello posible, restablecer sus propiedades
+básicas allí donde se espera ocurran los impactos. Por lo tanto, las medidas de reparación implican
+acciones que mejoran el estado del elemento ambiental impactado por el proyecto, realizándose
+dentro del área de influencia de tal componente
+Las medidas de compensación tienen por finalidad producir o generar un efecto positivo
+alternativo y equivalente a un efecto adverso identificado, que no sea posible mitigar o reparar en
+el área de influencia; es decir, son medidas que se hacen cargo de impactos residuales del proyecto
+sobre la biodiversidad en su conjunto. De este modo, las acciones y efectos de las compensaciones
+se materializan fuera del área de influencia de la biodiversidad impactada.
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.- Requisito de equivalencia: los elementos de la biodiversidad afectados deben ser compensados por
+elementos de similares características, clase, naturaleza, calidad y función.
+3.- Adicionalidad: debe demostrarse que la medida de compensación genera una ganancia de
+biodiversidad en contraste con un escenario sin compensación, y que esa ganancia no ocurriría
+naturalmente en ausencia de la medida de compensación.
+4.- Existencia de límites para la compensación: existen límites para lo que puede ser compensado, lo cual
+se determina a partir de la irremplazabilidad y vulnerabilidad de los elementos de la biodiversidad
+afectados.
+4.1 Metodología de 3 niveles de compensación biodiversidad
+La Guía de compensación indica que existen tres niveles para lograr la compensación de biodiversidad
+adecuada. Siguiendo el siguiente esquema y los pasos descritos a continuación.
+Figura 4-2. Resumen de metodología para medidas de compensación de biodiversidad
+Fuente: SEA, 2022
+4.1.1 Nivel 1. Mapas de relevancia del sitio
+El nivel 1 corresponde a la consideración y análisis de la relevancia del sitio, para lo cual se deben utilizar
+los mapas elaborados por la División de Recursos Naturales y Biodiversidad del Ministerio de Medio
+Ambiente (MMA) con este fin, y que actualmente se encuentran disponibles en el Geoportal del sitio web:
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+https://simbio.mma.gob.cl. Los mapas están basados en los pisos vegetacionales de Luebert & Pliscoff
+2017.
+Ubicar el área de influencia y el o los sitios de compensación en estos mapas y reconocer su relevancia
+constituye un primer acercamiento que permite tomar mejores decisiones, tanto respecto del
+emplazamiento del proyecto como del sitio donde implementar la medida de compensación.
+Los mapas de relevancia de sitio consideran un factor de multiplicación para la superficie a compensar,
+denominado como Multiplicador por Relevancia del Sitio (M1).
+Los valores más altos de relevancia del mapa para ecosistemas terrestres se encuentran distribuidos,
+principalmente, en la zona central de Chile, entre las regiones de Valparaíso y Los Lagos, coincidiendo con
+aquellas zonas en las cuales se encuentra el mayor reemplazo de los ecosistemas naturales y se concentra
+la mayor biodiversidad del país (Hotspot Chileno de Biodiversidad). También se identifican ecosistemas en
+categoría “Alto” o “Muy Alto” en la alta cordillera y en zonas específicas de la Patagonia (estepa y
+turberas), donde existe un mayor número de ecosistemas azonales.
+Tabla 4-1. Puntuación del parámetro relevancia del sitio
+Relevancia del Sitio Valor
+Muy baja 1,2
+Baja 2,4
+Media 3,6
+Alta 4,8
+Muy Alta 6
+Fuente: SEA, 2022
+4.1.2 Nivel 2. Matriz de componentes clave de biodiversidad
+El nivel 2 de aplicación de la metodología corresponde al uso de la herramienta “Matriz de componentes
+clave de biodiversidad” y, como su nombre lo indica, busca identificar y describir los “componentes claves
+de biodiversidad” tanto en el área de influencia como en el o los sitios de compensación.
+Son considerados “clave” todos aquellos componentes de biodiversidad que destacan como prioridades
+de preservación por los valores intrínsecos (ecológicos) y los servicios ecosistémicos que proveen. Por su
+parte, el valor intrínseco depende de la irreemplazabilidad y vulnerabilidad de sus componentes, lo cual
+facilita la definición de prioridades de preservación. Por ambos conceptos se entiende
+• Irreemplazabilidad: se refiere a la inexistencia de otras áreas similares que estén disponibles para
+la preservación cuando la biodiversidad (especies, comunidades y ecosistemas) del área de
+influencia se vea afectada o se pierda irreversiblemente. Si la biodiversidad se encuentra en
+muchos sitios (alta reemplazabilidad), existen muchas opciones para su preservación, mientras
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+que si la biodiversidad está restringida a uno o pocos sitios (alta irreemplazabilidad), no existen
+opciones (o existen opciones limitadas) para su preservación en otros lugares.
+• Vulnerabilidad: refleja la probabilidad de que un componente de la biodiversidad desaparezca (es
+decir, se extinga, en el caso de las especies, o colapse, para el caso de los ecosistemas y
+comunidades) en una escala de tiempo definida. El MMA ha validado una clasificación del estado
+de conservación de ecosistemas terrestres y realiza una clasificación oficial del estado de
+conservación de especies. A mayor probabilidad que un componente se extinga, en el caso de
+especies, o colapse, en el caso de ecosistemas, más alta es su vulnerabilidad. Es decir, especies o
+ecosistemas en condición de En Peligro Crítico son los más vulnerables.
+A través de las matrices se logra identificar lo siguiente:
+• Reconocer los componentes de biodiversidad considerados de alta prioridad de protección en el
+área de influencia y en el o los sitios donde se propone realizar las compensaciones. La alta
+prioridad de protección es dada tanto por sus valores intrínsecos como por sus servicios
+ecosistémicos.
+• Relevar determinados servicios ecosistémicos, permitiendo consignar aquellos servicios de
+provisión directa e indirecta identificados, tales como agua fresca, comida, fibra, leña, entre otros,
+así como los servicios culturales, aquellos beneficios no materiales que las personas obtienen de
+los elementos estéticos, recreacionales y espirituales de la biodiversidad.
+• Especificar los criterios de selección de los componentes clave de biodiversidad, que pueden ser,
+por ejemplo, la clasificación de amenaza de algunas especies, comunidades o ecosistemas que sean
+objeto de conservación del predio u otro criterio.
+• Seleccionar los componentes de biodiversidad que se usarán para calcular pérdidas y ganancias de
+biodiversidad a realizar en el nivel 3 de la metodología.
+• Facilitar la identificación de sitios con biodiversidad equivalente a la que será impactada
+negativamente por el proyecto.
+4.1.3 Nivel 3. Métrica de Cuantificación
+El principal objetivo del nivel 3, es cuantificar las pérdidas y ganancias en biodiversidad prediciendo tanto
+los impactos como las condiciones que se lograrán mediante las acciones diseñadas en la medida de
+compensación.
+Esta métrica debe aplicarse luego de la evaluación en el Mapa de Relevancia (nivel 1) y de la descripción
+de elementos de la Matriz de Componentes Clave de Biodiversidad (nivel 2), conformando estos 3 niveles
+de evaluación la metodología completa. La métrica corresponde a una combinación de parámetros
+descriptores de biodiversidad con rangos de valores, según condición, utilizados en una ecuación con el
+propósito de cuantificar el impacto residual en el área de influencia del ecosistema y las ganancias en
+biodiversidad en el o los sitios de compensación.
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El primer paso, para aplicar la métrica, consiste en evaluar la calidad de los parámetros considerados clave
+para que la biodiversidad se exprese. Estos parámetros se analizan a nivel de paisaje y de ecosistemas. A
+cada uno de estos parámetros se le incluye un valor según lo que indica la Guía de Compensación, que
+varían de cero a 10. Tal como se indica en la Tabla 4-2 y Tabla 4-3.
+Para los parámetros de localización y paisaje, se realiza un análisis de métricas de paisaje. El análisis de
+métricas de paisaje busca dar cuenta de las relaciones de tamaño, borde, forma y proximidad para
+describir en este caso posibles fenómenos de fragmentación (Bustamante y Grez, 19954). Las métricas
+seleccionadas para calcular la condición son las siguientes:
+• Numero de parches (N): Cuantifica el número de parches de ambientes naturales existentes en el
+área de influencia.
+• Tamaño del Parche (CA): Cuantifica el área de los parches de ambientes naturales existentes en el
+área de influencia, su unidad de medida es en hectáreas (ha).
+• Borde (TE): Corresponde a la cuantificación del perímetro en cada parche de ambiente naturales
+existente en el área de influencia. Su unidad de medida es en metros (m).
+• Relación Perímetro – Área (MPAR): Métrica que da cuenta de la complejidad de los parches.
+Corresponde a la suma de la relación perímetro/área de cada parche. Su unidad de medida es
+(metros/ha). Su expresión matemática es la siguiente:
+𝑛
+𝑝
+𝑖
+(𝑀𝑃𝐴𝑅)= ∑
+𝑎
+𝑖
+𝑖=1
+Donde 𝑎 corresponde al área de parche en estudio y 𝑝 a su perímetro.
+𝑖 𝑖
+• Índice de Forma (SI): Es una métrica que da cuenta de la complejidad de los parches de acuerdo
+con una figura geométrica específica, en este caso un círculo. El valor del índice varía entre 0 y ∞,
+aproximándose a 0 cuando los parches poseen formas compactas, y alargados cuando el valor del
+índice se aleja de 0. El índice corresponde a la suma del perímetro de cada parche dividido por la
+raíz cuadrada del área del parche (ha) de cada clase y ajustado para un estándar circular dividido
+por el número de parches. Su expresión matemática puede ser simplificada de la siguiente
+manera:
+perimetro
+(𝑆𝐼)=
+√(𝜋∗𝑎𝑟𝑒𝑎)
+• Dimensión Fractal (PFD): También es una métrica que da cuenta de la complejidad del parche a
+través de la relación linear entre el logaritmo del área y el logaritmo del perímetro en el rango
+completo de tamaños de parches pertenecientes a un mismo tipo (Pauchard et al, 2006). Si la
+4 Bustamante, R. y Grez, A. 1995. Consecuencias ecológicas de la fragmentación de los bosques nativos. Ciencia y Ambiente. 11(2):
+58-63
+13
+================================================================================
+PAGE 18
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+métrica se tiende a 1 corresponde a parches de formas simples (cuadrado o círculo) y tiende a 2
+cuando las formas son más complejas. Su expresión matemática es la siguiente:
+2ln𝑝
+𝑖
+(𝑃𝐷𝐹)=
+ln𝑎
+𝑖
+Donde 𝑝 es el perímetro del parche 𝑖 y 𝑎 es el área del parche 𝑖.
+𝑖 𝑖
+• Proximidad a vecino más cercano: Medida que mide la distancia más cercana a un polígono de las
+mismas condiciones. Su unidad de medida es en metros.
+• Índice de equidad de Shannon: Índice de equidad o de dominancia para paisaje. Relaciona para el
+índice de Shannon, el valor de diversidad del paisaje, con el valor obtenido para el número total
+de ecosistemas presentes. Su valor va de 0 a 1, de forma que 1 corresponde a situaciones donde
+todos los usos de suelo son igualmente abundantes y el 0 que hay dominancia de un solo tipo de
+uso de suelo.
+Las métricas de borde y forma son útiles en los estudios de fragmentación debido a que cuando existe más
+borde aumenta la superficie expuesta y disminuye el hábitat efectivo aumentando la fragmentación
+(Pauchard et al, 20065). Los índices de forma (SI y PAR), indican formas de parches alargadas y con más
+borde expuesto. Los índices de dimensión fractal (PFD) indican formas de parche más complejas
+(irregulares).
+Por otra parte, cuando un parche tiene una forma muy alargada y angosta, tiende a fragmentar, dando
+cuenta de la fragilidad que tienen estas formas para sostener un hábitat. Por el contrario, cuando los
+parches son más compactos no tienen grandes pérdidas en superficie ni producen fragmentaciones
+internas del parche, por lo tanto, su hábitat puede ser más estable y sostener por más tiempo las especies
+(Murcia, 19956; Pauchard et al., 2006).
+El aislamiento de un parche también puede producir fenómenos de fragmentación y pérdida de hábitat
+(Fahrig, 20037). Este fenómeno, también es difícil de estudiar, debido a la falta de estudios in-situ sobre
+fisiología, comportamiento de dispersión y distribución genética de la especie. Se puede simplificar el
+efecto, obteniendo la distancia más cercana entre fragmentos, permitiendo tener una noción del grado de
+dispersión de los parches en el área de influencia.
+Las métricas seleccionadas permiten cuantificar tamaños, bordes, formas y aislamiento de los parches en
+la condición basal (sin Proyecto) y luego la condición final (con Proyecto). Cabe mencionar que la condición
+final hace referencia a al impacto residual, es decir considerando la ejecución de las medidas de
+5 Pauchard, A. Aguayo, M. y Alaback P. 2006. Cuantificando la fragmentación del paisaje: las métricas y sus significados ecológicos.
+En: Biodiversidad en Ambientes Fragmentados de Chile: Patrones y Procesos a Diferentes Escalas. Grez A, Simonetti J, Bustamante
+R. (Eds). Editorial Universitaria. 228 pp
+6 Murcia, C. 1995. Edge effects in fragmented forests: implications for conservation. Trends in Ecology & Evolution, I 10, 58-62(2).
+7 Fahrig, L. 2003. Effects of Habitat Fragmentation On Biodiversity. Annual Review of Ecology, Evolution, and Systematics, 34, 487–
+515.
+14
+================================================================================
+PAGE 19
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+reparación. Los parches se consideraron a nivel de usos de suelo (suelo intervenido, afloramiento rocoso
+y matorral). Adicionalmente se indica que las métricas fueron estimadas a toda el área del Proyecto, sin
+considerar el sector de la tubería. Esto porque el área de influencia en este sector no está definida por lo
+limites naturales y además la obra se va aledaño a un camino construido y/o por ambientes intervenidos,
+por tanto, no genera nuevos parches de fragmentación.
+Los parámetros de composición, estado de la estructura y regeneración fueron considerados los datos de
+la línea de base del componente de flora y vegetación. Finalmente, el parámetro de ambientes de fauna
+fue considerado a criterio de especialista en biodiversidad
+Tabla 4-2. Puntuación de los parámetros que determinan la condición del paisaje
+A. Parámetros Puntuación de paisaje
+nivel de paisaje 0 4 7 10
+Baja diversidad de Media o baja Alta diversidad de
+Adecuada diversidad
+coberturas de suelo diversidad de coberturas de suelo
+de coberturas de
+en base a la coberturas de suelo en base a la
+suelo en base a la
+cartografía de en base a la cartografía de
+cartografía de
+vegetación. Índice de cartografía de vegetación. Índice
+Diversidad de vegetación. Índice de
+equidad o vegetación. Índice de de equidad o
+objetos en el equidad o dominancia
+dominancia fluctúa equidad o dominancia fluctúa
+paisaje fluctúa entre >0,25 y
+entre 0,75 y 1. dominancia fluctúa entre >0 y <0,25. No
+0,50. Existen mínimos
+Existen cambios entre >0,50 y < 0,75. existen cambios
+cambios positivos
+negativos respecto al Existen cambios respecto al pasado
+respecto al pasado (0-
+pasado (mayor al negativos respecto al o ellos son positivos
+10%).
+50%). pasado (10-50%). (entre 5 y 10 años).
+Las formaciones se Las clases presentan
+Las clases se
+encuentran un bajo grado de
+encuentran No existen cambios
+altamente fragmentación.
+Grado de fragmentadas. respecto al pasado
+fragmentadas. Existen mínimos
+fragmentación Existen cambios (entre 5 y 10 años).
+Existen cambios cambios positivos
+respecto al pasado Conectividad
+respecto al pasado respecto al pasado (0-
+(10-50%).
+(mayor al 50%). 10%).
+Existe una relación
+Existe una relación Existe la
+adecuada de área
+No existe no adecuada de área conectividad
+perímetro para la
+conectividad del perímetro para la adecuada del
+mayoría de las
+paisaje. Existen mayoría de las paisaje. No existen
+Conectividad especies listadas.
+cambios negativos especies listadas. cambios respecto al
+Existen mínimos
+respecto al pasado Existen cambios pasado o ellos son
+cambios positivos
+(mayor al 50%). negativos respecto al positivos (evaluados
+respecto al pasado (0-
+pasado (10-50%). entre 5 y 10 años).
+10%).
+Fuente: SEA, 2022
+15
+================================================================================
+PAGE 20
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 4-3. Puntuación de los parámetros a nivel de ecosistema terrestre
+Parámetros a Puntuación Ecosistema Terrestre
+nivel de
+Ecosistema 0 4 7 10
+Terrestre
+La estructura se
+La estructura se
+encuentra La estructura se La estructura se
+encuentra levemente
+severamente encuentra impactada encuentra en estado
+Estado de la impactada en
+impactada en en relación con su óptimo en relación
+estructura relación con su
+relación con su cobertura y con su cobertura y
+cobertura y
+cobertura y estratificación. estratificación.
+estratificación.
+estratificación.
+La composición se
+La composición se
+La composición se encuentra
+La composición se encuentra
+encuentra representada por
+encuentra representada
+representada por especies nativas,
+representada por principalmente por
+especies nativas y careciendo de la
+especies exóticas o especies nativas, con
+Composición mayoritariamente por presencia de
+invasoras. Riqueza mínima presencia de
+especies exóticas o especies exóticas o
+y abundancia de especies exóticas o
+invasoras. Baja riqueza invasoras. Riqueza y
+especies mínima invasoras. Adecuada
+y abundancia de abundancia de
+para el área. riqueza y abundancia
+especies para el área. especies en estado
+de especies.
+óptimo.
+No se presentan Se presentan algunos Se presentan los Se presentan todos
+Ambientes de ambientes de ambientes de fauna ambientes de fauna los ambientes de
+fauna fauna para las para las especies para la mayoría de fauna para las
+especies listadas. listadas. las especies listadas. especies listadas
+No existe
+Existe evidencia de Existe fuerte
+evidencia de Existe mínima
+regeneración evidencia de
+Regeneración y regeneración evidencia de
+cercana a lo normal y regeneración normal
+reclutamiento normal y regeneración normal y
+reclutamiento y reclutamiento
+reclutamiento reclutamiento natural.
+natural. natural.
+natural.
+Fuente: SEA, 2022
+De esta manera, tanto el área de influencia del proyecto considerando el impacto residual, como el sitio
+de compensación, se le estima un valor de delta condición. Para el caso del impacto residual o área de
+intervención la condición es en base a la pérdida de biodiversidad (condición final menos condición inicial,
+dando un valor negativo), mientras que para la ganancia neta de biodiversidad o área de la medida la
+condición es en base a la ganancia (condición final menos condición inicial, dando un valor positivo). Lo
+anterior en la siguiente métrica:
+16
+================================================================================
+PAGE 21
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-3. Condición de la biodiversidad
+Fuente: SEA, 2023
+Finalmente se aplica la métrica para calcular la pérdida de biodiversidad (impacto residual) y ganancia neta
+de biodiversidad (aportada por la medida). Para cumplir con los estándares de compensación apropiados,
+la ganancia neta de biodiversidad (GNB) debe superar la pérdida de biodiversidad del impacto residual
+(IR), en base a la siguiente métrica.
+Figura 4-4. Compensación apropiada
+Fuente: SEA, 2023
+Tanto el impacto residual como la ganancia neta se estiman en base a la superficie de
+afectación/compensación, la variación en la condición y la relevancia del sitio (nivel 1). Luego para la
+ganancia neta existen tres parámetros que condicionan la estimación de la real ganancia. Estos parámetros
+son:
+• Temporalidad: Tiempo requerido para obtener ganancias en el o los sitios de compensación. Para
+la métrica el valor varía entre 1 y 2.
+Tabla 4-4. Puntuación del parámetro de temporalidad
+Años entre impacto y compensación Valor
+≤ 7 años 1
+entre 7 y 9 1,2
+entre 9 y 11 1,4
+entre 11 y 13 1,6
+entre 13 y 15 1,8
+17
+================================================================================
+PAGE 22
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Años entre impacto y compensación Valor
+más de 15 2
+Fuente: SEA, 2023
+• Localización: Corresponde a una valoración que se obtiene según la proximidad del sitio de
+compensación al sector de intervención, considerando la siguiente valoración en este parámetro.
+Tabla 4-5. Puntuación del parámetro de Localización
+Sitios de compensación respecto del impacto Valor
+Mismo piso vegetacional o ecosistema del inventario de ecosistemas del
+1
+MMA
+Misma cuenca 1,5
+Cuenca limítrofe o vecina 2
+Distinta cuenca 3
+Fuente: SEA, 2023
+• Manejo: Nivel de protección de biodiversidad del sitio de compensación, recibe el valor 1 en caso
+de que el sitio de compensación cuente con una protección mediante un mecanismo formal que
+asegure el resguardo del patrimonio natural existente a perpetuidad. Mientras que recibe el
+número 3, cuando solo existe un contrato entre el propietario del sitio y quien ejecuta la medida.
+Tabla 4-6. Puntuación del parámetro de Manejo
+Tipo de Manejo Valor
+Protección del sitio mediante un mecanismo formal que
+asegure el resguardo del patrimonio natural existente a
+perpetuidad (Derecho Real de Conservación; o iniciativa 1
+privada de conservación con protección oficial del
+Estado)
+Medida Adicional con un contrato entre el propietario
+del sitio y quien ejecuta el proyecto de desarrollo por el 3
+tiempo de vida de ese proyecto
+Fuente: SEA, 2022
+5 IDENTIFICACIÓN DEL IMPACTO RESIDUAL
+5.1 Medida de Mitigación y Reparación
+En el caso del componente de flora se considera como impactos significativos la pérdida de 319 ejemplares
+de especies en categoría de conservación en grado de amenaza y casi amenazada, específicamente las
+especies Citronella mucronata, Asplenium trilobum, Gardoquia multiflora y Vestia foetida.
+18
+================================================================================
+PAGE 23
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En las medidas propuestas por el Proyecto se ha definido una medida de mitigación de rescate y
+relocalización de los 20 ejemplares de la especie Citronella mucronata que se verán afectados por el
+proyecto (mayor detalle de estas medidas en el Capítulo 7 del presente EIA).
+Por otra parte, debido a que las obras proyectadas son todas de carácter permanente, no se han diseñado
+medidas de reparación.
+Respecto a fauna vertebrada se identificó el impacto significativo de “Pérdida de ejemplares de fauna de
+interés y/o sensibles” para las siguientes especies, Eupsophus roseus (anfibio), Liolaemus schroederi
+(reptil) y Dromiciops gliroides (micromamífero), se aplica las medidas de mitigación Plan de Rescate y
+Relocalización y Plan de Perturbación Controlada.
+Respecto al impacto de “Pérdida y/o modificación de hábitat de especies de interés” resultó significativo
+para las especies Eupsophus roseus (Anfibio), Liolaemus schroederi (Reptil), Dromiciops gliroides
+(Micromamífero) Pudu puda (mesomamíferos), Puma concolor (mesomamíferos), Leopardus guigna
+(mesomamíferos). Las superficies con vegetación por intervenir por el proyecto son un total de 150, 17
+hectáreas, las cuales se distribuyen de la siguiente manera.
+Tabla 5-1. Hábitat de fauna a intervenir
+Ambientes de fauna Superficie (Ha)
+Bosque asilvestrado 29,65
+Herbazal 0,19
+Matorral 9,67
+Matorral arborescente 7,09
+Plantación (incluyendo cosecha forestal) 103,02
+Pradera 0,55
+Total 150,17
+Fuente: GAC
+Finalmente, el impacto significativo asociado a las especies de fauna invertebrada, Ceroglossus chilensis
+cyanicollis, Acanthogonathus pissi, Euathlus manicata, Phrixotrichus scrofa, Acanthinodera cumngii, se
+aplica las medidas de mitigación Plan de Rescate y Relocalización de fauna invetebrada.
+5.2 Estimación del Impacto Residual
+Identificada las medidas de mitigación y reparación, es necesario identificar el impacto residual en flora y
+vegetación que existe (entendiendo este como el que no pudo ser mitigado ni compensado). La medida
+de mitigación propuesta solo responde al impacto de pérdida de Citronella mucronata, por tanto, como
+impacto residual se considera la pérdida de Asplenium trilobum, Gardoquia multiflora y Vestia foetida
+(búsqueda y rescate de individuos antes de la intervención, 51 y 248 ejemplares, respectivamente).
+19
+================================================================================
+PAGE 24
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Respecto a la pérdida de hábitat para la fauna terrestre, resultó significativo para las especies Eupsophus
+roseus (Anfibio), Liolaemus schroederi (Reptil), Dromiciops gliroides (Micromamífero) Pudu puda
+(mesomamíferos), Puma concolor (mesomamíferos), Leopardus guigna (mesomamíferos). Si bien la
+superficie a intervenir por el Proyecto es 150,17 hectáreas, de estas 103,2 hectáreas corresponden a
+plantaciones forestales, la cual está sujeta a ciclos de tala rasa y, por tanto, existirá esa pérdida de hábitat
+en un futuro con o sin proyecto. Considerando lo anterior solo 47,15 hectáreas corresponden al impacto
+residual de pérdida de hábitat para la fauna.
+Es necesario realizar una medida de compensación que cumpla con el principio de pérdida neta cero, que
+es básicamente que la ganancia de diversidad a través de la medida sea a lo menos equivalente a la pérdida
+de biodiversidad, tal como indica la siguiente figura.
+Figura 5-1. Pérdida neta cero de Biodiversidad
+Fuente: SEA, 2022
+6 MEDIDAS DE COMPENSACIÓN
+La medida de compensación debe cumplir con un estándar de compensación de biodiversidad apropiada,
+considerando:
+• Requisito de equivalencia: Se refiere al objetivo fundamental de la compensación apropiada, que
+busca que los elementos de la biodiversidad afectados por un proyecto o actividad sean
+compensados en terreno por elementos de similares características, clase, naturaleza, calidad y
+función.
+20
+================================================================================
+PAGE 25
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Adicionalidad: Se refiere a la ganancia de biodiversidad que se obtiene en el escenario con
+compensación, en comparación al escenario sin compensación. Esto implica comprobar que la
+ganancia en biodiversidad producida por la medida de compensación no se habría producido en
+ausencia de la medida, así como verificar que la implementación de la medida de compensación
+no provoca impactos adversos, tales como el desplazamiento de actividades que generan pérdida
+de biodiversidad hacia otros sectores.
+Para cumplir con los dos conceptos anteriores se presentan 2 medidas de compensación, las cuales se
+resumen brevemente en:
+6.1 MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de
+Vestia foetida, Gardoquia multiflora y Asplenium trilobum
+Esta medida tiene por objetivo compensar pérdida de flora en categoría de conservación producto de la
+implementación de las partes, obras y acciones del proyecto. Las especies por considerar en esta medida
+corresponden a las que cuya pérdida resultó ser un impacto significativo. La medida buscar compensar la
+intervención de 3 especies en categoría de conservación (Vestia foetida, Gardoquia multiflora y Asplenium
+trilobum), replantando una cantidad diez veces mayor a la cortada a causa del desarrollo del Proyecto,
+contribuyendo al aumento en número de individuos de especies en categoría de conservación (ECC). Dada
+la particularidad de la reproducción, para el caso de Asplenium trilobum, y considerando el estado del arte
+de propagación de helechos nativos, se propone el rescate y relocalización de los individuos encontrados
+en la obra ZD Neptuno, considerando la extracción del rizoma lo más completo posible, junto con el
+sustrato que lo contenga. Su traslado se realizará en condiciones de frio y humedad relativa aptas para su
+sobrevivencia
+La plantación de las ECC se realizará en los sitios de enriquecimiento descrito para la medida,
+específicamente en el sector de una quebrada ubicada al noreste del área de influencia, las cuales
+pretenden proteger hábitat de las especies en categoría de conservación.
+6.2 MC-05 Protección de áreas aledañas al proyecto
+El objetivo de la medida es asegurar la existencia de parches de vegetación nativa y exótica, que en su
+conjunto y con una distribución espacial determinada, permitan la persistencia de las poblaciones de las
+especies objetivo. La medida se enfoca principalmente en las especies: Pudu puda (pudú), Galictis cuja
+(quique), Leopardus guigna (güiña), Puma concolor (puma), Lycalopex culpaeus (zorro culpeo). No
+obstante, se considera que la medida beneficiará a un conjunto mayor de especies al permitir la
+permanencia de hábitat para éstas. Esta medida se hará efectiva en 91,02 hectáreas y se distribuyen en
+diferentes ambientes como se indica en la siguiente tabla.
+21
+================================================================================
+PAGE 26
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 6-1. Hábitat de fauna a proteger a través de la medida de compensación
+Ambientes Superficie (ha)
+Bosque nativo de preservación 4,90
+Herbazal 4,21
+Matorral 2,95
+Matorral arborescente 1,68
+Plantación forestal 76,92
+Total superficie 90,66
+Fuente: GAC
+Figura 6-1. Ubicación de los sitios de compensación y las obras del Proyecto
+Fuente: GAC
+22
+================================================================================
+PAGE 27
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+6.3 Justificación de las medidas de compensación
+Desde un punto de vista de flora y vegetación, la justificación del conjunto de medidas refiere a compensar
+la superficie de formaciones de bosque nativo a ser intervenido y segmentado por el desarrollo del
+Proyecto, considerando tanto la alta fragmentación que presentan estas formaciones vegetacionales,
+debido principalmente al establecimiento de plantaciones forestales, como también, el bajo porcentaje
+de protección que presentan a nivel nacional. En dicha compensación se incluye también las especies en
+categoría de conservación cuya afectación corresponde a un impacto significativo.
+Adicionalmente se busca compensar la superficie de bosque nativo a ser intervenida por el Proyecto,
+considerando la gestión y conservación de manera voluntaria del patrimonio ambiental respectivo a las
+formaciones de BN y BNP actuales y futuras, ubicadas dentro del área de influencia del Proyecto, junto
+con aquellas especies en categoría de conservación pertenecientes a estas formaciones (Gomortega keule,
+Pitavia punctata y Citronella mucronata). Estas unidades vegetales, principalmente el BNP, se encuentran
+altamente fragmentados por la intervención histórica del sector (plantaciones forestales, industrias,
+incendios, entre otros), además, por el bajo porcentaje de protección que presentan a nivel local y
+regional, por eso su conservación resulta de vital importancia para asegurar su continuidad.
+Dentro de las ventajas de crear un área de conservación se tiene la protección de la naturaleza para las
+futuras generaciones, quedando gravado con la tierra, por lo que futuros propietarios deben cumplir con
+el acuerdo; protege los valores de conservación ante amenazas por cambio de uso suelo, formaliza la
+relación con la organización garante, que actúa como socio en la conservación; el propietario sigue siendo
+dueño del predio, entre otras.
+Adicionalmente, esta medida está en línea con el Plan de Recuperación, Conservación y Gestión del Queule
+(Gomortega keule), el cual ha sido promulgado por el Ministerio del Medio Ambiente (MMA), a través de
+la Resolución Exenta N° 1.367 del 9 de diciembre de 2020. Dentro del plan se consideran las siguientes
+líneas de acción que se condicen con la medida propuesta:
+• Fortalecimiento de la evaluación y protección de la especie en el SEIA
+• Diseño e implementación de un programa de restauración y protección del Queule
+• Aumento de áreas protegidas públicas o privadas e incorporación en regulaciones territoriales
+• Promoción y desarrollo de investigación para el monitoreo de la especie y sus hábitats
+Respecto a la medida de fauna, esta se sustenta en que aquellas plantaciones forestales poseedoras de
+determinadas características – como presencia de sotobosque – son capaces de constituirse en hábitat de
+especies de mamíferos nativos como Pudu puda, Leopardus guigna, Galictis cuja, entre otros (Simonetti
+et al 20138). Esta propuesta sigue la idea de diseñar políticas que promuevan prácticas amigables con la
+8 Simonetti, J., Grez, A. y Estades, C. 2013. Providing habitat for native mammals through understory enhancemente in forestry
+plantations. Cons Biol 27(5):1117-1121
+23
+================================================================================
+PAGE 28
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+biodiversidad en tierras productivas (Fisher et al 20089), en línea con las Metas Aichi señaladas por la
+Convención sobre Diversidad Biológica el año 2010.
+El uso que diversos grupos de vertebrados terrestres hacen de plantaciones forestales ha sido
+ampliamente documentado (Simonetti et al 2013, Estades et al 201210, Acosta-Jamett y Simonetti 200411,
+Estades 199912), y su persistencia en este hábitat dependería, entre otros factores, en la composición a
+escala de paisaje, por ejemplo, la distancia entre parches de hábitat, la existencia de corredores biológicos
+y ausencia de elementos que limiten la conectividad (e.g. Acuña y Estades, 201113).
+De esta manera, en base a la vasta literatura disponible sobre esta temática, se entiende que hay
+determinadas características clave para la existencia de un hábitat de buena calidad – a escala de paisaje
+– para las especies de bosque. Estas características se resumen según Arroyo-Rodríguez et al (2020)14, a
+grandes rasgos, en la mantención de ≥ 40% de cobertura de bosque, organizado en al menos un 10% en
+un gran parche y el 30% restante en diversos parches dispersos y corredores, además estar rodeados de
+una matriz antropogénica amigable con la biodiversidad.
+Es este marco teórico-práctico el que da justificación a esta medida, la que busca aproximarse a estos
+estándares para diseñar un paisaje que permita la persistencia de las especies objetivo en el área.
+Por otro lado, la presencia de las especies de meso y macromamíferos distribuidos a lo largo del área de
+influencia del Proyecto enfatiza la necesidad de incluir este enfoque a nivel de paisaje por sobre uno
+dirigido a sitios en particular.
+Resulta necesario precisar que el hábitat de fauna está dominado por plantaciones forestales, por tanto,
+es un hábitat que está sujeta a ciclos de tala rasa y que, dentro de un periodo de tiempo, existirá una
+pérdida de ese hábitat por la cosecha de la plantación forestal.
+Sumado a todo lo expuesto la presente medida le entrega continuidad a corredores biológicos presentes
+en el área de influencia, los que corresponden principalmente a quebradas de bosque nativo, parches de
+plantaciones forestales, cursos de agua o inundaciones presentes en el área.
+9 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J y Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+10 Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. En: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. Editorial Universitaria, Santiago; 2012. pp.
+77–98
+11 Acosta-Jamett y Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+12 Estades, C. 1999. Nidificación de aves en un rodal maduro de Pinus radiata. Bol Chil Ornit 6:35-38
+13 Acuña, P. y Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+14 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation. Ecology Letters
+23:1404-1420
+24
+================================================================================
+PAGE 29
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Finalmente es preciso mencionar que el sitio de la medida se encuentra contiguo a áreas de alto valor de
+conservación (AAVC). La existencia de dos áreas destinadas a la conservación y protección de ambientes
+permite tener una sinergia positiva en los objetivos planteados para cada área. La existencia de ambas
+áreas contribuye a la existencia de un corredor biológico para las especies de fauna que el Proyecto busca
+proteger. Lo anterior se ilustra en la siguiente figura.
+Figura 6-2. Ubicación de los sitios de compensación y las obras del Proyecto
+Fuente: GAC
+25
+================================================================================
+PAGE 30
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7 ESTIMACIÓN DE PÉRDIDA Y GANANCIA DE BIODIVERSIDAD
+7.1 Nivel 1. Determinación de la relevancia de acuerdo con los mapas de
+relevancia del sitio.
+El nivel 1 corresponde a la consideración y análisis de la relevancia del sitio, para lo cual se deben utilizar
+los mapas elaborados por la División de Recursos Naturales y Biodiversidad del MMA con este fin, y que
+actualmente se encuentran disponibles en el Geoportal del sitio web: https://simbio.mma.gob.cl. Los
+mapas están basados en los pisos vegetacionales de Luebert y Pliscoff 2017.
+La superficie de impacto residual, 47,15 hectáreas, se encuentra distribuida en dos pisos. Los pisos
+vegetacionales son “Bosque esclerófilo mediterráneo costero de Lithrea caustica - Azara integrifolia” y
+“Bosque caducifolio mediterráneo costero de Nothofagus obliqua - Gomortega keule”, ambos
+categorizados con una relevancia Muy alta según la clasificación de la MMA, es decir toma el valor de 6
+para la métrica de estimación de pérdida de biodiversidad.
+Por otra parte, las medidas compensación propuestas se encuentran ubicadas en los mismos pisos
+vegetacionales. Según lo mencionado anteriormente es posible aseverar que los sitios de compensación
+propuestos son idóneos a nivel de la matriz 1, ya que presenta las mismas relevancias.
+7.2 Nivel 2. Matriz de componentes clave de biodiversidad
+En este segundo nivel se identifican las características del ambiente y los componentes claves que se verán
+intervenidos y para los sitios de compensación. El análisis se realiza en base a la matriz propuesta en la
+Guía metodológica para la compensación de biodiversidad en ecosistemas terrestres y acuáticos
+continentales del SEA (2023).
+Las matrices se confeccionan a través de la información levantada en las líneas de base del área de
+influencia, así como también de los sitios de compensación. Los componentes claves están relacionado a
+los impactos significativos identificados para el área de del Proyecto.
+7.2.1 Matriz de componentes claves del área de influencia
+De acuerdo con los resultados de la evaluación de impactos del Proyecto (Capitulo 4 del presente EIA), el
+catálogo florístico, de origen nativo o endémico, que se verá afectado por la construcción del Proyecto es
+de 138 especies. Del total se registraron 14 especies en categoría de conservación, considerando los 19
+procesos de clasificación de especies.
+Del total de especies registradas, tres se encuentran grado de amenaza, correspondiente a Vestia foetida,
+Gomortega keule, Pitavia punctata en categoría En Peligro y Asplenium trilobum y Citronella mucronata
+26
+================================================================================
+PAGE 31
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+en categoría Vulnerable. Los 11 taxa restantes corresponden a especies no consideradas en grado de
+amenaza (Casi Amenazada y Preocupación Menor), correspondientes a Adiantum chilense, Aextoxicon
+punctatum, Asplenium dareoides, Blechnum chilense, Blechnum hastatum, Drimys winteri, Hypolepis
+poeppigii, Luma chequen y Persea lingue en Preocupación Menor y, Gardoquia multiflora y Polystichum
+subintegerrimum en categoría Casi Amenazada.
+Las especies Gomortega keule, Pitavia punctata no se verán afectadas por el Proyecto, por lo tanto, no se
+considerarán en la matriz de componentes claves. También se destaca la presencia de Lapageria rosea.
+Esta especie no se encuentra en categoría de conservación, pero si presenta una regulación especial
+asociada a la prohibición de comercialización y, además, corresponde a la flor nacional. No se registraron
+especies de distribución restringida, en límite de distribución y endémicas regionales. Por tanto, se
+reconoce un total de 15 especies como componente clave.
+En el caso de fauna silvestre, 40 han sido consideradas como especies de interés y/o sensibles. De estas,
+11 corresponden a especies de interés (dos anfibios, un reptil, dos aves y seis mamíferos) y 37 son especies
+sensibles (dos anfibios, seis reptiles, 18 aves y 11 mamíferos). A continuación, se detallan las especies que
+se incluyen dentro de estas categorías.
+Existen 11 especies de interés, es decir aquellas que están en categoría de conservación según la
+legislación nacional, cuatro de ellas presentan categoría de amenaza. A continuación, se indica el detalle
+de las especies de interés registradas para cada clase:
+• En el grupo de los anfibios, se encuentra E. roseus (rana rosácea de hojarasca), clasificada como
+“Vulnerable” según el sexto proceso del reglamento de clasificación de especies (D.S. Nº41/2011
+MMA); y P. thaul (sapito de cuatro ojos), clasificado como “Casi amenazada” según el sexto
+proceso del reglamento de clasificación de especies (D.S. Nº41/2011 MMA).
+• En el grupo de los reptiles, se encuentra L. schroderi (Lagartija de Schröeder), clasificada como
+“Vulnerable” según el décimo segundo proceso del reglamento de clasificación de especies (D.S.
+Nº16/2016 MMA.
+• Para las aves, está clasificada en esta categoría la especie L. jamaicensis (pidencito), siendo su
+categoría de conservación “Casi amenazada” según el décimo quinto proceso de clasificación (D.S.
+Nº23/2019 MMA); y S. rufipes (concón), clasificado como “Casi amenazada” según el duodécimo
+proceso de clasificación de especies (D.S. Nº16/2016 MMA).
+• En el grupo de los mamíferos, se encuentra D. gliroides (monito del monte), especie catalogada
+como “Datos insuficientes” según el séptimo proceso de clasificación de especies (D.S. Nº42/2011
+MMA); H. magellanicus (murciélago orejudo del sur), especie catalogada como “Datos
+insuficientes” según el décimo tercer proceso de clasificación de especies (D.S. Nº06/2017 MMA);
+L. cinereus (murciélago ceniciento), especie catalogada como “Datos insuficientes” según el
+duodécimo proceso de clasificación de especies (D.S. Nº16/2016 MMA); P. puda (pudú), especie
+catalogada como “Vulnerable” según el primer proceso de clasificación de especies (D.S.
+Nº151/2007 MINSEGPRES); P. concolor (puma), especie catalogada como “Casi amenazada” según
+27
+================================================================================
+PAGE 32
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+el séptimo proceso de clasificación de especies (D.S. Nº42/2011 MMA). La especie Leopardus
+guigna ha sido incluida de acuerdo con los resultados del estudio complementario de mamíferos
+y es considerada de interés al ser catalogada como Vulnerable (D.S. N°42/2011 MMA) de acuerdo
+con el RCE.
+Por otro lado, se registraron 37 especies sensibles, que corresponden a aquellas que, pudiendo ser o no
+de interés, pueden verse afectadas debido a la relación existente entre el tipo de Proyecto y sus
+características específicas de construcción y operación. A continuación, se indica el detalle de las especies
+sensibles registradas para cada clase:
+• En relación con los anfibios, se encuentra rana rosácea de hojarasca (E. roseus) y el sapito de
+cuatro ojos (P. thaul). Este grupo es sensible debido a que son especialistas de hábitat y de baja
+movilidad, lo que se resume en una baja capacidad efectiva de escape natural ante perturbaciones
+en sus hábitats.
+• En el grupo de los reptiles se consideran todas las especies registradas (L. chiliensis, L. cyanogaster,
+L. lemniscatus, L. pictus, L. schroederi, L. tenuis), debido a su baja movilidad y por lo tanto una baja
+capacidad efectiva de escape natural ante perturbaciones en sus hábitats.
+• Se incluyeron como sensibles en el grupo de las aves a las especies que se consideran especies de
+mediana a gran envergadura debido al riesgo de colisión y principalmente electrocución con la
+línea de media tensión considerada dentro de las obras del Proyecto. Se encuentran en esta
+categoría: A. bicolor, C. plancus, C. aura, C. pitius, C. atratus, G. polyosoma, G. nana, L.
+dominicanus, M. chimango, P. unicinctus, P. araucana, S. rufipes, S. longirostris, T. melanopis, T.
+alba, V. chilensis, V. lignarius, Z. auriculata.
+• El grupo de los mamíferos, se consideran cinco micromamíferos, ratón de pelo largo (A. longipilis),
+ratón oliváceo (A. olivaceus), monito del monte (D. gliroides), ratón de cola larga (O.
+longicaudatus) y ratón orejudo de Darwin (P. darwini), debido a su baja movilidad y por lo tanto
+una baja capacidad efectiva de escape natural ante perturbaciones en sus hábitats. Con respecto
+a los meso y macro mamíferos, quique (G. cuja), zorro culpeo (L. culpaeus), pudu (P. puda) y puma
+(P. concolor), estos son considerados como especies potencialmente susceptibles atropellos. Y por
+último el murciélago colorado (L. varius), por ser considerado como especialista de hábitat de
+zonas boscosas, se podría ver afectado por alteración de su hábitat. También se considera la
+especie L. guigna registrada en el estudio complementario de mamíferos con cámaras trampa
+(Anexo 3B-36).
+Desde un punto de vista de comunidades de vegetación se indica que, en general el área de influencia está
+la presencia de plantaciones forestales, matorrales, bosques asilvestrados, bosque nativo y bosque nativo
+de preservación. De estas el bosque nativo y bosque nativo de preservación resultan ser una comunidad
+relevante debido a que es vegetación que se encuentra susceptible al cambio climático y que registran
+presencia de especies en categoría de conservación. Sin embargo, estos no serán intervenidos, por esta
+razón es posible aseverar que la comunidad se encuentra altamente intervenido.
+28
+================================================================================
+PAGE 33
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Desde un punto de fauna, todas las comunidades vegetacionales, corresponden a hábitat de las especies
+singulares, por tanto, todas se consideran dentro de los componentes claves.
+Finalmente, a nivel de ecosistema, es posible aseverar que se encuentra totalmente degradado si se
+compara con la descripción de los pisos vegetacionales. El área de influencia se condice solo en los sectores
+donde hay presencia de quebradas con bosque nativo y el resto de los ambientes se encuentran
+totalmente degradados ya que están dominados por especies exóticas y hay existencia de plantaciones
+forestales.
+29
+================================================================================
+PAGE 34
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-1. Matriz de componentes claves área de intervención
+Valores intrínsecos Servicio ecosistémico
+Valores de Justificación del
+provisión (Sí o Valores servicio
+Vulnerabilidad Irremplazabilidad
+Componentes de biodiversidad No, justificando culturales ecosistémico
+si es Sí) seleccionado
+Global Nacional Endémica Distribución Amplia
+(UICN) (MMA, SAG) del sitio restringida distribución
+Flora Adiantum chilense -LC LC - - x No No
+Flora Aextoxicon punctatum - LC LC - - x No No
+Flora Asplenium dareoides - LC LC - - x No No
+Flora Asplenium trilobum -VU VU - - x No No
+Flora Blechnum chilense - LC LC - - x No No
+Flora Blechnum hastatum - LC LC - - x No No
+Flora Citronella mucronata -VU VU - - x No No
+Flora Drimys winteri - LC LC - - x No No
+Flora Gardoquia multiflora -NT NT - - x No No
+Flora Hypolepis poeppigii - LC LC - - x No No
+Flora Luma chequen - LC LC - - x No No
+Flora Persea lingue - LC LC - - x No No
+Flora Polystichum subintegerrimum - NT NT - - x No No
+Flora Vestia foetida - EN - - x No No
+Flora Lapageria rosea - - - - x No No
+Fauna Eupsophus roseus LC VU - - x Sí No E
+Fauna Pleurodema thaul LC NT - - x Sí No B-E
+Fauna Liolaemus chiliensis LC LC - - x Sí No E
+Fauna Liolaemus cyanogaster LC LC - - x Sí No E
+Fauna Liolaemus lemniscatus LC LC - - x Sí No E
+Fauna Liolaemus pictus LC LC - - x Sí No E
+Fauna Liolaemus schroederi LC VU - - x Sí No E
+Fauna Liolaemus tenuis LC LC - - x Sí No E
+30
+================================================================================
+PAGE 35
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Valores intrínsecos Servicio ecosistémico
+Valores de Justificación del
+provisión (Sí o Valores servicio
+Vulnerabilidad Irremplazabilidad
+Componentes de biodiversidad No, justificando culturales ecosistémico
+si es Sí) seleccionado
+Global Nacional Endémica Distribución Amplia
+(UICN) (MMA, SAG) del sitio restringida distribución
+Fauna Bubo magellanicus LC - - - x Sí No B-E
+Fauna Caracara plancus LC - - - x No No -
+Fauna Cathartes aura LC - - - x Sí No B
+Fauna Colaptes pitius LC - - - x Sí No B
+Fauna Coragyps atratus LC - - - x Sí No B
+Fauna Geranoaetus polyosoma LC - - - x Sí No B-E
+Fauna Glaucidium nana LC - - - x Sí No B-E
+Fauna Larus dominicanus LC - - - x No No
+Fauna Laterallus jamaicensis EN NT - - x Sí No B
+Fauna Milvago chimango LC - - - x Sí No B-E
+Fauna Parabuteo unicinctus LC - - - x Sí No B-E
+Fauna Patagioenas araucana LC LC - - x No No -
+Fauna Strix rufipes LC NT - - x Sí No B-E
+Fauna Systellura longirostris LC - - - x Sí No B-E
+Fauna Theristicus melanopis LC LC - - x Sí No B
+Fauna Tyto alba LC - - - x Sí No B-E
+Fauna Vanellus chilensis LC - - - x Sí No B-E
+Fauna Veniliornis lignarius LC - - - x Sí No B
+Fauna Zenaida auriculata LC - - - x No No -
+Fauna Abrothrix longipilis LC LC - - x No No -
+Fauna Abrothrix olivaceus LC - - - x Sí No E
+Fauna Dromiciops gliroides NT NT - - x Sí No B
+Fauna Galictis cuja LC LC - - x Sí No B-E
+Fauna Histiotus magellanicus LC DD - - x No No -
+Fauna Lasiurus cinereus LC DD - - x Sí No B
+31
+================================================================================
+PAGE 36
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Valores intrínsecos Servicio ecosistémico
+Valores de Justificación del
+provisión (Sí o Valores servicio
+Vulnerabilidad Irremplazabilidad
+Componentes de biodiversidad No, justificando culturales ecosistémico
+si es Sí) seleccionado
+Global Nacional Endémica Distribución Amplia
+(UICN) (MMA, SAG) del sitio restringida distribución
+Fauna Lasiurus varius LC LC - - x Sí No B
+Fauna Leopardus guigna VU VU - - x Sí No B-E
+Fauna Lycalopex culpaeus LC LC - - x Sí No E
+Fauna Oligoryzomys longicaudatus LC - - - x Sí No E
+Fauna Phyllotis darwini LC - x - x Sí No E
+Fauna Pudu puda NT VU - - x No No -
+Fauna Puma concolor LC NT - - x Sí No E
+Comunidad 1 Herbazal - - - - x No No
+Comunidad 2 Plantación forestal - - - - x No No
+Comunidad 3 Matorral - - - - x No No
+Bosque asilvestrado de especies
+Comunidad 4 - - - - x No No
+exóticas
+Comunidad 5 Matorral arborescente - - - - x No No
+Bosque esclerófilo mediterráneo
+Ecosistema 1 costero de Lithrea caustica - Azara CR - - - x No No
+integrifolia
+Bosque caducifolio mediterráneo
+Ecosistema 2 costero de Nothofagus obliqua - CR - - - x No No
+Gomortega keule
+Categorías= CR: En peligro crítico, EN: En peligro, VU: Vulnerable, DD: Datos insuficientes, NT: Casi amenazado, LC: Preocupación menor. Criterios=B: especie catalogada como
+beneficiosa para la actividad silvoagropecuaria, E: especie catalogada como benéfica para la mantención del equilibrio de los ecosistemas naturales (Ley N° 19.473/1996 y D.S. N°
+5/1998)
+Fuente: GAC
+32
+================================================================================
+PAGE 37
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.2.2 Matriz de componentes claves de las áreas de compensación
+Considerando los 19 procesos de RCE vigentes, se registraron 13 taxa bajo categoría de conservación en
+el sitio de compensación del Proyecto. Del total de especies registradas, cuatro se encuentran en grado de
+amenaza, correspondiente a Gomortega keule, Pitavia punctata y Vestia foetida en categoría En Peligro y
+Citronella mucronata en categoría Vulnerable. Los 9 taxa restantes corresponden a especies no
+consideradas en amenaza15 (Casi Amenazada y Preocupación Menor) según los criterios de la UICN 3.116,
+corresponden a Luma chequen, Adiantum chilense, Aextoxicon punctatum, Blechnum chilense, Blechnum
+hastatum, Hypolepis poeppigii, Lophosoria quadripinnata y Persea lingue en Preocupación Menor y
+Polystichum subintegerrimum en categoría Casi Amenazada.
+La medida de compensación para el componente de flora y vegetación está considerando incorporar
+Asplenium trilobum, Vestia foetida y Gardoquia multiflora. Si bien solo fue registrada la Vestia foetida en
+el sitio de compensación, las otras dos especies están presentes en zonas de quebradas del área de
+influencia del Proyecto en formaciones similares a la que será protegida y enriquecida en la medida. De
+esta manera, a través de la medida de compensación se logrará proteger la misma cantidad de especies
+en categoría que las existente en el área de influencia del Proyecto.
+También se destaca la presencia de Lapageria rosea. Esta especie no se encuentra en categoría de
+conservación, pero si presenta una regulación especial asociada a la prohibición de comercialización y,
+además, corresponde a la flor nacional.
+Desde un punto de vista de fauna, se indica que los ambientes registrados durante las campañas de línea
+base del componente fauna silvestre, se encuentran presentes en su totalidad en el sitio de compensación.
+Lo anterior permite inferir que el área de compensación es representativa de los hábitats de las especies
+de fauna consideradas de interés y o sensibles y por ende ofrece las características necesarias para el
+establecimiento de estas.
+Específicamente se registraron un total de 12 especies de interés y/o sensibles en el sitio de compensación.
+De estas, cuatro corresponden a especies de interés (un reptil y tres mamíferos) y 12 son especies
+sensibles: un (1) reptil, siete (7) aves y cuatro (4) mamíferos. A continuación, se detallan las especies que
+se incluyen dentro de estas categorías:
+15 La Unión Internacional para la Conservación de la Naturaleza (UICN), clasifica a estas especies en tres diferentes categorías en
+su Lista roja de especies amenazadas: Especies vulnerables (VU), En peligro de extinción (EN) y En peligro crítico de extinción (CR),
+dependiendo del riesgo de extinción al que se encuentren sometidas.
+16 UICN 3.1 corresponde a la versión 3.1. La primera edición de las Categorías y Criterios de la Lista Roja de la UICN: Versión 3.1
+fue publicada en 2001, tras su adopción formal por el Consejo de la UICN en febrero de 2000. Desde entonces ha sido usada como
+el estándar para las evaluaciones globales de la Lista Roja publicadas en la Lista Roja de Especies Amenazadas de la UICN™.
+También ha sido utilizada junto con las Directrices para el uso de los Criterios de la Lista Roja de la UICN a nivel regional y nacional
+(UICN 2003, 2012) por muchos países del mundo como el sistema estándar para las evaluaciones nacionales de la Lista Roja.
+33
+================================================================================
+PAGE 38
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Se registraron cuatro (4) especies de interés, es decir, aquellas que están en categoría de conservación
+según la legislación nacional, considerándose en categoría de amenaza incluyendo aquellas casi
+amenazadas. A continuación, se indica el detalle de las especies de interés registradas para cada clase:
+• En el grupo de los reptiles, se encuentra L. schroderi (Lagartija de Schröeder), clasificada como
+“Vulnerable” según el décimo segundo proceso del reglamento de clasificación de especies (D.S.
+Nº16/2016 MMA.
+• En el grupo de los mamíferos, se encuentra P. puda (pudú), especie catalogada como “Vulnerable”
+según el primer proceso de clasificación de especies (D.S. Nº151/2007 MINSEGPRES). En el caso
+de la güiña (L. guigna) y monito del monte (D. gliroides) se encuentran en el estado de
+conservación Vulnreable y Casi amenazada de acuerdo con el 7° proceso de clasificación de
+especies (D.S: N°42/2011 del MMA).
+Por otro lado, se registraron 12 especies sensibles, que corresponden a aquellas que, pudiendo ser o no
+de interés, pueden verse afectadas debido a la relación existente entre el tipo de Proyecto y sus
+características específicas de construcción y operación. A continuación, se indica el detalle de las especies
+sensibles registradas para cada clase:
+• En el grupo de los reptiles la especie L. schroederi, debido a su baja movilidad y, por lo tanto, una
+baja capacidad de escape natural ante actividades de intervención en sus hábitats.
+• Se incluyeron como sensibles en el grupo de las aves a las especies que se consideran especies de
+mediana a gran envergadura debido al riesgo de colisión y principalmente electrocución con la
+línea de media tensión considerada dentro de las obras del Proyecto. Se encuentran en esta
+categoría: C. aura, C. atratus, G. nana, G polyosoma, L. dominicanus, P. araucana y V. lignarius.
+• El grupo de los mamíferos, se consideran dos micromamíferos, el ratón oliváceo (A. olivaceus) y
+monito del monte (D. gliroides), debido a su baja movilidad y, por lo tanto, una baja capacidad
+efectiva de escape natural ante perturbaciones en sus hábitats. Con respecto a mesomamíferos,
+pudú (P. puda) y güiña (L. guigna) son consideradas especies potencialmente susceptibles a
+atropellos.
+Si bien las especies de interés son menores en el sitio de compensación, respecto al área de influencia, la
+totalidad de las especies registradas en el sitio de compensación se encuentran en el área de influencia,
+siendo esto un buen indicador, debido a que se protegerá ambientes similares.
+Respecto a las comunidades de vegetación, tanto la medida de creación de un área de conservación de
+flora y vegetación, como la medida de Protección de áreas aledañas al Proyecto como hábitat de fauna,
+abarcan superficies de todos los ambientes existentes en los sectores que serán intervenidos que tengan
+relevancia para los componentes en biodiversidad, específicamente plantaciones forestales, matorrales,
+herbazal y bosque nativo.
+34
+================================================================================
+PAGE 39
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Finalmente, a nivel de ecosistema, es posible aseverar que los sectores que se encuentran más cercanos
+a la naturalidad y a lo descripto en los pisos vegetacionales, serán protegidos a través de la medida de
+creación de un área de conservación. Igualmente se protegerá un ecosistema de plantaciones forestales,
+las que si no fuera por este proyecto serían cosechadas de aquí a 20 años aproximadamente, permitiendo
+así la existencia de hábitat de fauna a perpetuidad. Tal como fue señalado anteriormente, los sitios de
+compensación se ubican en los mismos pisos vegetacionales donde se hará efectiva la corta.
+35
+================================================================================
+PAGE 40
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-2. Matriz de componentes claves del sitio de compensación
+Valores intrínsecos Servicio ecosistémico
+Valores de provisión Justificación del servicio
+Valores
+Vulnerabilidad Irremplazabilidad (Sí o No, justificando ecosistémico
+Componentes de biodiversidad culturales
+si es Sí) seleccionado
+Global Nacional Endémica Distribución Amplia
+(UICN) (MMA, SAG) del sitio restringida distribución
+Flora Adiantum chilense LC LC - - x No No
+Flora Aextoxicon punctatum LC LC - - x No No
+Flora Blechnum chilense LC LC - - x No No
+Flora Blechnum hastatum LC LC - - x No No
+Flora Citronella mucronata VU VU - - x No No
+Flora Hypolepis poeppigii LC LC - - x No No
+Flora Lophosoria quadripinnata LC LC - - x No No
+Flora Luma chequen LC LC - - x No No
+Flora Persea lingue LC LC - - x No No
+Flora Polystichum subintegerrimum NT NT - - x No No
+Flora Vestia foetida - EN - - x No No
+Flora Gomortega keule EN EN - - x No No
+Flora Pitavia punctata EN EN - - x No No
+Flora Lapageria rosea - - - - x No No
+Fauna Liolaemus schroederi LC VU - - x Sí No E
+Fauna Cathartes aura LC - - - x Sí No B
+Fauna Coragyps atratus LC - - - x Sí No B
+Fauna Geranoaetus polyosoma LC - - - x Sí No B-E
+Fauna Glaucidium nana LC - - - x Sí No B-E
+Fauna Larus dominicanus LC - - - x No No
+Fauna Patagioenas araucana LC LC - - x No No -
+Fauna Veniliornis lignarius LC - - - x Sí No B
+Fauna Abrothrix olivaceus LC - - - x Sí No E
+Fauna Dromiciops gliroides NT NT - - x Sí No B
+36
+================================================================================
+PAGE 41
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Valores intrínsecos Servicio ecosistémico
+Valores de provisión Justificación del servicio
+Valores
+Vulnerabilidad Irremplazabilidad (Sí o No, justificando ecosistémico
+Componentes de biodiversidad culturales
+si es Sí) seleccionado
+Global Nacional Endémica Distribución Amplia
+(UICN) (MMA, SAG) del sitio restringida distribución
+Fauna Leopardus guigna VU VU - - x Sí No B-E
+Fauna Pudu puda NT VU - - x No No -
+Comunidad 1 Bosque nativo - - - - x No No
+Comunidad 2 Plantación forestal - - - - x No No
+Comunidad 3 Matorral - - - - x No No
+Comunidad 4 Herbazal - - - - x No No
+Bosque esclerófilo
+mediterráneo costero de
+Ecosistema 1 CR - - - x No No
+Lithrea caustica - Azara
+integrifolia
+Bosque caducifolio
+mediterráneo costero de
+Ecosistema 2 CR - - - x No No
+Nothofagus obliqua -
+Gomortega keule
+Fuente: GAC
+37
+================================================================================
+PAGE 42
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.3 Nivel 3. Métrica de Cuantificación
+En este nivel se aplica una métrica para calcular la pérdida de biodiversidad (impacto residual) y ganancia
+neta de biodiversidad (aportada por la medida). Para cumplir con los estándares de compensación
+apropiados, la ganancia neta de biodiversidad (GNB) debe superar la pérdida de biodiversidad del impacto
+residual (IR), en base a la siguiente métrica.
+Figura 7-1. Compensación apropiada
+Fuente: SEA, 2022
+El impacto residual se estima para los dos sectores impactados, mientras que la ganancia neta se calcula
+para la sumatoria de las acciones de las dos medidas propuestas. Los valores de cada una de las variables
+se obtienen considerando los siguientes parámetros.
+7.3.1 Relevancia del sitio impactado respecto al área de influencia y de los sitios de
+compensación
+El impacto residual identificado anteriormente se encuentra distribuidos en los pisos vegetacionales
+“Bosque esclerófilo mediterráneo costero de Lithrea caustica - Azara integrifolia” y “Bosque caducifolio
+mediterráneo costero de Nothofagus obliqua - Gomortega keule”.
+Por otra parte, las medidas de compensación también se encuentran distribuidas en los mismos pisos
+vegetacionales. Ambos pisos se encuentran clasificados con una relevancia muy alta según la clasificación
+de la MMA, es decir toma el valor de 6 para la métrica de estimación de pérdida de biodiversidad.
+Cabe señalar que en el caso del área a intervenir y tal como ha abordado previamente, una parte
+importante de la misma se encuentra actualmente intervenida, carente de vegetación nativa y en
+particular con plantaciones forestales (monocultivo), por lo cual, sin perjuicio que la relevancia considera
+el piso vegetacional que de forma natural se espera hubiese en el área, en rigor la condición actual del
+área sugeriría que la relevancia del sitio impactado fuese menor.
+38
+================================================================================
+PAGE 43
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.3.2 Temporalidad
+La medida de compensación enriquecimiento de ECC tiene un periodo de tiempo de seguimiento de 8
+años, en donde se espera que las especies estén establecidas y vivas. Considerando un margen
+conservador para esta métrica se considerará el rango de 9-11 años, es decir un valor de 1,4.
+Para el caso de la medida de fauna, protección de áreas aledañas al Proyecto, este no tiene un periodo de
+tiempo de ejecución de la medida, debido a que la vegetación y el hábitat se encuentra en pie. Por lo tanto,
+el valor es el menor dentro de lo indicado en metodología. Sin perjuicio a lo anterior y considerando un
+valor conservador, se mantiene el 1,4 para este parámetro.
+7.3.3 Localización
+Tanto el impacto residual de biodiversidad como las superficies de compensación se encuentran presente
+en la misma subcuenca de la DGA (Subcuenca Río Andalien). Por tanto, se obtiene el valor 1 para este
+parámetro.
+7.3.4 Manejo
+Respecto a la formalización del sitio de protección, en caso de obtener una Resolución de Calificación
+Ambiental (RCA) favorable del EIA, el Titular inscribirá la superficie de esta medida como un área de
+protección privada. Por tanto, se obtiene el valor 1 para este parámetro.
+7.3.5 Condición
+La estimación de cada uno de estos parámetros se hace a juicio de especialista de biodiversidad,
+considerando la información recabada en las campañas de línea de base ejecutadas en el marco del Estudio
+de Impacto Ambiental. El detalle de los resultados de la métrica en el Apéndice 7-1.1.
+7.3.5.1 Condición para el Área de Influencia
+Para los parámetros de localización y paisaje, se realiza un análisis de métricas de paisaje. El análisis de
+métricas de paisaje busca dar cuenta de las relaciones de tamaño, borde, forma y proximidad para
+describir en este caso posibles fenómenos de fragmentación (Bustamante y Grez, 1995). Las métricas
+seleccionadas para calcular la condición son las siguientes:
+• Numero de parches (N): Cuantifica el número de parches con vegetación existentes en el área de
+influencia.
+• Tamaño del Parche (CA): Cuantifica el área de los parches con vegetación existentes en el área de
+influencia, su unidad de medida es en hectáreas (ha).
+• Borde (TE): Corresponde a la cuantificación del perímetro en cada parche con vegetación existente
+en el área de influencia. Su unidad de medida es en metros (m).
+39
+================================================================================
+PAGE 44
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Relación Perímetro – Área (MPAR): Métrica que da cuenta de la complejidad de los parches.
+Corresponde a la suma de la relación perímetro/área de cada parche. Su unidad de medida es
+(metros/ha). Su expresión matemática es la siguiente:
+• Índice de Forma (SI): Es una métrica que da cuenta de la complejidad de los parches de acuerdo
+con una figura geométrica específica, en este caso un círculo. El valor del índice varía entre 0 y ∞,
+aproximándose a 0 cuando los parches poseen formas compactas, y alargados cuando el valor del
+índice se aleja de 0. El índice corresponde a la suma del perímetro de cada parche dividido por la
+raíz cuadrada del área del parche (ha) de cada clase y ajustado para un estándar circular dividido
+por el número de parches.
+• Dimensión Fractal (PFD): También es una métrica que da cuenta de la complejidad del parche a
+través de la relación linear entre el logaritmo del área y el logaritmo del perímetro en el rango
+completo de tamaños de parches pertenecientes a un mismo tipo (Pauchard et al, 2006). Si la
+métrica se tiende a 1 corresponde a parches de formas simples (cuadrado o círculo) y tiende a 2
+cuando las formas son más complejas.
+• Proximidad a vecino más cercano: Medida que mide la distancia más cercana a un polígono de las
+mismas condiciones. Su unidad de medida es en metros.
+• Índice de equidad de Shannon: Índice de equidad o de dominancia para paisaje. Relaciona para el
+índice de Shannon, el valor de diversidad del paisaje, con el valor obtenido para el número total
+de ecosistemas presentes. Su valor va de 0 a 1, de forma que 1 corresponde a situaciones donde
+todos los usos de suelo son igualmente abundantes y el 0 que hay dominancia de un solo tipo de
+uso de suelo.
+Tabla 7-3. Métricas de paisaje para el área de influencia antes del Proyecto
+Métricas Media Min Max Desviación Estándar
+Tamaño Parche (ha) 1,71 0,02 23,88 2,43
+Borde (m) 801,04 65,00 4794,00 690,39
+Relación Perímetro Área - PAR (m/ha) 782,640 166,332 3750,000 459,993
+Índice de Forma - SI 3,74 2,16 8,69 1,12
+Dimensión Fractal - PFD 1,41 1,26 1,63 0,06
+Proximidad a vecino más cercano (m) 0,21 0,00 7,92 0,79
+N (parches con vegetación/ parches totales) 351 - - -
+Fuente: GAC
+Tabla 7-4. Métricas de paisaje para el área de influencia después del Proyecto
+Métricas Media Min Max Desviación Estándar
+Tamaño Parche (ha) 1,25 0,002 20,53 2,07
+Borde (m) 611,20 33,49 3812,98 571,19
+Relación Perímetro Área - PAR (m/ha) 1373,36 198,154 17749,959 1865,238
+Índice de Forma - SI 3,57 2,18 7,40 0,98
+Dimensión Fractal - PFD 1,45 1,27 2,39 0,13
+Proximidad a vecino más cercano (m) 0,36 0,36 0,36 0,36
+N (polígonos de ambientes con vegetación) 359
+40
+================================================================================
+PAGE 45
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: GAC
+Para los parámetros de Ecosistema Terrestre se utilizaron los datos obtenidos en la caracterización de línea
+de base del componente de Flora y Vegetación y del componente de Fauna (Capítulo 3 “Línea Base”
+Sección B).
+Tabla 7-5. Parámetros para el área de influencia
+Parámetros
+Puntuación Puntuación
+Localización y Justificación Justificación
+inicial Final
+Paisaje
+351 parches, de los cuales 85
+359 parches, de los cuales 91 son
+de ambientes naturales y 266
+ambientes naturales y 268 son de
+de ambientes intervenidos
+ambientes intervenidos
+(principalmente plantaciones
+(principalmente plantaciones
+Diversidad de forestales). El índice de
+forestales). El índice de equidad de
+objetos en el 4 equidad de dominancia da un 4
+dominancia da un valor de 0,22 lo
+paisaje valor de 0,21 lo que un
+que un indicador abundancia de
+indicador abundancia de
+ambientes intervenidos. Debido a
+ambientes intervenidos, Por
+que el parámetro se mantiene, es
+tanto, esta variable toma el
+criterio toma el valor 4.
+valor 4.
+El tamaño de los parches en
+promedio es bastante
+pequeño en comparación con
+El tamaño de los parches en
+la superficie total, ya que el
+promedio disminuye de 1,71 ha a
+promedio es menor al 1% de
+1,25 ha, la desviación estándar es
+superficie total y la desviación
+mayor al promedio. Lo anterior es un
+estándar es mayor al
+indicador que debido al proyecto los
+promedio, pero menor a dos
+parches de vegetación disminuyen
+Grado de veces promedio. Lo anterior es
+4 1 su tamaño (más grande 20,53 ha) y
+fragmentación un indicador que hay parches
+hay otros bastante pequeños en
+medianos (más grande 23,88
+comparación (0,002 ha). Esto es un
+ha) y hay otros bastante
+indicador que la fragmentación será
+pequeños en comparación
+mayor una vez se ejecute el
+(0,02 ha). Esto es porque hay
+proyecto. Por tanto, adquiere un
+presencia de fragmentación
+valor de 1.
+en toda el área, debido a las
+plantaciones forestales. Por
+tanto, adquiere un valor de 4.
+La Dimensión fractal obtiene La Dimensión fractal aumenta
+un valor de 1,41, es decir hay respecto a la condición sin proyecto,
+Conectividad 7 polígonos circulares y otros 4 ya que ahora el valor es de 1,45, es
+alargados. El promedio de decir aumentan los polígonos
+distancia entre los polígonos alargados. El promedio de distancia
+41
+================================================================================
+PAGE 46
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+es inferior a 1 metro. Por entre los polígonos es levemente
+tanto, se considera se superior a 1, pero aumentó más del
+considera un valor de 7. doble el promedio de distancia. Por
+tanto, se considera se considera un
+valor de 4.
+Valor único
+5 - 3 -
+promedio
+Parámetros
+Puntuación Puntuación
+de Ecosistema Justificación Justificación
+inicial Final
+terrestre
+Según los datos de la línea de
+Debido a que el impacto residual es
+base de flora y vegetación, los
+de 47,15 hectáreas de pérdida de
+bosques y plantaciones
+Estado de la hábitat para fauna, se estima que
+7 presentan coberturas densas y 4
+estructura existirá un desmedro en el estado de
+semidensas. Por tanto,
+la estructura, por tanto, se entrega
+obtiene un valor de 7 este
+un valor de 4 a este parámetro.
+parámetro
+En el catálogo florístico del
+área de influencia es de 247
+taxa, donde 101 especies son
+nativas, 64 especies son
+endémicas, 80 especies
+introducidas y 2 especies
+indeterminadas.
+Es importante mencionar que,
+el Catálogo de Plantas
+Vasculares de Chile de
+Rodríguez y Marticorena del No hay una disminución en el
+año 2019 indica que el 15,1% catálogo florístico por la
+Composición 4 4
+de las especies existentes en construcción del proyecto. Por
+Chile corresponden a especies tanto, se mantiene el valor de 4
+de origen exótico.
+En el catálogo florístico del
+área de influencia el
+porcentaje de especies
+introducidas es de 32,4%,
+valor más del doble del
+porcentaje nacional. Por
+tanto, se asigna un valor de 4
+para este parámetro.
+42
+================================================================================
+PAGE 47
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Se presentan ambientes de Debido a la construcción del
+Ambientes de
+10 fauna para todas las especies 7 Proyecto existirá una disminución de
+fauna
+registradas como claves los ambientes de fauna
+En los ambientes naturales a
+través de las parcelas de
+inventario forestal, fue posible
+reconocer regeneración de las
+especies nativas. En los
+sectores de plantaciones
+forestales, también fue Debido a la disminución en la
+posible encontrar un superficie, se estima que existirá un
+Regeneración
+sotobosque creciendo bajo el desmedro en la regeneración de las
+y 7 4
+dosel superior. Sin embargo, la especies. Considerando lo anterior
+reclutamiento
+existencia de grandes se le atribuye un valor de 4 a este
+superficies de plantaciones parámetro.
+forestales no permite el
+desarrollo general de especies
+nativas y el desarrollo de
+formaciones vegetacionales
+naturales. Por tanto, se da un
+valor de 7 a este parámetro.
+Valor único
+7 - 4,75 -
+promedio
+Diferencia
+-0,21
+condición
+Fuente: GAC
+7.3.5.2 Condición para los sitios de las medidas
+Para la estimación de la condición del sitio de compensación no es posible calcular las métricas de paisaje,
+ya que en el ambiente hay presencia de plantaciones forestales, que en caso de que no se ejecute la
+medida serán cosechadas en un futuro, aspecto que es considerado en la estimación de la condición actual
+del sitio. Por otra parte, en caso de ejecutar las medidas no serán cortarán dichas plantaciones y
+terminarán siendo formaciones asilvestradas que permitirán el desarrollo de flora y fauna en su ambiente,
+esto será considerado en la condición final.
+La superficie de la medida de protección de ambientes de fauna de plantación forestal es de 76,92
+hectáreas que corresponde al 84,8 % del área total de compensación (90,66 hectáreas). La superficie de la
+medida de flora y vegetación de enriquecimiento de ECC y especies nativas acompañantes, está incluida
+dentro de las 90,66 hectáreas.
+43
+================================================================================
+PAGE 48
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-6. Parámetros para sitio de compensación
+Parámetros
+Puntuación Puntuación
+Localización y Justificación Justificación
+inicial Final
+Paisaje
+Debido a la inclusión de la medida,
+se evitará que exista los ciclos de
+Al igual que el área de influencia son corta tala rasa y dichas plantaciones
+Diversidad de sectores donde hay dominancia de terminarán siendo formaciones
+objetos en el 4 plantaciones forestales, las cuales en 7 asilvestradas que permitirán el
+paisaje algún momento serán cosechadas. desarrollo de flora y fauna en su
+Por tanto, toma un valor de 4. ambiente. Por tanto, hay un
+aumento en el valor de esta
+puntuación.
+El área tiene más del 50% de
+A raíz de la medida no se eliminarán
+ambientes intervenidos, que algún
+plantaciones forestales, pero igual
+Grado de día serán cortados. Por tanto, se
+4 4 corresponden a formaciones no
+fragmentación considera un alto grado de
+naturales, por tanto, el valor se
+fragmentación y asigna el valor 4 a
+mantiene en 4.
+este parámetro.
+Debido a la cercanía del área de
+Se considera que la conectividad compensación con el área del
+disminuya debido a la corta cíclica de proyecto, no existirá una mejora en
+Conectividad 4 4
+las plantaciones forestales. Por tanto, la conectividad, debido a que los
+adquiere un valor de 4 sitios de compensación estarán
+aledaño a sectores intervenidos.
+Valor único
+4 - 5 -
+promedio
+Parámetros
+Puntuación Puntuación
+de Ecosistema Justificación Justificación
+inicial Final
+terrestre
+Al ejecutar la medida, no existirá
+una afectación en las formaciones,
+Debido a la cosecha de las
+lo que permitirá un mayor
+plantaciones forestales, el estado de
+desarrollo de la vegetación. Por otra
+Estado de la la estructura de la vegetación ser irá
+4 7 parte, se consideran acciones de
+estructura en desmedro en el área. Por tanto, se
+enriquecimiento, lo que significa
+entrega un valor de 4 a este
+una mejora en la estructura del
+parámetro.
+bosque nativo. Por tanto, se entrega
+un valor de 7 a este parámetro.
+No hay como estimar el potencial
+Si bien se considera un
+cambio de composición que podría
+enriquecimiento de especies en
+existir en caso de que no se realice la
+Composición 4 4 algunas quebradas de bosque
+medida, pero por las rotaciones de
+nativo, dichas acciones no implican
+las plantaciones forestales se
+un aumento en el catálogo florístico
+mantendría un porcentaje alto de
+44
+================================================================================
+PAGE 49
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+especies introducidas, por tanto, se del sitio previo a la medida. Por
+da un valor de 4 a este parámetro. tanto, mantiene la valoración.
+Debido al proceso de corta de Al no existir corta de las
+Ambientes de plantaciones forestales en el sitio plantaciones forestales, los
+7 10
+fauna existirá una disminución de los ambientes de fauna no se verán
+ambientes de fauna amenazados.
+En los ambientes naturales a través
+de las parcelas de inventario forestal,
+fue posible reconocer regeneración
+Debido a la medida permitirá que
+de las especies nativas. En los
+no exista corta de las plantaciones
+sectores de plantaciones forestales,
+forestales y las quebradas con
+también fue posible encontrar un
+presencia de bosque nativo se verán
+Regeneración sotobosque creciendo bajo el dosel
+enriquecidas y además existe la
+y 4 superior. Sin embargo, la existencia 7
+medida de plantación de bosque
+reclutamiento de grandes superficies de
+nativo, que incluirá nuevos
+plantaciones forestales no permite el
+ejemplares, es que se considera una
+desarrollo general de especies
+mejora en este parámetro
+nativas y además estás serán
+obteniendo el valor de 7
+cosechadas en algún momento. Por
+tanto, se da un valor de 4 a este
+parámetro
+Valor único
+4,75 - 7 -
+promedio
+Diferencia
+0,16
+condición
+Fuente: GAC
+7.4 Resultados de la métrica
+Revisado lo anterior, el resultado de la métrica para el impacto residual es de -60,1, mientras que el
+resultado de la métrica para la ganancia es de 63,14 para la superficie de las medidas. Como superficie de
+las medidas de compensación se consideró las 90,66 hectáreas de protección de ambientes de fauna, que
+incluye la superficie de enriquecimiento de flora.
+Según los resultados anteriores es posible indicar que la ganancia en biodiversidad por la ejecución de las
+medidas es mayor a la pérdida de biodiversidad del impacto residual. Los resultados en las siguientes
+tablas.
+45
+================================================================================
+PAGE 50
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-7. Impacto residual
+Área Δ Condición Relevancia M1 Pérdida de biodiversidad
+Impacto Residual (IR) 47,15 -0,21 6 -60,1
+Fuente: GAC
+Tabla 7-8. Ganancia de biodiversidad
+Área Δ Condición Relevancia Temporalidad Localización Manejo Ganancia de biodiversidad
+GNB 1 90,66 0,16 6 1,4 1 1 63,14
+Fuente: GAC
+8 AMENAZAS DEL SITIO DE COMPENSACIÓN
+La principal amenaza que existe en el sitio de compensación de biodiversidad es que el ecosistema que se
+forma en dicho lugar se ve afectado cada cierto periodo de tiempo debido a la rotación de las plantaciones
+forestales, produciendo un cambio absoluto en el ambiente cuando se cosecha la plantación.
+Esta amenaza es recogida en las medidas propuestas, debido a que se considera eliminar dicha rotación
+de las plantaciones y por tanto, que no se produzca el cambio en el ecosistema debido a la cosecha de la
+plantación. A no existir la corta de vegetación, se puede mantener el hábitat para la fauna, cuyo impacto
+significativo es el de mayor superficie.
+Una segunda amenaza, que existe en los sitios de compensación, es la probabilidad de incendios
+forestales, para esto se proponen medidas de prevención y control en el PAS 149, el cual será homologado
+para el área de compensación.
+9 CONCLUSIÓN
+El impacto residual en biodiversidad, entendiendo este como el que no pudo se mitigado ni compensado,
+está relacionado a la pérdida de ejemplares de flora y pérdida de hábitat de fauna sensible y/o de interés.
+La superficie que será intervenida por el Proyecto es de 150, 17 hectáreas, de las cuales 103,02 hectáreas
+corresponden a plantaciones forestales. Las plantaciones forestales están sujeta a ciclos de tala rasa y, por
+tanto, existirá esa pérdida de hábitat en un futuro con o sin proyecto. Considerando lo anterior solo 47,15
+hectáreas corresponden al impacto residual de pérdida de hábitat para la fauna sensible y/o de interés.
+Finalmente, respecto a la pérdida de ejemplares de flora, se reconoce como impacto residual la pérdida
+de Asplenium trilobum, Gardoquia multiflora y Vestia foetida (2, 39 y 339 ejemplares, respectivamente).
+En cuanto a las medidas para la fauna se establece la protección de áreas aledañas como medida de
+compensación, existiendo representatividad de los ambientes identificados. Lo anterior, ofrece la
+46
+================================================================================
+PAGE 51
+================================================================================
+Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de Compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+posibilidad de proveer hábitat de resguardo para la totalidad de especies registradas. La superficie de esta
+medida es de 90,66 hectáreas, valor superior y casi el doble de las 47,15 hectáreas reconocidas como
+impacto significativo.
+Respecto a las medidas de flora, en la medida de enriquecimiento de ECC y especies nativas acompañantes
+y la creación de un área de conservación, permite establecer y proteger un número de ejemplares mayor
+al que se verá afectado por el Proyecto.
+Los sitios de las medidas propuestas, siguiendo los criterios de la Guía de compensación de Biodiversidad
+del SEA (2023), tienen similares características. Esto porque se encuentra en pisos vegetacionales
+equivalentes y las matrices de componentes claves son similares.
+Se estimó la pérdida de biodiversidad del impacto residual y la ganancia en biodiversidad de las medidas
+de compensación, siguiendo la metodología propuesta en la Guía de compensación de Biodiversidad del
+SEA (2022). Como pérdida se obtiene un valor de -60,1, mientras que, de ganancia se obtiene un valor de
+63,14. Adicionalmente, a través de las medidas de compensación se propone un aumento en la densidad
+de especies en categoría de conservación que resultaron tener un impacto significativo por el Proyecto.
+Según los resultados anteriores es posible indicar que la ganancia en biodiversidad por la ejecución de las
+medidas es mayor a la pérdida de biodiversidad del impacto residual.
+47

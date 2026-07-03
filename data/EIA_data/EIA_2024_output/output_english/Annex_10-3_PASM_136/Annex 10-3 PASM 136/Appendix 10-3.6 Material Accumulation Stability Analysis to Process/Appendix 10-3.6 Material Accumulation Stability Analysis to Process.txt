@@ -1,0 +1,801 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-3.6
+Stability analysis of
+Accumulation of Material to Process
+(Stockpile)
+EIA "Mining Development Project
+of Clay Extraction for
+Concentrate Production
+Rare Earths
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+CLARIFIES
+TECHNICAL REPORT
+MATERIAL ACCUMULATION STABILITY ANALYSIS A
+PROCESS
+CLARIFIES
+No. 60 0723-INF-GE-001
+PANGEA Geotechnics
+Cochrane 635, Of. 1503, A
+Concepcion, Chile
+Prepared to Clarify
+REV. DATE BY REV. APPROVED DESCRIPTION
+A 08-17-2023 MMP RM RM For Internal Review
+B 08-21-2023 MMP RM RM For Internal Approval
+C 08-22-2023 MMP RM RM For Customer Review
+D 11-14-2023 MMP RM RM For Client Approval
+==================================================================================
+PAGE 3
+==================================================================================
+INDEX
+Content
+INDEX ................................................................................................................................... 0
+1. INTRODUCTION ........................................................................................................... 1
+2. REFERENCES ................................................................................................................... 2
+3. GENERAL BACKGROUND ........................................................................................... 3
+3.1 OVERVIEW OF PHYSICAL STABILITY PARAMETERS
+DURING THE OPERATION OF THE MINERAL ACCUMULATION .................. 3
+3.2 MATERIAL CHARACTERISTICS ....................................................................... 4
+4. STABILITY ANALYSIS ....................................................................................... 5
+4.1 METHODOLOGY ................................................................................................................... 5
+4.2 SEISMIC ANALYSIS ................................................................................................... 5
+4.3 SAFETY FACTORS ....................................................................................... 6
+5. RESULTS OF THE STABILITY ANALYSIS ........................................................... 6
+Annex A: Report “TRIAXIAL TESTS ON UNALTERED SAMPLES”. iit.
+June 2021
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 4
+==================================================================================
+1. INTRODUCTION
+This report has been requested from Pangea Geotecnia in order to determine the
+stability of the temporary storage piles (Stockpile) made up of the material
+to be processed in the feeding zone and those made up of the material already processed in the
+gravel area. These are located at the entrance and exit of the processing plant that is
+It is located in the commune of Penco, Biobío region as indicated in Figure 1. In the
+This report presents the main results of the battery stability analysis
+storage in static and pseudo-static condition.
+Figure 1. Processing Plant Location
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 5
+==================================================================================
+2. REFERENCES
+The documents used to develop the study were the following:
+SOIL MECHANICS REPORT N°81 0620-MS-GE-001. “Engineering
+Reference N°1
+Conceptual Biolanthanides.” LANCUYEN Engineering.
+FINAL REPORT 2021-182-1. “Triaxial tests on unaltered samples.” iit UdeC-
+Reference N°2
+June 2021
+TECHNICAL REPORT G0012-21. “Seismic Danger in the Aclara Project, areas of
+Reference N°3 Extraction and Disposal, Commune of Penco, Bío-Bío Region”. GENSIS Engineering
+Seismic Geotechnical-August 2023.
+Kramer, S.L (1996). Geotechnical earthquake engineering. Prentice Hall, Upper Saddle
+Reference N°4
+River, N.J.
+Reference N°5 Chilean Standard, NCh15
+08-2014 “Geotechnics-Study of Soil Mechanics”.
+Chilean Standard, NCh2369 Of.2003 “Seismic design of structures and facilities
+Reference N°6
+industrial”
+Reference N°7 Chilean Standard, NCh2369 Of.2023 “Seismic Design of Buildings”
+BIOLANTANIDE MINING PROJECT - DESCRIPTIVE REPORT OF WORKS
+Reference N°8 PROCESSED MATERIALS DISPOSAL SYSTEM (REV. C) DGT
+Spa Engineering -October 21, 2018
+Saragoni, G.R. (1993). Analysis of seismic risk for the reconstruction of the Port of
+Reference N°9 Valparaíso. 6th Chilean Conference on Seismology and Anti-Seismic Engineering, University
+of Chile and ACHISINA, Santiago, Chile, vol. 2, 165-178
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 6
+==================================================================================
+3. GENERAL BACKGROUND
+3.1 OVERVIEW OF STABILITY PARAMETERS
+PHYSICS DURING THE OPERATION OF MINERAL ACCUMULATION
+Two Stockpile zones are considered (Food Zone and Rubble Zone), each with
+an area of 120x80m equivalent to 9600 m² on the ground floor. Table 1 indicates the
+coordinates of the areas.
+Table 1. Stockpile location coordinates Entry and exit zone
+UTM coordinates – 18H
+Stockpile
+East North
+Entrance area and
+682040 5930322
+Exit
+Stockpile Feeding Zone: The accumulation of material sent directly is considered
+from the Extraction Area, prior to entering the plant. It is considered an “elongated pile” with
+an approximate humidity of 17% (natural humidity).
+Stockpile Debris Zone: The accumulation of material output from the plant is considered, for
+means of conveyor belts where the material accumulates with a humidity of 22%.
+It is considered a “Cone Pile”.
+The estimated granulometry to date is P80=2700 to 2800 μm. Where, P80 corresponds to the
+mesh in microns through which 80% of the material passes. The geometric parameters
+considered in the design are presented in Table 2, according to Figure 2.
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 7
+==================================================================================
+Cone battery Elongated battery
+Figure 2. Geometric parameters “Cone pile” and “Elongated pile”
+Table 2. Summary of geometric parameters for material accumulation pile design
+Material accumulation geometry
+Mineral apparent density (T/m³) 1.47
+Stacker length (m) 25
+Conical pile radius (m) 4
+Conical pile height (m) 4
+Conical pile volume (m³) 67
+Maximum granulometry P80 (µm) 2700-2800
+3.2 MATERIAL CHARACTERISTICS
+Based on Triaxial Tests of samples from the area presented in Annex A (Reference
+No. 2), the parameters of Table 3 are obtained.
+Table 3. Material geotechnical properties
+Material properties
+Dry density (T/m³) 1.45-1.47
+Residual friction angle (°) 30-32
+Effective cohesion (kPa) 6-2
+Undrained resistance (kPa) 25
+Input humidity (%) 17
+Outlet humidity (%) 22
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 8
+==================================================================================
+4. STABILITY ANALYSIS
+4.1 METHODOLOGY
+In the present study, the analyzes were carried out using the GGU Stability software,
+using Bishop's circular surface analysis. For seismic requests the
+Software considers the influence of requests through acceleration coefficient
+pseudostatic according to the Kuntsche Formula. The influence of accelerations
+seismic activity is considered through additional loads acting on the centroid of each segment.
+4.2 SEISMIC ANALYSIS
+According to the MOP Highway Manual, the seismic coefficient to be used in the design of
+retaining walls, is determined as:
+𝐾 = 0.5𝐴′
+ℎ 𝑜
+Where:
+𝐴′: Maximum effective acceleration coefficient established in Table 3.1004.302.A of the
+𝑜
+Road Manual Vol 3.
+The study area corresponds to zone 3 according to NCh 433 of. 1996 Mod. 2012 (Reference
+No. 7), to which is associated a maximum effective acceleration coefficient of 0.4g.
+The determination of the horizontal seismic coefficient is developed using the following
+expressions proposed by Saragoni (1993) (Reference No. 9):
+𝑎
+𝑚á𝑥
+0.30
+𝑔
+;𝑠𝑖 𝑎
+𝑚á𝑥
+≤ 0.67𝑔
+𝐾 =
+ℎ 𝑎
+3 𝑚á𝑥
+0.22√ ;𝑠𝑖 𝑎 > 0.67𝑔
+𝑔 𝑚á𝑥
+{
+STOCKP STABILITY ANALYSIS REPORT
+ILE
+==================================================================================
+PAGE 9
+==================================================================================
+Since the Stockpile corresponds to a temporary storage structure, based on the Report
+of Seismic Hazard (Reference No. 3), the operating scenario has an acceleration
+maximum horizontal 0.29g. Therefore, according to Saragoni (1993), the seismic coefficient
+horizontal to use corresponds to 0.09.
+4.3 SAFETY FACTORS
+In accordance with recommendations by the Federal Highway Administration (FHWA),
+its acronym in English), to verify the stability of slopes, the Safety Factors
+used for the analysis are summarized in Table 4:
+Table 4. Minimum safety factors
+Analysis F.S.
+Static ≥ 1.50
+Temporary ≥ 1.35
+Seismic ≥ 1.10
+5. RESULTS OF THE STABILITY ANALYSIS
+Table 5 presents the results obtained from the Stability analysis, considering a
+maximum inclination angle of 33° and a maximum height of h=4 m for the Stockpile of
+entrance. For the exit Stockpile, a maximum angle of 45° is considered, a maximum height
+of h=4.00 m and a diameter of 8.00 m. From Figure 3 to Figure 10 the outputs are presented
+of the software for each evaluated scenario.
+Table 5. Results of Stability Analysis, Safety Factors according to the evaluated scenario
+Seismic Drained Static Analysis Undrained Static Drained Undrained Earthquake Analysis
+Stockpile Entry 1.52 1.27 2.60 2.39
+Stockpile Output 1.60 1.41 2.33 1.45
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 10
+==================================================================================
+Figure 3. Stockpile feeding, static condition F.S. 1.52; h = 4 m slope 33°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 11
+==================================================================================
+Figure 4. Stockpile feed, earthquake condition F.S. 1.27; h = 4 m – slope 33°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 12
+==================================================================================
+Figure 5. Stockpile feeding, temporary undrained condition F.S. 2.60; h = 4 m – slope 33°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 13
+==================================================================================
+Figure 6. Stockpile feed, undrained condition earthquake F.S. 2.39; h = 4 m – slope 33°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 14
+==================================================================================
+Figure 7. Stockpile output, static condition F.S. 1.60; h = 4.0 m – slope 45°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 15
+==================================================================================
+Figure 8. Stockpile output, earthquake condition F.S. 1.41; h = 4.0 m – slope 45°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 16
+==================================================================================
+Figure 9. Stockpile output, temporary undrained condition F.S. 2.33; h = 4.0 m – slope 45°
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 17
+==================================================================================
+Figure 10. Stockpile output, undrained earthquake condition F.S. 1.69; h = 4.0 m – slope 45°
+The results indicate that, for the geometry conditions analyzed, the material in the
+Inlet stockpile must be arranged with a maximum angle of 45° at a height of h=4.0 m,
+The condition is controlled by the static condition. On the other hand, for the output Stockpile
+The cone arrangement condition is verified with a height of 4.0 m, a diameter of 8.00 m and
+maximum angle of 45°, the condition is controlled by the static condition.
+Rafael Martinez
+Technical Manager
+Master in Mechanics
+a of Soils
+Imperial College London
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 18
+==================================================================================
+ANNEX A
+Report “TRIAXIAL TESTS OF UNALTERED SAMPLES”. iit.
+June 2021
+STOCKPILE STABILITY ANALYSIS REPORT
+==================================================================================
+PAGE 19
+==================================================================================
+FINAL REPORT
+PROJECT: TRIAXILE TESTS ON UNALTERED SAMPLES
+TO: LANCUYEN ENGINEERING
+OT: 2021-182-1
+Project Manager
+Eng. Daniella Escribano
+Civil Engineering Department
+University of Concepción
+June - 2021
+==================================================================================
+PAGE 20
+==================================================================================
+Triaxial tests
+Index
+1 Introduction ....................................................................................................................... 3
+2 CIU Triaxial Tests ....................................................................................................... 3
+2.1 Test Equipment ........................................................................................................... 3
+2.2 Results ....................................................................................................................... 3
+3 UU Triaxial Tests ................................................................................................... 13
+3.1 Methodology and Results ........................................................................................... 13
+4 References ................................................................................................................... 18
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 2 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 21
+==================================================================================
+Triaxial tests
+1 Introduction
+In this document a series of triaxial tests carried out on unaltered samples are reported.
+This report is written at the request of Lancuyen Ingeniería Ltda. It also includes:
+granulometry and specific weight of the tested samples.
+2 CIU Triaxial Tests
+2.1 Test Equipment
+The apparatus used for the tests delivered in this report corresponds to a piece of equipment
+VJ Tech Dynamic Triaxial System, with a 50kN load frame, actuator
+electromechanical, 24 Bit resolution, 50mm diameter sample size, frequency
+maximum of 5Hz, and maximum pressure of 2MPa.
+The measurements were carried out using the Clisp Studio program – csDYNA Software.
+2.2 Results
+The tests correspond to undrained consolidated triaxial CIU, in unaltered material. The
+material is identified as C1/M1, and C3/M8. The initial data for each sample are indicated in the
+Table 1.
+For the CIU triaxial test, each sample was previously saturated in three stages: circulation of
+carbon dioxide, deaerated water, and increased back pressure. Consolidation was then applied
+isotropic, until obtaining a dissipation of excess pore pressure of 98%.
+Each cutting test was carried out at a speed of 0.25 mm/min.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 3 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 22
+==================================================================================
+Triaxial tests
+TABLE 1. Tested samples.
+Calicata/sample C1/M1 C3/M8
+Identification C1_100 C1_200 C1_450 C3_100 C3_200 C3_450
+*Height (cm) 9.82 9.96 9.89 9.92 9.94 9.97
+*Diameter (cm) 5.05 5.06 5.03 5.03 5.05 5.07
+Initial total weight (g) 368.2 377.0 368.2 370.3 383 377
+*Natural density (g/cm3) 1,872 1,879 1,876 1,877 1,923 1,876
+B Skempton 0.97 0.94 0.96 0.94 0.95 0.94
+p’ (kPa) 98.5 198.1 448.5 98.9 196.8 448.8
+c
+*Values correspond to those obtained after consolidation.
+The results
+They are presented based on the following parameters:
+Deviatoric stress: 𝑞 = 𝜎 −𝜎
+(cid:2869) (cid:2871)
+Average effective stress: 𝑝(cid:4593) = (cid:2869) (𝜎′ +2𝜎′ )
+(cid:2869) (cid:2871)
+(cid:2871)
+∆(cid:3009)
+Axial deformation: 𝜀 (cid:3028) = ∙100% (change in height, divided by the initial height Ho)
+(cid:3009)(cid:3290)
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 4 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 23
+==================================================================================
+Triaxial tests
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+Figure 1. Stress trajectories CIU tests C1 tests (q: shear or deviatoric stress;
+p': average effective effort).
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 5 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C1_100
+p' (kPa)
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+)aPk(
+q
+C1_200
+p' (kPa)
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+)aPk(
+q
+C1_450
+p' (kPa)
+==================================================================================
+PAGE 24
+==================================================================================
+Triaxial tests
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+Figure 2. Stress trajectories CIU tests C3 tests (q: shear or deviatoric stress;
+p': average effective effort).
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 6 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C3_100
+p' (kPa)
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+)aPk(
+q
+C3_200
+p' (kPa)
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+)aPk(
+q
+C3_450
+p' (kPa)
+==================================================================================
+PAGE 25
+==================================================================================
+Triaxial tests
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+Figure 3. Deviatoric stress q versus axial deformation CIU tests, C1.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 7 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C1_100
+ a(%)
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+)aPk(
+q
+C1_200
+ a(%)
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+)aPk(
+q
+C1_450
+ a(%)
+==================================================================================
+PAGE 26
+==================================================================================
+Triaxial tests
+800
+600
+400
+200
+0
+0 5 10 15 20
+Figure 4. Deviatoric stress q versus axial deformation CIU tests, C3.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 8 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C3_100
+ a(%)
+800
+600
+400
+200
+0
+0 5 10 15 20
+)aPk(
+q
+C3_200
+ a(%)
+800
+600
+400
+200
+0
+0 5 10 15 20
+)aPk(
+q
+C3_450
+ a(%)
+==================================================================================
+PAGE 27
+==================================================================================
+Triaxial tests
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+Figure 5. Excess pore pressure versus axial strain CIU tests, C1.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 9 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(uΔ
+C1_100
+ a(%)
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+)aPk(uΔ
+C1_200
+ a(%)
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+)aPk(uΔ
+C1_450
+ a(%)
+==================================================================================
+PAGE 28
+==================================================================================
+Triaxial tests
+-140
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+Figure 6. Excess pore pressure versus axial strain CIU tests,
+C3.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 10 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(uΔ
+C3_100
+ a(%)
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+)aPk(uΔ
+C3_200
+ a(%)
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+)aPk(uΔ
+C3_450
+ a(%)
+==================================================================================
+PAGE 29
+==================================================================================
+Triaxial tests
+1.8
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+0 5 10 15 20
+Figure 7. Stress ratio q/p' versus axial deformation CIU tests.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 11 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+'p/
+q
+ a(%)
+C1_100 C1_200 C1_450
+1.8
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+0 5 10 15 20
+'p/
+q
+ a(%)
+C3_100 C3_200 C3_450
+==================================================================================
+PAGE 30
+==================================================================================
+Triaxial tests
+C1_100 C1_200 C1_450
+C3_100 C3_200 C3_450
+Figure 8. Status of samples completed each CIU test.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 12 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 31
+==================================================================================
+Triaxial tests
+3 UU Triaxial Tests
+3.1 Methodology and Results
+The UU unconsolidated undrained triaxial test was carried out on 4 unaltered specimens from
+of Calicata 1, Calicata 2, and Calicata 3.
+The tests were carried out based on the ASTM D2850 standard.
+3
+2.5
+2
+1.5
+1
+0.5
+0
+0 5 10 15 20 25
+Figure 9. Sample C1/M2, Confining stress of 150 kPa.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 13 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+noisneT
+Unit strain (%)
+==================================================================================
+PAGE 32
+==================================================================================
+Triaxial tests
+3
+2.5
+2
+1.5
+1
+0.5
+0
+0 2 4 6 8 10 12 14
+Figure 10. Sample C2/M5, Confining stress of 50 kPa.
+Figure 11. Sample C2/M6, Confining stress of 150 kPa.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 14 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+noisneT
+Unit strain (%)
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12
+)2mc/gk(
+noisneT
+Unit strain (%)
+==================================================================================
+PAGE 33
+==================================================================================
+Triaxial tests
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12
+Figure 12. Sample C3/M7, Confining stress of 350 kPa.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 15 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+noisneT
+Unit strain (%)
+==================================================================================
+PAGE 34
+==================================================================================
+Triaxial tests
+5 Granulometry
+SAMPLE NUMBER: 1 2 3 4 5
+SAMPLE ORIGIN: C-1 C-1 C-1 C-2 C2
+DEPTH:
+GRANULOMETRY (LNV 105)
+Sieve % passing
+1 1/2"
+1"
+3/4"
+3/8"
+No. 4 100 100 100 100 100
+No. 10 80 93 87 85 86
+No. 20 67 81 73 70 71
+No. 40 58 71 61 57 59
+No. 60 50 65 50 47 49
+No. 200 35 52 29 32 34
+INDEX PROPERTIES (NCh 1532, NCh 1515)
+2.66
+Specific weight Gs 2.66 2.59 2.65 2.61
+19.0
+Natural humidity (%) 17.6 20.8 18.7 22.0
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 16 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-4
+1) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 35
+==================================================================================
+Triaxial tests
+6 7
+SAMPLE NUMBER: 6 7 8 9
+post essay post essay
+SAMPLE ORIGIN: C-2 C-3 C-3 C-3 C-2 C-3
+DEPTH:
+GRANULOMETRY (LNV 105)
+Sieve % passing
+1 1/2"
+1"
+3/4"
+3/8"
+100
+No. 4 100 99 100 100 100 100
+No. 10 83 81 84 86 84 82
+No. 20 69 68 70 71 71 69
+No. 40 58 58 59 60 61 60
+No. 60 49 51 50 52 53 53
+No. 200 36 40 33 35 41 42
+INDEX PROPERTIES (NCh 1532, NCh 1515)
+Specific weight Gs 2.61 2.63 2.58 2.64
+Natural humidity (%) 18.8 19.2 20.0 19.6
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 17 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+==================================================================================
+PAGE 36
+==================================================================================
+Triaxial tests
+6 References
+ASTM D4767 – 11. (2011) “Standard Test Method for Consolidated Undrained Triaxial
+Compression Test for Cohesive Soils”. ASTM International.
+ASTM D2850 – 15. (2015) “Standard Test Method for Unconsolidated Triaxial Compression Test
+on Cohesive Soils, ASTM International.
+University of Concepción  Faculty of Engineering  IIT UdeC  Edmundo Larenas 270 Int.  Box 160-C Correo 3 18 / 18
+Concepción Chile  Phones: (56-41) 2234877- 2204422 – 2204887  Fax: (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl

@@ -1,0 +1,796 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-3.6
+Análisis de estabilidad de
+Acumulación de Material a Procesar
+(Stockpile)
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado de
+Tierras Raras
+Región del Biobío
+Junio, 2024
+Elaborado para :
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+ACLARA
+INFORME TÉCNICO
+ANÁLISIS DE ESTABILIDAD DE ACUMULACIÓN DE MATERIAL A
+PROCESAR
+ACLARA
+N° 60 0723-INF-GE-001
+PANGEA Geotecnia
+Cochrane 635, Of. 1503, A
+Concepción, Chile
+Preparado para Aclara
+REV. FECHA POR REV. APROB. DESCRIPCION
+A 17-08-2023 MMP RM RM Para Revisión Interna
+B 21-08-2023 MMP RM RM Para Aprobación Interna
+C 22-08-2023 MMP RM RM Para Revisión Cliente
+D 14-11-2023 MMP RM RM Para Aprobación Cliente
+================================================================================
+PAGE 3
+================================================================================
+ÍNDICE
+Contenido
+ÍNDICE .................................................................................................................................... 0
+1. INTRODUCCIÓN ........................................................................................................... 1
+2. REFERENCIAS ............................................................................................................... 2
+3. ANTECEDENTES GENERALES .................................................................................. 3
+3.1 DESCRIPCIÓN GENERAL DE LOS PARÁMETROS DE ESTABILIDAD FÍSICA
+DURANTE LA OPERACIÓN DE LA ACUMULACIÓN DE MINERALES .................. 3
+3.2 CARACTERÍSTICAS DEL MATERIAL ..................................................................... 4
+4. ANÁLISIS DE ESTABILIDAD ..................................................................................... 5
+4.1 METODOLOGÍA .......................................................................................................... 5
+4.2 ANÁLISIS SÍSMICO .................................................................................................... 5
+4.3 FACTORES DE SEGURIDAD ..................................................................................... 6
+5. RESULTADOS DEL ANÁLISIS DE ESTABILIDAD .................................................. 6
+Anexo A: Informe “ENSAYOS TRIAXIALES MUESTRAS INALTERADAS”. iit.
+Junio de 2021
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 4
+================================================================================
+1. INTRODUCCIÓN
+El presente informe ha sido solicitado a Pangea Geotecnia con el objeto de determinar la
+estabilidad de las pilas de almacenamiento temporal (Stockpile) conformadas por el material
+a procesar en la zona de alimentación y de las conformadas por el material ya procesado en la
+zona de ripios. Estos se ubican en la entrada y salida de la planta de procesamiento que se
+emplaza en la comuna de Penco, región del Biobío tal como se indica en Figura 1. En el
+presente informe se presentan los principales resultados del análisis de estabilidad de las pilas
+de almacenamiento en condición estática y pseudo estática.
+Figura 1. Ubicación Planta de Procesamiento
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 5
+================================================================================
+2. REFERENCIAS
+Los documentos utilizados para el desarrollo del estudio fueron los siguientes:
+INFORME DE MECÁNICA DE SUELOS N°81 0620-MS-GE-001. “Ingeniería
+Referencia N°1
+Conceptual Biolantánidos”. LANCUYEN Ingeniería.
+INFORME FINAL 2021-182-1. “Ensayos Triaxiales muestras inalteradas”. iit UdeC-
+Referencia N°2
+Junio 2021
+INFORME TÉCNICO G0012-21. “Peligro Sísmico en Proyecto Aclara, zonas de
+Referencia N°3 Extracción y Disposición, Comuna de penco, Región del Bío-Bío”.GENSIS Ingeniería
+Geotécnica Sísmica-Agosto 2023.
+Kramer, S.L (1996). Geotechnical earthquake engineering. Prentice Hall, Upper Saddle
+Referencia N°4
+River, N.J
+Referencia N°5 Norma Chilena, NCh1508-2014 “Geotecnia-Estudio de Mecánica de Suelos”.
+Norma Chilena, NCh2369 Of.2003 “Diseño sísmico de estructuras e instalaciones
+Referencia N°6
+industriales”
+Referencia N°7 Norma Chilena, NCh2369 Of.2023 “Diseño sísmico de Edificios”
+PROYECTO MINERO BIOLANTÁNIDOS- INFORME DESCRIPTIVO DE OBRAS
+Referencia N°8 SISTEMA DE DISPOSICIÓN DE MATERIALES PROCESADOS (REV. C) DGT
+Ingeniería Spa -21 Octubre 2018
+Saragoni, G.R. (1993). Análisis del riesgo sísmico para la reconstrucción del Puerto de
+Referencia N°9 Valparaíso. 6tas Jornadas Chilenas de Sismología e Ingeniería Antisísmica, Universidad
+de Chile y ACHISINA, Santiago, Chile, vol. 2, 165-178
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 6
+================================================================================
+3. ANTECEDENTES GENERALES
+3.1 DESCRIPCIÓN GENERAL DE LOS PARÁMETROS DE ESTABILIDAD
+FÍSICA DURANTE LA OPERACIÓN DE LA ACUMULACIÓN DE MINERALES
+Se consideran dos zonas de Stockpile (Zona de Alimentación y Zona de Ripios), cada una con
+una superficie de 120x80m equivalente a 9600 m² en planta. La Tabla 1, indica las
+coordenadas de las zonas.
+Tabla 1. Coordenadas de ubicación Stockpile Zona de entrada y salida
+Coordenadas UTM – 18H
+Stockpile
+Este Norte
+Zona Entrada y
+682040 5930322
+Salida
+Stockpile Zona de Alimentación: Se considera la acumulación del material enviado directo
+desde la Zona de extracción, previo a entrar a la planta. Se considera una “Pila alargada” con
+una humedad aproximada de un 17% (humedad natural).
+Stockpile Zona de Ripios: Se considera la acumulación del material de salida de la planta, por
+medio de correas transportadoras donde se acumula el material con una humedad de un 22%.
+Se considera una “Pila cono”.
+La granulometría estimada a la fecha es P80=2700 a 2800 μm. Donde, P80 corresponde a la
+malla en micrones por la que atraviesa el 80% del material. Los parámetros geométricos
+considerados en el diseño se presentan en Tabla 2, según Figura 2.
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 7
+================================================================================
+Pila cono Pila alargada
+Figura 2. Parámetros geométricos “Pila cono” y “Pila alargada”
+Tabla 2. Resumen parámetros geométricos para diseño pila de acumulación del material
+Geometría de acumulación del material
+Densidad aparente de mineral (T/m³) 1.47
+Longitud Stacker (m) 25
+Radio pila cónica (m) 4
+Altura pila cónica (m) 4
+Volumen pila cónica (m³) 67
+Granulometría máxima P80 (µm) 2700-2800
+3.2 CARACTERÍSTICAS DEL MATERIAL
+Con base a Ensayos Triaxiales de muestras de la zona presentados en Anexo A (Referencia
+N° 2), se obtienen los parámetros de la Tabla 3.
+Tabla 3. Propiedades geotécnicas material
+Propiedades material
+Densidad seca (T/m³) 1.45-1.47
+Ángulo de fricción residual (°) 30-32
+Cohesión efectiva (kPa) 6-2
+Resistencia no drenada (kPa) 25
+Humedad entrada (%) 17
+Humedad salida (%) 22
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 8
+================================================================================
+4. ANÁLISIS DE ESTABILIDAD
+4.1 METODOLOGÍA
+En el presente estudio los análisis se realizaron mediante el software GGU Stability,
+empleando el análisis de superficies circulares de Bishop. Para solicitaciones sísmicas el
+Software considera la influencia de solicitaciones mediante coeficiente de aceleración
+pseudoestáticos de acuerdo a la Fórmula de Kuntsche. La influencia de las aceleraciones
+sísmicas es considerada mediante cargas adicionales actuantes en el centroide de cada dovela.
+4.2 ANÁLISIS SÍSMICO
+De acuerdo al Manual de Carreteras del MOP el coeficiente sísmico a utilizar en el diseño de
+muros de contención, se determina como:
+𝐾 = 0.5𝐴′
+ℎ 𝑜
+Donde:
+𝐴′: Coeficiente de aceleración máxima efectiva establecido en la Tabla 3.1004.302.A del
+𝑜
+Manual de Carretera Vol 3.
+La zona de estudio corresponde a la zona 3 según NCh 433 of. 1996 Mod. 2012 (Referencia
+N° 7), a lo cual se asocia un coeficiente de aceleración efectiva máxima de 0.4g.
+La determinación del coeficiente sísmico horizontal se desarrolla utilizando las siguientes
+expresiones propuestas por Saragoni (1993) (Referencia N° 9):
+𝑎
+𝑚á𝑥
+0.30
+𝑔
+;𝑠𝑖 𝑎
+𝑚á𝑥
+≤ 0.67𝑔
+𝐾 =
+ℎ 𝑎
+3 𝑚á𝑥
+0.22√ ;𝑠𝑖 𝑎 > 0.67𝑔
+𝑔 𝑚á𝑥
+{
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 9
+================================================================================
+Dado que el Stockpile corresponde a una estructura de acopio temporal, con base en el Informe
+de Peligro Sísmico (Referencia N° 3), se tiene para el escenario de operación una aceleración
+máxima horizontal de 0.29g. Por lo que, según Saragoni (1993), el coeficiente sísmico
+horizontal a utilizar corresponde a 0.09.
+4.3 FACTORES DE SEGURIDAD
+De acuerdo a las recomendaciones por la Administración Federal de Carreteras (FHWA, por
+sus siglas en inglés), para verificar la estabilidad de taludes los Factores de seguridad
+empleados para el análisis se resumen en la Tabla 4:
+Tabla 4. Factores de seguridad Mínimos
+Ánálisis F.S.
+Estático ≥ 1.50
+Temporal ≥ 1.35
+Sísmico ≥ 1.10
+5. RESULTADOS DEL ANÁLISIS DE ESTABILIDAD
+La Tabla 5 presenta los resultados obtenidos del análisis de Estabilidad, considerando un
+ángulo de inclinación máximo de 33° y una altura máxima de h=4 m para el Stockpile de
+entrada. Para el Stockpile de salida, se considera un ángulo máximo de 45°, una altura máxima
+de h=4.00 m y un diámetro de 8.00 m. Desde la Figura 3 a la Figura 10 se presentan las salidas
+del software para cada escenario evaluado.
+Tabla 5. Resultados Análisis de Estabilidad, Factores de Seguridad según escenario evaluado
+Ánálisis Estático Drenado Sísmico Drenado Estático No Drenado Sismo No Drenado
+Stockpile Entrada 1.52 1.27 2.60 2.39
+Stockpile Salida 1.60 1.41 2.33 1.45
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 10
+================================================================================
+Figura 3. Stockpile alimentación, condición estática F.S. 1.52; h = 4 m pendiente 33°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 11
+================================================================================
+Figura 4. Stockpile alimentación, condición sismo F.S. 1.27; h = 4 m – pendiente 33°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 12
+================================================================================
+Figura 5. Stockpile alimentación, condición no drenada temporal F.S. 2.60; h = 4 m – pendiente 33°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 13
+================================================================================
+Figura 6. Stockpile alimentación, condición no drenada sismo F.S. 2.39; h = 4 m – pendiente 33°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 14
+================================================================================
+Figura 7. Stockpile salida, condición estática F.S. 1.60; h = 4.0 m – pendiente 45°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 15
+================================================================================
+Figura 8. Stockpile salida, condición sismo F.S. 1.41; h = 4.0 m – pendiente 45°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 16
+================================================================================
+Figura 9. Stockpile salida, condición no drenada temporal F.S. 2.33; h = 4.0 m – pendiente 45°
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 17
+================================================================================
+Figura 10. Stockpile salida, condición sismo no drenada F.S. 1.69; h = 4.0 m – pendiente 45°
+Los resultados indican que, para las condiciones de geometría analizadas, el material en los
+Stockpile de entrada debe disponerse con un ángulo máximo de 45° a una altura de h=4.0 m,
+la condición es controlada por la condición estática. Por otro lado, para el Stockpile de salida
+se verifica la condición de disposición de cono con 4.0 m de altura, diámetro de 8.00 m y
+ángulo máximo de 45°, la condición es controlada por la condición estática.
+Rafael Martínez
+Gerente Técnico
+Máster en Mecánica de Suelos
+Imperial College London
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 18
+================================================================================
+ANEXO A
+Informe “ENAYOS TRIAXIALES MUESTRAS INALTERADAS”. iit.
+Junio de 2021
+INFORME DE ANALISIS DE ESTABILIDAD DE STOCKPILE
+================================================================================
+PAGE 19
+================================================================================
+INFORME FINAL
+PROYECTO : ENSAYOS TRIAXILES MUESTRAS INALTERADAS
+PARA : LANCUYEN INGENIERIA
+OT : 2021-182-1
+Jefe de Proyecto
+Ing. Daniella Escribano
+Departamento Ingeniería Civil
+Universidad de Concepción
+Junio - 2021
+================================================================================
+PAGE 20
+================================================================================
+Ensayos Triaxiales
+Índice
+1 Introducción ........................................................................................................................ 3
+2 Ensayos Triaxiales CIU ....................................................................................................... 3
+2.1 Equipo de Ensayo .......................................................................................................... 3
+2.2 Resultados ..................................................................................................................... 3
+3 Ensayos Triaxiales UU ...................................................................................................... 13
+3.1 Metodología y Resultados ........................................................................................... 13
+4 Referencias ...................................................................................................................... 18
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 2 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 21
+================================================================================
+Ensayos Triaxiales
+1 Introducción
+En este documento se informan una serie de ensayos triaxiales realizados a muestras inalteradas
+El presente informe se redacta a solicitud Lancuyen Ingeniería Ltda. Se incluyen, además,
+granulometría y peso específico de las muestras ensayadas.
+2 Ensayos Triaxiales CIU
+2.1 Equipo de Ensayo
+El aparato utilizado para los ensayos que se entregan en este informe corresponde a un equipo
+triaxial dinámico VJ Tech Dynamic Triaxial System, con un marco de carga de 50kN, actuador
+electromecánico, resolución de 24 Bit, tamaño de muestra de 50mm de diámetro, frecuencia
+máxima de 5Hz, y presión máxima de 2MPa.
+Las mediciones se realizaron por medio del programa Clisp Studio – csDYNA Software.
+2.2 Resultados
+Los ensayos corresponden a triaxial consolidado no drenado CIU, en material inalterado. El
+material se identifica como C1/M1, y C3/M8. Los datos iniciales de cada muestra se indican en la
+Tabla 1.
+Para el ensayo triaxial CIU, cada muestra fue previamente saturada en tres etapas: circulación de
+dióxido de carbono, agua desairada, e incremento de contrapresión. Luego se aplicó consolidación
+isotrópica, hasta obtener una disipación de exceso de presión de poros de 98%.
+Cada ensayo de corte se realizó a una velocidad de 0.25 mm/min.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 3 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 22
+================================================================================
+Ensayos Triaxiales
+TABLA 1. Muestras ensayadas.
+Calicata/muestra C1/M1 C3/M8
+Identificación C1_100 C1_200 C1_450 C3_100 C3_200 C3_450
+*Altura (cm) 9.82 9.96 9.89 9.92 9.94 9.97
+*Diámetro (cm) 5.05 5.06 5.03 5.03 5.05 5.07
+Peso total inicial (g) 368.2 377.0 368.2 370.3 383 377
+*Densidad natural (g/cm3) 1.872 1.879 1.876 1.877 1.923 1.876
+B Skempton 0.97 0.94 0.96 0.94 0.95 0.94
+p’ (kPa) 98.5 198.1 448.5 98.9 196.8 448.8
+c
+*Valores corresponden a aquellos obtenidos después de la consolidación.
+Los resultados se presentan en base a los siguientes parámetros:
+Esfuerzo desviador: 𝑞 = 𝜎 −𝜎
+(cid:2869) (cid:2871)
+Esfuerzo efectivo promedio: 𝑝(cid:4593) = (cid:2869) (𝜎′ +2𝜎′ )
+(cid:2869) (cid:2871)
+(cid:2871)
+∆(cid:3009)
+Deformación axial: 𝜀 (cid:3028) = ∙100% (cambio en altura, dividido por la altura inicial Ho)
+(cid:3009)(cid:3290)
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 4 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 23
+================================================================================
+Ensayos Triaxiales
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+Figura 1. Trayectorias de esfuerzos ensayos CIU ensayos C1 (q: esfuerzo cortante o desviador;
+p’: esfuerzo efectivo promedio).
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 5 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C1_100
+p' (kPa)
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+)aPk(
+q
+C1_200
+p' (kPa)
+700
+600
+500
+400
+300
+200
+100
+0
+0 100 200 300 400 500
+)aPk(
+q
+C1_450
+p' (kPa)
+================================================================================
+PAGE 24
+================================================================================
+Ensayos Triaxiales
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+Figura 2. Trayectorias de esfuerzos ensayos CIU ensayos C3 (q: esfuerzo cortante o desviador;
+p’: esfuerzo efectivo promedio).
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 6 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C3_100
+p' (kPa)
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+)aPk(
+q
+C3_200
+p' (kPa)
+800
+600
+400
+200
+0
+0 100 200 300 400 500 600
+)aPk(
+q
+C3_450
+p' (kPa)
+================================================================================
+PAGE 25
+================================================================================
+Ensayos Triaxiales
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+Figura 3. Esfuerzo desviador q versus deformación axial ensayos CIU, C1.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 7 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C1_100
+ a(%)
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+)aPk(
+q
+C1_200
+ a(%)
+700
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20
+)aPk(
+q
+C1_450
+ a(%)
+================================================================================
+PAGE 26
+================================================================================
+Ensayos Triaxiales
+800
+600
+400
+200
+0
+0 5 10 15 20
+Figura 4. Esfuerzo desviador q versus deformación axial ensayos CIU, C3.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 8 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(
+q
+C3_100
+ a(%)
+800
+600
+400
+200
+0
+0 5 10 15 20
+)aPk(
+q
+C3_200
+ a(%)
+800
+600
+400
+200
+0
+0 5 10 15 20
+)aPk(
+q
+C3_450
+ a(%)
+================================================================================
+PAGE 27
+================================================================================
+Ensayos Triaxiales
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+Figura 5. Exceso de presión de poros versus deformación axial ensayos CIU, C1.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 9 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(uΔ
+C1_100
+ a(%)
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+)aPk(uΔ
+C1_200
+ a(%)
+-50
+0
+50
+100
+150
+200
+250
+300
+0 5 10 15 20
+)aPk(uΔ
+C1_450
+ a(%)
+================================================================================
+PAGE 28
+================================================================================
+Ensayos Triaxiales
+-140
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+Figura 6. Exceso de presión de poros versus deformación axial ensayos CIU, C3.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 10 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)aPk(uΔ
+C3_100
+ a(%)
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+)aPk(uΔ
+C3_200
+ a(%)
+-80
+-20
+40
+100
+160
+220
+280
+0 5 10 15 20
+)aPk(uΔ
+C3_450
+ a(%)
+================================================================================
+PAGE 29
+================================================================================
+Ensayos Triaxiales
+1,8
+1,6
+1,4
+1,2
+1
+0,8
+0,6
+0,4
+0,2
+0
+0 5 10 15 20
+Figura 7. Razón esfuerzo q/p’ versus deformación axial ensayos CIU.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 11 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+'p/
+q
+ a(%)
+C1_100 C1_200 C1_450
+1,8
+1,6
+1,4
+1,2
+1
+0,8
+0,6
+0,4
+0,2
+0
+0 5 10 15 20
+'p/
+q
+ a(%)
+C3_100 C3_200 C3_450
+================================================================================
+PAGE 30
+================================================================================
+Ensayos Triaxiales
+C1_100 C1_200 C1_450
+C3_100 C3_200 C3_450
+Figura 8. Estado de muestras terminado cada ensayo CIU.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 12 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 31
+================================================================================
+Ensayos Triaxiales
+3 Ensayos Triaxiales UU
+3.1 Metodología y Resultados
+El ensayo triaxial no consolidado no drenado UU se realizó en 4 probetas inalteradas provenientes
+de la Calicata 1, Calicata 2, y Calicata 3.
+Los ensayos se realizaron en base a la norma ASTM D2850.
+3
+2,5
+2
+1,5
+1
+0,5
+0
+0 5 10 15 20 25
+Figura 9. Muestra C1/M2, Esfuerzo de confinamiento de 150 kPa.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 13 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+nóisneT
+Deformación unitaria (%)
+================================================================================
+PAGE 32
+================================================================================
+Ensayos Triaxiales
+3
+2,5
+2
+1,5
+1
+0,5
+0
+0 2 4 6 8 10 12 14
+Figura 10. Muestra C2/M5, Esfuerzo de confinamiento de 50 kPa.
+Figura 11. Muestra C2/M6, Esfuerzo de confinamiento de 150 kPa.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 14 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+nóisneT
+Deformación unitaria (%)
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12
+)2mc/gk(
+nóisneT
+Deformación unitaria (%)
+================================================================================
+PAGE 33
+================================================================================
+Ensayos Triaxiales
+5
+4
+3
+2
+1
+0
+0 2 4 6 8 10 12
+Figura 12. Muestra C3/M7, Esfuerzo de confinamiento de 350 kPa.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 15 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+)2mc/gk(
+nóisneT
+Deformación unitaria (%)
+================================================================================
+PAGE 34
+================================================================================
+Ensayos Triaxiales
+5 Granulometría
+N° MUESTRA : 1 2 3 4 5
+ORIGEN MUESTRA : C-1 C-1 C-1 C-2 C2
+PROFUNDIDAD :
+GRANULOMETRÍA (LNV 105)
+Tamiz % que pasa
+1 1/2"
+1"
+3/4"
+3/8"
+N° 4 100 100 100 100 100
+N° 10 80 93 87 85 86
+N° 20 67 81 73 70 71
+N° 40 58 71 61 57 59
+N° 60 50 65 50 47 49
+N° 200 35 52 29 32 34
+PROPIEDADES ÍNDICE (NCh 1532, NCh 1515)
+2.66
+Peso específico Gs 2.66 2.59 2.65 2.61
+19.0
+Humedad natural (%) 17.6 20.8 18.7 22.0
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 16 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 35
+================================================================================
+Ensayos Triaxiales
+6 7
+N° MUESTRA : 6 7 8 9
+post ensayo post ensayo
+ORIGEN MUESTRA : C-2 C-3 C-3 C-3 C-2 C-3
+PROFUNDIDAD :
+GRANULOMETRÍA (LNV 105)
+Tamiz % que pasa
+1 1/2"
+1"
+3/4"
+3/8"
+100
+N° 4 100 99 100 100 100 100
+N° 10 83 81 84 86 84 82
+N° 20 69 68 70 71 71 69
+N° 40 58 58 59 60 61 60
+N° 60 49 51 50 52 53 53
+N° 200 36 40 33 35 41 42
+PROPIEDADES ÍNDICE (NCh 1532, NCh 1515)
+Peso específico Gs 2.61 2.63 2.58 2.64
+Humedad natural (%) 18.8 19.2 20.0 19.6
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 17 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl
+================================================================================
+PAGE 36
+================================================================================
+Ensayos Triaxiales
+6 Referencias
+ASTM D4767 – 11. (2011) “Standard Test Method for Consolidated Undrained Triaxial
+Compression Test for Cohesive Soils”. ASTM International.
+ASTM D2850 – 15. (2015) “Standard Test Method for Unconsolidated Triaxial Compression Test
+on Cohesive Soils, ASTM International.
+Universidad de Concepción  Facultad de Ingeniería  IIT UdeC  Edmundo Larenas 270 Int.  Casilla 160-C Correo 3 18 / 18
+Concepción Chile  Fonos: (56-41) 2234877- 2204422 – 2204887  Fax : (56-41) 2259190
+email: iit@udec.cl  www.iit.udec.cl

@@ -1,0 +1,834 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-3.3
+Geochemical Memo
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+MT-001
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Document: Technical Memo 01
+Recipients: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Prepared by: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Date: 02/28/2024
+Reference: Environmental geochemical characterization of the Clay Extraction project for Production of
+Rare Earth Concentrate
+1. INTRODUCTION
+This technical memo analyzes the representativeness of the samples selected for the
+geochemical characterization, specifically head analysis, of the “Extraction of
+Clays for Rare Earth Concentrate Production” as technical support to the Impact Study
+Environmental entered into the Environmental Impact Assessment System, where it is necessary to evaluate and
+guarantee the chemical stability of the extraction zones (ZDE) and the waste that will make up the
+disposal zone (ZDD) that is generated due to the exploitation of rare earths (REE).
+ACLARA RE carried out sampling in the main extraction lithological units that correspond to
+Garnet granites (GG), Diorites (DRT) and Metapelites (MP) from the different ZDE. In total they took
+14 head samples plus 1 duplicate.
+2. DEVELOPMENT
+2.1 Extraction units
+It has been established that the main extraction units correspond to Garnet Granites
+(GG), Diorites (DRT) and Metapelites (MP).
+According to the mining plan and the block model made for this project, 10.13 Mt of
+material. The detail of the percentages and tonnages for each extraction unit is shown in the
+graph in Figure 2-1.
+www.taypi-ghc.cl / 1
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 3
+==================================================================================
+MT-001
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Figure 2-1. Percentages of the main extraction units of the deposit
+Tonnage Unit Percent
+Unit of
+extraction unit
+extraction
+(Ton) extraction
+GG 8459000 84%
+DRT 1373000 14%
+MP 298000 3%
+TOTAL 10130000 100%
+Source: own elaboration.
+2.2 Geochemical sampling
+The extraction zones (ZDE) according to the Project description correspond to northern Victoria (V
+NOR), Maite (MAY) and Luna (LUN), while the disposition zone (ZDD) corresponds to Neptune
+(NEP). It is also considered a plant collection area called ZAV.
+14 samples (plus 1 duplicate) were obtained from sonic drilling of material from the
+main extraction units associated with the predominant lithologies (garnet granites,
+Diorites and Metapelites), distributed in the different ZDE. Figure 2-2 shows the distribution of
+the samples taken, as well as the ZDE and ZDD of the project. Also included is the local geology of the
+sector. The following table indicates the ID and origin of the samples.
+Table 2-1: Samples selected for geochemical characterization of project heads
+ID ID X (East) Y Z Drillhole FROM TO Lithology ZDE
+Taypi PROMET (North)
+M-01 VTN-028 681412 5931150 164.86 SDVIN20021 8.3 10.7 MP VTN
+M-02 MYT-025 680497 5928761 219.74 SDMAI20006 15.7 17.3 DRT MYT
+M-03 AXD-003 683103 5930725 288.75 SDAXD20006 3.0 4.7 GG
+M-04 AXD-011 682575 5930719 222.89 SDAXD20016 2.7 6.7 GG
+M-05 LUN-003 681575 5928895 300.81 SDLUN20013 13.7 14.7 DRT LUN
+M-06 MYT-004 680471 5928541 210.01 SDMAI20012 3.7 5.7 GG MYT
+M-07* AXD-011 682575 5930719 222.89 SDAXD20016 2.7 6.7 GG
+M-08 MYT-016 680192 5928394 185.87 SDMAI20029 6.7 8.7 GG MYT
+M-09 VTS-014 681122 5930167 243.03 SDVIS20022 29.7 30.3 GG
+M-10 MYT-015 68043
+1 5928314 215.33 SDMAI20062 26.3 28.3 GG MYT
+M-11 VTN-004 681231 5930876 190.32 SDVIN20012 13.7 14.7 GG VTN
+M-12 MYT-010 680704 5928484 244.09 SDMAI20045 14.1 15.7 DRT MYT
+M-13 MYT-022 680631 5928669 245.2 SDMAI20069 32.7 34.7 GG MYT
+www.taypi-ghc.cl / 2
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 4
+==================================================================================
+MT-001
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+ID ID X (East) Y Z Drillhole FROM TO Lithology ZDE
+Taypi PROMET (North)
+M-14 VTS-001 681083 5929967 245.32 SDVIS20026 13.7 15.2 GG
+M-15 VTN-008 681372 5931236 168.97 SDVIN20023 2.7 3.7 GG VTN
+GG: Garnet granites; DRT: Diorite; MT: Metapelites
+*M-07 duplicate of M-04
+Source: own elaboration.
+Figure 2-2: Distribution of geochemical samples seen in plan.
+Source: own elaboration based on geological information of the Owner
+2.3 Evaluation of representativeness of head samples
+Figure 2-3 shows the percentages of the extraction units represented by the
+selected head samples. Considering these values, it is established that they are representative
+of the total deposit given that the percentages of each of these extraction units are similar
+www.taypi-ghc.cl / 3
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 5
+==================================================================================
+MT-001
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+(Figure 2-1), with a statistical error of 0.057. The main variation that exists corresponds to the
+overrepresentation of the Diorite and Metapelite units, because each sample represents a
+7% of the total samples (14), generating percentages a little higher than the total distribution of
+said units in the warehouse.
+Figure 2-3 Percentages of extraction units represented by head samples
+selected
+Source: own elaboration.
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11,626,035-2 17,209,178-4
+Professional master in underground hydrology Professional master in underground hydrology
+Master in water resources
+www.taypi-ghc.cl / 4
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+g
+d
+M
+T
+g
+R
+Q
+Or
+u
+and
+T
+T
+n
+x
+A
+id
+t r a
+l
+to
+c
+d
+c
+d
+went
+and
+n
+No. m
+C to
+u e
+b e
+1 0
+3
+1
+1 4
+s t
+z a
+r
+yes
+to s
+P or
+m
+c
+r c e n t a
+u e s t r a
+a b e z a
+7 1%
+2 1%
+7%
+1 0 0 %
+heh
+yes
+yes
+==================================================================================
+PAGE 6
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Document: Technical Memo 02
+Recipients: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Prepared by: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Date: 02/28/2023
+Reference: Environmental geochemical characterization of the Clay Extraction project for Production of
+Rare Earth Concentrate
+1. INTRODUCTION
+This technical memo summarizes the results of the geochemical characterization of the units
+lithological characteristics present in the extraction areas or heads, for the project “Extraction of Clays for
+Production of Rare Earth Concentrate, as technical support for the Environmental Impact Study
+entered into the Environmental Impact Assessment System, where it is necessary to evaluate and guarantee the
+chemical stability of the extraction zones (ZDE) that will be exposed due to exploitation
+of rare earths (REE).
+During 2022, ACLARA carried out sampling in the main extraction units that
+correspond to Garnet Granites (GG), Diorites (DRT) and Metapelites (MP) from the different Zones of
+Extraction, for their geochemical characterization.
+These samples were characterized according to the recommendations of the Chemical Stability Guide
+(SERNAGEOMIN et al., 2015), running the paste pH test, SPLP test (EPA, 1994) and mineralogy.
+It should be noted that the SPLP test is also required in Article 23 of DS 148 on waste.
+dangerous (MINSAL, 2003).
+Objective
+Evaluate the chemical stability of the head material that will be exposed.
+this in the Extraction Zones of the
+project “Extraction of Clays for the Production of Rare Earth Concentrates”.
+2. DEVELOPMENT
+14 samples (plus 1 duplicate) were collected as part of the geochemical characterization for study
+chemical stability for which the SPLP Test “Synthetic Precipitation Leaching” was executed
+Procedure” (EPA, 1994) suggested in Article 23 of DS148 (MINSAL, 2003) and recommended in the Guide
+Methodology for the Chemical Stability of Mining Sites and Facilities, (SERNAGEOMIN et al.,
+2015). In addition to the concentrations of As, Cr, Hg, Pb, Se, Ba, Cd and Ag required by DS 148,
+It scanned for trace metals, as well as anions and major cations.
+The results of the SPLP test were compared with the maximum permissible limits of the standards of
+water quality DS 90 (SEGPRES, 2001) and NCh 1333 (INN, 1987).
+Additionally, paste pH and mineralogy tests were carried out through TIMA.
+www.taypi-ghc.cl / 1
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 7
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Table 2-1 indicates the ID and origin of the samples.
+Table 2-1: Geochemical sampling “Clay Extraction for Rare Earth Concentrate Production”.
+ID X Y
+N Original ID Drillhole Target FROM TO Lithology ZDE
+Laboratory (East) (North)
+1 VTN-028 M-01 Heads 681412 5931150 SDVIN20021 7.3 14.3 MP VTN
+2 MYT-025 M-02 Heads 680497 5928761 SDMAI20006 15.7 21.7 DRT MYT
+3 AXD-003 M-03 Heads 683103 5930725 SDAXD20006 3 8.7 GG
+4 AXD-011 M-04 Heads 682575 5930719 SDAXD20016 2.7 10.7 GG
+5 LUN-003 M-05 Heads 681575 5928895 SDLUN20013 11.1 20.9 DRT LUN
+6 MYT-004 M-06 Heads 680471 5928541 SDMAI20012 3.7 13.7 GG MYT
+7 AXD-011 M-07* Heads 682575 5930719 SDAXD20016 2.7 10.7 GG
+8 MYT-016 M-08 Heads 680192 5928394 SDMAI20029 6.2 12.2 GG MYT
+9 VTS-014 M-09 Heads 681122 5930167 SDVIS20022 25.9 31.8 GG
+10 MYT-015 M-10 Heads 680431 5928314 SDMAI20062 23.3 31.3 GG MYT
+11 VTN-004 M-11 Heads 681231 5930876 SDVIN20012 13.7 21.7 GG VTN
+12 MYT-010 M-12 Heads 680704 5928484 SDMAI20045 10.1 16.1 DRT MYT
+13 MYT-022 M-13 Heads 680631 5928669 SDMAI20069 31.5 39.7 GG MYT
+14 VTS-001 M-14 Heads 681083 5929967 SDVIS20026 7.7 16.7 GG
+15 VTN-008 M-15 Heads 681372 5931236 SDVIN20023 0.9 8.9 GG VTN
+GG: Garnet granites; DRT: Diorite; MT: Metapelites
+*M-07 duplicate of M-04
+Source: Own elaboration
+www.taypi-ghc.cl / 2
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 8
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+3. RESULTS
+3.1 pH in paste
+To evaluate the acidity, the paste pH test indicated in the Chemical Stability Guide was run.
+(SERNAGEOMIN et al., 2015) to determine the acidity or alkalinity of the material.
+The results are presented in Graph 3-1. The average corresponds to a slightly acidic pH of 5.83.
+that complies with the provisions of the NCh standard. 1333 whose range goes from 5.5 to 9. There are some
+values below the lower limit of the norm.
+The Methodological Guide for the Chemical Stability of Mining Works and Facilities (SERNAGEOMIN,
+2015) points out that a paste pH lower than 5.0 will give indications of a possible generation of acids by
+part of the sample, while a pH greater than 7.0, the possible presence of carbonates. According to what
+previously mentioned, although the results of some samples would be below the limit allowed by
+the NCH. 1333 (pH of 5.5), since these results are greater than pH 5, there would be no potential to generate acidity.
+Chart 3-1. Paste pH in head samples 2022
+Source: Own elaboration.
+www.taypi-ghc.cl / 3
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 9
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+3.2 SPLP Test
+This test is designed to simulate the mobility of organic compounds and
+inorganic from
+a waste exposed to acid rainwater. For the evaluation, a portion of the material is shaken for 18 hours.
+of the sample, with an acidic solvent at pH 4.2, and the resulting solution is analyzed for cations, anions
+and trace metals, including sulfates and ammonium.
+Table 3-1 presents the results of the SPLP test analyzes of the most relevant elements.
+and in Annex 1 the certificates of all these analyzes carried out by the AGQ laboratory are provided.
+The results of the concentrations in the SPLP eluate of all analytes comply with the
+limits established by water quality standards DS 90 (SEGPRES, 2001) and NCh 1333 (INN, 1987),
+and some are even below the detection limit. It should be noted that elements such as
+sulfates and ammonium, have average concentrations of 2 and 0.16 mg/l respectively, well below
+of the maximum values established by NCh 1333 ([SO ]: 250 mg/l) and according to DS 90 ([NH4]:
+4 max max
+64 mg/l, equivalent to 50 mg/l of Total Kjeldahl N).
+Regarding the result of the SPLP test for the analytes required by the norm of D.S N°148/2003, which
+requires the analysis of the extract for As, Ba, Cd, Cr, Pb, Hg, Se and Ag, it is concluded that the head material
+that will be exposed in the Extraction Areas does not exceed the maximum permitted limits, ruling out
+its extrinsic toxicity.
+www.taypi-ghc.cl / 4
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 10
+==================================================================================
+Table 3-1 SPLP Results
+Sample CE pH HCO - NH + As Ba Cd Cr Fe Mn Hg Ag Pb Se SO =
+3 4 4
+FILTERED filtered
+µS/cm U of pH mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l
+AXD-003 19.0 5.96 10.00 0.45 <0.0010 0.004 <0.0005 <0.00250 <0.010 0.0222 <0.00050 <0.0010 <0.00050 <0.0010 0.6
+AXD-011 35.0 6.05 10.00 0.18 <0.0010 0.0421 <0.0005 <0.00250 0.022 0.1323 <0.00050 <0.0010 <0.00050 0.0018 2.29
+LUN-003 16.4 5.56 10.00 0.16 <0.0010 0.0011 <0.0005 <0.00250 0.029 0.0031 <0.00050 <0.0010 <0.00050 <0.0010 2.03
+MYT-004 18.3 6.19 10.00 0.08 <0.0010 0.0054 <0.0005 <0.00250 0.019 0.0124 <0.00050 <0.0010 <0.00050 <0.0010 1.62
+MYT-010 12.8 6.13 10.00 0.27 <0.0010 <0.0010 <0.0005 <0.00250 <0.010 0.0077 <0.00050 <0.0010 <0.00050 <0.0010 1.09
+MYT-015 20.3 6.12 10.00 0.14 <0.0010 0.0178 <0.0005 <0.00250 <0.010 0.0276 <0.00050 <0.0010 <0.00050 0.0033 1.49
+MYT-016 21.0 6.22 10.00 0.1 <0.0010 0.0038 <0.0005 <0.00250 <0.010 0.0136 <0.00050 <0.0010 <0.00050 0.0011 1.49
+MYT-022 28.3 6.55 10.00 <0.06 <0.0010 <0.0010 <0.0005 <0.00250 <0.010 0.0065 <0.00050 <0.0010 <0.00050 <0.0010 1.32
+MYT-025 19.0 6.71 10.00 <0.06 <0.0010 <0.0010 <0.0005 <0.00250 0.017 <0.0010 <0.00050 <0.0010 <0.00050 0.0019 1.3
+VTN-004 23.6 6.56 10.00 0.2 <0.0010 0.0047 <0.0005 0.0242 <0.010 0.0095 <0.00050 <0.0010 <0.00050 0.0011 1.84
+VTN-008 21.5 6.18 10.00 0.2 <0.0010 0.0047 <0.0005 <0.00250 <0.010 0.0607 <0.00050 <0.0010 <0.00050 <0.0010 1.84
+VTN-028 14.4 6.96 10.00 0.13 <0.0010 <0.0010 <0.0005 <0.00250 0.103 0.0157 <0.00050 <0.0010 <0.00050 0.0025 1.78
+VTS-001 13.2 6.25 10.00 0.11 <0.0010 0.0137 <0.0005 <0.00250 <0.010 0.0283 <0.00050 <0.0010 <0.00050 <0.0010 1.56
+VTS-014 15.6 6.52 10.00 0.09 <0.0010 0.0187 <0.0005 0.0052 0.705 0.0215 <0.00050 <0.0010 <0.00050 <0.0010 1.15
+Average 19.9 6.28 10.0 0.16 <0.0010 0.0187 <0.0005 0.0042 0.0630 0.0259 <0.00050 <0.0010 <0.00050 0.0014 2
+Median 19.0 6.21 10.0 0.14 <0.0010 0.0086 <0.0005 0.0025 0.01 0.0147 <0.00050 <0.0010 <0.00050 0.0010 1.53
+Standard NCh.1333 NCh.1333 - DS 90 DS 148 DS 148 DS 148 DS 148 NCh. NCh. DS 148 DS 148 DS 148 DS 148 NCh.
+1333 1333 1333
+Limit 750 5.5-9 - 64 5 100 1 5 5 0.2 0.2 5 5 1 250
+Norm
+Source: Own elaboration based on SPLP certificates from AGQ Labs.
+==================================================================================
+PAGE 11
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+3.3 Mineralogy
+A mineralogical scan was carried out under Tescan (TIMA) and XRD in the SGS laboratory, to determine the
+ore and gangue mineralogy present, information from which the following points are highlighted
+graphed.
+Sulfides and sulfates
+Only traces of sulfides are detected
+corresponding to Marcasite. The
+SGS laboratory, which
+in doing the
+mineralogy, does not specify the type of
+sulfur present. It highlights the
+little presence of sulfides and
+sulfates in the sector, this implies
+that the material naturally does not
+has the potential to generate drainage
+sulfated or acidic.
+Iron oxyhydroxides and oxides
+Regarding the mineral phases of
+iron oxides and hydroxides,
+report a sum of Oxides
+of Fe, Cr, Ti and Mn, indicating
+goethite via XRD, equivalent to
+Fe hydroxides, in
+quite low concentrations.
+www.taypi-ghc.cl / 6
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 12
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Clay group
+The main clay phases in the
+ore heads are kaolin,
+vermiculite from the group of
+smectites, and illite, detected by
+DRX, the latter being relevant in the
+cation exchange process.
+REE minerals
+Mineral phases with REE
+identified are Monazite,
+Allanite-(Ce), Florencite-(La),
+Bastnasite, Xenotime-(Y), and
+Cheralite.
+www.taypi-ghc.cl / 7
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 13
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+4. CONCLUSIONS
+The results of the pH in Paste present an average of pH 5.83, slightly acidic that meets the
+established in the NCh standard. 1333 whose range goes from 5.5 to 9. There are some values under the limit
+lower than the norm, but all higher than pH 5. Considering the mineralogical results carried out
+by TIMA and DRX, the low presence of sulfides and sulfates in the sector stands out, this implies that the
+Material naturally has no potential to generate sulfated or acidic drainage.
+Regarding the SPLP test, according to the results of the chemical analyzes of the eluate (resulting solution
+of agitation), it was possible to verify that the head materials that were exposed in the
+extraction areas, will comply with chemical stability given that the concentrations in the eluate of the
+SPLP in all analytes are below the maximum concentrations allowed by the quality standard
+of waters D.S N°90 (SEGPRES, 2001) and NCh 1333 (INN, 1987), in addition to ruling out its toxicity
+extrinsic.
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11,626,035-2 17,209,178-4
+Professional master in underground hydrology Professional master in underground hydrology
+Master in water resources
+www.taypi-ghc.cl / 8
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 14
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+5. ANNEXES
+Laboratory certificates
+www.taypi-ghc.cl / 9
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 15
+==================================================================================
+MT-002
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+6. REFERENCES
+EPA, U. (1994). Method 1312: Synthetic Precipitation Leaching Procedure, part of Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods (SW-846), 3rd edition. Environmental
+Protection Agency, National Center for Environmental Publications, Cincinnati, OH 45268.
+https://www.epa.gov/hw-sw846/sw-846-test-method-1312-synthetic-precipitation-leaching-
+procedure
+INN, 1987. Official Chilean Standard NCh 1333/Of78 Modified in 1987. Water quality requirements
+for different uses.
+MINSAL. (2003). Supreme Decree No148 Approves Health Regulations on Waste Management
+dangerous.
+Supreme Decree No 90. Establishes emission standards for the regulation of pollutants associated with
+discharges of liquid waste to surface marine and continental waters. Ministry
+General Secretary of the Presidency., (2001) (testimony of SEGPRES).
+SERNAGEOMIN, FCH, & Corfo. (2015). Methodological Guide for Chemical Stability
+ica of Faenas and
+Mining Facilities. Chile Foundation, Sernageomin, Corfo.
+http://www.sernageomin.cl/pdf/mineria/cierrefaena/GuiaMetodologicaQuimica.pdf
+www.taypi-ghc.cl / 10
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 16
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+Document: Technical Memo 03
+Recipients: Sebastian Rojas, Viviana Flores, Ximena Valin, Nicole San Martin, ACLARA RE.
+Prepared by: Paola Ibáñez Zamorano, Chaynna Lodis Cortes, Taypi Geohidroconsultores Ltda.
+Date: 02/27/2024
+Reference: Environmental geochemical characterization of the Clay Extraction project for Production of
+Rare Earth Concentrate
+1. INTRODUCTION
+This technical memo summarizes the results of the geochemical characterization, carried out in the
+project “Extraction of Clay for Production of Rare Earth Concentrate”, as support
+technical to the Environmental Impact Study entered into the Environmental Impact Assessment System,
+where it is necessary to evaluate and guarantee the chemical stability of the waste that will make up the area
+of disposal (ZDD) that is generated due to the exploitation of rare earths (REE).
+During 2023, ACLARA carried out sampling in the main extraction units that
+correspond to Garnet Granites (GG), Diorites (DRT) and Metapelites (MP) from the different Zones of
+Extraction, whose samples were divided to recreate the metallurgical process and obtain the respective
+waste, or also called, processed clay that will be disposed of in the ZDD.
+These samples were characterized according to the recommendations of the Chemical Stability Guide
+(SERNAGEOMIN et al., 2015), executing the SPLP test (EPA, 1994) which is also required in the
+Article 23 of DS 148 on hazardous waste (MINSAL, 2003).
+Objective
+Evaluate the chemical stability of the material that will give rise to the waste that will make up the area of
+disposal of the processed clay from the project “Extraction of Clays for Concentrate Production
+of Rare Earths”.
+2. DEVELOPMENT
+20 samples were collected (plus 1 duplicate) which were subjected to the leaching process.
+filtration and washing, these samples being representative of the waste that will be generated from the
+metallurgical process presented in the project for the extraction of rare earths. These samples
+They are part of the geochemical characterization for the study of chemical stability, executing the Test
+SPLP “Synthetic Precipitation Leaching Procedure” (EPA, 1994) suggested in Article 23 of DS148
+(MINSAL, 2003) and recommended in the Methodological Guide for the Chemical Stability of Sites and
+Mining Facilities, (SERNAGEOMIN et al., 2015). In addition to the concentrations of As, Cr, Hg, Pb,
+Se, Ba, Cd and Ag required by DS 148, a scan was made for trace metals, as well as anions and
+major cations.
+www.taypi-ghc.cl / 1
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 17
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+The results of the SPLP test were also compared with the maximum permissible limits of the standards.
+of water quality DS 90 (SEGPRES, 2001) and NCh 1333 (INN, 1987).
+Table 2-1 indicates the ID and origin of the samples.
+Table 2-1: Geochemical Sampling “Clay Extraction for Production of Rare Earth Concentrate”,
+2023.
+ID ID X
+AND COLD
+N Origin Lab Certified Drillhole Analysis TO Lithology ZDE
+(North) M
+to the Laboratory (East)
+LX-23/000545-
+M1 AQG SPLP
+VIN00 S2 SDVINPIL
+1 681188 5930908 0.5 17 GG VTN
+5-C 193962/2023- O005C
+M-15 ALS SPLP
+1.0
+LX-23/000546-
+M2 AQG SPLP
+MYT00 S2 SDMAIPIL
+2 680195 5928374 0 14 GG MYT
+4-A 193963/2023- O004A
+M-16 ALS SPLP
+1.0
+LX-23/000547-
+M3 AQG SPLP
+AXDP0 S2 SDAXDPIL
+3 682107 5930881 0 14 DRT AXDP
+10-C O010C
+193964/2023-
+M-17 ALS SPLP
+1.0
+LX-23/000548-
+M4 AQG SPLP
+VIS001 S2 SDVISPIL
+4 681228 5930091 0 8 GG VTS
+-F 193965/2023- O001F
+M-18 ALS SPLP
+1.0
+LX-23/000549-
+M5 AQG SPLP
+LUN00 S2 SDLUNPIL
+5 681539 5928697 0.4 20 GG MON
+8-D O008D
+193966/2023-
+M-19 ALS SPLP
+1.0
+LX-23/000550-
+M6 AQG SPLP
+MYT00 S2 SDMAIPIL
+6
+680285 5928185 0.7 14 DRT MYT
+3-A 193967/2023- O003A
+M-20 ALS SPLP
+1.0
+LX-23/000551-
+M7 AQG SPLP
+VIN00 S2 SDVINPIL
+7 681425 5931250 0 8 GG VTN
+6-F O006F
+193968/2023-
+M-21 ALS SPLP
+1.0
+LX-23/000552-
+M8 AQG SPLP
+VIS002 S2 SDVISPIL
+8 681059 5929906 0.4 11 GG VTS
+-Q 193969/2023- O002Q
+M-22 ALS SPLP
+1.0
+LX-23/000553-
+M9 AQG SPLP
+AXDO0 S2 SDAXDPIL
+9 682718 5930609 0 11.7 GG AXDO
+09-A 193970/2023- O009A
+M-23 ALS SPLP
+1.0
+LX-23/000554-
+M10 AQG SPLP
+VIS001 S2 SDVISPIL
+10 681223 5930093 0 8 GG VTS
+-N 193991/2023- O001N
+M-24 ALS SPLP
+1.0
+LX-23/000555-
+M11 AQG SPLP
+LUN00 S2 SDLUNPIL
+11 681650 5928883 0 11 GG MON
+7-F 193992/2023- O007F
+M-25 ALS SPLP
+1.0
+LX-23/000556-
+M12 AQG SPLP
+LUN00 S2 SDLUNPIL
+12 681542 5928698 0 20 GG MON
+8-B 193993/2023- O008B
+M-26 ALS SPLP
+1.0
+www.taypi-ghc.cl / 2
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 18
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+ID ID X
+AND COLD
+N Origin Lab Certified Drillhole Analysis TO Lithology ZDE
+(North) M
+to the Laboratory (East)
+LX-23/000557-
+M13 AQG SPLP
+MYT00 S2 SDMAIPIL
+13 680286 5928186 0.1 14 DRT MYT
+3-E 193994/2023- O003E
+M-27 ALS SPLP
+1.0
+LX-23/000558-
+M14 AQG SPLP
+MYT00 S2 SDMAIPIL
+14 680197 5928371 0 14 MP MYT
+4-F O004F
+193995/2023-
+M-28 ALS SPLP
+1.0
+LX-23/000559-
+M15 AQG SPLP
+AXDO0 S2 SDAXDPIL
+15 682723 5930611 0 14 GG AXDO
+09-F 193996/2023- O009F
+M-29 ALS SPLP
+1.0
+LX-23/000560-
+M16 AQG SPLP
+AXDP0 S2 SDAXDPIL
+16 682108 5930883 0 14 DRT AXDP
+10-D O010D
+193997/2023-
+M-30 ALS SPLP
+1.0
+LX-23/000561-
+M17 AQG SPLP
+VIN00 S2 SDVINPIL
+17 681189 5930911 0.4 17 GG VTN
+5-E 193998/2023- O005E
+M-31 ALS SPLP
+1.0
+LX-23/000562-
+M18 AQG SPLP
+LUN00 S2 SDLUNPIL
+18 681647 5928885 0 11 GG MON
+7-B 193999/2023- O007B
+M-32 ALS SPLP
+1.0
+LX-23/000563-
+M19 AQG SPLP
+VIS002 S2 SDVISPIL
+19 681050 5929896 0.7 11 GG VTS
+-B 194000/2023- O002B
+M-33 ALS SPLP
+1.0
+LX-23/000564-
+M20 AQG SPLP
+VIN00 S2 SDVINPIL
+20 681424 5931254 0.5 8 GG VTN
+6-D 194001/2023- O006D
+M-34 ALS SPLP
+1.0
+LX-23/000565-
+M21 AQG SPLP
+VIN00 S2 SDVINPIL
+21 681188 5930908 0.5 17 GG VTN
+5-C 194002/2023- O005C
+M-35 ALS SPLP
+1.0
+GG: Garnet granites; DRT: Diorite; MT: Metapelites
+Source: Own elaboration
+www.taypi-ghc.cl / 3
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 19
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+3. RESULTS
+Table 3-1 presents the results of the SPLP test analyzes of the most relevant elements.
+and in Annex 1 the certificates of all these analyzes carried out by the AGQ laboratories are provided.
+and ALS.
+It can be observed that the concentrations of As, Cr, Hg, Pb, Se, Ba, Cd and Ag in the eluate (solution
+resulting from agitation) of the SPLP test, there is no evidence of solubilization of these species, in all
+the samples, ruling out extrinsic toxicity according to DS 148.
+The concentrations in the SPLP eluate of all analytes, including sulfate and ammonium, which are
+aggregates during the metallurgical process, are under the maximum concentrations allowed by the
+water quality standard DS 90 (SEGPRES, 2001) and NCh 1333 (INN, 1987). The sulphate has a
+average concentration of 210 mg/l and a median of 225 mg/l, values below the
+maximum concentration of 250 mg/l allowed by NCh1333 while ammonium has a
+average of 17 mg/l and a median of 17.4 mg/l, concentrations below 64 mg/l indicated as
+maximum according to DS90 (equivalent to 50 mg/l of Total Kjeldahl N).
+www.taypi-ghc.cl / 4
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 20
+==================================================================================
+Table 3-1 SPLP Results
+EC pH
+HCO - NH + As Ba Cd Cr Fe Mn Hg Ag Pb Se SO =
+3 4 4
+Sample FILTERED filtered
+µS/cm U of pH mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l mg/l
+VIN005-C 425 6.78 <10 15 0.0006 0.0032 < 0.0003 0.0059 0.0973 0.0189 < 0.0001 < 0.0003 0.0091 < 0.0003 159
+MYT004-A 446 5.9 <10 23.1 < 0.0003 0.0066 < 0.0003 0.0017 0.0173 0.0085 < 0.0001 <
+0.0003 0.001 < 0.0003 182
+AXDP010C 612 5.6 <10 23.2 0.0004 0.0056 < 0.0003 0.005 0.1083 0.0534 < 0.0001 < 0.0003 0.0006 0.001 245
+VIS001-F 556 5.79 <10 21.3 0.0006 0.003 < 0.0003 0.0063 0.0466 0.0062 < 0.0001 < 0.0003 < 0.0004 0.0003 226
+MON 008 D 536 5.71 <10 18.4 0.0004 0.0058 < 0.0003 0.007 0.0229 0.0501 < 0.0001 < 0.0003 < 0.0004 < 0.0003 227
+MYT003A 489 7.58 10.3 9.41 0.0008 0.0064 < 0.0003 0.0058 0.0815 0.0176 < 0.0001 < 0.0003 < 0.0004 < 0.0003 202
+VIN006F 622 5.55 <10 21.8 0.0004 0.0092 < 0.0003 0.0052 0.1373 0.1747 < 0.0001 < 0.0003 < 0.0004 < 0.0003 259
+VIS002Q 388 5.45 <10 13.8 0.0003 0.006 < 0.0003 0.0058 0.1488 0.056 < 0.0001 < 0.0003 0.0016 < 0.0003 152
+AXD009A 410 5.33 <10 16.3 < 0.0003 0.0138 < 0.0003 0.002 0.2425 0.3105 < 0.0001 < 0.0003 < 0.0004 < 0.0003 163
+VIS001N 535 5.69 <10 19.5 0.0006 0.008 < 0.0003 0.0045 0.0185 0.025 < 0.0001 < 0.0003 0.0045 0.0003 228
+LUN007F 637 5.46 <10 26.2 0.0009 0.0036 < 0.0003 0.0062 0.0293 0.0173 < 0.0001 < 0.0003 0.0011 0.0004 257
+LUN008B 243 6.3 <10 9.01 0.001 0.0008 < 0.0003 0.0047 < 0.0060 0.0319 < 0.0001 < 0.0003 < 0.0004 0.0003 93.2
+MYT003E 583 5.53 <10 15.7 0.0006 0.0075 < 0.0003 0.0056 0.0085 0.0303 < 0.0001 < 0.0003 0.0077 < 0.0003 252
+MYT004F 364 5.72 <10 13.8 0.0008 0.0045 < 0.0003 0.0062 < 0.0060 0.0203 < 0.0001 < 0.0003 0.0025 0.0005 140
+AXDP0009F 520 5.93 <10 11.2 0.0005 0.0034 < 0.0003 0.0054 0.0375 0.0469 < 0.0001 < 0.0003 0.0008 < 0.0003 222
+AXDPO10D 625 6.65 <10 18.1 0.0006 0.0041 < 0.0003 0.006 0.0105 0.0027 < 0.0001 < 0.0003 0.0025 < 0.0003 271
+VIN005E 571 6.63 <10 18.9 0.0006 0.0057 < 0.0003 0.0064 0.0725 0.0305 < 0.0001 < 0.0003 0.0049 < 0.0003 225
+LUN007B 453 5.62 <10 13.8 < 0.0003 0.0092 < 0.0003 0.0011 0.0701 0.0404 < 0.0001 < 0.0003 0.0013 < 0.0003 177
+VIS002B 581 5.87 <10 17.4 0.0006 0.0064 < 0.0003 0.0063 0.0297 0.014 < 0.0001 < 0.0003 0.0025 < 0.0003 243
+VIN006D 652 5.17 <10 17.7 0.0007 0.0063 < 0.0003 0.0053 0.0266 0.1191 < 0.0001 < 0.0003 0.0027 < 0.0003 277
+VIN005-C 541 5.9 <10 13.1 0.0009 0.0032 < 0.0003 0.0058 0.0106 0.0075 < 0.0001 < 0.0003 0.0053 < 0.0003 220
+Average 514 5.91 <10 17.0 0.0006 0.0059 < 0.0003 0.0052 0.0560 0.0532 < 0.0001 < 0.0003 0.0020 < 0.0003 210
+Median 536 5.72 <10 17.4 0.0006 0.0059 < 0.0003 0.0058 0.0295 0.0304 < 0.0001 < 0.0003 0.0012 < 0.0003 225
+DS NCh. NCh. NCh.
+Standard NCh1333 NCh1333 - DS 148 DS 148 DS 148 DS 148 DS 148 DS 148 DS 148 DS 148
+90 1333 1333 1333
+Limit 750 5.5-9 - 64 5 100 1 5 5 0.2 0.2 5 5 1 250
+Source: Own elaboration based on SPLP certificates from AGQ Labs and ALS.
+==================================================================================
+PAGE 21
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+4. CONCLUSIONS
+The SPLP type test was performed on 20 waste samples (plus 1 duplicate). According to the results
+From the chemical analyzes of the eluate (solution resulting from stirring), it was possible to verify that the
+waste that will make up the disposal area will comply with chemical stability due to the low
+concentrations, including some of them below the detection limit, of As, Cr, Hg, Pb, Se, Ba, Cd and Ag.
+These elements would not show the solubilization of these species in all the samples, ruling out
+extrinsic toxicity according to DS 148.
+The concentrations in the SPLP eluate of all analytes are below the maximum concentrations
+permitted by the water quality standard DS 90 (SEGPRES, 2001) and NCh 1333 (INN, 1987),
+complying, therefore, with all current regulations regarding the chemical stability of
+possible contact waters with waste from the disposal area.
+For their part, the treated clays do not have radioactivity characteristics, whenever the
+clays in their natural state
+), how to make that record do the rtif icated by ischemic analyzes (see Appendix 10-3.4).
+Paola Ibáñez Zamorano Chaynna Lodis Cortes
+11,626,035-2 17,209,178-4
+Professional master in underground hydrology Professional master in underground hydrology
+Master in water resources
+www.taypi-ghc.cl / 6
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 22
+==================================================================================
+M
+T-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+5. ANNEXES
+SPLP laboratory test certificates
+www.taypi-ghc.cl / 7
+The Conception 81 Of. 213. Providence +56 9 3910 5321
+==================================================================================
+PAGE 23
+==================================================================================
+MT-003
+Project “Extraction of Clays for
+Production of Rare Earth Concentrate”
+Version 0
+GeoHydroConsultants
+6. REFERENCES
+EPA, U. (1994). Method 1312: Synthetic Precipitation Leaching Procedure, part of Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods (SW-846), 3rd edition. Environmental
+Protection Agency, National Center for Environmental Publications, Cincinnati, OH 45268.
+https://www.epa.gov/hw-sw846/sw-846-test-method-1312-synthetic-precipitation-leaching-
+procedure
+INN, 1987. Official Chilean Standard NCh 1333/Of78 Modified in 1987. Water quality requirements
+for different uses.
+MINSAL. (2003). Supreme Decree No148 Approves Health Regulations on Waste Management
+dangerous.
+Supreme Decree No 90. Establishes emission standards for the regulation of pollutants associated with
+discharges of liquid waste to surface marine and continental waters. Ministry
+General Secretary of the Presidency., (2001) (testimony of SEGPRES).
+SERNAGEOMIN, FCH, & Corfo. (2015). Methodological Guide for the Chemical Stability of Works and
+Mining Facilities. Chile Foundation, Sernageomin, Corfo.
+http://www.sernageomin.cl/pdf/mineria/cierrefaena/GuiaMetodologicaQuimica.pdf
+www.taypi-ghc.cl / 8
+The Conception 81 Of. 213. Providence +56 9 3910 5321

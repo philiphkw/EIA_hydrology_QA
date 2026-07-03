@@ -1,0 +1,1139 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 1 0-9.1
+Characterization of relocation areas
+Wildlife
+EIA "Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate"
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+GENERAL INDEX
+1 Introduction ................................................................................................................................... 1
+2 Objectives ................................................................................................................................... 1
+2.1 General objective ........................................................................................................................... 1
+2.2 Specific objectives ....................................................................................................................... 1
+3 Methodology ................................................................................................................................... 2
+3.1 Background ................................................................................................................................... 2
+3.1.1 Target species ................................................................................................................... 2
+3.1.2 Rescue areas ................................................................................................................... 3
+3.2 Relocation sites ........................................................................................................................... 6
+3.2.1 Proposed relocation areas ........................................................................................... 6
+3.2.2 Characterization of relocation areas ................................................................................... 8
+3.3 Parameters ................................................................................................................................ 10
+4 Results ................................................................................................................................... 12
+4.1 Destination or relocation area ................................................................................................... 12
+4.1.1 Species richness................................................................................................................ 12
+4.1.2 Relative abundance and density of target species ........................................................... 15
+4.1.3 Load capacity, relocation areas ........................................................................... 16
+4.2 Specimens to be captured in each environment of Project intervention ................................ 16
+5 Analysis of Results and Conclusions ....................................................................................... 20
+5.1 Areas to be rescued, present environments and target species. ................................................... 20
+5.2 Relocation area, species richness and density, and carrying capacity of target species
+21
+6 Bibliographic references ........................................................................................................... 22
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+TABLE INDEX
+Table 3-1. Species targeted by the wildlife rescue and relocation measure ........................................................... 2
+Table 3-2. Area of the areal works where the rescue plan will be executed ........................................................... 3
+Table 3-3. Target species by environment in the pro area
+project. ............................................................ 5
+Table 3-4. Surface, coordinates and location of proposed relocation areas. ............................ 7
+Table 3-5. Sampling points carried out in the Relocation Areas. ................................................... 8
+Table 4-1. Species richness in relocation area................................................................................... 13
+Table 4-2. Relative abundance (%) and density (individuals/hectare) of target species
+relocation ................................................................................................................................................ 15
+Table 4-3. Maximum number of specimens per hectare to release in the relocation area. .......... 16
+Table 4-4. Specimens to be captured by species in a forest environment ....................................................... 16
+Table 4-5. Specimens to capture by species in a Shrubland environment ................................................................... 17
+Table 4-6. Specimens to be captured by species in a Modified environment ................................................... 18
+Table 4-7. Specimens to be captured by species in a plantation environment ................................................................... 19
+INDEX OF FIGURES
+Figure 3-1. Plantation Environment (above); Forest (ab. Right); Thicket (bottom left) ................................... 4
+Figure 3-2. Graphic representation of rescue areas ................................................................................ 5
+Figure 3-3. Graphic representation of the relocation area ................................................................................... 7
+Figure 4-1. Representative views of the environment in the Relocation Area, Nonguén Park. ............. 12
+Figure 4-2. Specimen of Eupsophus roseus (rosy leaf litter frog) recorded in the Area of
+Relocation. ............................................................................................................................................ 15
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+1 INTRODUCTION
+Within the framework of the environmental processing of the Clay Extraction Mining Development Project for
+Rare Earth Concentrated Production (EAPCTR), Bío-Bío Region, a production plan has been proposed
+“Rescue and relocation of fauna”, whose objective is to avoid the impact of species in the category of
+conservation and/or low mobility prior to the construction phase of the Project.
+In general terms, the rescue and relocation measure of fauna consists of capturing the
+target species in the area to intervene, and then move them to destination areas without intervention and suitable
+as habitat, allowing relocated individuals to access the resources and conditions that
+they need to survive and eventually reproduce. For this Project, it is contemplated to apply the
+measured in species of amphibians, reptiles and micromammals (low-mobility fauna species).
+This document contains the results of the fauna characterization campaign carried out in the area of
+relocation between December 26 and 30, 2023 (summer).
+2 OBJECTIVES
+2.1 General objective
+Determine and justify the area for the relocation of fauna, suitable for amphibian specimens,
+reptiles and micromammals (low mobility fauna), given that they are the target species of the
+rescue and relocation of the “Clay Extraction Project for the Production of Rare Earths”.
+2.2 Specific objectives
+• Characterize the proposed relocation sites in terms of their geographic coordinates,
+slope, solar exposure, type of environment, community of fauna that inhabits it and presence of
+the target species.
+• Determine carrying capacity of each proposed relocation area and establish their similarity
+with the rescue area.
+• Determine the number of individuals of each target species to rescue in each environment to
+intervene
+• Validate the suitability of the relocation areas.
+1
+==================================================================================
+PAGE 5
+=============================
+================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+3 METHODOLOGY
+In the methodologies used to characterize the relocation area of the target species,
+took into consideration the guidelines defined in the “Technical Guide to Implement Safety Measures”.
+Rescue/Relocation and Controlled Disturbance” (Torres-Mura et al. 2014) of the Agricultural Service and
+Livestock, the guide “Evaluation Criteria in the SEIA: Technical criteria for the application of the
+rescue and relocation” (SEA 2022), and the Guide “PAS Procedure 146 SEIA Regulations” (SEA 2022). These
+methodologies are detailed in the following sections of the document, in addition to the parameters used
+to determine the number of individuals to rescue in each area.
+3.1 Background
+3.1.1 Target species
+The target species corresponded to fauna protected in the “threat” conservation category, that is
+say: Critically Endangered (CR), Endangered (EN), and Vulnerable (VU), and/or low-mobility fauna species,
+registered in the wildlife Baseline annex of the Project, in accordance with this, the species
+target to relocate corresponded to 2 amphibians, 6 reptiles and 5 micromammals (13 species).
+Table 3-1 presents the list of the target species where it is indicated: taxonomy, category of
+legal conservation, origin and mobility.
+Table 3-1. Target species of the wildlife rescue and relocation measure
+d Criterion Status
+e s a lC
+scientific name
+Spec
+N
+ie
+or common name
+n
+e g go
+Or CER
+Conser
+f
+v
+u
+to
+and
+c
+n
+went
+you
+n
+b
+Prote
+Yes
+c tion
+E
+to
+d iliv
+or
+M
+a ib Eupsophus roseus
+Ran
+h
+to
+or
+r
+j
+or
+to
+yes
+ra
+to
+yes
+c
+c
+and
+to
+to of
+E NT
+D.S.
+M
+42
+M
+/2
+A
+0 11 -
+S E B
+ih
+p DS 41/2011 -
+m Pleurodema thaul Four-eyed toad N NT - E B
+To MMA
+DS 16/2016 -
+Liolaemus schroederi Schröeder's lizard E VU S E B
+MMA
+Belly lizard -
+Liolaemus cyanogaster N LC DS 23/2019MMA - E B
+blue
+DS 23/2019 -
+a Liolaemus tenuis Slender lizard N LC S E B
+illit MMA
+p e DS 19/2012 -
+R Liolaemus lemniscatus Lemniscata lizard N LC S E B
+MMA
+DS 19/2012
+Liolaemus chiliensis Chilean lizard N LC B - E B
+MMA
+DS 19/2012
+Liolaemus pictus Painted Lizard N LC - - E B
+MMA
+2
+==================================================================================
+PAGE 6
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+d Criterion Status
+e s a lC
+scientific name
+Spec
+N
+ie
+or common name
+n
+e g go
+Or CER
+Conser
+f
+v
+u
+to
+and
+c
+n
+went
+you
+n
+b
+Prote
+Yes
+c tion
+E
+to
+d iliv
+or
+M
+Oligoryzomys - - -
+Long-tailed mouse N - - B
+longicaudatus
+DS 19/2012 - - -
+Abrothrix longipilis Long-haired mouse N LC B
+to MMA
+ila
+m - - -
+Abrothrix olivaceus Olive mouse N - - B
+m
+to
+M Long-eared mouse - - -
+Phyllotis darwini E - - B
+Darwin
+DS 42/2011
+Dromiciops gliroides Monito del monte* N NT B S - B
+MMA
+Category: LC: Least Concern; NT: Almost threatened. Origin: E: Endemic N: Native. Mobility: B: Low. SAG criteria=
+B: Species cataloged as beneficial for forestry and agricultural activity; S: Cataloged species with population densities
+reduced; and E: Species classified as beneficial for maintaining the balance of natural ecosystems. Mobility= B:
+Low mobility.
+Source: GAC
+3.1.2 Rescue areas
+These areas correspond to sectors of the Project, whose works are of areal extension (greater than 3
+hectares) that generate intensive habitat modifications in an area of variable dimensions, whose
+main impact is the total or partial loss of populations. Parts of the linear extension project
+when they generate habitat fragmentation across a strip of variable width and length, and whose impacts
+can be habitat loss and different degrees of habitat fragmentation (Technical criteria for the
+application of the rescue and relocation measure, SEA 2022), and those areas where interventions are
+specific amphibian environments, such as flooded areas, river courses and estuaries, bodies of water or
+wetlands in general
+In the area of influence of the project, four environments were identified for fauna: Forest, Shrubland,
+Modified and Plantation. According to the baseline background
+vertebrate fauna
+land (Chapter 3 of the EIA) and in Annex 10-3 PAS 146, the need to carry out the rescue was determined
+and relocation of fauna in the sites where the works indicated in Table 3-2 are planned, which
+It is equivalent to an area of 140.75 hectares.
+Table 3-2. Area of the areal works where the rescue plan will be executed
+Installation Surface (ha)
+Processing Plant 13.1
+Stockpile 0.9
+EXTRACTION AREAS
+ZE Moon 8.8
+ZE Victoria North 31.1
+3
+==================================================================================
+PAGE 7
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Installation Surface (ha)
+ZE Maite 35.9
+DISPOSAL AREAS
+ZD Neptune 45.5
+PLANT SOIL COLLECTION AREAS
+ZAV 5.69
+Source: GAC
+Next, Figure 3-1 and Figure 3-2 present environments present in the rescue areas and
+their location in the project area respectively.
+Figure 3-1. Plantation Environment (above); Forest (ab. Right); Thicket (ab. left)
+Source: Photographic record obtained in the field
+4
+==================================================================================
+PAGE 8
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Figure 3-2. Graphic representation of rescue areas
+Source: GAC
+a) Target species by environment
+Table 3-3 shows a summary of the low mobility species recorded in the different
+fauna environments. The Plantation environment stood out for presenting the greatest number of target species
+(12 species).
+Table 3-3. Target species by environment in the project area.
+Species Fauna environments
+and
+yes
+to
+lC
+Scientific name Common name
+Modified Shrub Forest Plantation
+to
+ib Eupsophus roseus Pink leaf litter frog - - X -
+ih
+p
+m Pleurodema thaul Four-eyed toad - - - X
+A
+Liolaemus schroederi Schröeder's lizard - X X
+to
+illit Liolaemus cyanogaster Blue-bellied lizard - X - X
+p e Liolaemus tenuis Slender lizard
+R
+Liolaemus lemniscatus Lemniscata lizard
+5
+==================================================================================
+PAGE 9
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Species Fauna environments
+and
+yes
+to
+lC
+Scientific name Common name
+Modified Shrub Forest Plantation
+Liolaemus chiliensis Chilean lizard
+Liolaemus pictus Painted Lizard - X - X
+Oligoryzomys longicaudatus Long-tailed mouse - - - X
+Abrothrix longipilis Long-haired mouse
+to
+ila
+m
+Abrothrix olivaceus Olive mouse
+m
+to
+M
+Phyllotis darwini Darwin's long-eared mouse - - - X
+Dromiciops gliroides Monito del monte* - X - X
+X=Presence
+Source: GAC
+3.2 Relocation sites
+3.2.1 Proposed relocation areas
+Based on photointerpretation and similarities with the rescue areas, a relocation site was characterized.
+potentially suitable for amphibians, reptiles and micromammals, located in the Nonguén Park (Figure
+3-3) in the Bío-Bío region. This selection mainly considered maintaining similar environments,
+accessibility and distance from the rescue area, in such a way as to ensure greater survival and less
+stress of the individuals to be relocated, also considering the following criteria:
+1. Surface greater than or equal to the surface of the capture area.
+2. Ideally at a distance from the capture area of the specimens, which allows reducing the
+probability of recolonization (according to the home range of the target species). so you must
+be at a distance such that it ensures the non-return of the specimens to the place of capture, or that
+There is a natural or artificial barrier that prevents it.
+With habitat characteristics similar to the capture area, and/or with the presence of environments
+equivalent to where there has been a record of the target species, considering the following
+variables: slope, exposure, altitude, plant formations and dominant species, substrate,
+site characteristics that determine patterns of azonal distribution of habitat (level of
+hydromorphism, bodies of water, among others), presence of predators, availability of
+food sources, among others.
+3. The destination area must have the presence of the species that will be rescued, which must
+be described in terms of their relative abundance and density, considering for this the
+load capacity possessed by the destination site(s).
+6
+==================================================================================
+PAGE 10
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+4. The Project or other activities will not be intervened, guaranteeing their protection in the medium to
+long term, that is, at least three reproductive cycles, equivalent to three years.
+Figure 3-3. Graphic representation of the relocation area
+Source: GAC
+The preceding figure shows the location of the Relocation Area with respect to the project in each
+sector and Table 3-4 specifies the surface and coordinates of a central point, as well as the distance
+of the central point with respect to the rescue area.
+Table 3-4. Surface, coordinates and location of proposed relocation areas.
+Location and distance Central reference coordinate
+Area of
+Area (ha) (km) with respect to the site of (UTM WGS84 18H)
+Relocation
+East North rescue
+Nonguén Park 3,036.9 14 680,410 5,915,410
+Source: GAC
+7
+==================================================================================
+PAGE 11
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+3.2.2 Characterization of relocation areas
+The characterization of these areas considered the description of the environments and the identification of the
+species, with their respective densities and estimated carrying capacities. The information was collected
+in a four-day field campaign, between December 26 and 29, 2023. In this they participated
+two professionals specializing in wildlife, carrying out 20 fauna sampling points (PMF),
+representative of the environments to house the vertebrate species to be relocated.
+Table 3-5 below shows the FMP carried out in the relocation area.
+Table 3-5. Sampling points carried out in the Relocation Areas.
+WGS84 Coordinates
+Description of associated environments PMF H18S Sampling technique
+East (m) North (m)
+Native forest/scrub PMF01 677,987 5,915,903 TrAnf, TrRep,TrMam, EA
+TrAnf, TrRep,TrMam, EA, TSH,
+Native forest with pines PMF02 678,414 5,916,205
+C.T., B.D.
+TrAnf, TrRep,TrMam, EA, TSH,
+Mixed renovation PMF03 678,942 5,916,258
+C.T., B.D.
+Native forest with presence of pines and body TrAnf, TrRep,TrMam, EA, TSH,
+PMF04 679,295 5,916,633
+water CT, BD
+Native forest PMF05 679,793 5,916,685 TrAnf, TrRep,TrMam, EA
+Native forest PMF06 680,329 5,916,744 TrAnf, TrRep,TrMam, EA
+Riverside with native vegetation PMF07 680,231 5,916,515 TrAnf, TrRep,TrMam, EA
+Native forest PMF08 680,828 5,916,753 TrAnf, TrRep,TrMam, EA
+Native forest PMF09 681,326 5,916,742 TrAnf, TrRep,TrMam, EA
+Mixed renewal PMF10 681,792 5,916,551 TrAnf, TrRep,TrMam, EA
+Mixed forest PMF11 678,863 5,915,764 TrAnf, TrRep,TrMam, EA, CT
+Mixed forest PMF12 678,960 5,915,370 TrAnf, TrRep,TrMam, EA
+Native forest with presence of pines PMF13 678,983 5,914,953 TrAnf, TrRep,TrMam, EA
+Native forest with presence of pines PMF14 679,338 5,914,612 TrAnf, TrRep,TrMam, EA
+Mixed forest, mainly native PMF15 679,652 5,914,231 TrAnf, TrRep,TrMam, EA
+Mixed forest PMF16 680,151 5,914,125 TrAnf, TrRep,TrMam, EA
+Native forest with pines PMF17 680,400 5,914,515 TrAnf, TrRep,TrMam, EA
+Mixed forest PMF18 680,828 5,914,682 TrAnf, TrRep,TrMam, EA
+Mixed renewal PMF19 681,251 5,914,704 TrAnf, TrRep,TrMam, EA
+Mixed renewal PMF20 681,476 5,914,268 TrAnf, TrRep,TrMam, EA
+CT: Camera Trap; PMF: Fauna Sampling Point; TSH: Sherman type traps; BD:Batdetector; TrAnf: Amphibian Transect,
+TrRep: Transect Reptiles; TrMam: Mammal Transect, EA: Air Station.
+Source: GAC
+In each PMF, specific methods were implemented for the detection of potential taxa of the animal.
+rea,
+based on what is stated in the guidelines of the Agricultural and Livestock Service (SAG 2012a, SAG 2012b and SAG 2016),
+8
+==================================================================================
+PAGE 12
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+the “Guide for the description of the soil, flora and fauna components of terrestrial ecosystems of the SEIA”
+(SEA 2015) and the “Manual for monitoring wildlife in Chile” (De la Maza and Bonacic 2013).
+From now on, direct recording will be understood as: sightings, vocalizations, eggs and captures.
+by trapping; and as indirect records: footprints, camera trap images, records of
+Batdetector, feces, feathers, hair, remains of molt (ecdysis), bone remains and carcasses.
+The captures carried out were carried out in accordance with the authorization of the Department of Protection of
+Renewable Natural Resources of the Agricultural and Livestock Service through Exempt Resolutions:
+Exempt Resolution No. 1025 2023 issued on August 18, 2023 and valid until August 18,
+2024 (Appendix 3.13-1).
+The methodological techniques carried out for the registration of species of each class are indicated below.
+a) Amphibia
+Transects: Pedestrian routes were carried out in which the presence of amphibians was searched through
+visual evidence, within the limits given by the observer's detection capacity, which is
+estimated at 3 meters on each side of the line of progression. Each transect lasted 15 minutes.
+average and a length of 400 meters.
+Directed search: In attention to the habits of the potential species for the area of influence, the
+Carrying out transects was complemented with the directed search for amphibians in potential refuges,
+which consisted of lifting stones, searching within the vegetation for sectors with water and
+other possible refuges.
+b) Reptilia
+Transects: Pedestrian routes were carried out in which the presence of reptiles was searched through
+visual evidence, within the limits given by the observer's detection capacity, which is
+estimated at 3 meters on each side of the line of progression. Each transect lasted 15 minutes.
+average and a length of 400 meters.
+Directed search: In attention to the habits of the potential species for the area of influence, the
+The realization of transects was complemented with the directed search for reptiles in potential refuges,
+which consisted of the systematic lifting of stones, and other possible shelters.
+c) Birds:
+Specific bird station: observation points were made in which the visual record was carried out, with
+the help of binoculars (10x42), and the recognition of bird vocalizations. At each point
+9
+==================================================================================
+PAGE 13
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+waited five minutes to stabilize the birds' behavior upon reaching each sector (Reynolds et
+al., 1980) and later the counting began. Each point had a duration of 10 minutes and a radius of
+50 meters.
+Directed search: considering the habits of potential species for the study area,
+They looked for all the direct and indirect evidence (cavities, feathers, pellets, footprints, etc.) that were found.
+can be found in the study area.
+d) Mammalia
+Transects: Pedestrian routes were carried out in which all direct evidence and
+indirect (footprints, feces, hair, burrows, bone remains, etc.) that were observed on the ground within
+of the limits given by the observer's detection capacity, which was estimated at 25 meters at each
+side of the prospecting line. Each transect had an average duration of 15 minutes and a length of
+400 meters.
+Camera traps: Camera traps were installed (Bushnell®: Trophy Camera Brown, Model 119436 and
+Bushnell®: Trophy Camera Brown HD, Model 119537C) for three nights in different seasons, in
+type 2 sampling points selected based on the probability of mesomammal records
+yes
+wild.
+Sherman traps: To capture rodents and/or marsupials, Sherman type traps were installed.
+which were barley with crushed oats and vanilla essence. The traps were installed in grids in
+groups of 25 traps, separated by 10 m from each other, giving rise to five parallel lines of 50 m
+long and 10 m wide (2,500 m2). The sampling effort was three nights of capture.
+The captures carried out were carried out in accordance with the authorization of the Department of Protection of
+Renewable Natural Resources of the Agricultural and Livestock Service through Exempt Resolution No. 1025
+2023 issued on August 18, 2023 and effective until August 18, 2024 (Appendix 3B-30
+Permit to capture wildlife).
+3.3 Parameters
+To verify the suitability of the relocation areas of the target species, the
+following parameters:
+Community richness and composition: number of species recorded at each relocation site
+proposed and list of registered species. Used for target species identification and analysis of
+possible competitors or predators.
+10
+==================================================================================
+PAGE 14
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Relative abundance: Corresponds to the percentage of recorded specimens of a species in relation to
+to the total number of registered individuals.
+Density: number of specimens of the target species per hectare, calculated from their abundance
+divided by the sampled area.
+Equation 3-1. Reptile density.
+Individuals Average number of individuals per environment
+Density ( )=( )∗10,000
+Hectares (L∗a)
+Where, L= length of the transect (200 m); a= width of the transect (6 m).
+Carrying capacity: An estimate of the carrying capacity of the target species was made in each
+relocation area. With the objective of estimating the feasibility of the establishment and development of the
+specimens to be transferred to the relocation area. This estimate was made based on the results
+obtained in the characterization of the chosen areas and the results of the density of the species
+objective.
+To calculate the carrying capacity, it was considered that the maximum density of specimens to be released was
+possible to obtain through the difference between the maximum density recorded in the area of
+relocation and its average density (Equation 3-2).
+Equation 3-2. Maximum number of specimens to be released per species
+No. of specimens to be released per species = (max. dens. relocation area − average dens. relocation area)
+Density: individuals/hectares
+Finally, to estimate the specimens to capture, the average density per environment of each
+species multiplied by the intervention surface (Equation 3-3).
+Equation 3-3. Specimens to capture by species
+No. Specimens to capture = Dens. average. room X∗Intervention surface room X
+Density: individuals/hectares, Surface: hectares
+11
+==================================================================================
+PAGE 15
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+4 RESULTS
+4.1 Destination or relocation area
+The destination area of the rescued animals corresponds to the Olivillos and Los Canelos sectors, in the
+inside the Nonguén National Park, approximately 14 km from the rescue area, which minimizes the
+possibility for rescued individuals to return to the capture site. The surface of the P.N. Nonguén is from
+3,055 hectares, which is equivalent to a surface area greater than the areas where the realization of the projects is projected.
+rescues. It presents a native and mixed forest environment, with the presence of pine trees, associated with them.
+vegetation formations of the rescue area (sclerophyllous forest and deciduous forest), and with habitats
+equivalent, but less intervened than those where the target species were recorded in the areas
+rescue, presenting shelter and feeding characteristics suitable for the insertion of amphibians,
+reptiles and micromammals. Since this site corresponds
+to a National Park, your
+long-term protection (Figure 4-1).
+Figure 4-1. Representative views of the environment in the Relocation Area, Nonguén Park.
+Source: Photographic record obtained in the field
+4.1.1 Species richness
+In the relocation area, 40 species were recorded, of them, three corresponded to amphibians, five to
+reptiles, 29 birds, and three mammals. Of the total number of species recorded, nine corresponded to species
+low mobility: the amphibians Eupsophus roseus, E. vertebralis and Pleurodema thaul; reptiles: Liolaemus
+lemniscatus, L. pictus, L. schroederi, L. tenuis and Pristidactylus torquatus; and the mammal: Abrothrix longipilis
+(Figure 4-2). Of these species, only two do not correspond to target species, the amphibian E.
+vertebralis and the reptile P. torquatus. Table 4-1 shows a summary of the recorded fauna species
+in this area and details which correspond to target species.
+12
+==================================================================================
+PAGE 16
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+It is worth mentioning that six (6) of the thirteen (13) target species were not recorded in the area of
+relocation:
+• Liolaemus chiliensis: which could be associated with its low abundance in the forest environment,
+being found mostly in the Modified environment during the completion of the Baseline.
+• Liolaemus cyanogaster: which was the least abundant species among the recorded reptiles
+during the Baseline.
+• The micromammals Abrothrix olivaceus, Phyllotis darwini, Oligoryzomys longicaudatus and
+Dromiciops gliroides: which could be due to the lower sampling effort compared to the Line of
+Base.
+Although these species were not recorded in the relocation area, favorable habitats were found
+for their relocation, with the presence of shelters, resources and food.
+Table 4-1. Species richness in relocation area.
+Species Conservation Status Species
+n e e
+Class Order Family g Category
+Scientific name Common name ir O Legal document objective
+estuary
+vo
+roseate frog from DS 41/2011
+Eupsophus roseus E VU
+Cycloramphi leaf litter MMA
+Amphibi dae large frog from DS 41/2011
+Anura Eupsophus vertebralis E VU
+to leaf litter MMA
+DS 41/2011
+Leiuperidae Pleurodema thaul four-eyed toad N NT
+MMA
+DS 19/2012
+Liolaemus lemniscatus lemniscata lizard N LC
+MMA
+DS 19/2012
+Liolaemus pictus painted lizard N LC
+MMA
+Liolaemidae
+DS lizard 16/2016
+Reptilia Squamata Liolaemus schroederi E VU
+Schroeder MMA
+DS 19/2012
+Liolaemus tenuis slender lizard N LC
+MMA
+Pristidactylus DS 38/2015
+Southern growler Leiosauridae E VU
+torquatus MMA
+Odontophori
+Galliformes Callipepla californica quail I
+dae
+head screw
+Cathartifor Cathartes aura N
+Red Cathartidae
+month
+Black-headed jote Coragyps atratus N
+Birds
+Accipitrifor Geranoaetus
+Accipitridae harrier N
+polyosoma month
+Falconiform Caracara plancus traro N
+Falconidae
+es Milvago chimango tiuque N
+13
+==================================================================================
+PAGE 17
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Species Conservation Status Species
+n e
+and
+Class Order Family g Category
+Scientific name Common name ir O Legal document objective
+estuary
+vo
+Columbifor
+Columbidae Patagioenas araucana torcaza N LC DS N°16/2016
+month
+Apodiform Sephanoides
+Trochilidae small hummingbird N
+s sephaniodes
+Psittaciform Enicognathus
+Psittacidae cachaña N
+it's ferrugineus
+Picoides lignarus woodpecker N
+Piciformes Picidae
+Colaptes pitius pitius N
+Hirundinidae Tachycineta meyeni Chilean swallow N
+Scytalopus fuscus northern churrín E
+Eugralla paradoxa churrín de la mocha N
+Rhinocryptid Pteroptochos
+hued hued chestnut N
+ae castaneus
+Pteroptochos tarnii southern hued hued N LC DS N°79/2018
+Scelorchilus rubecola chucao N LC DS N°79/2018
+Thraupidae Phrygilus gayi Gay N's cometocine
+Fringillinae Spinus barbata Goldfinch N
+Sylviorthorhynchus
+long-tailed N
+Passeriform desmursii
+en Furnariidae Pygarrhichas
+large suet eater N
+albogularis
+Aphrastura spinicauda pintail N
+Troglodytida
+Troglody
+tes aedon chercán N
+and
+Turdidae Turdus flacklandii thrush N
+Emberizidae Zonotrichia capensis chincol N
+Icteridae Curaeus curaeus thrush N
+Elaenia albiceps fío fío N
+Tyrannidae Xolmis pyrope diucon N
+Anairetes parulus cachudito N
+Rodentia Cricetidae Abrothrix longipilis common woolly mouse N LC DS N°19/2012
+Mamma Carnivora Canidae Lycalopex culpaeus culpeo fox N LC DS N°33/2012
+lia
+D.S.
+Artiodactyla Cervidae Pudu puda pudú N VU
+N°151/2007
+Source: GAC
+14
+==================================================================================
+PAGE 18
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Figure 4-2. Specimen of Eupsophus roseus (rosy leaf litter frog) recorded in the Relocation Area.
+Source: Photographic record obtained in the field
+4.1.2 Relative abundance and density of target species
+Of the target fauna species, which were recorded in the relocation area, Liolaemus tenuis
+(slender lizard) was the most abundant with a relative abundance of 34.29%, and a density of 10
+individuals/hectare. They were followed in descending order: L. schroederii, L. pictus, L. lemniscatus; and E. roseus,
+along with A. longipilis. The species Pleurodema thaul was recorded from vocalizations, therefore, it is not
+its abundance could be estimated. Table 4-2 shows the relative abundance and density of the species.
+rescue objective.
+Table 4-2. Relative abundance (%) and density (individuals/hectare) of the target species for relocation
+Species Abundance Density
+Class
+Scientific name Common name relative (%) (individuals/hectares)
+Eupsophus roseus roseate leaf litter frog 4.29 1.25
+Amphibia
+Pleurodema thaul* four-eyed toad - -
+Liolaemus lemniscatus lemniscata lizard 7.14 2.08
+Liolaemus pictus painted lizard 22.86 6.67
+Reptilia
+Liolaemus schroederi Schröeder's lizard 27.14 7.92
+Liolaemus tenuis slender lizard 34.29 10
+Mammalia Abrothrix longipilis common woolly mouse 4.29 5.33
+*Indirect evidence
+Source: GAC
+15
+==================================================================================
+PAGE 19
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+4.1.3 Load capacity, relocation areas
+The load capacity for the relocation area was obtained from the maximum and average densities
+of the target species. Table 4-3 shows a summary of the load capacity of each of the
+target species. It should be noted that these load capacity values are referential, and at the moment
+Before carrying out the relocation, the specific sites and the environment where the specimens
+They will be released.
+Table 4-3. Maximum number of specimens per hectare to release in the relocation area.
+e Load capacity
+s a Target species Maximum density (ind/ha) Average density (ind/ha)
+lC (ind/ha)
+Eupsophus roseus 8.33 1.25 7.08
+Amphibia
+Pleurodema thaul* - - -
+Liolaemus lemniscatus 25 2.08 22.92
+Liolaemus pictus 66.67 6.67 60
+Reptilia
+Liolaemus schroederi 75 7.92 67.08
+Liolaemus tenuis 150 10 140
+Mammalia Abrothrix longipilis 16 5.33 10.67
+(*): Identification of vocalizations.
+Source: GAC
+4.2 Specimens to be captured in each environment of Project intervention
+The number of specimens to be rescued of the target species was calculated for the surface that will be
+intervened by environment. This was estimated from the average density, considering an average of the
+four campaigns carried out during the characterization of the Project's fauna Baseline. A
+Next, the target species and the number of said species to be captured in each environment are detailed.
+intervention
+Forest Environment
+The species by capture with the highest number of specimens in the Forest environment corresponds to Abrothrix
+olivaceus (olive mouse) with 208 individuals, Abrothrix longipilis (common woolly mouse) with 104 individuals
+and Liolaemus lemniscatus (lemniscata lizard) with 72 individuals (Table 4-4).
+Table 4-4. Specimens to be captured by species in a forest environment
+Average density Area of N° specimens per
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+pink frog
+ea of
+Eupsophus roseus 0 25.94 0
+leaf litter
+16
+==================================================================================
+PAGE 20
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Average density Area of N° specimens per
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+Pleurodema thaul Four-eyed toad 0 25.94 0
+Liolaemus schroederi Schröeder's lizard 0 25.94 0
+belly lizard
+Liolaemus cyanogaster 0 25.94 0
+blue
+Liolaemus tenuis Slender lizard 2.2 25.94 55
+Liolaemus lemniscatus Lemniscata lizard 0.6 25.94 72
+Liolaemus chiliensis Chilean lizard 0.28 25.94 7
+Liolaemus pictus Painted lizard 0 25.94 0
+Oligoryzomys
+Long-tailed mouse 0 25.94 0
+longicaudatus
+Abrothrix longipilis Long-haired mouse 4 25.94 104
+Abrothrix olivaceus Olive mouse 8 25.94 208
+long-eared mouse
+Phyllotis darwini 0 25.94 0
+Darwin
+Dromiciops gliroides* Monito del monte 0 25.94 0
+Source: GAC
+Bush Environment
+The species to be captured with the greatest number of specimens in the scrub environment correspond to
+Liolaemus tenuis (slender lizard) with 70 individuals and Liolaemus lemniscatus (lemniscata lizard) with 28
+individuals (Table 4-5).
+Table 4-5. Specimens to capture by species in the Matorral environment
+Area of number of specimens
+Scientific name Common name Density (ind/ha)
+intervention (has) capture
+roseate frog
+Eupsophus roseus 0 14.53 0
+leaf litter
+Pleurodema thaul Four-eyed toad 0 14.53 0
+Liolaemus schroederi Schröeder's lizard 0.4 14.53 6
+belly lizard
+Liolaemus cyanogaster 0.2 14.53 3
+blue
+Liolaemus tenuis Slender lizard 4.8 14.53 70
+17
+==================================================================================
+PAGE 21
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Area of number of specimens
+Scientific name Common name Density (ind/ha)
+intervention (has) capture
+Liolaemus lemniscatus Lemniscata lizard 1.9 14.53 28
+Liolaemus chiliensis Chilean lizard 0.4 14.53 6
+Liolaemus pictus Painted lizard 0.4 14.53 6
+Oligoryzomys
+Long-tailed mouse 0 14.53 0
+longicaudatus
+Abrothrix longipilis Long-haired mouse 0 14.53 0
+Abrothrix olivaceus Olive mouse 0 14.53 0
+long-eared mouse
+Phyllotis darwini 0 14.53 0
+Darwin
+Dromiciops gliroides* Monito del monte 2 14.53 29
+Source: GAC
+Modified Environment
+The species to be captured with the greatest number of specimens in the Modified environment correspond to
+Liolaemus tenuis (slender lizard) with 47 individuals and Liolaemus chiliensis (Chilean lizard) with 21
+individuals, (Table 4-6).
+Table 4-6. Specimens to be captured by species in a Modified environment
+Average density Area of N° specimens that
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+roseate frog
+Eupsophus roseus 0.8 12.75 10
+leaf litter
+Pleurodema thaul Four-eyed toad 0 12.75 0
+Liolaemus schroederi Schröeder's lizard 0.4 12.75 5
+belly lizard
+Liolaemus cyanogaster 0 12.75 0
+blue
+Liolaemus tenuis Slender lizard 3.8 12.75 47
+Liolaemus lemniscatus Lemniscata lizard 1.3 12.75 16
+Liolaemus chiliensis Chilean lizard 1.7 12.75 21
+Liolaemus pictus Painted lizard 0 12.75 0
+Oligoryzomys
+Long-tailed mouse 0 12.75 0
+longicaudatus
+18
+==================================================================================
+PAGE 22
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Average density Area of N° specimens that
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+Abrothrix longipilis Long-haired mouse 0 12.75 0
+Abrothrix olivaceus Olive mouse 0 12.75 0
+long-eared mouse
+Phyllotis darwini 0 12.75 0
+Darwin
+Dromiciops gliroides* Monito del monte - 12.75 0
+Source: GAC
+Plantation Environment
+The species to be captured with the greatest number of specimens in the Plantation environment corresponds to
+Abrothrix olivaceus (olive mouse) with 144 individuals and Abrothrix longipilis (common woolly mouse) with 85
+i
+nindividuals. The species Dromiciops gliroides (mountain monkey) was recorded indirectly, so
+Therefore, the number of specimens to be captured could not be estimated (Table 4-7).
+Table 4-7. Specimens to be captured by species in a plantation environment
+Average density Area of N° specimens that
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+roseate frog
+Eupsophus roseus 0.8 87.68 70
+leaf litter
+Pleurodema thaul Four-eyed toad 0 87.68 0
+Liolaemus schroederi Schröeder's lizard 0.4 87.68 35
+belly lizard
+Liolaemus cyanogaster 0 87.68 0
+blue
+Liolaemus tenuis Slender lizard 3.8 87.68 333
+Liolaemus lemniscatus Lemniscata lizard 1.3 87.68 114
+Liolaemus chiliensis Chilean lizard 1.7 87.68 149
+Liolaemus pictus Painted lizard 0 87.68 0
+Oligoryzomys
+Long-tailed mouse 0 87.68 0
+longicaudatus
+Abrothrix longipilis Long-haired mouse 0 87.68 0
+Abrothrix olivaceus Olive mouse 0 87.68 0
+long-eared mouse
+Phyllotis darwini 0 87.68 0
+Darwin
+19
+==================================================================================
+PAGE 23
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Average density Area of N° specimens that
+Scientific name Common name
+environment (ind/ha) intervention (ha) capture
+Dromiciops gliroides* Monito del monte 13.6 87.68 122
+Source: GAC
+5 ANALYSIS OF RESULTS AND CONCLUSIONS
+5.1 Areas to be rescued, present environments and target species.
+The rescue areas correspond to those works of the project with an areal extension whose impact is
+the loss of specimens due to the total removal of shelters, these works must cover a surface equal to or
+greater than three hectares.
+In accordance with the above, seven areal intervention works were distinguished: Processing Plant,
+Stockpile, ZE Luna, ZE Victoria Norte, ZE Maite, ZD Neptuno and Plant Soil Collection Zones (ZAV).
+All areas add up to an intervention area of 140.75 hectares, divided into four environments:
+Forest, Plantation, Shrubland and Plantation, the latter being the one with the largest area of
+intervention.
+With respect to the target species, these corresponded to those classified in some category of
+threat and/or low-mobility species, particularly amphibians. Accordingly, the target species
+to be relocated corresponded to two amphibians, six reptiles and five micromammals (13 species). Of these,
+Only Liolaemus cyanogaster (blue-bellied lizard) is classified as Vulnerable (D.S.
+16/2016 MMA).
+The environment with the greatest number of specimens to rescue corresponds to the Plantation environment where
+It features exotic vegetation such as Eucalyptus globulus and Pinus radiata. Then, the Forest environment continues
+with a greater number of individuals to rescue, where it is possible to find plant formations of
+feral forests and native forests. On the other hand, the target species with the highest number of
+Individuals to be rescued correspond to the olive mouse (Abrothrix olivaceus), being the species with the greatest
+abundance in the area of influence.
+The number of specimens to be rescued in each sector of the Project will depend on the carrying capacity of the
+relocation area and in accordance with criteria of proximity and similarity with respect to the area of
+relocation.
+20
+==================================================================================
+PAGE 24
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+5.2 Relocation area, species richness and density and carrying capacity
+of target species
+Relocation areas should be selected located at a strategic distance that does not allow return
+of the relocated species, must comply with characteristics of topographic similarity and similarity of
+environments that ensure the availability of shelter and food for relocated specimens and must
+be equal to or greater in surface area than the Project intervention area. Furthermore, they must contain the
+target species to be relocated and a taxonomic composition similar to the intervention areas. Of
+In accordance with the above, the relocation site chosen
+It corresponds to the Nonguén Park, located
+approximately 14 kilometers from the rescue areas.
+The relocation area presents native forest and mixed forest type environments, some with presence
+of pines. Due to the characteristics of the place and its coverage, it has a large number of shelters and
+availability of food for fauna. 40 species of fauna were recorded, of these, nine are low
+mobility. Of them three amphibians: Pleurodema thaul (four-eyed toad), Eupsophus roseus (rosy frog
+of leaf litter) with an average density of 1.25 ind/ha and Eupsophus vertebralis (large leaf litter frog);
+five reptiles: Liolaemus lemniscatus (lemniscata lizard) with an average density of 2.08 ind/ha,
+Liolaemus pictus (painted lizard) with an average density of 6.67 ind/ha, Liolaemus schroederi (painted lizard
+Schroeder's) with an average density of 7.92 ind/ha, Liolaemus tenuis (slender lizard) with a
+average density of 10 ind/ha and Pristidactylus torquatus (southern growler) and one mammal: Abrothrix
+longipilis (common woolly mouse) with an average density of 5.33 ind/ha. The rest of the species (31)
+correspond to highly mobile animals, 29 belong to the class birds and 2 are mammals: Lycalopex
+culpaeus (culpeo fox) and Pudu puda (pudú).
+When comparing the richness of target species in the rescue site and the relocation site, it is observed
+that six of the 13 target species were not recorded in the relocation area: Liolaemus chiliensis
+(Chilean lizard), Liolaemus cyanogaster (blue-bellied lizard) and the micromammals Abrothrix
+olivaceus (olive mouse), Phyllotis darwini (Darwin's long-eared mouse), Oligoryzomys longicaudatus
+long-tailed) and Dromiciops gliroides (mountain monkey). Furthermore, Liolaemus chiliensis presented a low
+abundance in the Forest environment, being found mostly in the modified environment during the
+realization of the Baseline (Chapter 3 of the EIA). On the other hand, Liolaemus cyanogaster was the species
+recorded of less abundance.
+21
+==================================================================================
+PAGE 25
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+6 BIBLIOGRAPHICAL REFERENCES
+Supreme Decree No. 05/1998. Regulations of the Hunting Law. Department of agriculture. Santiago, Chile.
+Supreme Decree No. 75/2005. Chili. Approves regulations for the classification of wild species.
+Ministry General Secretariat of the Presidency. Santiago, Chile.
+Supreme Decree No. 151/2006. Chili. Approves and formalizes classification of species according to state of
+conservation, first process. Ministry General Secretariat of the Presidency. Santiago, Chile. Diary
+Official, March 24, 2007.
+Supreme Decree No. 50/2008. Chili. Approves and formalizes classification of species according to state of
+conservation, second process. Ministry General Secretariat of the Presidency. Santiago, Chile. Diary
+Official, June 30, 2008.
+Supreme Decree No. 51/2008. Chili. Approves and formalizes classification of species according to state of
+conservation, third process. Ministry General Secretariat of the Presidency. Santiago, Chile. Diary
+Official, June 30, 2008.
+Supreme Decree No. 23/2009. Chili. Approves and formalizes classification of species according to state of
+conservation, fourth process. Ministry General Secretariat of the Presidency. Santiago, Chile. Diary
+Official, May 7, 2009.
+Supreme Decree No. 33/2011. Chili. Approves and formalizes classification of species according to state of
+conservation, fifth process. Ministry of the Environment. Santiago, Chile. Official Gazette, February 27
+2012.
+Supreme Decree No. 41/2011. Chili. Approves and formalizes classification of species according to state of
+conservation, sixth process. Ministry of the Environment. Santiago, Chile. Official Gazette, April 11,
+2012.
+Supreme Decree No. 42/2011. Chili. Approves and formalizes classification of species according to state of
+conservation, seventh process. Ministry of the Environment. Santiago, Chile. Official Gazette, April 11
+of 2012.
+Supreme Decree No. 19/2012. Chili. Approves and formalizes classification of species according to state of
+conservation, eighth process. Ministry of the Environment. Santiago, Chile. Official Gazette, February 11
+of 2013.
+Supreme Decree No. 13/2013. Chili. Approves and makes classification official
+tion of species according to state of
+conservation, ninth process. Ministry of the Environment. Santiago, Chile. Official Gazette, July 25
+of 2013.
+22
+==================================================================================
+PAGE 26
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Supreme Decree No. 52/2014. Chili. Approves and formalizes classification of species according to state of
+conservation, tenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, August 29
+of 2014.
+Supreme Decree No. 38/2015. Chili. Approves and formalizes classification of species according to state of
+conservation, eleventh process. Ministry of the Environment. Santiago, Chile. Official Gazette, 4
+December 2015.
+Supreme Decree No. 16/2016. Chili. Approves and formalizes classification of species according to state of
+conservation, twelfth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 16
+September 2016.
+Supreme Decree No. 06/2017. Chili. Approves and formalizes classification of species according to state of
+conservation, thirteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 02
+June 2017.
+Supreme Decree No. 79/2018. Chili. Approves and formalizes classification of species according to state of
+conservation, fourteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 02
+August 2018
+Supreme Decree No. 23/2019. Chili. Approves and formalizes classification of species according to state of
+conservation, fifteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 30
+July 2019.
+Supreme Decree No. 16/2020. Chili. Approves and formalizes classification of species according to state of
+conservation, sixteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 03
+August 2020.
+Supreme Decree No. 44/2021. Chili. Approves and formalizes classification of species according to state of
+conservation, seventeenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 12
+October 2021.
+Supreme Decree No. 10/2023. Chili. Approves and formalizes classification of species according to state of
+conservation, eighteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 06
+October 2023.
+Demangel, D. 2016. Reptiles in Chile. Native Fauna Editions, 619 pp.
+Iriarte, A. 2008. Mammals of Chile. Lynx Editions. Barcelona, ​​Spain. 420 pp.
+Mella, J. 2017. Chilean Reptile Field Guide. Volume 2: North Zone. Peñaloza A.P.G. (ed.). Santiago,
+Chile. 316 pp.
+23
+==================================================================================
+PAGE 27
+==================================================================================
+Appendix 10-9.1
+Characterization of Fauna relocation areas
+Mining Development Project for Clay Extraction for Concentrate Production
+Rare Earths
+Pincheira-Donoso, D. and H. Núñez. 2005. The Chilean species of the genus Liolaemus Wiegmann, 1834
+(Iguania: Tropiduridae: Liolaeminae). Taxonomy, systematics and evolution. Occasional Museum Publication
+National of Natural History, Chile 59: 7-486 pp.
+Environmental Assessment Service (SEA). 2022. PAS procedure guide article 146 SEIA Regulations for
+carry out hunting or capture activities of specimens of animals of protected species for the purposes of
+research, for the establishment of reproduction centers or hatcheries and for the use
+sustainable resource. Chile, 30 p.
+Environmental Assessment Service (SEA). 2022. Evaluation Criteria in the SEIA: Technical criteria for the
+application of the rescue and relocation measure. Chile, 6 p.
+Torres-Mura, J.C., E. Riveros-Riffo & V. Escobar-Gimpel. 2014. Technical guide to implement safety measures
+rescue/relocation and controlled disturbance. Agricultural and Livestock Service. Chile, 45 p.
+24

@@ -1,0 +1,2012 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 7-1
+Bioequivalence Analysis and
+Additionality of Measures
+Compensation
+EIA "Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate"
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ................................................................................................................................... 1
+2 Objectives ................................................................................................................................... 1
+3 Assessment of Impacts on biodiversity (Flora, vegetation and fauna). ............................................ 1
+3.1 Environmental singularities in flora and vegetation ....................................................................... 1
+3.2 Environmental singularities in wildlife ........................................................................................... 5
+3.3 Singularities of invertebrate fauna ........................................................................................... 6
+3.4 Significant impacts on Biodiversity ................................................................................................... 6
+4 Methodology: Criteria of the Compensation Guide (SEA, 2023) ................................................... 9
+4.1 3-level biodiversity compensation methodology ....................................................................... 10
+4.1.1 Level 1. Site relevance maps ........................................................................................... 10
+4.1.2 Level 2. Matrix of key biodiversity components ................................................... 11
+4.1.3 Level 3. Quantification Metrics ................................................................................................... 12
+5 Identification of Residual Impact ........................................................................................... 18
+5.1 Mitigation and Repair Measure ........................................................................................... 18
+5.2 Estimation of Residual Impact ........................................................................................................... 19
+6 Compensation measures ........................................................................................................... 20
+6.1 MC-03: Germplasm Collection, Nursery and Replanting of Vestia foetida Individuals,
+Gardoquia multiflora and Asplenium trilobum ........................................................................................... 21
+6.2 MC-06 Protection of areas surrounding the project ....................................................................... 21
+6.3 Justification of compensation measures ........................................................................... 23
+7 Estimation of biodiversity loss and gain ................................................................................... 26
+7.1 Level 1. Determination of relevance according to site relevance maps. ......26
+7.2 Level 2. Matrix of key biodiversity components ................................................................... 26
+7.2.1 Matrix of key components of the area of influence ....................................................................... 26
+7.2.2 Matrix of key components of compensation areas ........................................................... 33
+7.3 Level 3. Quantification Metrics ................................................................................................... 38
+7.3.1 Relevance of the impacted site with respect to the area of influence and compensation sites
+............................................................................................................................................ 38
+7.3.2 Temporality ...................................
+................................................................................... 39
+7.3.3 Location ........................................................................................................................... 39
+7.3.4 Operation ................................................................................................................................ 39
+7.3.5 Condition ........................................................................................................................... 39
+7.4 Metric results ........................................................................................................................... 45
+8 Clearing Site Threats ........................................................................................... 46
+9 Conclusion ................................................................................................................................... 46
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+APPENDIX INDEX
+Appendix 7-1.1 Metric Calculation
+TABLE INDEX
+Table 3-1. Intervention of species in conservation category whose impact is significant ........................... 7
+Table 4-1. Site relevance parameter score ................................................................................ 11
+Table 4-2. Scoring of the parameters that determine the condition of the landscape ................................................... 15
+Table 4-3. Scoring of parameters at the terrestrial ecosystem level ................................................................... 16
+Table 4-4. Scoring of the temporality parameter ................................................................................... 17
+Table 4-5. Location parameter score ........................................................................................... 18
+Table 4-6. Handling parameter score ........................................................................................... 18
+Table 5-1. Fauna habitat to intervene ....................................................................................................... 19
+Table 6-1. Fauna habitat to be protected through the compensation measure ................................................... 22
+Table 7-1. Matrix of key components area of intervention ................................................................ 30
+Table 7-2. Matrix of key components of the compensation site ................................................................... 36
+Table 7-3. Landscape metrics for the area of influence before the Project ........................................................... 40
+Table 7-4. Landscape metrics for the area of influence after the Project ........................................... 40
+Table 7-5. Parameters for the area of influence ........................................................................................... 41
+Table 7-6. Parameters for compensation site ................................................................................................... 44
+Table 7-7. Residual impact ........................................................................................................................... 46
+Table 7-8. Biodiversity gain ........................................................................................................... 46
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 4-1. Hierarchy of measurements and desirable relative magnitude in the application of measurements ......................... 9
+Figure 4-2. Summary of methodology for biodiversity compensation measures ......................... 10
+Figure 4-3. Condition of biodiversity ................................................................................................... 17
+Figure 4-4. Appropriate compensation ...........................................................................................................
+......17
+Figure 5-1. Zero net loss of Biodiversity ........................................................................................... 20
+Figure 6-1. Location of compensation sites and Project works ........................................................... 22
+Figure 6-2. Location of compensation sites and Project works ........................................................... 25
+Figure 7-1. Appropriate compensation ........................................................................................................... 38
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+The impact evaluation of this Project (Chapter 4) recognizes the significant impact on the
+flora and vegetation component, specifically impact due to “Loss of flora specimens”.
+Additionally, the significant impact of fauna is recognized in “Loss of fauna specimens of
+interest and/or sensitive” and “Loss and/or modification of habitat of species of interest and/or sensitive”
+The project presents mitigation and compensation measures for the aforementioned impacts (Chapter 7).
+Specifically, compensation measures are designed to produce an alternative positive effect and
+equivalent to an adverse effect identified as a residual impact (that which was not possible to mitigate
+or repair). A correct compensation measure is one that results in a gain in
+biodiversity greater than the significant impact that will be produced by the execution of the Project.
+This document identifies the residual impacts and estimates the gain in biodiversity.
+of the proposed compensation measure, as established in the Methodological Guide for the
+Biodiversity Compensation in Terrestrial and Continental Aquatic Ecosystems (SEA, 2023).
+2 OBJECTIVES
+• Identify the residual impacts on biodiversity generated by the Project.
+• Calculate the loss in biodiversity of the residual impact considering the metric proposed in the
+Methodological Guide for Biodiversity Compensation in Terrestrial and Aquatic Ecosystems
+Continentals (SEA, 2023).
+• Calculate the gain in biodiversity from the compensation measures considering the metric
+proposed in the Methodological Guide for Biodiversity Compensation in Ecosystems
+Terrestrial and Continental Aquatic (SEA, 2023).
+3 EVALUATION OF IMPACTS ON BIODIVERSITY (FLORA, VEGETATION AND
+FAUNA).
+3.1 Environmental singularities in flora and vegetation
+The area of influence (AI) of the Project is located in the communes of Penco and Concepción, Province of
+Concepción, Biobío Region and considers an area of 673.62 ha. According to Gajardo's classification
+(1994)1, the Project area is inserted within the Deciduous Forest Region, in the subregion of the
+1 Gajardo, R. 1994. The natural vegetation of Chile. Classification and geographical distribution.
+1
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Llano Deciduous Forest, specifically in the formation of the Concepción Deciduous Forest. This
+formation extends along the low and middle slopes of the Coastal Mountain Range, in the Biobío Region,
+presenting a humid phase towards the oceanic slope and a dry phase towards the east. originally
+must have had a great development and floristic richness, and a strong penetration of
+laurifolia species in the typical physiognomy of dominant deciduous trees, in addition to being the area
+geographical area of the oak (Nothofagus obliqua), however, the vegetation cover has been almost completely
+replaced by Pinus radiata plantations.
+According to Luebert and Pliscoff (2019)2, the Project is located in two (2) formations. one
+corresponding to the Sclerophyllous Forest, specifically to the vegetation floor Sclerophyllous Forest
+Mediterranean coastal Lithrea caustica - Azara integrifolia, and the other denom
+inada formation of the Forest
+Deciduous, specifically the vegetation floor Mediterranean coastal deciduous forest of Nothofagus
+obliqua - Gomortega keule.
+According to the results of the component baseline (Chapter 03-Section B), it was determined that the
+intervened environments cover the largest surface of the area of influence, reaching 71% of the
+total area (478.37 ha), followed by the natural environment with 121.02 ha (18%) and in third place the
+modified environment with 74.23 ha (11%). In general, it can be indicated that AI is composed
+mainly by forest plantations and wild forests, followed by scrublands and
+forest formations.
+Regarding the vegetation formations corresponding to the intervened environment, those that present
+The largest area within the area of influence corresponds to the plantation of Eucalyptus globulus, the
+feral forest of Pinus radiata, and the plantation of Pinus radiata with 332.73 ha, 47.60 ha and 37.65 ha
+respectively. In natural environments, the predominant formations correspond to Matorral
+of Teline monspessulana (39.28 ha), Teline monspessulana arborescent thicket (15.04 ha), followed
+by the native preservation forest of Nothofagus obliqua (15.16 ha) and the native preservation forest
+of Aextoxicon punctatum (13.24 ha).
+The vascular flora recorded in the area of influence accounts for the presence of 247 species, of which
+194 belong to the Magnoliopsida Class, 37 to the Liliopsida Class, 13 to the Polypodiopsida Class and the three
+The remainder are distributed between the Class Equisetopsida (one species) and Pinopsida (two species). From the registry
+total, and according to their phytogeographic origin, 106 correspond to native elements, 61 to endemic and 80
+They correspond to species introduced to the country. According to the growth habit, the greatest number
+of species identified in the area of influence correspond to herbs (annual and perennial) with 145
+taxa, followed by shrubs (65 species) and trees (37 species).
+19 species were registered under conservation category in the area of ​​influence of the Project. Of the total
+of registered species, five are threatened, corresponding to Gomortega keule,
+2 Luebert, F. and Pliscoff, P. 2019. Bioclimatic and vegetation synopsis of Chile.
+2
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Pitavia punctata and Vestia foetida in the Endangered category and Asplenium trilobum and Citronella mucronata in
+Vulnerable category. The remaining 14 taxa correspond to species not considered in degree of
+threat (Near Threatened and Least Concern), corresponding to Adiantum chilense, Aextoxicon
+punctatum, Asplenium dareoides, Blechnum arcuatum, Blechnum chilense, Blechnum hastatum, Drimys
+winteri, Hymenophyllum dicranotrichum, Hypolepis poeppigii, Lophosoria quadripinnata, Myrceugenia
+leptospermoides and Persea lingue of Least Concern, and Gardoquia multiflora and Polystichum
+subintegerrimum in the Near Threatened category.
+In accordance with what is indicated in the CONAF Environmental Assessment Guide (2020), the
+following environmental singularities within the area of influence of the Project.
+• Native preservation forests with the presence of specimens of Gomortega keule and Pitavia
+Punctata (25.11 ha) were considered relictual plant formations, relics,
+remnants and fragile.
+• 36.28 ha of native preservation forest were identified within the area of ​​influence.
+• 170.07 hectares of vegetation formations were identified with threatened species, not
+considering native forest preservation.
+• 19 species were registered under conservation category. Of the total species recorded, five
+threat level is found, corresponding to Gomortega keule, Pitavia punctata and Vestia
+foetida in Endangered category and Asplenium trilobum and Citronella mucronata in category
+Vulnerable. The remaining 14 taxa correspond to species not considered threatened.
+(Near Threatened and Least Concern). Although individuals were registered in the area of influence
+of the species Gomortega keule (queule) and Pitavia punctata (pitao), these will not be intervened
+for the project works.
+• According to the Climate Risk Atlas in the commune of Penco, the sector where the
+area of influence of the Project, there is a susceptibility to the effects associated with change
+climate at the ecosystem level. At the species level, the most negative results would be presented
+for Gomortega keule and Gardoquia multiflora, since both would have a negative trend in
+their probability of presence within the AI, follows them in conditions of decreased
+probability of presence of the species Citronella mucronata and Asplenium trilobum. For the case of
+Pitavia punctata and Vestia foetida show an increase in the probability of presence. The
+values represent the probability of presence of each species in the area of influence in a
+historical period (1980-2010) and in the future period (2035-2065), which accounts for the existence
+of climatic conditions conducive to the existence of the species in the area of influence. It
+above should not be interpreted as a change in density or distribution range
+geography of these species.
+3
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• The presence of three species regulated by special protection measures was recorded,
+corresponding to Gomortega keule, Pitavia punctata and Lapageria rosea.
+• The presence of 61 endemic species was recorded in the area of ​​influence.
+According to the Climate Risk Atlas (ARCLIM-MMA), there is a susceptibility to change
+climate at the ecosystem level (loss of flora, greenness or vigor of the native forest and forest fires)
+in the commune of Penco, where the largest area of the Project's area of influence is located.
+Regarding the adverse effects on the distribution of biodiversity of plant species, product
+of the future change in the conditions of average annual precipitation and average annual temperature,
+A very high value for the risk index of biodiversity loss is estimated for the commune of Penco
+of flora due to changes in precipitation and temperature. In the case of the potential effect of changes in
+the climate on the vigor or greenness of the native forests at the communal level, a very low value is estimated for
+the risk index of loss of greenery, while, for the impact chain and the risk of fires
+in native forests and forest plantations, a very low value is estimated for the commune of Penco and
+low respectively.
+In the case of susceptibility to climate change at the species level, in ARCLIM it was possible to obtain
+distribution models for three (3) species of interest to the Project, for a historical period (1980-
+2010) and future (2035-2065) in a scenario of intense greenhouse gas emissions,
+corresponding to Citronella mucronata (Vulnerable), Gomortega keule (Endangered) and Pitavia punctata (In
+danger). In addition, through the Maxent tool, distribution models were obtained for three (3) other
+species of interest: Asplenium trilobum (Vulnerable), Vestia foetida (species being evaluated in the
+process 18° as in the Endangered category) and Gardoquia multiflora (Near Threatened).
+To consider whether the probability of the presence of the species within the Penco commune is maintained,
+increases or decreases, the following analysis ranges are considered for the result between the difference
+between future and historical probability. It remains within a range between 0-10%, slight increase between 10-
+25% and increases when it is >25%. The same in reverse for the decrease in the probability of
+presence.
+In this regard, the probability of the presence of the species Citronella mucronata (-4.33%), Pitavia punctata
+(2.04%) and Vestia foetida (1.57%) remain in a future period in relation to the commune of Penco.
+The opposite happens for the species Asplenium trilobum (-14.96%), Gomortega keule (-29%) and Gardoquia
+multiflora (-39.62%), where the probability of presence in a future period presents a slight
+decrease for the first species, while for the remaining two it decreases within the
+Penco commune.
+4
+========================================================
+===========================
+PAGE 9
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.2 Environmental singularities in wildlife
+The area of influence for the terrestrial vertebrate fauna was composed of four environments,
+corresponding to forest, scrub, modified and plantation. Such environments are in accordance with
+the vegetation formations recorded by the flora and vegetation component, because they were
+identified and/or established based on these.
+From the collection of information on the ground, the presence of 73 species of fauna was recorded
+native terrestrial (48 records in autumn 2022, 48 in winter 2022, 49 in spring 2022, 57 in summer
+2023 and 47 in spring 2023), corresponding to two amphibians, six reptiles, 49 birds and 16 mammals.
+In relation to the categories of conservation, endemism, degree of mobility, migratory status and
+BSE criteria, of the total number of registered species (n= 73), the following can be indicated:
+• Conservation category: 28 (38.4% of the total) are in the conservation category according to
+current national legislation: two amphibians, six reptiles, seven birds and 13 mammals. three of them
+They are in the threatened category (one amphibian, one reptile and two mammals).
+• Endemism: six species of terrestrial vertebrates with exclusive distribution in our country (one
+amphibian, a reptile, three birds and a mammal), which correspond to 8.2% of the total species
+registered.
+• Mobility: 13 are of low mobility (two amphibians, six reptiles and five small mammals) and 60 of
+high mobility (49 birds and 11 mammals).
+• Migratory status: 54 species, 74% of the total; are residents, while 14 species migrate
+within the national territory, two migrate outside the national territory and three species (chiropterans)
+are migratory, but there are no scientific studies that indicate whether they do so outside or inside the
+country.
+• BSE criteria: 45 species classified as beneficial for forestry and agricultural activity (B)
+(one reptile, 36 birds and eight mammals), 15 species cataloged with population densities
+reduced (S) (one amphibian, three reptiles, eight birds and three mammals) and 35 species classified as
+beneficial for maintaining the balance of natural ecosystems (E) (two amphibians, six
+reptiles, 22 birds and eight mammals).
+With respect to biodiversity indices, it is possible to mention that the environments with greater diversity,
+According to the Shannon and Simpson indices, they are planted in the spring 2023 campaign (H'=2.09) and
+scrub in the spring 2022 campaign (D=0.89).
+With respect to the rarefaction curve, it appears that 85% of the
+total estimated (theoretical) richness, with an observed richness of 73 of a total of 86 species, according to the
+Chao 2 estimator, which considers sampling sufficiency, considering this a sampling
+representative of the area of influence.
+5
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Of the total number of species recorded during the five sampling campaigns, 40 have been considered as
+species of interest and/or sensitive. Of these, 11 correspond to species of interest (two amphibians, two
+reptiles, two birds and five mammals) and 37 are sensitive species (two amphibians, seven reptiles, 18 birds and 10
+mammals).
+Finally, in relation to the risk map for the loss of fauna biodiversity associated with the
+susceptibility to climate change at the species level, the risk was high for both the variable Loss
+of fauna biodiversity due to changes in precipitation and for the Loss of fauna biodiversity
+due to temperature changes in the commune of Penco. Distribution models were obtained for five
+species of interest to the Project in ARCLIM, for a historical period (1980-2010) and future (2035-2065).
+Regarding the species evaluated, the preliminary model of historical presence versus future presence granted
+As a result, a dis
+decrease in the probability of presence of 25% for the species Eupsophus
+roseus, 10% for Dromiciops gliroides, 8.5% for Pudu puda and 4.8% for Puma concolor. On the other hand, the
+Liolaemus schroederi species presents a positive safety margin, with a 4% increase in the
+probability of occurrence of the species in the Biobío Region.
+3.3 Singularities of invertebrate fauna
+Through the sampling techniques proposed to characterize the area of influence, it was achieved
+determine, a total of 247 species. In this sense, in the 2023 summer campaign a
+total of 109 species and 160 for the winter campaign within the Area of influence.
+247 species were recorded in both campaigns, where 4 have conservation considerations.
+in accordance with the resolution of classification of species in category by the Ministry of the Environment
+(RCE) and the Hunting Law: Ceroglossus chilensis cyanicollis (Least Concern DS 06/2017 MMA),
+Phrixotrichus scrofa (Endangered DS 44/2021 MMA), Euathlus manicata (Near Threatened DS 06/2017 MMA)
+and Acanthogonathus pissi (Least Concern DS 44/2021 MMA).
+The invertebrate community in the area of influence of the Project for the summer season is
+made up of 3 classes of arthropods: Insecta, Arachnida and Entognatha. For its part, the campaign
+winter, the presence of 6 classes was observed: Insecta, Arachnida, Entognatha, Diplopoda, Chilopoda and
+Malacostraca. The Insecta class dominates the assemblage by 96% in summer and 71.5% in winter compared to
+the other classes observed.
+3.4 Significant impacts on Biodiversity
+The previously mentioned environmental singularities were considered and evaluated in Chapter 4
+of this EIA, identifying the environmental relevance of the component and evaluating the following
+impacts.
+6
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+It is relevant to mention that Chapter 4 of the EIA rules out the impact of native forests.
+preservation with the presence of Gomortega keule, Pitavia punctata and Citronella mucronata (Annex 4-5
+Fundamentals for the definition of ruled out impacts on native vegetation). As indicated in
+the aforementioned annex, the impact on the first two species is ruled out and in the case of Citronella
+mucronata, only individuals present in forest plantations will be affected
+of Eucalyptus globulus and Pinus radiata and, in the wild forest of Pinus radiata.
+▪ Loss of flora specimens
+This impact is manifested by the activities of clearing vegetation in natural environments and
+intervened, resulting in the loss of flora specimens due to the materialization of the Project. The
+species whose impact is significant are Citronella mucronata, Asplenium trilobum, Gardoquia multiflora
+and Vestia foetida. The number of specimens to intervene are indicated in the following table.
+Table 3-1. Intervention of species in conservation category whose impact is significant
+Species No. of individuals
+Citronella mucronata 20 under construction
+Asplenium trilobum3 construction phase
+Gardoquia multiflora 4 in the construction phase and 47 in the operation phase
+Vestia foetida 221 in construction phase and 27 in operation phase
+Total 319
+Source: GAC
+▪ Loss of specimens of fauna of interest and/or sensitive (vertebrate fauna)
+It corresponds to the death of specimens of one or more species of interest and/or sensitive as a result of the
+installation of works and/or activities of the Project. The relationship between the impact and
+the species to evaluate:
+– Particularly for reptiles, amphibians and small mammals, the risk of death due to
+crushing due to the installation of structures or the transit of vehicles and/or machinery, due to
+They are species of low mobility, so their chances of fleeing from actions of
+intervention are low.
+– The risk of death due to collision and electrocution with a transmission line is evaluated for birds.
+electrical.
+– In the case of mesomammals, the loss of specimens due to being run over is evaluated, due to
+which are highly mobile species that usually approach places with presence
+a of activity
+anthropic or; because they moved or inhabited the area.
+3
+7
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+It is clarified that, in the case of bats, this impact is not evaluated given their high mobility and inherent
+echolocation capacity, which gives this group the possibility of evasion from structures
+static that obstruct airspace.
+This impact is significant for the species, Eupsophus roseus (amphibian), Liolaemus schroederi
+(reptile) and Dromiciops gliroides (small mammal).
+▪ Loss and/or modification of habitat of species of interest and/or sensitive (vertebrate fauna)
+It corresponds to the significant modification of the conditions and resources necessary for the existence of
+native species, as a consequence of the total removal of the soil and its vegetation and/or changes in the
+places that pass through. The concept of habitat is usually used to refer to a sector of space that
+It meets certain conditions that allow the existence of some species, but not others.
+It is important to highlight that this impact includes in its evaluation the fragmentation of environments and
+natural habitats as a result of the removal of vegetation and earthworks, which makes it difficult to
+displacement of fauna species (especially low mobility species), affects the variability
+genetics and reduces the ability of larger terrestrial vertebrates to search for food.
+This impact was significant for the species Eupsophus roseus (Amphibious), Liolaemus schroederi
+(Reptile), Dromiciops gliroides (Micromammal) Pudu puda (mesomammals), Puma concolor
+(meso-mammals), Leopardus guigna (meso-mammals).
+▪ Loss of specimens of interest and/or sensitive (invertebrate fauna)
+This impact corresponds to the potential loss of specimens due to the construction of the Project. This
+impact was significant for the species Acanthogonathus pissi, Euathlus manicata, Phrixotrichus
+scrofa, Acanthinodera cumngii
+▪ Loss and/or modification of habitat of species of interest and/or sensitive (fauna
+invertebrate)
+It corresponds to the significant modification of the conditions and resources necessary for the existence of
+native species, as a consequence of the total removal of the soil and its vegetation and/or changes in the
+places that pass through. The concept of habitat is usually used to refer to a sector of space that
+It meets certain conditions that allow the existence of some species, but not others. This impact
+was significant for the species Ceroglossus chilensis cyanicollis, Acanthogonathus pissi, Euathlus
+manicata, Phrixotrichus scrofa, Acanthinodera cumngii
+8
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+4 METHODOLOGY: CRITERIA OF THE COMPENSATION GUIDE (SEA, 2023)
+The Biodiversity Compensation Guide defines criteria to achieve a compensation standard
+appropriate, specifically:
+1.- Adherence to the hierarchy of measures: sequential application of measures to avoid, minimize, repair
+and compensate for the affected elements of biodiversity. The above can be seen in the following graph.
+Figure 4-1. Hierarchy of measurements and desirable relative magnitude in the application of measurements
+Source: SEA, 2023
+The purpose of mitigation measures is to avoid or reduce the adverse effects of the project.
+or activity, whatever its execution phase, and include:
+Repair measures are intended to replace one or more of the components or
+elements of the environment to a quality similar to what they had before the impact
+on said component or element or, if this is not possible, restore its properties
+where impacts are expected to occur. Therefore, remedial measures involve
+actions that improve the state of the environmental element impacted by the project, carrying out
+within the area
+of influence of such component
+Compensation measures are intended to produce or generate a positive effect
+alternative and equivalent to an identified adverse effect, which cannot be mitigated or repaired in
+the area of influence; That is, they are measures that take care of residual impacts of the project
+on biodiversity as a whole. In this way, the actions and effects of compensations
+They materialize outside the area of influence of the impacted biodiversity.
+9
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.- Equivalence requirement: the affected biodiversity elements must be compensated by
+elements of similar characteristics, class, nature, quality and function.
+3.- Additionality: it must be demonstrated that the compensation measure generates a gain of
+biodiversity in contrast to a scenario without compensation, and that such gain would not occur
+naturally in the absence of the compensation measure.
+4.- Existence of limits for compensation: there are limits for what can be compensated, which
+It is determined from the irreplaceability and vulnerability of the elements of biodiversity
+affected.
+4.1 3-level biodiversity compensation methodology
+The Offset Guide indicates that there are three levels to achieve biodiversity offset
+appropriate. Following the following scheme and the steps described below.
+Figure 4-2. Summary of methodology for biodiversity compensation measures
+Source: SEA, 2022
+4.1.1 Level 1. Site relevance maps
+Level 1 corresponds to the consideration and analysis of the relevance of the site, for which
+the maps prepared by the Division of Natural Resources and Biodiversity of the Ministry of the Environment
+Environment (MMA) for this purpose, and which are currently available on the Geoportal of the website:
+10
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+https://simbio.mma.gob.cl. The maps are based on the Luebert & Pliscoff vegetation floors.
+2017.
+Locate the area of influence and the compensation site(s) on these maps and recognize their relevance
+constitutes a first approach that allows better decisions to be made, both regarding the
+location of the project and the site where the compensation measure will be implemented.
+Site relevance maps consider a multiplication factor for the surface to be compensated,
+called Site Relevance Multiplier (M1).
+The highest map relevance values for terrestrial ecosystems are distributed,
+mainly, in the central area of Chile, between the regions of Valparaíso and Los Lagos, coinciding with
+those areas in which the greatest replacement of natural ecosystems is found and concentrated
+the greatest biodiversity in the country (Chilean Biodiversity Hotspot). Ecosystems are also identified in
+“High” or “Very High” category in the high mountain range and in specific areas of Patagonia (steppe and
+peat bogs), where there is a greater number of azonal ecosystems.
+Table 4-1. Site relevance parameter score
+Site Relevance Value
+Very low 1.2
+Low 2.4
+Average 3.6
+High 4.8
+Very High 6
+Source: SEA, 2022
+4.1.2 Level 2. Matrix of key biodiversity components
+Level 2 of application of the methodology corresponds to the use of the “Component Matrix” tool.
+key biodiversity” and, as its name indicates, seeks to identify and describe the “key components
+of biodiversity” both in the area of influence and in the compensation site(s).
+All those components of biodiversity that stand out as priorities are considered “key”.
+of preservation for the intrinsic (ecological) values and the ecosystem services they provide. For your
+On the other hand, intrinsic value depends on the irreplaceability and vulnerability of its
+components, which
+facilitates the definition of preservation priorities. By both concepts it is understood
+• Irreplaceability: refers to the lack of other similar areas that are available for
+preservation when the biodiversity (species, communities and ecosystems) of the area of
+influence is affected or irreversibly lost. If biodiversity is found in
+many sites (high replaceability), there are many options for their preservation, while
+11
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+that if biodiversity is restricted to one or a few sites (high irreplaceability), there are no
+options (or there are limited options) for its preservation elsewhere.
+• Vulnerability: reflects the probability that a component of biodiversity disappears (i.e.
+That is, it becomes extinct, in the case of species, or collapses, in the case of ecosystems and
+communities) on a defined time scale. The MMA has validated a state classification
+of conservation of terrestrial ecosystems and makes an official classification of the state of
+species conservation. The greater the probability that a component becomes extinct, in the case of
+species, or collapse, in the case of ecosystems, the higher their vulnerability. That is, species or
+Critically Endangered ecosystems are the most vulnerable.
+Through the matrices it is possible to identify the following:
+• Recognize the biodiversity components considered to be of high priority for protection in the
+area of influence and in the site(s) where compensation is proposed. The high
+protection priority is given both by its intrinsic values and by its services
+ecosystems.
+• Reveal certain ecosystem services, allowing those ecosystem services to be recorded.
+identified direct and indirect provision, such as fresh water, food, fiber, firewood, among others,
+as well as cultural services, those non-material benefits that people obtain from
+the aesthetic, recreational and spiritual elements of biodiversity.
+• Specify the selection criteria for key biodiversity components, which may be,
+for example, the threat classification of some species, communities or ecosystems that are
+object of conservation of the property or other criteria.
+• Select the biodiversity components that will be used to calculate biodiversity gains and losses.
+biodiversity to be carried out at level 3 of the methodology.
+• Facilitate the identification of sites with biodiversity equivalent to that which will be impacted.
+negatively about the project.
+4.1.3 Level 3. Quantification Metric
+The main objective of level 3 is to quantify losses and gains in biodiversity by predicting both
+the impacts as the conditions that will be achieved through actions designed to the extent of
+compensation.
+This metric must be applied after the evaluation in the Relevance Map (level 1) and the description
+of elements of the Matrix of Key Biodiversity Components (level 2), making up these 3 levels
+evaluation the complete methodology. The metric corresponds to a combination of parameters
+biodiversity descriptors with ranges of values, according to condition, used in an equation with the
+purpose of quantifying the residual impact in the area of influence of the ecosystem and the gains in
+biodiversity in the compensation site(s).
+12
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The first step, to apply the metric, consists of evaluating the quality of the parameters considered key
+for biodiversity to express itself. These parameters are analyzed at the landscape and ecosystem level. A
+Each of these parameters includes a value according to what the Compensation Guide indicates, which
+vary from zero to 10. As indicated in Table 4-2 and Table 4
+-3.
+For the location and landscape parameters, a landscape metrics analysis is performed. The analysis of
+Landscape metrics seek to account for relationships of size, edge, shape, and proximity to
+describe in this case possible fragmentation phenomena (Bustamante and Grez, 19954). The metrics
+selected to calculate the condition are the following:
+• Number of patches (N): Quantify the number of patches of natural environments existing in the
+area of influence.
+• Patch Size (CA): Quantifies the area of the patches of natural environments existing in the
+area of influence, its unit of measurement is hectares (ha).
+• Edge (TE): Corresponds to the quantification of the perimeter in each patch of natural environment
+existing in the area of influence. Its unit of measurement is meters (m).
+• Perimeter – Area Ratio (MPAR): Metric that accounts for the complexity of the patches.
+It corresponds to the sum of the perimeter/area ratio of each patch. Its unit of measurement is
+(meters/ha). Its mathematical expression is the following:
+𝑛
+𝑝
+𝑖
+(𝑀𝑃𝐴𝑅)= ∑
+𝑎
+𝑖
+𝑖=1
+Where 𝑎 corresponds to the area of the patch under study and 𝑝 to its perimeter.
+𝑖 𝑖
+• Shape Index (SI): It is a metric that accounts for the complexity of the agreement patches.
+with a specific geometric figure, in this case a circle. The value of the index varies between 0 and ∞,
+approaching 0 when the patches have compact shapes, and elongated when the value of
+index moves away from 0. The index corresponds to the sum of the perimeter of each patch divided by the
+square root of patch area (ha) of each class and adjusted for a divided circular standard
+by the number of patches. Its mathematical expression can be simplified as follows
+way:
+perimeter
+(𝑆𝐼)=
+√(𝜋∗𝑎𝑟𝑒𝑎)
+• Fractal Dimension (PFD): It is also a metric that accounts for the complexity of the patch to
+through the linear relationship between the logarithm of the area and the logarithm of the perimeter in the range
+complete patch sizes belonging to the same type (Pauchard et al, 2006). If the
+4 Bustamante, R. and Grez, A. 1995. Ecological consequences of the fragmentation of native forests. Science and Environment. 11(2):
+58-63
+13
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+metric tends to 1 corresponds to patches of simple shapes (square or circle) and tends to 2
+when the shapes are more complex. Its mathematical expression is the following:
+2ln𝑝
+𝑖
+(𝑃𝐷𝐹)=
+ln𝑎
+𝑖
+Where 𝑝 is the perimeter of patch 𝑖 and 𝑎 is the area of patch 𝑖.
+𝑖 𝑖
+• Proximity to nearest neighbor: Measurement that measures the closest distance to a polygon of the
+same conditions. Its unit of measurement is in meters.
+• Shannon equity index: Equity or dominance index for landscape. Relates to the
+Shannon index, the value of landscape diversity, with the value obtained for the total number
+of present ecosystems. Its value goes from 0 to 1, so that 1 corresponds to situations where
+All land uses are equally abundant and there is no dominance of a single type of land.
+land use.
+Edge and shape metrics are useful in fragmentation studies because when there is more
+edge increases exposed surface and decreases effective habitat, increasing fragmentation
+(Pauchard et al, 20065). The shape indices (SI and PAR) indicate elongated patch shapes with more
+exposed edge. Fractal dimension (PFD) indices indicate more complex patch shapes
+(irregular).
+On the other hand, when a patch has a very elongated and narrow shape, it tends to fragment, giving
+account of the fragility that these forms have to sustain a habitat. On the contrary, when
+patches are more compact, they do not have large surface losses or produce fragmentation
+internal to the patch, therefore, its habitat can be more stable and sustain the species for longer.
+(Murcia, 19956; Pauchard et al., 2006).
+The isolation of a patch can also produce fragmentation and habitat loss phenomena.
+(Fahrig, 20037). This phenomenon is also difficult to study, due to the lack of in-situ studies on
+physiology, dispersal behavior and genetic distribution
+ca of the species. You can simplify the
+effect, obtaining the closest distance between fragments, allowing us to have an idea of the degree of
+dispersion of patches in the area of influence.
+The selected metrics allow quantifying sizes, edges, shapes and isolation of the patches in
+the baseline condition (without Project) and then the final condition (with Project). It is worth mentioning that the condition
+final refers to the residual impact, that is, considering the execution of the mitigation measures
+5 Pauchard, A. Aguayo, M. and Alaback P. 2006. Quantifying landscape fragmentation: metrics and their ecological meanings.
+In: Biodiversity in Fragmented Environments of Chile: Patterns and Processes at Different Scales. Grez A, Simonetti J, Bustamante
+R. (Eds). University Publishing. 228pp
+6 Murcia, C. 1995. Edge effects in fragmented forests: implications for conservation. Trends in Ecology & Evolution, I 10, 58-62(2).
+7 Fahrig, L. 2003. Effects of Habitat Fragmentation On Biodiversity. Annual Review of Ecology, Evolution, and Systematics, 34, 487–
+515.
+14
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+repair. The patches were considered at the level of land use (disturbed soil, rocky outcrop
+and scrub). Additionally, it is indicated that the metrics were estimated for the entire Project area, without
+consider the pipeline sector. This is because the area of influence in this sector is not defined by
+natural limits and also the work is adjacent to a built road and/or through intervened environments,
+therefore, it does not generate new fragmentation patches.
+The parameters of composition, state of the structure and regeneration were considered the data of
+the baseline of the flora and vegetation component. Finally, the fauna environments parameter
+was considered at the discretion of a biodiversity specialist
+Table 4-2. Scoring of the parameters that determine the condition of the landscape
+A. Landscape Score Parameters
+landscape level 0 4 7 10
+Low diversity of Medium or low High diversity of
+Adequate diversity
+land cover diversity of land cover
+of coverage of
+based on soil cover based on
+soil based on
+cartography of based on the cartography of
+cartography of
+vegetation. Vegetation Mapping Index. Index
+Vegetation diversity. Index of
+equity or vegetation. Equity index or
+objects in equity or dominance
+dominance fluctuates equity or dominance fluctuates
+landscape fluctuates between >0.25 and
+between 0.75 and 1. dominance fluctuates between >0 and <0.25. No
+0.50. There are minimums
+There are changes between >0.50 and <0.75. there are changes
+positive changes
+negative with respect to the There are changes with respect to the past
+compared to the past (0-
+past (greater than negative with respect to or they are positive
+10%).
+50%). past (10-50%). (between 5 and 10 years).
+The trainings are The classes are presented
+The classes are
+find a low degree of
+found There are no changes
+highly fragmentation.
+Degree of fragmented. regarding the past
+fragmented. There are minimums
+fragmentation There are changes (between 5 and 10 years).
+There are positive changes
+regarding the past Connectivity
+with respect to the past with respect to the past (0-
+(10-50%).
+(greater than 50%). 10%).
+There is a relationship
+There is a relationship. There is the
+suitable area
+There is no adequate connectivity area
+perimeter for
+perimeter connectivity for adequate
+most of the
+landscape. There are most of the landscape. They do not exist
+Connectivity listed species.
+negative changes listed species. changes with respect to
+There are minimums
+with respect to the past There are changes in the past or they are
+positive changes
+(greater than 50%). negatives compared to positives (evaluated
+compared to the past (0-
+past (10-50%). between 5 and 10 years).
+10%).
+Source: SEA, 2022
+15
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Concentrated
+of rare earths
+Table 4-3. Scoring of parameters at the terrestrial ecosystem level
+Terrestrial Ecosystem Score Parameters
+level of
+Ecosystem 0 4 7 10
+Terrestrial
+The structure is
+The structure is
+finds The structure is The structure is
+find slightly
+severely impacted found in condition
+State of the impacted
+impacted in relation to its optimum in relation
+structure relationship with your
+relationship with your coverage and with your coverage and
+coverage and
+coverage and stratification. stratification.
+stratification.
+stratification.
+The composition is
+The composition is
+The composition is found
+The composition is found
+is represented by
+is represented
+represented by native species,
+represented mainly by
+native species and lacking the
+exotic species or native species, with
+Composition mainly due to the presence of
+invasive. Minimum presence of wealth
+exotic species or exotic species or
+and abundance of exotic species or
+invasive. Low invasive wealth. Wealth and
+minimally invasive species. Adequate
+and abundance of abundance of
+for the area. wealth and abundance
+species for the area. species in state
+of species.
+optimum.
+Not presented Some are presented The are presented All are presented
+Environments of environments of fauna environments fauna environments the environments of
+fauna fauna for the for the species for the majority of fauna for the
+listed species. listed. the listed species. listed species
+Does not exist
+Strong evidence exists
+minimal evidence exists
+regeneration evidence of
+Regeneration and regeneration evidence of
+close to normal and normal regeneration
+normal recruitment and normal regeneration and
+recruitment and recruiting
+recruitment natural recruitment.
+natural. natural.
+natural.
+Source: SEA, 2022
+In this way, both the area of influence of the project considering the residual impact, and the site
+compensation, a condition delta value is estimated. In the case of residual impact or area of
+intervention the condition is based on the loss of biodiversity (final condition minus initial condition,
+giving a negative value), while for the net gain of biodiversity or area of the measure the
+condition is based on the gain (final condition minus initial condition, giving a positive value). It
+above in the following metric:
+16
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-3. Biodiversity status
+Source: SEA, 2023
+Finally, the metric is applied to calculate the loss of biodiversity (residual impact) and net gain.
+of biodiversity (provided by the measure). To meet appropriate compensation standards,
+the net biodiversity gain (GNB) must exceed the biodiversity loss from the residual impact
+(IR), based on the following metric.
+Figure 4-4. Appropriate compensation
+Source: SEA, 2023
+Both the residual impact and the net gain are estimated based on the surface area of
+affectation/compensation, variation in condition and site relevance (level 1). Then for the
+net profit there are three parameters that condition the estimation of the real profit. These parameters
+they are:
+• Temporality: Time required to obtain profits at the compensation site(s). For
+The metric value varies between 1 and 2.
+Table 4-4. Temporality parameter score
+Years between impact and compensation Value
+≤ 7 years 1
+between 7 and 9 1.2
+between 9 and 11 1.4
+between 11 and 13 1.6
+between 13 and 15 1.8
+17
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Years between impact and compensation Value
+more than 15 2
+Source: SEA, 2023
+• Location: Corresponds to an assessment that is obtained according to the proximity of the site of
+compensation to the intervention sector, considering the following assessment in this parameter.
+Table 4-5. Punt
+uation of the Location parameter
+Impact compensation sites Value
+Same vegetation floor or ecosystem of the ecosystem inventory of the
+1
+MMA
+Same basin 1.5
+Bordering or neighboring basin 2
+Different basin 3
+Source: SEA, 2023
+• Management: Level of biodiversity protection of the compensation site, receives a value of 1 in case
+that the clearing site has protection through a formal mechanism that
+ensure the protection of the existing natural heritage in perpetuity. While receiving the
+number 3, when there is only a contract between the owner of the site and the person executing the measure.
+Table 4-6. Handling parameter score
+Management Type Value
+Protection of the site through a formal mechanism that
+ensure the protection of the existing natural heritage
+perpetuity (Royal Right of Conservation; or initiative 1
+private conservation with official protection of the
+State)
+Additional Measure with a contract between the owner
+of the site and who executes the development project for the 3
+life time of that project
+Source: SEA, 2022
+5 IDENTIFICATION OF RESIDUAL IMPACT
+5.1 Mitigation and Repair Measure
+In the case of the flora component, the loss of 319 specimens is considered significant impacts.
+of species in the threatened and near-threatened conservation category, specifically the
+species Citronella mucronata, Asplenium trilobum, Gardoquia multiflora and Vestia foetida.
+18
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In the measures proposed by the Project, a rescue mitigation measure has been defined and
+relocation of the 20 specimens of the species Citronella mucronata that will be affected by the
+project (greater detail of these measures in Chapter 7 of this EIA).
+On the other hand, because the planned works are all of a permanent nature, they have not been designed
+reparation measures.
+Regarding vertebrate fauna, the significant impact of “Loss of specimens of fauna of
+interest and/or sensitive” for the following species, Eupsophus roseus (amphibian), Liolaemus schroederi
+(reptile) and Dromiciops gliroides (small mammal), the Rescue Plan mitigation measures are applied and
+Relocation and Controlled Disturbance Plan.
+Regarding the impact of “Loss and/or modification of habitat of species of interest” it was significant
+for the species Eupsophus roseus (Amphibious), Liolaemus schroederi (Reptile), Dromiciops gliroides
+(Micromammal) Pudu puda (mesomammals), Puma concolor (mesomammals), Leopardus guigna
+(mesomammals). The surfaces with vegetation to be intervened by the project are a total of 150, 17
+hectares, which are distributed as follows.
+Table 5-1. Fauna habitat to intervene
+Fauna environments Surface (Ha)
+Wild forest 29.65
+Grassland 0.19
+Thicket 9.67
+Tree thicket 7.09
+Plantation (including forestry harvest) 103.02
+Prairie 0.55
+Total 150.17
+Source: GAC
+Finally, the significant impact associated with the invertebrate fauna species, Ceroglossus chilensis
+cyanicollis, Acanthogonathus pissi, Euathlus manicata, Phrixotrichus scrofa, Acanthinodera cumngii, se
+applies the mitigation measures Rescue and Relocation Plan for invetebrate fauna.
+5.2 Residual Impact Estimation
+Once the mitigation and repair measures have been identified, it is necessary to identify the residual impact on flora and fauna.
+vegetation that exists (understanding this as that which could not be mitigated or compensated). The measure
+The proposed mitigation only responds to the impact of loss of Citronella mucronata, therefore, as
+residual impact is considered the loss of Asplenium trilobum, Gardoquia multiflora and Vestia foetida
+(search and rescue of individuals before the intervention, 51 and 248 specimens, respectively).
+19
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Respect
+or the loss of habitat for terrestrial fauna, was significant for the Eupsophus species
+roseus (Amphibious), Liolaemus schroederi (Reptile), Dromiciops gliroides (Micromammal) Pudu puda
+(mesomammals), Puma concolor (mesomammals), Leopardus guigna (mesomammals). Although the
+surface to be intervened by the Project is 150.17 hectares, of these 103.2 hectares correspond to
+forest plantations, which is subject to cycles of clear felling and, therefore, there will be this loss of habitat
+in the future with or without a project. Considering the above, only 47.15 hectares correspond to the impact
+residual habitat loss for fauna.
+It is necessary to carry out a compensation measure that complies with the principle of zero net loss, which
+It is basically that the diversity gain through the measure is at least equivalent to the loss
+of biodiversity, as indicated in the following figure.
+Figure 5-1. Zero net biodiversity loss
+Source: SEA, 2022
+6 COMPENSATION MEASURES
+The offset measure must meet an appropriate biodiversity offset standard,
+considering:
+• Equivalence requirement: Refers to the fundamental objective of appropriate compensation, which
+seeks to ensure that the elements of biodiversity affected by a project or activity are
+compensated on the ground by elements of similar characteristics, class, nature, quality and
+function.
+20
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Additionality: Refers to the biodiversity gain obtained in the scenario with
+compensation, compared to the scenario without compensation. This means checking that the
+gain in biodiversity produced by the compensation measure would not have occurred in
+absence of the measure, as well as verifying that the implementation of the compensation measure
+does not cause adverse impacts, such as the displacement of activities that generate losses
+of biodiversity to other sectors.
+To comply with the two previous concepts, 2 compensation measures are presented, which are
+briefly summarized in:
+6.1 MC-04: Germplasm Collection, Nursery and Replanting of Individuals
+Vestia foetida, Gardoquia multiflora and Asplenium trilobum
+This measure aims to compensate for the loss of flora in the conservation category as a result of the
+implementation of the parts, works and actions of the project. The species to be considered in this measure
+correspond to those whose loss turned out to have a significant impact. The measure seeks to compensate
+intervention of 3 species in conservation category (Vestia foetida, Gardoquia multiflora and Asplenium
+trilobum), replanting an amount ten times greater than that cut due to the development of the Project,
+contributing to the increase in the number of individuals of species in conservation category (ECC). given
+the particularity of the reproduction, in the case of Asplenium trilobum, and considering the state of the art
+propagation of native ferns, the rescue and relocation of the individuals found is proposed
+in the work ZD Neptuno, considering the extraction of the rhizome as complete as possible, together with the
+substrate that contains it. Its transfer will be carried out in conditions of cold and relative humidity suitable for its
+survival
+The planting of the ECC will be carried out in the enrichment sites described for the measure,
+specifically in the sector of a stream located northeast of the area of influence, which
+They aim to protect habitat of species in conservation category.
+6.2 MC-05 Protection of areas surrounding the project
+The objective of the measure is to ensure the existence of patches of native and exotic vegetation, which in their
+together and with a determined spatial distribution, allow the persistence of the populations of the
+target species. The measure focuses mainly on the species: Pudu puda (pudú), Galictis cuja
+(quique), Leopardus guigna (güiña), Puma concolor (cougar), Lycalopex culpaeus (culpeo fox). No
+However, it is considered that the measure will benefit a larger group of species by allowing the
+habitat permanence for them. This measure will be effective in 91.02 hectares and s
+and distributed in
+different environments as indicated in the following table.
+21
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 6-1. Wildlife habitat to be protected through the compensation measure
+Environments Surface (ha)
+Native preservation forest 4.90
+Grassland 4.21
+Thicket 2.95
+Tree thicket 1.68
+Forest plantation 76.92
+Total area 90.66
+Source: GAC
+Figure 6-1. Location of compensation sites and Project works
+Source: GAC
+22
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6.3 Justification of compensation measures
+From a flora and vegetation point of view, the justification of the set of measures refers to compensating
+the surface of native forest formations to be intervened and segmented by the development of the
+Project, considering both the high fragmentation that these vegetation formations present,
+mainly due to the establishment of forest plantations, as well as the low percentage
+of protection that they present at the national level. This compensation also includes the species in
+conservation category whose affectation corresponds to a significant impact.
+Additionally, it seeks to compensate the surface of native forest to be intervened by the Project,
+considering the voluntary management and conservation of the environmental heritage corresponding to the
+current and future BN and BNP formations, located within the area of influence of the Project, together
+with those species in conservation category belonging to these formations (Gomortega keule,
+Pitavia punctata and Citronella mucronata). These plant units, mainly the BNP, are found
+highly fragmented by the historical intervention of the sector (forest plantations, industries,
+fires, among others), in addition, due to the low percentage of protection they present at the local level and
+regional, that is why its conservation is of vital importance to ensure its continuity.
+Among the advantages of creating a conservation area is the protection of nature for the
+future generations, remaining encumbered with the land, so future owners must comply with
+the agreement; protects conservation values from threats due to changes in land use, formalizes the
+relationship with the guarantor organization, which acts as a partner in conservation; the owner remains
+owner of the property, among others.
+Additionally, this measure is in line with the Queule Recovery, Conservation and Management Plan
+(Gomortega keule), which has been promulgated by the Ministry of the Environment (MMA), through
+Exempt Resolution No. 1,367 of December 9, 2020. Within the plan, the following are considered:
+lines of action that are consistent with the proposed measure:
+• Strengthening the evaluation and protection of the species in the SEIA
+• Design and implementation of a restoration and protection program for the Queule
+• Increase in public or private protected areas and incorporation into territorial regulations
+• Promotion and development of research for monitoring the species and its habitats
+Regarding the fauna measure, this is based on the fact that those forest plantations that have
+Certain characteristics – such as the presence of undergrowth – are capable of becoming habitat for
+species of native mammals such as Pudu puda, Leopardus guigna, Galictis cuja, among others (Simonetti
+et al 20138). This proposal follows the idea of designing policies that promote environmentally friendly practices.
+8 Simonetti, J., Grez, A. and Estades, C. 2013. Providing habitat for native mammals through understory enhances in forestry
+plantations. Cons Biol 27(5):1117-1121
+23
+==================================================================================
+PAGE 28
+===========================================================================
+=======
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+biodiversity on productive lands (Fisher et al 20089), in line with the Aichi Targets indicated by the
+Convention on Biological Diversity in 2010.
+The use that various groups of terrestrial vertebrates make of forest plantations has been
+widely documented (Simonetti et al 2013, Estades et al 201210, Acosta-Jamett and Simonetti 200411,
+Estades 199912), and its persistence in this habitat would depend, among other factors, on the composition
+landscape scale, for example, the distance between habitat patches, the existence of biological corridors
+and absence of elements that limit connectivity (e.g. Acuña and Estades, 201113).
+In this way, based on the vast literature available on this topic, it is understood that there are
+certain key characteristics for the existence of good quality habitat – at a landscape scale
+– for forest species. These characteristics are summarized according to Arroyo-Rodríguez et al (2020)14, a
+broad strokes, in the maintenance of ≥ 40% forest cover, organized in at least 10% in
+a large patch and the remaining 30% in various scattered patches and corridors, also being surrounded by
+an anthropogenic matrix friendly to biodiversity.
+It is this theoretical-practical framework that gives justification to this measure, which seeks to approximate these
+standards for designing a landscape that allows the persistence of the target species in the area.
+On the other hand, the presence of meso- and macromammal species distributed throughout the area of
+influence of the Project emphasizes the need to include this approach at the landscape level rather than a
+directed at particular sites.
+It is necessary to specify that the fauna habitat is dominated by forest plantations, therefore,
+is a habitat that is subject to cycles of clear-cutting and that, within a period of time, there will be a
+loss of that habitat due to the harvest of forest plantations.
+Added to all the above, this measure provides continuity to present biological corridors.
+in the area of influence, which correspond mainly to native forest streams, patches of
+forest plantations, water courses or floods present in the area.
+9 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J and Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+10 Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. In: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. University Publishing, Santiago; 2012. pp.
+77–98
+11 Acosta-Jamett and Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+12 Estades, C. 1999. Bird nesting in a mature stand of Pinus radiata. Bowl Chil Ornit 6:35-38
+13 Acuña, P. and Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+14 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation. Ecology Letters
+23:1404-1420
+24
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Finally, it is necessary to mention that the measurement site is adjacent to areas of high value of
+conservation (AAVC). The existence of two areas dedicated to the conservation and protection of environments
+allows for positive synergy in the objectives set for each area. The existence of both
+areas contributes to the existence of a biological corridor for the fauna species that the Project seeks
+protect. The above is illustrated in the following figure.
+Figure 6-2. Location of compensation sites and Project works
+Source: GAC
+25
+=================
+==============================================================
+PAGE 30
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7 ESTIMATION OF BIODIVERSITY LOSS AND GAIN
+7.1 Level 1. Determination of relevance according to the maps of
+relevance of the site.
+Level 1 corresponds to the consideration and analysis of the relevance of the site, for which
+the maps prepared by the MMA's Natural Resources and Biodiversity Division for this purpose, and that
+They are currently available in the Geoportal of the website: https://simbio.mma.gob.cl. The
+Maps are based on the vegetation floors of Luebert and Pliscoff 2017.
+The residual impact surface, 47.15 hectares, is distributed over two floors. The floors
+vegetation are “Coastal Mediterranean sclerophyllous forest of Lithrea caustica - Azara integrifolia” and
+“Coastal Mediterranean deciduous forest of Nothofagus obliqua - Gomortega keule”, both
+categorized with a Very high relevance according to the MMA classification, that is, it takes the value of 6
+for the biodiversity loss estimation metric.
+On the other hand, the proposed compensation measures are located on the same floors
+Vegetal. As mentioned above, it is possible to assert that the compensation sites
+proposed are ideal at the level of matrix 1, since they present the same relevance.
+7.2 Level 2. Matrix of key biodiversity components
+In this second level, the characteristics of the environment and the key components that will be seen are identified.
+intervened and for compensation sites. The analysis is carried out based on the matrix proposed in the
+Methodological guide for biodiversity compensation in terrestrial and aquatic ecosystems
+continental SEA (2023).
+The matrices are prepared through the information collected in the baselines of the area of
+influence, as well as compensation sites. The key components are related to
+the significant impacts identified for the Project area.
+7.2.1 Matrix of key components of the area of influence
+According to the results of the Project impact evaluation (Chapter 4 of this EIA), the
+floristic catalog, of native or endemic origin, that will be affected by the construction of the Project is
+of 138 species. Of the total, 14 species were registered in the conservation category, considering the 19
+species classification processes.
+Of the total number of species recorded, three are threatened, corresponding to Vestia foetida,
+Gomortega keule, Pitavia punctata in Endangered category and Asplenium trilobum and Citronella mucronata
+26
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+in Vulnerable category. The remaining 11 taxa correspond to species not considered in degree of
+threat (Near Threatened and Least Concern), corresponding to Adiantum chilense, Aextoxicon
+punctatum, Asplenium dareoides, Blechnum chilense, Blechnum hastatum, Drimys winteri, Hypolepis
+poeppigii, Luma checken and Persea lingue in Least Concern and, Gardoquia multiflora and Polystichum
+subintegerrimum in the Near Threatened category.
+The species Gomortega keule, Pitavia punctata will not be affected by the Project, therefore, they will not be
+will be considered in the matrix of key components. The presence of Lapageria rosea also stands out.
+This species is not in a conservation category, but it does have special regulation.
+associated with the marketing ban and, furthermore, corresponds to the national flower. They were not registered
+species with restricted distribution, at the limit of distribution and regional endemics. Therefore, it
+recognizes a total of 15 species as a key component.
+In the case of wildlife, 40 have been considered species of interest and/or sensitive. Of these,
+11 correspond to species of interest (two amphibians, one reptile, two birds and six mammals) and 37 are special
+ecies
+sensitive (two amphibians, six reptiles, 18 birds and 11 mammals). Below are the species that
+are included within these categories.
+There are 11 species of interest, that is, those that are in the conservation category according to the
+national legislation, four of them present threat category. Below is the detail
+of the species of interest registered for each class:
+• In the group of amphibians, there is E. roseus (rosy leaf litter frog), classified as
+“Vulnerable” according to the sixth process of the species classification regulations (D.S. Nº41/2011
+MMA); and P. thaul (four-eyed toad), classified as “Near Threatened” according to the sixth
+species classification regulation process (D.S. Nº41/2011 MMA).
+• In the group of reptiles, there is L. schroderi (Schröeder's lizard), classified as
+“Vulnerable” according to the twelfth process of the species classification regulations (D.S.
+Nº16/2016 MMA.
+• For birds, the species L. jamaicensis (pidencito) is classified in this category, its
+conservation category “Near Threatened” according to the fifteenth classification process (D.S.
+Nº23/2019 MMA); and S. rufipes (concón), classified as “Near threatened” according to the twelfth
+species classification process (D.S. Nº16/2016 MMA).
+• In the group of mammals, there is D. gliroides (mountain monkey), a cataloged species
+as “Insufficient data” according to the seventh species classification process (D.S. Nº42/2011
+MMA); H. magellanicus (southern long-eared bat), species listed as “Data
+insufficient” according to the thirteenth species classification process (D.S. Nº06/2017 MMA);
+L. cinereus (ashy bat), a species classified as “Data Deficient” according to the
+twelfth species classification process (D.S. Nº16/2016 MMA); P. puda (pudú), species
+classified as “Vulnerable” according to the first species classification process (D.S.
+Nº151/2007 MINSEGPRES); P. concolor (puma), a species classified as “Near Threatened” according to
+27
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+the seventh species classification process (D.S. Nº42/2011 MMA). The Leopardus species
+guigna has been included according to the results of the complementary study of mammals
+and is considered of interest as it is classified as Vulnerable (D.S. N°42/2011 MMA) according to
+with the RCE.
+On the other hand, 37 sensitive species were recorded, which correspond to those that, whether or not
+of interest, may be affected due to the relationship between the type of Project and its
+specific construction and operation characteristics. Below is the details of the species
+sensitive registered for each class:
+• In relation to amphibians, there is the roseate leaf litter frog (E. roseus) and the toad
+four eyes (P. thaul). This group is sensitive because they are habitat specialists and low
+mobility, which is summarized in a low effective natural escape capacity in the face of disturbances
+in their habitats.
+• In the reptile group, all registered species are considered (L. chiliensis, L. cyanogaster,
+L. lemniscatus, L. pictus, L. schroederi, L. tenuis), due to their low mobility and therefore a low
+effective capacity for natural escape from disturbances in their habitats.
+• Species that are considered species of birds were included as sensitive in the group of birds.
+medium to large scale due to the risk of collision and mainly electrocution with the
+medium voltage line considered within the Project works. They are found in this
+category: A. bicolor, C. plancus, C. aura, C. pitius, C. atratus, G. polyosoma, G. nana, L.
+dominicanus, M. chimango, P. unicinctus, P. araucana, S. rufipes, S. longirostris, T. melanopis, T.
+alba, V. chilensis, V. lignarius, Z. auriculata.
+• The group of mammals, five micromammals are considered, long-haired mouse (A. longipilis),
+olive mouse (A. olivaceus), mountain monkey (D. gliroides), long-tailed mouse (O.
+longicaudatus) and Darwin's long-eared mouse (P. darwini), due to their low mobility and therefore
+a bathroom
+ja effective capacity for natural escape from disturbances in their habitats. Regarding
+to the meso and macro mammals, quique (G. cuja), culpeo fox (L. culpaeus), pudu (P. puda) and puma
+(P. concolor), these are considered species potentially susceptible to road kill. and for
+Lastly, the red bat (L. varius), because it is considered a habitat specialist for
+forested areas, could be affected by alteration of its habitat. It is also considered the
+species L. guigna recorded in the complementary study of mammals with camera traps
+(Exhibit 3B-36).
+From a vegetation community point of view, it is indicated that, in general, the area of influence is
+the presence of forest plantations, scrublands, feral forests, native forest and native forest
+of preservation. Of these, the native forest and native preservation forest turn out to be a community
+relevant because it is vegetation that is susceptible to climate change and that registers
+presence of species in conservation category. However, these will not be intervened, for this reason
+For this reason it is possible to assert that the community is highly intervened.
+28
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+From a fauna point, all the vegetation communities correspond to the habitat of the species.
+singular, therefore, all are considered within the key components.
+Finally, at the ecosystem level, it is possible to assert that it is totally degraded if
+compares with the description of the vegetation floors. The area of influence is determined only in the sectors
+where there are streams with native forest and the rest of the environments are located
+totally degraded since they are dominated by exotic species and there are plantations
+forestry.
+29
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-1. Matrix of key components intervention area
+Intrinsic values Ecosystem service
+Justification Values
+provision (Yes or Service values
+Vulnerability Irreplaceability
+Biodiversity components No, justifying cultural ecosystemic
+if Yes) selected
+Global National Endemic Wide Distribution
+(IUCN) (MMA, SAG) site restricted distribution
+Flora Adiantum chilense -LC LC - - x No No
+Flora Aextoxicon punctatum - LC LC - - x No No
+Flora Asplenium dareoides - LC LC - - x No No
+Flora Asplenium trilobum -VU VU - - x No No
+Flora Blechnum chilense - LC LC - - x No No
+Flora Blechnum hastatum - LC LC - - x No No
+Flora Citronella mucronata -VU VU - - x No No
+Flora Drimys winteri - LC LC - - x No No
+Flora Gardoquia multiflora -NT NT - - x No No
+Flora Hypolepis poeppigii - LC LC - - x No No
+Flora Luma check - LC LC - - x No No
+Flora Persea lingue - LC LC - - x No No
+Flora Polystichum subintegerrimum - NT NT - - x No No
+Flora Vestia foetida - EN - - x No No
+Flora Lapageria rosea - - - - x No No
+Fauna Eupsophus roseus LC VU - - x Yes No E
+Fauna Pleurodema thaul LC NT - - x Yes No B-E
+Fauna Liolaemus chiliensis LC LC - - x Yes No E
+Fauna Liolaemus cyanogaster LC LC - - x Yes No E
+Fauna Liolaemus lemniscatus LC LC - - x Yes No E
+Fauna Liolaemus pictus LC LC - - x Yes No E
+Fauna Liolaemus schroederi LC VU - - x Yes No E
+Fauna Liolaemus tenuis LC LC - - x Yes No E
+30
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Intrinsic values Ecosystem service
+Justification Values
+provision (Yes or Service values
+Vulnerability Irreplaceability
+Biodiversity components No, justifying cultural ecosystemic
+if yes) select
+ionized
+Global National Endemic Wide Distribution
+(IUCN) (MMA, SAG) site restricted distribution
+Fauna Bubo magellanicus LC - - - x Yes No B-E
+Fauna Caracara plancus LC - - - x No No -
+Fauna Cathartes aura LC - - - x Yes No B
+Fauna Colaptes pitius LC - - - x Yes No B
+Fauna Coragyps atratus LC - - - x Yes No B
+Fauna Geranoaetus polyosoma LC - - - x Yes No B-E
+Fauna Glaucidium nana LC - - - x Yes No B-E
+Fauna Larus dominicanus LC - - - x No No
+Fauna Laterallus jamaicensis EN NT - - x Yes No B
+Fauna Milvago chimango LC - - - x Yes No B-E
+Fauna Parabuteo unicinctus LC - - - x Yes No B-E
+Fauna Patagioenas araucana LC LC - - x No No -
+Fauna Strix rufipes LC NT - - x Yes No B-E
+Fauna Systellura longirostris LC - - - x Yes No B-E
+Fauna Theristicus melanopis LC LC - - x Yes No B
+Fauna Tyto alba LC - - - x Yes No B-E
+Fauna Vanellus chilensis LC - - - x Yes No B-E
+Fauna Veniliornis lignarius LC - - - x Yes No B
+Fauna Zenaida auriculata LC - - - x No No -
+Fauna Abrothrix longipilis LC LC - - x No No -
+Fauna Abrothrix olivaceus LC - - - x Yes No E
+Fauna Dromiciops gliroides NT NT - - x Yes No B
+Fauna Galictis cuja LC LC - - x Yes No B-E
+Fauna Histiotus magellanicus LC DD - - x No No -
+Fauna Lasiurus cinereus LC DD - - x Yes No B
+31
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Intrinsic values Ecosystem service
+Justification Values
+provision (Yes or Service values
+Vulnerability Irreplaceability
+Biodiversity components No, justifying cultural ecosystemic
+if Yes) selected
+Global National Endemic Wide Distribution
+(IUCN) (MMA, SAG) site restricted distribution
+Fauna Lasiurus varius LC LC - - x Yes No B
+Fauna Leopardus guigna VU VU - - x Yes No B-E
+Fauna Lycalopex culpaeus LC LC - - x Yes No E
+Fauna Oligoryzomys longicaudatus LC - - - x Yes No E
+Fauna Phyllotis darwini LC - x - x Yes No E
+Fauna Pudu puda NT VU - - x No No -
+Fauna Puma concolor LC NT - - x Yes No E
+Community 1 Herbal - - - - x No No
+Community 2 Forest plantation - - - - x No No
+Community 3 Thicket - - - - x No No
+wild forest species
+Community 4 - - - - x No No
+exotic
+Community 5 Tree scrub - - - - x No No
+Mediterranean sclerophyllous forest
+Lithrea caustica coastal ecosystem 1 - Azara CR - - - x No No
+integrifolia
+Mediterranean deciduous forest
+Nothofagus obliqua coastal ecosystem 2 - CR - - - x No No
+Gomortega keule
+Categories= CR: Critically Endangered, EN: Endangered, VU: Vulnerable, DD: Data Deficient, NT: Near Threatened, LC: Least Concern. Criteria=B: species classified as
+beneficial for forestry and agricultural activity, E: species classified as beneficial for maintaining the balance of natural ecosystems (Law No. 19,473/1996 and D.S. No.
+5/1998)
+Source: GAC
+32
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.2.2 Matrix of key components of compensation areas
+Considering the 19 current RCE processes, 13 taxa were registered under conservation category in
+the Project compensation site. Of the total number of species recorded, four are in the degree of
+threat, corresponding to Gomortega keule, Pitavia punctata and Vestia foetida in the Endangered category and
+Citronella mucronata in Vulnerable category. The remaining 9 taxa correspond to species not
+considered threatened15 (Near Threatened and Least Concern) according to the criteria of IUCN 3.116,
+correspond to Luma checken, Adiantum chilense, Aextoxicon punctatum, Blechnum chilense, Blechnum
+hastatum, Hypolepis poeppigii, Lophosoria quadripinnata and Persea lingue of Least Concern and
+Polystichum subintegerrimum in the Near Threatened category.
+The compensation measure for the flora and vegetation component is considering incorporating
+Asplenium trilobum, Vestia foetida and Gardoquia multiflora. Although only the Vestia foetida was recorded in
+the compensation site, the other two species
+They are present in areas of streams in the area of
+influence of the Project on formations similar to the one that will be protected and enriched to the extent. Of
+In this way, through the compensation measure it will be possible to protect the same number of species
+in category than those existing in the area of influence of the Project.
+The presence of Lapageria rosea also stands out. This species is not in the category of
+conservation, but it does present a special regulation associated with the prohibition of commercialization and,
+Furthermore, it corresponds to the national flower.
+From a fauna point of view, it is indicated that the environments recorded during the line campaigns
+basis of the wildlife component, are present in their entirety in the compensation site.
+The above allows us to infer that the compensation area is representative of the habitats of the species.
+of fauna considered of interest and or sensitive and therefore offers the necessary characteristics for the
+establishment of these.
+Specifically, a total of 12 species of interest and/or sensitive species were recorded at the compensation site.
+Of these, four correspond to species of interest (one reptile and three mammals) and 12 are species
+sensitive: one (1) reptile, seven (7) birds and four (4) mammals. Below are the species that
+are included within these categories:
+15 The International Union for Conservation of Nature (IUCN) classifies these species into three different categories in
+its Red List of Threatened Species: Vulnerable Species (VU), Endangered (EN) and Critically Endangered (CR),
+depending on the risk of extinction to which they are subject.
+16 IUCN 3.1 corresponds to version 3.1. The first edition of the IUCN Red List Categories and Criteria: Version 3.1
+was published in 2001, following its formal adoption by the IUCN Council in February 2000. Since then it has been used as
+the standard for global Red List assessments published in the IUCN Red List of Threatened Species™.
+It has also been used in conjunction with the Guidelines for the use of the IUCN Red List Criteria at regional and national levels.
+(IUCN 2003, 2012) by many countries around the world as the standard system for national Red List assessments.
+33
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Four (4) species of interest were recorded, that is, those that are in the conservation category.
+according to national legislation, being considered in the threat category including those almost
+threatened. Below is the detail of the species of interest registered for each class:
+• In the group of reptiles, there is L. schroderi (Schröeder's lizard), classified as
+“Vulnerable” according to the twelfth process of the species classification regulations (D.S.
+Nº16/2016 MMA.
+• In the group of mammals, there is P. puda (pudú), a species classified as “Vulnerable”
+according to the first species classification process (D.S. Nº151/2007 MINSEGPRES). In the case
+of the güiña (L. guigna) and monito del monte (D. gliroides) are found in the state of
+Vulnerable and Near Threatened conservation according to the 7th classification process of
+species (D.S: N°42/2011 of the MMA).
+On the other hand, 12 sensitive species were recorded, which correspond to those that, whether or not
+of interest, may be affected due to the relationship between the type of Project and its
+specific construction and operation characteristics. Below is the details of the species
+sensitive registered for each class:
+• In the group of reptiles, the species L. schroederi, due to its low mobility and, therefore, a
+low natural escape capacity in response to intervention activities in their habitats.
+• Species that are considered species of birds were included as sensitive in the group of birds.
+medium to large scale due to the risk of collision and mainly electrocution with the
+medium voltage line considered within the Project works. They are found in this
+category: C. aura, C. atratus, G. nana, G po
+lyosoma, L. dominicanus, P. araucana and V. lignarius.
+• The group of mammals, two micromammals are considered, the olive mouse (A. olivaceus) and
+monito del monte (D. gliroides), due to its low mobility and, therefore, a low capacity
+effective natural escape from disturbances in their habitats. With respect to mesomammals,
+pudú (P. puda) and güiña (L. guigna) are considered species potentially susceptible to
+accidents
+Although the species of interest are smaller in the compensation site, compared to the area of influence, the
+All of the species recorded at the compensation site are found in the area of influence,
+This being a good indicator, because similar environments will be protected.
+Regarding vegetation communities, both the measure of creating a conservation area of
+flora and vegetation, such as the measure to protect areas surrounding the Project as wildlife habitat,
+They cover surfaces of all the existing environments in the sectors that will be intervened that have
+relevance to biodiversity components, specifically forest plantations, shrublands,
+grassland and native forest.
+34
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Finally, at the ecosystem level, it is possible to assert that the sectors that are closest
+to naturalness and what is described in the vegetation floors, will be protected through the measure of
+creation of a conservation area. Likewise, an ecosystem of forest plantations will be protected,
+which, if it were not for this project, would be harvested approximately 20 years from now, allowing
+thus the existence of wildlife habitat in perpetuity. As noted above, the sites
+compensation are located in the same vegetation levels where the felling will take place.
+35
+==================================================================================
+PAGE 40
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-2. Clearing Site Key Component Matrix
+Intrinsic values Ecosystem service
+Provision values Service justification
+Values
+Vulnerability Irreplaceability (Yes or No, justifying ecosystem
+Cultural biodiversity components
+if Yes) selected
+Global National Endemic Wide Distribution
+(IUCN) (MMA, SAG) site restricted distribution
+Flora Adiantum chilense LC LC - - x No No
+Flora Aextoxicon punctatum LC LC - - x No No
+Flora Blechnum chilense LC LC - - x No No
+Flora Blechnum hastatum LC LC - - x No No
+Flora Citronella mucronata VU VU - - x No No
+Flora Hypolepis poeppigii LC LC - - x No No
+Flora Lophosoria quadripinnata LC LC - - x No No
+Flora Luma check LC LC - - x No No
+Flora Persea lingue LC LC - - x No No
+Flora Polystichum subintegerrimum NT NT - - x No No
+Flora Vestia foetida - EN - - x No No
+Flora Gomortega keule EN EN - - x No No
+Flora Pitavia punctata EN EN - - x No No
+Flora Lapageria rosea - - - - x No No
+Fauna Liolaemus schroederi LC VU - - x Yes No E
+Fauna Cathartes aura LC - - - x Yes No B
+Fauna Coragyps atratus LC - - - x Yes No B
+Fauna Geranoaetus polyosoma LC - - - x Yes No B-E
+Fauna Glaucidium nana LC - - - x Yes No B-E
+Fauna Larus dominicanus LC - - - x No No
+Fauna Patagioenas araucana LC LC - - x No No -
+Fauna Veniliornis lignarius LC - - - x Yes No B
+Fauna Abrothrix olivaceus LC - - - x Yes No E
+Fauna Dromiciops gliroides NT NT - - x Yes No B
+36
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Intrinsic values Ecosystem service
+Provision values Service justification
+Values
+Vulnerability Irreplaceability (Yes or No, justifying ecosystem
+Biodi components
+cultural versity
+if Yes) selected
+Global National Endemic Wide Distribution
+(IUCN) (MMA, SAG) site restricted distribution
+Fauna Leopardus guigna VU VU - - x Yes No B-E
+Fauna Pudu puda NT VU - - x No No -
+Community 1 Native forest - - - - x No No
+Community 2 Forest plantation - - - - x No No
+Community 3 Thicket - - - - x No No
+Community 4 Herbazal - - - - x No No
+Sclerophyllous forest
+coastal mediterranean
+Ecosystem 1 CR - - - x No No
+Lithrea caustica - Azara
+integrifolia
+deciduous forest
+coastal mediterranean
+Ecosystem 2 CR - - - x No No
+Nothofagus obliqua -
+Gomortega keule
+Source: GAC
+37
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3 Level 3. Quantification Metric
+At this level, a metric is applied to calculate biodiversity loss (residual impact) and gain.
+net biodiversity (provided by the measure). To meet compensation standards
+appropriate, the net biodiversity gain (GNB) must exceed the biodiversity loss from the impact
+residual (IR), based on the following metric.
+Figure 7-1. Appropriate compensation
+Source: SEA, 2022
+The residual impact is estimated for the two impacted sectors, while the net gain is calculated
+for the sum of the actions of the two proposed measures. The values of each of the variables
+are obtained considering the following parameters.
+7.3.1 Relevance of the impacted site with respect to the area of influence and the sites of
+compensation
+The residual impact identified above is distributed in the vegetation floors
+“Mediterranean coastal sclerophyllous forest of Lithrea caustica - Azara integrifolia” and “Deciduous forest
+coastal Mediterranean of Nothofagus obliqua - Gomortega keule”.
+On the other hand, compensation measures are also distributed on the same floors.
+Vegetal. Both floors are classified with a very high relevance according to the classification
+of the MMA, that is, it takes the value of 6 for the biodiversity loss estimation metric.
+It should be noted that in the case of the area to be intervened and as previously addressed, a part
+An important part of it is currently intervened, lacking native vegetation and in
+particular with forest plantations (monoculture), therefore, without prejudice to the relevance considered
+the vegetation floor that is expected to exist naturally in the area, strictly speaking the current condition of the
+area would suggest that the relevance of the impacted site was lower.
+38
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3.2 Temporality
+The ECC enrichment compensation measure has a follow-up time period of 8
+years, where the species are expected to be established and alive. Considering a margin
+Conservative for this metric will be considered the range of 9-11 years, that is, a value of 1.4.
+In the case of the fauna measure, protection of areas surrounding the Project, this does not have a period of
+execution time of the measure, because the vegetation and habitat is standing. Therefore,
+The value is the lowest within what is indicated in the methodology. Without prejudice to the above and considering a
+conservative value, 1.4 is maintained for this parameter.
+7.3.3 Location
+Both the residual impact of biodiversity and the compensation surfaces are present
+in the same sub-basin of the DGA (Andalien River Sub-basin). Therefore, the value 1 is obtained for this
+parameter.
+7.3.4 Management
+Regarding the formalization of the protection site, in case of obtaining a Qualification Resolution
+Environmental (RCA) of the EIA, the Owner will register the surface of this measure as an area of
+private protection. Therefore, the value 1 is obtained for this parameter.
+7.3.5 Condition
+The estimation of each of these parameters is made at the discretion of the speci
+biodiversity list,
+considering the information collected in the baseline campaigns executed within the framework of the Study
+of Environmental Impact. The details of the metric results are in Appendix 7-1.1.
+7.3.5.1 Condition for the Area of Influence
+For the location and landscape parameters, a landscape metrics analysis is performed. The analysis of
+Landscape metrics seek to account for relationships of size, edge, shape, and proximity to
+describe in this case possible fragmentation phenomena (Bustamante and Grez, 1995). The metrics
+selected to calculate the condition are the following:
+• Number of patches (N): Quantify the number of patches with vegetation in the area of
+influence.
+• Patch Size (CA): Quantifies the area of the existing vegetation patches in the area of
+influence, its unit of measurement is hectares (ha).
+• Edge (TE): Corresponds to the quantification of the perimeter in each patch with existing vegetation
+in the area of influence. Its unit of measurement is meters (m).
+39
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Perimeter – Area Ratio (MPAR): Metric that accounts for the complexity of the patches.
+It corresponds to the sum of the perimeter/area ratio of each patch. Its unit of measurement is
+(meters/ha). Its mathematical expression is the following:
+• Shape Index (SI): It is a metric that accounts for the complexity of the agreement patches.
+with a specific geometric figure, in this case a circle. The value of the index varies between 0 and ∞,
+approaching 0 when the patches have compact shapes, and elongated when the value of
+index moves away from 0. The index corresponds to the sum of the perimeter of each patch divided by the
+square root of patch area (ha) of each class and adjusted for a divided circular standard
+by the number of patches.
+• Fractal Dimension (PFD): It is also a metric that accounts for the complexity of the patch to
+through the linear relationship between the logarithm of the area and the logarithm of the perimeter in the range
+complete patch sizes belonging to the same type (Pauchard et al, 2006). If the
+metric tends to 1 corresponds to patches of simple shapes (square or circle) and tends to 2
+when the shapes are more complex.
+• Proximity to nearest neighbor: Measurement that measures the closest distance to a polygon of the
+same conditions. Its unit of measurement is in meters.
+• Shannon equity index: Equity or dominance index for landscape. Relates to the
+Shannon index, the value of landscape diversity, with the value obtained for the total number
+of present ecosystems. Its value goes from 0 to 1, so that 1 corresponds to situations where
+All land uses are equally abundant and there is no dominance of a single type of land.
+land use.
+Table 7-3. Landscape metrics for the area of influence before the Project
+Metrics Mean Min Max Standard Deviation
+Patch Size (ha) 1.71 0.02 23.88 2.43
+Edge (m) 801.04 65.00 4794.00 690.39
+Perimeter Area - PAR Relationship (m/ha) 782,640 166,332 3750,000 459,993
+Shape Index - YES 3.74 2.16 8.69 1.12
+Fractal Dimension - PFD 1.41 1.26 1.63 0.06
+Proximity to nearest neighbor (m) 0.21 0.00 7.92 0.79
+N (vegetated patches/total patches) 351 - - -
+Source: GAC
+Table 7-4. Landscape metrics for the area of influence after the Project
+Metrics Mean Min Max Standard Deviation
+Patch Size (ha) 1.25 0.002 20.53 2.07
+Edge (m) 611.20 33.49 3812.98 571.19
+Perimeter Area - PAR Relationship (m/ha) 1373.36 198.154 17749.959 1865.238
+Shape Index - YES 3.57 2.18 7.40 0.98
+Fractal Dimension - PFD 1.45 1.27 2.39 0.13
+Proximity to nearest neighbor (m) 0.36 0.36 0.36 0.36
+N (polygons of vegetated environments) 359
+40
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: GAC
+For Terrestrial Ecosystem parameters
+The data obtained in the line characterization were used
+of the Flora and Vegetation component and the Fauna component (Chapter 3 “Base Line”
+Section B).
+Table 7-5. Parameters for the influence area
+Parameters
+Score Score
+Location and Justification Justification
+initial final
+Landscape
+351 patches, of which 85
+359 patches, of which 91 are
+of natural environments and 266
+natural environments and 268 are
+of intervened environments
+intervened environments
+(mainly plantations
+(mainly plantations
+Forest Diversity). The index of
+forestry). The equity index
+objects in the 4 dominance equity gives a 4
+dominance gives a value of 0.22
+landscape value of 0.21 what a
+that an abundance indicator
+abundance indicator
+intervened environments. Due to
+intervened environments,
+that the parameter is maintained, it is
+Therefore, this variable takes the
+criterion takes the value 4.
+value 4.
+The size of the patches in
+average is enough
+small compared to
+The size of the patches in
+the total surface, since the
+average decreases from 1.71 ha to
+average is less than 1% of
+1.25 ha, the standard deviation is
+total area and deviation
+higher than average. The above is a
+standard is greater than
+indicator that due to the project
+average, but less than two
+patches of vegetation decrease
+Average times degree. The above is
+4 1 its size (largest 20.53 ha) and
+fragmentation an indicator that there are patches
+there are other quite small ones in
+medium (largest 23.88
+comparison (0.002 ha). This is a
+ha) and there are quite a few others
+indicator that fragmentation will be
+small in comparison
+greater once the
+(0.02 ha). This is because there are
+project. Therefore, acquire a
+presence of fragmentation
+value of 1.
+throughout the area, due to the
+forest plantations. By
+Therefore, it acquires a value of 4.
+Fractal Dimension gains Fractal Dimension increases
+a value of 1.41, that is, compared to the condition without a project,
+Connectivity 7 circular polygons and another 4 since now the value is 1.45, it is
+elongated. The average say polygons increase
+distance between elongated polygons. The average distance
+41
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+is less than 1 meter. Between the polygons it is slightly
+Therefore, it is considered to be greater than 1, but it increased more than
+consider a value of 7. double the average distance. By
+Therefore, it is considered a
+value of 4.
+Unique value
+5 - 3 -
+average
+Parameters
+Score Score
+of Ecosystem Justification Justification
+initial final
+terrestrial
+According to data from the line
+Because the residual impact is
+base of flora and vegetation, the
+of 47.15 hectares of loss of
+forests and plantations
+State of the fauna habitat, it is estimated that
+7 have dense coverage and 4
+structure there will be a deterioration in the state of
+semi-dense. Therefore,
+The structure, therefore, is delivered
+gets a value of 7 this
+a value of 4 to this parameter.
+parameter
+In the floristic catalog of the
+influence area is 247
+taxa, where 101 species are
+native, 64 species are
+endemic, 80 species
+introduced and 2 species
+indeterminate.
+It is important to mention that,
+the Plant Catalog
+Chile Vascular
+Rodríguez and Marticorena del There is no decrease in the
+year 2019 indicates that 15.1% floristic catalog by
+Composition 4 4
+of the existing species under construction of the project. By
+Chile correspond to species therefore, the value of 4 is maintained
+of exotic origin.
+In the floristic catalog of the
+area of influence
+percentage of species
+introduced is 32.4%,
+value more than double the
+national percentage. By
+Therefore, a value of 4 is assigned
+for this parameter.
+42
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Due to construction environments are presented
+of the
+Environments of
+10 fauna for all species 7 Project there will be a decrease in
+fauna
+fauna environments registered as keys
+In natural environments
+through the plots of
+forest inventory, it was possible
+recognize regeneration of
+native species. In the
+plantation sectors
+forestry, it was also Due to the decrease in the
+possible to find a surface, it is estimated that there will be a
+Regeneration
+undergrowth growing under the decline in the regeneration of the
+and 7 4
+upper canopy. However, the species Considering the above
+recruitment
+existence of large, a value of 4 is attributed to this
+Parameter plantation surfaces.
+forestry does not allow
+general development of species
+natives and the development of
+vegetation formations
+natural. Therefore, there is a
+value of 7 to this parameter.
+Unique value
+7 - 4.75 -
+average
+Difference
+-0.21
+condition
+Source: GAC
+7.3.5.2 Condition for measurement sites
+For the estimation of the condition of the compensation site it is not possible to calculate the landscape metrics,
+since there are forest plantations in the environment, which in the event that the
+measure will be harvested in the future, an aspect that is considered in the estimation of the current condition
+of the site. On the other hand, if the measures are executed, said plantations will not be cut and
+They will end up being wild formations that will allow the development of flora and fauna in their environment,
+this will be considered in the final condition.
+The area of the forest plantation fauna environment protection measure is 76.92
+hectares that corresponds to 84.8% of the total compensation area (90.66 hectares). The surface of the
+measure of flora and vegetation enrichment of ECC and accompanying native species, is included
+within the 90.66 hectares.
+43
+==================================================================================
+PAGE 48
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-6. Parameters for clearing site
+Parameters
+Score Score
+Location and Justification Justification
+initial final
+Landscape
+Due to the inclusion of the measure,
+cycles of
+Like the area of influence are clear felling and said plantations
+Diversity of sectors where there is dominance of will end up being formations
+objects in the 4 forest plantations, which in 7 wild that will allow the
+landscape will sometime be harvested. development of flora and fauna in its
+Therefore, it takes a value of 4. environment. Therefore, there is a
+increase in the value of this
+score.
+The area has more than 50% of
+As a result of the measure, they will not be eliminated
+intervened environments, that some
+forest plantations, but still
+Day degree will be cut. Therefore, it
+4 4 correspond to formations not
+fragmentation considers a high degree of
+natural, therefore, the value
+fragmentation and assigns the value 4 to
+keeps at 4.
+this parameter.
+Due to the proximity of the area of
+It is considered that the compensation connectivity with the area of the
+decrease due to the cyclical shortening of the project, there will be no improvement in
+Connectivity 4 4
+forest plantations. Therefore, connectivity, because the
+acquires a value of 4 compensation sites will be
+adjacent to intervened sectors.
+Unique value
+4 - 5 -
+average
+Parameters
+Score Score
+of Ecosystem Justification Justification
+initial final
+terrestrial
+When the measure is executed, there will be no
+an impact on the formations,
+Due to the harvest of
+which will allow greater
+forest plantations, the state of
+vegetation development. On the other
+State of the vegetation structure will be
+4 7 part, actions of
+deteriorating structure in the area. Therefore, it
+enrichment, which means
+returns a value of 4 to this
+an improvement in the structure of the
+parameter.
+native forest. Therefore, it is delivered
+a value of 7 to this parameter.
+There is no way to estimate the potential
+Although it is considered a
+composition change that could
+enrichment of species in
+exist in case the
+Composition 4 4 some forest ravines
+measurement, but by the rotations of
+native, such actions do not imply
+the
+forest plantations
+an increase in the floristic catalog
+would maintain a high percentage of
+44
+==================================================================================
+PAGE 49
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Introduced species, therefore, are from the site prior to the measure. By
+gives a value of 4 to this parameter. Therefore, it maintains the valuation.
+Due to the cutting process of the
+Forest plantation environments at the forest plantation site, the
+7 10
+fauna there will be a decrease in fauna environments will not be seen
+threatened wildlife environments.
+In natural environments through
+of forest inventory plots,
+it was possible to recognize regeneration
+Due to the measure it will allow
+of native species. In the
+there is no cutting of the plantations
+forestry plantation sectors,
+forests and streams with
+It was also possible to find a
+presence of native forest will be seen
+Understory regeneration growing under the canopy
+enriched and there is also the
+and 4 higher. However, the existence 7
+forest planting measure
+recruitment of large areas of
+native, which will include new
+forest plantations do not allow
+exemplars, is that it is considered a
+general development of species
+improvement in this parameter
+native and also these will be
+obtaining the value of 7
+harvested at some point. By
+Therefore, a value of 4 is given to this
+parameter
+Unique value
+4.75 - 7 -
+average
+Difference
+0.16
+condition
+Source: GAC
+7.4 Metric results
+Reviewing the above, the result of the metric for the residual impact is -60.1, while the
+metric result for the gain is 63.14 for the surface measurements. As a surface of
+The compensation measures considered the 90.66 hectares of protection of fauna environments, which
+includes flora enrichment surface.
+According to the previous results, it is possible to indicate that the gain in biodiversity due to the execution of the
+measures is greater than the loss of biodiversity from the residual impact. The results in the following
+tables.
+45
+==================================================================================
+PAGE 50
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 7-7. Residual impact
+Area Δ Condition Relevance M1 Loss of biodiversity
+Residual Impact (RI) 47.15 -0.21 6 -60.1
+Source: GAC
+Table 7-8. Biodiversity gain
+Area Δ Condition Relevance Temporality Location Management Biodiversity gain
+GNB 1 90.66 0.16 6 1.4 1 1 63.14
+Source: GAC
+8 THREATS OF THE CLEARING SITE
+The main threat that exists in the biodiversity compensation site is that the ecosystem that is
+way in said place is affected every certain period of time due to the rotation of the plantations
+forests, producing an absolute change in the environment when the plantation is harvested.
+This threat is included in the proposed measures, because it is considered to eliminate said rotation
+of the plantations and therefore, the change in the ecosystem does not occur due to the harvest of the
+plantation. In the absence of cutting vegetation, the habitat for fauna can be maintained, whose impact
+significant is the one with the largest surface area.
+A second threat, which exists at compensation sites, is the probability of fires
+forestry, for this prevention and control measures are proposed in PAS 149, which will be approved
+for the compensation area.
+9 CONCLUSION
+The residual impact on biodiversity, understood as that which could not be mitigated or compensated,
+It is related to the loss of flora specimens and loss of habitat for sensitive and/or interesting fauna.
+The area that will be intervened by the Project is 150.17 hectares, of which 103.02 hectares
+correspond to forest plantations. Forest plantations are subject to cycles of clear felling and, therefore,
+Therefore, there will be this loss of habitat in the future with or without a project. Considering the above only 47.15
+hec
+tasks correspond to the residual impact of habitat loss for sensitive and/or interest fauna.
+Finally, regarding the loss of flora specimens, the loss is recognized as a residual impact.
+of Asplenium trilobum, Gardoquia multiflora and Vestia foetida (2, 39 and 339 specimens, respectively).
+Regarding measures for fauna, the protection of surrounding areas is established as a measure of
+compensation, with representativeness of the identified environments. The above offers the
+46
+==================================================================================
+PAGE 51
+==================================================================================
+Annex 7-1 Analysis of Bioequivalence and Additionality of Compensation Measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+possibility of providing shelter habitat for all registered species. The surface of this
+measurement is 90.66 hectares, a higher value and almost double the 47.15 hectares recognized as
+significant impact.
+Regarding flora measures, to the extent of enrichment of ECC and accompanying native species
+and the creation of a conservation area, allows establishing and protecting a greater number of specimens
+who will be affected by the Project.
+The sites of the proposed measures, following the criteria of the Biodiversity Compensation Guide
+of the SEA (2023), have similar characteristics. This is because it is found in vegetation floors.
+equivalents and key component matrices are similar.
+The loss of biodiversity from the residual impact and the gain in biodiversity from the measures were estimated.
+compensation, following the methodology proposed in the Biodiversity Compensation Guide of the
+SEA (2022). As a loss, a value of -60.1 is obtained, while as a gain, a value of
+63.14. Additionally, through compensation measures, an increase in density is proposed.
+of species in conservation category that turned out to have a significant impact by the Project.
+According to the previous results, it is possible to indicate that the gain in biodiversity due to the execution of the
+measures is greater than the loss of biodiversity from the residual impact.
+47

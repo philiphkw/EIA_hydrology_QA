@@ -1,0 +1,1356 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 8-1
+Fire protection plan
+EIA “Mining Development Project of
+Clay Extraction for Production
+of Rare Earth Concentrates”
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF CONTENTS
+1. Introduction ........................................................................................................................... 1
+2. Objectives and Scope ................................................................................................................ 2
+2.1 Objectives.............................................................................................................................. 2
+3. Definition of associated basic concepts ........................................................................................... 3
+4. Forest Fires and Consequences ....................................................................................... 5
+4.1 Damage from Forest Fires................................................................................................ 5
+4.2 Effects of Forest Fires ........................................................................................... 6
+5. Risks ................................................................................................................................... 8
+5.1 Project Risk Identification ........................................................................................... 8
+6. Contingency Plan ........................................................................................................... 19
+7. Forest Fire Protection Program ........................................................... 21
+8. Emergency Brigade Formation ........................................................................................... 22
+8.1 Detection and Timely Warning ........................................................................................... 23
+8.2 Emergency and Communications Levels ....................................................................... 24
+8.3 Equipment, Materials and Tools ................................................................................... 24
+9. Basic Extinction Actions and Combat Methods ........................................................... 25
+9.1 Basic Extinction Actions ........................................................................................... 25
+9.1.1 About oxygen: ................................................................................................... 26
+9.1.2 About heat ........................................................................................................... 26
+9.1.3 About fuel ................................................................................................ 26
+9.2 Combat Methods ....................................................................................................... 26
+9.2.1 Line of Fire ........................................................................................................... 26
+9.2.2 Ash Guard ........................................................................................................... 27
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 5-1. Construction Phase Risks ........................................................................................... 11
+Table 5-2. Risks in the Operation Phase ........................................................................................... 13
+Table 7-2. Risks, Measures and Deadlines of the Forest Fire Program. .....................
+...21
+INDEX OF FIGURES
+Figure 1-1. General Location of the Project. ................................................................................... 2
+Figure 5-1. CONAF Risk Map ................................................................................................... 9
+Figure 5-2. Occurrence of fires in the last five years within a 2 km radius ................................... 10
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1. INTRODUCTION
+Forest and/or vegetation fires are one of the main natural disturbances
+that affect forests around the world, becoming a great concern due to the
+significant increase in its occurrence and severity (Westerling et al. 2006). The changes in the
+climate and its variability (Westerling et al. 2006), as well as changes in land use
+and the expansion of the urban-forest interface (Keeley et al. 1999), have been indicated as the
+main factors that would be contributing to a greater frequency and extension of the
+fires.
+Particularly in Chile, forest fires are perceived as one of the main
+environmental problems (Castillo et al. 2003), attracting significant attention from
+media and society, which has been accentuated by the large fires that occurred during the
+recent years (González 2005, Urzúa and Cáceres 2011). The Biobío Region is responsible for a
+important participation, with 38.9% of the fires and 28.6% of the affected area
+(according to values from 10 seasons, 1994 - 2004).
+Forest and vegetation fires are caused mainly by the effect of
+activities associated with man, therefore, fires as a consequence of natural phenomena
+(lightning, volcanic eruptions, etc.) are rare in Chile. The consequences of a fire
+forestry range from economic, environmental, cultural impacts and even losses of
+human lives.
+The Mining Development Project of Clay Extraction for the Production of Concentrate
+Rare Earths, corresponds to the set of works and activities that will allow the construction and
+operation of a mining site and a clay processing plant, a material present in
+the area, which due to natural effects is found in the area due to the alteration of the materials
+existing lithologies in the area, with the presence of lanthanides adsorbed in the minerals of
+clay.
+The project is located in a rural environment, in the Communes of Penco and Concepción, Biobío region.
+(Figure 1-1).
+1
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 1-1. General Location of the Project.
+Source: Aclara
+2. OBJECTIVES AND SCOPE
+2.1 OBJECTIVES
+The objectives of this program are:
+Establish preventive and forest fire fighting measures, identifying sectors
+critical or high fire risk, where the probability of fire is greater, depending on the
+property and area information. The choice of critical sectors is made considering the
+potential human activities inside and outside the project's area of influence, as well as the
+type of vegetation and existing topography.
+For each critical or high fire risk sector identified, safety measures will be established.
+prevention and mitigation which will be aimed at:
+2
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Reduce the risk of occurrence.
+• Surveillance.
+• Diffusion.
+• Risk control.
+• Reduce the danger of occurrence.
+• Fuel management.
+• Construction of firewalls, indicating width and extension.
+• Fuel reduction.
+The Scope of the following program are:
+This program will be from to
+application to all personnel involved in the project; including
+contractors and subcontractors, in their construction, operation and closure phases.
+A hierarchical order of operational priorities is also established for this program,
+being the following:
+• Guarantee the safety of workers and neighboring communities.
+• Protect the integrity of the flora, fauna and vegetation present in the area of influence of the
+project.
+3. DEFINITION OF ASSOCIATED BASIC CONCEPTS
+For the purposes of this program it will be understood as:
+a) Threat: Phenomenon of natural, biological or anthropic origin, which can cause
+loss, damage or disruption to people, infrastructure, services, ways of life or
+environment.
+b) Threat of forest fire: Actions of people or existence of other factors
+causes that will result in the probability of starting a forest fire.
+c) Urban area: Corresponds to a group of more than 20 homes and where more than
+100 inhabitants.
+d) Public roads: Land communication routes intended for free transit, located
+outside the urban limits of a population and whose strips are national assets for use
+public.
+3
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+e) Fuel: Corresponds to living and/or dead vegetation as a result of the natural cycle of the
+vegetation or human interventions, which constitute material
+available for the generation and propagation of forest fires.
+f) Firebreak: Strip of land of determined width according to the height of the vegetation
+surrounding area, which stops or hinders the spread of a forest fire due to the lack of
+combustible vegetation or because it is not in a position to burn. Includes girdles
+existing, such as roads, railway lines and waterways, and constructed firebreaks, such as
+preventive firebreak, firebreak line, fire line, water firebreak and firebreak
+chemist.
+g) Potential damage: Quantitative or qualitative assessment that is assigned to an asset or resource to
+protect. Its analysis can be carried out by integrating social, environmental and
+economic, or only evaluating some of these aspects.
+h) Waste (agricultural and forestry): Combustible plant material that remains as waste
+of agricultural and forestry activities. For example: wheat stubble.
+i) Fire: It is the result of the chemical process called combustion. For it to be
+produce, there must be the presence of a fuel (for example, vegetation with low
+moisture content), a heat source (campfire, matches, cigarettes, agricultural burning)
+and oxygen (from the air).
+j) Forest fire: Any destruction of vegetation, through fire and when
+it spreads freely.
+k) Fire of anthropic origin: Considered as an internal cause of fires, it is
+generated either through carelessness, ignorance or intentionally.
+l) Fire of natural origin: Considered as an external cause that, from its origin to a
+fire, which are very rare in our country, such as eruptions
+volcanics or lightning strikes in dry thunderstorms.
+m) Fireproof: Non-combustible.
+4
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+n) Mitigation of the risk of forest fire: Set of measures aimed at reducing to
+maximize the potential effects on people, property and the environment in the
+case of forest fire occurrence (Working Document N°451/2006, CONAF).
+o) Prevention of the risk of forest fire: Set of measures designed to prevent
+forest fires occur.
+p) Danger: Corresponds to the environmental conditions that affect both the susceptibility
+of vegetation to ignition and flammability (meteorology, topography), as well as to
+the natural resistance present to control the spread of possible outbreaks of
+fires that start in the area.
+q) Propagation: Expansion of fire at a speed d
+ada, in linear form, on surface or
+on perimeter.
+r) Risk of forest fires: It is the probability of exceeding a specific damage value
+social, environmental and economic, in a given place and during a time of exposure
+determined. The determination of the Risk of forest fires is given by the
+following generic equation: Risk: (threat; vulnerability). Where the threat is
+understood as the probability of occurrence of a forest fire, conditioned by
+the presence and activity of a causal agent, vulnerability, for its part, corresponds
+to the type of fuel possible to be affected.
+s) Urban-rural interface zone: That transition zone where there is contact between
+some plant formation with built, inhabited sectors and/or urban areas (Protocol
+of Forest Plantations).
+4. FOREST FIRES AND CONSEQUENCES
+The problems caused by fire such as forest fire can be classified according to the damage and
+effects. These are described in the following sections:
+4.1 DAMAGES FROM FOREST FIRES
+When we talk about damage, we are referring to the losses caused by a forest fire.
+valued in money. Losses caused by forest fires, or improper burning
+applied, they can be classified into two broad categories.
+5
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+a) Direct damages: These are all damages caused to tangible assets, tradable in the
+market in monetary values, whose identification and evaluation is feasible to carry out
+immediately or within a short period of time after the action of the fire occurs. In this
+category it is worth noting losses of wood and other forest products, crops
+agricultural, fences, livestock, sawmills and other facilities.
+b) Indirect damages: These correspond to losses of an intangible nature, difficult to
+identify and evaluate, sometimes even in the medium term, with consequences that generally
+They manifest themselves in values that were not directly affected by the action of the
+fire. It is worth highlighting the loss of soil fertility, the initiation of processes
+erosion, the silting of water courses, alterations in the biological balance and in
+ecosystems, the deterioration of scenic beauty and environmental hygiene, and even the
+sequel of economic and social problems that originate in communities whose
+Livelihood is based mainly on the use of forest resources.
+4.2 EFFECTS OF FOREST FIRES
+It refers to the quality of the damage, or the alterations that originate in the dynamics of the
+different processes related to renewable natural resources, including the functions that
+These fulfill economic and social development.
+The effects are aimed at establishing the losses or alterations caused by the fire
+forestry. They are classified as socioeconomic and ecological.
+a) Socioeconomic Effects
+Public health:
+• Pollution of soil, water and air.
+• Deterioration of the landscape and scenic beauty.
+• Limitations for recreation, leisure and sports practices.
+• Vehicle accidents. The smoke generated by fire, through fires or burning
+edges near roads, can cause traffic accidents, because the
+Drivers' visibility is considerably reduced.
+Community development:
+• Property damage.
+• Deterioration or stoppage of productive processes.
+6
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Reduction of sources of work.
+• Limitations to rural development and local commerce.
+• Deterioration of tourism and therefore, the income it generates.
+• Loss of cultural and historical values.
+• Damage to public works and communications infrastructure.
+• Impoverishment of a population that lives in very destroyed landscapes.
+b) Ecological Effect
+Climate:
+• Change in wind regimes.
+• Decrease in environmental humidity.
+• Increase in temperature
+environmental ture.
+• Increase in solar radiation.
+• Greenhouse effect.
+Soil:
+• Deterioration of the physical properties of the soil.
+• Change in the chemical properties of the soil, with frequent loss of nutrients.
+• Loss of the biological properties of the soil.
+• Destruction of the layer of organic matter not incorporated into the mineral soil.
+• Soil erosion.
+Water and hydrographic basins:
+• Alteration in water courses.
+• Increase in surface water runoff.
+• Alteration of the hydrological cycle.
+• Deterioration in water quality.
+• In the rainy season, rivers flood due to damming and with the consequent
+generation of floods.
+Wildlife:
+• Destructions of vegetation formations or alterations in the composition of the
+species.
+• Migrations of larger animals, birds, insects and microorganisms.
+• Ecological imbalances or breaks in the biological chain.
+7
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Fragmentation and with it weakening of ecosystems.
+Air and atmosphere:
+• Physical-mechanical alterations of the atmosphere.
+• Incorporation of polluting emissions.
+• Smoke production.
+5. RISKS
+5.1 IDENTIFICATION OF PROJECT RISKS
+Risks can be differentiated between internal and external, where internal means all
+action of human origin, whether due to carelessness, ignorance or intentionally, that
+lead to the generation of a forest fire and, in turn, risks of external origin can
+be associated with natural causes, such as lightning, or due to unrelated causes or not caused by the
+project.
+Initially, to evaluate the risks, whether external or internal, the information was analyzed
+GIS contained in the “Technical prescriptions for forest fire protection program
+applicable to the forest plantation management plan of the D.L. No. 701/1974” version 4.1, having
+as a result of what is graphed in Figure 2-1, where it can clearly be seen that the level
+risk is very high, given that at least one intervention area is covered by a
+red category zone that is very high.
+8
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 5-1. CONAF Risk Map
+Source: Aclara
+In addition to the above and as a complement to Figure 5-1, we can see that the
+The project is located in the urban-rural interface area, given that there is the urbanization of
+Penco contained within the 2.0 km radius and, furthermore, within this radius there have been
+recorded more than 50 forest fires during the last five years, where the vast majority were
+located to the northwest, where 6 fires have originated within the project's area of influence.
+9
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 5-2. Occurrence of fires in the last five years within a 2 km radius
+Source: Aclara
+It is important to mention that there are potential risk variables associated with the activities
+specific to the project, which are the following:
+• Overheating of machinery and/or equipment.
+• Storage of flammable material and/or combustible material
+• Matches and cigarette butts, electrical failures, etc.
+• Electrical storm.
+Below, Table 5-1 presents a summary showing the facilities, parts,
+works and/or actions, depending on the development phase in which the project is located and the associated
+identified risks.
+10
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA E Mining Development Project
+Extraction of Clays for the Production of
+Rare Earth Concentrate
+Table 5-1. Construction Phase Risks
+PART / WORK / TYPE OF RISK LEVEL OF
+INSTALLATION PHASE
+ACTION INTERNAL EXTERNAL RISK
+• Fires
+• Electrical failure caused by
+Low
+Office Area • Third party storage
+combustible material • Storm
+electric
+• Fires
+First caused by
+Low
+Aid/Brigade • Third party electrical failure
+Emergency • Storm
+electric
+• Fires
+• Electrical failure caused by
+Low
+Casino Area • Third party storage
+combustible material • Storm
+electric
+Generator • Overheating • Fire
+Emergency, machinery and/or caused by
+Medium
+Third party equipment transformer
+Power and • Matches and/or • Storm butts
+General Electric Cigar Board
+• Electrical failure
+• Overheating of
+• Fires
+machinery and/or
+caused by
+Medium Equipment Workshop Area
+third parties
+Work • Matches and/or cigarette butts
+• Storm
+cigar
+electric
+• Storage of
+combustible material
+or
+t
+n
+and
+n
+ó ic c u r t s
+s a n e a F
+e d
+n or ic to the
+im
+a n e c a m
+lA
+e d a g e
+s e
+the ir e t a M
+•
+•
+•
+f
+F c
+to me
+i
+to
+or
+l
+g
+to me
+l
+s a
+l
+t
+f
+to
+r
+and to
+or r
+c r
+and
+r o
+i
+or
+and
+l
+to
+he
+n
+yes
+l
+c
+to c
+and
+t
+m or
+r
+/
+i
+or
+m
+c
+i e
+to
+c
+b n
+or
+u t
+l
+or yes
+ill
+you
+he to
+d b
+yes
+he he
+of and
+•
+•
+I
+p t
+you
+n
+and
+or him
+r
+he
+c
+r o
+r
+c
+and
+cm
+go and
+t
+n
+or
+r
+r
+and
+d
+i
+c o
+c n
+i
+to s
+to
+or
+t
+d
+to
+yes
+or s by Medium
+n
+or C
+t
+s n I
+d
+or B e d
+11
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+PART / WORK / TYPE OF RISK LEVEL OF
+INSTALLATION PHASE
+ACTION INTERNAL EXTERNAL RISK
+• Electrical failure • Fires
+• Matches and/or cigarette butts caused by
+Medium Waste Area
+third party cigar
+Dangerous
+• Storm • Storage
+electrical flammable material
+• Fires
+• Matches and/or cigarette butts
+Waste area caused by
+Medium cigar
+Solid third parties
+• Storage of
+Residential • Storm
+flammable material
+electric
+• Fires
+• Matches and/or cigarette butts
+caused by
+Waste Area Non-cigarette Medium
+third parties
+Hazardous • Storage of
+• Storm
+combustible material
+electric
+• Fires
+caused by
+Medium Station • Matches and/or cigarette butts
+third parties
+Cigar fuel
+• Storm
+electric
+• Fires
+• Electrical failure caused by
+Bathroom and Living Room Area
+• Third party storage
+of Change
+combustible material • Storm
+electric
+• Fires
+Parking caused by
+• Matches and/or Bass butts
+Trucks, third parties
+cigar
+buses and Equipment • Storm
+electric
+• Fires
+Plant • Electrical failure caused by Low
+treatment of • Overheating of third parties
+waste water machinery and/or equipment • Storm
+electric
+12
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+PART / WORK / TYPE OF RISK LEVEL OF
+INSTALLATION PHASE
+ACTION INTERNAL EXTERNAL RISK
+• Fires
+caused by
+Rethinking and • Bass matches and/or butts
+- third parties
+cigar preparation
+• Storm
+electric
+• Fires
+caused by
+Movement of • Bass matches and/or butts
+- third parties
+cigar land
+• Storm
+electric
+• Fires
+Enabling of caused by
+• Matches and/or Bass butts
+accesses and roads - third parties
+cigar
+internal • Storm
+electric
+• Fires
+Implementation of caused by
+• Matches and/or Bass butts
+LTE splice - third party
+cigar
+Plant • Storm
+electric
+• Fires
+Conditioning
+caused by
+of areas of • Matches and/or butts of Bajo
+- third parties
+extraction and cigar zones
+• Storm
+of disposition
+electric
+• Fires
+Collection of layers of • Matches and/or Bass butts
+- caused by
+cigar plant soil
+third parties
+• Fires
+Disarmament and removal of caused by
+• Matches and/or Bass butts
+facilities - third parties
+cigar
+temporary • Storm
+electric
+Source: Own elaboration
+Table 5-2. Risks in the Operation Phase
+13
+==================================================================================
+PAGE 17
+========================================================
+============================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TYPE OF RISK LEVEL OF
+PART / WORK
+RISK INSTALLATION PHASE
+/ ACTION INTERNAL EXTERNAL
+• Fires
+• Electrical failure caused by
+Electrical Room and Environment
+third parties
+Generators
+• Matches and/or cigarette butts • Storm
+electric cigarette
+• Fires
+• Electrical failure caused by
+Building
+third parties
+Low
+Administrative and
+• Overheating
+Control Room • Storm
+of machinery and/or
+electric
+teams
+• Fires
+• Electrical failure caused by
+Washer Cylinder,
+third parties
+Low
+Thickener and
+• Overheating
+Harneros • Storm
+of machinery and/or
+electric
+teams
+• Fires
+• Electrical failure caused by
+Third party plant
+Operation
+Processing • Overheating
+Repair Area • Storm
+of machinery and/or
+of Equipment and Electrical Medium
+teams
+Repair Area
+• Matches and/or cigarette butts
+Vans
+cigar
+• Storage of
+material
+fuel
+• Fires
+• Electrical failure caused by
+third parties
+Medium Waste Area
+• Matches and/or cigarette butts • Storm
+Dangerous
+electric cigarette
+• Storage of
+flammable material
+• Fires
+Warehouse • Electrical failure caused by
+Medium
+Third party substances
+Dangerous • Matches and/or cigarette butts • Storm
+electric cigarette
+14
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TYPE OF RISK LEVEL OF
+PART / WORK
+RISK INSTALLATION PHASE
+/ ACTION INTERNAL EXTERNAL
+• Storage of
+flammable material
+• Fires
+• Electrical failure caused by
+third parties
+Candle Filter Area • Low Superheat
+• Storm
+and Decanter of machinery and/or
+electric
+teams
+• Matches and/or cigarette butts
+cigar
+• Fires
+• Electrical failure caused by
+third parties
+System Area
+• Low Superheat
+• Storm Recovery
+of machinery and/or
+electric water
+teams
+• Matches and/or cigarette butts
+cigar
+• Fires
+• Electrical failure caused by
+third parties
+Room • Low Superheat
+• Storm
+Machinery compressors and/or
+electric
+teams
+• Matches and/or cigarette butts
+cigar
+• Fires
+• Electrical failure caused by
+third parties
+Low
+Bathrooms
+• Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+Area
+• Electrical failure caused by
+Storage
+third parties
+of reagents,
+• Matches and/or cigarette butts • Medium Storm
+area
+of cigarette. electric
+Storage
+• Storage of
+inputs and area
+material
+of
+fuel
+15
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TYPE OF RISK LEVEL OF
+PART / WORK
+RISK INSTALLATION PHASE
+/ ACTION INTERNAL EXTERNAL
+Storage
+Plant Spare Parts
+Filter Area • Fires
+Treatment of • Electrical failure caused by
+Water, Third party building Low
+Press Filters
+• Matches and/or cigarette butts • Storm
+Tubulars and Area
+of cigarette. electric
+Press Filters
+• Fires
+Access Gate
+• Electrical failure caused by
+and Garita Bajo Area
+third parties
+station
+• Matches and/or cigarette butts • Storm
+Fuel
+electric cigarette
+• Fires
+caused by
+• Matches and/or cigarette butts Low
+Third party parking
+cigar
+• Storm
+electric
+• Fires
+Maneuvers Area
+caused by
+of Trucks • Matches and/or cigarette butts Low
+third parties
+cigar feeding
+• Storm
+Plant
+electric
+• Fires
+Entry of caused by
+• Matches and/or cigarette butts Low
+third party clay trucks
+cigar
+To Process • Storm
+electric
+• Fires
+Output caused by
+• Matches and/or cigarette butts Low
+third party clay trucks
+cigar
+Processed • Storm
+electric
+• Fires
+caused by
+• Matches and/or cigarette butts Low
+Third Party Stockpile
+cigar
+• Storm
+electric
+16
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Clay Extraction Mining Development Project
+for production of
+Rare Earth Concentrate
+TYPE OF RISK LEVEL OF
+PART / WORK
+RISK INSTALLATION PHASE
+/ ACTION INTERNAL EXTERNAL
+• Fires
+• Matches and/or cigarette butts
+caused by
+cigar
+Third-party waste area Medium
+Home • Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+• Matches and/or cigarette butts
+caused by
+of cigarette.
+Waste Area No third parties Medium
+Hazardous • Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+• Matches and/or cigarette butts
+caused by
+of cigarette.
+Winery Product third parties Low
+Finished • Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+• Electrical failure caused by
+plant
+third parties
+Low
+treatment of
+• Overheating
+waste water • Storm
+of machinery and/or
+electric
+teams
+• Fires
+• Electrical failure caused by
+third parties
+Low
+Casino Area
+• Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+caused by
+Station Area • Matches and/or cigarette butts Medium
+third parties
+cigarette fuel
+• Storm
+electric
+Storage • Fires
+and Preparation of • Electrical failure caused by
+Medium
+third party samples
+Laboratory, • Matches and/or cigarette butts • Storm
+Laboratory and electric cigar
+17
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TYPE OF RISK LEVEL OF
+PART / WORK
+RISK INSTALLATION PHASE
+/ ACTION INTERNAL EXTERNAL
+• Storage area
+Material preparation
+fuel reagents
+• Fires
+• Electrical failure caused by
+Living Room Area
+third parties Low
+Change and Area
+• Storage of
+Offices • Storm
+material
+electric
+fuel
+• Fires
+• Electrical failure caused by
+Third Party Brigade Area Low
+Emergencies • Storage of
+• Storm
+material
+electric
+fuel
+• Fires
+Enabling caused by
+• Matches and/or cigarette butts Low
+of roads - third parties
+cigar
+internal • Storm
+electric
+• Fires
+Extraction of
+caused by
+sterile and • Matches and/or cigarette butts Low
+- third parties
+clays for cigar
+• Storm
+process
+electric
+• Fires
+Disposition of
+caused by
+material in • Matches and/or cigarette butts Low
+- third parties
+cigarette areas
+• Storm
+disposition
+electric
+• Fires
+Close areas
+caused by
+extraction • Matches and/or cigarette butts Low
+- third parties
+and cigarette areas
+• Storm
+disposition
+electric
+Source: Own elaboration
+18
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6. CONTINGENCY PLAN
+For the identified risks, in order to prevent forest fires,
+will implement the following measures:
+a) Electrical failure:
+- The laying of cables, conductors and other electrical installations will be carried out by
+properly trained personnel.
+- Any modification and/or repair associated with electrical systems will be carried out by
+qualified personnel.
+- A prohibition will be established on installing exposed cables without impact protection.
+- All electrical systems will be marked. In particular, the main boards and
+devices in the electrical rooms will be marked, indicating the sectors to which
+Each switch belongs.
+- All necessary control measures will be established to avoid situations of
+risk when work is carried out in the vicinity of energized power lines.
+- Periodic reviews and maintenance will be carried out on all facilities that may be
+cause a fire, mainly electrical installations.
+b) Matches and cigarette butts:
+- Inside the project, and on the roads where there is greater passage of people,
+They will install signs with messages and/or prevention measures; such as:
+No fire lighting, no littering, no smoking. In the places of
+access to the Project there will be at least one sign with minimum measurements of 3 x2m, at a
+height not less than 2m, which will contain the name of the property and the following
+emergency numbers: CONAF 130, Firefighters 132, carabiner
+eros 133, you will also have
+messages with basic prevention measures.
+- Smoking areas will be clearly demarcated and signposted.
+- Awareness talks will be held for workers, contractors and visitors,
+regarding the prevention of forest fires and the importance that represents
+plant formations that exist in the Project area, emphasizing the value that these
+possess, the functions they fulfill for each of us and how they can be seen
+affected in the event of a fire.
+19
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- Disposal of garbage using fire will be expressly prohibited.
+- The strips under all electrical lines will be kept clean.
+c) Overheating of machinery and/or equipment:
+- Periodic maintenance will be carried out on the Project's vehicles and machinery, with the aim
+to reduce the likelihood of fuel spillage or engine overheating.
+engines. The frequency of maintenance will correspond to that indicated by the
+Manufacturer.
+d) Storage of flammable material and/or combustible material:
+- Flammable materials will be stored in specially designated spaces.
+complying with the provisions of the D.S. Nº160/2008 of the Ministry of Economy,
+Development and Reconstruction, “Approves Safety Regulations for facilities and
+production and refining operations, transportation, storage, distribution and
+supply of liquid fuels” and in the D.S. Nº43/2016 of the Ministry of
+Health, “Approves Regulations for the storage of dangerous substances.”
+- Order and cleanliness will be maintained in the facilities where there are products and/or
+combustible materials.
+- All dry vegetation that may be close to the areas will be extracted and eliminated.
+storage facilities for flammable and combustible materials. Just as
+Roofs will also be kept clean of branches or leaves.
+e) Electrical storms:
+- Interior roads and their perimeter strips, and surrounding areas, will be kept clean.
+infrastructure (30 m radius), so they will remain operational and in perfect condition.
+conditions at all times, mainly during fire season
+forests, in such a way that they fulfill the function of a natural firebreak.
+f) Fires caused by third parties.
+- Communication will be maintained with the owners of the properties near the area of
+project location in order to detect possible conduct of third parties
+that encourage the generation of a fire.
+- Interior roads and their perimeter strips will be kept clean, so
+will remain operational and in perfect condition at all times, mainly
+during the forest fire season, in such a way that they fulfill the function
+20
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+natural firewall. The main roads to maintain will be the one adjacent to the Estero
+Penco and access road that connects Route 150 in the Cosmito sector, with the area
+of the project.
+7. FOREST FIRE PROTECTION PROGRAM
+Below are the risks associated with forest fires, their measures and the
+implementation deadlines.
+Table 7-1. Risks, Measures and Deadlines of the Forest Fire Program.
+Deadlines and phase of
+Risk Measures project in which
+will install the measure
+The laying of cables, conductors and other electrical installations will be
+carried out by properly trained personnel.
+initial 15 months of
+Any modification and/or repair associated with electrical systems will be
+Project, in the Phase
+carried out by qualified personnel.
+of Construction.
+A prohibition will be established on installing exposed cables without protection
+to impact.
+The signage is
+Risks
+All electrical systems will be marked. In particular, they will be carried out by
+Internal:
+main panels and devices of the electrical rooms will be Construction of the
+Failures
+signposted, indicating the sectors to which
+Each switch belongs. Project. Deadline 15
+Electrical
+months.
+All necessary control measures will be established to avoid
+risk situations when work is carried out in the vicinity Construction Phase
+of energized power lines
+Periodic reviews and maintenance will be carried out on all
+Annually during
+facilities that can cause a fire, mainly
+the entire project.
+electrical installations.
+Construction Phase.
+Signs inside the Project
+Term 15 months
+Smoking areas will be clearly demarcated and Construction Phase,
+Signaled risks Term 15 months
+internal: Awareness talks will be held for workers,
+Matches and contractors and visitors, regarding fire prevention
+Construction Phase
+forest butts and the importance that plant formations represent
+and Operation, minimum 1
+that exist in the Project area, emphasizing the value that these
+once a year
+possess, the functions they fulfill for each of us and how
+They can be affected in the event of a fire.
+21
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Deadlines and phase of
+Risk Measures project in which
+will install the measure
+Construction Phase
+Disposal of garbage using garbage will be expressly prohibited.
+and Operation, minimum
+fire.
+1 time a year
+Construction Phase,
+The strips under all electrical lines will be kept clean. Operation and closure,
+Annual way
+Interior roads and their perimeter strips will be kept clean.
+Risk
+and surrounding infrastructure (radius 30 m), so the Construction Phase,
+External:
+will remain operational and in perfect condition at all times, Operation and Closure,
+Storms
+mainly during the forest fire season, with a semiannual frequency
+electrical
+in such a way that they fulfill the function of a natural firewall.
+Communication will be maintained with the owners of the properties. It will be updated
+close to the project site area with the aim of annually
+detect possible behaviors of third parties that promote the generation of contacts in the face of a
+Risk of a fire. eventuality.
+External: Interior roads and their perimeter strips will be kept clean.
+Fires so they will remain operational and in perfect condition in
+Caused at all times, mainly during the fire season Construction Phase,
+by forestry Third Parties, in such a way that they fulfill the function of Firewall Operation and Closure,
+natural. The main roads to be maintained will be the one adjacent to the semiannual frequency
+Estero Penco and access road that connects Route 150 in the sector
+of Cosmito, with the project area.
+Source: Own elaboration
+8. EMERGENCY BRIGADE FORMATION
+An emergency brigade will be created, whose purpose will be to carry out a first
+attack on the fire source with the project's own resources, in order to carry out control in
+early form of the fire, preventing its spread, and thereby obtaining time for the
+arrival of external support, which would take control of the combat situation until the
+total extinction in the event that control has not been achieved with the first attack.
+The emergency brigade will be specially trained to prevent and act in the event that
+Any contingency occurs within the scope of the project facilities. The structure
+of the emergency brigade and its functions are described below:
+- Emergency Director: Assumes maximum responsibility in the Brigade structure,
+having the necessary authority to make the most far-reaching decisions and
+responsibility. He is the general coordinator of efforts to neutralize the fire.
+22
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+You will have absolute powers to dispose of the personnel, equipment and means that you deem
+necessary for the best development
+his function and will be responsible for issuing the
+internal and external communications.
+- Emergency Chief: Assumes leadership of fire fighting operations. Your
+function is to assess the level of the fire and assume the direction of coordination of the
+Emergency Equipment.
+- Support Team: They are responsible for managing and coordinating all interventions with
+external resources at the request of the Emergency Director.
+- Intervention Team: It is made up of trained and trained personnel
+Suitable for fire fighting as well as first aid. They know the risks
+general and particular that present the different activities developed in the
+different phases of the Project. They are aware of the existence and use of the media
+extinguishing materials available.
+8.1 DETECTION AND TIMELY NOTICE
+Detection activities are basically aimed at identifying the occurrence of a
+fire and its location in sectors close to the project works. It is important to emphasize that
+combat actions increase in difficulty depending on the time elapsed, therefore, it is
+detection and warning in the shortest possible time is essential.
+Firefighting activities, once declared, are the most coordinated, in
+where the presence of a leader or activity coordinator is necessary to direct the
+resources and maximize their use.
+For the purposes of this program, the leader or coordinator will be the emergency chief, to whom
+give immediate notice of the existence of smoke, fire or risky situations, for which
+It will have a permanent communications system within the project areas and
+contact numbers in case of an emergency.
+Detection and notification of the existence of a fire source can be carried out by anyone.
+inside the premises, communicating it to the emergency chief (or whoever replaces him). Who reports
+The existence of a fire must provide key information such as: location of the fire,
+approximate extension, type of affected vegetation, meteorological conditions, among others. with
+With this information, the emergency manager must evaluate and define the level of the emergency and
+will give instructions to the Intervention team to carry out the first attack.
+23
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.2 EMERGENCY LEVELS AND COMMUNICATIONS
+Every time the emergency chief (or whoever replaces him) is notified about the existence of a
+fire source, this must evaluate the magnitude or level of the fire and if it is possible to deal with it.
+to the situation with the project's own resources.
+It should be noted that 3 emergency levels have been defined, based on these levels,
+will determine the means of protection and combat, both human and material, that must be
+be mobilized to deal with the fire. The defined emergency levels are:
+- Level 1 or Emergency Attempt: Situation in which the risk or accident that causes it,
+can be neutralized easily and quickly, with the available means and resources
+present at the time and place of the accident.
+- Level 2 or Partial Emergency: Situation in which the risk or accident requires to be
+controlled the intervention of teams specifically designated and instructed for this purpose;
+affects an area of the facility and may require “partial evacuation” or
+evacuation of the affected area.
+- Level 3 or General Emergency: Situation in which the risk or accident endangers the
+security and physical integrity of people and it is necessary to proceed to the eviction or
+evacuation, leaving the facilities. Requires the intervention of external help.
+In the event that the fire has not been controlled with the project's own resources, the head
+of the emergency must contact the emergency director and report the fact,
+for the latter to make communications and request the support of the National Corporation
+Forestry (CONAF) and Penco Fire Department.
+8.3 EQUIPMENT, MATERIALS AND TOOLS
+Equipment and tools will be available on the property in order to proceed quickly.
+staff equipment in case of
+some emergency.
+Each member of the emergency brigade will have the following safety equipment
+For firefighting tasks:
+- Helmets.
+- Safety glasses.
+- Masks with filters.
+- Safety shoes.
+- Flame retardant long sleeve jacket.
+- Flame retardant pants.
+24
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- Gloves.
+In addition, basic firefighting tools and equipment will be available, such as:
+like:
+- Cutting tools: They are used in overturning trees and bushes, cutting branches and,
+in general, to carry out clearing or clearing of vegetation, in the construction of lines
+fire and firewall. Tools such as axes, chopsticks and machetes will be available.
+- Scraping tools: As their name indicates, they are intended to scrape the floor up to
+the mineral soil, to cut the surface and underground continuity. It will be available
+rakes and hoes.
+- Multiple tools: The most important corresponds to the shovel, whose models
+specially designed for fighting forest fires, they have great
+versatility. Basically it is used in scraping, digging and throwing
+land. With its sharp edges and concave pointed blade; can also be used
+as cutting tools for medium and thin stems, even for throwing water.
+- Suffocating tools: In this category are the beaters, which are made
+artisanal. The best known type consists of a handle with a thick rubber blade on
+its end, 35 by 25 by 1 cm, flexible. This model is very effective for suffocation
+of low height fires (grasslands, leaf litter), by slowly rubbing the
+burning material.
+- Light motorized equipment: They are intended to perform cutting and cutting functions.
+clearing of vegetation. They are characterized by their high performance in the construction of
+lines. This tool corresponds to chainsaws and brush cutters.
+- Equipment for applying water: The action of water can be aimed at controlling the
+three elements of the fire triangle (oxygen, heat and fuels) and, support the fight
+and in extinguishing the fire. Manual equipment is the simplest to use and
+They correspond to buckets and back pumps.
+9. BASIC EXTINCTION ACTIONS AND COMBAT METHODS
+9.1 BASIC EXTINCTION ACTIONS
+Firefighting is aimed at breaking the so-called fire triangle, intervening on
+one or more sides. To do this, certain actions can be performed that allow the triangle to be broken.
+on any of its sides and with this the combustion process is interrupted and the fire is extinguished.
+fire.
+25
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+9.1.1 About oxygen:
+The burning fuel is covered with earth to isolate it from air and, therefore, oxygen.
+The presence of oxygen in the air is also reduced by replacing it with water vapor.
+9.1.2 About heat
+The heat that allows combustion is absorbed by applying water to the fire. The water has the
+ability to absorb heat to naturally evaporate. The heat that allowed combustion
+It is consumed trying to evaporate the water. Evaporation, therefore, removes heat from the environment,
+cools For the purposes of the Project, water would be applied with some of the ground equipment already
+mentioned.
+9.1.3 About fuel
+The permanent presence of oxygen in the air, as well as the low availability of water in
+rural lands, concentrate actions on fuel in four ways:
+- Interrupting the horizontal and vertical continuity of the vegetation, cutting, extracting
+and eliminating combustible vegetation in the path of the fire.
+- Increasing the moisture content of the vegetation.
+- Covering the fuel with a mixture of water with a chemical product that retards or
+prevent the spread of fire.
+- Eliminating combustible vegetation with a fire that, controlled, starts
+do for him
+personnel from a road, river or other bare terrain, burn the
+fuel in the path of the fire.
+9.2 COMBAT METHODS
+To control the fire, a direct attack will be carried out by installing the so-called “line
+of fire” at the edge of the fire source, applying water, throwing earth, by suffocation,
+pushing burning material in, cutting vegetation, clearing and scraping the
+forest or scrub floor to mineral soil. With this method it is cut immediately
+the spread of fire, because control is on the front of the advance itself.
+9.2.1 Line of Fire
+It consists of distributing the members of each group forming a line, maintaining
+permanently its same relative position and advancing at the same speed. The displacement
+of men is carried out in such a way that each of them performs a part of the work,
+achieving that the line is completely made with the pass of the last combatant.
+26
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 8-1 Forest Fire Protection Plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Below are the different activities to be carried out in the construction of the line.
+fire, to which are associated some tools that will be available for combat.
+- Location of the line (Marking): Machete, slash, axe.
+- Cutting and clearing of aerial and surface fuels: Rozón, machete, axe, and
+chainsaw.
+- Cutting and scraping of surface and underground fuels: Rake, shovel, hoe.
+- Flipping trees close to the line: Axe, chainsaw.
+- Support and surveillance of the line: Back pump and shovel.
+This methodology for fighting fires provides high performance in the construction of
+lines and is low risk for combatants. However, for it to be effective, it must
+Carry out training for staff to achieve correct preparation and functionality as
+team.
+9.2.2 Ash Guard
+It corresponds to the final monitoring of the fire sector, the duration of which will depend on the type and
+dimensions of the fire in order to finish off any possible outbreaks that appear. will consist
+basically in surveillance of the damaged sectors.
+27

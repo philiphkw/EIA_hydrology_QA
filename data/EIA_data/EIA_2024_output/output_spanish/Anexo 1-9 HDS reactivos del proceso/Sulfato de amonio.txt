@@ -1,0 +1,760 @@
+
+================================================================================
+PAGE 1
+================================================================================
+SULFATO-DE-AMONIO
+Manuchar Chile SA Código Alerta de Riesgo: 3
+Chemwatch: 10052
+Versión No: 7.1.1.1 Fecha de Impresión: 17-01-2018
+inicial Fecha: No Disponible
+L.GHS.CHL.ES.RISK
+S ECCIÓN 1 IDENTIFICACIÓN DE LA SUSTANCIA O LA MEZCLA Y DE LA SOCIEDAD O LA EMPRESA
+I dentificador del producto
+Nombre del
+SULFATO-DE-AMONIO
+Producto
+sulfato-de-amonio, SAL DE AMONIO DE ÁCIDO SULFÚRICO (1:2), SULFATO DE AMONIO,
+Sinonimos
+SULFOMATO AMONICO
+Fórmula química H8N2O4S
+Otros medios de
+No Disponible
+identificación
+Número CAS 7783-20-2
+U sos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes
+identificados de la Uso definido por el proveedor.
+sustancia
+D atos del proveedor de la ficha de datos de seguridad
+Denominación
+Manuchar Chile SA
+Social
+Dirección Calle Meulen 350 Quilicura Santiago Chile
+Teléfono +56 2 26537150
+Fax +56 2 26537156
+Sitio web w w w.manuchar.cl
+Email chile.contact@manuchar.com
+T eléfono de emergencia
+Asociación /
+Rita Chile; Tel: +56 2 27771994 / Bomberos:
+Organización
+Teléfono de
++56 2 26032647
+urgencias
+Otros números
+telefónicos de +56 2 26034391
+emergencia
+C HEMWATCH RESPUESTA DE EMERGENCIA
+Número Principal Número Alternativa 1 Número Alternativa 2
++56 2 2897 7700 +612 9186 1132
+Una vez conectado y si el mensaje no está en su idioma preferido, por favor marque 02
+S ECCIÓN 2 IDENTIFICACIÓN DE LOS PELIGROS
+Continued...
+================================================================================
+PAGE 2
+================================================================================
+Chemwatch: 10052 Page 2 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+CLASIFICACIÓN NCh 382: NO APLICA / ROMBO NCh 2190: NO APLICA
+Clasificación de la sustancia o de la mezcla
+ESTIMACIÓN DE RIESGO DE CHEMWATCH
+Min Max
+Inflamabilidad 0
+Toxicidad 2
+Contacto 0 = mínimo
+3
+Corporal 1 = Bajo
+2 = Moderado
+Reactividad 0 3 = Alto
+Crónico 0 4 = Extremo
+Tóxico Agudo por Ingestión, Categoría 4, Corrosión/Irritación de la Piel, Categoría 2, Serio Perjuicio de los
+Ojos, Categoría 1, Sensibilizador Respiratorio Categoría 1*,
+Clasificación GHS STOT - SE (Resp. Irr) Categoría 3
+, Riesgo Acuático Agudo, Categoría 3
+*EVIDENCIA LIMITADA
+Elementos de la etiqueta
+Elementos de la
+etiqueta GHS
+PALABRA SEÑAL PELIGRO
+Indicación de peligro (s)
+H302 Nocivo en caso de ingestión.
+H315 Provoca irritación cutánea.
+H318 Provoca lesiones oculares graves.
+H334 Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.*
+H335 Puede irritar las vías respiratorias.
+H402 Nocivo para los organismos acuáticos
+*EVIDENCIA LIMITADA
+Consejos de prudencia: Prevencion
+P261 Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol.
+P271 Utilizar únicamente en exteriores o en un lugar bien ventilado.
+P280 Llevar guantes/prendas/gafas/máscara de protección.
+P284 [En caso de ventilación insuficiente,] llevar equipo de protección respiratoria.
+P270 No comer, beber ni fumar durante su utilización.
+P273 Evitar su liberación al medio ambiente.
+Consejos de prudencia: Respuesta
+EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite
+P304+P340
+la respiración.
+EN CASO DE CONTACTO CON LOS OJOS: Aclarar cuidadosamente con agua durante varios minutos. Quitar
+P305+P351+P338
+las lentes de contacto, si lleva y resulta fácil. Seguir aclarando.
+P310 Llamar inmediatamente a un CENTRO DE TOXICOLOGÍA / médico / médico / primeros auxilios
+En caso de síntomas respiratorios: Llamar a un CENTRO DE TOXICOLOGÍA / médico / médico / primeros
+P342+P311
+auxilios
+EN CASO DE INGESTIÓN: Llamar a un CENTRO DE TOXICOLOGÍA / médico / médico / primeros auxilios / en
+P301+P312
+caso de malestar.
+P302+P352 CONTACTO CON LA PIEL: Lavar con agua y jabón
+P330 Enjuagarse la boca.
+Continued...
+================================================================================
+PAGE 3
+================================================================================
+Chemwatch: 10052 Page 3 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+P332+P313 En caso de irritación cutánea: Consultar a un médico.
+P362+P364 Quitar las prendas contaminadas y lavarlas antes de volver a usarlas.
+Consejos de prudencia: Almacenamiento
+P405 Guardar bajo llave.
+P403+P233 Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente cerrado.
+Consejos de prudencia: Eliminación
+P501 Eliminar el contenido/el recipiente de acuerdo con las normas locales.
+SECCIÓN 3 COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES
+Sustancias
+%
+Número CAS Nombre Clasificación GHS
+[peso]
+Tóxico Agudo por Ingestión, Categoría 4, Corrosión/Irritación de la Piel, Categoría
+2, Serio Perjuicio de los Ojos, Categoría 1, Sensibilizador Respiratorio Categoría
+sulfato-
+7783-20-2 >96 1*,
+de-amo nio
+STOT - SE (Resp. Irr) Categoría 3
+, Riesgo Acuático Agudo, Categoría 3; H302, H315, H318, H334*, H335, H402
+Mezclas
+Consulte la sección anterior para la composición de las sustancias
+SECCIÓN 4 PRIMEROS AUXILIOS
+Descripción de los primeros auxilios
+S i este producto entra en contacto con los ojos:
+Inmediatamente mantener los ojos abiertos y lavar continuamente con agua corriente.
+Asegurar la completa irrigación del ojo manteniendo los párpados separados entre sí y del
+ojo, y moviéndolos ocasionalmente.
+Contacto Ocular Continuar el lavado hasta que el Centro de Información de Venenos o un médico, autorice la
+detención, o por lo menos durante 15 minutos.
+Transportar al hospital o a un médico sin demora.
+La remoción de los lentes de contacto después de sufrir una herida o lesión en el ojo debe
+hacerla personal competente únicamente.
+S i este producto entra en contacto con la piel:
+Contacto con la Remover inmediatamente todo el vestuario contaminado, incluyendo el calzado.
+Piel Lavar las áreas afectadas completamente con agua (y jabón si esta disponible).
+Buscar atención médica en caso de irritación.
+Si se inhalan humos o productos de la combustión: Llevar al aire fresco.
+Recostar al paciente. Mantener caliente y en reposo.
+Prótesis como dentaduras postizas, que puedan bloquear las vías respiratorias, deben ser
+removidas, cuando sea posible, antes de iniciar los procedimientos de primeros auxilios.
+Inhalación
+Si la respiración es superficial o se ha detenido, asegurar una entrada de aire libre y aplicar
+resucitación, preferiblemente con un resucitador con válvula de demanda, dispositivo con máscara
+bolsa-válvula, o máscara de bolsillo según entrenamiento. Efectuar PCR si es necesario.
+Transportar al hospital o a un médico inmediatamente.
+SI ES INGERIDO, OBTENER ATENCIÓN MÉDICA, DONDE SEA POSIBLE, SIN DEMORA .
+Para consejo, contactar un Centro de Información de Venenos o a un médico.
+Probablemente se requiera urgente tratamiento hospitalario.
+Si está consciente, dar agua (o leche) para beber.
+INDUCIR vómito, con IPECAC SYRUP, o los dedos en la parte posterior de la garganta SOLAMENTE
+Ingestión SI ESTA CONCIENTE. Reclinar al paciente hacia adelante o colocarlo de lateral izquierdo (posición
+cabeza abajo, si es posible) para mantener las vías respiratorias abiertas y evitar aspiración. NOTA:
+Utilizar siempre un guante protector cuando se induce al vómito por medios mecánicos.
+REFERIR POR ATENCION MEDICA SIN DEMORAS.
+Mientras tanto, personal calificado en primeros auxilios debe tratar al paciente manteniendolo bajo
+Continued...
+================================================================================
+PAGE 4
+================================================================================
+Chemwatch: 10052 Page 4 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+observación y utilizando medidas de soporte indicadas por la condición del paciente.
+Si los servicios de un oficial médico o doctor están disponibles, el paciente debe ser puesto a su
+cuidado y una copia de la SDS debe ser provista. Acciones posteriores serán responsabilidad del
+médico especialista..
+Si la atención médica en el lugar de trabajo o alrededores no está disponible, enviar el paciente al
+hospital junto con una copia de la SDS.
+Cuando la atención médica no esté inmediatamente disponible, o cuando el paciente esté a
+más de 15 minutos de un hospital, y a menos que haya otras instrucciones:
+INDUCIR el vómito con los dedos hacia abajo y atrás de la garganta, SÓLO SI ESTÁ
+CONSCIENTE. Recostar el paciente hacia adelante o sobre el costado izquierdo (con la cabeza hacia
+abajo, si es posible) para mantener abiertas las vías respiratorias y prevenir la aspiración.
+NOTA: Usar un guante protector cuando se induce el vómito por medios mecánicos.
+Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+para venenos (donde un régimen de tratamiento está ausente):
+-------------------------------------------------------------
+TRATAMIENTO BÁSICO
+-------------------------------------------------------------
+Establecer una vía aérea evidente con succión de ser necesario.
+Observar por signos de insuficiencia respiratoria y ventilación asistida si es necesario.
+Administrar oxígeno por máscara respiratoria sin retorno de 10 a 15 l/min.
+Monitorear y tratar, cuando sea necesario, por edema pulmonar.
+Monitorear y tratar, cuando sea necesario, por shock.
+Anticipar convulsiones.
+NO usar eméticos. Donde se sospeche ingestión enjuagar la boca y dar hasta 200 ml de agua (5 ml/kg recomendados) para
+dilución donde el paciente pueda tragar, tenga un reflejo gagal fuerte y no babee incontroladamente.
+-------------------------------------------------------------
+TRATAMIENTO AVANZADO
+-------------------------------------------------------------
+Considerar entubación orotraqueal o nasotraqueal para control de vías aéreas en pacientes inconcientes o donde haya
+ocurrido paro respiratorio.
+Ventilación con presión positiva usando una máscara de válvula de bolsa puede ser de utilidad.
+Monitorear y tratar, cuando sea necesario, por arritmias.
+Iniciar un IV D5W TKO. Si se presentan signos de hipovolemia usar solución de Ringers. Sobrecarga de fluido puede
+crear complicaciones.
+Terapia con drogas debe ser considerada para edema pulmonar.
+Hipotensión con signo de hipovolemia requiere cuidadosa administración de fluidos. Sobrecarga de fluido puede
+crear complicaciones.
+Tratar las convulsiones con diazepam.
+Hidrocloruro de proparacaína debe ser utilizado para asistir la irrigación
+ocular. BRONSTEIN, A.C. and CURRANCE, P.L. EMERGENCY CARE FOR
+HAZARDOUS MATERIALS EXPOSURE: 2nd Ed. 1994
+Tratar sintomáticamente.
+SECCIÓN 5 MEDIDAS DE LUCHA CONTRA INCENDIOS
+Medios de extinción
+No hay restricción en el tipo de extintor que puede ser usado.
+Use medios para extinguir apropiados para áreas circundantes.
+Peligros específicos derivados de la sustancia o la mezcla
+Incompatibilidad
+No conocido.
+del fuego
+Recomendaciones para el personal de lucha contra incendios
+Alertar a la Brigada de Bomberos e indicarles la localización y naturaleza del peligro.
+Utilizar mascarillas respiratorias y guantes protectores contra incendio únicamente.
+Prevenir, por todos los medios disponibles, el ingreso de derrames a drenajes o cursos de agua.
+Instrucciones de
+Utilizar procedimientos especiales de extinción de incendio en áreas circundantes.
+Lucha Contra el
+NO aproximarse a contenedores que se sospeche estén calientes.
+Fuego
+Enfriar los contenedores expuestos al fuego rociando agua desde un lugar protegido.
+Si es seguro hacerlo, retirar los contenedores de la línea de fuego.
+El equipo debe ser completamente descontaminado después de ser usado.
+Continued...
+================================================================================
+PAGE 5
+================================================================================
+Chemwatch: 10052 Page 5 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+No es combustible.
+No se considera como riesgo de fuego importante, sin embargo los contenedores se pueden quemar.
+La descomposición puede producir humos tóxicos de:
+,
+Fuego Peligro de
+óxidos de nitrógeno (NOx)
+Explosión
+,
+óxidos de azufre (SOx)
+Puede emitir humos venenosos.
+Puede emitir humos corrosivos.
+SECCIÓN 6 MEDIDAS EN CASO DE VERTIDO ACCIDENTAL
+Precauciones personales, equipo de protección y procedimientos de emergencia
+Remover todas las fuentes de ignición.
+Limpiar todos los derrames inmediatamente.
+Derrames Evitar el contacto con piel y ojos.
+Menores Controlar el contacto personal usando equipo de protección.
+Usar procedimientos de limpieza en seco y evitar la generación de polvo.
+Ubicar en contenedor apropiado y rotulado para disposición de desecho.
+R iesgo moderado.
+CUIDADO: Notificar al personal en el área.
+Alertar a los Servicios de Emergencia y avisarles la ubicación y naturaleza del riesgo.
+Controlar al contacto personal usando indumentaria de protección.
+Evitar por todos los medios disponibles, que el derrame ingrese en desagües y cursos de agua.
+Derrames
+Recuperar el producto siempre que sea posible.
+Mayores
+SI ESTÁ SECO: Usar procedimientos de limpieza en seco y evitar la generación de polvo.
+Recolectar los residuos y ubicarlos en bolsas plásticas u otro contenedor sellado para su
+disposición.
+SI ESTÁ MOJADO: Aspirar/ Palear y ubicar en contenedores rotulados para su disposición.
+SIEMPRE: Lavar el área con grandes cantidades de agua y evitar que ingrese a desagües.
+Si ocurre contaminación de desagües o cursos de agua, avisar a los Servicios de Emergencia.
+Recomendación de Equipamiento de Protección Personal, está contenida en la Sección 8 de la MSDS
+SECCIÓN 7 MANIPULACIÓN Y ALMACENAMIENTO
+Precauciones para una manipulación segura
+Evitar todo el contacto personal, incluyendo inhalación.
+Utilizar ropa protectora cuando ocurre el riesgo de la sobre exposición.
+Utilizar en un área bien ventilada.
+Prevenir concentración en huecos y cornisas.
+NO ingresar a espacios confinados hasta que el ambiente haya sido revisado.
+No permitir que el material entre en contacto con humanos, comida expuesta o utensilios de comida.
+Evitar el contacto con materiales incompatibles.
+Al manipular, NO comer, beber ni fumar.
+Manipuleo Seguro
+Mantener los envases sellados en forma segura cuando no estén en uso.
+Evitar el daño físico a los envases.
+Siempre lavar las manos con agua y jabón después de manipular.
+Las ropas de trabajo se deben lavar por separado y antes de la reutilización
+Usar buenas prácticas ocupacionales de trabajo.
+Observar las recomendaciones de almacenaje/manejo del fabricante.
+La atmósfera se debe controlar regularmente contra estándares establecidos de exposición para
+asegurar condiciones de trabajo seguras.
+Otros Datos Observar las recomendaciones de almacenaje y manipulación del fabricante.
+Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+C ontenedor de vidrio
+Contenedor
+Conteneder de Polietileno o polipropileno.
+apropriado
+Verificar que todos los contenedores estén rotulados y libres de filtraciones.
+Incompatibilidad
+Evitar bases fuertes.
+de Almacenado
+Continued...
+================================================================================
+PAGE 6
+================================================================================
+Chemwatch: 10052 Page 6 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
++ X + X O +
+X — No debe almacenarse junto
+0 — Pueden almacenarse juntos con cuidados
+especificos + — Puede almacenarse junto
+SECCIÓN 8 CONTROLES DE EXPOSICIÓN/PROTECCIÓN INDIVIDUAL
+Parámetros de control
+LIMITES DE EXPOSICION OCUPACIONAL (LEO)
+DATOS DE INGREDIENTES
+No Disponible
+LÍMITES DE EMERGENCIA
+Ingrediente Nombre del material TEEL-1 TEEL-2 TEEL-3
+sulfato-de-amonio Ammonium sulfate 30 mg/m3 330 mg/m3 560 mg/m3
+Ingrediente IDLH originales IDLH revisada
+sulfato-de-amonio No Disponible No Disponible
+DATOS DEL MATERIAL
+El objetivo de la ACGIH (y otras Agencias) es recomendar TLVs (o su equivalente) para todas las sustancias para las cuales
+hay evidencia de efectos a la salud a concentraciones en el aire del lugar de trabajo.
+Hasta ahora no se ha establecido TLV, aunque este material puede producir efectos adversos a la salud (como se
+evidenció en experimentos animales o experiencia clínica). Concentraciones en el aire deben mantenerse tan bajas como
+sea prácticamente posible y la exposición ocupacional debe ser mantenida al mínimo.
+Irritantes sensoriales son productos químicos que producen efectos laterales temporarios e indeseables en los ojos, nariz o garganta.
+Históricamente los estándares de exposición ocupacional para estos irritantes han sido basados en observación de respuestas de trabajadores a
+varias concentraciones en el aire. Las expectativas actuales requieren que casi todo individuo sea protegido contra hasta la más mínima irritación
+sensorial y los estándares de exposición son establecidos usando factores de incertidumbre o de seguridad de 5 a 10 o más. En ocasiones
+niveles de efectos no observables en animales (animal no-observable-effect-levels (NOEL)) son utilizados para determinar estos límites cuando
+resultados en humanos no están disponibles. Un método adicional, típicamente usado por el comité TLV (USA) en la determinación de
+estándares respiratorios para este grupo de químicos, ha sido asignar valores límites (TLV C) a irritantes que actúan rápidamente y asignar
+límites de exposición a corto plazo (TLV STELs) cuando el peso de la evidencia de la irritación, bioacumulación y otros factores se combinan para
+garantizar tal límite. En contraste con la Comisión MAK (Alemania) usa un sistema de cinco categorías basado en olor intensivo, irritación local, y
+vida media de eliminación. Sin embargo este sistema está siendo reemplazado para ser consistente con el European Union (EU) Scientific
+Committee for Occupational Exposure Limits (SCOEL); este está más íntimamente relacionado con el de Estados Unidos. OSHA (USA) concluyó
+que la exposición a irritantes sensoriales puede causar:
+inflamación aumentar la susceptibilidad a otros irritantes y agentes infecciosos
+conducir a lesión o disfunción permanente
+permitir mayor absorción de sustancias riesgosas y
+aclimatar al trabajador a las propiedades de advertencia de estas sustancias irritantes aumentando por lo tanto el
+riesgo de sobreexposición.
+Controles de la exposición
+Los controles de ingeniería se utilizan para eliminar un peligro o poner una barrera entre el trabajador y
+el riesgo. Controles de ingeniería bien diseñados pueden ser muy eficaces en la protección de los
+trabajadores y, normalmente para ofrecer este nivel de protección elevado, serán independiente de las
+i nteracciones de los trabajadores.
+L os tipos básicos de controles de ingeniería son los siguientes:
+Controles de proceso que implican cambiar la forma en que una actividad de trabajo o proceso se
+Controles de r ealiza para reducir el riesgo.
+ingeniería Encierro o aislamiento de la fuente de emisión que mantiene un riesgo seleccionado "físicamente" lejos del
+apropiados trabajador y que la ventilación estratégica "añade" y "elimina" el aire en el entorno de trabajo. La ventilación puede
+eliminar o diluir un contaminante del aire si se diseña adecuadamente. El diseño de un sistema de ventilación debe
+c orresponder al determinado proceso, sustancia química o contaminante en uso.
+Los empleadores pueden considerar necesario utilizar varios tipos de controles para evitar
+l a sobreexposición de los empleados.
+Donde se manejen sólidos como polvos o cristales, se requiere ventilación local; aún cuando las partículas
+Continued...
+================================================================================
+PAGE 7
+================================================================================
+Chemwatch: 10052 Page 7 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+sean relativamente grandes, una proporción determinada será pulverizada por fricción mutua.
+Si a pesar de la ventilación local, tiene lugar una concentración perjudicial de la sustancia en el aire,
+se debe considerar el uso de protección respiratoria. Dicha protección debe consistir en: (a)
+respiradores de partículas de polvo combinados con un cartucho de absorción si es necesario; (b)
+respiradores con filtro con cartucho de absorción del tipo apropiado; (c) máscaras o capuchas de aire
+puro
+Contaminantes aéreos generados en el lugar de trabajo poseen variadas velocidades de “escape” las
+que a su vez determinan las “velocidades de captura” del aire fresco circulante requerido para remover
+efectivamente al contaminante.
+Velocidad de
+Tipo de Contaminante:
+Aire:
+rocío directo, pintado en rocío en cubículos poco profundos, llenado de tambores, cargado 1-2.5 m/s
+de transportadores, molienda de polvos, descarga de gas (generación activa en zona de (200-200
+rápido movimiento de aire) f/min.)
+2.5-10 m/s
+molienda, explosión abrasiva, polvos generados por ruedas a alta velocidad (liberados a
+(500-2000
+alta velocidad inicial en zona de velocidad de aire muy alta).
+f/min.)
+Dentro de cada rango el valor apropiado depende de:
+Extremo inferior del rango Extremo superior del rango
+1: Corrientes de aire del recinto mínimas o favorables a 1: Corrientes de aire perturbadoras en el
+captura. recinto
+2: Contaminantes de baja toxicidad o sólo molestas. 2: Contaminantes de alta toxicidad
+3: Intermitente, baja producción. 3: Alta producción, uso pesado.
+4: Campana grande o gran cantidad de masa de aire en 4: Pequeña campana de control local
+movimiento solamente
+La teoría muestra que la velocidad de aire cae rápidamente con la distancia de la apertura de una tubería de
+extracción simple. La velocidad generalmente disminuye con el cuadrado de la distancia desde el punto de extracción
+(en casos simples). Por lo tanto la velocidad del aire en el punto de extracción debe ajustarse consecuentemente,
+con referencia a la distancia de la fuente de contaminación. La velocidad del aire en un ventilador de extracción por
+ejemplo, debe ser como mínimo de 1-2 m/s (200-400 f/min) para extracción de solventes generados en un tanque a 2
+metros de distancia del punto de extracción. Otras consideraciones mecánicas, produciendo déficit en el
+funcionamiento del aparato de extracción, hacen imprescindible que las velocidades de aire teóricas sean
+multiplicadas por factores de 10 o más cuando los sistemas de extracción son instalados o utilizados.
+Equipo de
+protección
+personal
+Anteojos de seguridad con protectores laterales.
+Gafas químicas.
+Las lentes de contacto pueden presentar un riesgo especial; las lentes de contacto blandas pueden
+absorber y concentrar irritantes. Una recomendación escrita, describiendo la forma de uso o las
+Protection de Ojos y restricciones en el uso de lentes, debe ser creada para cada lugar de trabajo o tarea. La misma debe
+incluir una revisión de la absorción y adsorción de las lentes para las clases de productos químicos en
+cara
+uso y una descripción de las experiencias sobre daños. Personal médico y de primeros auxilios debe
+ser entrenado en la remoción de las lentes, y un equipamiento adecuado debe estar disponible de
+inmediato. En el caso de una exposición química, comience inmediatamente con una irrigación del ojo,
+y quite las lentes de contacto tan pronto como sea posible. Las lentes deben ser quitadas a las
+primeras señales de enrojecimiento o irritación del ojo – las lentes deben ser quitadas en un ambiente
+limpio solamente después de que los trabajadores se han lavado las manos completamente. [CDC
+Protección de la NIOSH Current Intelligence Bulletin 59]
+piel
+Ver Protección de las manos mas abajo
+La adecuación y durabilidad del tipo de guante depende del uso. Factores tales como:
+frecuencia y duración del contacto,
+resistencia química del material del guante,
+Protección de las
+espesor del guante y
+manos / pies
+adiestramiento,
+son importantes en la elección de los guantes.
+La experiencia indica que los siguientes polímeros son adecuados como materiales de guantes
+para protección contra sólidos secos no disueltos.
+policloropreno
+goma de nitrilo
+Continued...
+================================================================================
+PAGE 8
+================================================================================
+C hemwatch: 10052 Page 8 of 12
+Versión No: 7.1.1.1 Fecha de Impresión: 17-01-2018
+SULFATO-DE-AMONIO
+goma de butilo
+fluorocaucho
+cloruro de polivinilo
+Los guantes deben ser examinados constantemente por el desgaste y/o degradación.
+Protección del
+Ver otra Protección mas abajo
+cuerpo
+Mono protector/overoles/mameluco
+Delantal de P.V.C..
+Otro tipo de
+Crema protectora.
+protección
+Crema de limpieza de cutis.
+Unidad de lavado de ojos.
+Peligro térmico No Disponible
+Material(es) recomendado (s) Protección respiratoria
+INDICE DE SELECCIÓN DE GUANTES Filtro de partículas con capacidad suficiente. (AS / NZS 1716 y
+La selección del guante está basada en una 1715, EN 143:000 y 149:001, ANSI Z88 o equivalente nacional)
+presentación modificada de:
+"Índice Forsberg de Rendimiento de Ropa". Respirador Respirador Respirador
+Factor de
+El(los) efecto(s) de la(s) siguiente(s) sustancia(s) es(son) de Medio de Rostro de Aire
+Protección
+tenido(s) en cuenta en la selección generada en Rostro Completo Impelido
+computadora: SULFATO-DE-AMONIO No Disponible
+P1 - PAPR-P1
+10 x ES
+Línea de aire* - -
+Material CPI
+50 x ES Línea de aire** P2 PAPR-P2
+* CPI - Íncice Chemwatch de Rendimiento
+A: Mejor Selección 100 x ES - P3 -
+B: Satisfactorio; puede degradarse después de 4 Línea de aire* -
+horas continuas de inmersión
+100+ x ES - Línea de aire** PAPR-P3
+C: Elección Mala a Peligrosa para inmersiones que no sean
+de corta duración
+* - Demanda de presión negativa ** - Flujo continuo
+NOTA: Debido a que una serie de factores influirán el real
+rendimiento del guante, una selección final debe estar basada
+en una observación detallada.-
+* Donde el guante sea usado durante un tiempo corto,
+casual o infrecuente,
+factores tales como "sentimiento" o conveniencia (por ej.
+disponibilidad), pueden decidir una elección de guantes que
+en cambio podrían ser inadecuados si se siguen usando
+durante mucho tiempo o frecuentemente. Un profesional
+calificado debería ser consultado.
+SECCIÓN 9 PROPIEDADES FÍSICAS Y QUÍMICAS
+Información sobre propiedades físicas y químicas básicas
+Apariencia No Disponible
+Densidad Relativa
+Estado Físico Dividido Sólido 1.77;1.09t/m3
+(Water = 1)
+Coeficiente de
+Olor No Disponible partición n-octanol No Disponible
+/ agua
+Temperatura de
+Umbral de olor No Disponible No Aplicable
+Autoignición (°C)
+pH (tal como es temperatura de
+No Aplicable 235
+provisto) descomposición
+Punto de fusión /
+punto de 235-280 decomp Viscosidad No Aplicable
+congelación (° C)
+Punto de
+ebullición inicial y Peso Molecular
+No Aplicable 132.14
+rango de (g/mol)
+ebullición (° C)
+Continued...
+================================================================================
+PAGE 9
+================================================================================
+Chemwatch: 10052 Page 9 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+Punto de
+No Aplicable Sabor No Disponible
+Inflamación (°C)
+Velocidad de Propiedades
+No Aplicable No Disponible
+Evaporación Explosivas
+Propiedaded
+Inflamabilidad No Aplicable No Disponible
+Oxidantes
+Tension
+Límite superior de
+No Aplicable Superficial No Aplicable
+explosión (%)
+(dyn/cm or mN/m)
+Límite inferior de Componente
+No Aplicable No Disponible
+explosión (%) Volatil (%vol)
+Presión de Vapor Not available. Grupo Gaseoso No Disponible
+Hidrosolubilidad pH como una
+Miscible 5.5
+(g/L) solución (1%)
+Densidad del
+No Aplicable VOC g/L No Disponible
+vapor (Air = 1)
+SECCIÓN 10 ESTABILIDAD Y REACTIVIDAD
+Reactividad Consulte la sección 7
+Presencia de materiales incompatibles.
+Estabilidad
+El producto es considerado estable.
+química
+No ocurrirá polimerización peligrosa.
+Posibilidad de
+reacciones Consulte la sección 7
+peligrosas
+Condiciones que
+Consulte la sección 7
+deben evitarse
+Materiales
+Consulte la sección 7
+incompatibles
+Productos de
+descomposición Vea la sección 5
+peligrosos
+SECCIÓN 11 INFORMACIÓN TOXICOLÓGICA
+Información sobre los efectos toxicológicos
+El material puede causar irritación respiratoria en algunas personas. La respuesta del cuerpo a
+dicha irritación puede causar daño posterior en el pulmón.
+Las personas con funciones respiratorias deficientes, enfermedades respiratorias y condiciones tales
+Inhalado como efisema o bronquitis crónica, pueden incurrir en incapacidad posterior si se inhalan
+concentraciones excesivas de partículas.
+|Inhalation may cause mild irritation to mucous membranes, shortness of breath, coughing and
+chest discomfort.
+La ingestión accidental del material puede ser dañina; experimentos con animales indican que la
+ingestión de menos de 150 gramos puede ser fatal o puede producir serios daños a la salud del
+i ndividuo. Los sulfatos no son bien absorbidos oralmente pero pueden causar diarrea.
+Ingestión Grandes dosis de amoníaco o sales de amonio inyectadas pueden producir diarrea y pueden ser
+suficientemente absorbidas como para producir producción incrementada de orina y envenenamiento
+sistémico. Los síntomas incluyen debilidad de los músculos faciales, temblor, ansiedad, control
+reducido de los músculos y miembros.
+E ste material puede causar inflamación de la piel en contacto en algunas personas.
+E l material puede acentuar cualquier condición preexistente de dermatitis
+H eridas abiertas, piel erosionada o irritada no debe ser expuesta a este material
+Contacto con la
+E l ingreso al torrente sanguíneo a través por ejemplo de cortaduras, abrasiones o lesiones, puede producir
+Piel
+herida sistémica con efectos dañinos. Examinar la piel antes de usar el material y asegurar que cualquier
+daño externo es protegido apropiadamente.
+|Brief contact may dry the skin.
+Ojo Si es aplicado a los ojos, este material causa daño severo en los ojos.
+Continued...
+================================================================================
+PAGE 10
+================================================================================
+Chemwatch: 10052 Page 10 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+La exposición a largo plazo a irritantes respiratorios puede dar lugar a enfermedad de las vías
+respiratorias involucrando dificultad respiratoria y problemas sistémicos relacionados.
+La acumulación de sustancia, en el cuerpo humano, puede ocurrir y puede causar preocupación
+luego de exposición ocupacional repetida o a largo plazo.
+Crónico Existe evidencia que la inhalación de este producto es más probable que cause reacción de
+sensibilización en algunas personas en comparación con la población general.
+Exposiciones a largo plazo a altas concentraciones de polvo pueden causar cambios en la función del pulmón;
+neumoconiosis; causadas por partículas inferiores a 0.5 micrones penetrando y permaneciendo en el pulmón. El
+primer síntoma es la falta de respiración; sombras en el pulmón muestran los rayos X.
+TOXICIDAD IRRITACIÓN
+[1]
+sulfato-de-amonio Dérmico (rata) DL50: >2000 mg/kg Nil reported
+Oral (rata) DL50: >2000 mg/kg
+[1]
+Leyenda: 1 Valor obtenido a partir de sustancias Europa ECHA registrados - Toxicidad aguda 2 * El valor obtenido de MSDS
+del fabricante a menos que se especifique lo contrario datos extraídos de RTECS - Register of Toxic Effects of
+Chemical Substances (Registro de Efectos Tóxicos de Sustancias Químicas)
+Síntomas de asma pueden continuar por meses o hasta años luego del cese de la exposición al
+material. Esto puede deberse a una condición no alergénicas conocida como síndrome de disfunción
+SULFATO- reactiva de vías aéreas (RADS) el cual puede ocurrir luego de exposición a altos niveles del
+DE-AMONIO altamente irritante compuesto. Criterios clave para el diagnóstico de RADS incluyen la ausencia de
+enfermedad respiratoria precedente, en un individuo no atópico, con comienzo abrupto de síntomas
+t ipo asma persistentes en minutos a horas de una exposición documentada al irritante.
+toxicidad aguda Carcinogenicidad
+Irritación de la
+reproductivo
+piel / Corrosión
+Lesiones oculares STOT - exposición
+graves / irritación única
+Sensibilización STOT -
+respiratoria o exposiciones
+cutánea repetidas
+peligro de
+Mutación
+aspiración
+Leyenda: – Los datos necesarios para realizar la clasificación disponible
+– Los datos disponibles, pero no llena los criterios de clasificación
+– Datos no disponible para hacer la clasificación
+SECCIÓN 12 INFORMACIÓN ECOLÓGICA
+Toxicidad
+NO DISPONIBLE
+PUNTO Duración de la
+Ingrediente efecto Valor especies BCF
+FINAL prueba
+No No No No
+sulfato-de-amonioNo Disponible No Disponible
+Disponible Disponible Disponible Disponible
+Nocivo para los organismos acuáticos.
+En el aire el amoníaco es persistente, mientras que en el agua, se biodegrada rápidamente a nitrato, produciendo una alta
+demanda de oxígeno. El amoníaco es fuertemente adsorbido en el suelo. El amoníaco no es persistente en agua (vía media 2
+días) y es moderadamente tóxico para los peces bajo condiciones normales de temperatura y pH. El amoníaco es dañino a la
+vida acuática a bajas concentraciones pero no se concentra en la cadena alimentaria. Estándares de Agua Potable: 0.5 mg/l (UK
+max.) 1.5 mg/l (WHO Levels) Guías de Suelo: ninguna disponible. Estándares de Calidad de Aire: ninguna disponible
+NO descargar en cloacas o vías fluviales.
+El material es clasificado como una ecotoxina* porque el LC50 de Pez (96 horas) es menor o igual a 0.1
+mg/l * Clasificación de Sustancias como Ecotóxicas (Peligrosas para el Medio Ambiente)
+Apéndice 8, Tabla 1 Guía Recopilada para la Preparación de Tarjetas de Seguridad Química Internacional: 1993
+Comisión de las Comunidades Europeas.
+Continued...
+================================================================================
+PAGE 11
+================================================================================
+Chemwatch: 10052 Page 11 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+Persistencia y degradabilidad
+Ingrediente Persistencia Persistencia: Aire
+sulfato-de-amonio ALTO ALTO
+Potencial de bioacumulación
+Ingrediente Bioacumulación
+sulfato-de-amonio BAJO (LogKOW = -2.2002)
+Movilidad en el suelo
+Ingrediente Movilidad
+sulfato-de-amonio BAJO (KOC = 6.124)
+SECCIÓN 13 CONSIDERACIONES RELATIVAS A LA ELIMINACIÓN
+Métodos para el tratamiento de residuos
+Si el contenedor no ha sido limpiado lo suficientemente bien como para asegurar que no quedó ningún
+resto del producto original, o si el contenedor no puede ser usado para almacenar el mismo producto,
+entonces perforar los contenedores, para evitar su reutilización, y enterrar en un reservorio autorizado.
+Los requisitos de la legislación para la eliminación de residuos pueden variar según el país, estado
+y/o territorio. Cada usuario debe remitirse a las leyes vigentes en su área. En algunas áreas, ciertos
+residuos deben ser rastreados.
+Una Jerarquía de Controles suele ser común - el usuario debe investigar:
+Reducción
+Reutilización
+Reciclado
+Eliminación (si todos los demás fallan)
+Eliminación de Este material puede ser reciclado si no fue usado, o si no ha sido contaminado como para hacerlo
+Producto / inadecuado para el uso previsto. Si ha sido contaminado, puede ser posible reciclar el producto por
+filtración,
+embalaje destilación o algún otro medio. También debe considerarse el tiempo en depósito al tomar decisiones
+de este tipo. Notar que las propiedades de un material pueden cambiar en el uso, y el reciclado o
+reutilización no siempre pueden ser apropiados.
+NO permita que el agua proveniente de la limpieza o de los procesos, ingrese a los desagües.
+Puede ser necesario recoger toda el agua de lavado para su tratamiento antes de descartarla.
+En todos los casos la eliminación a las alcantarillas debe estar sujeta a leyes y regulaciones locales,
+las cuales deben ser consideradas primero.
+En caso de duda, contacte a la autoridad responsable.
+Reciclar donde sea posible o consultar al fabricante por opciones de reciclaje.
+Consultar a la Autoridad Estatal de Manejo de Desechos para disposición.
+Enterrar el residuo en un relleno sanitario autorizado.
+Reciclar los contenedores donde sea posible, o disponerlos en un relleno sanitario autorizado.
+SECCIÓN 14 INFORMACIÓN RELATIVA AL TRANSPORTE
+Etiquetas Requeridas
+Contaminante
+no
+marino
+Transporte terrestre (UN): NO REGULADO PARA TRANSPORTE DE MERCADERIAS PELIGROSAS
+Transporte aéreo (ICAO-IATA / DG: NO REGULADO PARA TRANSPORTE DE MERCADERIAS PELIGROSAS
+Transporte Marítimo (IMDG-Code / GGVSee): NO REGULADO PARA TRANSPORTE DE MERCADERIAS
+PELIGROSAS Transporte a granel con arreglo al anexo II del Convenio Marpol 73/78 y del Código IBC
+fuente ingrediente contaminación categoría
+IMO MARPOL 73/78
+(Annex II) - List of
+sulfato-de-amonio Z
+Noxious Liquid
+Substances Carried
+Continued...
+================================================================================
+PAGE 12
+================================================================================
+Chemwatch: 10052 Page 12 of 12
+Versión No: 7.1.1.1 SULFATO-DE-AMONIO Fecha de Impresión: 17-01-2018
+in Bulk
+SECCIÓN 15 INFORMACIÓN REGLAMENTARIA
+Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o
+la mezcla
+SULFATO-DE-AMONIO(7783-20-2) SE ENCUENTRA EN LAS SIGUIENTES LISTAS
+REGULATORIAS No Aplicable
+Inventario de
+Productos Estado
+Químicos
+Australia - AICS Y
+Canadá - DSL Y
+Canadá - NDSL N (sulfato-de-amonio)
+China - IECSC Y
+Europa - EINEC /
+Y
+ELINCS / NLP
+Japón - ENCS Y
+Corea - KECI Y
+Nueva Zelanda
+Y
+- NZIoC
+Filipinas - PICCS Y
+EE.UU. - TSCA Y
+Y = Todos los ingredientes están en el inventario N = No determinado o uno o más ingredientes no
+Leyenda:
+están en el inventario y no están exentos de su listado (ver ingredientes específicos entre paréntesis)
+SECCIÓN 16 OTRA INFORMACIÓN
+Otros datos
+La clasificación de la preparación y sus componentes individuales ha llevado a las fuentes oficiales y autorizadas, así como
+también la revisión independiente por el Comité de Clasificación Chemwatch, usando referencias de la literatura disponible.
+Una lista de los recursos de referencia utilizados para asistir al comité puede encontrarse en: www.chemwatch.net
+La Hoja de Seguridad SDS es una herramienta de la comunicación del peligro y se debe utilizar para asistir en la Evaluación de
+riesgo. Muchos factores determinan si los peligros divulgados son riesgos en el lugar de trabajo u otras localidades. Los riesgos
+se pueden determinar por referencia a los Escenarios de las exposiciones. La escala del uso, de la frecuencia del uso y de los
+controles actuales o disponibles de la ingeniería debe ser considerada.
+Este documento esta protegido por derechos de autor. Aparte de cualquier arreglo justo con el propósito de estudio privado,
+investigación, revisión o critica, como lo permitido bajo el Acta de Derechos Autor, ninguna parte puede ser reproducida por cualquier
+procedimiento sin el permiso escrito de CHEMWATCH.
+TEL (+61 3) 9572 4700
+REVISION: 17-01-2018
+end of SDS

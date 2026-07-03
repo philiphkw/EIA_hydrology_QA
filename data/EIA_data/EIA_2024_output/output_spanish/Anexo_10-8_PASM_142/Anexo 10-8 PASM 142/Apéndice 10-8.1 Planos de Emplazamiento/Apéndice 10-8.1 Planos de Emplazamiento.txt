@@ -1,0 +1,169 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-8.1
+Planos de emplazamiento
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+ELABORADO POR:
+G
+L
+:ó
+ro
+b
+a lE
+dxm.241-041
+SAP
+-
+2A\XDM
+sapaM
+.01\)aralcA(
+sodinatnaloiB
+.70\sotnemucoD\:D
+:atuR
+4202-10-62
+:ahceF
+681520 681600 681680 681760 681840 681920
+ProyectoDesarrolloMinerode Extracciónde Arcillasparala
+ProduccióndeConcentradode TierrasRaras
+PlanodeEmplazamientoPAS142InstalacióndeFaenas
+Ubicación General
+Ubicación Regional Ubicación Comunal
+LEYENDA
+!( !(
+!( !(
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM
+Datum WGS 84 Huso 18S Cartografía del Proyecto
+ESCALA LÁMINA:
+1 de 1
+Tamaño Hoja: A2
+ELABORADO PARA:
+681520 681600 681680 681760 681840 681920
+0230395
+0420395
+0610395
+0800395
+0000395
+0299295
+0230395
+0420395
+0610395
+0800395
+0000395
+0299295
+±
+± ±
+!( !(
+1 4
+!( !(
+2 3
+Ubicación Regional Instalación de Faenas
+Región del Biobio Residuos Peligrosos
+Otras Regiones Otras Obras
+Área de Instalación de Faenas
+Ubicación Comunal
+!(
+Vértices
+Área de Interés
+Penco
+Otras Comunas
+TABLA DE INFORMACIÓN
+Fase Instalación Superficie m² ID Norte Este
+1 5.930.075 681.850
+Instalación de 2 5.930.065 681.850
+Construcción 70
+Faenas 3 5.930.065 681.857
+4 5.930.075 681.857
+0 100
+m
+================================================================================
+PAGE 3
+================================================================================
+ELABORADO POR:
+G
+L
+:ó
+ro
+b
+a lE
+dxm.241-041
+SAP
+-
+2A\XDM
+sapaM
+.01\)aralcA(
+sodinatnaloiB
+.70\sotnemucoD\:D
+:atuR
+4202-20-51
+:ahceF
+681600 681750 681900 682050 682200
+ProyectodeDesarrolloMinerodeExtracciónde Arcillas
+paralaProduccióndeConcentrado deTierrasRaras
+PlanodeEmplazamientoPAS142PlantadeProcesamiento
+Ubicación General
+Ubicación Regional Ubicación Comunal
+LEYENDA
+!(!(
+!(!(
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM
+Datum WGS 84 Huso 18S Cartografía del Proyecto
+ESCALA LÁMINA:
+1 de 1
+Tamaño Hoja: A2
+ELABORADO PARA:
+681600 681750 681900 682050 682200
+0540395
+0030395
+0510395
+0000395
+0589295
+0079295
+0540395
+0030395
+0510395
+0000395
+0589295
+0079295
+±
+± ±
+!( !(
+1 4
+!( !(
+2 3
+Ubicación Regional Obras Planta de Procesamiento
+Región del Biobio Residuos Peligrosos
+Otras Regiones Otras Obras
+Área Planta de Procesamiento
+Ubicación Comunal
+Área de Interés !( Vértices
+Penco
+Otras Comunas
+TABLA DE INFORMACIÓN
+Fase Instalación Superficie m² ID Norte Este
+1 5.930.075 681.850
+2 5.930.065 681.850
+Operación-
+3 5.930.065 681.857
+Cierre
+4 5.930.075 681.857
+0 200
+m
+ed
+atnalP
+otneimasecorP
+70

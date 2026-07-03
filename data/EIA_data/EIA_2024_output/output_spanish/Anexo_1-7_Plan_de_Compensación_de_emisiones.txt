@@ -1,0 +1,319 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 1-7
+Plan de c ompensación
+preliminar de emisiones
+atmosféricas
+EIA “Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado de Tierras
+Raras”
+Región del Biobío
+Junio,2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción .......................................................................................................................................... 1
+2 Estimación Anual de las Emisiones del Proyecto .................................................................................. 2
+2.1 Emisiones del Proyecto ................................................................................................................. 2
+2.2 Emisiones totales a compensar ..................................................................................................... 3
+3 Medidas de Compensación ................................................................................................................... 7
+4 Forma, Oportunidad y Ubicación de su Implementación ..................................................................... 7
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1. Emisiones anuales (t/año) ............................................................................................................ 2
+Tabla 2-2. Límite de emisión máxima de proyectos para compensación de emisiones. .............................. 3
+Tabla 2-3. Analisis de compensación de emisiones. ..................................................................................... 3
+Tabla 2-4. Emisiones por origen. ................................................................................................................... 5
+Tabla 2-5. Factores de conversión a MP2,5 equivalente por contaminante. ............................................... 6
+Tabla 2-6. Emisiones totales de MP10 directas y equivalentes. ................................................................... 6
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El presente proyecto tiene por objetivo la construcción y operación de una faena minera junto con una
+planta para la producción de concentrado de tierras raras los cuales se encuentran absorbidos en el
+maicillo granítico del área costera de la Cordillera de la Costa, específicamente entre las Comunas de Penco
+y Concepción, Provincia de Concepción, Región del Biobío.
+El Proyecto se emplazará dentro del área definida en el D.S. N°6/2018, “Plan de Prevención y de
+Descontaminación Atmosférica para las comunas de Concepción Metropolitano”, por lo tanto deberá
+compensar el 120% de las emisiones que superen los límites indicados en el D.S. N°6/2018.
+A continuación, se presenta un plan de compensación preliminar que resume las emisiones estimadas para
+las distintas fases de ejecución del Proyecto, el análisis de cumplimiento del D.S. N°6/2018 y las medidas
+preliminares consideradas para realizar la compensación de emisiones requeridas.
+1
+================================================================================
+PAGE 5
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 ESTIMACIÓN ANUAL DE LAS EMISIONES DEL PROYECTO
+2.1 Emisiones del Proyecto
+La ejecución del Proyecto considera una fase de construcción de 25 meses de duración, una fase de
+operación de 6 años y una fase de cierre de 12 meses. Las emisiones estimadas para cada fase de la
+ejecución del Proyecto, año y contaminante se presentan en la Tabla 2-1 para las fases de construcción,
+operación y cierre.
+Tabla 2-1. Emisiones anuales (t/año)
+Toneladas/año
+Fase Año
+MP10 MP2,5 NOx SO
+2
+1 35,43 11,45 73,40 0,28
+Construcción
+2 20,86 5,60 44,46 0,22
+3 77,32 11,98 24,83 0,21
+4 87,50 13,41 26,35 0,22
+5 101,15 14,94 26,87 0,22
+Operación
+6 110,27 16,11 27,70 0,23
+7 106,26 15,31 22,98 0,14
+8 69,39 9,87 18,19 0,11
+Cierre 9 14,05 3,98 28,52 1,52
+Fuente: Anexo 1-3 Estimación de emisiones atmosféricas.
+Las emisiones presentadas en la Tabla 2-1 corresponde a la de los contaminantes que poseen un límite de
+emisión en el D.S. N°6/2018. Como se observa en la Tabla 2-1 las mayores emisiones durante la fase de
+operación serán generadas el año 6 para material particulado (año 4 de operación). Para la fase de
+construcción y de cierre se estima que se generará una cantidad menor de emisiones.
+2
+================================================================================
+PAGE 6
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.2 Emisiones totales a compensar
+De acuerdo con lo señalado en el Artículo 53 del D.S. N°6/2018 del Ministerio de Medio Ambiente:
+“Desde la entrada en vigencia del presente decreto, los proyectos o actividades y sus modificaciones que
+ingresen al Sistema de Evaluación de Impacto Ambiental (SEIA) que generen un aumento de emisiones
+directas y/o indirectas respecto de su situación base, en valores iguales o superiores a los que se presentan
+en la Tabla Nº27, deberán compensar sus emisiones en un 120% del monto total anual de las emisiones de
+la actividad o proyecto”.
+El límite de emisiones de proyectos para compensación de emisiones se presenta en la Tabla 2-2
+Tabla 2-2. Límite de emisión máxima de proyectos para compensación de emisiones.
+Contaminante Emisión máxima (t/año)
+MP2,5 2,5
+MP10 5
+SO 10
+2
+NO 20
+X
+Fuente: Tabla 27, D.S.N°6/2018 MMA
+Considerando el límite de emisiones indicado en la Tabla 2-2 y las emisiones anuales presentadas en la
+Tabla 2-1, a continuación se indica los años en que se deberá realizar una compensación de emisiones.
+Tabla 2-3. Analisis de compensación de emisiones.
+Emisiones Fase Construcción,
+Cumplimiento
+Fase Año Operación y Cierre
+MP10 MP2,5 NOx SO2 MP10 MP2,5 NOx SO2
+1 35,43 11,45 73,40 0,28 Supera Supera Supera Cumple
+Construcción
+2 20,86 5,60 44,46 0,22 Supera Supera Supera Cumple
+3 77,32 11,98 24,83 0,21 Supera Supera Supera Cumple
+4 87,50 13,41 26,35 0,22 Supera Supera Supera Cumple
+5 101,15 14,94 26,87 0,22 Supera Supera Supera Cumple
+Operación
+6 110,27 16,11 27,70 0,23 Supera Supera Supera Cumple
+7 106,26 15,31 22,98 0,14 Supera Supera Supera Cumple
+8 69,39 9,87 18,19 0,11 Supera Supera Cumple Cumple
+Cierre 9 14,05 3,98 28,52 1,52 Supera Supera Supera Cumple
+3
+================================================================================
+PAGE 7
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Como se observa en la Tabla 2-3 las emisiones generadas durante todas las fases del Proyecto superan el
+límite definido para MP10 y MP2,5. Las emisiones de NOx solamente cumplen para el año 8. Finalmente,
+las emisiones de SO no superarán el límite indicado en la Tabla 2-2 para ninguna de las fases del Proyecto.
+2
+Posteriormente el Artículo 54 indica: “Para acreditar el cumplimiento de lo establecido en el artículo
+precedente, el titular deberá presentar un Programa de Compensación de Emisiones (PCE), el que deberá
+ser aprobado por la SEREMI del Medio Ambiente.”
+a) El contenido del Programa de Compensación de Emisiones será al menos el siguiente:
+i. Estimación anual de las emisiones del proyecto, distinguiendo la fase de construcción,
+operación y cierre, indicando el año a partir del cual se prevé se superará el umbral indicado
+en la Tabla Nº27 para los contaminantes que correspondan.
+ii. Las medidas de compensación. Estas deberán cumplir los siguientes criterios:
+a. Medibles, esto es, que permitan cuantificar la reducción de las emisiones que se produzca
+a consecuencia de ellas.
+b. Verificables, esto es, que generen una reducción de emisiones que se pueda cuantificar con
+posterioridad de la implementación.
+c. Adicionales, entendiendo por tal que las medidas propuestas no respondan a otras
+obligaciones a que esté sujeto el titular, o bien, que no correspondan a una acción que
+conocidamente será llevada a efecto por la autoridad pública o particulares.
+d. Permanentes, entendiendo por tal que la rebaja permanezca por el período en que el
+proyecto está obligado a reducir emisiones.
+iii. Forma, oportunidad y ubicación en coordenadas WGS84, de su implementación, con un
+indicador de verificación del programa de compensación.
+iv. Carta Gantt, que considere todas las etapas para la implementación de la compensación de
+emisiones y la periodicidad en que informará a la Superintendencia del Medio Ambiente el
+avance de las actividades comprometidas.
+b) Consideraciones generales para los programas de compensación de emisiones:
+i. Sólo se podrán compensar o ceder emisiones entre aquellas fuentes que demuestren cumplir
+con uno de los siguientes requisitos:
+a. Realizar la compensación entre fuentes o actividades con combustión; o
+b. Realizar la compensación entre una fuente con combustión, que cede emisiones a una
+fuente o actividad sin combustión, pero no viceversa; o
+c. Realizar la compensación entre fuentes o actividades sin combustión.
+ii. En ningún caso podrá hacer valer emisiones cedidas por actividades o establecimientos que
+cierren o deban cerrar por incumplimiento de normativa ambiental, o por término de vida útil.
+4
+================================================================================
+PAGE 8
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+iii. Las actividades emisoras que reduzcan emisiones para cumplir con las medidas exigidas en el
+presente Plan, sólo podrán compensar o ceder emisiones por reducciones adicionales a la
+exigencia legal o reglamentaria.
+iv. Cuando se trate de la compensación de una emisión compuesta predominantemente de
+material particulado grueso (fracción de tamaños superiores a 2,5 micrómetros), se podrán
+realizar compensaciones que impliquen el retiro o rebaja de emisiones provenientes de
+procesos de combustión en razón de una unidad másica de material particulado de
+combustión retirado, por cada cuatro unidades de material particulado grueso emitido.
+v. La compensación podrá realizarse entre diversos tipos de fuentes, actividades y sectores
+económicos, siempre y cuando cumplan con los criterios anteriores.
+vi. Los programas de compensación de emisiones podrán considerar: Conversión de combustible
+para hornos tradicionales chilenos, recambio de artefactos que utilizan leña y recambio de
+buses de transporte público, entre otras alternativas.
+En la Tabla 2-4 se presenta el desglose de las emisiones por origen (de combustión y de no combustión)
+para las distintas fases del Proyecto.
+Tabla 2-4. Emisiones por origen.
+MP10 (t/año) MP2,5 (t/año) NO (t/año) SO (t/año)
+X 2
+Fase Año No No No No
+Combustión Combustión Combustión Combustión
+Combustión Combustión Combustión Combustión
+1 29,3 6,08 5,37 6,08 0 73,40 0 0,28
+Construcción
+2 17,27 3,59 2,00 3,59 0 44,46 0 0,22
+3 76,20 1,12 10,86 1,12 0 24,83 0 0,21
+4 86,34 1,16 12,25 1,16 0 26,35 0 0,22
+5 99,99 1,16 13,78 1,16 0 26,87 0 0,22
+Operación
+6 109,07 1,19 14,92 1,19 0 27,70 0 0,23
+7 105,49 0,77 14,53 0,77 0 22,98 0 0,14
+8 68,77 0,62 9,25 0,62 0 18,19 0 0,11
+Cierre 9 11,83 2,22 1,76 2,22 0 28,52 0 1,52
+Considerando que el PPDA para las comunas de Concepción Metropolitano tiene por objetivo el
+cumplimiento de la norma primaria de calidad ambiental por MP2,5 y no sobrepasar los límites de latencia
+de la norma de calidad ambiental por MP10, las emisiones de NOx y SOx estimadas para la ejecución del
+Proyecto, son expresadas en términos de MP equivalente, utilizando las equivalencias indicadas en la Tabla
+N26 del D.S. N°6/2018, y que se presenta en la Tabla 2-5.
+5
+================================================================================
+PAGE 9
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-5. Factores de conversión a MP2,5 equivalente por contaminante.
+Emisión equivalente MP2,5
+Contaminante
+(t/año)
+1 t/año SO 0,297
+2
+1 t/año NO x 0,283
+1 t/año NH 3 0,766
+Fuente: Tabla 26, D.S. N°6/2018 MMA
+Considerando las equivalencias para MP2,5 indicadas en la Tabla 2-5, se obtienen las emisiones
+equivalentes indicadas en la Tabla 2-6. Las emisiones de MP10 de combustión son sumadas a las emisiones
+de MP2,5 equivalentes, pues ambas son originadas en procesos de combustión.
+Tabla 2-6. Emisiones totales de MP10 directas y equivalentes.
+Emisiones totales de MP10 por
+Emisiones de MP10 por origen
+origen
+MP10
+Fase Año
+MP10 MP10 MP MP10 Combustión +
+Resuspendido Combustión equivalente Resuspendido MP2,5
+equivalente
+1 29,35 6,08 20,89 29,35 26,97
+Construcción
+2 17,27 3,59 12,67 17,27 16,26
+3 76,20 1,12 7,13 76,20 8,25
+4 86,34 1,16 7,56 86,34 8,72
+5 99,99 1,16 7,71 99,99 8,87
+Operación
+6 109,07 1,19 7,95 109,07 9,14
+7 105,49 0,77 6,57 105,49 7,34
+8 68,77 0,62 5,19 68,77 5,81
+Cierre 9 11,83 2,22 8,53 11,83 10,75
+Como se indica en la Tabla 2-6, casi la totalidad de las emisiones de material particulado que serán
+generadas por el Proyecto corresponden a emisiones de fuentes de no combustión, siendo aplicable el
+punto iv de la letra b) del Articulo 54. que indica “iv. Cuando se trate de la compensación de una emisión
+compuesta predominantemente de material particulado grueso (fracción de tamaños superiores a 2,5
+micrómetros), se podrán realizar compensaciones que impliquen el retiro o rebaja de emisiones
+provenientes de procesos de combustión en razón de una unidad másica de material particulado de
+combustión retirado, por cada cuatro unidades de material particulado grueso emitido.”
+Las emisiones totales presentadas en la Tabla 2-6, serán compensadas en un 120%, como indica el Artículo
+53 del D.S. N°6/2018. Si la compensación es realizada mediante el retiro o rebaja de emisiones
+provenientes de procesos de combustión, las emisiones de material particulado resuspendido serán
+compensadas en razón 4 a 1, mientras que las emisiones de combustión serán compensadas en razón 1 a
+1. El plan de compensación definitivo que será presentado a la SEREMI de Medio Ambiente cumplirá con
+el contenido y consideraciones generales indicadas en el Artículo 54 del D.S. N°6/2018.
+6
+================================================================================
+PAGE 10
+================================================================================
+Anexo 1-7 Plan de compensación preliminar de emisiones atmosféricas
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3 MEDIDAS DE COMPENSACIÓN
+Como medida de compensación, se utilizarán medidas indicadas en el Artículo 53 del D.S. N°6/2018.
+Considerando la relevancia en términos de aporte en la calidad del aire que posee la combustión
+residencial de leña, utilizada como sistema de calefacción en la comuna de Penco y comunas aledañas, se
+contempla realizar el recambio de equipos de calefacción que utilicen leña como combustible por equipos
+de calefacción eléctricos, que permitirán reducir estas emisiones.
+Esta medida será implementada dentro de la comuna de Penco, generando un efecto de reducción de
+emisiones de material particulado, y por tanto una mejora en la calidad del aire directamente en la
+población. El plan de recambio de calefactores considerará el retiro del artefacto que utilice leña como
+combustible, la instalación del nuevo calefactor y la chatarrización del calefactor retirado.
+Adicionalmente se evaluará como medida de compensación de emisiones la pavimentación o asfaltado de
+calles no pavimentadas, que posean carpeta de tierra y/o gravilla. La definición de calles en donde se
+pudiera implementar esta medida se realizará en conjunto con la Municipalidad.
+4 FORMA, OPORTUNIDAD Y UBICACIÓN DE SU IMPLEMENTACIÓN
+Las medidas de compensación serán implementadas en la comuna de Penco preferentemente, y
+compensarán el 120% de las emisiones indicadas en la Tabla 2-6. Las medidas serán implementadas según
+el cronograma preliminar que se presenta a continuación.
+Año
+Etapa
+(*) 0 1 2 3 4 5 6 a 8
+Presentación del PCE a SEREMI de MA
+Implementación de las medidas
+Seguimiento de las medidas
+Reporte de seguimiento a SMA
+(*) Corresponde al periodo entre la presentación y aprobación por parte de la SEREMI de MA del PCE.
+Las medidas de compensación serán implementadas en un plazo de 5 años, asegurando en todo momento
+que las medidas implementadas compensen al menos el 120% de las emisiones que fueron estimadas para
+el año posterior a su implementación, con el objetivo de que desde el año 5 en adelante las medidas
+implementadas compensen de manera permanente el 120% de las emisiones estimadas para el año de
+mayores emisiones, que corresponde al año 6 del Proyecto (año 4 de operación).
+El cronograma definitivo del Programa de Compensación será presentado para su aprobación a la Seremi
+de Medio Ambiente. La implementación de las medidas será informada a la SEREMI de Medio Ambiente
+para su fiscalización y seguimiento del cronograma de implementación que será definido.
+7

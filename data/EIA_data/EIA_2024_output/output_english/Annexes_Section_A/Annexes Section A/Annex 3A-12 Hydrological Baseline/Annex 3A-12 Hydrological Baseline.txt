@@ -1,0 +1,1463 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Exhibit 3A-12
+Hydrology Baseline
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Page i
+REPORT
+Baseline Hydrology
+EIA Extraction of Clays for the Production of
+Rare Earth Concentrate
+May 2024
+Client:
+Date Prepared by Reviewed by Version
+01-30-2024 DT/ASM FACE 0
+Hydrology Baseline Report
+May 2024 i
+==================================================================================
+PAGE 3
+==================================================================================
+Page ii
+Table of Contents
+1 Introduction ....................................................................................................................... 1
+2 Objectives ........................................................................................................................... 3
+2.1.1 General Objective ................................................................................................... 3
+2.1.2 Specific Objectives ................................................................................................... 3
+3 Methodology ....................................................................................................................... 4
+3.1.1 Review of Secondary Information ....................................................................... 4
+3.1.2 Hydrological Analysis ................................................................................................... 5
+3.1.3 Determination of Drainage Pattern ....................................................................... 5
+3.1.4 Identification of Control Points ........................................................................... 6
+4 Results ....................................................................................................................... 10
+4.1.1 Area of Influence ........................................................................................................... 10
+4.1.2 Hydrometeorology................................................................................................ 11
+4.1.3 Climate Risk ....................................................................................................... 14
+4.1.4 Drainage Pattern ........................................................................................................... 19
+4.1.5 Flood Flows ........................................................................................................... 20
+4.1.6 Presentation of flow measurement results in Estero Penco and Cabrito 21
+Description of the activity ........................................................................................................... 21
+Number of verticals per capacity section................................................................................ 22
+Method to use for measuring flow rates ........................................................................... 22
+Capacity with Windlass ........................................................................................................................... 22
+By Wading ................................................................................................................................... 23
+4.1.7 Historical Accumulated Results ........................................................................... 23
+4.1.8 Delimitation and Characterization of Basins and Contributing Areas ........................... 26
+4.1.9 Maximum Precipitation in 24 hours ................................................................... 28
+4.1.10 Flood Flows ........................................................................................................... 33
+4.1.11 Average Monthly Flows ................................................................................... 40
+4.1.12 Analysis of Potential Adverse Effects on Water Resources ................................... 44
+5 Conclusions ...........................................
+....................................................................... 46
+6 References ................................................................................................................... 48
+Hydrology Baseline Report
+May 2024 ii
+==================================================================================
+PAGE 4
+==================================================================================
+Page iii
+List of Figures
+Figure 1-1: General Project Location ........................................................................................................... 2
+Figure 3-1: Location of Project Works ........................................................................................................... 7
+Figure 3-2: Location of Control Points ........................................................................................................... 8
+Figure 4-1: Area of Hydrological Influence of the Project ........................................................................................... 11
+Figure 4-2: Climogram of average monthly precipitation (2000-2020) DGA Andalién station and temperature
+monthly average (1966-2022) DMC Carriel Sur station ........................................................................... 12
+Figure 4-3: Isolines of tank evaporation (orange color) and real evaporation (yellow color).
+Water Balance of Chile (DGA, 1987) ................................................................................................... 14
+Figure 4-4: Climate Threats linked to the Water component for the commune of Penco ................................... 16
+Figure 4-5: Drainage Network or Hydrographic Network of the AI ................................................................................................... 19
+Figure 4-6: Location of fliviometric control points ....................................................................................... 20
+Figure 4-7: Monthly Variation of Flows in Estero El Cabrito ....................................................................... 25
+Figure 4-8: Monthly Variation of Flows in Estero Penco ................................................................................... 25
+Figure 4-9: Delimitation of Basins and Contributing Areas.............................................................................................. 27
+Figure 4-10: Location of Rainfall Stations near the AI ................................................................................... 29
+Figure 4-11: Isohyets in AI basins ........................................................................................................... 32
+Figure 4-12: Seasonal Variation Curves in the Estero Penco Basin for Exceedance Probabilities
+from 50% to 90%. ................................................................................................................................... 42
+Figure 4-13: Seasonal Variation Curves in the Estero El Cabrito Basin for Probabilities of
+Excess from 50% to 90%. ................................................................................................................... 43
+Hydrology Baseline Report
+May 2024 iii
+==================================================================================
+PAGE 5
+==================================================================================
+Page iv
+Table List
+Table 3-1: Coordinates of Control Points in the AI drainage network ................................................................... 9
+Table 4-1: Fluviometric Control Point Coordinates ........................................................................................... 20
+Table 4-2: Gauged Flows in Estero Penco and Cabrito ........................................................................................... 24
+Table 4-3: Morphometric parameters of basins of Basin-type Control Points ................................................... 27
+Table 4-4: Information on Rainfall Stations near the AI ................................................................................... 28
+Table 4-5: Daily Precipitation by Station for different Return Periods ........................................... 30
+Table 4-6: Summary Calculation of Maximum Daily Precipitation per Basin for T=10 years ........................................... 33
+Table 4-7: Evaluation of the Runoff Coefficient (T=10 years) ................................................................... 34
+Table 4-8: Concentration Times ...........................................
+............................................................................ 36
+Table 4-9: Duration Coefficient. Carriel Sur Station (Concepción) ........................................................... 38
+Table 4-10: Frequency Coefficients for different return periods. Carriel Sur Station (Concepción)
+................................................................................................................................................................... 38
+Table 4-11: Design Precipitation Intensity for Weighted Basin ................................................................... 39
+Table 4-12: Flood Flows ................................................................................................................................... 39
+Table 4-13: Geomorphological Characteristics of the Basin ................................................................................... 40
+Table 4-14: Average Monthly Flows (L/S), for Different Exceedance Probabilities, in the River Basin
+Estero Penco ........................................................................................................................................... 41
+Table 4-15: Average Monthly Flows (L/S), for Different Exceedance Probabilities, in the River Basin
+Estero El Cabrito. ....................................................................................................................................... 42
+Table 4-16: Average Monthly Flows and Average Annual Flow Esteros Penco and El Cabrito ........................... 43
+Hydrology Baseline Report
+May 2024 iv
+==================================================================================
+PAGE 6
+==================================================================================
+1 Introduction
+ACLARA has requested APM Medioambiente to prepare the Hydrological Baseline
+of the Clay Extraction Project for the Production of Rare Earth Concentrate. This
+Project belongs to the company REE UNO SpA, hereinafter ACLARA, which consists of the
+construction and operation of a mining site along with a mineral processing plant
+Granitic maicillo with the presence of Lanthanides, widely known as Rare Earths.
+For the development of this study, the hydrological characterization associated with the area is considered.
+of influence of the Project, having public and bibliographical background for this purpose.
+It should be noted that the project will not require the exploitation of natural water resources (nor
+surface or underground) of any course, body or reservoir adjacent to the works of the
+project for the execution of its industrial processes and, therefore, said activities
+They will have external sources of use. In fact, the only interaction between
+project and the superficial courses of the area of influence lies in the construction of a series
+of underground, surface or aerial crossings linked to the implementation of
+driving pipelines and enabling transport routes.
+The site of the project is located in the commune of Penco and Concepción, Province of
+Concepción, Biobío Region. The project is accessed from Route 150, Camino a Penco, km
+4.5, as indicated in Figure 1-1 below.
+Hydrology Baseline Report
+May 2024 1
+==================================================================================
+PAGE 7
+==================================================================================
+Figure 1-1: General Project Location
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 2
+==================================================================================
+PAGE 8
+==================================================================================
+2 Objectives
+2.1.1 General Objective
+The general objective of this report corresponds to the preparation of the baseline of the
+hydrological component for the area of influence of the Project, taking into account the
+characterization and description of this resource through the availability of information
+public, existing bibliographic and field background, as well as identifying the
+potential effects on this resource considering the execution of the Project. The above,
+following the guidelines set out in the SEIA Evaluation Criteria document:
+Technical Content for the Environmental Assessment of Water Resources (SEIA, 2022).
+2.1.2 Specific Objectives
+With the objective of developing the baseline and raising
+a hydrological data of the area of the
+The project contemplates the following specific objectives:
+• Definition of the basins that comprise the Area of Influence
+• Analysis of hydrometeorological statistics
+• Definition of average and maximum rainfall for different return periods
+• Definition of average and maximum temperatures and evapotranspiration
+• Characteristics of the drainage pattern of the area of influence
+• Definition of maximum flows for different return periods (10, 20, 50 and 100
+years), in 24 points of interest in the area of influence (crossings of roads and works),
+For this, it will be carried out:
+o Delimitation of the hydrographic basins contributing to each stream crossing,
+using a digital elevation model as base cartography.
+o Estimation of the geomorphological parameters necessary for the application of the
+indirect methods of calculating flood flows.
+o Carry out frequency analyzes of rainfall and rainfall information
+available at hydrometeorological stations near the project area.
+o Calculate flood flows using the methods proposed by the DGA Manual
+and Highways.
+Hydrology Baseline Report
+May 2024 3
+==================================================================================
+PAGE 9
+==================================================================================
+3 Methodology
+The methodology used to comply with each of these is described below.
+the specific objectives established for this study.
+Initially, a regional hydrographic characterization of the study area was carried out where
+identified hydrological sectors and the main hydrographic network associated with the area of the
+Project.
+Next, a local hydrographic characterization was carried out, in order to identify the network
+of drainage of the sector and in this way to be able to define potential impacts on the water resource.
+Subsequently, a hydrometeorological characterization of the area where
+develops the Project, with the objective of establishing the values of temperature and
+precipitations, determining in the case of precipitation values for different
+return periods.
+Then, the results of maximum flows for different return periods are presented,
+based on the methodologies proposed in this document.
+Finally, for the preparation of this report, we mainly considered the
+following activities:
+• Review of secondary information
+• Hydrological analysis
+• Photointerpretation
+• Determination of drainage pattern
+• Identification of control points
+Below is a description of each of the mentioned activities.
+previously.
+3.1.1 Review of Secondary Information
+With the objective of collecting the necessary background information to characterize the component
+hydrological, the following documents and databases were consulted:
+• Guide for the Description of the Area of Influence, Impact Evaluation Service
+Environmental, 2017.
+• Evaluation Criteria in the SEIA: Technical Content for the Environmental Evaluation of the
+Water Resources, 2022.
+• Digital map database of the General Directorate of Water (DGA).
+Hydrology Baseline Report
+May 2024 4
+==================================================================================
+PAGE 10
+==================================================================================
+• Fluviometric statistics database of the General Directorate of Water (DGA).
+• IGM cards scale 1:50,000. Military Geographic Institute (IGM).
+• Environmental Impact Assessment Guide, Environmental Assessment Service, 2015.
+• Mankuk Consulting & Services S.A. (2024). Hydrology Report Extraction Project
+Clays for Rare Earth Production.
+3.1.2 Hydrological Analysis
+A regional and local hydrographic description is made around the Project area,
+identifying the main natural channels that interact with the area of influence and
+determining the possible impacts of the Project on this resource.
+Based on the hydrographic network, contributing basins and their morphometric parameters are defined.
+and from historical records the maximum annual rainfall for different
+return periods, in order to estimate flood flows. The scenarios analyzed
+They correspond to periods of 10, 20, 50 and 100 years.
+For the hydrological analysis, the execution of the following actions was considered.
+activities:
+Photointerpretation
+The IGM letters associated with the sector were reviewed, which correspond to the IGM F-106 letters.
+(Hualqui) and F-97 (Tomé), in order to identify possible runoff networks and/or
+natural ravines. In addition, to complement the information, the vector map was used
+hydrographic network available in the map library of the National Congress of Chile (BCN) and the map
+vector channels downloaded from the Geospatial Data Infrastructure map library
+of Chile (IDE Chile), in the same way as the information collected in the field visit
+carried out in the Project area.
+Determination of Drainage Pattern
+The hydrographic network of the area of influence was obtained at two scale levels, since it was
+It had two different sources of information on the surface of the area. The networks
+obtained and their sources were the following:
+• Coarse network: This network was obtained using the digital elevation model (DEM).
+acronym in English) from ALOS PALSAR DEM (https://search.asf.alaska.edu/#/), 12.5 m long
+resolution per pixel.
+• Fine network: This network was obtained by surveying contour lines every 1 m of the
+study area.
+Hydrology Baseline Report
+May 2024 5
+==================================================================================
+PAGE 11
+==================================================================================
+The drainage pattern of all basins develops generally from East to West,
+in which some sections deviate in different directions, but all having as discharge
+the Pacific Ocean.
+The main channel corresponds to the Andalién River (southern area of the Project), which drains the
+small streams that are located in the area, and whose regime is completely pluvial. This
+channel is one that presents a permanent and continuous flow during all months of the year,
+However, the streams where the works are located generally remain dry and
+They are activated with the presence of significant rains. In the northern sector of the development of
+Project, the main drainage corresponds to the Penco estuary, with a pluvial regime, where the
+Most of its contributing streams are only active during flood events.
+precipitation.
+Identification of Control Points
+Control points have been determined that define the intersection of roads with streams.
+The location of the project works, as well as the network, are presented below.
+hydrography and the resulting control points.
+Figure 3-1 shows the location of the Project works, projected in the
+WGS84 UTM Zone 18S coordinates. The project is located approximately 1 km from
+the city of Penco in the Biobío Region.
+Hydrology Baseline Report
+May 2024 6
+==================================================================================
+PAGE 12
+==================================================================================
+Figure 3-1: Location of Project Works
+Source: APM Consultants
+Figure 3-2 shows the control points in the drainage network of the area of influence. The
+Table 3-1 presents the coordinates of the control points.
+Hydrology Baseline Report
+May 2024 7
+==================================================================================
+PAGE 13
+==================================================================================
+Figure 3-2: Location of Control Points
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 8
+==================================================================================
+PAGE 14
+==================================================================================
+Table 3-1: Control Point Coordinates in the AI drainage network
+UTM
+Point WGS 84/ H18S Description
+E(m) N(m)
+OAT 1-6 680495 5928930 Intersection of internal roads with hydrographic network
+OAT 1-8 680454 5929082 Intersection of internal roads with hydrographic network
+OAT 1-11 680198 5929182 Intersection of internal roads with hydrographic network
+OAT 1-14 680736 5929268 Intersection of internal roads with hydrographic network
+OAT 1-15 680841 5929248 Intersection of internal roads with hydrographic network
+OAT 1-16 680935 5929125 Intersection of internal roads with hydrographic network
+OAT 1-17 681092 5929093 Intersection of internal roads with hydrographic network
+OAT 1-18 681368 5929241 Intersection of internal roads with hydrographic network
+OAT 2-1 681523 5929552 Intersection of internal roads with hydrographic network
+OAT 2-2 681501 5929634 Intersection of roads inter
+us with hydrographic network
+OAT 2-3 681502 5929674 Intersection of internal roads with hydrographic network
+OAT 5-10 679874 5930015 Intersection of internal roads with hydrographic network
+OAT 5-11 679976 5930014 Intersection of internal roads with hydrographic network
+OAT 7-2 680866 5928888 Intersection of internal roads with hydrographic network
+OAT 7-4 681130 5928765 Intersection of internal roads with hydrographic network
+OAT 7-5 681113 5928701 Intersection of internal roads with hydrographic network
+OAT 7-7 680892 5928521 Intersection of internal roads with hydrographic network
+OAT 11-1 681552 5929350 Intersection of internal roads with hydrographic network
+OAT 11-3 681524 5929374 Intersection of internal roads with hydrographic network
+OAT 22-5 681961 5930557 Intersection of internal roads with hydrographic network
+OAT 22-8 681472 5930845 Intersection of internal roads with hydrographic network
+OAT 22-9 681464 5930925 Intersection of internal roads with hydrographic network
+OAT 35-2 681448 5929668 Intersection of internal roads with hydrographic network
+OAT 38-1 681483 5929744 Intersection of internal roads with hydrographic network
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 9
+==================================================================================
+PAGE 15
+==================================================================================
+4 Results
+4.1.1 Area of Influence
+In accordance with the provisions of Article 19 letter b.1. of the Regulation of the System of
+Environmental Impact Assessment (RSEIA), then defines and justifies the area of
+influence for the hydrological component, considering the potential impacts
+environmental to water resources. The area of influence has been established from all the
+works and/or actions associated with the Project that, in its different phases, could potentially
+affect local hydrology.
+Based on the above and what is indicated in the Guide for the Description of the Area of Influence (SEIA,
+2017), the area of influence was defined as shown in Figure 4-1, which considers the
+geographical space included by the location of the definitive works, which
+They correspond to the location of quarries, production plants and access roads. If
+They also include the location of temporary works, which corresponds to
+the installation of tasks among others. Considering that all these areas could generate
+potential impacts on the object of protection, in this case all channels being
+natural areas that interact with the defined area of influence. As a result of the definition
+of the AI the surface corresponds to an area of 33 km2 (3,300 hectares)
+Hydrology Baseline Report
+May 2024 10
+==================================================================================
+PAGE 16
+==================================================================================
+Figure 4-1: Hydrological Influence Area of the Project
+Source: APM Consultants
+4.1.2 Hydrometeorology
+In this section the characterization of the components is presented
+hydrometeorological conditions of interest, that is: temperature, precipitation, evapotranspiration and
+climate risk.
+Temperature
+The weather station that presents the highest temperature statistics and the best
+consistency corresponds to the station controlled by the Meteorological Directorate of Chile
+(DMC) called Carriel Sur, located about 10 km south west of the study area,
+within the limits of the Carriel Sur airport of the city of Concepción. According to
+the historical record of the last 56 years of said station (1966-2022), the temperature
+annual average for the area is 12.3 °C. The minimum monthly average is recorded in the month of
+July with a value of 8.8 °C and the maximum in the month of January with a value of 16.5 °C. sayings
+Hydrology Baseline Report
+May 2024 11
+==================================================================================
+PAGE 17
+==================================================================================
+temperatures are typical of a Csbn's type climate according to the Koppen-Geiger system, which
+corresponds to warm temperate with winter rains and high atmospheric humidity. The
+The climogram in Figure 4-2 shows the monthly distribution of temperatures.
+Precipitation
+The rainfall station controlled by the General Directorate of Water (DGA) called
+Andalién, is considered representative of the area, due to its proximity (less than 10 km) and
+a similar height
+before the study area (approximately 40 meters). Csbn's climate
+The area has a dry season of less than four months, reaching an annual value
+accumulated water fall of 1,136 mm average during the last 20 years of statistics
+(2000-2020). Regarding the monthly variation of precipitation, June is the month with the most
+rainy with an average amount of 256 mm of water fall, while the month of February
+It is the driest, with 12 mm. The temporal variation of precipitation is shown in the
+climogram in Figure 4-2.
+Figure 4-2: Climogram of monthly average precipitation (2000-2020) DGA station Andalién and
+average monthly temperature (1966-2022) DMC Carriel Sur station
+Source: APM Consultants
+Evapotranspiration
+According to the Water Balance of Chile (DGA, 1987), tank evaporation in the area
+It is of the order of 1250 mm/year and the real evapotranspiration is close to 600 mm/year. The Figure
+4-3 presents both types of isolines published by the DGA.
+On the other hand, the real annual evapotranspiration can be estimated using the method of
+Turc, whose formula is represented by:
+Hydrology Baseline Report
+May 2024 12
+==================================================================================
+PAGE 18
+==================================================================================
+Where:
+ETR: real evapotranspiration in mm/year
+P: precipitation in mm/year: which will be taken equal to 1,136 mm/year according to the record of
+the DGA Andalién station
+L: 300+25xt+0.005xt3, where t=annual average temperature in °C: the result of this
+dimensionless polynomial is equal to 618.5
+According to the above, a real evapotranspiration (ETR) value of 550 is obtained
+mm/year for the study area, which is close to the ETR values estimated by the DGA
+(1987), 600 mm/year.
+Hydrology Baseline Report
+May 2024 13
+==================================================================================
+PAGE 19
+==================================================================================
+Figure 4-3: Isolines of tank evaporation (orange color) and real evaporation (orange color).
+yellow). Water Balance of Chile (DGA, 1987)
+Source: Water Balance of Chile (DGA, 1987)
+4.1.3 Climate Risk
+To define the negative synergy that the climate factor may exert on the
+water component of the area of influence, the evaluation of the parameters was considered
+hydrometeorological events, understanding their evolution over time added to this factor of
+threat.
+In this sense, the projection (simulation) of climatic parameters that influence
+in the availability and characteristics of the water resource, which were chosen from the
+database of the arclimb.mma.gob.cl portal of the Ministry of Environment:
+Hydrology Baseline Report
+May 2024 14
+==================================================================================
+PAGE 20
+==================================================================================
+• Temperature
+• Drought frequency (%)
+• Consecutive Dry Days
+• Potential evapotranspiration
+• Maximum daily precipitation
+• Precipitation intensity
+Figure 4-4 identifies the progression of these linked climate threats over time.
+for the commune of Penco
+Hydrology Baseline Report
+May 2024 15
+==================================================================================
+PAGE 21
+==================================================================================
+Figure 4-4: Climate Threats linked to the Water component for the commune of Penco
+Hydrology Baseline Report
+May 2024 16
+==================================================================================
+PAGE 22
+==================================================================================
+clarify
+AIPIM Acetera Prorectos Medioacslente
+Consecutive dry days in PENCO
+Potential Evaportraspiration in PENCO Annual
+Annual
+200
+Past
+Future
+Past
+Future
+[ 150 1 100 1 50
+1 3.5 1 2.5 1 1.5
+1980
+2000
+2020
+2040
+2060
+1980
+2000
+2020 Year
+2040
+2060
+Year
+Individual simulation
+Average value of simulations
+Individual simulation
+Average value of simulations
+Highcharts-com
+Highcharts.com
+Hydrology Baseline Report May 2024
+==================================================================================
+PAGE 23
+==================================================================================
+Source: Developed based on information from www.arclimb.gob.cl
+Hydrology Baseline Report
+ma
+me 2024 18
+==================================================================================
+PAGE 24
+==================================================================================
+Simulation (Mean Value) derived from ArClimb (MMA) data predicts an increase in
+maximum daily temperatures on average of 1°C by the year 2060, and along with it the
+increased probability of drought and dry days; and consequently an acceleration
+on the evapotranspiration rate as a result of climate changes. For the case of the
+maximum daily rainfall, this is projected below historical maximums for
+which corresponds to a condition that would affect the inputs to the basin's water system;
+However, the projection of precipitation intensity predicts an increase in
+frequency of 10% at intensities of 2 mm/day.
+4.1.4 Drainage Pattern
+The characteristic drainage pattern present in the area of influence corresponds to a drainage
+dendritic. Figure 4-5 presents the drainage network or hydrographic network of the area.
+Figure 4-5: Drainage Network or Hydrographic Network of the AI
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 19
+==================================================================================
+PAGE 25
+==================================================================================
+4.1.5 Flood Flows
+Introduction
+Given that the area of influence corresponds to basins without fluviometric control by
+the DGA, there are no permanent measurements of online flows in estuaries and/or
+streams located in the AI. According to field observations, carried out in the
+successive field visits, it is clear that apart from the Andalién River, only the Penco estuary would count
+with permanent runoff throughout the year, the remaining streams apparently
+activated during precipitation events, leaving only some of them with a flow
+during the winter and spring season.
+Based on what was described above, in this chapter the evaluation is carried out
+of flood runoff for different return periods at the points of interest,
+corresponding to the basin control points, crossings and works. For this, we resort to
+precipitation-runoff relationships using methodologies and formulas recommended by the
+Authority.
+Flow measurement of the Penco and Cabrito estuaries
+According to what was stated above, there is a need to create a database
+own that includes flow measurements in the most important estuaries in the area. In
+In this sense, the project has fluviometric information in the Penco and El estuaries.
+Goat.
+The measurement points are located in the estuaries indicated above in the following
+coordinates referred to Datum WGS 84.
+Table 4-1: Fluviometric Control Point Coordinates
+Point North Coordinate East Coordinate
+Estero Penco upstream 5,931,666 681,408
+Estero Penco downstream 5,931,458 681,087
+Estero El Cabrito upstream 5,933,781 682,436
+Estero El Cabrito downstream 5,935,075 681,864
+Source: APM Consultants
+Figure 4-6 shows the location of the aforementioned points.
+Figure 4-6: Location of fliviometric control points
+Hydrology Baseline Report
+May 2024 20
+==================================================================================
+PAGE 26
+==================================================================================
+Source: APM Consultants
+4.1.6 Presentation of flow measurement results in Estero Penco and Cabrito
+Methodology Used
+Next, the methodology used to carry out the survey is presented.
+information on the ground.
+Yo. Flow measurement by gauging with a reel
+Next, the way of measuring flows carried out in the estuaries is described.
+Penco and El Cabrito.
+Activity description
+Some considerations:
+• The section to be measured was chosen in an accessible place, considering future campaigns
+capacity.
+Hydrology Baseline Report
+May 2024 21
+==================================================================================
+PAGE 27
+==================================================================================
+• The hydrometer, according to the terrain conditions, defined the exact point
+of the capacity (upstream or downstream).
+• The gauging was carried out in a straight section of the river or watercourse, in a section where
+without waterfalls, rapids or turbulence.
+• Considering that the speed distributions
+They must be couples, they proceeded to
+improve some sections by weeding and removing stones, which allowed
+improve the selected capacity sections, so as to have a section that
+ensure reliable measurement.
+• Gauges were carried out by wading.
+Number of verticals per capacity section
+As a general rule, depending on the width of the section to be gauged and the required precision, the
+hydrometer determines the number of verticals in which the measurements of
+speed. In this case, measurements of depth and speed of the
+current at a maximum distance between verticals of 20 cm, which approached 10
+cm in cases where it was considered necessary.
+Method to use for measuring flow rates
+The Section-Velocity relationship method is used, in which it is measured indirectly,
+according to:
+FLOW = SPEED x AREA
+Q [m3/s] = V [m/s] x A [m2]
+The method consists of measuring the section of the water course and the speed in it. This is
+It is done through verticals in which depth and speed are measured. They are determined like this
+partial areas and average velocities in the partial areas with which they are determined
+partial flows, the sum of which gives the total flow.
+As a control or check method, the speed measurement will be repeated in each of the
+the verticals and will compare that the difference between the first and second measurement does not exceed
+5%, otherwise the measurement of all the verticals in the section will be carried out again.
+of capacity.
+Capacity with Windlass
+The windlass is a device made up of vanes that rotate when in contact with a
+stream of water, the number of revolutions being proportional to the speed of the
+current. The number of laps that are recorded in a given time are controlled
+with an electronic counter.
+Hydrology Baseline Report
+May 2024 22
+==================================================================================
+PAGE 28
+==================================================================================
+The equation through which the speed is calculated based on the number of revolutions of
+The reel propeller is given by the reel manufacturer and is corrected at each
+calibration or contrasting of the instrument.
+The abscissa, depth and velocity measurements are made at the same time, starting from
+left to right in the direction of flow.
+The grinder used corresponds to a Gurley type cup grinder.
+By Wading
+The gauging in both estuaries was carried out using the wading technique, for this the
+The procedure used was the following:
+A properly graduated tape was located across the width of the river section, in which
+marked the abscissa, every 10 cm, from left to right (in favor of the flow) in which
+They carried out measurements of the depth and speed of the water current.
+The graduated bar where the reel is mounted was placed vertically until it touched the
+bottom of the bed, the measured depth corresponded to the depth of that vertical and the
+speed data (number of turns of the reel) corresponds to the speed of the flow of
+water in that vertical.
+4.1.7 Historical Accumulated Results
+Below are the accumulated results of the capacity campaigns carried out.
+by APM. Table 4-2 presents the flows measured in the Penco and El Cabrito estuaries.
+for the months from October 2020 to December 2023, while the following Figures
+show the monthly variation of flows for the El Cabrito and Penco estuaries
+respectively.
+Hydrology Baseline Report
+May 2024 23
+==================================================================================
+PAGE 29
+==================================================================================
+Table 4-2: Gauged Flows in Estero Penco and Cabrito
+Flow rate (L/s)
+Estero Punto Oct- Nov- Dec- Jan- Feb- Mar- Apr- May- Jun- Jul- Aug- Sept- Oct- Nov- Dec- Jan- Feb- Mar- Apr- May-
+20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22
+waters
+35 40 31
+The top 22 26 18 33 26 55 37 40 57 47 23 18 17 6 13 17 49
+goat waters
+39 48 35
+down 30 39 29 38 23 47 44 48 97 77 31 24 27 17 11 16 59
+waters
+62 71 65
+top 34 41 37 56 38 43 48 65 83 111 38 35 35 27 22 34 79
+Penco
+waters
+68 76 65
+down 36 59 55 98 59 92 138 103 154 138 74 46 59 41 25 26 120
+Flow rate (L/s)
+Estero Point
+Jun- Jul- Aug- Sept- Oct Nov- Dec- Jan- Feb- Mar- Apr- May- Jun- Jul- Aug- Sept- Oct- Nov- Dec-
+22 22 22 22 -22 22
+22 23 23 23 23 23 23 23 23 23 23 23 23
+waters
+The above 191 133 117 71 74 47 41 49 34 19 139 37 125 187 293 179 108 130 106
+goat waters
+down 148 178 175 107 90 93 58 59 35 39 90 37 130 143 319 203 138 141 110
+waters
+top 201 (*) (*) (*) (*) 94 96 75 47 50 (*) 42 241 263 645 362 354 207 158
+Penco
+waters
+down 372 233 237 112 89 154 110 130 48 41 77 56 281 307 563 358 189 261 262
+(*) No data due to road closure
+Source: Estero Penco and Cabrito Capacity Reports APM Consultores
+Hydrology Baseline Report
+May 2024 24
+==================================================================================
+PAGE 30
+==================================================================================
+Figure 4-7: Monthly Variation of Flows in Estero El Cabrito
+Source: APM Consultants
+Figure 4-8: Monthly Variation of Flows in Estero Penco
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 25
+==================================================================================
+PAGE 31
+==================================================================================
+4.1.8 Delimitation and Characterization of Basins and Contributing Areas
+The analysis of the contributing area at the crossing points of streams was carried out using the
+contour lines of the project area, whose vertical resolution is 1 m, in combination
+with the ALOS PALSAR DEM, with a pixel resolution of 12.5 m.
+Next, Figure 4-9 presents the delimitation of the basins and Table 4-1 presents
+its main morphometric parameters, where the following have been considered:
+1. Length of the main channel (𝐿): It is obtained from the direct measurement of the length of the channel
+𝑐
+principal of the basin throughout its trajectory.
+2. Minimum elevation of the basin (𝐻): Corresponds to the minimum elevation within the basin.
+𝑚í𝑛
+3. Maximum elevation of the basin (𝐻): Corresponds to the maximum elevation within the basin.
+𝑚á𝑥
+4. Average elevation of the basin (𝐻): Corresponds to the average elevation within the basin.
+𝑚𝑒𝑑
+5. Maximum gradient of the basin (∆𝐻): Corresponds to the difference between the elevation of the point
+𝑚á𝑥
+of the watershed of the basin highest and furthest from its outlet and the elevation of the point
+of the end of the main channel.
+6. Average slope of the basin (∆𝐻): Corresponds to the greatest value between: The difference of
+𝑚𝑒𝑑
+levels between the maximum and average elevation; the difference in elevation between the minimum elevation and
+average.
+7. Average slope of the basin (S): Corresponds to the average slope of the basin, obtained
+of QGIS software.
+Hydrology Baseline Report
+May 2024 26
+==================================================================================
+PAGE 32
+==================================================================================
+Figure 4-9: Delimitation of Basins and Contributing Areas
+Source: APM Consultants
+Table 4-3: Morphometric parameters of basins of Basin type Control Points
+UTM
+Name Area H H H ∆H L S
+WGS 84/ H18S min med max med ∆H (m) c
+max
+Basin (km²) (masl) (masl) (masl) (m) (m) (m/m)
+E(m) N(m)
+OAT 35-2 681448 5929668 0.2093 240.0 275.3 305.0 35.3 65.0 606 0.107
+OAT 22-5 681961 5930557 0.0391 172.2 214.2 250.4 41.9 78.2 296 0.264
+OAT 11-3 681524 5929374 0.0032 261.3 272.7 285.9 13.2 24.6 53 0.465
+OAT 11-1 681552 5929350 0.0026 266.5 274.6 285.9 11.4 19.5 28 0.696
+OAT 1-15 680841 5929248 0.6570 220.0 258.2 305.0 46.8 85.0 1562 0.054
+OAT 1-14 680736 5929268 0.0050 225.0 239.1 245.0 14.1 20.0 45 0.444
+OAT 1-11 680198 5929182 0.0098 179.1 197.2 215.0 18.1 35.9 80 0.449
+OAT 1-8 680454 5929082 0.0361 180.0 222.3 245.0 42.3 65.0 209 0.311
+OAT 7-7 680892 5928521 0.0231 235.7 268.9 285.0 33.2 49.3 110 0.448
+OAT 7-5 681113 5928701 0.0433 239.3 268.7 305.0 36.3 65.7 203 0.324
+OAT 7-4 681130 5928765 0.5847 241.4 286.3 355.0 68.7 113.6 1344 0.085
+Hydrology Baseline Report
+May 2024 27
+==================================================================================
+PAGE 33
+==================================================================================
+UTM
+Name Area H H H ∆H L S
+WGS 84/ H18S min med max med ∆H (m) c
+max
+Basin (km²) (masl) (masl) (masl) (m) (m) (m/m)
+E(m) N(m)
+OAT 1-6 680495 5928930 1.6498 184.1 264.3 355.0 90.7 170.9 2186 0.078
+OAT 7-2 680866 5928888 0.0105 245.0 262.5 275.0 17.5 30.0 91 0.330
+OAT 5-11 679976 5930014 0.0170 126.2 147.1 165.0 21.0 38.8 127 0.306
+OAT 5-10 679874 5930015 0.3424 125.0 166.2 210.0 43.8 85.0 910 0.093
+OAT 2-3 681502 5929674 0.0109 247.5 262.1 270.0 14.7 22.5 100 0.225
+OAT 2-2 681501 5929634
+0.0050 259.8 286.1 302.6 26.4 42.8 45 0.951
+OAT 2-1 681523 5929552 0.0735 250.0 287.2 305.0 37.2 55.0 410 0.134
+OAT 1-18 681368 5929241 0.0092 256.2 265.2 275.8 10.6 19.5 97 0.201
+OAT 1-17 681092 5929093 0.0175 250.0 266.9 275.0 16.9 25.0 143 0.175
+OAT 1-16 680935 5929125 0.0250 247.2 264.2 275.0 17.0 27.8 96 0.289
+OAT 38-1 681483 5929744 0.0296 240.0 256.7 270.0 16.7 30.0 192 0.156
+OAT 22-9 681464 5930925 7.3090 139.0 298.0 401.0 159.0 262.0 4039 0.065
+OAT 22-8 681472 5930845 6.6794 139.0 304.0 401.0 165.0 262.0 3300 0.079
+Source: APM Consultants
+4.1.9 Maximum Precipitation in 24 hours
+Available Statistics
+In order to evaluate the maximum rainfall in 24 hours and subsequently
+use them in the estimation of flood runoff, we proceeded to collect information from
+the stations closest to the AI belonging to the network of monitoring stations of the
+General Directorate of Water, The selected stations and their main characteristics are
+presented in Table 4-4, while its location with respect to the AI can be seen in the
+Figure 4-10.
+Table 4-4: Information on Rainfall Stations near the AI
+Elevation
+UTM East UTM North
+BNA Code Name Year Start
+[m] [m] [masl]
+08410001-3 Concepción DGA 669,387 5,921,946 28 1994
+08220006-1 Andalién 683,839 5,923,886 37 2001
+08220005-3 Carriel South 672,298 5,927,883 236 1990
+08140001-6 Rafael 692,309 5,943,295 264 1990
+Biobio
+08394001-8 672,818 5,921,279 16 1985
+mouth
+Source: APM Consultants
+Hydrology Baseline Report
+May 2024 28
+==================================================================================
+PAGE 34
+==================================================================================
+Figure 4-10: Location of Rainfall Stations near the AI
+Source: APM Consultants
+As indicated above. the information to use from the station registry
+corresponds to the values of maximum annual precipitation in 24 hours. To homogenize the
+rainfall series, data filling is carried out that finally allows obtaining series
+with 27 full years spanning from 04/01/1993 to 03/31/2019.
+The statistical filling is carried out using the method of pluviometric modules, which
+Complete the missing data by relating the daily and annual precipitation of the station to
+fill with the set of stations that have data available as defined
+in the following expression:
+where,
+𝑃: Daily precipitation of the station to be filled in (mm).
+𝑥
+𝑀: Average annual precipitation of the station to be filled in (mm).
+𝑥
+𝑛: Number of stations with available registration.
+𝑃: Daily precipitation of a station available in (mm).
+𝑖
+Hydrology Baseline Report
+May 2024 29
+==================================================================================
+PAGE 35
+==================================================================================
+𝑀: Average annual precipitation of a station with available records in (mm).
+𝑖
+Frequency and Goodness of Fit Analysis
+Based on the precipitation series obtained from the 5 stations indicated above,
+probability distribution functions were fitted to estimate precipitation
+annual maximums with different return periods. Distribution adjustments were made
+for each station using the maximum likelihood method.
+The fitted distributions for the series of annual maximums for each station are:
+Normal, Log-normal, Pearson, Log-Pearson and Gumbel. The distribution was then selected with
+best fit considering the results of the Chi-Square and Kolmogorov-Smirnov tests. In
+Annex A presents the distributions adopted for the data series of each station.
+and a summary table with the results of each test.
+With the adopted distribution, daily rainfall is obtained for different periods.
+return, for each of the stations, which are presented below in the Table
+4-5.
+Table 4-5: Daily Precipitation by Station for different Return Periods
+Concepción Biobío
+T Andalién Carriel Sur Rafael
+DGA Mouth
+(years) Daily Precipitation (mm)
+2 68.3 64.3 63.0 88.4 54.1
+5 101.0 91.3 89.9 119.8 74.3
+10 123.9 109.7 111.0 140.4 87.8
+20 146.7 127.7 133.9 160.0 100.7
+25 154.1 133.4 141.8 166.2 104.8
+50 177.4 151.4 168.0 185.4 117.5
+100 201.4 169.6 197.4 204.5 130.3
+200 226.1 188.2 230.2 223.8 143.1
+Source: APM Consultants
+Average Precipitation
+The price value was evaluated
+average pitation to consider in each of the basins or areas
+contributors defined in Table 4-1. For this purpose, an isohyet field map was created from
+of the results obtained in Table 4-5, considering a return period T=10 years.
+The isohyet field contains information on lines of equal precipitation. Furthermore, with
+In order to contrast results, the map of precipitation isohyets is included in the graph.
+maximum of 24 hours for 10 years of return period of the Water Balance of Chile (DGA,
+Hydrology Baseline Report
+May 2024 30
+==================================================================================
+PAGE 36
+==================================================================================
+1987), which contains information with a resolution of 20 (mm). The following figure presents
+the generated isohyet field.
+Hydrology Baseline Report
+May 2024 31
+==================================================================================
+PAGE 37
+==================================================================================
+Figure 4-11: Isohyets in AI basins
+Source: APM Consultants
+To determine the average precipitation for each basin, a weighted average of the
+area between isohyets with respect to the total area of the basin according to the following formula:
+where,
+𝑃𝑃 𝑗: Weighted precipitation for the 𝑗-th basin in (mm).
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜
+𝑁: It is the total number of pairs of contiguous isohyets that cross basin 𝑗.
+𝑃̅: Corresponds to the average in (mm) between 2 contiguous isohyets. As an example, the
+𝑖
+average 122.5 (mm) corresponds to the area between isohyets 122 and 123 (mm).
+𝐴: The area of ​​the basin between 2 isohyets (Km2).
+𝑖
+𝐴: The total area of the basin in (Km2).
+𝑇
+The results obtained are presented in Table 4-6.
+Hydrology Baseline Report
+May 2024 32
+==================================================================================
+PAGE 38
+==================================================================================
+Table 4-6: Summary Calculation of Maximum Daily Precipitation per Basin for T=10 years
+Area (m2) between isohyets with P (mm)
+PP
+Weighted Basin
+120.5 121.5 122.5 123.5 124.5 125.5 126.5
+mm
+OAT 11-1 2564 122.5
+OAT 7-7 22060 1000 121.5
+OAT 7-5 43349 122.5
+OAT 7-4 327000 257729 122.9
+OAT 7-2 9000 1529 121.6
+OAT 5-11 16962 121.5
+OAT 5-10 298000 44429 120.6
+OAT 2-3 10927 123.5
+OAT 2-2 4951 123.5
+OAT 2-1 14000 59469 123.3
+OAT 1-18 9241 122.5
+OAT 1-17 17549 122.5
+OAT 1-16 25041 122.5
+OAT 1-15 466000 191000 122.8
+OAT 1-14 5041 121.5
+OAT 1-11 9836 121.5
+OAT 1-8 36140 121.5
+OAT 1-6 300000 883000 466781 122.6
+OAT 38-1 1000 28599 123.5
+OAT 35-2 28286 181000 123.4
+OAT 22-9 381000 1313000 2078000 1997000 1540000 124.9
+OAT 22-8 1313000 2078000 1997000 1291445 125.0
+OAT 22-5 39143 123.5
+OAT 11-3 3199 122.5
+Note: Blank cells correspond to elevation ranges not present in the studied basin
+Source: AMP Consultants
+4.1.10 Flood Flows
+Because the study basins have areas smaller than 20 km2. has been discarded
+estimate maximum instantaneous flows by precipitation-runoff methods
+recommended by the DGA Manual. corresponding to the DGA-AC Method. Veri-King
+Modified and Rational Formula. reason why the rational method has been used
+specified in the Highway Manual. The method allows the calculation of floods by means of
+following expression:
+Hydrology Baseline Report
+May 2024 33
+==================================================================================
+PAGE 39
+==================================================================================
+T
+C(T) x I x Ap
+tc
+Q(T) =
+3.6
+Where.
+C(T): Runoff coefficient associated with the return period T
+I T: Precipitation intensity in mm/hr. associated with a return period T and time
+tc
+tc concentration
+Ap: Contributing rainfall area in km2
+Runoff Coefficient
+According to the Highway Manual. Vol. 3 (Directorate of Roads of the Ministry of Works
+Public). The runoff coefficient for a 10-year return period is calculated from
+from Table 4-5. evaluating different morphological factors that define the basin under study.
+such as relief. infiltration. vegetation cover and surface storage. The sum
+of the values assigned to each factor corresponds to the value adopted by the coefficient of
+runoff from the basin under evaluation.
+Table 4-7: Runoff Coefficient Evaluation (T=10 years)
+Factor Extreme High Normal Low
+0.28 – 0.35 0.20 – 0
+.28 0.14 – 0.20 0.08 – 0.14
+Relatively flat
+Steep with Mountainous with With hills and
+Relief with earrings
+major slopes slopes between 10 slopes between 5 and 10
+minors
+than 30% and 30%%
+at 5%
+0.12 – 0.16 0.08 – 0.12 0.06 – 0.08 0.04 – 0.06
+Clay or Normal soils. well Deep soils
+Rocky or clay soil
+silty with low drainage. texture sand or other soils
+Infiltration with the ability to
+infiltration capacity. median. well-drained silts with high
+infiltration
+bad sandy. soil capacity
+despicable
+sandy drains infiltration
+0.12 – 0.16 0.08 – 0.12 0.06 – 0.08 0.04 – 0.06
+Little vegetation. land
+Fair to good; 50 Good to excellent; 90
+Poor coverage. cultivated or natural.
+Plant Cover % of the area with % of the area with
+bare land less than 20% of the area
+grasslands or forests. not grasslands. forests or
+or poor coverage with good coverage
+more than 50% grown equivalent coverage
+vegetable
+0.10 – 0.12 0.08 – 0.10 0.06 – 0.08 0.04 – 0.06
+Negligible Storage. few Low. Normal channel system; possibility of
+High capacity. system
+small shallow storage depressions
+Hydrographic surface bit
+superficial. without good good. zones
+defined
+Defined humid humid areas and swamps
+Source: AMP Consultants
+Hydrology Baseline Report
+May 2024 34
+==================================================================================
+PAGE 40
+==================================================================================
+Based on the table and values indicated above, it is adopted to use the coefficients
+of runoff that correspond to the following classification and values:
+• Relief: Normal, value 0.25.
+• Infiltration: High, value 0.12.
+• Vegetation cover: Normal, value 0.07.
+• Surface storage: High, value 0.08.
+The estimation of the runoff coefficient consists of examining the 4 factors,
+selecting the corresponding value for the study area, and adding the contributions
+of these. The resulting coefficient is representative of storms with return periods
+10 years or less, so if storm runoff coefficients are needed
+of longer return periods, it is recommended to amplify the results by 1.1, 1.2 and 1.25
+for return periods of 25, 50 and 100 years, respectively. The runoff coefficient
+for the area of interest is the one presented below:
+Concentration Times
+Concentration times have been evaluated through the use of various formulas
+commonly used empirical studies, including: California Culverts Practice, Giandotti and Normas
+Spanish. Below is the detail of each of them.
+• California Culverts Practice (1942): This formula is an adaptation of Kirpich's formula
+for small mountain basins in California:
+where,
+L: Length of the main channel in km
+H: Maximum slope of the basin in m
+• Giandotti: This formula is used for small basins with a slope, it correlates the
+length of the channel, the contributing area and the difference in level with the time of concentration:
+Hydrology Baseline Report
+May 2024 35
+==================================================================================
+PAGE 41
+==================================================================================
+where,
+L: Length of the main channel in km
+S: Slope of the main channel in m/m
+A: Basin area in km2
+Restriction: The formula is applicable in basins with A < 200 (Ha) and if L/5.4 < T (Hr) < L /3.6.
+c c c
+• Spanish Standards: Formula cited in the Highway Manual, proposed by Témez in 1978
+for natural basins of Spain. This is the most used expression in Spain and is found
+registered in the General Directorate of Highways of said country. The equation is the following:
+where,
+L: Length of the main channel in km
+Sc: Average slope of the main channel in m/m
+In all three cases, the concentration time (Tc) is obtained in minutes.
+Adopted Concentration Times
+The morphometric characteristics of the basins of interest do not meet the restriction
+From the use of the Giandotti formula, consequently, the
+concentration by California and Spanish Standard methods. Table 4-8 presents the
+concentration times for the basins or contributing areas defined in Table 4-1.
+Table 4-8: Concentration Times
+T (minutes)
+c
+Basin
+California Spanish standards Adopted value
+OAT 35-2 6.4 18.8
+12.6
+OAT 22-5 2.6 9.2 10.0
+OAT 11-3 0.6 2.2 10.0
+OAT 11-1 0.3 1.3 10.0
+OAT 1-15 17.2 43.9 30.6
+OAT 1-14 0.5 2.0 10.0
+OAT 1-11 0.8 3.1 10.0
+Hydrology Baseline Report
+May 2024 36
+==================================================================================
+PAGE 42
+==================================================================================
+T (minutes)
+c
+Basin
+California Spanish standards Adopted value
+OAT 1-8 1.9 6.8 10.0
+OAT 7-7 1.0 3.9 10.0
+OAT 7-5 1.8 6.6 10.0
+OAT 7-4 13.0 36.0 24.5
+OAT 1-6 19.4 52.9 36.2
+OAT 7-2 1.0 3.6 10.0
+OAT 5-11 1.3 4.7 10.0
+OAT 5-10 9.2 26.3 17.8
+OAT 2-3 1.2 4.2 10.0
+OAT 2-2 0.4 1.7 10.0
+OAT 2-1 4.4 13.4 10.0
+OAT 1-18 1.2 4.1 10.0
+OAT 1-17 1.7 5.7 10.0
+OAT 1-16 1.1 3.8 10.0
+OAT 38-1 2.3 7.3 10.0
+OAT 22-9 33.5 87.4 60.5
+OAT 22-8 26.5 72.2 49.4
+Source: AMP Consultants
+Maximum Precipitation associated with the Concentration Time tc
+Regarding the maximum precipitation associated with the return period T and the time of
+concentration tc, there are two approximations defined depending on the time of
+basin concentration. On the one hand, if the concentration time is less than 1 hour,
+then the Bell expression defined in the Highway Manual is applied:
+where,
+t: Basin concentration time in minutes
+T: Return period in years
+P 10: It is the maximum precipitation with a return period of 10 years and 1 hour in duration,
+1
+in mm
+Hydrology Baseline Report
+May 2024 37
+==================================================================================
+PAGE 43
+==================================================================================
+On the other hand, if the concentration time is greater than 1 hour, the following is used
+expression:
+where,
+CF: Frequency coefficient for the return period T
+T
+CD; Duration coefficient for concentration time t
+t
+P 10: Maximum precipitation with a return period of 10 years and a duration of 24 hours, in
+24
+mm
+Taking into consideration the rainfall stations evaluated in the Manual of
+Highways Vol. 3, for the definition of the frequency and duration coefficients for the
+different areas of the country, it was decided to use the Carriel Sur DMC station (Concepción), whose
+Distance to the Project works is approximately 10 km. The values the coefficients
+duration are presented in Table 4-9, while the frequency coefficients are
+presented in Table 4-10.
+Table 4-9: Duration Coefficient. Carriel Sur Station (Concepción)
+Station Duration [hr]
+pluviometric 1 2 4 6 8 10 12 14 18 24
+Conception 0.19 0.30 0.39 0.48 0.56 0.64 0.70 0.76 0.90 1.00
+Source: AMP Consultants
+Table 4-10: Frequency Coefficients for different return periods. Carriel South Station
+(Conception)
+Season Return period [years]
+pluviometric 2 5 10 20 25 50 100 150
+Conception 0.68 0.87 1 1.12 1.16 1.28 1.40 1.47
+Source: AMP Consultants
+Precipitation Intensity
+The intensity of precipitation associated with the return period and time of concentration
+of the basin or contributing area is determined by the following expression:
+where,
+Hydrology Baseline Report
+May 2024 38
+==================================================================================
+PAGE 44
+==================================================================================
+P T: Maximum precipitation associated with the return period T and a time of
+tc
+tc concentration, in mm.
+tc: Time of concentration of the basin or contributing area, in hrs.
+Next, Table 4-11 presents the evaluation of precipitation intensities for
+basins or contributing areas of interest for different return periods.
+Table 4-11: Design Precipitation Intensity for Weighted Basin
+Intensity (mm/hr)
+Hour Minute
+T = 2 T = 5 T = 10 T = 20 T = 25 T = 50 T = 100 T = 200
+yes
+years years years years years years years years years
+0.08 5 63.6 82.0 96.0 109.9 114.4 128.3 142.2 156.1
+0.17 10 47.6 61.4 71.8 82.2 85.6 96.0 106.4 116.8
+0.33 20 33.2 42.8 50.1 57.4 59.7 67.0 74.2 81.5
+0.50 30 26.3 34.0 39.7 45.5 47.3 53.1 58.9 64.6
+0.67 40 22.2 28.6 33.5 38.3 39.9 44.7 49.6 54.5
+0.83 50 19.4 25.0 29.2 33.4 34.8 39.0 43.3 47.5
+1.00 60 17.6 22.5 25.9 29.0 30.1 33.2 36.3 39.4
+2.00 120 13.9 17.8 20.5 22.9 23.7 26.2 28.6 31.1
+4.00 240 9.0 11.6 13.3 14.9 15.4 17.0 18.6 20.2
+6.00 360 7.4 9.5 10.9 12.2 12.7 14.0 15.3 16.6
+8.00 480 6.5 8.3 9.5 10.7 11.1 12.2 13.4 14.5
+10.0 600 5.9 7.6 8.7 9.8 10.1 11.2 12.2 13.3
+120, 0 720 5.4 6.9 8.0 8.9 9.2 10.2 11.1 12.1
+140, 0 840 5.0 6.4 7.4 8.3
+8.6 9.5 10.4 11.3
+180, 0 1080 4.6 5.9 6.8 7.6 7.9 8.7 9.5 10.4
+240, 0 1440 3.9 4.9 5.7 6.4 6.6 7.3 8.0 8.6
+0
+Source: AMP Consultants
+Flood Flow Evaluation
+The result of the evaluation of flood flows for the different control points,
+using the Rational method, is presented below, where each of its parameters
+or variables have been determined earlier in this chapter.
+Table 4-12 presents the flood flows for the different basins or contributing areas.
+Table 4-12: Flood Flows
+Return Period
+Basin
+T=5 T=10 T=20 T=25 T=50 T=100 T=150
+Flow rate (m3/s)
+OAT 35-2 0.73 0.85 0.98 1.12 1.37 1.59 1.67
+Hydrology Baseline Report
+May 2024 39
+==================================================================================
+PAGE 45
+==================================================================================
+Return Period
+Basin
+T=5 T=10 T=20 T=25 T=50 T=100 T=150
+Flow rate (m3/s)
+OAT 22-5 0.14 0.16 0.18 0.21 0.26 0.30 0.31
+OAT 11-3 0.01 0.01 0.01 0.02 0.02 0.02 0.03
+OAT 11-1 0.01 0.01 0.01 0.01 0.02 0.02 0.02
+OAT 1-15 2.18 2.55 2.92 3.35 4.10 4.74 4.99
+OAT 1-14 0.02 0.02 0.02 0.03 0.03 0.04 0.04
+OAT 1-11 0.03 0.04 0.05 0.05 0.06 0.07 0.08
+OAT 1-8 0.12 0.15 0.17 0.19 0.23 0.27 0.28
+OAT 7-7 0.08 0.09 0.11 0.12 0.15 0.17 0.18
+OAT 7-5 0.15 0.18 0.20 0.23 0.28 0.33 0.34
+OAT 7-4 1.97 2.31 2.65 3.04 3.72 4.30 4.53
+OAT 1-6 5.37 6.29 7.21 8.26 10.12 11.69 12.34
+OAT 7-2 0.04 0.04 0.05 0.06 0.07 0.08 0.08
+OAT 5-11 0.06 0.07 0.08 0.09 0.11 0.13 0.13
+OAT 5-10 1.16 1.35 1.55 1.78 2.18 2.52 2.65
+OAT 2-3 0.04 0.04 0.05 0.06 0.07 0.08 0.09
+OAT 2-2 0.02 0.02 0.02 0.03 0.03 0.04 0.04
+OAT 2-1 0.26 0.30 0.34 0.39 0.48 0.56 0.59
+OAT 1-18 0.03 0.04 0.04 0.05 0.06 0.07 0.07
+OAT 1-17 0.06 0.07 0.08 0.09 0.11 0.13 0.14
+OAT 1-16 0.09 0.10 0.12 0.13 0.16 0.19 0.20
+OAT 38-1 0.10 0.12 0.14 0.16 0.19 0.22 0.24
+OAT 22-9 4.88 5.60 6.28 7.15 8.61 9.81 10.24
+OAT 22-8 21.43 25.11 28.79 32.97 40.39 46.67 49.24
+Source: AMP Consultants
+4.1.11 Average Monthly Flows
+In order to estimate and determine any flow rate, the characteristics must be understood.
+geomorphological characteristics of the channel and its contributing basin, a summary is presented below
+of these characteristics for the two estuaries under study, Penco and El Cabrito.
+Table 4-133: Geomorphological Characteristics of the Basin
+Estuary at the collection point Parameter Unit Value
+Estero Penco Area km2 10.13
+Minimum height 119 meters above sea level
+Average height 317 meters above sea level
+Hydrology Baseline Report
+May 2024 40
+==================================================================================
+PAGE 46
+==================================================================================
+Maximum height 435 meters above sea level
+Average altitude difference m 198
+Maximum altitude difference m 316
+Length of the Main channel km 5.32
+Slope m/m 0.06
+Estero El Cabrito Area km2 10.07
+Minimum height 85 meters above sea level
+Average height 251 meters above sea level
+Maximum height 435 meters above sea level
+Average altitude difference m 166
+Maximum altitude difference m 350
+Length of the Main channel km 4.51
+Slope m/m 0.08
+Source: AMP Consultants
+Regarding the estimates of the Average Monthly Flows, they are shown below
+for each estuary (Penco and El Cabrito) the hydrographs of monthly average flows for
+different probabilities of exceedance.
+Estero Penco
+Table 4-14: Average Monthly Flows (L/S), for Different Exceedance Probabilities, in the
+Estero Penco Basin
+MONTH APR MAY JUN JUL AUG SEPT OCT NOV DEC JAN FEB MAR
+Adopted Distribution G P N N P P P N P N N P
+50% 53.8 105.9 232.3 257.5 236.6 196.5 121.2 72.0 54.9 34.7 30.1 30.8
+75% 34.8 68.6 145.6 175.8 171.2 136.4 80.1 49.2 33.0 20.5 18.4 20.4
+80% 30.7 62.5 129.7 160.0 158.0 122.9 71.8 44.7 28.5 18.0 16.2 18.6
+85% 26.2 56.5 113.3 143.3 143.9 108.0 63.0 40.1 23.8 15.5 14.1 16.8
+90% 20.9 50.3 95.6 124.7 128.0 90.8 53.1 34.9 18.7 12.8 11.8 14.8
+G — Gumbel Distribution; N — Log-Normal Distribution; P — Log-Pearson Distribution
+Source: AMP Consultants
+Hydrology Baseline Report
+May 2024 41
+==================================================================================
+PAGE 47
+==================================================================================
+Figure 4-122: Seasonal Variation Curves in the Estero Penco Basin for Probabilities of
+Excess from 50% to 90%.
+Source: AMP Consultants
+Estero El Cabrito
+Table 4-15: Average Monthly Flows (L/S), for Different Exceedance Probabilities, in the
+Basin of Estero El Cabrito.
+MONTH APR MAY JUN THUR
+L AUG SEPT OCT NOV DEC JAN FEB MAR
+Adopted Distribution N P N N N P N P P N N P
+50% 51.3 105.9 232.3 257.5 236.6 196.5 115.5 76.4 54.9 33.6 29.2 30.8
+75% 35.6 68.6 145.6 175.8 171.2 136.4 77.7 51.2 33.0 19.9 17.8 20.4
+80% 32.5 62.5 129.7 160.0 158.0 122.9 70.4 45.9 28.5 17.5 15.7 18.6
+85% 29.2 56.5 113.3 143.3 143.9 108.0 62.8 40.3 23.8 15.0 13.6 16.8
+90% 25.6 50.3 95.6 124.7 128.0 90.8 54.4 34.0 18.7 12.4 11.4 14.8
+N—Log-Norm Distribution: P—Log-Pearson Distribution
+Source: AMP Consultants
+Hydrology Baseline Report
+May 2024 42
+==================================================================================
+PAGE 48
+==================================================================================
+Figure 4-133: Seasonal Variation Curves in the Estero El Cabrito Basin for Probabilities of
+Excess from 50% to 90%.
+Source: AMP Consultants
+According to the seasonal variation curves shown above, the highest flows
+(Pex= 50%) are recorded in the autumn and winter months in the two estuaries, showing a
+rainfall regime in the contributing basins. During wet years the
+Greater flows occur between May and September, as a result of the increase in
+rainfall during intra-annual seasons and its proximity to the coast that influences storms
+pluvial, while the minor ones are recorded between January and March. Therefore, the
+dry period of the basin occurs in the summer months.
+As a summary, for both the Penco estuary and the El Cabrito estuary, the
+In the following table the average monthly flow (QMM) estimated in each sector, and is calculated
+also the average annual flow for each estuary (QMA).
+Table 4-166: Average Monthly Flows and Average Annual Flow Esteros Penco and El Cabrito
+FLOW (L/S) JAN FEB MAR APR MAY JUN JUL AUG SEPT OCT NOV DEC QMA
+Average flow
+34.7 30.1 30.8 53.8 105.9 232.3 257.5 236.6 196.5 121.2 72.0 54.9 118.9
+monthly (QMM)
+Penco estuary
+Average flow
+monthly (QMM) 33.6 29.2 30.8 51.3 105.9 232.3 257.5 236.0 196.5 115.5 76.4 54.9 118.4
+El Cabrito estuary
+Source: AMP Consultants
+It is important to indicate that the gauged flows presented in point 4.1.7.3.2, for the
+Esteros Penco and El Cabrito, would indicate a consequence regarding the calculations of the
+Hydrology Baseline Report
+May 2024 43
+==================================================================================
+PAGE 49
+==================================================================================
+average monthly flows indicated in the previous table, so the hydrological regime
+is confirmed for Periods of Excess of 50%.
+4.1.12 Analysis of Potential Adverse Effects on Water Resources
+Considering what is indicated in the document Technical Contents for Environmental Assessment
+of Water Resources (SEA, 2022), the protection objects of the Guide for the description of the
+Area of Influence (SEIA, 2017), and the results presented above, below,
+Possible alterations to the water resource for the area of influence are indicated.
+determined, with special emphasis on the quality of surface waters.
+Change in Water Quality
+The contact surfaces of the area of influence and its associated works are inert, so
+no chemical or physical changes are generated in the water resource. In the case of damages
+indirectly, all necessary measures will be implemented to minimize the effects
+on the quality of the water, avoiding generating pollution of any type that could
+affect the water in the event of runoff (waste, spills, among others), thereby
+that the original quality of the waters of the channel is maintained.
+The potential adverse effects in this area, which can be generated indirectly, are
+described below:
+• Increase in pollution (garbage) in the areas where the area of influence interacts
+with the identified natural channels, as a result of the increase in human traffic,
+specifically workers, who will carry out the construction and operation of the Project.
+• Pollution in areas where the area of influence interacts with natural channels.
+identified, as a result of the collection of material, washing of machinery or transfer of
+dangerous substances.
+The management measures contemplated to avoid the risks mentioned above
+they are:
+• Workers will be constantly trained on the importance of keeping clean
+work areas and the cu
+idad of the water resource. Prohibiting these sectors as a zone
+of recreation.
+• It will be strictly prohibited to store any type of material in the interaction areas.
+between the area of influence and superficial courses.
+• Workers will be prohibited from handling fuel or dangerous substances in the vicinity
+of the channels.
+• The washing of machinery in the channels or in places close to them will be prohibited.
+considering for such purposes to carry out maintenance and washing in authorized centers.
+preferably outside the area of influence.
+Hydrology Baseline Report
+May 2024 44
+==================================================================================
+PAGE 50
+==================================================================================
+• Any waste generated will be immediately removed from the area and disposed of in designated areas.
+duly enabled and authorized, in this way it will be avoided that in the presence of
+runoff the material can be transported through these channels.
+• The transportation of personnel and machinery will be carried out along roads and tracks designated for this purpose.
+prohibiting the use of alternative fingerprints.
+Change in Infiltration or Recharge Pattern
+The construction and operation phase of the Project does not consider the waterproofing of the
+terrain, so the infiltration zones are maintained, and the recharge pattern is not altered.
+Alteration of the Through Underground Flow
+If the presence of underground flow is identified in the construction phase of the
+Project, the nappe must be exhausted in some specific places, however, this
+depletion is negligible to generate a change in the through flow.
+Change in Groundwater Levels
+The project will use water from
+treatment plant and also contemplates the recirculation of a significant percentage through
+which, since there is no groundwater extraction, their levels should not
+present changes as a consequence of the operation of the project.
+Change in Impounded Volume
+In the project location area, the existence of reservoirs and/or
+reservoirs of the water resource, so a change in the impounded volume is not generated.
+Alteration of Channels and Banks
+In the construction phase of the Project, the regularization of construction works is considered.
+channel modification, which is detailed in the corresponding environmental permits.
+These works correspond to a water management system defined mainly by a
+contour channeling that will avoid the contact of rainwater that descends
+through the streams with the disposal zones (ZD)
+For the area of influence associated with the crossings at the 24 points, the Project considers
+earthworks and construction of linear works. The following adverse effect is added
+potential:
+• Pollution resulting from the works carried out in the crossings of the surface courses.
+Therefore, in addition to the measures already considered, a monitoring plan is added.
+for the water resource presented in the corresponding environmental permits.
+Alteration of the Flow Regime
+Hydrology Baseline Report
+May 2024 45
+==================================================================================
+PAGE 51
+==================================================================================
+The Project does not consider the modification of the water resource in any of its phases (not
+contemplates water extraction or discharge of tributaries), therefore, the
+flow regime.
+Modification of the Drainage Network
+The construction and operation of the Project DOES NOT modify the drainage network. Although it is considered
+the construction of crossings in the project area, and water management works are planned
+waters in the rainwater basin, these will be diverted and returned to their natural channel, thus avoiding
+contact with the disposal areas, so the drainage network is maintained.
+Increase in Flood Zone
+The modification of the drainage network or the flow is not considered, so it is not generated.
+increase in the flood zone.
+Change or Elimination of the Body of Water
+The Project does not consider the extraction and/or use of water resources in any of its
+phases, therefore, the amount of available water resource is not affected, that is, it is not
+a change or elimination of the body of water is generated.
+Modification of Hydrodynamics
+Lake
+The construction and operation of the Project, considering the area of influence, does not consider the
+modification of lake hydrodynamics.
+Alteration of the Sedimentological Regime
+The construction and operation of the Project does not consider modification of the water resource that
+generate an alteration of the sedimentological regime.
+Change in the Water Contribution of the Glacier to its Immediate Basin
+In accordance with what is indicated in the Public Inventory of Glaciers 2022 (IPG2022), in the area
+of influence of the Project, the presence of glaciers is not identified, so there is no
+modification of the water resource that generates a change in the water contribution of the glacier to its
+immediate basin.
+Change in the Physical Characteristics of the Glacier
+In accordance with what is indicated in the Public Inventory of Glaciers 2022 (IPG2022), in the area
+of influence of the Project, the presence of glaciers is not identified, so there is no
+modification of the water resource that generates a change in the physical characteristics of the glacier.
+5 Conclusions
+According to the background presented in this report, the following is concluded:
+Hydrology Baseline Report
+May 2024 46
+==================================================================================
+PAGE 52
+==================================================================================
+• The area of influence for the hydrological component corresponds to the area where
+the project will be located, including all areas of direct intervention, related to
+the construction and operation of the Project during its different phases and whose extension
+corresponds to 33 km2.
+• Both the Penco estuary and the Andalién river will not be intervened by the project as
+to its water exploitation (quantity) or its alteration in quality as a consequence of the parties,
+actions and works of the project in all its phases.
+• The control point catchments comprise areas ranging from 0.02 to 7.31 km2, with
+main channels from 45 m to 4.04 km.
+• The basins have a rainfall regime and do not have fluviometric control, therefore,
+The determination of the maximum instantaneous flows has been carried out indirectly.
+• The Penco estuary has been monitored monthly using manual gauging since the year
+2020. Control that is still being carried out. The gauged flows presented at the point
+4.1.7.3.2, for the Esteros Penco and El cabrito, would indicate a consequence regarding the
+calculations of the average monthly flows indicated in the previous table, so the
+hydrological regime is confirmed for Periods of Exceedance of 50% (Average Flow
+Monthly).
+• An analysis of the frequency and goodness of fit of the Concepción DGA stations is carried out.
+Andalién, Carriel Sur, Rafael and Biobío Desembocadura. The method of maximum
+plausibility to evaluate the best fit.
+• Because the study basins have areas smaller than 20 km2, it has been discarded.
+estimate maximum instantaneous flows by precipitation-runoff methods
+recommended by the DGA Manual, which is why the Rational method has been used
+specified in the Highway Manual to obtain the flows of each basin.
+• Regarding article 11 of Law 19,300 General Bases of the Environment, it can be
+indicate that the extraction and/or use of surface waters is not considered, and the
+implementation of management measures to avoid potential indirect adverse effects
+on the water resource, so the Project does not generate changes in terms of the quantity and
+quality of existing water resources.
+• Finally, although the projection models of the behavior of variables that
+intervene in the availability of water resources in the commune of Penco, obtained through
+of the information from the ArClim portal would indicate trends of decrease in said object of
+protection over time, this condition does not play a relevant role in the development of the
+project since said scenario does not constitute negative synergies with any of its
+declared impacts. This is consistent with the fact that the project will not use water
+natural resources that come from the basin for their processes; using alternative sources
+as treated materials for such performance.
+Hydrology Baseline Report
+May 2024 47
+==================================================================================
+PAGE 53
+==================================================================================
+6 References
+• Dir
+General Water Section (1987). Water Balance of Chile.
+• National Water Information System (2023).
+(https://snia.mop.gob.cl/BNAConsultas/reportes)
+• Meteorological Directorate of Chile (2023). (https://climatologia.meteochile.gob.cl/)
+• Ministry of Public Works (2018). Highway Manual, Volume N°3.
+• General Directorate of Water (1995). Manual for Calculation of Floods and Minimum Flows in
+Basins without Fluviometric Information.
+• Chow, Maidment and Mays (1994). Applied Hydrology.
+• Mankuk Consulting & Services (2024). Hydrological Study.
+Hydrology Baseline Report
+May 2024 48

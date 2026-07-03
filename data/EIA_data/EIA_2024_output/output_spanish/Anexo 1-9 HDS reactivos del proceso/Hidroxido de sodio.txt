@@ -1,0 +1,868 @@
+
+================================================================================
+PAGE 1
+================================================================================
+HOJAS DE DATOS DE SEGURIDAD
+M32415 - CHILE - MS
+_________________________________________________________________________________________________
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415
+Fecha de versión: 29/04/2019 Versión: 10
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+SECCIÓN 1. IDENTIFICACIÓN DEL PRODUCTO QUÍMICO Y DE LA
+EMPRESA
+_________________________________________________________________________________________________
+Identificación del producto SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+químico: Sinónimos: Soda cáustica grado diafragma 10 %, 15 %, 18 %, 20 %, 25 %, 30 %,
+35 %, 40 %, 50 %, soda cáustica membrana 6 %, 18 %, 20 %, 25 %, 30 %, 48 %,
+50 %, 50 % soda cáustica membrana OS, 50 % soda cáustica diafragma OS, soda
+cáustica de bajo contenido de sal 50 %, membrana mezclada, 50% soda cáustica
+diafragma (costa oeste), licor de celda de membrana.
+Usos recomendados: Industria de la celulosa, Acabado metálico, Limpiador, Proceso químico, Industria
+del petróleo
+Restricciones de uso: Ninguno identificado
+Nombre del proveedor: Occidental Chemical Chile Limitada
+Dirección del proveedor Avenida Rocoto 2625, Sector Industrial C.A.P, Talcahuano-Chile.
+Número de teléfono del PLANTA OXYCHILE TALCAHUANO:
+proveedor (56) 800 411 212
+(56-41) 256 5503
+Número de teléfono de (56) 800 411 212
+emergencia en Chile: (56-41) 256 5503
+(56-41) 254 4976
+Número de teléfono de
+información toxicológica en CITUC QUIMICO: (56-2) 2247 3600 (emergencias químicas)
+Chile:
+_________________________________________________________________________________________________
+Página: 1 de 20
+================================================================================
+PAGE 2
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Información del fabricante: PLANTA OXYCHILE TALCAHUANO:
+(56) 800 411 212
+(56-41) 256 5503
+(56-41) 254 4976
+Dirección electrónica del proveedor: ventaschile@oxy.com
+_________________________________________________________________________________________________
+SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS
+_________________________________________________________________________________________________
+Clasificación según NCh382
+HIDROXIDO SODICO EN SOLUCION: NU 1824 Primaria: 8 Corrosivo de embalaje: II
+Distintivo según NCh.2190
+Clasificación según SGA:
+PELIGROS FÍSICOS Sustancias y mezclas corrosivas para los metales-Categoría 1.
+SGA: PELIGROS PARA LA SALUD: Corrosión cutánea - Categoría 1.
+SGA: PELIGROS PARA LA SALUD Lesiones oculares graves- Categoría 1.
+SGA: PELIGROS PARA LA SALUD Toxicidad especifica de órganos diana (exposición única)-
+Categoría 3.
+SGA: PELIGROS PARA EL MEDIO AMBIENTE Peligro para el medio ambiente acuático (toxicidad aguda)-
+Categoría 3.
+Palabra de advertencia: PELIGRO
+INDICACIÓNES DE PELIGRO DEL SGA:
+Sistema Globalmente Armonizado (SGA): Indicación de peligro para Riesgos Físicos
+H290 – Puede ser corrosivo para los metales
+Sistema Globalmente Armonizado (SGA): Declaración de Riesgo para Riesgos de Salud
+H314 – Provoca graves quemaduras en la piel y lesiones oculares.
+H318 – Provoca lesiones oculares graves
+H335 - Puede irritar las vías respiratorias.
+Sistema Globalmente Armonizado (SGA): Indicación de peligro para Riesgos Ambientales
+H402 - Nocivo para los organismos acuáticos.
+_________________________________________________________________________________________________
+Página: 2 de 20
+================================================================================
+PAGE 3
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+INDICACIONES DE PRECAUCIÓN DEL SGA:
+Sistema Globalmente Armonizado (SGA): Prevención
+P260 - No respirar la niebla, los vapores ni las pulverizaciones
+P280 - Usar guantes y vestimenta de protección y protección para los ojos y la cara
+P264 - Lavar bien la piel y la vestimenta contaminada después de la manipulación
+P271 - Usar sólo al aire libre o en un área bien ventilada
+P270 - No comer, beber ni fumar cuando se usa el producto
+P234 - Conservar sólo en el recipiente original
+P273 - No liberar en el medioambiente
+Sistema Globalmente Armonizado (SGA): Respuesta
+P305 + P351 + P338 - SI CAE EN LOS OJOS - Enjuagar cuidadosamente con agua durante varios minutos. Retirar
+las lentes de contacto, si se puede hacer fácilmente. Continuar enjuagando
+P310 - Llamar de inmediato a un CENTRO DE TOXICOLOGÍA o al médico
+P301 + P330 + P331 – SI SE INGIERE: Enjuagar la boca. NO inducir el vómito
+P303 + P361 + P353: SI CAE SOBRE LA PIEL (o el cabello): Quitarse de inmediato la vestimenta contaminada.
+Enjuagar la piel con agua/ducha
+P363 - Lavar la vestimenta contaminada antes de volver a usarla
+P304 + P340 - SI SE INHALA: Llevar la víctima al aire libre y mantenerla en reposo en una posición cómoda para
+respirar
+P321 - tratamiento específico (ver información de Primeros Auxilios en la etiqueta del producto y/o en la Sección 4
+de la SDS)
+P301 + P310 - SI SE INGIERE, Llamar a un CENTRO DE TOXICOLOGÍA o al médico si no se siente bien
+P330 - Enjuagar la boca si se ingiere
+P307 + P311: en caso de exposición: llamar a un CENTRO DE TOXICOLOGÍA o al médico
+P390 - Absorber el derrame para evitar el daño del material
+Sistema Globalmente Armonizado (SGA): Almacenamiento
+P405 - Almacenar de forma segura
+P403 + P233 - Almacenar en un lugar bien ventilado. Mantener el recipiente bien cerrado
+P406: almacenar en recipientes resistentes a la corrosión que NO SEAN DE ALUMINIO con un revestimiento
+interior resistente (NOTA: si se usan recipientes de aluminio y/o mecanismos de aluminio se puede generar gas
+hidrógeno inflamable)
+Sistema Globalmente Armonizado (SGA): Eliminación
+P501 - Eliminar el contenido/contenedor conforme a las reglamentaciones locales, regionales, nacionales y/o
+internacionales
+_________________________________________________________________________________________________
+Página: 3 de 20
+================================================================================
+PAGE 4
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Etiqueta SGA
+Corrosivo, Signo de exclamación
+Señal de seguridad según NCh1411/4
+0
+3 1
+Clasificación específica
+No tiene.
+Distintivo específico
+No tiene.
+Descripción de peligros
+RIESGOS PRINCIPALES PARA LA SALUD: Corrosivo. Provoca daño ocular grave. Causa ardor intenso en la
+piel y daño ocular. Puede provocar irritación respiratoria. Se pueden retrasar los efectos del contacto o inhalación.
+TOXICIDAD ACUÁTICA: Este material ha demostrado toxicidad moderada para los organismos acuáticos.
+Mantener alejado de suministros de agua y desagües. Este material es alcalino y puede aumentar el pH de las
+aguas de superficie.
+Descripción de peligros específicos
+RIESGOS FÍSICOS: Puede ser corrosivo con los metales. La mezcla con agua, ácido o materiales
+incompatibles puede causar salpicaduras y liberación de grandes cantidades de calor. No almacenar en
+recipientes de aluminio ni usar mecanismos o líneas de transferencia de aluminio, debido a que se puede generar
+un gas hidrógeno inflamable.
+Otros peligros
+Ninguno.
+_________________________________________________________________________________________________
+Página: 4 de 20
+================================================================================
+PAGE 5
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+_________________________________________________________________________________________________
+SECCIÓN 3. COMPOSICIÓN/INFORMACIÓN DE LOS COMPONENTES
+_________________________________________________________________________________________________
+Naturaleza química del preparado: Mezcla
+Composición/información sobre los componentes
+Componente 1 Componente 2 Componente 3
+Denominación química Monóxido de Hidróxido de sodio Cloruro de sodio
+sistemática dihidrógeno
+Nombre común o genérico Agua Hidróxido de sodio Cloruro de sodio
+Rango de Concentración 48.5 - 94.5 % 5.5 - 51.5 % 0 – 35%
+Número CAS 7732-18-5 1310-73-2 7647-14-5
+Número EINECS 231-791-2 215-185-5 231-598-3
+__________________________________________________________________________________________
+SECCIÓN 4. PRIMEROS AUXILIOS
+_________________________________________________________________________________________________
+INHALACIÓN:
+Si se inhala vapor o gas y se producen efectos adversos, traslade a la persona a un área no contaminada. Determine
+si hay constricción de vías aéreas si hay respiración y si la sangre está circulando y trate los síntomas. Los individuos
+expuestos pueden beneficiarse con aire humidificado u oxígeno humidificado. OBTENER ATENCIÓN MÉDICA
+INMEDIATA. Las exposiciones agudas significativas pueden producir edema pulmonar tardío. No hay un antídoto
+específico, trate de manera sintomática.
+CONTACTO CON LA PIEL:
+Corrosivo. Este material puede ser corrosivo al contacto con cualquier tejido. Puede causar quemaduras graves y
+destrucción tisular extensa teniendo como resultado: licuefacción, necrosis y/o perforación. Aplique inmediatamente
+agua en forma abundante durante al menos 15 minutos en las áreas contaminadas. Quítese toda la indumentaria,
+joyas y zapatos contaminados. OBTENER ATENCIÓN MÉDICA INMEDIATA. Lave y seque meticulosamente la
+ropa contaminada antes de volver a usarla. Deseche los artículos de cuero contaminados.
+CONTACTO CON LOS OJOS:
+Si ha habido contacto con los ojos, enjuague de inmediato con el chorro de agua directo por el tiempo que lo pueda
+hacer. Quitar las lentes de contacto, si lleva y resulta fácil. Seguir aclarando. CONSULTE A UN MÉDICO DE
+INMEDIATO. Enjuagar los ojos en cuestión de segundos es esencial para lograr la máxima eficacia.
+INGESTIÓN:
+Si se ingiere, no induzca el vómito. En caso de ingestión cierta o probable, no administre fluidos por vía oral. Si el
+vómito se produce de forma espontánea, mantenga despejadas las vías respiratorias. Controle las vías
+respiratorias. Puede requerirse reanimación volumétrica (fluidos IV) y asistencia circulatoria (CPR). Nunca
+administre nada por vía oral a una persona inconsciente o con convulsiones. OBTENGA ATENCIÓN MÉDICA
+INMEDIATAMENTE.
+_________________________________________________________________________________________________
+Página: 5 de 20
+================================================================================
+PAGE 6
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+EFECTOS AGUDOS PREVISTOS:
+Inhalación (Respiración): Efectos en el sistema respiratorio: la exposición al material suspendido en el aire puede
+causar irritación, enrojecimiento de las vías respiratorias superiores e inferiores, tos, laringoespasmo y edema,
+dificultades respiratorias, broncoconstricción y posible edema pulmonar. Puede producir cicatrices graves y
+permanentes. Puede desarrollarse edema pulmonar varias horas después de una exposición grave y aguda.
+Aspirar este material puede provocar los mismos trastornos.
+Piel: Corrosión en la piel. La exposición de la piel puede causar enrojecimiento, picazón, irritación, hinchazón,
+quemaduras (de primero, segundo o tercer grado), licuefacción de la piel y daño a los tejidos subyacentes (heridas
+profundas y dolorosas).
+Ojos: Daños graves a los ojos. Las exposiciones de los ojos pueden causar quemaduras en los párpados,
+conjuntivitis, edema corneal, quemadura corneal, perforación corneal, daño a los contenidos del ojo, defectos
+visuales permanentes y ceguera y/o pérdida del ojo.
+Ingestión (Tragando): Efectos en el aparato gastrointestinal: La exposición por ingestión puede causar irritación,
+inflamación y perforación de los tejidos gastrointestinales altos. Se pueden presenter cicatrizaciones permanentes.
+EFECTOS RETARDADOS PREVISTOS:
+Piel: el contacto reiterado y prolongado con la piel puede provocar dermatitis crónica
+PROTECCIÓN DE QUIENES BRINDAN LOS PRIMEROS AUXILIOS:
+Protéjase evitando el contacto con este material. Evitar contacto con la piel y los ojos. No respirar la niebla, los
+vapores ni las pulverizaciones. No ingiera. Use equipo de protección personal. Como mínimo, al tratar al personal,
+debe usarse suficiente equipo de protección personal para prevenir la transmisión de agentes patógenos por
+sangre. Consulte la sección 8 para ver recomendaciones específicas de equipo de protección personal.
+La interacción con Otros Productos químicos Que Realzan la Toxicidad: No se conoce ninguno.
+CONDICIONES MÉDICAS AGRAVADAS POR EXPOSICION:
+Puede agravar enfermedades preexistentes, tales como trastornos oculares que disminuyen la producción de
+lágrimas o que reducen la integridad del ojo; trastornos cutáneos que comprometen la integridad de la piel; y
+enfermedades respiratorias como asma y otros trastornos respiratorios.
+NOTAS ESPECIALES PARA UN MÉDICO TRATANTE:
+Se recomienda la observación y evaluación médica en todos los casos de ingestión y exposición ocular, así como
+de inhalación y exposición cutánea sintomática. En los casos de ingestión sintomática, no administre fluidos por vía
+oral y considere la exploración mediante endoscopía, radiografía o tomografía computada (TAC). Es posible que se
+produzca perforación esofágica, compromiso de las vías respiratorias, hipotensión y shock. En caso de exposición
+prolongada y significativa, considere lesiones tardías en los tejidos expuestos. No hay antídoto. El tratamiento
+consiste en cuidados paliativos. Siga los parámetros normales para las vías respiratorias, respiración y circulación.
+Es posible que se requiera intervención quirúrgica.
+_________________________________________________________________________________________________
+Página: 6 de 20
+================================================================================
+PAGE 7
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+SECCIÓN 5. MEDIDAS PARA LUCHA CONTRA INCENDIOS
+_________________________________________________________________________________________________
+AGENTES DE EXTINCIÓN:
+Use agentes de extinción apropiados para fuego circundante.
+AGENTES DE EXTINCIÓN INAPROPIADOS:
+No usar agua directamente al producto porque puede proyectar el material y propagar el incendio por el calor que
+genera con el agua.
+PRODUCTOS QUE SE FORMAN EN LA COMBUSTIÓN Y DEGRADACIÓN TERMICA:
+Sustancia no combustible, en sí misma no produce combustión, pero se puede descomponer en contacto con el
+calor provocando emanaciones corrosivas y/o tóxicas.
+PELIGROS ESPECÍFICOS ASOCIADOS:
+Puede reaccionar con metales químicamente reactivos como aluminio, zinc, magnesio, cobre, etc., para liberar gas
+hidrógeno que puede formar mezclas explosivas en el aire. Pueden generarse emanaciones del hidróxido de sodio
+por descomposición térmica a temperaturas elevadas.
+MÉTODOS ESPECÍFICOS DE EXTINCIÓN:
+Use agentes de extinción apropiados para fuego circundante.
+PRECAUCIONES PARA EL PERSONAL DE EMERGENCIA Y/O LOS BOMBEROS:
+Si puede hacerlo sin riesgo, retire el recipiente del área de incendio. Refrigerar los recipientes con agua. No aplique
+agua directamente sobre este producto. El calor se genera cuando se mezcla con agua. Use un respirador
+autocontenido de presión positiva aprobado por NIOSH operado en el modo de demanda de presión. Evitar el
+contacto con la piel.
+Componente Inmediatamente Peligroso para la Vida y Salud
+(IDLH)
+Hidróxido de sodio 10 mg/m3 IDLH
+1310-73-2 (5.5 - 51.5 %)
+SENSIBILIDAD A IMPACTO MECÁNICO: No sensible.
+SENSIBILIDAD A DESCARGA ESTÁTICA: No sensible.
+LIMITE INFERIOR DE IGNICION: No inflamable.
+LIMITE SUPERIOR DE COMBUSTION: No inflamable.
+PUNTO DE INFLAMACIÓN: No inflamable.
+AUTOIGNICION: No corresponde.
+_________________________________________________________________________________________________
+Página: 7 de 20
+================================================================================
+PAGE 8
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+_________________________________________________________________________________________________
+SECCIÓN 6. MEDIDAS QUE SE DEBEN TOMAR EN CASO DE
+DERRAME ACCIDENTAL
+_________________________________________________________________________________________________
+PRECAUCIONES PERSONALES:
+Evite el contacto con los ojos, la piel o la vestimenta. Evite inhalar niebla, vapor o atomización. No ingiera. Aislar
+el lugar y evacuar al personal del área hacia un sector previamente establecido. Eliminar toda fuente de ignición y
+materiales incompatibles. Ventilar el área y contener el derrame para evitar su propagación.
+EQUIPOS PROTECCIÓN:
+Para derrames y/o emergencias con concentraciones desconocidas, usar equipo de respiración autónoma
+aprobado por NIOSH o respirador con máscara completa y con suministro de aire, guantes de nitrilo o neopreno,
+ropa y botas de goma resistentes a los productos químicos. Use el equipo personal adecuado recomendado en la
+Sección 8, Controles de exposición/Protección personal, de la Hoja de datos.
+PROCEDIMIENTOS DE EMERGENCIA:
+Evacuar el área en caso de grandes derrames. Mantener alejando del área al personal innecesario. Aislar el
+área de peligro y negar el acceso.
+PRECAUCIONES MEDIOAMBIENTALES
+Mantener fuera del suministro de agua y de sumideros. No echar a aguas superficiales o al sistema de alcantarillado
+sanitario. Esta sustancia es alcalina y puede elevar el pH de las aguas superficiales con baja capacidad de
+amortiguación. De ser necesario, se debe informar sobre las fugas a las agencias adecuadas.
+MÉTODOS Y MATERIALES DE CONTENCIÓN, CONFINAMIENTO Y/O ABATIMIENTO:
+En caso de derrame o fuga, se debe detener la fuga tan pronto como sea posible, si fuera seguro hacerlo. Contener
+completamente los derrames de sustancias con sacos de arena, diques de contención, etc.
+MÉTODOS Y MATERIALES DE LIMPIEZA:
+Recuperación : Utilizar una pala para colocar las sustancias secas en el recipiente
+adecuado. Las sustancias líquidas se pueden remover con un camión
+succionador. En lo posible, recuperar el producto mediante el empleo
+de un sistema de bombeo o absorción con material inerte. El producto
+recuperado transferirlo a recipientes apropiados y compatibles (acero
+inoxidable, PVC, fibra de vidrio o similar).
+Neutralización : El material restante puede ser diluido con agua (No aplique agua
+directamente sobre este producto. El calor se genera cuando se mezcla
+con agua) y neutralizado con ácido diluido, posteriormente debe ser
+absorbido y retirado. Si es posible, enjuagar con agua el área del
+derrame.
+Disposición final : Disponer de acuerdo a lo establecido por el DS 148.
+Medidas adicionales de prevención de desastres:
+No disponible.
+_________________________________________________________________________________________________
+Página: 8 de 20
+================================================================================
+PAGE 9
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+_________________________________________________________________________________________________
+SECCIÓN 7. MANIPULACIÓN Y ALMACENAMIENTO
+_________________________________________________________________________________________________
+MANIPULACIÓN:
+Precauciones para la manipulación segura: No respirar vapor o niebla. No permita que entre en contacto con los
+ojos, la piel o la indumentaria. Lávese minuciosamente después de manipular. No ingiera. No coma, beba o fume
+en áreas donde se use este material. Para trabajar en el laboratorio, se recomienda manipular bajo campana
+extractora. Las soluciones se forman adicionando lentamente este producto sobre el agua. Evitar la inhalación de
+rocío, asegurarse que el envase se encuentre bien cerrado antes de moverlo. No enjuagar, ni volver a usar el
+recipiente.
+Medidas operacionales y técnicas: Evitar el contacto con la piel, los ojos y la indumentaria. Si se necesita
+trasvasijar, usar dispositivos adecuados y seguros, nunca succionar con la boca. Utilizar el producto en condiciones
+de buena ventilación. Manipular lejos de productos incompatibles, utilizando equipamiento de protección como
+respirador con filtros para gases corrosivos, guantes de caucho natural, zapatos de seguridad y ropa protectora. Se
+prohíbe fumar, comer y beber en el área de almacenamiento. Una vez abiertos los envases, cerrarlos
+cuidadosamente y colocarlos verticalmente para evitar derrames.
+Otras precauciones: Al manipular el producto en bidones o tambores, se debe utilizar calzado de seguridad, faja
+e implementos / herramientas adecuadas para moverlos. Las fuentes de lavaojos de emergencia y duchas de
+seguridad deben estar situadas en la proximidad inmediata. Disponer de elementos para la contención de derrames
+y de filtraciones. Tener el equipo apropiado para combatir incendios (ejemplo: extintores portátiles). Disponer de
+señales de “No Fumar” en las áreas de almacenaje.
+Prevención del contacto: No utilizar junto con materiales incompatibles.
+ALMACENAMIENTO:
+Condiciones de almacenamiento seguro: Almacene y manipule de acuerdo con todas las normas y estándares
+actuales. Mantenga el contenedor cerrado con seguridad y etiquetado correctamente. No almacenar en recipientes
+de aluminio ni usar accesorios o líneas de transferencia de aluminio dado que puede generarse gas hidrógeno
+inflamable.
+Medidas técnicas: Evitar el contacto con metales ya que, el contacto con algunos metales genera hidrógeno el
+cual es inflamable.
+Sustancias y mezclas incompatibles: Ácidos y compuestos halogenados, Contacto prolongado con aluminio,
+latón, bronce, cobre, plomo, estaño, cinc u otros metales o aleaciones sensibles al álcali, Libera calor cuando se
+diluye en agua
+Material de envase y/o embalaje:
+Recomendados Se recomiendan envases de: polietileno de alta densidad; fibra de vidrio, acero inoxidable. Acero
+revestido interiormente con PVC, FRP u otro similar y compatible. Además, debe poseer un dispositivo adecuado
+de alivio de presión. Otros materiales resistentes a la corrosión son el titanio, tantalio y FRP.
+No se recomiendan envases como: plásticos de baja densidad; latón, zinc, bronce, cobre, aluminio, hierro y
+aleaciones de estos metales.
+_________________________________________________________________________________________________
+Página: 9 de 20
+================================================================================
+PAGE 10
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+SECCIÓN 8. CONTROLES DE EXPOSICIÓN/ PROTECCIÓN PERSONAL
+_________________________________________________________________________________________________
+CONCENTRACIÓN MÁXIMA PERMISIBLE:
+Componente Argentina OELs Brasil CHILE Límites Valores Límite Australia
+de Exposición de Exposición
+Ocupacional
+(OELS) de
+México
+Hidróxido de sodio 2 mg/m3 (Ceiling) ----- 2 mg/m3 (LPA) 2 mg/m3 (Ceiling) 2 mg/m3 (Peak)
+1310-73-2
+Componente China Nueva Zelanda Valores Límite OEL Turco Corea
+de Exposición
+Ocupacional
+(OELS) de
+Taiwán
+Hidróxido de sodio 2 mg/m3 (Ceiling) 2 mg/m3 (Ceiling) 2 mg/m3 TWA ----- 2 mg/m3 (Ceiling)
+1310-73-2
+Componente Filipinas Japón Estados Unidos Estados Unidos Estados Unidos
+8 hora promedio Nivel de Límite de Techo
+ponderado exposición de
+corto plazo de
+15 minuto
+Hidróxido de sodio 2 mg/m3 (TWA) 2 mg/m3 (Ceiling) 2 mg/m3 ----- -----
+1310-73-2
+LÍMITES DE EXPOSICIÓN NO REGULADOS: Se enumeran a continuación
+Componente Número ACGIH TWA A CGIH STEL ACGIH OSHA TWA OSHA STEL OSHA
+CAS CEILING (anulado) (anulado) TECHO
+(anulado)
+Hidróxido de 1310-73-2 ----- ----- 2 mg/m³ ----- ----- 2 mg/m3
+sodio
+LPA: Límite Permisible Absoluto (DS 594); OEL: Nivel de Exposición Ocupacional; OSHA: Administración de
+Seguridad y Salud Ocupacional; PEL: Nivel de Exposición Aceptable; TWA: Promedio de Tiempo Ponderado;
+STEL: Nivel de Exposición a Corto Plazo.
+- La Conferencia Norteamericana de Higienistas Industriales Gubernamentales (ACGIH) es una organización
+voluntaria de personal industrial de higiene en instituciones gubernamentales o educativas en Estados Unidos. La
+ACGIH desarrolla y publica cada año límites de exposición ocupacional recomendados denominados Valores Límite
+Umbral (TLV) para cientos de sustancias químicas, agentes físicos e índices de exposición biológica.
+_________________________________________________________________________________________________
+Página: 10 de 20
+================================================================================
+PAGE 11
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+ELEMENTOS DE PROTECCIÓN PERSONAL:
+Protección respiratoria: Es posible que se permita un respirador aprobado con cartuchos de N95 en ciertas
+circunstancias en las que se prevea que las concentraciones en el aire excedan los límites de exposición o cuando
+se hayan observado síntomas que sean indicativos de sobreexposición. Si se produce irritación ocular, se debe
+utilizar una máscara de tipo de rostro completo. Cuando las condiciones del lugar de trabajo justifiquen el uso de
+un respirador, se deberá seguir un programa de protección respiratoria que cumpla con los requisitos
+reglamentarios aplicables.
+Protección de manos: Use guantes apropiados resistentes a los productos químicos. Consulte con un proveedor
+de guantes para obtener asesoramiento cuando elije un guante apropiado resistente a sustancias químicas.
+Protección de ojos: Cuando corresponda, usar gafas de seguridad para productos químicos con protección facial
+contra el contacto ocular y cutáneo. Instale una fuente para el lavado de emergencia de los ojos y una regadera de
+presión en la zona de trabajo inmediato.
+Protección de la piel y cuerpo: Utilice ropa de protección para reducir al mínimo el contacto con la piel. Utilizar
+vestimenta resistente a sustancias químicas y botas de caucho cuando exista la posibilidad de entrar en contacto
+con el material. Coloque siempre los pantalones sobre las botas. Se deben quitar las prendas contaminadas y luego
+ser descartadas o lavadas. Descartar los materiales de cuero contaminados. Tipos de materiales de protección:
+caucho natural, neopreno, nitrilo, cloruro de polivinilo (PVC), Tyvek, Tychem
+Componente Inmediatamente Peligroso para la Vida y Salud
+(IDLH)
+Hidróxido de sodio 10 mg/m3 IDLH
+MEDIDAS DE INGENIERÍA
+Utilice ventilación aspirada local donde se puede generar polvo o vaho. Asegure el cumplimiento de los límites de
+exposición que corresponden. Emplear de acuerdo con las normas de seguridad y buenas prácticas de higiene
+industrial. Lavarse las manos inmediatamente después de utilizar el producto, antes de los períodos de descanso
+y al finalizar el día laboral. No comer o beber al utilizar. No fumar al utilizar.
+_________________________________________________________________________________________________
+SECCIÓN 9. PROPIEDADES FÍSICAS Y QUÍMICAS
+_________________________________________________________________________________________________
+ESTADO FÍSICO : Líquido.
+FORMA EN QUE SE Transparente a opaco.
+PRESENTA:
+COLOR: Incoloro a levemente coloreado.
+OLOR: Inodoro.
+pH 14,0 (valor teórico de solución al 7,5 %)
+PUNTO DE
+FUSIÓN/CONGELACION: No corresponde / -26 to 59°F (-32 to 15 °C).
+PUNTO DE EBULLICIÓN, 215 - 291°F (102 - 144°C)
+PUNTO INICIAL DE
+EBULLICIÓN Y RANGO DE
+EBULLICIÓN:
+_________________________________________________________________________________________________
+Página: 11 de 20
+================================================================================
+PAGE 12
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+PUNTO DE INFLAMACIÓN: No inflamable
+LÍMITES DE EXPLOSIVIDAD:
+PRESION DE VAPOR: 13 - 135 mmHg @ 60 °C
+DENSIDAD RELATIVA DEL
+VAPOR (aire = 1): No existen datos disponibles
+DENSIDAD 8.8 - 13.0 lbs/gal @ 15.6 °C
+SOLUBILIDAD(ES): 100% (en agua)
+COEFICIENTE DE PARTICION
+n-octanol/agua: No hay datos disponibles
+TEMPERATURA DE
+AUTOIGNICION: No corresponde
+TEMPERATURA de
+DESCOMPOSICIÓN: No hay datos disponibles
+UMBRAL DE OLOR: No hay datos disponibles.
+TASA DE EVAPORACION No existen datos disponibles
+INFLAMABILIDAD: No inflamable
+VISCOSIDAD 24 cp (50 % de solución a 40°C (104°F))
+PESO MOLECULAR: 40.01
+FORMULA MOLECULAR: NaOH
+_________________________________________________________________________________________________
+SECCIÓN 10. ESTABILIDAD Y REACTIVIDAD
+_________________________________________________________________________________________________
+Estabilidad química: Soluble en agua; libera calor suficiente como para encender combustibles. Reaccionará con
+algunos metales formando gas hidrógeno inflamable. Estable a temperaturas y presión normales.
+Reacciones peligrosas: La mezcla con agua, ácido o materiales incompatibles puede provocar salpicaduras y la
+liberación de grandes cantidades de calor. Reaccionará con algunos metales formando gas hidrógeno inflamable.
+El gas monóxido de carbono puede formarse por el contacto con azúcares reductores, productos alimenticios y
+bebibles en espacios cerrados.
+Condiciones que se deben evitar: (por ejemplo, descarga estática, choque o vibración): Desconocido.
+Materiales incompatibles: Ácidos y compuestos halogenados. Contacto prolongado con aluminio, latón, bronce,
+cobre, plomo, estaño, cinc u otros metales o aleaciones sensibles al álcali. Libera calor cuando se diluye en agua.
+Productos de descomposición peligrosos: Gases tóxicos de óxido de sodio. Polimerización no ocurrirá
+_________________________________________________________________________________________________
+Página: 12 de 20
+================================================================================
+PAGE 13
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+_________________________________________________________________________________________________
+SECCIÓN 11. INFORMACIÓN TOXICOLÓGICA
+_________________________________________________________________________________________________
+Toxicidad aguda (LD y LC ):
+50 50
+DATOS DE TOXICIDAD DEL PRODUCTO: SODA CAUSTICA LIQUIDA
+LD Oral LD Dérmico LC Inhalación
+50 50 50
+No se dispone de datos confiables N o se dispone de datos confiables No hay datos disponibles
+DATOS DE TOXICIDAD DEL COMPONENTE:
+Nota: Los datos de toxicidad del componente está poblada por la base de datos LOLI y pueden diferir de los datos de
+toxicidad del producto dado.
+Componente LD Oral LD Dérmico LC Inhalación
+50 50 50
+Agua 90 mL/kg (Rata) ----- -----
+7732-18-5
+Hidróxido de sodio 140-340 mg/kg 1350 mg/kg (Conejo) -----
+1310-73-2
+Cloruro de sodio 3 g/kg (Rata) ----- 42 g/m3 (1 h-Rata)
+7647-14-5
+Irritación/corrosion cutánea : Corrosivo. Puede causar quemaduras severas. La exposición
+prolongada y repetida puede causar dermatitis. IRRITACIÓN
+PRIMARIA EN LA PIEL: Irritación Severa, Corrosivo (conejo, 24 h)
+IRRITACIÓN PRIMARIA EN LOS OJOS: Irritación Severa, Corrosivo
+(conejo, 24 h).
+Lesiones oculares : Corrosivo. Puede causar daño ocular grave resultando en: irritación
+graves/irritación ocular severa, dolor, quemaduras y daño permanente incluyendo ceguera.
+Sensibilización respiratoria o : La sustancia no se clasifica como sensibilizante según SGA.
+cutánea
+Mutagenicidad de células : La sustancia no se clasifica como mutagénico de células reproductoras
+reproductoras /in vitro según SGA. No se identifica ningún componente de este producto, que
+Carcinogenicidad: presente niveles mayores que o igual a 0,1% como agente carcinógeno
+humano probable, posible o confirmado por la (IARC).
+Toxicidad reproductiva : La sustancia no se clasifica como tóxica para la reproducción, según
+SGA.
+Toxicidad específica en : Puede causar irritación de las vías respiratorias.
+órganos particulares-
+exposición única
+Toxicidad específica en : Estudios mostraron que el hidróxido de sodio al 40% de concentración:
+órganos particulares- todas las ratas expuestas murieron en su mayoría de la
+exposiciones repetidas bronconeumonía.
+Con hidróxido de sodio al 20% de concentración los tabiques de las ratas
+estaban dilatados y agrietados, los bronquios se dilataron y su cobertura
+epitelial era delgada.
+_________________________________________________________________________________________________
+Página: 13 de 20
+================================================================================
+PAGE 14
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Peligro de inhalación : A una concentración de aerosoles NaOH de 750 mg/L, 11 animales
+mostraron laringitis aguda después de 1 hora y después de 1 día
+después de la exposición. La gravedad media de las lesiones fue 1,58 (1
+hora después de la exposición) y 1,25 (después de la exposición).
+Toxicocinética : No disponible.
+Metabolismo : No disponible.
+Distribución : No disponible.
+Patogenicidad e infecciosidad Puede causar una reacción inflamatoria de los bronquios o disfunción
+aguda (oral, dérmica e obstructiva de las vías respiratorias.
+inhalatoria)
+Disrupción endocrina : La sustancia no se clasifica como disruptor endocrino según SGA.
+Neurotoxicidad : No disponible.
+Inmunotoxicidad : No disponible.
+Síntomas relacionados : Esta sustancia puede causar quemaduras graves y daños permanentes
+en cualquier tejido con el cual esté en contacto. Puede causar
+quemaduras graves y destrucción tisular extensa teniendo como
+resultado: licuefacción, necrosis y/o perforación. Los signos y síntomas
+de la exposición varían y dependen de la ruta, el grado y la duración de
+la exposición.
+Inhalación (Respiración): Efectos en el sistema respiratorio: la
+exposición al material suspendido en el aire puede causar irritación,
+enrojecimiento de las vías respiratorias superiores e inferiores, tos,
+laringoespasmo y edema, dificultades respiratorias, broncoconstricción y
+posible edema pulmonar. Puede producir cicatrices graves y
+permanentes. Puede desarrollarse edema pulmonar varias horas
+después de una exposición grave y aguda. Aspirar este material puede
+provocar los mismos trastornos.
+Piel: Corrosión en la piel. La exposición de la piel puede causar
+enrojecimiento, picazón, irritación, hinchazón, quemaduras (de primero,
+segundo o tercer grado), licuefacción de la piel y daño a los tejidos
+subyacentes (heridas profundas y dolorosas
+Ojos: Daños graves a los ojos. Las exposiciones de los ojos pueden
+causar quemaduras en los párpados, conjuntivitis, edema corneal,
+quemadura corneal, perforación corneal, daño a los contenidos del ojo,
+defectos visuales permanentes y ceguera y/o pérdida del ojo.
+Ingestión (Tragando): Efectos en el aparato gastrointestinal: La
+exposición por ingestión puede causar irritación, inflamación y
+perforación de los tejidos gastrointestinales altos. Se pueden presentar
+cicatrizaciones permanentes.
+_________________________________________________________________________________________________
+Página: 14 de 20
+================================================================================
+PAGE 15
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+SECCIÓN 12. INFORMACIÓN ECOLÓGICA
+_________________________________________________________________________________________________
+ECOTOXICIDAD (EC, IC y LC):
+Componente Toxicidad Acuática: P eces de agua Toxicidad en Toxicidad de OTRA
+dulce invertebrados: algas: TOXICIDAD:
+Cloruro de sodio ----- ----- 340.7 - 469.2 ----- -----
+7647-14-5 (0 - 35 mg/L CE = 1000
+50
+%) mg/L CE
+50
+PERSISTENCIA Y DEGRADABILIDAD: Este material es alcalino y puede aumentar el pH de las aguas de superficie
+con baja capacidad de tamponamiento.
+Se cree que este material existe en estado disociado en el medio ambiente. Este material es inorgánico y no se
+biodegrada. BIOCONCENTRACION: no se espera que se bioconcentre en los organismos.
+POTENCIAL DE BIOACUMULACION: No bioacumulable.
+MOVILIDAD EN SUELO: No se dispone de datos.
+OTROS EFECTOS ADVERSOS: De acuerdo a los ensayos ecotoxicologicos, el producto es clasificado como nocivo
+para los organismos acuáticos por exposición aguda (H402, Categoría 3).
+_________________________________________________________________________________________________
+SECCIÓN 13. INFORMACIÓN SOBRE LA DISPOSICIÓN FINAL
+_________________________________________________________________________________________________
+Residuos: Se puede reutilizar o volver a procesar. Es posible que esté sujeto a reglamentaciones de eliminación.
+Desechar de acuerdo a las regulaciones apropiadas. El residuo puede ser considerado “peligroso”, según DS 148:
+Reglamento sanitario sobre manejo de residuos peligrosos.
+Envase y embalaje contaminados: Eliminar el contenedor según las normas aplicables en el ámbito local, regional,
+nacional e internacional. Almacenar los envases según políticas internas de la empresa y en el ámbito nacional
+disponer según lo establecido en el DS 148.
+Material contaminado: Los restos materiales contaminados se deben disponer de acuerdo a lo establecido en el DS
+148.
+_________________________________________________________________________________________________
+Página: 15 de 20
+================================================================================
+PAGE 16
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+SECCIÓN 14. INFORMACION SOBRE EL TRANSPORTE
+_________________________________________________________________________________________________
+Modalidad de transporte
+Terrestre Marítima Aérea
+Regulaciones DS298 IMDG IATA
+Número NU 1824 1824 1824
+Designación oficial de HIDROXIDO SODICO EN HIDROXIDO SODICO EN HIDROXIDO SODICO
+transporte SOLUCION SOLUCION EN SOLUCION
+Clasificación de peligro 8 8 8
+primario NU
+Clasificación de peligro No tiene No tiene No tiene
+secundario NU
+Grupo embalaje/envase II II II
+Peligros ambientales Ver sección 12 Ver sección 12 Ver sección 12
+Precauciones especiales No aplica No aplica No aplica
+Transporte a granel de acuerdo con Marpol La sustancia entraña riesgos desde el punto de vista de la
+73/78, Anexo II, y con IBC Code seguridad (S) y de la contaminación (P). clasificada categoría
+“Y”, presenta peligro para los recursos marinos o la salud
+humana
+SECCIÓN 15. INFORMACIÓN REGLAMENTARIA
+Regulaciones nacionales
+NCh2463 vigente: Sustancias corrosivas-Soda cáustica en solución-Disposición de seguridad para el transporte.
+NCh382 vigente: Sustancias peligrosas - Clasificación general.
+NCh2190 vigente: Transporte de sustancias peligrosas – Distintivos para identificación de riesgos.
+NCh2245 vigente: Hoja de datos de seguridad para productos químicos- Contenido y orden de las secciones.
+NCh2979 vigente: Sustancias peligrosas – Segregación y embalaje/envase en transporte terrestre.
+NCh1411/4 vigente: Prevención de riesgos – Parte 4: identificación de riesgos de materiales.
+DS148 vigente: Reglamento sanitario sobre manejo de residuos peligrosos.
+DS N°594 vigente: Reglamento sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo.
+DS298 vigente: Reglamento de transporte de cargas peligrosas por calles y caminos.
+DS 43 vigente: Reglamento de almacenamiento de sustancias peligrosas.
+RES. EX. N° 408 vigente: Listado de Sustancias Peligrosas para la Salud.
+_________________________________________________________________________________________________
+Página: 16 de 20
+================================================================================
+PAGE 17
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Regulaciones internacionales
+INVENTARIO DE AUSTRALIA (AICS):
+Componente AICS: Australia - Estándares para la
+programación uniforme de
+drogas y venenos (Standard for
+the Uniform Scheduling of Drugs
+and Poisons)
+Hidróxido de sodio X Schedule 5
+1310-73-2 Schedule 6
+Cloruro de sodio X -----
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO DE CHINA (IECS):
+Componente IECS
+Hidróxido de sodio X
+1310-73-2
+Cloruro de sodio X
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO EC (EINECS/ELINCS):
+Componente EU - NLPL ELINCS EINECS:
+Hidróxido de sodio ----- ----- 215-185-5
+1310-73-2
+Cloruro de sodio ----- ----- 231-598-3
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO DE JAPÓN (MITI):
+Componente ENCS ISHL
+Hidróxido de sodio (2)-1972,(1)-410 --------
+1310-73-2
+Cloruro de sodio (1)-236 --------
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO DE COREA (ECL):
+Componente KECL
+Hidróxido de sodio KE-31487
+1310-73-2
+Cloruro de sodio KE-31387
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+_________________________________________________________________________________________________
+Página: 17 de 20
+================================================================================
+PAGE 18
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Inventario químico de Nueva Zelanda
+Componente NZIOC
+Hidróxido de sodio X
+1310-73-2
+Cloruro de sodio X
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO FILIPINO (PICCS):
+Componente PICCS:
+Hidróxido de sodio X
+1310-73-2
+Cloruro de sodio X
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+INVENTARIO DE LOS EE.UU. (TSCA):
+Componente TSCA TSCA 12(b) TSCA - Secc. 5
+Hidróxido de sodio X ----- -----
+1310-73-2
+Cloruro de sodio X ----- -----
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+REGLAMENTOS CANADIENSES
+Este producto ha sido clasificado de acuerdo con los criterios de peligro de las Regulaciones de Productos Controlados
+y la MSDS contiene toda la información requerida por las Regulaciones de Productos Controlados.
+INVENTARIO DEL CANADÁ (DSL/NDSL): Todos los componentes de este producto se enumeran en DSL o NDSL
+INVENTARIO DEL CANADÁ (DSL/NDSL):
+Componente DSL NDSL
+Hidróxido de sodio X -----
+1310-73-2
+Cloruro de sodio X -----
+7647-14-5
+Nota: "X" indica que el componente está presente en la lista
+WHMIS - Clasificaciones de sustancias:
+• Material E - Corrosivo
+El receptor debería verificar la posible existencia de regulaciones locales aplicables al producto químico.
+_________________________________________________________________________________________________
+Página: 18 de 20
+================================================================================
+PAGE 19
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+SECCIÓN 16. OTRAS INFORMACIONES
+_________________________________________________________________________________________________
+Control de cambios:
+14/03/2016: Razones para la Revisión (CHILE):
+• Nuevo formato de la Hoja de dato de seguridad
+• Clasificación actualizada: VER SECCIÓN 2
+• La información toxicológica ha sido modificada: VER SECCIÓN 11
+30/11/2016: Se eliminan subtítulos numerados, se modifican títulos y secuencias de subtítulos, modifica orden de
+subtítulos y se añade en Sección16 abreviaturas y acrónimos.
+01/03/2017: Se añade la fila Regulaciones en la Sección 14.
+13/03/2017: Se añade signo de exclamación en la Sección 2.
+17/08/2017: Se actualiza Sección 15.
+26/12/2017: Se actualiza Sección 12.
+01/03/2018: Se actualiza sección 4.
+01/05/2018: Se actualizan las secciones 2-3-4-6-12 y 15.
+05/10/2018: Se actualiza sección 11 (Toxicidad aguda oral).
+29/04/2019: Se actualizan las secciones 1 y 2, correspondiente a la dirección del proveedor y pictograma de la
+NCh2190.
+Abreviaturas y acrónimos: ACGIH : American Conference of Governmental Industrial
+Hygienists.
+CAS : Chemical Abstracts Service.
+CL : Concentración letal del 50% de la muerte de los
+50
+individuos en estudio.
+TWA : Time-weighted average. Media ponderada respecto
+al tiempo.
+IDLH : Inmediately Dangerous to Life or Health.
+Inmediatamente peligrosa para la vida o la salud
+IARC : Agencia Internacional para la Investigación sobre el
+Cáncer.
+Referencias: referencias técnicas, SGA, CLP, REACH, OSHA, Información Reglamentaria (Sección 15).
+Próxima Revisión: Abril 2020.
+_________________________________________________________________________________________________
+Página: 19 de 20
+================================================================================
+PAGE 20
+================================================================================
+M32415 - CHILE - MS
+SODA CÁUSTICA LÍQUIDA (TODOS LOS GRADOS)
+NÚMERO HDS: M32415 Fecha de versión: 29/04/2019
+Versión: 10
+____________________________________________________________________ _____________________________
+Preparado por: Administración de productos OxyChem Corporate HESS
+IMPORTANTE: La información que se presenta aquí, aunque no ofrece ninguna garantía de exactitud, fue preparada por personal
+técnico y es verdadera y precisa hasta donde llega nuestro cabal saber y entender. NO HAY NINGUNA GARANTÍA DE
+COMERCIABILIDAD O DE QUE EL PRODUCTO SEA APTO PARA UN PROPÓSITO EN PARTICULAR, NI NINGUNA GARANTÍA
+DE CUALQUIER OTRO TIPO, IMPLÍCITA O EXPLÍCITAMENTE, RESPECTO AL DESEMPEÑO, SEGURIDAD, IDONEIDAD,
+ESTABILIDAD U OTROS. Esta información no pretende incluir todo en cuanto a la manera y condiciones de uso, manejo,
+almacenamiento, disposición de desechos y otros factores que pueden implicar otras consideraciones legales, ambientales de
+seguridad o de desempeño adicionales y OxyChem no asume ninguna responsabilidad civil de ninguna clase por el uso o
+confiabilidad que se pueda tener respecto a esta información. Aunque nuestro personal técnico tendrá mucho gusto de responder
+a sus preguntas, el manejo y uso seguros del producto sigue siendo responsabilidad del cliente. No se pretende dar ninguna
+sugerencia de uso y nada de lo aquí expresado puede ser considerado como una recomendación para infringir alguna patente
+existente o para violar alguna ley local, estatal, federal o extranjera.
+La Norma OSHA 29 CFR 1910.1200 requiere que se proporcione información a los empleados en cuanto a los peligros químicos
+por medio de un programa de comunicación de peligros que incluye etiquetación, hojas de datos de seguridad y acceso a registros
+escritos. Le pedimos, y es su deber legal, hacer que esta información en esta Hoja de datos de seguridad sea puesta a disposición
+de sus empleados
+_________________________________________________________________________________________________
+Fin de la hoja de datos sobre seguridad
+_________________________________________________________________________________________________
+Página: 20 de 20

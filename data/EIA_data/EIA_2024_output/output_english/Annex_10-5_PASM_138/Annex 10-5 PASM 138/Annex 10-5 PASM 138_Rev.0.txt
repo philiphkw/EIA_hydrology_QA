@@ -1,0 +1,1230 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Exhibit 10-5
+Sectoral Environmental Permit
+No. 138
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ................................................................................................................................... 1
+2 Technical and Formal Contents ................................................................................................... 2
+2.1 (a) Description of the Collection and/or Treatment System ....................................................... 2
+2.2 (b) Location map of the collection area and wastewater treatment plant
+....................................................................................................................................................... 5
+2.3 (c) Wastewater generation ........................................................................................................... 8
+2.4 (d) Physicochemical characterization of wastewater ........................................................................... 8
+2.5 (e) Description of the wastewater treatment system ....................................................... 9
+2.5.1 Stage I: Decanter ................................................................................................................ 9
+2.5.2 Stage II: Biological Reactor with Activated Sludge (Aerobic Treatment) ................................... 10
+2.5.3 Stage III: Secondary Decanter or Clarifier ................................................................... 10
+2.5.4 Stage IV: Sludge digester (aerobic) ................................................................................... 10
+2.5.5 Stage V: Disinfection ........................................................................................................... 10
+2.5.6 Final disposal of the effluent ................................................................................................ 10
+2.5.7 Description of odor control or mitigation measures ................................................... 11
+2.6 (f) Description of the manner of final disposal of the treated effluent, as appropriate ........ 11
+2.7 (g) Indication of the return period considered for the design of stormwater drains
+....................................................................................................................................................... 15
+2.8 (h) Description of the wastewater treatment system and disposal, if it is a
+septic tank ........................................................................................................................................... 15
+2.9 (i) General description of sludge generation and management ........................................................... 15
+2.10 (j) Monitoring program ........................................................................................................... 16
+2.11 (k) Contingency plan ........................................................................................................... 17
+2.12 (i) Emergency plan ................................................................................................................... 18
+3 Compliance indicators ................................................................................................... 27
+INDEX OF APPENDICES
+Appendix 10-5.1 Location planimetry
+Appendix 10-5.2 Location and section planimetry
+Appendix 10-5.3 Planimetry of vulnerable point distances
+Appendix 10-5.4 Technical Report
+Appendix 10-5.5 Infiltration rate
+Appendix 10-5.6 Technical sheets
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 10-
+5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 2-1. Summary of treatment systems ........................................................................................................... 3
+Table 2-2. Maximum project manpower ........................................................................................... 3
+Table 2-3. Location and surface of PTAS. ................................................................................................... 5
+Table 2-4. Generation of wastewater by phase................................................................................................ 8
+Table 2-5. Characteristic parameters of Wastewater to be Treated (tributary) ................................................... 8
+Table 2-6. Projection of accumulation ponds by PTAS ................................................................................ 12
+Table 2-7. Evapotranspiration Values ....................................................................................................... 12
+Table 2-8. Analysis of Supreme Decree No. 46/2000 for “Issuing Source” ................................................... 14
+Table 2-9. Construction phase sludge generation. ................................................................................... 16
+Table 2-10. Generation of sludge operation phase. ................................................................................... 16
+Table 2-11 Closing phase sludge generation ........................................................................................... 16
+Table 2-12. Corrective Measures Contingency Plan ................................................................................ 18
+Table 2-13. Emergency Plan Summary ................................................................................................ 20
+Table 2-14. Earthquake emergency plan ................................................................................................... 21
+Table 2-15. Emergency plan-Adverse weather conditions ....................................................... 22
+Table 2-16. Emergency plan - Action in case of spill ................................................................ 24
+Table 2-17. Emergency plan - Action in case of fire ................................................................ 24
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 2-1. Wastewater Treatment Flow Diagram ........................................................................... 4
+Figure 2-2. Location PTAS Site installation – Construction-closure Phase ........................................................... 6
+Figure 2-3 Location PTAS Processing Plant, Operation Phase................................................................ 7
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Raras, hereinafter, without distinction, the “Project” corresponds to the set of parts, works and actions
+that will allow the construction, operation and closure of a mining site for extraction and processing
+of clays, a material present in the area, which, due to natural effects, is highly
+weathered, with the presence of rare earths in clay minerals. The Project will be developed
+mainly in the commune of Penco, Province of Concepción, Biobío Region, without prejudice to part
+of the works are located in the commune of Concepción, on the border with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three (3) storage areas
+clay extraction (ZE Victoria Norte, ZE Luna, ZE Maite), one (1) disposal area for ballast and clays
+processed (ZD Neptuno), one (1) vegetal soil collection area (ZAV), a processing plant
+clays (the “Plant”), a s
+tockpile for temporary storage of material prior to processing, one line
+electricity and its connection to the existing line and the construction of internal roads to access the different
+areas. The Processing Plant will have a capacity to process up to 320 tons/hour of
+material to produce Rare Earth concentrate. In addition, the modification of a section is considered
+existing approximately 1.22 kilometers of the Hualpén – San Fernando pipeline, owned by
+ENAP, reason for the exploitation of the Maite ZE. The Project in turn includes the implementation of works
+temporary corresponding to work facilities for the construction and authorization of the works of the
+Project. Regarding this Sectoral Environmental Permit, the Project contemplates the generation of
+domestic wastewater associated with the operation of hygienic or sanitary services of the Project
+in its different phases, construction, operation and closure.
+It should be noted that the number of hygienic services (toilets, sinks and showers, among others) is
+will be found in accordance with the provisions of Article 22 D.S. No. 594/1999 of the Ministry of Health, of
+according to the number of people considered on site. In the work fronts, as appropriate to the
+As the works progress, there will be chemical bathrooms that will be provided and maintained by a company
+duly authorized.
+Article 138 of the Regulation of the Environmental Impact Assessment System (RSEIA) D.S. No. 40/2012,
+MMA, notes:
+Article 138.- Permit for the construction, repair, modification and expansion of any work
+public or private intended for the evacuation, treatment or final disposal of drains, sewage
+of any nature.
+The permit for the construction, repair, modification and expansion of any public work or
+particular destined for the evacuation, treatment or final disposal of drains, sewage of
+1
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+any nature, will be that established in article 71 letter b) first part, of the Decree with Force
+of Law No. 725, of 1967, of the Ministry of Public Health, Health Code.
+The requirement for its granting is that the disposal of wastewater does not threaten the health of
+the population.
+The technical and formal contents that must be presented to prove compliance, and in accordance
+to the Project, are the following:
+a) Description of the collection and/or treatment system.
+b) Location map of the collection area and the wastewater treatment plant.
+c) Generation of wastewater.
+d) Physical-chemical characterization of wastewater.
+e) Description of the wastewater treatment system.
+f) Description of the manner of final disposal of the treated effluent, as appropriate.
+g) Indication of the return period considered for the design of rainwater drains.
+h) Description of the wastewater treatment system and disposal, if it is a pit
+septic.
+i) General description of sludge generation and management.
+j) Monitoring program.
+k) Contingency plan.
+l) Emergency plan.
+Below is the background information to prove compliance with the Permit requirements.
+Environmental Sector No. 138, which also considers the recent considerations referred to in the
+Exempt Resolution No. 2023991011018, dated December 27, 2023, of the Executive Directorate of the SEA,
+which pronounces on the validity and observance of the PAS processing guide of article 138 of the Regulations
+of the SEIA.
+2 TECHNICAL AND FORMAL CONTENTS
+2.1 (a) Description of the Collection and/or Treatment System
+The liquid waste or effluents that will be generated in the construction, operation and closure phases,
+correspond to domestic waste (wastewater) associated mainly with the operation
+of sanitary facilities or for hygienic purposes, of the different stages.
+2
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+co
+Rare Earth Center
+To manage wastewater from toilet services, the Project considers for the
+following wastewater treatment system solutions, which are detailed in the table below.
+continued:
+Table 2-1. Summary of treatment systems
+Installation Phase Solution Quantity
+Construction Installation of PTAS 1 tasks
+PTAS 2 Processing Plant Operation
+Closure of PTAS 1 processing plant
+Source: Own elaboration
+The maximum labor associated with each phase is detailed in Table 2-2.Table
+Table 2-2. Maximum Project Labor
+Total Installation Phase Labor
+Construction Work facility 373
+PTAS 1: 224
+Processing Plant Operation
+PTAS 2:224
+Closing Processing Plant 115
+Source: Own elaboration, 2024
+Wastewater treatment plant
+The wastewater treatment system from sanitary services will be through sludge.
+activated. The treated effluent will subsequently be reused to moisten roads.
+These wastewaters will be taken to a wastewater treatment plant of the
+Modular type with activated sludge, which will have the following treatment stages:
+1. Stage I: Decanter
+2. Stage II: Biological Reactor for Activated Sludge extended aeration
+3. Stage III: Secondary Decanter or Clarifier
+4. Stage IV: Sludge digester
+5. Stage V: Disinfection
+The following figure shows the flow diagram of a typical wastewater treatment plant,
+modular activated sludge.
+3
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-1. Wastewater Treatment Flow Diagram
+Source: Own elaboration, 2024
+The wastewater from the toilets will be collected through PVC pipes or
+similar since its generation in the hygienic services in the different areas, to be led towards the
+corresponding wastewater treatment system.
+After treatment in these facilities, the treated effluents will be used for humidification.
+of roads and/or work fronts and, only in case of emergency, a system will be enabled to infiltrate them.
+For its part, the sludge and/or waste generated will be removed by an authorized third party in a manner
+periodically, which has the relevant authorization from the health authority.
+Additionally, the Project will have chemical baths in each of the mobile fronts during the
+construction and closure phase, which will be provided by a specialized and authorized company
+by the SEREMI of Health. The removal of waste will be carried out by a duly authorized company,
+with a frequency of once a week.
+The particular project of
+sewage and wastewater treatment associated with the implementation of each PTAS.
+The discharge of treated wastewater to any course or body of water, surface or
+underground. In effect, the treated water coming from the facilities will be stored in a
+pond and will later be reused to moisten roads.
+4
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.2 (b) Location map of the collection area and treatment plant
+of sewage
+The following table indicates the location coordinates of the PTAS according to the phase of the Project,
+construction, operation and closure.
+Table 2-3. Location and surface of PTAS.
+UTM h 18S coordinates, datum
+Surface
+Sector Phase Installation Vertices WGS84
+m2
+EAST NORTH
+1 5,930,103 681,763
+2 5,930,103 681,769
+3 5,930,092 681,769
+Installation of 4 5,930,092 681,767
+Construction PTAS 74.52
+Tasks 5 5,930,089 681,767
+6 5,930,089 681,765
+7 5,930,092 681,765
+8 5,930,092 681,763
+1 5,930,103 681,763
+2 5,930,103 681,769
+3 5,930,092 681,769
+4 5,930,092 681,767
+PTAS 2 74.52
+5 5,930,089 681,767
+Plant of 6 5,930,089 681,765
+Operation
+processes
+ment 7 5,930,092 681,765
+8 5,930,092 681,763
+1 5,929,919 681,945
+2 5,929,927 681,940
+PTAS 1 90
+3 5,929,932 681,948
+4 5,929,923 681,953
+1 5,930,103 681,763
+2 5,930,103 681,769
+3 5,930,092 681,769
+Installation of 4 5,930,092 681,767
+PTAS closing 74.52
+Tasks 5 5,930,089 681,767
+6 5,930,089 681,765
+7 5,930,092 681,765
+8 5,930,092 681,763
+Source: Own elaboration, 2024.
+5
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+For more detail, review Appendix 10-5.1, which includes the location planimetry of each
+wastewater treatment system.
+For its part, the following figures below show the georeferenced location of the
+Wastewater Treatment Plants (PTAS).
+Figure 2-2. Location PTAS Site installation – Construction-closure phase
+Source: Own elaboration, 2024.
+6
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-3 Location PTAS Processing Plant, Operation Phase
+Source: Own elaboration, 2024.
+Appendix 10-5.2 presents plans of the location and section of each system with respect to the
+installation, where the distance to the nearest habitable work is graphed.
+With respect to the distance of these sanitary facilities from surrounding facilities and wells
+nearby water collection, it is important to note that this situation does not entail risk, as stated
+observed in the planimetry attached in Appendix 10-5.3, in which it is observed that the most
+nearby corresponds to a surface right granted more than one (1) km away
+approximately1.
+Furthermore, it is important to note that there is no hydrogeological system housed within the layer
+exploitable of the Project, which corresponds to weathered rock. More detail on this matter is
+It accompanies chapter 3 section of the Hydrogeological Baseline of this EIA.
+1 https://snia.mop.gob.cl/observatorio/
+7
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.3 (c) Wastewater generation
+The wastewater will come from the toilets located inside the location area.
+of the Project. Next, an estimate is made of the wastewater generated in the different
+Project phases; that is, construction, operation and closure. The estimation of the generation flow of
+sewage is carried out on the basis of an allocation of 150 liters/person-day2 and considering the
+maximum daily staffing of workers for each phase (that is, considering the most
+unfavorable from the environmental point of view).
+m
+Table 2-4. Wastewater generation by phase
+Hand of Water Coefficient
+Endowment Phase
+PTAS sector of works served
+project (l/room/day)
+maximum recovery (m3/day)
+Installation of
+Construction 1,150 1,373 55.95
+Tasks
+Plant 1 150 1 224 33.6
+Operation
+processing 2 150 1 224 33.6
+plant
+Closing 1,150 1,115 17.25
+processing
+Source: Own elaboration, 2024.
+2.4 (d) Physicochemical characterization of wastewater
+The origin or generation of wastewater will be exclusively domestic. In the next
+The table indicates the expected physicochemical characteristics of domestic wastewater.
+Table 2-5. Characteristic parameters of Wastewater to be Treated (tributary)
+Parameters Characteristic value
+Oils and fats 60 mg/L
+Aluminum 1 mg/L
+Arsenic 0.05 mg/L
+Boron 0.75 mg/L
+Cadmium 0.01 mg/L
+Cyanide 0.2 mg/L
+Copper 1 mg/L
+Total chromium 0.1 mg/L
+Hexavalent chromium 0.05 mg/L
+BOD5 250 mg/L
+Phosphorus 5 mg/L
+Total hydrocarbons 10 mg/L
+Manganese 0.3 mg/L
+2 Regulations for Domestic Drinking Water and Sewage Installations (RIDAA).
+8
+==================================================================================
+PAGE 13
+========================================================
+============================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Parameters Characteristic value
+Mercury 0.001 mg/L
+Nickel 0.1 mg/L
+Ammoniacal Nitrogen 50 mg/L
+pH 6 – 8
+Lead 0.2 mg/L
+Foam power 5 mm
+Settleable solids 6 (ml/L 1h)
+Total suspended solids 220 mg/L
+Sulfates (dissolved) 300 mg/L
+Sulfide 3 mg/L
+Temperature 20 °C
+Zinc 1 mg/L
+Source: Own elaboration based on Table N°1 of the D.S. N°609, of 1998, of the Ministry of Public Works, which
+establishes the emission standard for the regulation of pollutants associated with waste discharges
+industrial liquids to sewage systems.
+For their part, the Treatment Plants will be intended for the treatment of wastewater, discarding
+the presence of toxic elements, liquid industrial waste or any element that could interfere
+in the correct functioning of the plant.
+2.5 (e) Description of the wastewater treatment system
+The wastewater treatment system will be through treatment plants during the phase
+construction, operation and closure, whose disposal of the treated effluent will be used for the humidification of
+roads and/or work fronts.
+As indicated, the PTAS will use a technology that corresponds to a treatment that, through a
+biological process, called aerobic digestion, degrades and oxidizes the organic matter present in the
+served water.
+Below are the stages that make up the operation of the PTAS:
+2.5.1 Stage I: Decanter
+At this stage, the wastewater enters the first compartment where it is retained, achieving a
+first sedimentation. This is carried out in a decanter-digester composed of a compartment of
+dimensions equivalent to 20% of the total volume of the reactor tank. With this you achieve the
+decantation of the suspended particles and subsequent digestion of the coarser size solids.
+9
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.5.2 Stage II: Biological Reactor for Activated Sludge (Aerobic Treatment)
+After the wastewater passes through the Decanter, it enters the biological Reactor where the
+prolonged oxidation of organic matter introducing air to the wastewater so that in this way
+aerobic microorganisms can digest biodegradable organic matter present in water,
+thus managing to considerably reduce the Biochemical Oxygen Demand (BOD5).
+2.5.3 Stage III: Secondary Decanter or Clarifier
+In order to decant the sludge produced in the previous stage, there is a secondary decanter.
+obtaining a clarified effluent.
+Sludge Recirculation:
+To increase the capacity of the equipment and increase its efficiency, a recirculation system is contemplated.
+internally in order to maintain a high concentration of active biomass in the reactor.
+2.5.4 Stage IV: Sludge digester (aerobic)
+The main objective of the sludge digester is to reduce the amount of organic matter present in the
+sludge, which helps minimize sludge volume and convert it into a more stable and less
+prone to rot and odor release.
+2.5.5 Stage V: Disinfection
+After the water has been treated, it goes through a disinfection stage using a
+Chlorination and Dechlorination to ensure the destruction or reduction of coliforms and others
+pathogenic microorganisms.
+2.5.6 Final Disposal of Effluent
+The final provision refers to the storage and use of treated wastewater. In terms of usage,
+The effluent will be used to moisten roads and/or work fronts.
+2.5.6.1 Final disposal of effluent in case of emergency
+In the event that the effluent indicated in the main paragraph of this section cannot be disposed of,
+will have – as an emergency – in drains, the details of which are presented in section 2.6 of this document.
+10
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Know
+Rare Earth input
+2.5.7 Description of odor control or mitigation measures
+Improper operation of the plant could generate the eventual emanation of odors. It is clarified that
+The unit processes in this facility occur in completely hermetic compartments and the
+Operation will be carried out in consideration of the manufacturer's recommendations for correct use.
+The removal of the sludge generated will be carried out by an external company, such as a sludge cleaning vehicle.
+health services, duly authorized by the corresponding SEREMI of Health, for subsequent
+treatment and/or final disposal in an authorized site. The removal of sludge will be periodic
+according to the frequency recommended by the manufacturer of the treatment plant and the generation of
+sludge, which will prevent the generation of bad odors and the proliferation of health vectors. If
+will implement a registration and control system for the removal and final disposal of sludge generated by the
+proposed treatment system for the operation phase of the project. This record will be found at
+disposition of the authority. However, in case of annoying odors, the following procedure will be carried out:
+procedure:
+• If the situation is observed by a worker, the Supervisor must be notified.
+• Review of the monitoring and cleaning periods of the system and sanitary facilities in general.
+• Inspection of the system for breaks or other failures.
+• Contact the Technical Service to review the treatment system and resolve the failure.
+• Reevaluation of the complete healthcare solution.
+2.6 (f) Description of the form of final disposal of the treated effluent, according to
+correspond
+In the three phases of the project (construction, operation and closure), the sanitary effluent will be treated
+manner that complies with NCh 1333 of. 1978 to be used in humidifying the different fronts
+of work, keeping a record of the wetting, the date and the volume of treated water used.
+The daily record of free residual chlorine CLR will be kept available when the authority requires it.
+and monitoring regarding the parameters to be controlled, according to the regulations already mentioned.
+semiannual.
+An accumulation pond with useful capacity will be adopted in accordance with the requirement of each
+system, which will remain with the accumulated liquid for a maximum of 24 hours.
+In addition, a backup, emergency or alternative system is planned through water infiltration.
+treated, corresponding, by sizing, to 50% of the daily effluent generated by each
+installation, with the objective of managing the treated effluents in case they cannot be used for
+humidification. The dimensions of the drains will depend on the capacity of each installation.
+The following table presents a summary with the capacity of the ponds.
+effluent accumulation and backup system through drains.
+11
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-6. Projection of accumulation ponds by PTAS
+Quantity of
+drains
+Labor Daily flow
+Emergency phase
+Estimated daily sector Ponds
+projected project
+estimated (l/day)
+for 50% of
+effluent
+Installation of 3 ponds 20 9 drains x 27 m
+Construction 373 55,950
+Jobs m3 long
+2 ponds 20 12 drains x 27
+224 (1) 33,600
+m3 m long plant
+Operation
+processing 2 ponds 20
+224 (2) 33,600 6 drains x 24 m
+m3
+1 pond plan 20 6 drains x 24 m
+Closing 115 17,250
+processing m3 long
+Source: Own elaboration
+Regarding the calculations, these are attached in the Calculation Report present in Appendix 10-5.4
+of the present PAS.
+In Appendix 10-5.5, the infiltration indices obtained for the specific locations of
+each PTAS.
+2.6.1.1 Balance of water requirements in case of reuse
+The following information is presented below regarding the wetting of roads and/or fronts.
+of work and the use of the effluent generated by the PTAS of the IIFF for the construction phase:
+Paths:
+- Length: 13,906 meters
+- Width: 10 meters approx.
+Evapotranspiration:
+Table 2-7. Evapotranspiration Values
+Said Station Tome University
+UTC-4 time
+Conception3
+mm/day (l/m2/day)
+02-01-2022 6.59
+01-04-2022 6.64
+02-08-2022 7.1
+Source: https://agrometeorologia.cl/evapotranspiracion/
+3 Values obtained from https://agrometeorologia.cl/evapotranspiracion/ between 01-01-2022 to 12-31-2023
+12
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Construction Phase:
+Effluent (l/day) = Surface to be humidified (m2) * Evapotranspiration (worst scenario) (l/m2/day).
+55,950 l/day (373 people) l/day = X m2 * 7.1 l/m2/day
+55,950 l/day < 987,236 l/day
+The surface for which treated water will be required (wetting/suppressant treatment)
+corresponds to approximately 139,060 m2. Now, by multiplying this surface area by the value of
+more conservative evapotranspiration from Table 2-7, we have an amount of 987,236 L/day, necessary
+to moisturize. This value is greater than the expected treated effluent from the PTAS, which means that all
+The treated water may be used for such purposes. The missing volume of industrial water required
+It may be extracted from the industrial water pond located in the work facility.
+Operation phase
+Effluent (l/day) = Surface to be humidified (m2) * Evapotranspiration (worst scenario) (l/m2/day).
+l/day (448 people) l/day = X m2 * 7.1 l/m2/day
+67,200 l/day < 987,236 l/day
+The surface for which treated water will be required (wetting/suppressant treatment)
+corresponds to approximately 139,060 m2. Now, by multiplying this surface area by the value of
+more conservative evapotranspiration from Table 2-7, we have an amount of 987,236 L/day, necessary
+to moisturize. This value is greater than the expected treated effluent from the PTAS, which means that all
+The treated water may be used for such purposes. The missing volume of industrial water required
+It may be extracted from the industrial water ponds located in the processing plant.
+Closing phase
+Effluent (l/day) = Surface to be humidified (m2) * Evapotranspiration (worst scenario) (l/m2/day).
+l/day (115 people) l/day = X m2 * 7.1 l/m2/day
+17,250 l/day < 987,236 l/day
+The surface for which treated water will be required (wetting/suppressant treatment)
+corresponds to approximately 139,060 m2. Now, by multiplying this surface area by the value of
+more conservative evapotranspiration from Table 2-7, we have an amount of 987,236 L/day, necessary
+13
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+to moisturize. This value is greater than the expected treated effluent from the PTAS, which means that all
+The treated water may be used for such purposes. The missing volume of industrial water required
+may be extracted from the industrial water ponds located in the work facility
+2.6.1.2 Emission source evaluation
+The wastewater treatment plants (WTP) were designed to meet the water quality
+for irrigation according to the requirements indicated in NCh 1.333 of 78.
+For the design, the characteristic contaminant loads of the waters have been considered as a basis.
+urban waste and the expected treated water quality, which adjusts to the following basic parameters:
+- BOD5 concentration ≤ 35 mg/L
+- TSS concentration ≤ 80 mg/L
+- Fecal coliforms ≤ 1,000 NMP/100 ml
+In Appendix 10-5.6, the technical sheets of the equipment are attached, which present an efficiency
+minimum of the order of 90%.
+Next, the effluent analysis is carried out as “Emitting Source” according to D.S. N°46/03, MINSEGPRES,
+which according to the results, the PTAS used in this project for the different phases do not qualify as
+emitting sources.
+Table 2-8. Analysis of Supreme Decree No. 46/2000 for “Issuing Source”
+D.S. issuing source qualification criteria 46/00
+Efficiency 90%
+Parameter
+(g/d)
+Polluting load
+Characteristic Value mg/l
+daily average (g/d)
+Oils and Fats 60 960 335.70
+Aluminum 1 16 5.60
+Arsenic 0.05 0.8 0.28
+Benzene 0.01 0.16 0.06
+Boron 0.75 12.8 4.20
+Cadmium 0.01 0.16 0.06
+Cyanide 0.2 3.2 1.12
+Chlorides 400 6400 2238.00
+Copper 1 16 5.60
+Hexavalent Chromium 0.05 0.8 0.28
+Fluoride 1.5 24 8.39
+Iron 1 16 5.60
+Manganese 0.3 4.8 1.68
+14
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+D.S. issuing source qualification criteria 46/00
+Efficiency 90%
+Parameter
+(g/d)
+Polluting load
+Characteristic Value mg/l
+daily average (g/d)
+Mercury 0.001 0.02 0.01
+Molybdenum 0.07 1.12 0.39
+Nickel 0.1 1.6 0.56
+Total Nitrogen Kjeldahl 50 800 279.75
+Nitrite plus Nitrate 15 240 83.93
+Pentachlorophenol 0.009 0.144 0.05
+Lead 0.2 3.2 1.12
+Selenium 0.01 0.16 0.06
+Sulfates 300 4800 1678.50
+Sulfides 3 48 16.79
+Tetrachloroethene 0.04 0.64 0.22
+Toluene 0.7 11.2 3.92
+Trichloromethane 0.2 3.2 1.12
+Xylene 0.5 8 2.80
+Zinc 1 16 5.60
+Source: Own elaboration
+2.7 (g) Indication of the return period considered for the design of the
+rainwater drains
+The wastewater treatment system considered for the Project exclusively contemplates the
+sewage treatment. The design of stormwater drains is not considered.
+2.8 (h) Description of the wastewater treatment and disposal system,
+if it is a septic tank
+Not applicable, given that during the different phases of the Project the installation of Plants has been contemplated.
+of Wastewater Treatment (PTAS).
+2.9 (i) General description of sludge generation and management
+It should be noted that the sludge that will be generated will not be stabilized, and will not contain reactive substances.
+or toxic, nor will they present dangerous characteristics referred to in the D.S. No. 148/03, MINSAL
+“Regulations on hazardous waste management”; the above, considering that the water to be treated
+correspond to domestic wastewater.
+15
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Considering the above, the Technical Reports attached in Appendix 10-5.4 present the
+estimation of sludge generation for the construction, operation and closure phases respectively,
+considering the total amount of wastewater to be treated based on the number of people
+contemplated, a detail that is summarized in the tables below:
+Table 2-9. Construction phase sludge generation.
+Sludge generation
+Daily labor Estimated daily flow
+Estimated infrastructure
+estimated m3/day
+kg/day
+Installation of tasks 373 55.95 10.87
+Source: Own elaboration, 2024.
+Table 2-10. Generation of sludge operation phase.
+Sludge generation
+Daily labor Estimated daily flow
+Estimated infrastructure
+estimated m3/day
+kg/day
+224 33.6 6.53
+Processing plant
+224 33.6 6.53
+Source: Own elaboration, 2024.
+Table 2-11 Closing phase sludge generation
+Sludge generation
+Daily labor Estimated daily flow
+Estimated infrastructure
+dear
+m3/day kg/day
+Processing plant 115 17.25 3.35
+Source: Own elaboration, 2024.
+The removal of the sludge generated will be carried out by a contracted service, such as a pit cleaning vehicle,
+duly authorized by the corresponding SEREMI of Regional Health, for subsequent treatment
+in authorized site. The removal of sludge will be periodic according to the recommended frequency.
+by the manufacturer, however, this frequency is estimated on a semiannual basis for PTAS.
+2.10 (j) Monitoring program
+The monitoring program aims to qualitatively and quantitatively characterize the effluent of the
+PTAS, therefore, for control purposes in the 3 phases of the project, the quality parameters that are
+must comply are those established in the Nch. 1333 of.78 “Water quality requirements for different
+uses” for use for irrigation.
+A record of the measurement of parameters such as pH, temperature, chlorination must be kept, which is
+will be done at least daily. Likewise, PTAS inspections will be incorporated into the program
+monthly supervision.
+16
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 10-5 PAS 138
+EIA Development Project M
+of Clay Extraction for the Production of
+Rare Earth Concentrate
+The analyzes of the effluents will be carried out every six months through a certified laboratory.
+on the biological, physical, and chemical conditions of the treated water, and the report will be sent to the
+Superintendence of the Environment (SMA), as indicated by the R.E. N°223/2015 that dictates
+general instructions on the preparation of the monitoring plan for environmental variables, the
+environmental monitoring reports and the submission of information to the electronic monitoring system
+environmental of the Ministry of the Environment.
+2.11 (k) Contingency plan
+The Plan must identify risk or contingency situations that may affect the environment.
+or the population and describe the actions or measures to be implemented to prevent these from occurring or
+minimize the probability of occurrence.
+The operation and maintenance of the Wastewater Treatment Plants will be carried out by a
+company that provides the technology, and the frequency of plant maintenance will be periodic.
+Based on the type of activity to be carried out and the technologies to be used, the main risks are defined.
+associated with the Project, which in turn are likely to affect the environment and cause accidents or
+emergencies.
+The contingency plan designed for the Project is described below:
+1. Present Contingency: The treatment plant could present a failure which will be alerted
+by the personnel in charge at the time the contingency occurs.
+2. Cause of the Contingency: Once the responsible personnel have been alerted, a follow-up is carried out.
+contingency, to determine the cause of the existing emergency. The contingencies or
+The most common emergencies that can happen within this system are:
+• Operational failure (including human failure).
+• Obstruction or electrical failure.
+• Mechanical failure.
+• Sewer breaks, ponds or leaks.
+• Spills.
+3. Inform Contingency Management: The responsible personnel on duty will inform, in a manner
+immediate, by telephone or email, of the current situation or contingency,
+interpreting the cause of the emergency that was detected after the analysis carried out.
+4. Corrective measures: The activation of the contingency plan includes the following measures
+corrective measures according to each contingency.
+17
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-12. Corrective Measures Contingency Plan
+Contingency: Risk of sewage spill
+• Periodic maintenance will be carried out on the health systems that the city has.
+Actions or measures to
+Project, with the objective of verifying that there are no operational problems
+implement for
+• Maintenance and withdrawals will be carried out by authorized companies.
+prevent contingency
+• Health authorizations will be available in accordance with regulations.
+Responsible: Head of Operations
+The measures will be implemented immediately after the detection.
+Deadlines:
+contingency.
+Contingency In case you cannot reuse the effluent from the PTAS
+• Emergency drains are implemented for 50% of the effluent generated on the day
+for each PTAS.
+Actions or measures to • Monitoring of the committed effluent will be verified on a semiannual basis and the
+implement for regulatory compliance with Nch 1333 of 78
+prevent the contingency • A record of the measurement of parameters such as pH, temperature,
+chlorination, which will be carried out at least daily.
+• PTAS inspections will be incorporated into the monthly supervision program.
+Responsible: Head of Operations
+Deadlines The measures will be implemented immediately when building and using the PTAS.
+Source: GAC.
+2.12 (i) Emergency plan
+The Emergency Plan describes the actions to be implemented in the event of an emergency,
+in order to control said emergency and/or minimize its effects on the environment and/or the
+population:
+The following scenarios have been identified in which an emergency situation could occur
+that could affect the environment and/or the population where a PTAS is involved
+• Earthquake
+• Extreme weather events
+• Fire
+• Co
+Components of the Wastewater Management System
+At the same time, this plan provides guidelines for dealing with emergencies, such as spills from
+PTAS, fires, etc., in addition to instructing workers and all staff on the necessary actions
+to minimize the effects generated by these situations.
+Objectives
+In particular, the plan has the following objectives:
+1. Safeguard the physical integrity of workers and inhabitants;
+18
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2. Protect the environment, property, facilities and materials;
+3. Restore normality in the work, in the shortest possible time;
+4. Instruct personnel regarding their responsibilities, functions and powers, in the event of a
+emergency.
+5. Establish a method of investigation of facts that can generate or generate situations of
+emergency, in order to establish its causes, control and eliminate them.
+Scope of the Plan
+This Emergency Plan applies to all activities that will be carried out in the works of the
+Project and its facilities, to react to an emergency generated by PTAS that may
+affect the environment, workers, as well as nearby inhabitants and facilities of the
+Project and support with the available means in the event of emergencies that occur.
+Plan Coverage
+This Plan is designed to be applied in the operation of the PTAS and the surrounding facilities to
+them from the Project.
+Responsible for the Emergency Plan
+The person responsible for this Emergency Plan corresponds to the Area Management and Brigade Leader.
+Emergency and will have the following responsibilities:
+• Disseminate this plan, once approved, to all personnel working at the Plant.
+• Carry out the necessary procedures for the allocation of resources that allow the acquisition,
+maintenance and operation of response material.
+• Carry out the necessary coordination to achieve cooperation in the event of any accident.
+other organizations with the capacity to respond.
+• Arrange for response exercises to be carried out in the event of some type of emergency.
+• Define the training standards and training of the personnel assigned for the response,
+arranging that the necessary courses be carried out to achieve an efficient and
+in accordance with company policies.
+• Establish the logistics and means of the organization, in order to satisfy the needs of the
+Plan operator.
+• Implement the Emergency Plan.
+• Keep the General Manager, Operations Manager and Production Manager informed
+Communications.
+In those cases in which the magnitude of the contingency occurred or if the situation warrants it, it will be
+advise by a team of specialists in different areas, made up of personnel from the same
+company.
+19
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The Emergency Plan considers the following actions:
+1. In the event of any abnormality of the PTAS, any worker who detects it must give notice.
+immediately to the emergency manager and supervisor.
+2. The emergency manager will go to the scene of the emergency to evaluate the magnitude and
+spread, and will communicate the event to the General Emergency Coordinator.
+3. The General Emergency Coordinator will manage the necessary logistical support requested by the
+Emergency Chief.
+4. Before proceeding with the emergency control tasks, the personnel in charge of the
+emergency you should proceed to put on the appropriate personal protective equipment.
+5. The emergency must be contained as soon as possible, according to its typology.
+6. A record of the incident will be prepared.
+7. The SMA will be informed through the Contingency and Incident Notice Module within the
+24 hours after the reported event occurred.
+On the other hand, once the emergency is declared, the Emergency Coordinator will manage the support
+necessary logistics requested by the Head of Emerge
+ncia, you will first contact the center
+nearest assistance, if due to the emergency injuries or damage to people occur, giving notice,
+if necessary, to external emergency services such as firefighters, police, etc.,
+will inform the general manager of the situation in the facilities and the measures that have been taken.
+taken, will be responsible for coordinating the actions, will give the instruction to end the operations
+normal, due to the existence of dangerous conditions resulting from the emergency, ordering to stop
+and de-energize the equipment to proceed with the evacuation.
+Finally, the Emergency Coordinator will be responsible for informing the Superintendency of the
+Environment through the Contingencies and Incidents notification module within a period of 24 hours
+after the reported event occurred.
+Additionally, the implementation of the Project considers contingency and emergency measures for the
+operation of the different activities associated with its operation, which are described in Chapter 8
+of the EIA.
+The following table summarizes the emergency plan associated with the PTAS.
+Table 2-13. Emergency Plan Summary
+PTAS Emergency Plan Summary
+• Earthquakes
+Situations • Extreme weather events
+identified • Fire
+• Components of the Wastewater management system
+The person responsible for this Emergency Plan corresponds to the person in charge of the Emergency Committee.
+Responsible
+Emergency
+Deadlines to attend the
+The measures will be implemented immediately after the emergency is declared.
+emergency
+20
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+PTAS Emergency Plan Summary
+The SMA will be informed through the Contingency and Incident Notice Module within
+within 24 hours of the reported event occurring
+Source: GAC
+Possible emergencies are detailed below:
+Table 2-14. Earthquake emergency plan
+Situation of
+Action plan against earthquakes
+emergency
+Project Phase
+Construction, operation and closure.
+to which it applies
+All Project facilities, mainly in:
+Part, work or
+associated action Installation of tasks.
+Processing Plant.
+In the event that an earthquake of intensity IV or greater on the Mercallise scale occurs
+will carry out the following actions:
+• The staff will suspend any activity they are carrying out and will go to the area
+of the nearest security zone, which must be located in an open area
+and away from facilities that may involve risk of
+collapse/collapse.
+• You should not act impulsively as this increases the risk of injury and
+contributes to increasing panic.
+• You will have to stay away from windows, since the vibration can cause them to break.
+of the glasses.
+• If you are indoors, you must protect yourself from falling lamps, appliances.
+electrical, wood, books, paintings, etc.
+• It will remain in the safety zone until the earthquake ends. Only in cases
+Specific actions such as visible and considerable damage to the building such as falls
+implement walls, fracture of columns, an area can be evacuated.
+• In external areas of buildings it will be necessary to stay away from walls, poles, cables
+electrical and other items that may fall.
+• If you are handling a motorized unit, guide the unit with caution to
+a safe place and the unit will be stopped.
+After an earthquake:
+• You must remain silent and calm.
+• Depending on the magnitude of the earthquake, a total evacuation of the area must be carried out.
+buildings towards assigned security zones.
+• Evacuate quickly, but without running, maintaining calm, order and silence,
+avoiding creating crowds.
+• If you get trapped, you should try to use a visible sign or
+sonorous.
+21
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against earthquakes
+emergency
+• Check if there are any fire sources; report them immediately.
+• It will be observed if there are people
+injuries, not moving the injured unless
+are in danger of suffering further injuries.
+• Wait 30 minutes in the security zone for possible aftershocks.
+• An inspection will be carried out at the facilities in order to verify their condition and
+rule out the existence of damage that could cause the collapse or collapse of
+structures.
+• A damage report will be prepared and communication will be maintained with the
+local and emergency authorities.
+Work will not be activated until it has been proven that there is no risk of collapse.
+structural of the facilities.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA), SENAPRED and SEREMI
+Environment, via telephone and/or email. Then, within a period of no more than 15
+days after the event occurred, an emergency report will be sent, which will contain at least
+less:
+Opportunity and avenues
+of communication to • Date, time and place of occurrence.
+the SMA of the • Reason for the emergency.
+Activation of the Plan • Environmental aspects involved (soil, atmospheric emissions, fauna, etc.)
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+Prevention actions that will be implemented to avoid a new occurrence.
+Source: GAC,2024.
+Table 2-15. Emergency plan-Adverse weather conditions
+Situation of the Action Plan in the face of adverse weather conditions (heavy rains, winds
+intense emergency).
+Project Phase a
+Construction, operation and closure.
+the one that applies
+All Project facilities, mainly in:
+Part, work or action
+associated with installation of tasks.
+Processing Plant.
+The Coordinator at the site will establish contact with the National Prevention and Prevention Service.
+Disaster Response (SENAPRED) to notify regarding:
+Actions to • Expected natural phenomenon.
+implement • Expected evolution of the natural phenomenon in the subsequent hours.
+• Condition of the roads and access roads to the Project.
+• Status of telephone service and other communication channels.
+22
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of the Action Plan in the face of adverse weather conditions (heavy rains, winds
+intense emergency).
+• Means of mobilization provided by the National Prevention and Prevention Service.
+Disaster Response (SENAPRED)
+The Emergency Chief will order, when necessary, the cancellation of operations and
+maneuvers that are not of major importance at the moment, such as:
+• Sludge removal,
+• Suspend wetting of roads.
+The Emergency Chief will order verification of the status and security of:
+• Facilities, in general.
+• Equipment or accessories that may be displaced as a result of the phenomenon
+expected natural
+The Emergency Chief will order the activation of the alarm and, if necessary, the evacuation
+towards the meeting point.
+• Staff will be calmed, to avoid panic and minimize further effects that the
+emergency could originate in people.
+• All personnel will go to the established security zones through the exits
+emergency services closest to your workplace, which will be located
+duly identified and marked.
+• Workers must follow the instructions of the Head of the Company at all times.
+Emergency. You will only be able to return to the workplace if the Emergency Manager allows you to.
+allows.
+The use of electrical equipment and/or instruments will be prohibited inside all rooms.
+during the weather event, further ordering that staff stay away from
+doors, windows, pillars or metal structures.
+In the event of a Level 2 or Level 3 emergency, it will be reported, as far as possible, within
+of the first 24 hours to the Superintendence of the Environment (SMA), SENAPRED and SEREMI
+Environment, via telephone and/or email. Then, within a period of no more than 15
+days after the event occurred, an emergency report will be sent, which will contain at least
+less:
+Opportunity and avenues
+of communication to the • Date, time and place of occurrence.
+SMA Activation
+• Reason for the emergency.
+of the Plan
+• Environmental aspects involve
+two (soil, atmospheric emissions, fauna, etc.).
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+Prevention actions that will be implemented to avoid a new occurrence.
+GAC, 2024
+23
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-16. Emergency plan - Action in case of spill
+Situation of
+Action plan against spills
+emergency
+Project Phase a
+Construction, operation and closure.
+the one that applies
+All Project facilities, mainly in:
+Part, work or action
+associated with installation of tasks.
+Processing Plant.
+In the event of a spill, the steps to follow to control it are:
+• Once the spill is detected, immediately notify the Emergency Director.
+to activate the Emergency Plan.
+• Immediately contain the spill with a sufficient amount of material.
+absorbent, pump or other for storage and disposal.
+Actions to
+• Cleaning the affected area. Remove all altered materials and manage cleaning
+implement
+specific with supplier.
+• Cleaning of protective equipment and cleaning and replacing all safety equipment.
+employee emergency.
+• Collect and recover spilled product.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the first
+24 hours to the Superintendence of the Environment (SMA), National Fisheries Service and
+Aquaculture (SERNAPESCA) and SEREMI Environment, via telephone and/or email.
+Then, within a period of no more than 15 days after the event occurred, a report will be sent from the
+emergency, which will contain at least:
+Opportunity and avenues
+of communication to the • Date, time and place of occurrence.
+SMA Activation
+• Reason for the emergency.
+of the Plan
+• Environmental aspects involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+Prevention actions that will be implemented to avoid a new occurrence.
+GAC, 2024
+Table 2-17. Emergency plan - Action in case of fire
+Emergency situation Fire action plan
+Project Phase to which Construction, operation and closure applies.
+All Project facilities, mainly in:
+Associated part, work or action
+Installation of tasks.
+Processing Plant.
+In the event of an industrial fire, action will be taken in accordance with the
+Actions to implement described below:
+24
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Emergency situation Fire action plan
+• Once the fire is detected, notify the Director of
+Emergency to define whether to activate the Plan
+Emergency.
+• The Emergency Chief will evaluate the incident and
+You must assess the level of the emergency.
+• Once the fire is detected, notify the Director of
+Emergency to define whether to activate the Plan
+Emergency.
+• The Emergency Chief will evaluate the incident and
+You must assess the level of the emergency.
+• For Level 1 emergencies, any personnel
+trained in the handling and use of fire extinguishers will be able
+put out the fire. In case of Level 2 emergencies, only
+The Intervention Team will be able to address the situation,
+without exposing oneself and that this does not imply a risk for the
+rest of the staff. Level 3 emergencies will be
+attended by external support (Fire Departments,
+CONAF).
+• If the fire cannot be extinguished, notify the
+activating the Emergency Plan and evacuating the
+zone. If necessary, all operations will be paralyzed.
+operations of the site or compromised area and are not
+will allow the operation of:
+o Motors or other electrical equipment.
+o Other equipment or vehicles that can
+cause an ignition point.
+• The direction of the wind must be observed, and
+According to this, the area of
+danger and access to it must be prevented from
+personnel who are not adequately equipped,
+moving away preferably in the opposite direction to the
+wind, to any person outside the em
+emergency.
+• The number of people in the area must be limited.
+danger to the minimum essential, controlling them
+constantly by a person in charge who must
+remain outside the area, which must
+have a rescue team ready to intervene
+if necessary.
+• Once the Emergency Director activates the Plan,
+The Intervention Team will be deployed to
+control the fire and, if possible, cordon off the
+affected area.
+• The safety of personnel must be maintained,
+having a means of retreat at all times
+25
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Emergency situation Fire action plan
+and using the appropriate extinguishing agents and PPE
+against fire. If the situation is serious,
+The fact will be reported to the Fire Company.
+• After extinguishing the fire, collect dirty effluents
+by extinguishing agents and manage them
+appropriately as determined by the Management Plan
+of company waste.
+• Once the emergency situation is controlled, the Chief
+Emergency Department will inform the Director of
+Emergency, decreeing the end of it.
+The Procedure for action in the event of a forest fire
+will be as follows:
+• Give immediate notice to the supervisor in case of
+causing, sighting or being informed of a fire
+forestry.
+• All people who suffer an accident
+work resulting from the fire or its fight
+should be referred to the Project paramedic/TENS or
+mutual security, as appropriate.
+• The Emergency Director will decree the activation
+of this Plan and the Head of the Emergency will assess
+the Level of it.
+• The Intervention Team will only act to
+Level 2 emergencies. In case of Level 3 emergencies
+external help will be required (Fire Departments,
+CONAF).
+• Coordinate with CONAF, firefighters and police if the
+emergency requires it. With the aim that said
+institutions are aware of the fact and
+carry out the necessary evaluations for the dispatch
+of resources to the fire zone.
+• The most appropriately trained and available personnel
+near the place of the fire will begin to fight it
+immediately, as long as it is not
+your security is compromised, otherwise, the
+risk prevention advisor must direct the
+evacuation process to meeting points
+emergencies defined for the Project.
+• The first fire attack will begin towards the
+arrest of the main front or focus of fire
+using extinguishing equipment and building the
+control lines that are required.
+26
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 10-5 PAS 138
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Emergency situation Fire action plan
+• Only if the conditions of the fire allow it,
+You must withdraw all products
+flammable materials found in the accident site
+and those that may cause spills.
+• The Emergency Chief must carry out a count of
+all personnel present in the emergency.
+• Once the emergency situation is controlled, the Chief
+Emergency Department will inform the Director of
+Emergency, decreeing the end of it.
+In the event of a Level 2 or Level 3 emergency,
+will inform within the first 24 hours to the
+Superintendence of the Environment (SMA), CONAF and
+SEREMI Environment, by telephone and/or mail
+electronic. Then, within a period of no more than 15 days
+event occurred, an emergency report will be sent, the
+which will contain at least:
+Opportunity and means of communication to the SMA • Date, time and place of occurrence.
+of Plan Activation • Reason for the emergency.
+• Environmental aspects involved (soil, emissions
+atmospheric, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+Prevention actions that will be implemented to avoid a
+new occurrence.
+Source: GAC, 2024
+3 COMPLIANCE INDICATORS
+The compliance indicator will correspond to:
+• Copy of the RCA (pronounced resp
+ect of compliance with the requirements of PAS 138 in the
+scope of the SEIA).
+• Copy of the Sector Authorization Resolution for the construction and operation of the
+Wastewater Treatment Plants proposed in this document.
+27

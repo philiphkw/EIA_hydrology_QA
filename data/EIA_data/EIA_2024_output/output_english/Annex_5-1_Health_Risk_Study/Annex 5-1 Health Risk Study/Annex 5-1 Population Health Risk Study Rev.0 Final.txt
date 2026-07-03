@@ -1,0 +1,2708 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 5-1
+Environmental risk assessment for
+the health of the population
+EIA “Mining Development Project of
+Clay Extraction for Production
+of Rare Earth Concentrates”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421 6th Floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+GENERAL INDEX
+PRESENTATION ................................................................................................................................... 1
+SUMMARY ........................................................................................................................................... 2
+1 INTRODUCTION ................................................................................................................... 6
+2 OBJECTIVE OF THE HEALTH RISK ASSESSMENT ................................................................ 14
+3 Methodology OF THE ENVIRONMENTAL ASSESSMENT OF RISKS TO THE HEALTH OF THE POPULATION ......... 15
+4 CHARACTERIZATION OF THE METEOROLOGY AND AIR QUALITY OF THE AREA ........................................... 21
+5 ENVIRONMENTAL ASSESSMENT OF HEALTH RISKS ................................................................................... 23
+5.1 DETERMINATION OF THE AREA OF INFLUENCE OF HEALTH RISKS ................................................... 23
+5.2 DESCRIPTION OF THE EXPOSED POPULATION THAT IS CONSIDERED IN THE RISK ASSESSMENT
+FOR HEALTH ................................................................................................................................... 25
+5.3 BASE HEALTH RISK SCENARIO IN WHICH THE PROJECT WILL BE PLACED ......... 27
+5.4 EVALUATION OF THE GENERATION OF RISK TO THE HEALTH OF THE POPULATION ................................... 29
+5.5 EVALUATION OF ADVERSE EFFECTS ON THE HEALTH OF THE POPULATION BY MP2.5
+ASSUMMING THE EXISTENCE OF PRE-EXISTING RISK ........................................................................... 39
+5.5.1 Hazard identification: MP2.5 ....................................................................................... 40
+5.5.2 Exposure assessment ........................................................................................................... 45
+5.5.3 Exposure dose ........................................................................................................................... 47
+5.5.4 Dose-response evaluation ................................................................................................... 48
+5.5.5 Risk characterization ................................................................................................... 51
+5.6 UNCERTAINTY ANALYSIS ........................................................................................................... 65
+6 CONCLUSIONS ........................................................................................................................... 66
+TABLE INDEX
+Table 1-1. General Project Schedule ................................................................................................ 10
+Table 1-2. Coordinates of access to the Project ................................................................................................ 11
+Table 5-1. Location of sensitive air quality receptors ................................................................................... 25
+Table 5-2: Description of the human receptors close to the project ................................................................... 26
+Table 5-3. Air Quality Baseline Summary. Period January 2020 to December 2022. ...................... 27
+Table 5-4: Significance levels due to increased concentration of PM10 and PM2.5 in saturated zones
+for periods of 3 or more years in duration ........................................................................................................... 30
+Table 5-5. Annual average fine respirable particulate matter (PM2.5) dispersion model results
+............................................................................................
+....................................................................... 30
+Table 5-6. Dispersion model results for fine respirable particulate matter (MP2.5) P98 24 hours. 31
+Table 5-7. Respirable particulate matter (PM10) dispersion model results annual average .... 32
+Table 5-8. Respirable particulate matter dispersion model results (MP10) P98 24 hours ......... 33
+Table 5-9. Carbon monoxide (CO) dispersion model results P99 1 hour................................ 34
+Table 5-10. Carbon monoxide (CO) dispersion model results P99 8-hour moving average .. 34
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-11. Annual average nitrogen dioxide (NO ) dispersion model results ......................... 35
+2
+Table 5-12. Nitrogen dioxide (NO ) dispersion model results P99 1 hour ................................... 36
+2
+Table 5-13. Annual average sulfur dioxide (SO ) dispersion model results ........................................... 37
+2
+Table 5-14. Sulfur dioxide (SO ) dispersion model results P99 24 hours................................................ 38
+2
+Table 5-15. Sulfur dioxide (SO ) dispersion model results P98.5 1 hour ................................... 38
+2
+Table 5-16. Effects of air pollution on health ........................................................... 41
+Table 5-17: Concentration response functions selected to evaluate health risk by
+Short Term exposure ........................................................................................................................... 50
+Table 5-18: Concentration response functions selected to evaluate health risk by
+Long Term Exposure ........................................................................................................................... 50
+Table 5-19: Baseline rates used for the characterization of health risk due to PM2.5 ................................... 55
+Table 5-20: Risks of general mortality without external causes for each susceptible receptor due to
+chronic exposure to PM2.5 of the project in year 4 of operation above the pre-existing risk...... 55
+Table 5-21: Risks of adverse effects for each sensitive receptor due to acute exposure to PM2.5
+....................................................................................................................................................................... 57
+Table 5-22: Estimated concentration of MP10 and MP2.5 in each receptor after measurements .......... 59
+Table 5-23: Risks of adverse effects for each sensitive receptor due to chronic and acute exposure
+to MP2.5 with the committed measures ................................................................................................................ 60
+Table 5-24: Maximum and minimum temperatures recorded in Concepción and Temuco during the months of
+year 2023 ................................................................................................................................................... 62
+Table 5-25: Health risks for each sensitive receptor due to chronic exposure to PM2.5 after
+of compensation for replacement of wood stove/stove with respect to the pre-existing risk ................ 64
+Table 5-26: Health risks for each sensitive receptor due to acute exposure to PM2.5 after
+of compensation for replacement of wood stove/stove with respect to the pre-existing risk ................ 64
+Table 5-27: Reduction of emissions committed by CEMARC in year 4 of operation of the present
+Project ................................................................................................................................................... 65
+INDEX OF FIGURES
+Figure 1-1. Parts and Works of the Project ....................................................................................................... 7
+Figure 1-2. Periodic table of the elements ................................................................................................ 8
+Figure 1-3. Circular Mineral Harvesting Process ...........................................................................................
+.. 9
+Figure 1-4. Political-administrative location of the Project ....................................................................... 10
+Figure 1-5. Access to the project via Route 150 and 152 ................................................................................... 12
+Figure 1-6. Internal roads ................................................................................................................... 13
+Figure 3-1: Health risk configuration of a project ........................................................................... 16
+Figure 3-2: Decision scheme for criteria to evaluate health risk ........................................................... 17
+Figure 3-3: Decision scheme to evaluate the risk to the health of the human population regarding
+atmospheric pollutants generated by the project ........................................................................... 18
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 3-4. Components necessary for the presence of health risk ........................................................... 19
+Figure 3-5: Methodology for the analysis of the health risk of the Project ................................................................... 20
+Figure 5-1: Definition of the Area of Influence for Health Risk ................................................................... 23
+Figure 5-2. Area of Influence Component Air, PM and Gases ................................................................... 24
+Figure 5-3. Location of sensitive air quality receptors in the area of influence of MP ......................... 26
+Figure 5-4: Decisional scheme to evaluate the health risk of the project due to exposure to
+atmospheric pollutants ....................................................................................................................... 29
+Figure 5-5: Stages of environmental risk assessment ....................................................................................... 40
+Figure 5-6: Human receptors relevant to the project ........................................................................... 46
+Figure 5-7: Exposure route for the Project ........................................................................................... 47
+Figure 5-8: Analysis model to evaluate health effects due to respirable particulate matter
+(MP2.5) ....................................................................................................................................................... 54
+Figure 5-9: Temperatures recorded in Concepción and Temuco 2023 ....................................................... 62
+Figure 5-10: Maximum and minimum temperatures in Concepción ................................................................... 63
+APPENDICES
+Appendix 1: CV of report authors
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+PRESENTATION
+This health risk assessment report has been prepared by Drs. Soledad Ubilla and
+Claudio Vargas with the purpose of responding to the environmental evaluation of the risk to the health of the population,
+by virtue of what is indicated in article 5 of the SEIA Regulations for the Environmental Impact Study
+(EIA), of the “Mining Development Project for the Extraction of Clays for the Production of Concentrated
+Rare Earths” (hereinafter “the Project”).
+Dr. Soledad Ubilla, works as Project Manager of Environmental Management Consultants and is
+specialist in environmental assessment studies of risk to the health of the human population, former director
+of SESMA and served as head of the Public Policy Division (which includes the Department
+Environmental) of the Ministry of Health. He has carried out multiple environmental risk assessment studies of
+health, she was an advisor to the Ministry of the Environment for the definition of the Environmental Assessment Guide
+Health Risk of the Environmental Assessment Service (SEA),
+In addition to having served as
+international consultant for PAHO (Pan American Health Organization) in multiple studies
+health services within which the Diagnosis in the Americas of the Performance of Functions stands out
+Public Health Essentials (more information is attached in Appendix 01).
+Dr. Claudio Vargas currently works as an Emergency Medicine specialist and is the
+in charge of the Clinical Epidemiology Unit at the HUAP (Public Assistance Emergency Hospital),
+doctor specializing in Internal Medicine, associate professor of Biostatistics and Public Health of the
+departments of Geographical Engineering, Mathematics and Computer Science and Medicine and others
+Health Sciences of the USACH, and member of the thesis examining committee of the University of Chile and
+from USACH (details of your relevant professional experience are attached in Appendix 01).
+As established in all reports and health risk assessments carried out by these
+professionals, it is important to note that the conclusions of this report are exclusively
+responsibility of the team that participated in this study, without prejudice to the fact that when included in the EIA of
+reference form an integral part of it. The conditions established for the preparation of these
+studies, requires the independence of the experts in relation to the analysis carried out.
+1
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+SUMMARY
+Within the framework of the presentation of the Environmental Impact Study of the “Clay Extraction Project
+for the Production of Rare Earths” for its environmental qualification, the evaluation analysis is developed
+environmental risk to health with respect to the potential effects of the Project on the set of
+receptors located in the area of influence of the Project, which could be affected by the quality of the
+ambient air, based on the recent update of the “Guide for environmental risk assessment
+for the health of the population” (hereinafter the new guide) referred to in the Exempt Resolution Document
+Digital No. 202399101187, dated March 8, 2023, of the Executive Directorate of the Security Service
+Environmental Assessment (SEA) and its complement “Evaluation criteria in the SEIA: Impact of emissions
+in areas saturated by respirable particulate matter MP10 and fine respirable particulate matter MP2.5”
+(hereinafter criteria document) referred to in the Exempt Resolution Digital Document No.
+202399101721, dated September 8, 2023, also from the Executive Directorate of the SEA.
+In accordance with the general criteria provided by the SEA, prior to carrying out the risk assessment in
+health of the population, it is necessary to determine the scenario in which the Project is located, confirming
+whether the nearby population could be affected by the effects, characteristics or circumstances referred to
+letter a) of article 11 of Law No. 19,300. This analysis is of great relevance because
+Formally, the commune of Penco is included in the “Prevention and Decontamination Plan.”
+Atmospheric for the Communes of Concepción Metropolitano” (D.S. Nº6/2018 of the MMA); it, like
+consequence of its inclusion within, the declaration as “Saturated Zone for Fine Particulate Material
+Respirable (MP2.5)” (D.S. Nº15/2015 of the MMA), as a daily concentration.
+From the review of the behavior of representative air quality monitoring stations
+population (EMRP) that have been included in the definition of “saturated zone”, it is possible to infer that the
+saturation condition occurs heterogeneously in the area where the maintenance plan is applied.
+prevention and decontamination. The Kingston College station, which is the closest to the Project, and is
+It is located in a sector without the presence of industrial activities, being therefore representative of the
+exposure situation of discrete human receptors defined as relevant to this
+project, measurements from recent years (2020-2022) show that the limits of the
+primary quality standard for MP2.5 in the three-year average of recent years and neither in the
+98th percentile of 24 hours
+hours 2022, reaching only 69% for the three-year average and 75% for the
+daily norm. Consequently, in real and/or practical terms, the area in which the station is located
+monitor is not saturated for said contaminant.
+However, given that the entire area is formally and administratively declared saturated for
+MP2.5, as indicated in the new guide and the criteria document, it is also evaluated whether the Project increases
+2
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+the probability of generating an adverse effect on people's health, assuming the existence of a
+pre-existing risk in these recipients.
+Thus, following the guidelines of the new guide, your Scenario N°1 (point
+3.1.1) which indicates that it must be evaluated whether the contributions of the Project regarding MP2.5 over the situation
+current and the contributions of other projects with current RCA that have not been executed to date, could
+generate effects that make up the assumption of letter a) of article 11 of Law No. 19,300.
+In the case of MP10 and other air pollutants that have a primary quality standard
+national (NO, SO, O 1, Pb2 and CO) where the base scenario confirms that there is no exceedance of the limit of
+2 2 3
+the primary quality standard, it is evaluated whether the additional contributions of the project to the current situation and the
+contributions from other projects with unexecuted RCA configure the generation of risk for the health of the
+population due to exceeding the “acceptable risk”, which corresponds to the limit of the primary norm
+of quality, as indicated in Scenario N°2 of the new guide (point 3.1.2).
+The results of the analysis presented in chapter 5.4 Evaluation of the generation of health risk
+of the population, it is confirmed that for all the discrete receptors identified in the area of influence
+of the Project, the primary environmental quality standards (in concentration and period) are not exceeded for
+PM10 and gases (CO, NO, SO), confirming that in all human receptors and for all these
+2 2
+contaminants, the regulated limit is not exceeded; therefore, it is concluded that the Project maintains the
+condition of “acceptable risk” and, consequently, for these pollutants, the Project does not generate
+risk to the health of the population.
+Because the estimated contributions for some human receptors exceed the significance values
+referred to in the criteria guide for the increase of this pollutant for a period equal to or greater
+to 3 years (considering that the Project will have a total duration of 9 years), the
+analysis by evaluating the health risk that the Project could generate over a risk
+pre-existing.
+In this way, the effects on the health of the human population due to exposure to PM2.5 are analyzed.
+for each human receptor in the area of influence of the Project, for year 4 of the operation phase,
+which corresponds to the year with the highest expected emissions of the entire Project.
+1 In relation to ozone, it is a mining activity project, whose main emissions correspond to
+particulate matter, generating gas emissions that are not relevant for the formation of O.
+3
+2 In relation to lead (Pb) emissions from the project, they are discarded because there is no source
+of the project in any of its stages that could generate atmospheric emissions of this pollutant.
+3
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+From the bibliographic review carried out to the set of methodologies used to evaluate health effects
+due to particulate matter, the WHO in its HRAPIE3 report and its recent update of the guidelines
+global air quality4 recommends evaluating health risk for acute effects
+(cardiovascular and respiratory hospitalizations) and chronic (where the effect that best accounts for the
+risk
+to health is general mortality less external causes), since in these categories is where
+There is sufficient scientific evidence.
+From the review of alternatives to characterize the concentration-response relationship, in general it can be
+conclude that the methodologies have been very consistent in the studies carried out both at the
+international as those carried out in Chile. For this analysis, the model recommended by
+the WHO5, which collects the accumulated experience of the EPA and other researchers, from which the
+short- and long-term exposure model to particulate matter and its health effects. It should be noted
+that this model was also used by Luis Cifuentes6 for the study carried out on the definition of
+PM2.5 standard aimed at identifying and quantifying the health impacts derived from emissions of
+pollutants in the air, which reinforces that this analysis methodology is totally valid for this
+case.
+When assessing risk from exposure, regulatory agencies, such as Health Canada and the
+Environmental Protection Agency of the United States (U.S. EPA), it is recognized that any level of
+Non-zero exposure is associated with some cancer risk. Therefore, these agencies
+International organizations have defined the level of risk that could be considered acceptable or tolerable. About it
+All agencies agree that a risk level of 10-6 attributable to a project can be
+considered as “essentially zero” or acceptable risk level. On the other hand, agencies
+agree that between an absolute health risk of the order of 10-4 to 10-6 could be considered a
+acceptable health risk depending on the situation and circumstances of exposure.
+In this case, assuming the condition of “saturated zone” where the operation of the Project could generate
+a health risk for chronic and acute exposure events beyond what is acceptable at very
+limited7 (because in the R-11, R_28 and R_32 receivers), the health risk of the operation of the
+Project in the year of highest emissions generates an absolute risk of the order of 10-5; Given this,
+consider and evaluate the results that could be obtained with the implementation of safety measures
+3 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+4 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+5 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+6 Study Relationship of the primary quality standard MP 2.5 with the primary quality standard of MP 10, report prepared by L
+Cifuentes for CONAMA during the process of defining the MP standard, July 2010.
+2.5
+7 It should be noted that this effect will not occur in other receptors or in the urban area of Penco.
+4
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+mitigation and/or compensation of emissions (asphalting, application of suppressor and replacement of the use of firewood
+as cooking fuel/equipment heating/zero emission fuel).
+The results allow us to conclude that adding the measure of replacement of wood stoves/stoves in these
+three receptors, a health protection effect can be observed for the inhabitants of these three points
+receptors, since both for chronic exposure and acute exposure the reduction that would be obtained
+generates a situation of improvement of the baseline situation.
+5
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+1 INTRODUCTION
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+rare, hereinafter, indist
+In short, the Project corresponds to the set of parts, works and actions that
+will allow the construction, operation and closure of a mining site and a waste processing plant
+clays, material present in the area, which, due to natural effects, is highly weathered,
+with the presence of rare earths in clay minerals. The Project will be developed mainly in the
+commune of Penco, Province of Concepción, Biobío Region, without prejudice to the fact that a minor part of the
+Works are located in the commune of Concepción, on the border with the Commune of Penco.
+The processing plant will have a capacity to process up to 320 tons/hour of clay
+wet and produce approximately 3,100 wet tons per year of Rare Earth concentrate,
+equivalent to 1,700 annual dry tons of Rare Earth concentrate. Added to the above, in
+In summary, the Project considers three (3) clay extraction zones (ZE Victoria Norte, ZE Luna, ZE Maite),
+one (1) disposal area for ballast and washed clays (ZD Neptuno), one (1) soil storage area
+plant (ZAV), a clay processing plant (the Plant) and a stockpile for temporary storage
+of material prior to processing; Likewise, it contemplates a 15 kV electrical line and its connection to
+an existing line and the construction and/or improvement of internal roads to access the different
+areas (see Figure 1-1).
+It is important to take into consideration that only mechanized mobile equipment will be operated, such as
+such as hydraulic excavators, front loaders and dump trucks, since the material of interest is
+found superficially. The above is explained by the origin of the type of soil present in the area of the
+project, of the residual type, formed from natural weathering by physical and chemical agents
+of the rock. As a result of the above, the extraction does not require the use and/or storage of explosives.
+to carry out blasting, nor are crushing or grinding processes of the material considered.
+during processing in the plant.
+It is important to take into consideration that the mineralogical matrix does not contain radioactive elements and, therefore
+Therefore, the development of the Project does not contemplate the use or extraction of radioactive materials, nor is
+relates to the extraction of elements such as Thorium (Th) and Uranium (U), since it only considers the
+extraction of the rare earth content existing in the sectors of interest, which do not contain
+radioactive elements.
+6
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-1. Parts and Works of the Project
+Source: Own elaboration.
+Rare earth elements or their name by their acronym in English, REE (Rare Earth Elements) correspond to the
+following elements: lanthanum (La), cerium (Ce), praseodymium (Pr), neodymium (Nd), promethium (Pm), samarium
+(Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium
+(Yb) and lutetium (Lu), which together with yttrium (Y) and scandium (Sc), are in a special position
+in the periodic table, according to the International Union of Pure and Applied Chemistry (IUPAC), as seen
+in Figure 1-2.
+7
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-2. Periodic table of the elements
+Source: IUPAC (https://iupac.org/what-we-do/periodic-table-of-elements/)
+The extraction and processing of these lanthanides aims to supply the growing demand associated
+to the optimization of equipment for electromobility, as its properties allow more
+efficient and longer lasting. With the above, the country will be able to put itself at the forefront of an industry of
+high global relevance, standing out not only for the value of the resource to be processed (high quality), but also
+for the pioneering technology that will be used to obtain it.
+Considering the global and national decarbonization challenge of the plan
+ta, through processes
+traceable, the owner has innovated in a unique rare earth production process, called “Harvest
+Mineral Circular” that was patented in December 2022. This process considers supplying
+recycled water, contributing to the circular economy and also considers recirculation closely in its design
+of 95% of the water in the process8, as well as the main reagent, which is ammonium sulfate. On the other
+On the other hand, the processed clay, together with the vegetal soil, will contribute to the revegetation with native species and
+in this way contribute to a gain in biodiversity. Figure 1-3 shows a summary diagram
+with the “Circular Mineral Harvest” process.
+8 It should be noted that the remaining 5% of the water remains in the mineral as described in Chapter 1 of the EIA.
+8
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-3. Circular Mineral Harvesting Process
+Source: Own elaboration.
+Next, the political-administrative location of the Project is presented (Figure 1-4), as well as the
+location of its parts and works.
+9
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-4. Political-administrative location of the Project
+Source: Own elaboration based on project engineering
+The materialization of the Mining Development Project for the Extraction of Clays for the Production of
+Rare Earth Concentrate considers an approximate investment of USD $130 million (one hundred thirty
+million dollars).
+The useful life of the Project is given by the time spanning the construction phase, the operation phase
+and the closing phase. The construction phase of the Project considers a duration of the order of 25 months, the
+operation phase corresponds to 6 years (72 months) and the closure phase includes 12 months, that is,
+It is estimated that the useful life of the Project, considering all phases, is 9 years.
+Table 1-1. General Project Schedule
+Year
+Phase
+2026 2027 2028 2029 2030 2031 2032 2033 2034
+Construction
+Operation
+Closing
+Source: Own elaboration based on project engineering
+Although the Project does not modify a project or activity, by virtue of the provisions of article 12 of the D.S.
+N°40 of 2013 of the Ministry of the Environment, in accordance with the request of article 14 of the D.S. No.
+10
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+40/12 MMA, it is reported that the Project will be carried out in stages, noting that this EIA
+corresponds to the initial stage of the Project, with which, once all permits have been approved and processed
+applicable, it will be possible to begin its execution in a timely manner, considering the conditions of a
+competitive global market that requires a product not only of excellent quality but also in
+defined or limited times.
+The location of the Project is justified by the presence of clays rich in Rare Earths, which in terms
+extraction and processing present several environmental advantages over other types of
+deposit; That is, it does not use explosives and does not require crushing or grinding processes. During the
+In the last decade, the mining industry has gradually opened up to the exploration and extraction of minerals.
+strategic. Among these are rare earths, essential in the current economy because
+They are used in the manufacturing, among others, of technology and its applications in electromobility.
+The Project considers two (2) accesses, which are indicated below.
+Access 1 - Route 150 km 4, Route Concepción - Penco.
+Access 2 - Route 152 km 71 Itata Route (North and South access to the El Cabrito Overpass)
+Regarding accesses through Route 150 and Route 1
+52 are considered permanent accesses for the phase of
+operation and closure and for the construction phase, permanent access is contemplated via route 150 and a
+temporary access via route 152. The northern access from route 152 is designed for vehicles with
+circulation from route 5 south and the southern access from route 152 for vehicles coming from Penco or
+Conception.
+The following table indicates the reference coordinates of the aforementioned accesses.
+Table 1-2. Project access coordinates
+Coordinates
+Access UTM Route WGS 84 H18S
+East (m) North (m)
+Access 1 Route 150 km 4, 677,059 5,928,317
+Route 152 km 71 – North 682,264 5,929,567
+Access 2
+Route 152 km 71 – South 681,283 5,929,743
+Source: Aclara
+Figure 1-5 shows the aforementioned accesses.
+11
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-5. Access to the project via Route 150 and 152
+Source: Own elaboration based on project engineering
+Figure 1-6 shows the internal roads of the Project, which are classified as existing roads.
+that will be improved and roads projected.
+12
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 1-6. Internal roads
+Source: Own elaboration. from project engineering.
+The project is presented to the SEIA as an Environmental Impact Study justifying as entry literal
+Under this modality, Article 5, literal a) of the RSEIA, among other effects, characteristics and circumstances to which
+referred to in article 11 of Law 19,300. This is due to the fact that truck traffic and movements
+(extraction) of earth (clay) for the extraction of the mineral will generate emissions whose expected contribution to
+air quality would exceed the significance values referred to in the “Criteria Guide”9, regarding the
+increase in concentrations of PM2.5, The above, on 3 points where there is presence of receptors
+humans for the annual norm (which is compared against triannual concentrations)10 in saturated zone for
+MP2.5. It should be noted that this effect is spatially limited to these 3 specific points and is not
+present in other recipients neither in the urban area of Penco nor in other areas where the population lives.
+9 Evaluation criteria in the SEIA: Impact of emissions in saturated areas due to respirable particulate matter
+MP10 and fine respirable particulate matter MP2.5” (hereinafter criteria document) referred to in the Resolution
+Exempt Digital Document No. 202399101721, dated September 8, 2023, also from the Executive Directorate
+of the SEA.
+10 Table 1 document: “Evaluation criterion in the SEIA: Impact of emissions in saturated zones by
+MP10 respirable particulate matter and MP2.5” fine respirable particulate matter.
+13
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+According to the new health risk assessment guide, in this case it is appropriate to evaluate to
+PM2.5 the increase in the pre-existing risk and for the rest of the atmospheric emissions, verify if with
+the contributions of the Project, added to the baseline and the contributions of other projects with current RCA and that
+have not been executed, there is no exceeding of the exposure limit values established in
+the primary national environmental quality standards, which must be understood as “acceptable risk.”
+Thus, considering the quantity and quality of the atmospheric emissions of the Project, the doses of
+exposure of the human population exposed in year 4 of the operation phase, which corresponds to the year
+which is expected to present the highest emissions, considering all phases of the Project, therefore,
+corresponds to the most unfavorable scenario from the point of view
+environmentalist in terms of emissions
+and where the greatest effects on health could be generated.
+Based on the results obtained in the modeling of this scenario, the potential risk to the
+health of people, based on the projected concentration of each contaminant in each of the
+nearby human receptors (mainly homes) that are located in the area of influence of the
+Project for the air component (see chapter Area of influence point 2.1.1.1 Air Quality).
+This report carries out the environmental evaluation of the risk to the health of the population, characterized in
+21 receptors (of which 20 correspond to discrete receptors where there is a human population and
+adds the Kingston College air quality monitoring station), for which there could be
+effects on health due to the Project, in order to identify, quantify and analyze the degree of increase
+of health risk due to the contribution of atmospheric pollutants: respirable particulate matter
+(MP10 and MP2.5) and gases (CO, SO and NO), in the year of highest emissions generated by the Project, in the
+2 2
+population found in the area of influence for this component in order to confirm the
+presence or absence of the effect referred to in article 11 letter a) of Law No. 19,300.
+In the event that the presence or generation of health risk is confirmed, the following is considered:
+and evaluates the reduction of effects due to the application of mitigation and/or compensation measures
+that allow us to take charge of this health risk and avoid it. As the new guide points out, even
+When the measures are compensation for the purposes of the Project, it is understood that if they are
+Measures that reduce or avoid environmental exposure that generates health risk will be considered
+as health risk mitigation measures (point 3.3 Criteria for the applicability of measures regarding
+to the health risk of the new guide).
+2 OBJECTIVE OF THE HEALTH RISK EVALUATION
+The objective of this Report is to carry out the environmental assessment of health risk in the recipients.
+identified in the area of influence of health risk, due to exposure to particulate matter
+(MP2.5 and MP10) and gases (NO, SO and CO) generated by the Project, based on the guidelines
+2 2
+14
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+delivered by the new “Guide for the environmental assessment of risk to the health of the population”, to
+referred to in the Exempt Resolution Digital Document No. 202399101187, dated March 8, 2023,
+of the Executive Directorate of the Environmental Evaluation Service (SEA) and its complement “Criteria of
+evaluation in the SEIA: Impact of emissions in saturated zones by respirable particulate matter MP10
+and fine respirable particulate matter MP2.5” (hereinafter criteria document) referred to in the
+Exempt Resolution Digital Document No. 202399101721, dated September 8, 2023, also from
+the Executive Directorate of the SEA.
+3 METHODOLOGY OF THE ENVIRONMENTAL ASSESSMENT OF RISKS TO THE HEALTH OF
+THE POPULATION
+Following the guidelines of the new guide, the risk associated with the presence of contaminants will be evaluated
+atmospheric emissions present in the area of influence due to the execution of the works and activities of the
+Project in any of its phases (construction, operation and closure), which could generate effects
+adverse effects on the health of the human receptor set are identified in that area.
+Based on the fact that the expression population that is used in letter a) of article 11 of Law No. 19,300 is
+must include any group of people who, in response to the circumstances, permanently or
+transitory conditions could be found in the area of influence of the Project, for this component (quality of the
+air).
+Taking into consideration that the Project is located in an area included within the “Plan of
+Prevention and Atmospheric Decontamination for the Communes of Concepción Metropolitano” (D.S.
+Nº6/2018 of the MMA), due to its previous declaration as “Saturated Zone for Fine Particulate Material
+Breathable MP2.5” (D. Nº15/2015 of the MMA), it is necessary to
+nsign for this air pollutant
+if the Project generates an increase with respect to the pre-existing risk in the recipients.
+As indicated in the new guide, to evaluate the generation or presence of health risk as a result
+of atmospheric emissions, it is necessary to define the scenario in which the project is installed,
+considering the following:
+• Increased pre-existing risk for PM2.5 and
+• Exceeding exposure values established in primary environmental quality standards
+valid in Chile for MP10 and gases.
+Based on the baseline air quality characterization (see Chapter 3, section Physical Environment, point
+3.2 Air Quality), although it is confirmed that the area of influence of the Project represented in the station
+Kingston College monitoring system is not saturated for annual PM2.5 (69% of the primary standard) and
+daily (75% of the primary norm), the analysis is also carried out considering that the Project could
+15
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+generate an “increased pre-existing risk” for PM2.5 and other air pollutants
+It is evaluated whether the Project could generate the limit of the established primary standard (MP10 and
+gases).
+Figure 3-1: Health risk configuration of a project
+Source: Formal presentation of June 28, 2022 carried out by the Department of Studies and Development of the SEA, of the
+Department of Support for the Evaluation of Complex Projects, via streaming.
+As presented in the figure (see Figure 3-1), in the case of the area where the project will be located,
+commune of Penco and Concepción, it is evaluated, in a total of 20 human receiving points that
+They correspond mostly to inhabited homes and at the Kingston College station, the generation of
+health risk or an increase in pre-existing risk, for air pollutants that
+They have a primary national environmental quality standard. Only for the pollutant MP2.5
+analyzes the effects of increased pre-existing risk due to the saturated zone condition, to
+the MP10 and gases the effects analysis evaluates whether the contributions of the Project could generate a risk in
+health on those receptors.
+The contributions of the modeled scenario in the concentration to which the 20 receptors will be exposed
+direct, consider the statisticians of the quality standards applicable to MP10, MP2.5, NO, SO and CO,
+2 2
+It should be remembered that both the MP10 and the MP2.5 estimated by the model consider the formation of
+nitrates and sulfates (secondary PM) from NO and SO respectively.
+x 2
+Taking into consideration the scenario in which the Project is located, saturation condition for
+PM2.5 and generation of health risk currently non-existent for PM10 and gases, the evaluation is
+carried out following the guidelines of the new guide, on increased pre-existing risk (section 3.2.3 of
+the new guide in each receiver) for PM2.5 or exceeding the values of the concentrations and periods
+of the national primary quality standard in each receiver for MP10, SO NO and CO (section 3.2.1 of the
+2 2
+new guide), as presented in the following figure.
+16
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 3-2: Criteria decision scheme to evaluate health risk
+Source: figure 6 of the Guide for the environmental assessment of risk to the health of the population (SEA, 2023)
+To evaluate the exposure to PM2.5 generated by the Project, the guidelines will be taken into consideration.
+provided in the document criteria regarding whether or not the significance values for the
+increase in concentrations on each receptor as indicated in Table No. 1 of said document, due to
+because the Project considers an execution period greater than 3 years.
+For the other contaminants, the results of the modeling of the execution will be taken into consideration.
+of the Project in year 4 of the fa
+se of operation, which estimates their contributions in the scenario of greater
+emissions, determining whether any of the primary quality standards in force in Chile are exceeded.
+Below is a figure that summarizes the analysis process described.
+17
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 3-3: Decision scheme to evaluate the risk to the health of the human population regarding
+air pollutants generated by the project
+Source: Own elaboration.
+As indicated, this report carries out the environmental assessment of the risk to the health of the population,
+characterized in the set of 20 discrete receivers and the Kingston College Monitoring Station, in order
+to identify, quantify and analyze the significance of the environmental effect that the emission of
+fine respirable particulate matter (PM2.5) in the year of greatest emission, over the population
+located in the area of influence of the Project, for this component, health risk in order to
+confirm the presence or absence of the effect referred to in article 11, letter a), of Law No. 19,300.
+The sources of information used in this analysis correspond to the results of the estimation
+of emissions from the Project that is subject to environmental evaluation and the modeling (immission), of the
+atmospheric emissions that the Project will generate, in addition to the baseline characterization and the contribution
+of other projects with RCA that do not currently constitute a baseline, carrying out the analysis to
+the year of greatest emission that corresponds to year 4 of operation or year 6 of the entire useful life of the Project,
+which constitutes the worst condition of exposure of receptors to atmospheric pollutants
+analyzed in this evaluation.
+18
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+To evaluate the health risk referred to in literal a) of article 11 of Law No. 19,300 due, in
+In this case, to the quantity and quality of atmospheric emissions generated by the Project, there must be a
+emitting source of a pollutant, a receptor, which in this case corresponds to the human population, and the
+possibility of migration of the emitted pollutant to a point of contact with the receptor, that is,
+a complete or potentially complete exposure route (Figure 3-4). If there is no possibility of contact
+between people and contaminants, there is no possibility of exposure and, consequently, there is no possibility
+risk to people's health.
+Figure 3-4. Components necessary for the presence of health risk
+Source: Risk Guide for the health of the population, according to art. 11 Law 19,300 letter A.
+It should be noted that health risk is defined as the “probability of the occurrence of an effect
+adverse11 on a human receptor due to the quantity, quality and time of exposure”; for which it is
+necessary to confirm the existence of a human population in the area of influence likely to be seen
+affected by the composition and characteristics of the atmospheric emissions that the Project will generate,
+verify the route of exposure, and in particular, whether the transport mechanisms of the contaminants to
+making contact with the human receptors located in the area of influence of the Project ensures its
+contact, considering that the route of exposure is inhalation of the particulate matter and gases present
+the air that these receptors will breathe.
+A relevant aspect to consider in this analysis is that within the foundations of the presentation
+of this Project as an Environmental Impact Study (EIA) the possible impact on health is considered
+of the population, because the movement of earth for the extraction of mineral and vehicular flows,
+11 The definition of “adverse effect” in the new Guide is made with reference to Guide ISO/IEC 73:2009 of the
+International Organization for Standardization, which provides a
+basic vocabulary to develop a
+common understanding of terms and concepts related to risk management among organizations and
+functions, of all types and applications.
+19
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+will generate emissions whose contribution to air quality exceeds the significance values of the increase in
+concentrations of PM2.5 for a period equal to or greater than 3 years in a saturated zone for PM2.5 over 3
+human receptors.
+In this case, the health risk is characterized, quantitatively determining the eventual excess of
+risk (premature deaths, cardiovascular and respiratory hospital admissions) with respect to
+basal condition, using recommendations based on dose-response functions as a reference
+delivered by the WHO12, USEPA13, IARC14 and other international reference agencies, verifying whether
+configures the existence of an exposure route (See Annex 1 of the new guide). Next, it
+presents a scheme that summarizes the methodology for health risk assessment to be developed and
+the steps to follow.
+Figure 3-5: Methodology for analyzing the health risk of the Project
+Source: Own elaboration.
+12 World Health Organization
+13 United States Environmental Protection Agency
+14 International Agency for Research on Cancer
+20
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+If the presence of a health risk is confirmed, due to an increase in the pre-existing risk or
+exceeding the regulated limit, in one or more human receptors located in the area of influence of the
+Project, it will be considered and evaluated whether the application of mitigation or compensation measures considered
+by the Project allows us to take charge of the health risk.
+In this case, it is considered to analyze the mitigation/compensation measures for atmospheric emissions.
+proposed by the project and additionally evaluate the health benefits that could be generated by a
+complementary measure consisting of replacing wood stoves, spell devices or salamanders,
+by gas or electric stoves, systems that have zero or very low emissions of pollutants and are more
+energy efficient, thereby reducing the emissions generated by combustion
+firewood.
+Finally, the nature and magnitude of the sources of uncertainty are described in a manner
+that must be weighted when evaluating the results and conclusions of the evaluation of
+risk.
+4 CHARACTERIZATION OF THE METEOROLOGY AND AIR QUALITY OF THE AREA
+The surface meteorology used to characterize the Project area corresponds to the records
+schedules of wind speed, wind direction, temperature, relative humidity, precipitation and
+solar radiation belonging to the meteorological stations Kingston College, Liceo Polivalente, Coronel
+North and New Freedom.
+In accordance with what is presented in Annex 4-1 Meteorological and air quality modeling, the station
+Kingston College records the air quality of one of the sectors with the highest concentration of population
+close to the Project and that, like the recipients closest to the Project, does not have in its surroundings
+important emission sources, or relevant industrial activity. Although in the location sector
+of the Project, the population density is much lower than that of the sector where the station is located
+Kingston College, the results monitored at this are considered a baseline
+conservative, but adequate to represent the condition of the component at nearby receivers
+to the Project.
+Additionally, with respect to the other atmospheric pollutants of interest (MP10, SO, NO, CO), if
+2 2
+Although there is no formal declaration of saturation, one must verify the basal condition in which
+The Project will be developed, also considering as the most representative monitoring station
+attempt to
+the discrete receivers in the area of influence to the Kingston College station. For these contaminants
+The analysis considers the absence of health risk as a baseline scenario and therefore evaluates whether
+The execution of the Project could generate a health risk for human recipients that
+currently does not exist.
+21
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+The wind roses confirm that the highest wind speeds occur in wind directions
+southwest (SW) and south-southwest (SSO). The daily cycle of wind direction presents a typical behavior
+from coastal areas, with winds mainly with a westerly component in the daytime period, with offshore winds
+– continent, while when temperatures drop, the wind components are from the continent
+– sea, but with greater variability.
+Because surface meteorology is a relevant factor in the dispersion of pollutants,
+An analysis was carried out that aims to qualitatively validate the behavior of the model.
+WRF that will be used as input base information to the CALPUFF dispersion model. Given the
+dispersion measures analyzed, it is quantitatively established that the model represents
+acceptable meteorological variables wind speed and temperature.
+In accordance with the provisions of the Guide for the use of Air Quality Models in the SEIA, second
+edition, the selection of the Air Quality model is based on the complex topography of the area where it is
+location of the project and the scope of the emissions. For this reason, the model used was a type model
+“Puff” as it is CALPUFF.
+CALPUFF is an advanced modeling system for air quality that also considers the
+non-permanent meteorology. Its development was carried out by the “Sigma Research Corporation”,
+while its current maintenance is the responsibility of Exponent15. Due to its performance,
+CALPUFF was listed by the USEPA as a recommended model for evaluating the impact on
+air quality of different types of projects, especially those where it is necessary to consider the
+variation in time and space of meteorological conditions and their impact on transportation,
+transformation and removal of contaminants.
+The model on this occasion was used with the Rivad/Isorropia chemical mechanism (mech=6 in CALPUFF), this
+mechanism estimates the proportion between NO and NO and also nitrates (NO) and sulfates (SO), these
+2 3 4
+were added to the PM10 and PM2.5 concentrations estimated by the model.
+It is worth mentioning that, following the guidelines of the Guide for the Use of Air Quality Models in
+the SEIA, the CALMET meteorological model was not used; For this reason the meteorology modeled by
+The WRF meteorological model corresponding to the year 2019 was processed in MMIF v3.2 to be
+entered into the CALPUFF dispersion model directly.
+The detail of the analysis carried out to estimate the emissions that the Project will generate, as well as the
+air quality modeling to estimate contributions to air quality, are presented in Annex 1-
+3 and Annex 4-1, respectively.
+15 www.src.com/calpuff/calpuff1.htm
+22
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5 ENVIRONMENTAL ASSESSMENT OF HEALTH RISKS
+Within the framework of the Project development, its activities generate atmospheric emissions,
+mainly of particulate matter in its different fractions (MP, and MP being relevant for the
+10 2.5
+health risk), and to a lesser extent gases product of internal combustion (CO, NO and SO) of
+2 2
+machinery and vehicle engines. The analysis will be carried out with respect to the estimated emissions for the
+year of highest emissions, corresponding to year 4 of the operation phase.
+Considering that spatially the estimated emissions for the construction phase and for the
+cie
+rre, will be generated in the same sectors as the emissions generated during the operation phase,
+It is possible to conclude that year 4 of the operation phase corresponds to the most unfavorable scenario; by
+This is considered in the dispersion modeling of atmospheric pollutants and will be the source of
+information to be considered in the analysis of health risk.
+5.1 DETERMINATION OF THE AREA OF INFLUENCE OF HEALTH RISKS
+As indicated in the SEA Guides, for this analysis it is established that the area of influence
+corresponds to that determined by the air quality component with respect to which the
+exposure route (air pollutants of health concern), as presented in the
+following figure (see Figure 5-1).
+Figure 5-1: Definition of the Area of Influence for Health Risk
+Source: Image extracted from SEA Training activity Risk for the health of the population in the SEIA, June 28,
+2022.
+The area of influence is defined based on the sensitive receptors present in the surroundings of the works and
+Project activities, and variations in basal air quality as a result of Project contributions
+23
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+in its different phases. The existence of a population or human groups that could
+be affected by an alteration in air quality due to the construction and operation of the Project.
+Taking into consideration the distribution of the Project works and the recipients close to them, the
+defined area of influence responds to the purpose of evaluating the possible effects of products of the
+emissions of particulate matter, and other pollutants. Activities that could generate effects
+on air quality are those that constitute sources of emission of particulate matter and gases
+pollutants that tend to disperse around the source, although covering limited areas.
+The effects are directly associated with risks to people's health, which is why they are considered
+nearby populated localities that could be affected by the works and/or activities of the Project, in
+where the receptors sensitive to the emissions generated by the Project are located in the phase of
+construction. 1% of the norms is considered as a threshold, since below 1% with respect to the norms,
+These are sufficiently low contribution values, where the contribution alone should not generate
+effects or changes in condition in recipients of interest.
+Considering the identified receptors, the area of influence is defined as the limit where it is estimated
+that a contribution from the Project equal to 1% (criterion based on the guidelines in the UK IAQM) of the standards will arrive
+current for MP10, MP2.5, NO, CO and SO, which corresponds to the largest area when comparing
+2 2
+curves of 1% of the reference standards for the different pollutants.
+Figure 5-2. Area of Influence Component Air, PM and Gases
+Source: GAC
+24
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5.2 DESCRIPTION OF THE EXPOSED POPULATION THAT IS CONSIDERED IN THE
+HEALTH RISK ASSESSMENT
+Based on the fact that the expression population that is used in letter a) of article 11 of Law No. 19,300 is
+must include any group of people who, given the circumstances, permanently or
+transient16 could be found in the area of influence, a total of 20 receptors have been defined
+corresponding to inhabited homes, as evaluation points of the dispersion model of
+atmospheric pollutants, which could be exposed to the highest concentrations of them.
+Additionally, the Kingston College population representative monitoring station has been included. The
+Location and description is presented in Table 5-1 and Figure 5-3 below.
+Table 5-1. Location of sensitive air quality receptors
+WGS84 Spindle 18
+ID Type
+X Y
+R_1 Human 680390 5932896
+R_2 Human 680671 5932437
+R_3 Human 681441 5932015
+R_4 Human 682281 5932438
+R_5 Human 682315 5932496
+R_6 Human 682568 5932367
+R_7 Human 683019 5932079
+R_8 Human 683194 5932076
+R_9 Human 681918 5928825
+R_11 Human 681359 5929460
+R_12 Human 678898 5930509
+R_13 Human 679093 5930752
+R_14 Human 679242 5931249
+R_15 Human 679442 5931734
+R_17 Human 677098 5928598
+R_25 ECA Kingston College 673817 5927247
+R_28 Human 681309 5929511
+R_29 Human 681935 5928791
+R_30 Human 677118 5928271
+R_31 Human 677266 5928175
+R_32 Human 681315 5929568
+Source: GAC
+16 The importance of defining transience is related to the definition of acute, subacute or chronic effects
+in health.
+25
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 5-3. Location of sensitive air quality receptors in the MP influence area
+Source: GAC
+Below is a brief description of the human receptors considered in the present analysis,
+based on the background provided by this EIA and on the information provided by the CEMARC project
+corresponding to receiver 11 and 28.
+Table 5-2: Description of the human receptors close to the project
+ID Name Description
+R_1 Human 1-story house, located next to Las Pataguas road.
+R_2 Human 2-story house located next to Route O-390.
+R_3 Human Entrance to the forest property, located on the interior road to Route O-390.
+R_4 Human Complex of 1-story homes, located on the interior road to Route O-390
+R_5 Human 1-story house, located on the interior road to Route O-390.
+R_6 Human Complex of 1-story homes, located on the interior road to Route O-390
+R_7 Human 1-story house and restaurant "Donde Zulema", located next to Route O-390.
+R_8 Human 1-story house, located next to Route O-390.
+R_9 Human 1-story house, close to Landfill
+R_11 Human 1-story house, located on an interior road.
+26
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+ID Name Description
+R_12 Human Complex of 1 and 2-story homes, located on Calle Los Castaños N°34.
+R_13 Human Complex of 1 and 2-story homes, located on Calle Los Cipreses N°5.
+R_14 Human 1-story house, located on Miramar Street N°990.
+R_15 Human CESFAM Penco health center 2 floors, located on Acceso a Fundo Copihueco street.
+R_17 Human Motel El Conquistador
+Kingston
+R_25 College AC Station Kingston College
+R_28 Human 1-story house, located on an interior road.
+R_29 Human Uninhabited one-story wooden building, located southeast of the landfill
+R_30 Human Gate booth and entry control to the current access road to the landfill
+R_31 Human Motel El Parque. Located on one side of the current access road to the landfill
+R_32 Human 1-story house, located on an interior road.
+Source: from Table 6 1. Recipients of Interest defined for modeling, Annex 4-1, only the recipients are selected
+humans.
+The present analysis considers the human population receptors that could inhabit these
+facilities. In some receptors it is assumed that there is a person who spends the night there.
+5.3 BASE HEALTH RISK SCENARIO IN WHICH THE
+PROJECT
+As presented below, the emissions recorded between 2020 and 2022 at the station
+of population representation of the area of influence of the Project, are under the limits
+normed.
+Table 5-3. Air Quality Baseline Summary. Period January 2020 to December 2022.
+Kingston College
+Pollutant Statistician Standard Unit
+Value % Norm
+P98 24h 50 μg/m3 38 75%
+MP2.5
+Annual 20 μg/m3 13.8 69%
+P98 24h 130 μg/m3N 53 41%
+MP10
+Annual 50 μg/m3N 25 50%
+P99 1h 30,000 µg/m3N 3,600 12%
+C.O.
+P99 8h 10,000 µg/m3N 1.4 14%
+P99 1h 400 μg/m3N 19.1 5%
+NO2
+Annual 100 μg/m3N 7.5 8%
+P98.5 1h 350 μg/m3N 9.5 3%
+SO2 P99 24h 150 μg/m3N 6.5 4%
+Annual 60 μg/m3N 2,
+7 5%
+Source: Annex 4-1: Air quality modeling
+27
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Although the declaration of a saturated zone is an administrative act whose main objective is to give rise to
+to the preparation of a Decontamination Plan, and in this case it is possible to affirm that the concentrations
+of MP2.5 measured at the Kingston College station is below 17 of the standard limits
+of primary quality for MP2.5, the guidelines established in the new guide have also been followed
+that they indicate in Scenario No. 1: existence of pre-existing risk”: “In this case, the
+concentration above the limits in the corresponding primary environmental quality standard.... for the
+effects of this guide, that is, it must be considered that in these concentrations and periods of
+permanence of the contaminant are above the limits of the standard"18. Therefore, the
+health risk of the Project contribution for the year of highest emissions (year 4 of the operation phase),
+above the baseline and the contributions of other projects with RCA that are not in the baseline,
+considering the saturation criterion, that is, the effects of PM2.5 emissions above
+the limit of the national primary quality standard (see section 3.2.3 Increase in the pre-existing risk of
+the new guide).
+For the other atmospheric pollutants, the analysis is carried out under the criterion or hypothesis that the
+contributions of the Project to air quality could generate a condition of concentrations in the
+human receptors that exceed the limit of the national primary quality standard and therefore exceed
+the level of “acceptable risk”, as indicated in the new guide (see section 3.2.1 Exceeding risk values).
+concentrations and periods of the national reference standard of the new guide).
+The following figure presents the analysis scheme for the evaluation of health risk based on the
+base scenario where the Project is located.
+17 Consequently, in real and/or practical terms, the area in which the monitoring station is located, in fact, does not
+It is saturated for the pollutant MP2.5.
+18 Section 3.1.1. Scenario N°1: existence of pre-existing risk, as indicated in the last paragraph page 35 and first
+paragraph page 36 of the new guide
+28
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 5-4: Decisional scheme to evaluate the health risk of the project due to exposure to
+air pollutants
+Source: Own elaboration.
+Based on the above, the generation of a health risk is evaluated below, due to the
+levels of atmospheric pollutants contributed by the Project in the year of highest emissions.
+5.4 EVALUATION OF THE GENERATION OF RISK FOR THE HEALTH OF THE
+POPULATION
+Based on air quality modeling results generated by Project emissions
+in the year of highest emissions, including the baseline and the contribution of other projects with RCA
+current values that are not measured in the LB, for each of the discrete receivers considered
+representative of the area of influence and the Kingston College station; Below are the
+results (Annex 4-1 Air Quality Modeling).
+29
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Fine Respirable Particulate Matter (MP2.5)
+The significance values for the increase in material concentrations are presented below.
+respirable particulate matter (PM10 and PM2.5) in human receptors for a period equal to or greater than 3 years in
+areas that exceed the value of the primary standard of ca
+ity, indicated in the document criteria of the
+BE.
+Table 5-4: Significance levels due to increased concentration of PM10 and PM2.5 in saturated zones for
+periods of 3 or more years in duration
+Increase Concentration
+Pollutant Period
+(µg/m3)
+24 hours 5.00
+MP10
+Annual 1.00
+24 hours 1.71
+MP2.5
+Annual 0.33
+Ref: Table 1. Significance values for the increase in concentration of MP10 and MP2.5 on human receptors in a
+period equal to or greater than 3 years in saturated areas, from the Criteria document
+As presented in the following table, in none of the receivers analyzed, the contributions of PM2.5
+of the Project (AP) in year 4 of the operation phase, added to the baseline (LDB) and the contribution of others
+projects (AOP), the regulated limit in the projected air quality (CAP) is exceeded, for the average
+annually and latency levels are not reached (see Table 5-5).
+Table 5-5. Annual average fine respirable particulate matter (PM2.5) dispersion model results
+Annual MP2.5 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 14 YES 0.09 13.9 69%
+R_2 14 YES 0.10 13.9 70%
+R_3 14 YES 0.19 14.0 70%
+R_4 14 YES 0.12 13.9 70%
+R_5 14 YES 0.11 13.9 70%
+R_6 14 YES 0.10 13.9 69%
+R_7 14 YES 0.06 13.9 69%
+R_8 14 YES 0.05 13.9 69%
+R_9 14 YES 0.24 14.0 70%
+R_11 14 0.02 0.80 14.6 73%
+R_12 14 YES 0.12 13.9 70%
+R_13 14 YES 0.13 13.9 70%
+R_14 14 YES 0.11 13.9 70%
+R_15 14 YES 0.11 13.9 70%
+R_17 14 0.27 0.05 14.1 71%
+30
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Annual MP2.5 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_25 14 0.00 0.01 13.8 69%
+R_28 14 YES 0.77 14.6 73%
+R_29 14 0.39 0.22 14.4 72%
+R_30 14 YES 0.12 13.9 70%
+R_31 14 YES 0.06 13.9 69%
+R_32 14 YES 0.80 14.6 73%
+Source: Table 4.15 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+However, for receivers R_11, R_28, R-29, and R_32, daily PM2.5 levels are projected to
+represented in the P98 of the daily norm would exceed the latency levels. Regarding R_29 it is
+It is important to highlight that the expected annual average of PM2.5 (CAP) is attributable to the contribution of other
+projects (3.13 µg/m3), since the Project's contribution is lower (1.71 µg/m3).
+Table 5-6. Dispersion model results for fine respirable particulate matter (MP2.5) P98 24 hours
+MP2.5 P98 24 hours (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 38 YES 0.28 38.3 77%
+R_2 38 YES 0.32 38.3 77%
+R_3 38 YES 0.90 38.9 78%
+R_4 38 YES 0.56 38.6 77%
+R_5 38 YES 0.52 38.5 77%
+R_6 38 YES 0.42 38.4 77%
+R_7 38 YES 0.25 38.3 77%
+R_8 38 YES 0.22 38.2 76%
+R_9 38 YES 1.14 39.1 78%
+R_11 38 0.22 4.70 42.9 86%
+R_12 38 YES 0.35 38.4 77%
+R_13 38 YES 0.36 38.4 77%
+R_14 38 YES 0.35 38.4 77%
+R_15 38 YES 0.40 38.4 77%
+R_17 38 1.27 0.27 39.5 79%
+R_25 38 0.02 0.07 38.1 76%
+R_28 38 YES 4.48 42.5 85%
+R_29 38 3.13 1.07 42.2 84%
+R_30 38 YES 0.47 38.5 77%
+R_31 38 YES 0.31 38.3 77%
+R_32 38 YES 4.75 42.8 86%
+NOTE: YES= no information. Source: Table 4.16 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Additionally, when the situation of the population is exposed to a level of exposure that
+is recognized as a pre-existing risk (which is the situation to which all recipients are exposed
+31
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+humans identified in the area of influence of the Project, since it formally corresponds to a
+saturated area, despite the fact that, in real and/or practical terms, the area in which the station is located
+nearest monitor is not saturated), it is necessary to determine the significance of the increase
+in its presentation, for which the environmental authority has defined in the criteria document the limits of
+increase in the concentration of contaminants above which it must be considered that the
+increase is significant and therefore it is necessary to evaluate the risk to the health of the exposed population.
+Considering the significance values for the increase in concentration of MP10 and MP2.5 over
+human receptors in a period equal to or
+greater than 3 years in saturated areas, from the Criteria document,
+for receptors R_11, R_28 and R_32 the significance levels would be exceeded and, consequently,
+requires evaluating the health risk to which they would be exposed “with the Project”.
+Respirable Particulate Matter (MP10)
+As presented in the following tables, in none of the analyzed receivers, the contributions of MP10
+of the Project for year 4 of the operation phase, additional to the baseline (LDB) and the contribution of others
+projects (AOP), the regulated limit is not exceeded in the estimation of the projected air quality (CAP),
+both for the annual average and for the P98 of the daily norm and therefore it is possible to conclude that
+all recipients would be exposed to an “acceptable risk”19.
+Table 5-7. Annual average respirable particulate matter (MP10) dispersion model results
+Annual MP10 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 25 YES 0.34 25.3 51%
+R_2 25 YES 0.40 25.4 51%
+R_3 25 YES 0.84 25.8 52%
+R_4 25 YES 0.46 25.5 51%
+R_5 25 YES 0.44 25.4 51%
+R_6 25 YES 0.37 25.4 51%
+R_7 25 YES 0.24 25.2 50%
+R_8 25 YES 0.20 25.2 50%
+R_9 25 YES 1.05 26.0 52%
+R_11 25 0.02 3.94 29.0 58%
+R_12 25 YES 0.40 25.4 51%
+R_13 25 YES 0.44 25.4 51%
+R_14 25 YES 0.37 25.4 51%
+R_15 25 YES 0.37 25.4 51%
+R_17 25 0.27 0.27 25.5 51%
+19 An acceptable risk level is defined as that threshold whose concentration and exposure values of the
+contaminant established in the primary quality standard to protect the life or health of people.
+32
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Annual MP10 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_25 25 0.00 0.03 25.0 50%
+R_28 25 YES 3.93 28.9 58%
+R_29 25 0.39 0.99 26.4 53%
+R_30 25 YES 0.87 25.9 52%
+R_31 25 YES 0.42 25.4 51%
+R_32 25 YES 4.18 29.2 58%
+NOTE: YES= no information
+Source: Table 4.17 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Table 5-8. Respirable particulate matter dispersion model results (MP10) P98 24 hours
+MP10 P98 24 hours (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 53 YES 1.19 54.2 42%
+R_2 53.00 YES 1.25 54.3 42%
+R_3 53.00 YES 4.38 57.4 44%
+R_4 53.00 YES 2.34 55.3 43%
+R_5 53.00 YES 2.18 55.2 42%
+R_6 53.00 YES 1.65 54.7 42%
+R_7 53.00 YES 1.02 54.0 42%
+R_8 53.00 YES 0.78 53.8 41%
+R_9 53.00 YES 4.82 57.8 44%
+R_11 53.00 0.22 23.58 76.8 59%
+R_12 53.00 YES 1.41 54.4 42%
+R_13 53.00 YES 1.36 54.4 42%
+R_14 53.00 YES 1.24 54.2 42%
+R_15 53.00 YES 1.53 54.5 42%
+R_17 53.00 1.27 1.26 55.5 43%
+R_25 53.00 0.02 0.23 53.2 41%
+R_28 53.00 YES 23.47 76.5 59%
+R_29 53.00 3.13 4.44 60.6 47%
+R_30 53.00 YES 3.65 56.6 44%
+R_31 53.00 YES 2.25 55.3 43%
+R_32 53.00 YES 25.47 78.5 60%
+NOTE: YES = no information
+Source: Table 4.18 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Carbon Monoxide (CO)
+33
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+The results of CO modeling, as a contribution of the project (AP) to each of the receptors in the area
+of influence, allow us to conclude that the Project does not affect the health of the population, since
+The estimated contributions are very low and added to the baseline (LDB), the contribution of other projects with
+RCA (AOP), it is confirmed that in the year with the highest emissions of the project, the projected air quality
+(CAP) is well below the limits of the primary air quality standards for CO, not modifying
+the condition of the component. Therefore, it is confirmed that no health risk is generated, since the
+expected value is far below the acceptable risk.
+Table 5-9. Carbon monoxide (CO) dispersion model results P99 1 hour
+CO P99 1 hour (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 3600.00 YES 7.49 3607.5 12.0%
+R_2 3600.00 YES 5.35 3605.4 12.0%
+R_3 3600.00 YES 19.51 3619.5 12.1%
+R_4 3600.00 YES 26.53 3626.5 12.1%
+R_5 3600.00 YES 23.36 3623.4 12.1%
+R_6 3600.00 YES 23.41 3623.4 12.1%
+R_7 3600.00 YES 19.63 3619.6 12.1%
+R_8 3600.00 YES 17.43 3617.4 12.1%
+R_9 3600.00 YES 23.77 3623.8 12.1%
+R_11 3600.00 33.08
+66.03 3699.1 12.3%
+R_12 3600.00 YES 14.06 3614.1 12.0%
+R_13 3600.00 YES 13.68 3613.7 12.0%
+R_14 3600.00 YES 11.16 3611.2 12.0%
+R_15 3600.00 YES 10.99 3611.0 12.0%
+R_17 3600.00 6.14 4.69 3610.8 12.0%
+R_25 3600.00 2.97 1.11 3604.1 12.0%
+R_28 3600.00 YES 69.20 3669.2 12.2%
+R_29 3600.00 132.00 22.86 3754.9 12.5%
+R_30 3600.00 YES 3.87 3603.9 12.0%
+R_31 3600.00 YES 4.00 3604.0 12.0%
+R_32 3600.00 YES 66.83 3666.8 12.2%
+NOTE: YES= no information
+Source: Table 4.19 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Table 5-10. Carbon monoxide (CO) dispersion model results P99 8-hour moving average
+8-hour average CO P99 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_1 1400 YES 3.21 1403.2 14.0%
+R_2 1,400 YES 3.16 1,403.2 14.0%
+34
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+8-hour average CO P99 (µg/m³)
+Receiver
+LDB AOP AP CAP % norm
+R_3 1,400 YES 11.65 1,411.7 14.1%
+R_4 1,400 YES 13.69 1,413.7 14.1%
+R_5 1,400 YES 12.57 1,412.6 14.1%
+R_6 1,400 YES 13.94 1,413.9 14.1%
+R_7 1,400 YES 9.88 1,409.9 14.1%
+R_8 1,400 YES 8.56 1,408.6 14.1%
+R_9 1,400 YES 7.07 1,407.1 14.1%
+R_11 1,400 9.04 26.64 1,435.7 14.4%
+R_12 1,400 YES 4.50 1,404.5 14.0%
+R_13 1,400 YES 4.00 1,404.0 14.0%
+R_14 1,400 YES 4.30 1,404.3 14.0%
+R_15 1,400 YES 4.57 1,404.6 14.0%
+R_17 1,400 4.21 1.75 1,406.0 14.1%
+R_25 1,400 0.57 0.68 1,401.3 14.0%
+R_28 1,400 YES 28.65 1,428.6 14.3%
+R_29 1,400 73.97 6.68 1,480.6 14.8%
+R_30 1,400 YES 1.55 1,401.6 14.0%
+R_31 1,400 YES 1.67 1,401.7 14.0%
+R_32 1,400 YES 28.66 1,428.7 14.3%
+NOTE: YES: no information
+Source: Table 4.20 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Nitrogen Dioxide (NO)
+2
+From the NO modeling results, it is possible to conclude that the Project does not generate any impact
+2
+to the health of the population, since the estimated contributions in the discrete receptors, added to the line
+base and the contribution of other projects, confirms that the projected air quality is well above
+below the limits defined in the primary quality standards for NO.
+2
+Table 5-11. Annual average nitrogen dioxide (NO) dispersion model results
+2
+Annual average NO (µg/m³)
+2
+Receiver
+LDB AOP AP CAP % norm
+R_1 7.5 YES 0.17 7.7 7.7%
+R_2 7.50 YES 0.20 7.7 7.7%
+R_3 7.50 YES 0.35 7.8 7.8%
+R_4 7.50 YES 0.21 7.7 7.7%
+R_5 7.50 YES 0.20 7.7 7.7%
+R_6 7.50 YES 0.18 7.7 7.7%
+35
+==================================================================================
+PAGE 40
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Annual average NO (µg/m³)
+2
+Receiver
+LDB AOP AP CAP % norm
+R_7 7.50 YES 0.12 7.6 7.6%
+R_8 7.50 YES 0.10 7.6 7.6%
+R_9 7.50 YES 0.47 8.0 8.0%
+R_11 7.50 0.13 1.47 9.1 9.1%
+R_12 7.50 YES 0.26 7.8 7.8%
+R_13 7.50 YES 0.29 7.8 7.8%
+R_14 7.50 YES 0.23 7.7 7.7%
+R_15 7.50 YES 0.20 7.7 7.7%
+R_17 7.50 0.11 0.07 7.7 7.7%
+R_25 7.50 0.01 0.01 7.5 7.5%
+R_28 7.50 YES 1.35 8.8 8.8%
+R_29 7.50 2.00 0.45 9.9 9.9%
+R_30 7.50 YES 0.15 7.7 7.7%
+R_31 7.50 YES 0.08 7.6 7.6%
+R_32 7.50 YES 1.36 8.9 8.9%
+NOTE: YES=no information
+Source: Table 4-21 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Table 5-12. Nitrogen dioxide (NO ) dispersion model results P99 1 hour
+2
+NO P99 1h (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_1 19.10 YES 3.53 22.6 5.7%
+R_2 19.10 YES 3.28 22.4 5.6%
+R_3 19.10 YES 8.38 27.5 6.9%
+R_4 19.10 YES 10.60 29.7 7.4%
+R_5 19.10 YES 9.77 28.9 7.2%
+R_6 19.10 YES 8.33 27.4 6.9%
+R_7 19.10 YES 5.27 24.4 6.1%
+R_8 19.10 YES 3.21 22.3 5.6%
+R_9 19.10 YES 26.94 46.0 11.5%
+R_11 19.10 12.50 60.06 91.7 22.9%
+R_12 19.10 YES 5.24 24.3 6.1%
+R_13 19.10 YES 5.19 24.3 6.1%
+R_14 19.10 YES 5.50 24.6 6.1%
+R_15 19.10 YES 5.88 25.0 6.2%
+R_17 19.10 1.84 1.93 22.9 5.7%
+R_25 19.10 1.59 0.53 21.2 5.3%
+R_28 19.10 YES 55.29 74.1 18.5%
+R_29 19.10 61.60 23.85 104.5 26.1%
+36
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of
+Rare Earth Concentrate
+NO P99 1h (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_30 19.10 YES 2.31 21.4 5.4%
+R_31 19.10 YES 1.72 20.8 5.2%
+R_32 19.10 YES 53.85 72.9 18.2%
+NOTE: YES=no information
+Source: Table 4.22 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Sulfur Dioxide (SO)
+2
+From the SO modeling results, it is possible to conclude that the Project does not generate any impact
+2
+to the health of the population, since the estimated contributions in the discrete receptors in the air quality
+projected (CAP) are well below the normative limits, as shown in the following tables.
+Table 5-13. Annual average sulfur dioxide (SO ) dispersion model results
+2
+Annual SO (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_1 2.70 YES 0.00 2.7 4.5%
+R_2 2.70 YES 0.00 2.7 4.5%
+R_3 2.70 YES 0.00 2.7 4.5%
+R_4 2.70 YES 0.00 2.7 4.5%
+R_5 2.70 YES 0.00 2.7 4.5%
+R_6 2.70 YES 0.00 2.7 4.5%
+R_7 2.70 YES 0.00 2.7 4.5%
+R_8 2.70 YES 0.00 2.7 4.5%
+R_9 2.70 YES 0.00 2.7 4.5%
+R_11 2.70 0.01 0.01 2.7 4.5%
+R_12 2.70 YES 0.00 2.7 4.5%
+R_13 2.70 YES 0.00 2.7 4.5%
+R_14 2.70 YES 0.00 2.7 4.5%
+R_15 2.70 0.00 0.00 2.7 4.5%
+R_17 2.70 0.09 0.00 2.8 4.7%
+R_25 2.70 YES 0.00 2.7 4.5%
+R_28 2.70 YES 0.01 2.7 4.5%
+R_29 2.70 0.12 0.00 2.8 4.7%
+R_30 2.70 YES 0.00 2.7 4.5%
+R_31 2.70 YES 0.00 2.7 4.5%
+R_32 2.70 YES 0.01 2.7 4.5%
+NOTE: YES=no information
+Source: Table 4.23 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+37
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-14. Sulfur dioxide (SO ) P99 24-hour dispersion model results
+2
+SO P99 24h (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_1 6.50 YES 0.00 6.5 4.3%
+R_2 6.50 YES 0.00 6.5 4.3%
+R_3 6.50 YES 0.01 6.5 4.3%
+R_4 6.50 YES 0.01 6.5 4.3%
+R_5 6.50 YES 0.01 6.5 4.3%
+R_6 6.50 YES 0.01 6.5 4.3%
+R_7 6.50 YES 0.00 6.5 4.3%
+R_8 6.50 YES 0.00 6.5 4.3%
+R_9 6.50 YES 0.01 6.5 4.3%
+R_11 6.50 0.12 0.05 6.7 4.4%
+R_12 6.50 YES 0.00 6.5 4.3%
+R_13 6.50 YES 0.00 6.5 4.3%
+R_14 6.50 YES 0.00 6.5 4.3%
+R_15 6.50 YES 0.00 6.5 4.3%
+R_17 6.50 0.49 0.00 7.0 4.7%
+R_25 6.50 0.01 0.00 6.5 4.3%
+R_28 6.50 0.02 0.05 6.6 4.4%
+R_29 6.50 1.13 0.01 7.6 5.1%
+R_30 6.50 YES 0.00 6.5 4.3%
+R_31 6.50 YES 0.00 6.5 4.3%
+R_32 6.50 YES 0.05 6.5 4.4%
+NOTE: YES=no information
+Source: Table 4.24 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Table 5-15. Sulfur dioxide (SO ) dispersion model results P98.5 1 hour
+2
+SO P99 1h (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_1 9.50 YES 0.01 9.5 3%
+R_2 9.50 YES 0.01 9.5 3.2%
+R_3 9.50 YES 0.04 9.5 3.2%
+R_4 9.50 YES 0.03 9.5 3.2%
+R_5 9.50 YES 0.02 9.5 3.2%
+R_6 9.50 YES 0.02 9.5 3.2%
+R_7 9.50 YES 0.01 9.5 3.2%
+R_8 9.50 YES 0.01 9.5 3.2%
+R_9 9.50 YES 0.03 9.5 3.2%
+R_11 9.50 YES 0.10 9.6 3.2%
+R_12 9.50 YES 0.01 9.5 3.2%
+R_13 9.50 YES 0.01 9.5 3.2%
+38
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+SO P99 1h (µg/m³)
+2
+Receiver % norm
+LDB AOP AP CAP
+R_14 9.50 YES 0.01 9.5 3.2%
+R_15 9.50 YES 0.01 9.5 3.2%
+R_17 9.50 YES 0.00 9.5 3.2%
+R_25 9.50 YES 0.00 9.5 3.2%
+R_28 9.50 YES 0.10 9.6 3.2%
+R_29 9.50 YES 0.03 9.5 3.2%
+R_30 9.50 YES 0.00 9.5 3.2%
+R_31 9.50 YES 0.00 9.5 3.2%
+R_32 9.50 YES 0.10 9.6 3.2%
+NOTE: YES=no information
+Source: Table 4.25 Chapter 4 Prediction and Evaluation of Environmental Impacts. EIA
+Based on the results presented, in all human receptors identified in the area of
+influence of the Project, adding to the air quality baseline (LDB), the contribution of the Project (AP)
+and the contribution of other projects that have favorable RCA but that have not been executed (AOP), are
+concludes that none of the atmospheric pollutants of interest to human health exceed
+the primary environmental quality standards (in concentration and period), so according to the
+guidelines of the new guide, for no atmospheric pollutant and in no receiver is a
+exceeding the “acceptable risk”20 for health, also considering the year with the highest emissions (year
+4 of the operation
+ion).
+However, considering that from a formal administrative point of view the area is declared
+saturated for MP2.5 and it would be under the theoretical hypothesis of the guide that the contributions of the project
+exceed the level of significance to which some receptors would be exposed (Table N°1 of the document
+SEA Criteria), this report is then complemented with a sensitivity analysis
+adding the health risk assessment of the Project contribution in MP2.5 based on the
+recommendations of the WHO21, EPA22 and other international organizations.
+5.5 EVALUATION OF ADVERSE EFFECTS ON THE HEALTH OF THE POPULATION BY
+MP2.5 ASSUMMING THE EXISTENCE OF PRE-EXISTING RISK
+Although, as previously analyzed, it is possible to confirm that the station records
+representative air quality monitoring site closest to the project site area
+show that it is not above the current regulated levels of Chile, given the circumstance
+20 It should be noted that the primary environmental quality standards recognize that, below the values of
+concentrations and established periods, there could be a health risk, but such risk is acceptable.
+21 World Health Organization.
+22 USA Environmental Protection Agency (Environmental Protection Agency in English).
+39
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+formal that the area has been declared as a saturated zone for PM2.5, then the
+complementary analysis evaluating the health risk, assuming the existence of a pre-existing risk
+in these receptors.
+For the purposes of this analysis, the methodology recommended in the Evaluation Guide for
+Environmental Impact “Risk for the health of the population”, prepared and published by SEA. It will be evaluated if
+The Project increases the probability of generating an adverse effect on health, that is, increasing the level
+existing risk prior to its execution due to the exposure of each of the discrete recipients to the
+contributions generated by the Project in fine particulate matter in the year of highest emissions.
+Given that the commune of Penco, where the Project is planned to be developed, is one of the communes that have
+been administratively included within the declaration of saturated zone for MP2.5 (Decree
+15/2015, MMA), for which there is an Atmospheric Prevention and Decontamination Plan,
+complements the previous analysis with a sensitivity analysis that deepens the risk assessment
+for health derived from the Project.
+The stages of environmental risk assessment for human health are summarized in the following figure:
+Figure 5-5: Stages of environmental risk assessment
+Source: SEA Guide relating to article 11 of law 19-300, letter a) Risk to the health of the population
+The stages of health risk assessment developed in the present study are summarized as follows:
+continued:
+5.5.1 Hazard identification: MP2.5
+In general terms, exposure to air pollution has been associated with a series of effects
+adverse to health. Most recent evidence focuses on respiratory effects and
+40
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+cardiovascular effects attributed to short- and long-term exposure, as well as in the development of results
+related to pregnancy. From a public health point of view, it is important to recognize that
+The total impact of air pollution on the population is likely to be dominated by
+less serious health effects, such as subclinical and symptomatic events. However, the
+serious outcomes (including increased risk of mortality and reduced life expectancy)
+are those that are most taken into account in epidemiological and risk analysis studies, due to
+generally to the greater availability of collected data
+routinely administered.
+Sick individuals in the population bear a greater burden of the most serious effects. For example,
+Death is more common in those who are already sick, and those who have medical conditions
+preexisting conditions are more likely to be admitted to the hospital or go to an emergency department. Others
+Susceptible subgroups are young children, the poorest people and people with low
+educational. Susceptibility is determined not only by personal characteristics, such as age, condition
+health, diet and genetics, but also by environmental factors, such as the characteristics of the
+exposure (e.g., activity time pattern), housing, and environmental conditions to determine
+housing and environmental conditions of the neighborhood.
+Most of the evidence linking various effects on human health with levels
+of atmospheric pollution in the environment come from epidemiological studies complemented
+for toxicological research.
+The WHO and the American Thoracic Society (ATS) have provided guidance on the definitions of
+which constitutes an adverse health effect derived from atmospheric pollution. The ATS, for
+For example, it has identified a wide range of respiratory health effects associated with
+air pollution that should be considered "adverse". These range from death by
+respiratory diseases to reduced quality of life, going through some changes
+irreversible in physiological function. Since the publication of the second edition of the guidelines on
+air quality in Europe in the year 2000, evidence on the effects of air pollution
+in health have evolved considerably. While most of the literature generated
+in this period focused on respiratory and cardiovascular events attributed to exposures to
+short and long term, a new generation of studies suggests that the appearance of effects is not specific
+of these results (see Table 5-16).
+Table 5-16. Effects of air pollution on health23
+Effects attributed to short-term exposure
+- Daily mortality
+- Hospital admissions for respiratory and cardiovascular causes
+23 Quantification of the health effects of exposure to air pollution. Report on a WHO Working Group, Bilthoven,
+Netherlands, 20–22 November 2000. Copenhagen, WHO Regional Office for Europe, 2001 (document
+EUR/01/5026342).
+41
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Effects attributed to short-term exposure
+- Visits to respiratory and cardiovascular emergencies
+- Visits to primary respiratory and cardiovascular care
+- Use of respiratory and cardiovascular medications
+- Days of restricted activity
+- Absenteeism from work
+- School absenteeism
+- Acute symptoms (wheezing, cough, phlegm production, respiratory infections)
+- Physiological changes (for example, lung function)
+Effects attributed to long-term exposure
+- Mortality due to cardiovascular and respiratory diseases
+- Incidence and prevalence of chronic respiratory diseases (asthma, COPD24
+- Chronic changes in physiological functions
+-Lung cancer
+- Chronic cardiovascular diseases
+- Intrauterine growth restriction (low birth weight, growth retardation
+intrauterine, small for gestational age)
+Much of the epidemiological evidence has been found evaluating the health effect of MP10. By
+For this reason, among others, the WHO considered it necessary to regulate environmental concentrations of
+MP10 and MP2.5 for both chronic and acute exposures.
+As a guide value for PM2.5 in prolonged exposures, a mean annual concentration of
+10 µg/m3. In the American Cancer Society (ACS) study (Pope et al., 2002), this value
+represents the lower end of the range in which significant effects were observed in the
+survival. The adoption of a guideline at this level places significant value on studies of
+long-term exposure using data from the ACS and the Harvard Six-City Study
+(Doc
+Kery et al., 1993; Pope et al.,1995; HEI, 2000; Pope 2002; Jerrett 2005). In all these studies
+established close associations between prolonged exposure to PM2.5 and mortality.
+The historical mean concentration of PM2.5 in the six-city study was 18 µg/m3 (range
+11.0 to 29.6 µg/m3) and in the ACS (American Cancer Society) study of 20 µg/m3 (range 9.0 to 33.5
+µg/m3). No thresholds were observed in any of these studies, although they could not be determined with
+Precise periods and patterns of relevant exposure. The ACS study states
+shows statistical uncertainty in risk estimates with concentrations of about 13
+µg/m3, a value below which the confidence intervals increase significantly, since
+The concentrations are relatively far from the average.
+24 Chronic obstructive pulmonary disease.
+42
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+According to the results of the study by Dockery et al. (1993), the risks are similar in cities with
+the lowest prolonged concentrations of PM2.5 (i.e. 11 to 12.5 µg/m3). It is manifest a
+highest risk in the city with the second lowest long-term mean concentration of PM2.5 (i.e.
+of 14.9 µg/m3), indicating that health effects can be expected when average concentrations
+annually are of the order of 11 to 15 µg/m3. Consequently, it can be considered that, according to the bibliography
+available science, an average annual concentration of 10 µg/m3 would be below the average for the
+most likely effects. Choosing a long-term average PM2.5 concentration of 10 µg/m3
+also lends some value to the results of daily exposure time series studies
+which examine the relationship between PM2.5 exposure and acute adverse health effects.
+These studies indicate that the averages of long-term exposures (i.e., three to four years)
+They are of the order of 13 to 18 µg/m3.
+Additionally, the evidence of the effects of coarse particulate matter is reviewed.
+regardless of the effects of the fine fraction (MP10-2.5). The main reference sources
+are PubMed from the NIH National Library of Medicine, as well as the bibliography from the recent review of
+the ISA (Integrated Scientific Assessment) and the WHO recommendations.
+Particulate matter is a complex mixture of components with very physical and chemical characteristics.
+diverse that are determined by the mechanisms of their genesis. This aerosol is formed from
+particles directly emitted to the atmosphere (primary particulate) or those that are formed from
+of gas-particle conversion processes (secondary particulate).
+Regarding the effects of short-term exposure to the coarse fraction on mortality, the
+Studies show that increases in particulate matter have an effect on mortality, especially in
+cities with dry climate and altitude. The largest study carried out comprising 47 cities
+North Americans finds a statistically significant effect adjusted for fine particulate matter in
+total, cerebrovascular and respiratory mortality of the order of 0.47 to 1.14% per 10 μg/m3 of
+increase in MP10-2,525, as effects due to 24-hour concentrations. It can be concluded that
+there is growing epidemiological evidence supporting the effect of acute exposure on mortality
+daily. This consensus also extends to regulatory agencies.
+The effects of short-term exposure to the coarse fraction on morbidity are greater
+heterogeneity in the reported effects, with the Canadian studies and one in Barcelona being the ones
+show major adverse effects. Studies have linked hospitalizations for various causes,
+usually cardiovascular (including coronary heart disease, heart failure, arrhythmias, etc.)
+and respiratory (Asthma, COPD, Respiratory infections) in different age categories. The most study
+large area comprising 108 counties in North America finds only a statistically significant effect
+25 As a 24-hour concentration.
+43
+========
+===========================================================================
+PAGE 48
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+not significant. In conclusion, epidemiological studies suggest an association between exposure
+acute to coarse particulate matter and effects on different indicators of cardiovascular and respiratory morbidity.
+Regarding chronic exposure to coarse particulate matter and mortality, the Harvard study of
+six cities found a suggestive effect of coarse particulate matter without reaching statistical significance. The
+largest cohort study to date, the American Cancer Society found no
+significant effects and more recent studies, which have explicitly examined this association
+present discordant results. In conclusion, there is not enough evidence to rule out an effect of
+chronic exposure to coarse particulate matter, but there is also no evidence that strongly suggests the association.
+The bulk of epidemiological studies that support the association between effects on perinatal health
+(effects on the health of the fetus, neonate and newborn) have been carried out with MP10 measurements. There are
+few studies that specifically examine the effects of coarse particulate matter on the health of the
+fetus and neonate, which does not allow establishing a causal association nor ruling it out.
+Several groups have examined different experimental models, both in animals of
+experimentation as cell line cultures the effects of exposure to particulate matter
+thick. Studies conducted in Europe and North America have found comparable effects to
+fine particulate and even higher in equal concentrations. These studies provide plausibility
+biological to epidemiological studies that show an association between exposure and acute effects on the
+health. Experimental evidence identifies the mechanisms of effects: inflammation, oxidative stress,
+cytotoxicity, alterations of the autonomic nervous system and coagulation. were not found
+experimental studies with chronic exposure to the coarse fraction.
+To date, the association of the coarse fraction of particulate matter with chronic health effects
+There are fewer studies and the evidence is still inconsistent.
+The risk of various effects has been shown to increase with exposure, and there is little evidence that
+indicate a threshold below which no adverse health effects can be expected. In fact, the level
+lower than the range of concentrations for which adverse effects have been demonstrated is not very
+higher than the background concentration, which for particles less than 2.5µm (PM2.5) has been estimated
+at 3-5 µg/m3 in both the United States and Western Europe.
+Epidemiological evidence shows adverse effects of MP after both brief exposures
+as prolonged. Since no thresholds have been identified and since there is variability
+substantial interspecific variation in exposure and response to a given exposure, there is little
+A standard or guideline value is likely to offer complete protection to all people against
+all the possible adverse effects of particulate matter on health.
+44
+==================================================================================
+PAGE 49
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5.5.2 Exposure assessment
+Next, the exposure route of the contaminants will be analyzed, identifying the source(s)
+transmitters of the Project, the pollutant release mechanisms, means for the dispersion of the
+pollutant (air), transport mechanisms, for which the Pollution Modeling report will be used.
+Dispersion of Atmospheric Emissions (Annex 4-1), route of exposure and existence of a population
+receiving area (all discrete receptors identified in the Project's area of influence). Then,
+will evaluate the exposure dose, thus estimating the type and magnitude of exposure in all recipients
+of interest, considering the routes of exposure, frequency, duration
+, route and extent of the exhibition.
+The elements that are identified in this exposure route are the following26:
+• Emitting source: all those defined in the
+modeling of the dispersion of atmospheric pollution from the Project, which contributes to the
+total emissions of year 4 of the operation phase of the Project, which corresponds to the year in which
+greater emissions are expected, where it is confirmed that the main emission sources
+correspond to the resuspension of dust on unpaved roads.
+• Pollutant release mechanism: the generation of emissions and
+resuspension of particulate matter from all possible sources and generating activities
+of MP2.5. It should be remembered that the PM2.5 estimated by the model considers the formation of nitrates
+(NO) and sulfates (SO) from emissions of nitrogen oxides (NO) and carbon dioxide
+3 4 x
+sulfur (SO), respectively.
+2
+• Means for the contaminant to move: fine respirable particulate matter is released
+from the Project activities in its operation phase and move through the air towards
+nearby human receptors.
+• Transport mechanisms: atmospheric emissions (particulate matter and gases) dispersed
+in the air are transported according to the results of the CALPUFF model that uses the model
+WRF meteorological information corresponding to the year 2022 and the topographic information of the commune. The
+CALPUFF is a dispersion and transport model that advects “puff” of material emitted from
+modeled sources, simulating dispersion and transformation along the trajectory.
+Finally, CALPOST is used, which calculates the concentrations in the receptors of interest,
+allowing data to be managed for each pollutant.
+• Exposure route: corresponds to the way in which contaminants are introduced or enter into
+contact with the population located in the different receptors identified in the area of
+influence determined by modeling. For this risk study, we have considered the
+inhalation of PM2.5 as the route of exposure.
+• Existence of a receiving population: it has been defined as a population exposed to all the
+discrete receptors identified in the air quality influence area for the Project, which
+26 Guide to evaluating environmental impact and risk to the health of the population in the SEIA Editor: Evaluation Service
+Environmental ISBN: 978-956-9076-06-0, 2012
+45
+==================================================================================
+PAGE 50
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Most of them are homes, but they also include a health center (R_15), the offices of the
+CEMARC waste management project (R_30) and a crematorium (R_17). The most
+nearby correspond to R_11; R_28 and R_32. The detail is presented in chapter 5.2 Description
+of the exposed population.
+Figure 5-6: Human recipients relevant to the project
+Receiver R_11 CESFAM Receiver R_15
+Below is a conceptual representation of the exposure route in the figure
+next.
+46
+==================================================================================
+PAGE 51
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 5-7: Exposure Route for the Project
+Source: Own elaboration.
+5.5.3 Exposure dose
+The exposure doses used in the risk assessment correspond to the annual averages and
+24-hour daily contributions of PM2.5; for which the WHO has validated the dose-response on
+the basis that there is sufficient evidence, considering the analysis of short and long exposure doses
+term.
+The doses to which sensitive receptors are going to be exposed have been determined by modeling
+of dispersion of atmospheric pollutants where the emissions estimate has been included
+contributions of the project in year 4 of the operation phase of the Project, which corresponds to the year with the highest
+emissions (see Table 5-5 and Table 5-6 of this report).
+The exposure doses have been
+estimated for PM2.5 for each sensitive receptor so the evaluation
+of the health risk will be carried out based on these unit exposure doses in order to determine the
+potential health effect on each recipient.
+47
+==================================================================================
+PAGE 52
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5.5.4 Dose-response evaluation
+For particulate matter (PM2.5), there is a threshold or concentration level from which it can be determined.
+show any health risk. In this case, the dose-response analysis will be carried out based
+of the increase in immission that the Project will provide in the discrete receptors.
+The concentration-response function is defined by the pollutant metric and the health effect
+indicated, resulting in a standardized relative risk for an increase of 10 µg/m3.
+The function that establishes how the studied response is modified, depending on the increase or
+reduction of the concentration of PM2.5 to which the population would be exposed due to the Project that will be
+generically called “concentration-response function” is determined by the β or risk coefficient
+that is used. The β are obtained from the relative risks or risk ratios validated by the studies
+epidemiological whose abbreviation is RR, whose formula is presented below.
+The indicators indicated with the name Group described in the tables correspond to the following:
+• A: there is consensual evidence supported by multiple studies that support the use of the indicator and
+Additionally, they confirm the robustness of the recommended βeta coefficient.
+• B: these concentration response functions present less evidence in the literature,
+Usually the studies that confirm them are less numerous and therefore they are considered
+optional indicators, the recommended βeta coefficients are less robust.
+• * = the functions that present, in addition to A or B, a * can be added because they are
+complementary in relation to the health effects that are being evaluated.
+According to current evidence, for all indicators the concentration range in which
+recommends its application is “the entire” range of concentrations detected. For each response function
+The source that supports the basal rate and the source of the evidence with which the estimates are constructed are also reported.
+functions answers.
+Based on all the new evidence, in the present study the Beta coefficients have been updated based
+in the Chen and Hoek Study (Chen & Hoek, 2020) for chronic effects of PM2.5. For acute effects
+of PM2.5, the Beta from the Orellano Study is used (Orellano et al., 2020).
+48
+==================================================================================
+PAGE 53
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+In a complementary manner, the analysis is maintained using the reference doses of the document of the
+HRAPIE 2013, prepared by WHO for other health effects: asthma episodes in children,
+respiratory and cardiovascular hospitalizations, as shown in the following table.
+Below is the set of response functions for short-term and long-term exposure.
+term for respirable particulate matter.
+49
+==================================================================================
+PAGE 54
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-17: Concentration response functions selected to evaluate health risk due to Short-Term exposure
+Metric RR (95% CI) by Beta Range Source of validated evidence of the concentration response function
+Health effect Group used
+contaminant 10 µg/m3 concentrations (β)
+Orellano P, Reynoso J, Quaranta N, Bardach A, Ciapponi A (2020). Shorts
+Mortality, all
+term exposure to particulate matter (PM10 and PM2.5), nitrogen dioxide
+MP2.5 causes less
+At RR 1.00
+65 Todo (NO ), and ozone(O3) and all-cause and cause-specific mortality:
+external daily average in all 0.00065 2
+systematic review and meta-analysis.Environ Int.142:105876.
+ages
+doi:10.1016/j.envint.2020.105876. License: CC BY-NC-ND.
+Hospitalizations of
+MP2.5 Based on a meta-analysis of four single-city studies and one study
+cardiovascular cause, A* 1·009 0.00091 All
+APED (Air Pollution Epidemiologic Database) multi-city daily average
+all ages
+Hospitalizations of
+MP2.5 Based on a meta-analysis of four single-city studies and one study
+respiratory cause, A* 1·0019 0.0019 All
+APED (Air Pollution Epidemiologic Database) multi-city daily average
+all ages
+Source: Own elaboration.
+Table 5-18: Concentration response functions selected to evaluate health risk due to Long-Term exposure
+Metric RR (95% CI) by Beta Range
+Health effect Group Source of the concentration response function (β)
+contaminant 10 µg/m3 used concentration
+Mortality, all
+Chen J, Hoek G (2020). Long-term exposure to PM and all-cause and cause-
+MP2.5 causes less
+A* 1.08 0.008 All specific mortality: a systematic review and meta-analysis. Environ
+external annual average in all
+Int.143:105974. doi:10.1016/j.envint.2020.105974. License: CC BY-NC-ND.
+ages
+Source: Own elaboration.
+50
+==================================================================================
+PAGE 55
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5.5.5 Risk characterization
+From the bibliographic review carried out to the set of methodologies used to evaluate health effects
+due to particulate matter, the WHO in its HRAPIE27 report and its recent update of the guidelines
+global air quality standards28 recommends evaluating the health risk for acute and chronic effects that
+could affect children and adults, only in those categories where there is sufficient scientific evidence. Of
+the review of alternatives to characterize the concentration-response relationship, in general it can be
+conclude that the methodologies have been very consistent in the studies carried out both internationally
+like those carried out in our country29. For this analysis, the model recommended by the WHO30 has been used.
+which includes the accumulated experience of the EPA and other researchers, from which the model of
+short and long term exposure to particulate matter and its health effects. It should be noted that this model
+It was also used by Luis Cifuentes31 for the study carried out on the definition of the PM2.5 standard.
+aimed at identifying and quantifying the health impacts derived from the emissions of pollutants to the
+air, which reinforces that this analysis methodology is totally valid for our country.
+For chronic effects, the number of excess events (effect i) due to the change in concentration of the
+contaminant k for chronic exposure:
+Equation 1: Chronic effects calculation formula
+Where:
+27 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+28 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+29 Cifuentes Luis, USEPA. Quantitative health risk assessment for particulate matter. June 2010, WHO-HRAPIE 2013, Cohen Study of
+attributable burden (World Bank).
+30 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+31 Study Relationship of the primary quality standard MP 2.5 with the primary quality standard of MP 10, report prepared by L
+Cifuentes for CONAMA during the process of defining the MP standard, July 2010.
+2.5
+51
+==================================================================================
+PAGE 56
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Likewise,
+for acute effects, the number of excess events (effect i) due to the change in
+Pollutant concentration k is calculated based on the following formula:
+Equation 2: Acute effects calculation formula
+Where:
+52
+𝛽𝑖
+𝑇
+𝑃
+Δ 𝐸 𝑘
+𝑖𝑗
+𝑘
+Δ 𝐶 𝑘
+𝑗
+𝑎 𝑠 𝑎 𝑏 𝑎 𝑠 𝑎
+𝑜 𝑏
+𝑗
+Δ 𝐸 𝑘
+𝑖𝑗
+𝑙
+𝑖
+Is the change in the number of events occurring due to the
+C h a n g e n c o n c e n t r a t i o n o f c o n t a m in a t e n t h e sub p o b la t i o n j d a d a s a
+basis of incidence for the effect
+It is the co ef ficiency of the r ie s that is g o unitary of the e ff ect o i p r o d u c t o f the c o n t a m in a n t e k . In
+In this case the co-efficiency would not vary between localities (subpopulations) General yes
+subpopulations are age group whose beta can vary
+It is the change in the concentration of the con t a m in a n t e k, for each subpopulation j
+It is the incidence rate based on the effect that is estimated at the community level and therefore
+So much does it not vary between qualities (subpopulations in our application)
+It is the number of people in subpopulation j
+Is the change in the number of events occurring due to the
+C h a n g i n c o n c e n t r a t i o n o f c o n t a m in a n t h e sub p o b la t i o n j d e a
+rate is based on the incidence for the effect in the period L, usually annually.
+==================================================================================
+PAGE 57
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+The methodology considered to evaluate the impact on health, due to particulate matter exposure
+respirable corresponds to that recommended by the WHO-HRAPIE (Project Recommendations for concentration-
+response functions).
+The beta coefficients used correspond to those validated by the World Health Organization (WHO).
+and derive from the meta-analyses published between 2019 and 2020, which served as the basis for the review of its latest
+publication “Air Quality Guidelines” of 2021. These coefficients in turn collect the results of studies
+epidemiological whose analyzes are carried out using regression models.
+For acute effects, the methodology with the greatest consensus today uses GAM models.
+(Generalized Additive Models) in which the natural logarithm of the number of events is modeled as a variable
+response, and the pollutant as exposure, plus an offset variable that represents the natural logarithm
+of the population, and confounding variables, such as natural time splines that control for effects
+temporalities such as seasonality, and natural splines of temperature and RH.
+In the case of cohort studies used to estimate the effects of chronic exposure, we have used
+Cox regression models. In both types of models the coefficients are not directly
+interpretable, or in other words the “beta” do not represent a measure of epidemiological effect. It is the
+exponential of the beta coefficients which is interpreted in the case of the GAM-Poisson models as a
+incidence rate ratio and in the case of Cox models as a Hazard ratio (Hazards or Risks).
+in different translations).
+Both measures can be understood as a relative risk (RR). That is, the exponential of “beta”
+corresponds to a RR for an increase in one unit of concentration of the atmospheric pollutant
+analyzed. So if exponentiation is done with base “e”, the product of the beta coefficient times the differential of
+the concentrations of a contaminant between two scenarios, we will obtain the relative risk (RR) due to the
+change in contaminant concentrations between the second scenario and the baseline.
+The RR reported by most agencies and publications corresponds to the exponentiation of the number
+transcendent e, to the product of “beta” times 10 ug/m3. For example, the effect on overall mortality less
+external causes, of an increase of 10 ug/m3 in exposure
+chronic ion to the pollutant PM2.5/PM10, corresponds
+at a Relative Risk of 1.08/1.04 according to the latest WHO estimate (2021). This means that a
+increase of 10 ug/m3 of PM2.5 as an average chronic exposure produces a risk of 1.08 times and for
+the same increase in PM10 generates a risk 1.04 times the risk of the base scenario.
+If we subtract 1 from the Relative Risk we obtain the excess relative risk, which is still relative to the risk
+basal. In the example mentioned, an increase of 10 ug/m3 of PM2.5 would correspond to a relative risk in excess
+of 0.08 with respect to the baseline risk, which expressed in percentage terms corresponds to 8% of the risk
+baseline, which is usually presented as the percentage excess risk. The same analysis for PM10
+It implies that for every increase of 10 ug/m3 an 8% increase in baseline risk would be expected.
+53
+==================================================================================
+PAGE 58
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Thus, the incremental risk corresponds to the increase in the baseline risk for each individual exposed to this
+change in the concentration of the pollutant (PM2.5) in absolute terms because it is a probability
+called an incremental risk.
+In this way, the criteria recommended by the Health Risk Assessment Guide of the
+BE that they will be verified for each contaminant or mixture of contaminants, in order to evaluate the
+generation or presence of health risk as a result of the Project on all recipients
+identified sensitive The summary methodology used to characterize the risk in this case is
+presented in the following figure.
+Figure 5-8: Analysis model to evaluate health effects due to respirable particulate matter (PM2.5)
+Source: Own elaboration.
+In this case, to evaluate the health risk due to the population's exposure to concentrations
+modeled respirable particulate matter (PM2.5) is calculated for each of the 20 receptors
+discrete humans and the concentrations recorded at the representativeness monitoring station are added
+Kingston College population because it corresponds to the monitoring station closest to the construction works.
+54
+==================================================================================
+PAGE 59
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Project, and being in a sector without the presence of industrial activities, as is the case with the
+defined discrete receptors.
+The health effects to be studied have been selected based on the greatest evidence (validated βetas
+internationally WHO/EPA) and importance of the health effect (HRAPIE-WHO), as detailed in the
+chapter 5.5.4 of Dose-response evaluation.
+The basal rates that account for the health risk of the exposed population that are used correspond to
+those of the commune of Penco, for the period 2015-2019, whose values are presented in the following table. It has been
+selected that five-year period as representative because in the years 2020 to 2022 the rates of
+Mortality and hospitalizations were strongly influenced by COVID.
+Table 5-19: Baseline rates used to characterize health risk due to PM2.5
+Basal Rates Value
+General mortality without external causes period 2015-
+5.3 per 1,000 inhabitants
+2019
+Cardiovascular hospitalizations 2015-2019 0.9 per 1,000 inhabitants
+Respiratory hospitalizations 2015-2019 1.12 per 1,000 inhabitants.
+Source: Own elaboration based on information from DEISS-Minsal.
+The results of the health risk assessment due to chronic exposure are presented below.
+to respirable fine particulate matter (PM2.5) for the adverse effect on overall uncaused mortality
+external, for the year of highest emissions of the project, in each receptor above the pre-existing risk.
+Table 5-20: Risks of general mortality without external causes for each susceptible receptor due to exposure
+chronic PM2.5 of the project in year 4 of operation above the pre-existing risk
+Uncaused mortality
+external s
+Recipients Annual average Risk Variation
+RR-1%32
+absolute exposure33
+R_1 0.092 0.07% 3.89819E-06
+R_2 0.104 0.08% 4.42274E-06
+R_3 0.194 0.16% 8.21592E-06
+R_4 0.116 0.09% 4.91327E-06
+R_5 0.110 0.09% 4.65093E-06
+R_6 0.095 0.08% 4.03815E-06
+R_7 0.063 0.05% 2.68618E-06
+R_8 0.053 0.04% 2.25857E-06
+R_9 0.235 0.19% 9.97286E-06
+32 Corresponds to the excess risk as a % of the baseline risk.
+33 Change in absolute risk in relation to baseline risk.
+55
+==================================================================================
+PAGE 60
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Mortality without external causes
+Recipients Annual average Risk Variation
+RR-1%32
+absolute exposure33
+R_11 0.798 0.64% 3.39226E-05
+R_12 0.118 0.09% 5.00809E-06
+R_13 0.131 0.11% 5.56922E-06
+R_14 0.109 0.09% 4.64059E-06
+R_15 0.106 0.08% 4.49591E-06
+R_17 0.055 0.04% 2.32605E-06
+R_25 0.009 0.01% 3.64338E-07
+R_28 0.770 0.62% 3.2758E-05
+R_29 0.222 0.18% 9.43011E-06
+R_30 0.116 0.09% 4.92716E-06
+R_31 0.063 0.05% 2.67822E-06
+R_32 0.798 0.64% 3.39581E-05
+Source: Own elaboration.
+The evaluation of health risk due to chronic exposure to respirable particulate matter (PM2.5)
+Considering general mortality minus external causes, it shows that the absolute risk attributable to
+Project presents increases of the order of 10-5 for receivers R_11, R_28 and R_32.
+In the receivers R_3, R_9 and R_29, the expected absolute risk, although it remains in the order of 10-6,
+apparently the values presented are very close to 10-5; However, in them the annual average of
+exposure attributable to the Project is 1/3 or less of that observed for R_11, R_28 and R_32. So he
+expected absolute risk in R_3 is 24%, in R_9 it is 29% and in R_29 it is 28% of the absolute risk
+expected for the featured receivers (R_11, R_28 and R_32).
+Health risk assessment due to acute exposure to respirable particulate matter (PM2.5)
+analyzes the potential adverse effects of hospitalizations from cardiovascular and respiratory causes, whose
+results are presented below. In the case of respiratory hospitalizations, the absolute risk
+attributable to the Project presents increases in health risk of the order of 10-5 for the same recipients
+R_11, R_28 and R_32.
+56
+==================================================================================
+PAGE 61
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-21: Risks of adverse effects for each sensitive receptor due to acute exposure to PM2.5
+Scenario without measurements
+Hospitalizations Hospitalization
+Average Cardiovascular Respiratory Receptors
+exhibition34 Var del Var del
+RR-1 %35 RR-1 %37
+(ug/m3) risk abs36 risk abs38
+R_1 9.19E-02 0.01% 7.53E-07 0.02% 1.92E-06
+R_2 1.04E-01 0.01% 8.54E-07 0.02% 2.18E-06
+R_3 1.94E-01 0.02% 1.59E-06 0.04% 4.05E-06
+R_4 1.16E-01 0.01% 9.49E-07 0.02% 2.42E-06
+R_5 1.10E-01 0.01% 8.98E-07 0.02% 2.29E-06
+R_6 9.52E-02 0.01% 7.80E-07 0.02% 1.99E-06
+R_7 6.33E-02 0.01% 5.19E-07 0.01% 1.32E-06
+R_8 5.33E-02 0.00% 4.36E-07 0.01% 1.11E-06
+R_9 2.35E-01 0.02% 1.92E-06 0.04% 4.91E-06
+R_11 7.98E-01 0.07% 6.53E-06 0.15% 1.67E-05
+R_12 1.18E-01 0.01% 9.67E-07 0.02% 2.47E-06
+R_13 1.31E-01 0.01% 1.08E-06 0.02% 2.74E-06
+R_14 1.09E-01 0.01% 8.96E-07 0.02% 2.29E-06
+R_15 1.06E-01 0.01% 8.68E-07 0.02% 2.22E-06
+R_17 5.48E-02 0.00% 4.49E-07 0.01% 1.15E-06
+R_25 8.59E-03 0.00% 7.04E-08 0.00% 1.80E-07
+R_28 7.70E-01 0.07% 6.31E-06 0.15% 1.61E-05
+R_29 2.22E-01 0.02% 1.82E-06 0.04% 4.65E-06
+R_30 1.16E-01 0.01% 9.51E-07 0.02% 2.43E-06
+R_31 6.31E-02 0.01% 5.17E-07 0.01% 1.32E-06
+R_32 7.98E-01 0.07% 6.54E-06 0.15% 1.67E-05
+Source: Own elaboration.
+When evaluating the risk of exposure to carcinogenic compounds, regulatory agencies, such as
+Health Canada and the United States Environmental Protection Agency (U.S. EPA), it is recognized that any
+Non-zero exposure level is associated with some cancer risk. Therefore, these agencies
+International organizations have defined the level of risk that could be considered acceptable or tolerable. In response
+ecto
+All agencies agree that a risk level of 10-6 is the incremental risk level considered.
+as “essentially zero” or acceptable risk level. On the other hand, the agencies also agree on
+34 The average daily exposure is equal to the average annual exposure, because the daily basal rates are
+equal (there is no information regarding the variation of basal rates) and additionally the daily βeta is very
+small so it does not modify the result. See Equation 2.
+35 Corresponds to excess risk as a % of baseline risk
+36 Change in absolute risk in relation to baseline risk.
+37 Corresponds to the excess risk as a % of the baseline risk
+38 Change in absolute risk in relation to baseline risk.
+57
+==================================================================================
+PAGE 62
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+that between an absolute health risk of the order of 10-4 to 10-6 could be considered a “health risk
+acceptable depending on the situation and circumstances of exposure.”
+According to the results presented, it is possible to assume that only for R-11 receivers,
+R_28 and R-32, all discrete receivers defined as single or isolated dwellings, it will be necessary to consider
+that exposure to PM2.5, assuming the administrative circumstance of corresponding to a “saturated zone”,
+could create a health risk for chronic exposure events beyond what is acceptable. In the case of
+acute effects, it is possible to rule out the risk of cardiovascular hospitalizations, since all risks
+expected absolute values are below the level of 10-6, but a risk level is maintained for
+respiratory hospitalizations in the same recipients. These results are consistent with the
+SEA criteria document because in these human receptors the exceeding of the values is confirmed
+of significance for the increase in PM2.5 concentrations on human receptors in a period
+equal to or greater than 3 years39 in saturated zone for PM2.5.
+It is important to confirm that for all other human receptors found in the area of
+influence of the Project, exposure to PM2.5 does not generate risk to the health of the population due to the
+execution of the Project, considering the year of greatest exposure.
+In conclusion, it should be noted that the evaluated effect is spatially limited to the 3 specific points
+(receivers R-11, R_28 and R-32, all discrete receivers defined as single or isolated homes), the
+Other receptors close to the project will be favored with the emissions control measures
+compromised and will not occur in other receptors or in the urban area of Penco or in other areas where
+inhabit population.
+Now, the Project considers in its design the application of suppressor on all internal roads.
+that do not have an asphalt layer, and the implementation of an asphalt layer from the access to the ZD
+Neptune to the interior of the process plant. For its part, the project “Operational Continuity Center
+of Concepción Waste Management” (CEMARC), considers for its operation phase the use of a
+access road from Route 150 to the access to CEMARC, where wetting was contemplated
+of this road and the application of suppressor in approximately 750 meters from Route 150, and in the 750
+meters prior to entering CEMARC. This path is within the routes to be used for the present
+Project; therefore the improvements in the rolling folder, which consider the application of suppressor in all
+roads that do not have an asphalt surface, and the implementation of an asphalt surface from the
+access to the Neptuno ZD, and even access to CEMARC, will generate a reduction in emissions that will be
+generated by the project “Operational Continuity of the Concepción Waste Management Center” regarding
+of the emissions referred to in their respective environmental approval.
+39 Table 1 document: “Evaluation criterion in the SEIA: Impact of emissions in saturated zones by
+MP10 respirable particulate matter and MP2.5” fine respirable particulate matter.
+58
+==================================================================================
+PAGE 63
+=========
+===========================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+In accordance with the above, the reduction of PM2.5 concentrations is presented below.
+in each human receiver and at the Kingston College station as a result of the improvement in the rolling folder
+of the section of the access road from the Route 150 access to the CEMARC access. Annex 7-2
+presents the estimated emissions reduction and the results of the modeling in contributions to quality
+of the air as a result of this improvement.
+Table 5-22: Estimated concentration of MP10 and MP2.5 in each receptor after measurements
+ID MP10 µg/m3N MP2.5 µg/m3N
+24h Annual 24h Annual
+R_1 0.209 0.043 0.029 0.006
+R_2 0.186 0.042 0.027 0.006
+R_3 0.343 0.054 0.041 0.007
+R_4 0.220 0.035 0.027 0.005
+R_5 0.215 0.034 0.027 0.005
+R_6 0.183 0.031 0.023 0.005
+R_7 0.123 0.025 0.017 0.004
+R_8 0.114 0.022 0.017 0.003
+R_9 1.146 0.167 0.129 0.018
+R_11 5.519 1.055 0.561 0.095
+R_12 0.309 0.086 0.045 0.014
+R_13 0.296 0.099 0.049 0.016
+R_14 0.294 0.085 0.049 0.014
+R_15 0.253 0.069 0.039 0.012
+R_17 0.301 0.041 0.041 0.006
+R_25 0.051 0.005 0.008 0.001
+R_28 5.741 1.021 0.621 0.099
+R_29 1.088 0.156 0.125 0.017
+R_30 0.206 0.028 0.028 0.004
+R_31 0.237 0.034 0.034 0.005
+R_32 4.860 0.923 0.606 0.093
+Source: Results of the Project's air quality modeling analysis.
+Based on these results, the evaluation is presented in human recipients who have a greater
+health risk due to the execution of the project, incorporating the proposed environmental control measure
+by the owner, which for the purposes of the health risk will be considered as a mitigation measure since for
+those receptors reduce potential health effects.
+59
+==================================================================================
+PAGE 64
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-23: Risks of adverse effects for each sensitive receptor due to chronic and acute exposure to PM2.5 with compromised measures
+Scenario with asphalt measures and suppressor application
+Average Uncaused Mortality Hospitalizations Hospitalization
+Receptors External variation compensation Cardiovascular Respiratory
+asphalt exhibition
+RR-1 % Abs Risk RR-1 % Abs Risk RR-1 % Abs Risk
+(ug/m3)
+R_1 0.006 8.55E-02 0.07% 3.63E-06 0.01% 7.00E-07 0.02% 1.79E-06
+R_2 0.006 9.82E-02 0.08% 4.17E-06 0.01% 8.04E-07 0.02% 2.05E-06
+R_3 0.007 1.86E-01 0.15% 7.90E-06 0.02% 1.52E-06 0.04% 3.89E-06
+R_4 0.005 1.11E-01 0.09% 4.70E-06 0.01% 9.07E-07 0.02% 2.32E-06
+R_5 0.005 1.05E-01 0.08% 4.44E-06 0.01% 8.58E-07 0.02% 2.19E-06
+R_6 0.005 9.07E-02 0.07% 3.85E-06 0.01% 7.43E-07 0.02% 1.90E-06
+R_7 0.004 5.96E-02 0.05% 2.53E-06 0.01% 4.88E-07 0.01% 1.25E-06
+R_8 0.003 4.99E-02 0.04% 2.12E-06 0.00% 4.09E-07 0.01% 1.04E-06
+R_9 0.018 2.17E-01 0.17% 9.22E-06 0.02% 1.78E-06 0.04% 4.54E-06
+R_11 0.095 7.02E-01 0.56% 2.99E-05 0.06% 5.76E-06 0.13% 1.47E-05
+R_12 0.014 1.04E-01 0.08% 4.40E-06 0.01% 8.49E-07 0.02% 2.17E-06
+R_13 0.016 1.15E-01 0.09% 4.87E-06 0.01% 9.41E-07 0.02% 2.40E-06
+R_14 0.014 9.49E-02 0.08% 4.03E-06 0.01% 7.78E-07 0.02% 1.98E-06
+R_15 0.012 9.39E-02 0.08% 3.98E-06 0.01% 7.69E-07 0.02% 1.96E-06
+R_17 0.006 4.87E-02 0.04% 2.07E-06 0.00% 3.99E-07 0.01% 1.02E-06
+R_25 0.001 7.74E-03 0.01% 3.28E-07 0.00% 6.34E-08 0.00% 1.62E-07
+R_28 0.099 6.71E-01 0.54% 2.85E-05 0.06% 5.50E-06 0.13% 1.40E-05
+R_29 0.017 2.05E-01 0.16% 8.72E-06 0.02% 1.68E-06 0.04% 4.29E-06
+R_30 0.004 1.12E-01 0.09% 4.75E-06 0.01% 9.18E-07 0.02% 2.34E-06
+R_31 0.005 5.82E-02 0.05% 2.47E-06 0.01% 4.76E-07 0.01% 1.22E-06
+R_32 0.093 7.05E-01 0.57% 3.00E-05 0.06% 5.78E-06 0.13% 1.47E-05
+Source: Results of the Project's air quality modeling analysis.
+60
+==================================================================================
+PAGE 65
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Although there is a reduction in health risk considering the compromise measure
+put, the effect in terms
+of health risk reduction maintains a contribution of around 10-5 for human R-11 receptors,
+R_28 and R_32.
+In consideration of the above, for this Project it has been considered to evaluate the effects on health
+of those recipients that would have the implementation of an additional measure to all the previous ones, consisting
+in replacing the use of wood-burning stoves and stoves with equipment that uses electricity in those three homes
+(receivers). It should be noted that if the change were to use LPG the effect would also be considerable due to
+the reduction of NOx and hydrocarbons in indoor home pollution.
+It should be noted that there is extensive evidence that wood stoves can be sources
+significant amounts of air pollution in cold climate communities, emitting toxic compounds
+known, including polyaromatic compounds, benzene, aldehydes, carbon monoxide, oxides of
+nitrogen and respirable particles40.
+The present analysis is based on the studies of Héctor Jorquera carried out in Temuco41, coinciding with
+other international studies42, which allowed estimating the average concentrations of PM2.5 inside
+(indoor) and outside (outdoor) of the homes, it has been decided to use the indoor contribution of MP2.5 from the use of
+wood-burning stove-stove as the best estimator to evaluate the effect that the substitution of the use could have
+of wood-burning stove/stove in these receptors in the risk to health.
+This study was carried out in 63 homes in the urban area of Temuco during the winter season, from
+July 21 and September 16, 2017. Below is a brief comparative analysis of the
+behavior of temperatures during the year 2023 between the cities of Temuco (where the
+study) and the Greater Concepción area (where the project under evaluation will be implemented). In this study
+The average concentrations of PM2.5 indoors and outdoors were determined to be 38.3 ± 4.4 µg/m3,
+respectively. Using a simple mass balance approach, the indoor mean contributions
+and external to PM2.5 concentrations were estimated at 17.5 and 38 µg/m3, respectively.
+Therefore, based on this study, it has been estimated that in winter the use of wood stoves contributes to
+17.5 µg/m3 at household PM2.5 concentrations.
+Using a conservative scenario that considers the benefit of the fuel change only in the days
+cold and maintains the indoor PM2.5 exposure conditions without variation in the rest of the year,
+40 Fairley, 1999; Hales et al., 2000; Lipsett et al., 1997; McGowan et al., 2002; Sanhueza et al., 2009; Schwartz et al.,
+1993; Boman et al., 2003, Naeher et al., 2007.
+41 Indoor PM2.5 in an urban zone with heavy wood smoke pollution: The case of Temuco, Chile. H. Jorquera et al.
+https://doi.org/10.1016/j.envpol.2018.01.085
+42 Residential indoor PM2.5 in wood stove homes: follow-up of the Libby changeout program. IndoorAir 2012; 22:492–
+500 wileyonlinelibrary.com/journal/ina,
+61
+==================================================================================
+PAGE 66
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+reviews and analyzes the behavior of temperatures in Greater Concepción, for which a base is used
+internationally validated data “Weather Spark” that has important historical data and allows
+compare meteorological variables throughout the year anywhere in the world; For this, it is carried out
+preliminarily a comparison between the behavior of temperatures between Temuco (where
+the studio of H Jorquera) and the Gran Concepción.
+This report43 that shows the evolution of temperatures in Greater Concepción and Temuco, considering
+the comparative table of maximum and minimum temperatures recorded in all months of the year and the graph
+The following shows that in general the temperatures of Greater Concepción are a little higher than those of
+Temuco with a greater pronounced in terms of spring-summer seasonal changes versus
+autumn-winter.
+Table 5-24: Maximum and minimum temperatures recorded in Concepción and Temuco during the months of 2023
+Note: The average daily air temperature at 2 meters above
+and the earth.
+Figure 5-9: Temperatures recorded in Concepción and Temuco 2023
+According to the Weather Spark page in Greater Concepción, summers are drier and mostly
+clear and the winters are long, cold, rainier and partly cloudy. During the course of
+43 The data for this report comes from the Carriel Sur International Airport and a set of stations
+nearby weather. https://es.weatherspark.com/compare/y/24147~25123/Comparaci%C3%B3n-del-tiempo-
+average-in-Concepci%C3%B3n-and-Temuco
+62
+te m
+te m
+p
+p
+e ra tu ra s M
+C o n c e p c io
+T e m u c o
+e ra tu ra s M
+C o n c e p c io
+T e m u c o
+á x im
+n
+in im
+n
+to
+to
+yes
+yes
+e n e .
+2 3 °C
+2 4 °C
+e n e .
+1 2 °C
+1 0 °C
+22
+11
+faith b.
+3°C
+4°C
+faith b.
+1°C
+0°C
+m2
+1
+2 2m1
+08
+to r.
+°C
+°C
+to r.
+°C
+°C
+11
+a87a97 b r.
+°C
+°C
+b r.
+°C
+°C
+m11m a y .
+5°C
+4°C
+a and .
+8°C
+6°C
+11
+ju n.
+3°C
+2°C
+ju n.
+7°C
+5°C
+11
+ju l.
+3°C
+1°C
+ju l.
+6°C
+4°C
+a g o .
+1 4 °C
+1 3 °C
+a g o .
+6°C
+4°C
+if
+1 5
+1 5
+se75
+pt.
+°C
+°C
+pt.
+°C
+°C
+11
+o77o86 c t.
+°C
+°C
+c t.
+°C
+°C
+n or v.
+1 9°C
+1 9°C
+n or v.
+9°C
+8°C
+22
+1
+dec .
+1°C
+1°C
+dec .
+1°C
+9°C
+==================================================================================
+PAGE 67
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+year 2023, the temperature varied from 6 °C to 23 °C and the trend that is confirmed is that the temperatures rarely
+They sometimes drop to less than 1 °C or rise to more than 26 °C. In general, the temperate season lasts 3.3 months, from 8
+from December to March 18, and the average daily maximum temperature is more than 21 °C. The warmest month
+of the year in Greater Concepción is January, with an average maximum temperature of 23 °C and minimum of 12 °C.
+The cool season lasts 3.7 months (approximately 113 days), from May 20 to September 9, and the
+Average daily maximum temperature is less than 15°C. The coldest month of the year in Greater Concepción is
+July, with an average minimum temperature of 6 °C and maximum of 13 °C (see Figure 5-10).
+Figure 5-10: Maximum and minimum temperatures in Concepción
+Based on the information presented below, the health risk evaluation is carried out.
+considering the replacement of wood stoves in the three human receptors (R-11, R_28 and R_32).
+The analysis considering that this fuel substitution will completely eliminate emissions of
+particulate matter as estimated by H. Jorquera's study during all cold days and on the rest
+of the year will not generate any reduction in current contributions44 without prejudice to the use of zero cooking
+emission throughout the year generates a substantive improvement in the intra-domiciliary area, an aspect that is
+widely reported in the international literature, especially in relation to the reduction of NOx in case
+that the fuel used is liquefied petroleum gas. Below are the expected results
+in the recipients in which this measure is proposed to be implemented.
+44 The same period of the study carried out by H. Jorquera was considered, which in days corresponds to 31% of the year (131
+days).
+63
+==================================================================================
+PAGE 68
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 5-25: Health risks for each sensitive receptor due to chronic exposure to PM2.5 after
+compensation for replacement of wood stove/stove with respect to pre-existing risk
+Scenario with measurements + stove/kitchen change
+Compensation Average variation
+Receptors Mortality without external causes
+stove/kitchen* exhibition45
+(ug/m3) RR-1%46 Variation in absolute risk47
+R_11 5.41 -4.71E+00 -3.70% -1.96E-04
+R_28 5.41 -4.74E+00 -3.72% -1.97E-04
+R_32 5.41 -4.71E+00 -3.70% -1.96E-04
+Note: * The annual average compensation considers that particulate pollution will be completely eliminated on cold and cold days.
+nothing the rest of the days
+Table 5-26: Health risks for each sensitive receptor due to acute exposure to PM2.5 after
+compensation for replacement of wood stove/stove with respect to pre-existing risk
+Receivers Scenario with +change measurements
+io stove/cooker
+Average Compensation Hospitalizations Hospitalization
+stove/kitchen* variation Cardiovascular Respiratory
+exhibition48
+Variation of Variation of
+(ug/m3) RR-1%49 Risk RR-1%51 Risk
+absolute50 absolute52
+R_11 5.41 -4.71E+00 -0.43% -3.85E-05 -0.89% -9.80E-05
+R_28 5.41 -4.74E+00 -0.43% -3.88E-05 -0.90% -9.87E-05
+R_32 5.41 -4.71E+00 -0.43% -3.85E-05 -0.89% -9.80E-05
+Note: * Exposure to MP2.5 considers that particulate pollution will be completely eliminated on cold days and not at all on the rest of the days.
+the days
+Based on the analysis carried out, it is possible to conclude that in a scenario of reducing PM2.5 emissions by
+apply the measure of replacement of wood or LPG stoves/cookers in the three homes, it could be observed
+a protective effect on the health of these inhabitants, since both for chronic exposure and in the
+Acute exposure reduces exposure beyond baseline. That is, these measures will imply
+an improvement in the quality of the air to which the people who live there are currently exposed
+the homes in these 3 receptors.
+This analysis complements what has already been presented in chapter 5.4, which according to the modeling carried out
+points out that in all the discrete receptors located in the area of influence of the Project, the contribution of
+45 Corresponds to the change in exposure due to the project including all measures
+46 Corresponds to the risk reduction as a % of the baseline risk.
+47 Change in absolute risk in relation to baseline risk.
+48 Idem 37
+49 Corresponds to the risk reduction as a % of the baseline risk.
+50 Change in absolute risk in relation to baseline risk.
+51 Corresponds to the risk reduction as a % of the baseline risk.
+52 Change in absolute risk in relation to baseline risk.
+64
+==================================================================================
+PAGE 69
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+respirable fine particulate matter (PM2.5) based on year of highest emissions (year 4 of operation) no
+exceeds the limits established in the primary national quality standards.
+5.6 UNCERTAINTY ANALYSIS
+Among the sources of uncertainty in this evaluation, it is possible to highlight:
+a. Biases in CALPUFF modeling of concentrations from excess emissions
+registered. It is generally accepted that the model tends to overestimate hourly concentrations
+maximums in a way that could bias the effects towards estimates that are higher than the actual ones. Given
+that, in this case, it is confirmed that there are no significant effects on health, this bias ensures and delivers
+greater robustness to these conclusions.
+b. The analysis indicates that the estimates most likely overestimate the effects when using
+βeta coefficients that come from studies in European and North American cities that
+present environmental contamination by particulate matter less than those observed in our
+country. The HRAPIE document notes that the beta coefficients are higher in cities with
+lower concentrations, reducing as the concentration of MP2.5 increases. This could
+have implications in this study, since it is likely that the beta and the consequent relative risk
+is lower, which confirms that a conservative analysis has been applied.
+c. Finally, there is the uncertainty that could exist if the choice of the year for which the
+base situation is not sufficiently representative of the baseline health situation and therefore the
+Project contributions are minimized. On the other hand, it is likely that the years of the COVID pandemic
+also generate a starting point that will not be representative of the effects that the Project
+will generate in the future. For this reason, the health effects data from the period 2015-2019 have been used to
+constitute the base scenario.
+d. If it is considered that by year 4 of the operation phase of higher emissions that should be
+implemented the measures committed by CEMARC on the roads of the sector where
+find the receptors that present a greater exposure to health risk, the point of
+The starting point of the analysis should correspond to an air quality condition that is substantively
+improved with respect to the analysis carried out, as shown in the following
+nte table.
+Table 5-27: Reduction of emissions committed by CEMARC in year 4 of operation of this Project
+CURRENT SCENARIO CEMARC DELTA PROJECT SCENARIO CEMARC EMISSIONS
+Receiver
+GAC Receiver
+CEMARC MP10 MP2.5 MP10 MP2.5 MP10 MP2.5
+24h Annual 24h Annual 24h Annual 24h Annual 24h Annual 24h Annual
+R_11 R2 32.52 8.17 3.4 0.83 19.49 4.93 2.38 0.59 -13.03 -3.24 -1.02 -0.24
+R_28 R3 24.34 5.95 2.54 0.61 18.25 4.43 2.17 0.52 -6.09 -1.52 -0.37 -0.09
+R_29 R4 26.77 2.65 2.92 0.29 21.59 3.89 3.19 0.6 -5.18 1.24 0.27 0.31
+R_30 R5 111.46 15.43 11.3 1.57 23.72 3.3 2.52 0.36 -87.74 -12.13 -8.78 -1.21
+R_31 R6 35.49 4.78 3.6 0.49 9.09 1.16 0.96 0.13 -26.4 -3.62 -2.64 -0.36
+R_14 R7 2.09 0.5 0.24 0.06 2.06 0.46 0.24 0.059 -0.03 -0.04 0 -0.001
+R_25 Kingston College Station 0.52 0.032 0.053 0.0035 0.44 0.024 0.047 0.0029 -0.08 -0.008 -0.006 -0.0006
+65
+==================================================================================
+PAGE 70
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Source prepared by GAC with information from the Concepción Waste Management Center Operational Continuity project.
+CEMARC approved by RCA N': 202308101534 — Date: 11/30/2023
+6 CONCLUSIONS
+Based on the results of air quality modeling related to emissions from the
+Project, which represent the environmental concentration to which the receptors could be exposed
+discrete that are found in its area of influence, it is possible to conclude that the contributions of the Project in the
+year of highest emissions do not exceed the limits of the primary national air quality standards in
+concentration and period, in all receptors.
+The results of the analysis presented in chapter 5.4 Evaluation of the generation of health risk
+of the population, it is confirmed that for all the discrete receptors identified in the area of influence
+of the Project, the primary environmental quality standards (in concentration and period) are not exceeded for
+PM10 and gases (CO, NO, SO), confirming that in all human receptors and for all these
+2 2
+contaminants the regulated limit is not exceeded therefore it is concluded that the Project maintains the condition
+of “acceptable risk” and, consequently, for these contaminants, the Project does not generate risk for the
+population health.
+However, given that the entire area is formally and administratively declared saturated for
+MP2.5, as indicated in the new guide and the criteria document, it is also evaluated whether the Project increases the
+probability of generating an adverse effect on people's health, assuming the existence of a risk
+pre-existing in these receptors.
+Thus, following the guidelines of the new guide, Scenario No. 1 (point 3.1.1) is taken as a starting point.
+which indicates that it must be evaluated whether the Project's contributions regarding MP2.5 above the current situation and
+contributions from other projects with current RCA that have not been executed to date, could generate effects
+that make up the assumption of letter a) of article 11 of Law No. 19,300.
+As indicated in the new guide, the effects on the health of the human population due to exposure are analyzed
+to MP2.5 for each human receptor in the area of influence of the Project, for year 4 of the
+operation, which corresponds to the year with the highest expected emissions of the entire Project.
+From the bibliographic review carried out to the set of methodologies used to evaluate health effects
+due to particulate matter, the WHO in its report HRAPIE53 and its recent update of the guidelines
+global air quality standards54 recommend evaluating the health risk for acute effects (hospitalizations
+53 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+54 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+66
+==================================================================================
+PAGE 71
+==================================================================================
+Annex 5.1
+Environmental health risk assessment
+EIA Extraction Mining Development Project
+e Clays for
+Production of Rare Earth Concentrate
+cardiovascular and respiratory) and chronic (where the effect that best accounts for the health risk is
+general mortality minus external causes), since in these categories is where there is scientific evidence
+enough.
+When evaluating the risk of exposure to carcinogenic compounds, regulatory agencies, such as
+Health Canada and the United States Environmental Protection Agency (U.S. EPA), it is recognized that any
+Non-zero exposure level is associated with some cancer risk. Therefore, these agencies
+International organizations have defined the level of risk that could be considered acceptable or tolerable. About it
+All agencies agree that a risk level of 10-6 is the incremental risk level considered.
+as “essentially zero” or acceptable risk level. On the other hand, the agencies also agree on
+that between an absolute health risk of the order of 10-4 to 10-6 could be considered a health risk
+acceptable depending on the situation and circumstances of exposure.”
+In this case, assuming the condition of “saturated zone” where the operation of the Project could generate a
+health risk for chronic and acute exposure events beyond what is acceptable, because in the
+receptors R-11, R_28 and R_32, the health risk of the Project's operation in the year of highest emissions
+generates an absolute risk of the order of 10-5, the results that could be obtained with the
+implementation of compensation measures (asphalting and replacement of the use of firewood as fuel
+for kitchen/stove).
+The results allow us to conclude that adding the measure of replacement of wood-burning stoves/stoves
+zero emission (electrical) devices in these three receivers, a protection effect could be observed
+of the health of these inhabitants, since both for chronic exposure and acute exposure the
+expected reduction could even lead to an improvement in the baseline situation.
+Finally, it should be noted that the results of this health risk assessment confirm that in
+all other human recipients and at the Kingston College monitoring station, the implementation of the
+Project in the year of highest emissions (year 4 of the operation) everyone would be exposed to risks to the
+health for “acceptable” chronic and acute effects, since all expected absolute risks are
+are below the level of 10-6.
+67

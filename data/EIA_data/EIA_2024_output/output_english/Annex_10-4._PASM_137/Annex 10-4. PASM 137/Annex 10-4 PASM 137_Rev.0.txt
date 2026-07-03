@@ -1,0 +1,2312 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-4
+Sectoral Environmental Permit
+No. 137
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 INTRODUCTION ....................................................................................................................... 1-4
+2 TECHNICAL AND FORMAL CONTENTS THAT CREDIT COMPLIANCE WITH PASM 137 ........ 2-6
+2.1 a) Area occupied by the mining site ................................................................................................... 2-6
+2.2 b) Location of the mining or hydrocarbon site, indicating commune, province and region and their
+UTM coordinates ................................................................................................................................ 2-7
+2.2.1 b.1) Identification of the region(s), province(s) and commune(s) ....................................... 2-7
+2.2.2 b.2) 1:2,500 scale plan of the location of the mining site and its surroundings, for each one
+of the project facilities in U.T.M. coordinates. Datum WGS 84 of its main vertices.
+........................................................................................................................................... 2-8
+2.2.3 b.3) Height above sea level ....................................................................................... 2-10
+2.2.4 b.4) Main accesses, roads and highways approaching the mining site...... 2-11
+2.3 c) Description of the Environment. Plan and overview of the area of influence, which allows you to know the area
+where possible impacts linked to the Physical and Chemical Stability of the
+Mining or Hydrocarbon Work. Likewise, the areas that comprise the Faena must be stated.
+Mining or Hydrocarbons and the geological and atmospheric aspects of said areas ................................... 2-12
+2.3.1 Plan and overview of the area of influence ................................................................................... 2-13
+2.3.2 Geological, geotechnical, hydrological, hydrogeological, topographical background,
+seismic, meteorological and other corresponding ................................................................................... 2-17
+2.3.3 c.1) Meteorological background (meteorology and climate) ................................................... 2-17
+2.3.4 c.2) Updated seismic history of the site ................................................................... 2-19
+2.3.5 c.3) Geological background ........................................................................................... 2-21
+2.3.6 c.4) Geotechnical background ....................................................................................... 2-30
+2.3.7 c.5) Hydrological background (hydrology and hydrogeology of the site) ........................... 2-31
+2.3.8 c.6) Topographical background ....................................................................................... 2-48
+2.3.9 c.7) Geological and geomorphological risks ................................................................................... 2-49
+2.3.10 c.8) Describe relevant economic activities ........................................................... 2-62
+2.4 d) Description of the measures, actions and works aimed at avoiding, preventing or eliminating the
+potential impacts derived from the development of the Extractive Mining Industry, whether projects
+mining or hydrocarbons, in the places where this is carried out, in order to ensure the Stability
+Physics and Chemistry thereof, in order to provide due protection to the life and health of the
+people and environment ................................................................................................................... 2-62
+2.4.1 d.1) Closing measures ....................................................................................................... 2-64
+2.4.2
+d.1) Post-closure measures.............................................................................................. 2-68
+2.5 Indicator that certifies compliance ................................................................................... 2-68
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 2-1. Surfaces Permanent works ................................................................................................ 2-6
+Table 2-2. Coordinates of the planned works ....................................................................................... 2-8
+Table 2-3. Project access coordinates ........................................................................................... 2-11
+Table 2-4. Area of Influence by environmental component ................................................................................... 2-13
+Table 2-5. Seismic Catalog of Chile. Earthquakes >7° Richter in the Biobío Region ................................ 2-20
+Table 2-6: Information on Rainfall Stations near the AI ........................................................... 2-34
+Table 2-7: Summary of design flows (T =100 years) and verification (T =150 years) for the 3 methods
+R R
+used. ................................................................................................................................................... 2-37
+Table 2-8: Summary of flows for ZD-Neptuno using a rational formula. .................................... 2-38
+Table 2-9: Flow summary for ZAV. ........................................................................................... 2-38
+Table 2-10: Summary of internal drainage flows through evacuation channels Extraction Zone
+Moon. ........................................................................................................................................................... 2-39
+Table 2-11: Summary of internal drainage flows through evacuation channels Extraction Zone
+Maite. ....................................................................................................................................................... 2-40
+Table 2-12: Summary of internal drainage flows through evacuation channels Extraction Zone
+North Victoria. ........................................................................................................................................... 2-41
+Table 2-13. Seismic Catalog of Chile, earthquakes in the Biobío Region ................................................... 2-51
+Table 2-14 Assessment of the pending parameter (Sp). ........................................................................... 2-54
+Table 2-15 Classification of different lithologies and their degree of susceptibility ........................................... 2-56
+Table 2-16 Values assigned to monthly rainfall averages. ............................................................ 2-57
+Table 2-17 Assessment of the soil humidity parameter (Sh). ............................................................ 2-57
+Table 2-18 Determination of the seismic intensity factor ................................................................... 2-58
+Table 2-19 Rating of the rain trigger parameter (Dll). ................................................................... 2-59
+Table 2-20 Mass removal susceptibility classification. ............................................................ 2-59
+Table 2-21. Safety Factors for static and pseudo-static analysis. ............................................ 2-67
+Table 2-22. Remaining works of the Project. ........................................................................................... 2-68
+INDEX OF FIGURES
+Figure 2-1. Location of works and parts of the Project ....................................................................................... 2-7
+Figure 2-2. Project Location................................................................................................................ 2-8
+Figure 2-3. Access to the project via Route 150 and 152 ................................................................................ 2-12
+Figure 2-4. Project Area of ​​Influence .................................
+............................................................ 2-17
+Figure 2-5. Location of meteorological monitoring stations ........................................................... 2-18
+Figure 2-6. Area of epicenters of magnitude greater than 7.0 ° Richter, in areas surrounding the Project, Region
+from Biobío. ................................................................................................................................................... 2-21
+Figure 2-7. Simplified Regional Geology. In red box, the location of the Project ........................... 2-22
+Figure 2-8. Local Geology in the Project Area ........................................................................................... 2-27
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-9. Geomorphological units of the Biobío Region ................................................................... 2-29
+Figure 2-10. Hydrographic network of the Project Area of Influence ................................................................... 2-32
+Figure 2-11: Location of Rain Gauge Stations near the AI ........................................................... 2-34
+Figure 2-12. Climogram of monthly average precipitation (2000-2020), DGA station Andalién and
+average monthly temperature (1966-2020) DMC Carriel Sur station. ............................................................ 2-35
+Figure 2-13. Isolines of tank evaporation (orange color) and real evapotranspiration (yellow color),
+Water Balance of Chile (1987) from the DGA. ........................................................................................... 2-36
+Figure 2-14. Extract from Hydrogeological Map of Chile ........................................................................... 2-44
+Figure 2-15. Climate Threats linked to the water component for the Commune of Penco. ....... 2-46
+Figure 2-16. Slope Gradient and Slope Model for Influence Area ................................... 2-49
+Figure 2-17. Distribution of the active volcanoes closest to the Project. ............................................ 2-50
+Figure 2-18 Susceptibility parameter by slope for the area of influence ........................................... 2-55
+Figure 2-19 Climogram of average monthly precipitation (2000-2020), DGA station Andalién and
+average monthly temperature (1966-2020) DMC Carriel Sur station. ............................................................ 2-58
+Figure 2-20 Susceptibility map of mass removal processes for the area of influence ..... 2-61
+Figure 2-21: Closure scheme through revegetation of the Victoria North Extraction Zone ................................... 2-65
+INDEX OF APPENDICES
+Appendix 10-4.1. General Location Plan of the Site, works and facilities
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Raras corresponds to the set of works and activities that will allow the construction and operation of a
+mining site and a clay processing plant, a material present in the area, which due to the effects
+natural is highly weathered, with the presence of lanthanides adsorbed in the minerals
+of clay. Lanthanides are 15 elements: lanthanum (La), cerium (Ce), praseodymium (Pr), neodymium (Nd),
+promethium (Pm), samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium
+(Er), thulium (Tm), ytterbium (Yb) and lutetium (Lu). The elements named above along with yttrium (Y) and
+scandium (Sc) are known as Rare Earths.
+The processing plant has a capacity to process up to 320 tons/hour of clays and
+produce Rare Earth concentrate.
+In addition to the above, the Project considers three (3) clay extraction zones (ZE Victoria Norte, ZE
+Luna, ZE Maite), one (1) disposal area for waste and washed clays (ZD Neptuno), one (1) disposal area
+collection of topsoil (ZAV), an electrical line and
+its connection to the existing line and the construction of
+Internal roads to access the different areas. In addition, the implementation of works is considered
+temporary works corresponding to work facilities, for the construction and authorization of the works of the
+Project.
+Regarding Sectoral Environmental Permit No. 137, the Project, given its characteristics, requires the
+Permission for the approval of the Closure Plan of a Mining Site. In this context, Article 137 of the
+Regulation of the Environmental Impact Assessment System (RSEIA) D.S. No. 40/2012, MMA, states:
+Article 137.- Permission for the approval of the closure plan of a mining site.
+The permit for the execution of the closure plan of a mining site will be as established in article 6 of
+Law 20,551, on the Closure of Mines and Mining Facilities.
+The requirements for its granting consist of ensuring the physical and chemical stability of the work.
+the mining extractive industry, in order to provide due protection to the life and health of people
+and environment.
+The technical and formal contents that must be presented to prove compliance are the
+following:
+a) Surface area occupied by the Mining or Hydrocarbon Work.
+1-4
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+b) Location of the Mining or Hydrocarbon Work, indicating commune, province and region and their
+UTM coordinates.
+c) Description of the Environment. Plan and overview of the area of influence, which allows you to know the area
+where possible impacts linked to Physical and Chemical Stability may occur
+of the Mining or Hydrocarbon Work. Likewise, the areas that
+They include the Mining or Hydrocarbon Work and the geological and atmospheric aspects of
+those areas.
+d) Description of the measures, actions and works aimed at avoiding, preventing or eliminating the
+potential impacts derived from the development of the Extractive Mining Industry, whether
+mining or hydrocarbon projects, in the places where they are carried out, in order to
+ensure their Physical and Chemical Stability, in order to grant the proper
+protection of the life and health of people and the environment.
+Below is the background information to prove compliance with the requirements of the
+permit, also considering what is indicated in the “PAS Procedure Guide of Article 137 of the Regulations of the
+SEIA, permit for the approval of the closure plan of a mining site”, referred to in the Resolution
+Digital Document No. 20209910170, dated March 13, 2020, from the Executive Directorate of the Service
+of Environmental Assessment.
+1-5
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2 TECHNICAL AND FORMAL CONTENTS THAT CREDIT THE COMPLIANCE OF THE
+PASM 137
+2.1 a) Area occupied by the mining site
+The area covered by the Project's mining operations is 163.5 hectares, distributed among its different
+areas: Extraction Zones, Disposal Zone, Vegetable Soil Collection Zone Plant
+Processing, internal roads and power line. Table 2-1 details the surfaces of each one.
+of the Project facilities.
+Table 2-1. Surfaces Permanent works
+Installation Surface (ha)
+Processing Plant 13.1
+Plant
+Stockpile 0.9
+ZE Victoria North 31.1
+Extraction Zones ZE Luna 8.8
+ZE Maite 35.9
+Disposition Zone ZD Neptune 45.5
+Plant Soil Collection Area ZAV 5.5
+Existing without modification 0.1
+Existing Internal Roads with modification 12.1
+Projected 10.3
+Power Line Power Line (LE) 0.2
+*Works whose surface totally or partially overlaps with other works of the project
+Source: Own elaboration, 2024
+To obtain the intervention surface of the project, the overlap of surfaces has been considered.
+occupied by more than one installation and, therefore, the surface actually intervened must be adjusted
+as indicated below:
+- The work facility is located within the processing plant polygon.
+- For the
+Projected and existing roads to be improved, the cutting surface is also considered.
+and filling.
+- The LE that will supply electrical energy to the plant is located within the polygons of the
+Processing plant and internal roads of the Project.
+Therefore, the effective intervention area during the useful life of the Project is 169.1 ha.
+2-6
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.2 b) Location of the mining or hydrocarbon site, indicating commune,
+province and region and their UTM coordinates
+2.2.1 b.1) Identification of the region(s), province(s) and commune(s)
+It should be noted that the project is located in the communes of Penco and Concepción, province of Concepción,
+Biobío Region. Figure 2-1 presents the general location of the Project and the location
+georeferenced of the works and parts thereof.
+Figure 2-1. Location of works and parts of the Project
+Source: GAC, 2024.
+2-7
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.2.2 b.2) 1:2,500 scale plan of the location of the mining site and its surroundings,
+for each of the project facilities in U.T.M. coordinates.
+Datum WGS 84 of its main vertices
+The location of the project along with the main works to be carried out is presented in Figure 2-2.
+Figure 2-2. Project works location
+Source: Own elaboration
+The reference coordinates in UTM (WGS84) of the Project works are presented in Table 2-2.
+Table 2-2. Coordinates of the planned works
+UTM Datum WGS84
+Name Vertices
+North East
+1 5,931,456 681,422
+2 5,931,085 681,467
+Victoria North 3 5,931,006 681,429
+4 5,930,749 681,284
+5 5,930,601 681,244
+2-8
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+UTM Datum WGS84
+Name Vertices
+North East
+6 5,930,491 681149
+7 5,930,475 681,062
+8 5,930,594 681,030
+9 5,930,748 681,064
+10 5,931,006 681,056
+11 5,931,102 681,039
+12 5,931,300 681,127
+13 5,931,389 681,193
+14 5,931,300 681,498
+15 5,928,877 681,729
+16 5,928,718 681,678
+17 5,928,610 681,506
+Moon
+18 5,928,761 681,400
+19 5,928,939 681,467
+20 5,928,985 681,594
+21 5,928,749 680,705
+22 5,928,550 680,819
+23 5,928,368 680,834
+24 5,928,269 680,625
+25 5,928,132 680,507
+26 5,928,051 680,302
+Maite
+27 5,928,140 680,216
+28 5,928,269 680,169
+29 5,928,481 680,188
+30 5,928,562 680,279
+31 5,928,562 680,279
+32 5,928,820 680,415
+1 5,930,011 679,828
+2 5,929,890 680,181
+3 5,929,426 680,378
+4 5,929,311 680,199
+Neptune 5 5,929,159 679,969
+6 5,929,099 679,807
+7 5,929,242 679,680
+8 5,929,561 679,643
+9 5,929,761 679,687
+1 5,929,325 680,545
+2 5,929,443 680,552
+ZAV 3 5,929,555 680,568
+4 5,929,537 680,749
+5 5,929,420 680,772
+2-9
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+UTM Datum WGS84
+Name Vertices
+North East
+6 5,929,360 680,738
+1 5,930,192 681,708
+2 5,930,192 681,833
+3 5,930,128 681,923
+4 5,930,044 682,000
+5 5,929,880 681,912
+6 5,929,784 681,883
+Processing Plant
+7 5,929,841 681,690
+8 5,930,011 681,690
+9 5,930,071 681,574
+10 5,930,211 681,474
+11 5,930,314 681,625
+12 5,930,192 681,708
+LTE to Home Plant 5,929,768 681,548
+End processing 5,929,977 681,723
+Post 1 5,929,768 681,548
+Post 2 5,929,769 681,561
+Post 3 5,929,804 681,561
+Post 4 5,929,832 681,569
+Post 5 5,929,850 681,592
+Posting Post 6 5,929,859 681,633
+Post 7 5,929,870 681,688
+Post 8 5,929,879 681,721
+Post9 5,929,962 681,723
+Post 10 5,929,918 681,723
+Post 11 5,929,977 681,723
+Source: GAC
+The Plan with the Project works is presented in Appendix 10-4.1.
+On the other hand, there will be no work facility, but
+only work fronts in construction tasks
+2.2.3 b.3) Height above sea level
+The Project is located at altitudes ranging from 150 to 350 meters above sea level. The highest height is found
+in the northeast sector of the project, while those close to 150 meters above sea level. are located in the sector
+central west.
+2-10
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.2.4 b.4) Main accesses, roads and highways approaching the site
+mining
+The Project considers two (2) accesses, which are indicated below.
+• Access 1 - Route 150 Km 5, Penco - Lirquén Route (main access)
+• Access 2 - Route 152 Km 71 Itata Route (North and South access to the El Cabrito Overpass)
+Regarding access via Route 152, it is considered to manage the authorization of permanent access and a
+temporary access for the construction phase. The northern access from Route 152 is projected to
+vehicles with circulation from route 5 south and the southern access from route 152 for vehicles coming
+from Penco or Concepción.
+The following table indicates the reference coordinates of the aforementioned accesses.
+Table 2-3. Project access coordinates
+Coordinates
+Access UTM Route WGS 84 H18S
+East (m) North (m)
+Access 1 Route 150 km 5, Penco – Lirquén Route 677,059 5,928,317
+Route 152 – North 682,264 5,929,567
+Access 2
+Route 152 – South 681,283 5,929,743
+Source: Aclara
+2-11
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-3 shows the aforementioned accesses.
+Figure 2-3. Access to the project via Route 150 and 152
+Source: Own elaboration based on project engineering
+2.3 c) Description of the Environment. Plan and outline of the area of influence, which allows
+know the area where the possible related impacts may occur
+to the Physical and Chemical Stability of the Mining or Hydrocarbon Work.
+Likewise, the areas that comprise the Mining Works must be stated.
+or Hydrocarbons and the geological and atmospheric aspects of said areas
+This section describes the environmental components that characterize the environment where
+They will develop the closing and post-closing activities of the works that make up the Project.
+The information presented for each environmental component corresponds to the current situation of the
+site area of the works and varies in level of detail, depending on the relevance of the
+component for the definition and subsequent execution of closure and post-closure activities. Of this
+In this way, the characterization of the environmental components allows us to know the general environmental context
+2-12
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+in which this Closure Plan is framed, even though not all the components described will be
+affected by the activities of this Plan.
+The Project is located in the Coastal Mountain Range, in the communes of Penco and Concepción, in an area with
+hills and ravines with intermittent water flows caused by pluvial episodes, with the exception of the
+Estero Penco that presents a permanent flow. The prevailing land use refers to forestry activities,
+in addition to other infrastructures such as the Itata Highway (Route 152) and the CEMARC Sanitary Landfill.
+Below is the description of the area of Influence and then refer to the areas that
+They include the mining work and finally the geological and climatic aspects.
+2.3.1 Plan and overview of the area of influence
+For the purposes of the requirements of PAS 137 and, in accordance with what is indicated in the SEA Procedure Guide, in this
+In this case, the area of influence refers to the area where possible impacts linked to the
+physical and chemical stability of the mining site, at the closure of the Project. The area of influence is associated with the
+location of the
+works and parts, which are indicated below:
+• Extraction zones (ZE)
+or ZE Luna
+o ZE Victoria North
+or ZE Maite
+• Disposal zone (ZD)
+or ZD Neptune
+• Vegetable soil collection area (ZAV)
+or ZAV
+• Processing plant
+• Projected roads and accesses
+o Projected paths
+o Existing paths to improve
+• Power line
+or LE that supplies energy to the processing plant.
+The following table presents the area of influence defined for the areas of the site where the Project
+presents works. More details in Chapter 3 of the EIA.
+Table 2-4. Area of Influence by environmental component
+Environmental Component Area of Influence
+Surface area where implementation and start-up will take place
+Geology and Geomorphology
+of the Project.
+2-13
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Environmental Component Area of Influence
+The definition of the AI is carried out through a GIS analysis, carried out through
+of the ArcGIS Pro 3.2 program of the basins present in the area, and it is compared
+with an analysis of the topography Figure 2 13) with the objective of being able to define
+Geological risks and all areas that may contribute to mass removal processes
+geomorphological (PRM). For this analysis, an Elevation Model is used as support.
+Digital prepared from a LIDAR flight carried out by the Owner in the area
+of the Project. The area of influence defined by the above, with an area
+of 438.3 ha.
+The area of influence was defined as the geographical space included by the
+location of the definitive works, which correspond to the location of
+quarries, production plant and access roads. Also included are the
+Hydrology
+location of temporary works, which corresponds to the
+installation of tasks, among others, estimating an approximate surface of
+extension of 33 km2 (3,300 hectares).
+The area of influence was defined as the geographical space included by the
+location of the project works: Extraction Zones (Maite, Victoria
+Hydrogeology North and Moon), Disposal Zone (Neptune), plant collection area, Plant
+Processing, Stockpile, and ancillary works necessary for the different phases
+of the project.
+Surface that results from considering projected noise levels with the lowest
+Noise and Vibrations basal noise level, that is, using 60 db(A) during the day and 45 db(A) at night. It
+above, measuring from nearby receivers.
+Area from the sensitive receptors present in the surroundings of the works and
+Project activity emissions and variations in product basal air quality
+of the contributions of the Project in its different phases.
+The area of influence of the soil component corresponds to a surface of
+236.86 ha, which are determined by the geographical space in
+which the parts, works and actions contemplated in the
+Land construction and operation of the Mining Extraction Development Project
+Clays for Rare Earth Concentrate Production, plus a buffer
+of 20 m considering the risks of activating erosive processes due to the
+pending AI.
+The area of influence (AI) was determined as the surface that will be affected
+directly due to the materialization of the works (whether temporary works or
+permanent), because the construction of these has the effect of
+total or partial removal of vegetation and, consequently, the loss of flora
+present in the place. Also included are sectors where there are no
+Flora and Vegetation works that directly intervene in this component, corresponding to the
+vegetation formations surrounding the area of the future Project, whose
+extension is established according to the natural limits of the formations
+vegetation given by the physiographic characteristics of the terrain, such as
+such as slopes, ravine bottoms, summits, plains, slope changes
+and exhibition; as well as by artificial limits such as roads, canals,
+2-14
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Extraction Mining Development Project
+ion of Clays for the Production of
+Rare Earth Concentrate
+Environmental Component Area of Influence
+industrial areas, among others. Estimating an AI surface of 673.62
+hectares.
+The AI corresponds to all those surfaces where the parts, works and
+actions associated with the Project, both permanent and temporary,
+Fungi and Lichens will exert actions on these organisms, mainly those works
+ground level that generate loss of specimens, reaching 673.62
+hectares.
+The area of influence of the Project is located within the communes of Penco
+and Concepción, in the province of Concepción, Biobío Region. The area where
+The Project will be located corresponds to a sector located to the east of the route
+150 and also crosses Route 152 through the central part of the area; the project has
+Fauna an approximate extension of 3.0 km by 2.5 km, and an intervention area of
+169.19 ha. For the purposes of this baseline study, this area was
+includes a buffer area considering an approximate width of 200 m or more
+from the limit of the Project areas outwards, forming a
+polygon with a total area of 673.62 hectares.
+The area of influence for the continental aquatic ecosystems component
+corresponds to the geographical space, defined by 200 meters upstream and 200
+Aquatic Ecosystems meters downstream, where the Project interacts with water courses
+continental for the development of their works, parts and activities, in which
+could affect the hydrographic system in a localized manner.
+The area of influence of the project, for the Human Environment component, with the
+in order to identify, quantify and/or rule out any possible interaction of the
+parts, works and actions of the Project with the Life Systems and Customs
+of the Human Groups that live there, includes the contiguous rural areas
+to the Project and that are part of the census districts Las Pataguas,
+Daisies; in addition to the closest urban area, corresponding to the district
+Human Environment
+Penco census mostly; taking into account that human groups
+inserted in the defined area share the same system of life and customs
+that makes them interact on a daily basis for family, social and
+economic, as well as sharing areas of common interest in commercial or
+in the preservation of traditions, their relationship with the environment and in exchange
+social and cultural in general.
+The total intervention surface during the useful life of the Project and, therefore,
+Cultural heritage
+The Area of Influence considered for the Archeology component is
+(Archaeology)
+169.19 ha.
+The area of influence lies only in the areas of intervention of the
+Project: extraction zones (ZE), deposit zone (ZD), storage zone
+Cultural heritage
+vegetable (ZAV), processing plant area, stockpile, existing roads
+(Paleontology)
+to be improved and projected roads, covering a total area of 169.19
+hectares.
+Area from where the Project could be visually perceptible, where the
+Landscape
+Visual quality could be altered by the works and/or activities of the Project.
+2-15
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Environmental Component Area of Influence
+Which means that the observer loses an important level of detail
+located over 3,500 meters away
+The area of influence is determined based on the protected areas and sites
+priority areas that are nearby, close to or on the area of
+Protected Areas and Sites
+installation of the Project, in this case, the Project is not located on any
+Priorities
+protected area, therefore, the Project installation area itself will be
+considered as an area of influence.
+The IA includes the aspects through which the
+tourist value. On the one hand, it corresponds to the area from where the different
+Natural or cultural attractions
+parts and facilities of the Project could be visually perceptible, or
+(Tourist value)
+well where the visual quality could be affected by the parts, works and/or
+its activities and under this context affect the tourism value of the sector.
+The area of ​​influence was determined based on
+tion of the project area in which
+the facilities, equipment, buildings, etc., referents are located
+Use of the territory to the activity that is carried out in it, and in which, consequently, there is
+possibility of generating interactions or effects between the uses of the territory
+and the project.
+The area of influence considered the location of the projects located in a
+area close to the Project and that are with current RCA. In this case it
+Projects with RCA identified 66 projects in the SEA within a 9 km radius; 56 DIA and 10 EIA for
+which must analyze their interrelation with the Project in its different
+phases.
+Source: GAC.
+Figure 2-4 shows the total area of influence of the project, which covers all areas of influence.
+previously broken down. In this sense, it is considered that the Air Quality Influence Area with
+an area of 3453 ha, is the largest considered in the Project.
+2-16
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-4. Project Area of Influence
+Source: GAC.
+2.3.2 Geological, geotechnical, hydrological, hydrogeological background,
+topographical, seismic, meteorological and other corresponding
+2.3.3 c.1) Meteorological background (meteorology and climate)
+Regarding meteorology, data from four monitoring stations near the place of
+Project location: Kingston College, Liceo Polivalente, Coronel Norte and Nueva Libertad.
+2-17
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-5. Location of weather monitoring stations
+Source: GAC
+• Type of climate
+According to Köppen's climate classification (1948) and based on the interactive map Rioseco and Tesser (2012),
+The type of climate corresponds to “Warm temperate with winter rains and high atmospheric humidity.”
+• Solar radiation
+The recorded values of solar radiation reach a maximum of 1060 W/m², values that are recorded in
+summer season, while the minimum values reflect values close to 400 W/m².
+In relation to relative humidity, it is observed that it increases at night and decreases at night.
+daytime as a result of solar radiation, the latter with maximums that occur around
+noon.
+2-18
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Winds (direction, speed, maximums and minimums, seasonality)
+According to the stations described, the average wind speed does not exceed 3.66 m/s.
+Calms, corresponding to winds with a speed of less than 0.5 m/s, occur mainly in
+night time and present up to an average annual frequency of up to 18% at the Liceo station
+Multipurpose. In relation to wind direction, most stations share components
+predominantly coming from the West and the South during the day, while at night
+The direction appears more heterogeneous.
+• Temperatures
+The average temperature in the characterized stations is around 13°C, with
+minimum (between -0.5°C and 0.1°C) and maximum (between 31°C and 32°C), with daily thermal amplitudes and
+low seasonality, due to the proximity of the stations to the coast.
+• Precipitation
+Precipitation in the area is concentrated mainly in the winter months, with the exception of the
+Liceo Polivalente station, where precipitation during 2020 reached its maximum in months
+summer.
+For more information regarding the Climate and Meteorology component, see Chapter 3-Section A, section
+3.1.4, in this EIA.
+2.3.4 c.2) Updated seismic history of the place
+The most relevant seismic sources for the project correspond to interplate subduction earthquakes and
+intraplate, and cortical events
+them.
+Interplate earthquakes are those that occur at the interface between the South American and Nazca plates.
+Within the interplate there are records of a very severe earthquake (with magnitude Mw=8.8) for
+the interplate type, like that of Maule (2010).
+On the other hand, intraplate earthquakes of intermediate depth correspond to those that occur
+within the Nazca plate at an intermediate depth (generally greater than 80 km). These earthquakes
+can generate significant accelerations, generally with greater content of high frequencies and
+attenuation with steeper distance. A historical example of the latter type is the Chillán event.
+(1939), the seismic event with the highest death toll in the history of Chile.
+2-19
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Finally, cortical events are superficial failures with low recurrences, but with eventually
+great destructive power.
+In particular, the area of interest is located approximately between parallels 32°S and 40°S, which
+It is characterized by a wide Wadati–Benioff zone with an inclination of approximately 30° (Cahill
+& Isaacs, 1992).
+The estimated convergence rate between the Nazca and South American plates in the project area is
+estimated to be around 80 mm/year.
+Table 2-5 lists the most significant earthquakes with frequencies greater than 7.0° for magnitude of
+surface waves and Richter moment magnitude, between 364º and 3941º South Latitude.
+Table 2-5. Seismic Catalog of Chile. Earthquakes >7° Richter in the Biobío Region
+Length Prof Efect.
+Date Time Latitude Ms Mw
+d (km) Sec.
+02/08/1570 9:00 -36,800 -73,000 8.3 - - TD
+03/15/1657 19:30 -36,830 -73,030 8.0 - - TD
+05/25/1751 1:00 -36,830 -73,030 8.5 - - TM
+02/20/1835 11:30 -36,830 -73,030 8.5 - - TD
+04-19-1949 23:29 -38,000 -73,500 7.3 - 70 -
+05-21-1960 6:02 -37,500 -73,500 7.3 - - -
+05-22-1960 6:32 -37,500 -73,000 7.3 - - -
+06-19-1960 22:01 -38,000 -73,500 7.3 - - -
+01-11-1960 4:45 -38,500 -75,100 7.4 - 55 -
+02-27-2010 3:34 -36,290 -73,239 - 8.8 30 TD
+Ms: Magnitude determined with surface seismic waves;
+Mw: Moment magnitude determined from the energy released in
+an earthquake.; S: Shallow hypocenter (less than 40 km);
+T: Minor Tsunami; TD:
+Destructive tsunami and
+major;
+TM: Moderate tsunami or storm surge
+important; Date and Time are local.
+Source: National Seismological Center University of Chile.
+Without prejudice to the above, and independent of the distance of earthquake occurrence with respect to the
+location of works and parts of the Project, its location, determines that in accordance with Chilean standards
+NCh No. 2,369/:2003 on “Seismic Design of Industrial Structures and Facilities”, is located in the area
+seismic 3, in such a way that the constructions to be used must comply with the conditions of
+acceleration established by said standard, ensuring the design and construction characteristics
+appropriate for the indicated zoning.
+2-20
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-6 shows the location of the Project with respect to epicenters of earthquakes with magnitude
+greater than 7.0 on the scales already indicated.
+Figure 2-6. Area of epicenters of magnitude greater than 7.0 ° Richter, in areas surrounding the Project, Region of
+Biobío.
+Source: Aclara, 2023; base http://esrichile.maps.arcgis.com.
+2.3.5 c.3) Geological background
+• Regional, local, structural geology, description of rocks, soils, sediments and geological map
+In the Biobío Region, rocks from the Coastal Batholith of Southern Chile (Hervé et al., 1977) of age
+Upper Carboniferous (Deckart et al., 2014), and is arranged in a NNE-SSW belt (Figure 2-7). on the edge
+The eastern part is in contact with the Paleozoic Accretionary Metamorphic Complex (Creixell, 2001). In the
+coastal edge of the Region there are Cretaceous sedimentary rocks of the Quiriquina Formation (Biró,
+1982) and the Paleocene-Eocene Curanilahue Formation (MuñozCristi,1968), these correspond to
+sea sequences
+inas and marine-continental. Other sedimentary sequences close to the area of
+project location, correspond to marine sediments and terraces.
+2-21
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+According to studies carried out by the Owner in the Project area, it is located on the Batholith
+Coastal.
+Figure 2-7. Simplified Regional Geology. In red box, the location of the Project
+2-22
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: GAC. Modified from Geological Map of Chile 1:1,000,000, 2002, SERNAGEOMIN
+The units mentioned are defined below:
+i. Coastal Batholith
+It corresponds to a plutonic complex with lithologies between tonalite and granodiorite, with limited areas of
+quartz diorite and granite (Gajardo, 1981). Named Southern Coastal Batholith by Hervé in 1987.
+It crops out in a NNE-SSW strip to the east of the Accretionary Metamorphic Complex.
+The intrusive units of the Coastal Batholith instruct the Eastern Series during the Upper Paleozoic
+of the Metamorphic Complex, generating a regional contact metamorphism type Buchan (low pressure
+and high temperature) that extends approximately 20 to 30 km parallel to the edge of the intrusive body
+(Vásquez, 2001). Limited pegmatite outcrops are identified and characterized by different
+authors (Collao, 2009; Velásquez, 2012; Jil, 2014) as late events in the crystallization process of
+batholith. Locally, to the south of the Project area, it is possible to observe migmatization in the area of
+contact of the intrusive with the Metamorphic Complex.
+The rocks of the Costeo Batholith, in the areas near the Project, underlie the sedimentary formations
+Quiriquina and Curanilahue.
+ii. Metamorphic Complex
+The Paleozoic Metamorphic Basement of the Coastal Mountain Range, which consists of a strip of about 800
+km long and 30 km wide on average Aguirre (1972) divides the strip into two main units:
+Oriental Series and Western Series, which differ from each other due to their dominant lithology, present structures and
+metamorphic grade that affects them. The metamorphic units of the complex are interpreted as a
+paired metamorphic belt consisting of a series of low P/T to the east and another of high P/T to the west
+(Aguirre et al.). 197; Hervé, 1988;). Currently, both series are interpreted as results of a
+frontal and basal accretion, respectively, in an active continental margin context (Willner et al.
+2005; Glodny et al., 2005, Glodny et al., 2008).
+The Oriental Series is the dominant one in the study area, it is mainly composed of a
+alternation of metapelites and metarenites of turbidite origin (Hervé et al., 2007, 2013), which were
+deposited in a deep stable continental margin and accreted to the continent upon restarting the
+subduction during the Ordovician (Glodny et al., 2005). The series is subjected, from the west, to an accretion
+frontal, which generates foliation in the metasediments and is responsible for a regional metamorphism of the
+Barrovian type, expressed by pretectonic associations of staurolite, garnet and biotite (Vásquez,
+2001).
+2-23
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Studies carried out by Hervé et al. (2013), the Oriental Series would have been deposited in the Lower Carboniferous,
+before the Western Series. However, both would have been formed before the intrusion of the Batholith.
+Coastal, to which they associate an age of 305-320 Ma.
+iii. Quiriquina Training
+Biró (1982) formally defines this Formation, which corresponds to a classic transgressive sequence,
+marine-coastal, formed by a basal conglomerate, composed of metamorphic clasts and some remains
+fossils, underlying marine sandstones, partly glauconitic, fossiliferous and biopeat
+das. As
+As we ascend the column, several levels of concretions appear, which are characteristic of the
+coastal outcrops. Locally, there is cross stratification.
+Based on the study of ammonoids, Salazar (2004) establishes that the age of the Quiriquina Formation
+It is Maastrichtian.
+It overlies the Metamorphic Complex in angular unconformity and underlies the Curanilahue Formation.
+iv. Curanilahue Formation and Cosmito Formation
+Curanilahue Formation, of Eocene age, corresponds to sedimentary sequences composed of shale,
+sandstones, conglomerates and coal seams. Horizontally arranged and/or slightly tilted
+Towards the West, these emerge in the area of Concepción, Penco and Talcahuano. This unit has been
+subdivided, from base to roof: Lota Member (continental), Intercalation Member (marine) and Member
+Colico (continental) (Muñoz Cristi, 1968). In the town of Cosmito, the outcrops were defined
+by Galli (1967) as Cosmito formation. However, the definition of these is still controversial.
+outcrops, as a new unit.
+v. Unconsolidated sediments of Marine Terraces
+The marine abrasion terraces generated during the Quaternary process are covered
+by partially stratified sandy and silty sediments, composed of material from
+volcanic eruptions of the Andes Mountains. They have maximum heights of 15 meters above sea level.
+Regarding the local geology, below is a description of the units present in the
+Project area, which are defined informally by the owner. The mapping developed in
+Project area and its surroundings was developed superficially, with a scale of 1:200, and adds to
+This information is provided by geological drilling, which in areas of geological interest,
+They have a mesh size of 200 m*200 m to 50 m*50 m.
+2-24
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+i. Penco Plutonic Complex
+The intrusive rocks that crop out in the area belong to the Southern Coastal Batholith, defined by Hervé et al.
+(1987) and can be spatially associated with the subunit “Granitoids of Concepción” suggested by
+Creixell (2001). They are medium to coarse grained equigranular phaneritic rocks with a tonalitic composition.
+dioritic. Modal analyzes carried out on thin sections allow the classification of 3 lithologies:
+tonalites, quartz diorites and diorites.
+The units defined by the Owner, and that make up the Penco Plutonic complex are:
+a) Garnet Granite
+The study emerges as a discontinuous strip ~6km long with NNE-SSW elongation and made up of
+bodies with extensions that vary between 0.5 – 1km.
+This unit intrudes the metapelites of the Eastern Series, which is evidenced by the usual presence of
+xenoliths. Garnet-biotite tonalite is cut by NNW faults and less frequently by those
+ENE orientation, these faults put this unit in contact with others present in the area. The texture
+It is equigranular phaneritic with medium to coarse grain. Garnet is easily recognized, due to its
+abundance. The garnet develops into euhedral crystals between 3 – 6mm and has a reddish to brown color.
+pinkish on fresh rock.
+b) Biotite Granite
+Medium to coarse grained equigranular phaneritic rocks, locally porphyritic. Composed of tonalites,
+granodiorites and granites and monzogranites; all with abundant biotite. The body has elongation
+predominantly NS.
+On its western margin, it is in contact by intrusion and fault with the metapelites of the Series
+Eastern, and underlies unconformity with the sedimentary rocks of the Quiriquina Formation and
+Curanilahue.
+c) Diorite
+It crops out in the central-western sector of the Coastal Mountain Range, from the Estero Lirquén, in the North,
+to the vicinity of Route 152, to the south. It emerges as a body with a slightly oriented major axis
+NNE-SSW. It is characterized by having a distribution strongly controlled by faults, especially towards
+the north, while towards the south the contacts become by intrusion.
+2-25
+==================================================================================
+PAGE 27
+========================
+===========================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ii. Metapelites
+Very low-grade metamorphic rocks composed, with incipient foliation and little alteration to clays.
+They belong to the Eastern Series of the paired metamorphic belt. They are highly competitive and very
+erosion resistant.
+iii. Secondary Structures
+The structural model was built by the consultant Matías Sánchez between 2014 and 2015, where
+It was validated that the Project area and its surroundings. It is dominated by two structural styles
+main:
+Long-standing fault/fracture systems (Permian Triassic? Jurassic?) trending northwest (NW):
+sub-vertical manteo and last normal-sinistral movement. These accommodate levee systems along
+magnetite destruction guidelines in the coastal batholith and meta-sedimentary (MP) sequences.
+(Sanchez, 2015)
+Extensional (normal) faulting with NNE orientation and bearing mainly to the ESE. These make up a
+system of rotated “domino” blocks of Late Cretaceous to Pliocene age. They accommodate extension
+crustal and subsidence with syn-extensional sedimentation along a series of semi-grabens during
+the Upper Cretaceous (Quiriquina Formation; marine environment) and Tertiary (“Tertiary of Arauco”;
+continental - fluvial) (Sánchéz,2015).
+The following main structures, grouped together, are identified by the studies carried out by the Owner:
+according to the predominant style:
+a) NW system
+The main structures of this system are the Madesal and Estero Penco faults.
+The Madesal Fault trends N60°W/80°SW. It is identified by the presence of a fault gap, with
+angular clasts in a sandstone matrix, accompanied by a strongly chloritized andesitic dyke, with
+micro fractures filled with sulfides. This gap has been observed in geological drillings at more than 50 m
+deep.
+The Estero Penco Fault zone constitutes a discontinuity detected in regional magnetometry. puts
+in contact with the Biotite Granite intrusive units, which outcrops on the west side of the structure with
+Garnet Granite and Diorite, units that emerge to the east of the Fault. North of the Project area, FEP
+It has orientation N10°-25°E. Normal kinematic indices have been recognized on slopes north of the
+Project, fracturing zone up to 30 m thick, with centimetric clay-chlorite fill.
+plaster. A fault breccia of angular and strongly altered clasts, associated with this same zone of
+shear is observed in geological exploration well. The mantle is variable, the trend being 80°SE to
+vertical.
+2-26
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+b) NE system
+These structures present gaps < 1m thick, in the southern area of the Project, with trends N40°-
+60°E/50°-70°NW, apparently cut by the NW system. On the surface, a matrix of
+salveland and kaolin with strongly argilized clasts. To the north of the Project these structures put into
+Diorite blocks contact with the metamorphic unit.
+They accommodate sedimentation in the Arauco-Itata Basin. Not observed in the project area
+regional scale structure.
+c) EW system
+The most important structure is the Estero El Cabrito Fault, which cuts the intrusive Granite de Garnet.
+Observed in a geological exploration well, it presents a fault gap with a backup matrix.
+limonite-clay. Its main course is between N80°W to N80°E, with a slope between 65° to 70° to the north.
+Figure 2-8. Local Geology in the Project area
+Source: GAC
+• Geomorphological units
+2-27
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In the areas near the Project location, the relief is complex with varied slopes, ranging
+from flat areas to areas of abrupt changes. Close to the coast, it dominates a steeper slope
+constant, while the changes become
+They look sharp when you move westwards, in the Cordillera
+of the Coast.
+In the Biobío Region, Börgel (1983) calls this area as the Central Lacustre and Glacio-Plain type.
+Fluvio-Volcanic, where there is a decrease in the height of the Andes Mountains, of the plain
+central, Coastal Mountain Range and coastal areas. Lake basins are also present, due to
+tectonic and glacial action.
+At the regional level, the following morphological units are recognized:
+- Coastal plain of marine and/or fluviomarine sedimentation.
+- Central plain with moraines and cones.
+- River sedimentation plains.
+- Coastal Mountain Range.
+- Marginal granitic basin.
+-Andean mountain range of cryonival retention.
+- Longitudinal Central Plain with fluvio-glacio-volcanic filling.
+- Premountain range.
+2-28
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-9. Geomorphological units of the Biobío Region
+The red date indicates the location of the Project
+Source: Modified from Börgel (1938).
+The project site is developed entirely in the geomorphological unit of the flank
+western of the Coastal Mountain Range. This physiographic unit is characterized by being a flattened relief,
+with some bodies with heights no higher than 780 meters above sea level, it is dissected by the main channels
+and secondary ones that are arranged from East to West (Gajardo, 1981).
+The distinctive geomorphology of the local area where the Project is located is:
+i. Coastal Mountain Range
+The Coastal Mountain Range, in the area where the project is located, has slopes called “Laderas
+Intrusive”, which correspond to its western flank. Petrographically the units are
+granitoids, tonalites and granodiorites.
+2-29
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The Coastal Mountain Range is convex, with altitudes no higher than 300 m a.s.l., with
+slopes that generally fluctuate from low (0 – 2°) to very steep (>35°) and to moderately
+steep (20° – 30°). The slopes may present an advanced degree of physical and chemical weathering.
+evidenced by the presence of regolith, which shows the decomposition of the rocks.
+ii. Water and Fluvial Modeling
+Permanent and sporadic watercourses dissect the slopes with deep incisions.
+In some stream walls there is linear erosion of the rill type, caused by the effect of the
+precipitation.
+iii. Elements of Anthropic Origin
+Based on the concept of “Anthropic Origin”, 2 geoforms associated with forestry activity were recognized,
+which develops pine and eucalyptus plantations in the Project area. These are:
+Anthropic terracing area: Terraces built in sectors adjacent to plantation roads
+forest, and to convex areas of the slopes where, naturally, the largest areas of
+terracing. In the southern area of the Project, the deposition of colluvial material was observed, which covers
+some anthropic terracing. In these cases, it is also observed that the terraces are located
+contained by anthropogenic barriers made of wooden trunks as protection against erosion. Without
+However, the slope that these slopes present, added to the non-consolidation of the sediments and the
+absorption capacity of the clays, generate an increase in the volume of this deposit, which
+It favors its movement, thus creating an area at risk of soil slippage.
+Linear erosion of the rill type (regero) also occurs on these deposits.
+Anthropic slope or escarpment: This anthropic geoform occurs on the sides of roads and in the
+anthropic terracing areas. On the walls of some anthropogenic slopes you can observe the
+presence of localized material detachments.
+2.3.6 c.4) Geotechnical background
+• Characterization of the foundation soil, field analysis, geotechnical properties of the
+materials, attaching information from laboratory tests
+.
+As a result of the surveys carried out, it has been determined that the project land corresponds to
+soils of residual origin, that is, their origin is due to the weathering of the rock as a result of natural phenomena
+physical and/or chemical factors such as climate or transportation by rivers or estuaries. The fact that the soils are
+residuals implies that there is no transport, so there will be a high degree of heterogeneity in
+comparison with sedimentary soils. The parent rock from which the project soils are degraded is
+general Granite, and the name, according to its mechanical properties, by which it is known is
+Maicillo.
+2-30
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Currently, approximately 2,000 linear meters of geotechnical drilling have been drilled for the
+characterization of the slopes of the extraction areas, along with the execution of pits for the
+extraction of unaltered samples to carry out triaxial tests and measurement tests of
+MASW type shear wave velocity. These tests have been distributed in two campaigns carried out on
+2021 and then 2022. The drilling has considered execution of SPT tests every 1.0 m with tests of
+USCS classification and the execution of pressuremetric tests. The 2022 campaign also considered
+the installation of Casagrande type piezometers in all drillings.
+• Field campaigns, trials, analysis and results
+The drill holes have reached depths of up to 60 m, in which approximately 20
+The first meters correspond to, according to the USCS classification, sandy silts or sandy clays of
+low plasticity. Below these depths the material becomes more compact and is found with degrees
+of less elevated weathering transitioning to a competent rock.
+A phreatic level is not detected, however, there are saturated levels, such as Hanging Waters, at depth
+variable, between 5 m and 50 m, being consistent with the topography
+In summary, the stratigraphy of the project, from a geotechnical point of view, can be characterized as:
+- First layer: Soft Maicillo: 10-20m thick. Shear resistance angle of ’= 30-32° and
+c’ = 5-15 kPa or an undrained resistance of Su = 130-170 kPa.
+- Second layer: Maicillo: 10-20m thick. Shear resistance angle of ’ = 35- 38° and c’ =
+20-30 kPa or an undrained resistance of Su = 200-250 kPa.
+- Third layer: Weathered Rock: 20-40m thick. Shear resistance angle of ’ = 38-
+42° and c’ = 30-50 kPa or an undrained resistance of Su = 300-400 kPa.
+2.3.7 c.5) Hydrological background (hydrology and hydrogeology of the place)
+• Hydrological description of the related basins, plan of surface water courses
+present, basins and sub-basins used in design calculations.
+Based on the information available in Chapter 3 Baseline, the hydrology and
+Local hydrogeology in the area of influence of the project.
+Regarding hydrology, a regional hydrographic characterization of the study area was carried out where
+Hydrological sectors and the main hydrographic network associated with the Project area were identified,
+followed by a local hydrographic characterization, in order to identify the drainage network of the sector and
+in this way we can define potential impacts on water resources.
+2-31
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Then, a hydrometeorological characterization of the area where the Project is developed was carried out, with the
+objective of establishing the values of temperature and precipitation, determining in the case of the
+precipitation values for different return periods, ending with the presentation of results
+of maximum flows for different return periods.
+The drainage pattern of all basins runs broadly from East to West, in which
+Some sections deviate in different directions, but all have the Pacific Ocean as their discharge.
+Next, Figure 2-10 presents the hydrographic network in the area of ​​influence of the project.
+Figure 2-10. Hydrographic network of the project Area of Influence
+Source: APM Consultants
+The main channel corresponds to the Andalién River (southern area of the Project), which drains the small streams
+that are located in the area, and whose regime is completely pluvial. This channel is the one that presents a
+permanent and continuous flow during all months of the year, however, the streams where
+Where the works are located generally remain dry and are activated by the presence of significant rainfall.
+In the northern sector of the Project development, the main drainage corresponds to the Penco estuary, with a regime
+2-32
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+pluvial, where the majority of its contributing streams are only active during flood events.
+precipitation.
+For its part, the hydrogeology of the sector has been based on the geological description achieved based on
+drilling campaigns, field observations, permeability tests and level measurements
+phreatic, identifying and defining 03 hydrogeological units:
+- Superior Hydrogeological Unit (UH1 – Saprolite): This is the hydrogeological unit that most
+is widely developed in the project area. It corresponds to the alteration of the different rocks
+present, from which an important presence of clay-type phyllosilicates has developed
+(smectites and montmorillonites, along with kaolins and micas in different proportions) which print
+This unit has particular hydraulic characteristics of very low hydraulic conductivity.
+- This unit and its very low permeability strongly controls and limits deep infiltration and
+channels most of the water from precipitation as surface runoff, generating in
+lower or gently sloping areas, small saturated domains, for example, the bottom of
+ravines. Very low permeability conditions do not allow the development of a connection
+hydrogeological between the surface and the semifractured unit; On the contrary, the saprolite establishes
+a confinement condition on the lower unit.
+- Main Hydrogeological Unit (UH2- Saprolite/Rock Interface): Corresponds to the domain
+saturated hydrogeological and is defined as the section of the subsoil that goes from the saturated water table
+confined, with a roof composed of a less developed saprolite, together with fractured rock in
+transition, to the unaltered rock as a base. The confinement level corresponding to the ceiling of
+This hydrogeological unit is defined by the pervasive degree of the mineralogy of
+alteration, which prints a hydraulic character with much lower hydraulic conductivity in the
+base of UH1, differentiating itself from this unit, due to the difference in the orders of magnitude of the
+hydraulic conductivity.
+- Lower Hydrogeological Unit (UH3- Basement or Healthy Rock): Responds to the presence of rock
+unaltered beneath the UH2 or underlying the UH1 unit when the saturated hydrogeological domain is not
+it develops. Its depth is highly variable and although it is slightly influenced by
+topography, usually occurs deeper or shallower than the morphology of the terrain suggests. It has been
+defined the roof of this unit based on the surface defined as the roof of the rock from the
+geological model associated with the project which is based on control points obtained from the
+geological, geotechnical and hydrogeological drilling.
+• Maximum and minimum rainfall, distance to the stations used as historical records,
+considered period of historical record and model updates with recent years of
+rainfall record if applicable.
+In order to evaluate the maximum rainfall in 24 hours, information was collected
+of the closest stations belonging to the network of monitoring stations of the General Directorate
+2-33
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+and
+Rare Earth Concentrate
+of Waters. The selected stations and their main characteristics are presented in the following Table
+and Figure.
+Table 2-6: Information on Rainfall Stations near the AI
+UTM East UTM North
+BNA Code Name Elevation [masl] Year Start
+[m] [m]
+08410001-3 Concepción DGA 669,387 5,921,946 28 1994
+08220006-1 Andalién 683,839 5,923,886 37 2001
+08220005-3 Carriel South 672,298 5,927,883 236 1990
+08140001-6 Rafael 692,309 5,943,295 264 1990
+08394001-8 Biobío Mouth 672,818 5,921,279 16 1985
+Source: Aclara
+Figure 2-11: Location of Rainfall Stations near the AI
+Source: Own elaboration
+The rainfall station controlled by the General Directorate of Water (DGA) called Andalién, is
+considered representative of the area, due to its proximity (less than 10 km) and a similar height of
+the study area (approximately 40 meters). The Csbn's climate of the area has a dry season
+of less than four months, reaching an accumulated annual value of water fall of 1,136 mm average
+2-34
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+during the last 20 years of statistics (2000-2020). Regarding the monthly variation of the
+precipitation, June is the rainiest month with an average amount of 256 mm of water fall,
+while the month of February is the driest, with 12 mm. The temporal variation of precipitation is
+shown in the climogram in Figure 2-12.
+Figure 2-12. Climogram of monthly average precipitation (2000-2020), DGA Andalién station and temperature
+monthly average (1966-2020) DMC Carriel Sur station.
+Source: APM Consultants
+• Estimation of recharge by precipitation and discharge by evaporation or transpiration.
+According to the Water Balance of Chile (1987), tank evaporation in the Project area is of the order of
+1,250 mm/year and the real evapotranspiration about 600 mm/year. Figure 2-13 presents both types
+of isolines published by the DGA.
+On the other hand, the real annual evapotranspiration can be estimated using the Turc method, whose
+formula is represented by:
+Where:
+ETR= real evapotranspiration in mm/year;
+P=precipitation in mm/year: which will be taken equal to 1,136 mm/year according to the station record
+DGA Andalién;
+2-35
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+L=300+25t+0.005t3, where t=annual average temperature in °C: the result of this polynomial
+dimensionless is equal to 618.5.
+In accordance with the above, a real evapotranspiration (ETR) value of 550 mm/year was obtained for the
+study area, which is close to the ETR values estimated by the DGA (1987), of 600 mm/year.
+Figure 2-13. Isolines of tank evaporation (orange color) and real evapotranspiration (yellow color),
+Water Balance of Chile (1987) from the DGA.
+Source: APM Consultants
+• Maximum tributary flows to the works and parts of the project
+The project and its works require the application of the Sectoral Environmental Permits indicated in the
+articles 156 and 157 of the D.S. 40, Regulation of the Environmental Impact Assessment System (RSEIA),
+associated with channel modifications due to road crossings and regularization works by the
+construction of contour channels.
+2-36
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In both cases, flows have been estimated using different methodologies, considering the basins and
+contributing subbasins for different return periods, so that they are part of the design of
+the works to be built.
+In the case of channel modifications, the contributing flows are summarized in the following table,
+considering the rational, Verni & King and DGA-AC methods for return periods of 100 years
+(design) and 150 years (verification), respectively.
+Table 2-7: R
+summary of design flows (T =100 years) and verification (T =150 years) for the 3 methods
+R R
+used.
+Q m3/s T =100 years Q m3/s T =150 years
+R R
+ID Verni King Verni King
+Rational DGA-AC Rational DGA-AC
+modified modified
+OAT 22-5 0.297 0.171 0.065 0.313 0.191 0.071
+OAT 11-3 0.024 0.019 0.006 0.025 0.021 0.006
+OAT 11-1 0.019 0.015 0.005 0.020 0.017 0.005
+OAT 1-15 4.736 2.034 0.997 4.997 2.266 1.100
+OAT 1-14 0.038 0.028 0.009 0.040 0.031 0.010
+OAT 1-11 0.073 0.050 0.016 0.077 0.055 0.018
+OAT 1-8 0.270 0.156 0.059 0.284 0.174 0.065
+OAT 7-7 0.172 0.105 0.038 0.182 0.117 0.042
+OAT 7-5 0.326 0.185 0.071 0.344 0.207 0.078
+OAT 7-4 4.295 1.839 0.891 4.533 2.048 0.984
+OAT 1-6 11,689 4,565 2,436 12,335 5,086 2,690
+OAT 7-2 0.079 0.053 0.018 0.083 0.059 0.019
+OAT 5-11 0.126 0.080 0.028 0.133 0.090 0.031
+OAT 5-10 2.515 1.122 0.517 2.654 1.249 0.571
+OAT 2-3 0.083 0.056 0.019 0.087 0.062 0.021
+OAT 2-2 0.038 0.028 0.009 0.040 0.031 0.010
+OAT 2-1 0.556 0.297 0.119 0.587 0.331 0.131
+OAT 1-18 0.069 0.048 0.016 0.073 0.053 0.017
+5OAT 1-17 0.132 0.084 0.029 0.139 0.093 0.032
+OAT 1-16 0.188 0.114 0.041 0.199 0.127 0.046
+OAT 38-1 0.224 0.134 0.049 0.237 0.149 0.054
+OAT 22-9 9,807 17,314 10,609 10,235 19,287 11,711
+OAT 22-8 46,668 16,007 9,726 49,243 17,831 10,736
+Source: Own elaboration, 2024.
+For its part, to determine the calculations carried out to obtain the runoff flows in the
+regularization works (ZE, ZD, ZAV), the rational formula that is presented in the Manual of
+Highway, 2019 edition of the MOP and which makes a distinction between flat basins and basins with slopes or
+natural.
+2-37
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Disposition Zone
+The Neptuno ZD has two (2) works associated with its implementation: evacuation channels and channels
+contour. The following table details the flows of the aforementioned work.
+Table 2-8: Summary of flows for ZD-Neptuno using a rational formula.
+Q (m3/s)
+Contributing area A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 19160 0.0192 121 10 0.52 0.142 0.150
+A2 32314 0.0323 121 10 0.52 0.240 0.253
+A3 14075 0.0141 121 10 0.52 0.105 0.110
+A4 19188 0.0192 121 10 0.52 0.143 0.150
+A5 2309 0.0023 121 10 0.52 0.017 0.018
+A6 20759 0.0208 121 10 0.52 0.154 0.163
+A7 25913 0.0259 121 10 0.52 0.192 0.203
+A8 65347 0.0653 121 10 0.52 0.485 0.512
+A9 75485 0.0755 121 10 0.52 0.561 0.592
+A10 57172 0.0572 121 10 0.52 0.425 0.448
+A11 37895 0.0379 121 10 0.52 0.281 0.297
+A12 9423 0.0094 121 10 0.52 0.070 0.074
+Source: Own elaboration, 2024.
+• Vegetable soil collection area (ZAV):
+Next, the following table presents the flow rates of the disposition of the contributing areas of the
+contour channels for the ZAV.
+Table 2-9: Flow summary for ZAV.
+Q (m3/s)
+Contributing area A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 17522 0.01752 121.5 10 0.52 0.131 0.138
+A2 16437 0.01644 121.5 10 0.52 0.123 0.129
+A3 1790 0.00179 121.5 10 0.52 0.013 0.014
+Source: Own elaboration, 2024.
+2-38
+==================================================================================
+PAGE 40
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Extraction areas:
+The Extraction Zones have 2 works associated with their implementation, the evacuation channels and
+the contour channels.
+i) Luna extraction zone:
+Table 2-10: Summary of internal drainage flows through evacuation channels Luna Extraction Zone.
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+LF1-2B 797 80 10
+LF2-3A 1083 102 14
+LF1-3B 423 51 6
+LF1-3C 2281 216 38
+PathA LF1-3C 536 29 6
+LF1-3D 290 43 25
+LF2-4(1)-1 7036 290 119
+PathA LF2-4(1)-1 1059 62 12
+LF2-4(1)-2 5022 177 74
+LF2-4(2) 3015 134 57
+LF2-5A(1) 6201 428 90
+PathA LF2-5A(1) 584 29 7
+LF2-5A(2)-1 3044 165 48
+PathA LF2-5A(2)-1 1175 71 14
+LF2-5A(2)-2 2029 178 130
+LF1-6B(1) 3391 105 52
+PathA LF1-6B(1) 2146 75 22
+LF1-6B(2) 5086 264 100
+LF1-5B(1) 2227 200 79
+PathA LF1-5B(1) 1162 65 20
+LF1-5B(2) 1114 100 25.9
+LF2-5C 264 42 20
+LF1-6A(1) 1341 86 103
+L.F.
+1-6A(2) 894 64 26
+PathA LF1-6A(2) 1135 66 13
+LF2-6C(1) 3186 114 33
+PathA LF2-6C(1) 1322 71 15
+LF2-6C(2) 797 108 11
+LF2-7(1) 467 56 6
+PathA LF2-7(1) 1353 74 16
+LF2-7(2) 4203 162 57
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+2-39
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ii) Maite extraction area:
+Table 2-11: Summary of internal drainage flows through evacuation channels Maite Extraction Zone.
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+MF1-1(1) 23745 573 204.5
+MF1-1(2) 10176 200 87.7
+ROAD TO MF1-2B 1045 62 9
+MF2-1A(1) 7775 252 79.5
+MF2-1A(2) 1372 54 14.7
+PATH TO MF2-2D 1138 66 13.3
+MF1-2A 5552 132 52.4
+ROAD TO MF1-3 1094 64 13
+MF1-2B 12368 609 106.5
+MF2-2C 9354 219 87.8
+ROAD TO MF2-3B 1090 63 13
+MF2-2D 12544 326 121.1
+MF2-3A(1) 2654 182 31.9
+MF2-3A(2) 13269 360 129.6
+ROAD TO MF2-4B 1040 66 12
+MF2-3B 3134 288 39.6
+MF1-4A 1105 116 14.2
+MF2-4B(1) 3378 255 41.3
+MF2-4B(2) 3378 119 35.2
+ROAD TO MF1-5A 1144 71 14
+ROAD TO MF2-5B(1) 1272 65 14
+MF2-4B(3) 10133 234 94.8
+MF2-4C 5657 240 61.7
+ROAD TO MF2-4C 1242 62 14
+MF1-5A 4427 244 51.1
+MF2-5B(1) 18393 561 185.1
+ROAD TO MF1-6 1058 62 12
+ROAD TO MF2-5B(2) 1160 80 14
+MF2-5B(2) 2044 135 24.4
+MF2-6A(1) 1250 258 16.8
+MF2-6A(2) 11254 416 118.8
+ROAD TO MF1-7 1146 70 13
+ROAD TO MF2-6A 1062 62 12
+ROAD TO MF2-7 91 62 1
+MF2-6B 573 68 7.5
+MF2-7(1) 6334 435 76.3
+2-40
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+ROAD TO MF1-8 1053 61 12
+MF2-7(2) 19003 590 192.1
+ROAD TO MF2-9 1175 65 14
+MF2-8(1) 12965 555 141.6
+MF2-8(2) 19448 408 177.3
+MF2-9(1) 2138 432 28.7
+MF2-9(2) 12116 359 121.1
+ROAD TO MF1-10A 1164 67 14
+MF1-10A 4068 370 51.3
+MF1-10B 1253 123 16
+ROAD TO MF1-11A 1065 62 12
+MF2-10C 2423 192 29.9
+MF1-11A 3951 275 34
+MF1-11B 193 27 1.7
+MF1-11C 178 43 1.5
+MF2-11D 534 63 7
+MF1-12A 3311 171 28.5
+MF1-13A 1768 128 15.2
+MF1-14 1457 109 12.6
+MF1-15 1312 98 11.3
+MF1-16 981 85 8.5
+MF1-17 335 52 2.9
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+iii) Victoria North extraction zone:
+Table 2-12: Summary of internal drainage flows through evacuation channels Victoria Extraction Zone
+North.
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+VNF2-1 763 47 9.7
+VNF2-2 1594 114 22.1
+VNF2-3 1650 144 25.8
+VNF2-4 4750 155 41.1
+VNF2-5 6346 159 46.9
+VNF2-6 6922 302 71.3
+VNF2-7 2896 327 52.8
+VNF2-8A 647 71 11.6
+VNF2-8B 3428 169 38
+PATH TO VNF2-8B 1226 69 14.7
+2-41
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+VNF2-9A 1389 138 23.4
+VNF2-9B 1319 107 19.7
+PATH TO VNF2-9B 1088 64 13.4
+VNF2-10A 2533 225 40
+VNF2-10B 2333 77 20.3
+PATH TO VNF2-10B 1132 64 13.6
+VNF2-11(1) 13627 293 91.8
+VNF2-11(2) 13627 88 59.3
+PATH TO VNF2-11 1233 69 14.7
+VNF2-12A 7156 523 100.4
+PATH TO VNF2-12A 1170 64 13.8
+VNF2-12B 675 53 9.9
+VNF2-12C 2351 186 34.6
+VNF2-13A(1) 14196 444 119.7
+PATH TO VNF2-13A 1196 71 14.8
+VNF2-13A(2) 1548 258 35.6
+VNF2-13B 1348 86 17.4
+VNF2-14A(1) 7070 495 96.7
+PATH TO VNF2-14A 1143 68 14.2
+VNF2-14A(2) 7070 135 44.4
+VNF2-14A(3) 14139 368 106.8
+VNF2-14B 140 18 2.8
+VNF2-15A 3219 221 43.5
+PATH TO VNF2-15A 1238 69 14.8
+VNF2-15B 1556 141 24.8
+VNF2-15C 1588 124 23.2
+VNF2-15D 675 57 10.3
+VNF2-15E 11039 403 102.2
+PATH TO VNF2-15E 1068 63 13.2
+VNF2-16A(1) 5228 104 33.6
+PATH TO VNF2-16A 430 23 5
+VNF2-21 1537 87 18.5
+ROAD TO VNF2-21 713 44 9
+VNF2-16A(2) 5228 246 56.3
+VNF2-16B(1) 2333 181 33.9
+VNF2-16B(2) 9333 452 102.3
+PATH TO VNF2-16B 1302 74 15.7
+VNF2-16C 52 145 6.5
+VNF2-16D 1113 86 16.2
+VNF2-17A 2781 212 40
+2-42
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+VNF2-17B 863 68 12.7
+VNF2-17C 1453 118 21.7
+VNF2-17D 7280 541 103.2
+PATH TO VNF2-17D 1142 64 13.7
+VNF2-18(1) 3983 293 56.1
+VNF2-18(2) 3983 154 38.2
+VNF2-18(3) 15931 496 134
+PATH TO VNF2-18 1287 75 15.8
+VNF2-18(4) 2655 145 31.3
+VNF2-19A 1484 127 22.9
+VNF2-19B 9718 373 92.7
+PATH TO VNF2-19B 1099 62 13.2
+VNF2-20(1) 8116 169 53.6
+VNF2-20(2) 8116 231 64.7
+PATH TO VNF2-20 1103 64 13.5
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+For more information see Appendices 10-13.3 Hydraulic report and Rainwater Drainage of Annex 10-
+13 PAS 157 of Chapter 10 of this EIA.
+• Hydrogeological parameters, water table, quantity and types of aquifers, conductivity
+hydraulics, flow directions, surface water interaction with groundwater, type of use
+of groundwater, among others, and analyze the influence they have on the design of the works.
+As noted above, the hydrogeology of the sector has been determined with the information
+obtained from exploration drilling, geological/mineralogical characterization, drilling
+geotechnical with penetration and permeability tests, hydrogeological drilling,
+in addition to multiple works, reinterpreted, that have given technical support to the processes of
+previous environmental qualification.
+Based on the execution and monitoring of piezometers in different sectors of the project where there will be
+direct intervention, with results that show very low or meager throughflows, it has been possible
+determine that the unit made up of saprolite (UH1), presents very permeability conditions.
+low that does not allow a hydrogeological connection between the surface and the semifractured unit. In this
+In this sense, the saprolite establishes a confinement condition that implies that the existing water is
+find under pressure.
+For its part, the main unit (UH2) does not generate conditions that favor or constitute systems
+hydrogeological (aquifer), and therefore in this sector there is no use of water as an underground resource
+of importance such as drinking water supply or irrigation.
+2-43
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The above, in accordance with bibliographic information available on the Map
+Hydrogeology of Chile, where it is evident that, based on regional hydrogeology, the location of the
+The project is located in a unit of plutonic and hypabyssal rocks and metamorphic rocks of the Cordillera de
+the Coast that make up the Basement, and that have very low to absent permeability, with a
+relatively nil hydrogeological importance.
+Figure 2-14. Extract from Hydrogeological Map of Chile
+Source: APM Consultores, based on the Hydrogeological Map of Chile
+2-44
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Climate Risk
+To define the negative synergy that the climate factor may exert on the water component
+of the area of influence, the evaluation of the hydrometereological parameters was considered, including
+its evolution over time added to this threat factor.
+In this sense, the projection (simulation) of climatic parameters that influence the
+availability and characteristics of the water resource, which were chosen from the database of the
+arclimb.mma.gob.cl portal of the Ministry of Environment:
+- Temperature
+- Drought frequency (%)
+- Consecutive Dry Days
+- Potential evapotranspiration
+- Maximum daily precipitation
+- Precipitation intensity
+Figure 2-15 below identifies
+icas the progression of these linked climate threats in the
+time for the commune of Penco.
+2-45
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-15. Climate Threats linked to the water component for the Commune of Penco.
+2-46
+==================================================================================
+PAGE 48
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: APM Consultores, based on information from www.arclimb.mma.gob.cl
+2-47
+==================================================================================
+PAGE 49
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Simulation (Mean Value) derived from ArClimb (MMA) data predicts an increase in
+maximum daily temperatures on average of 1°C by the year 2060, and along with it the increase in
+probability of drought and dry days; and consequently an acceleration in the rate of
+evapotranspiration resulting from climate changes. In the case of maximum rainfall
+daily, this is projected below the historical maximums, which corresponds to a condition that
+would affect the inputs to the basin's water system; However, the projection of the intensity of
+Precipitation forecasts an increase in frequency of 10% at intensities of 2 mm/day.
+2.3.8 c.6) Topographic background
+The area where the works and parts of the Project are located presents a representative topography of the
+Coastal Mountain Range, with slope ranges ranging from gentle to steep. The topography of
+The area is associated with hill slopes with varying inclinations.
+To represent the relief of the Project location, a digital elevation model DEM was used.
+high resolution (1 m) type Lidar (Light Detection and Ranging) acquired by Claria (2022).
+The Project is located at altitudes ranging from 150 to 350 meters above sea level. The highest height is found
+in the northeast sector of the project, while those close to 150 meters above sea level. are located in the sector
+central west. In the general extension of the Project the heights decrease from East to West.
+Figure 2-16 shows a modeling by slope ranges, where it is observed that the area presents
+a complex relief with varied slopes. Slopes less than 8% are rarely found
+represented, while the slope ranges with the greatest representation correspond to those
+which are between 15% to 45% and 45% to 60%, and to a lesser extent slopes greater than 60%.
+2-48
+==================================================================================
+PAGE 50
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-16. Slope gradient and slope model for the area of influence
+Source:GAC
+2.3.9 c.7) Geological and geomorphological risks
+2.3.9.1 Volcanic Risks
+The geologically active volcanoes, and with high specific risk, closest to the site of the
+Project correspond, according to the map of Volcanic Hazards of Chile (SERNAGEOMIN, 2011), to the
+Copahue and Collaqui volcanoes. With a moderate level of specific risk, to the Loma Blanca volcano and very
+low level of specific risk, and to the Nevado de Longaví, Nevados de Chillán and Antuco volcanoes.
+All the volcanoes indicated, as well as their associated volcanic risk areas, are located more than
+120 km to the east of the Project, since the construction site and parts of the Project are not
+related to this type of risk.
+Figure 2-17 shows the location of the Project in relation to the volcanoes.
+closest, observing the distance of the Project with respect to volcanic dangers.
+2-49
+==================================================================================
+PAGE 51
+===========================================
+=====================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-17. Distribution of the active volcanoes closest to the Project.
+Source: GAC, modified from Volcanic Hazards map, SERNAGEOMIN, 2018
+2.3.9.2 Seismic Risks
+The project location area is inserted in a latent zone due to the manifestation of
+earthquakes, being highly recurrent due to the active subduction of the Nazca Plate under the
+South American plate.
+2-50
+==================================================================================
+PAGE 52
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The distribution of the epicenters of the earthquakes in the Biobío region is presented historically in
+homogeneously in the coastal sector, with a slight preponderance in the southern area to superficial earthquakes
+with a distance less than 40 km deep. Towards the west, in the Andes mountain range,
+There are fewer seismic manifestations that are sensitive to the population, due to the greater depth
+of the hypocenters in these sectors.
+Table 2-13 shows the records of the most significant earthquakes with magnitude determined at
+from the amplitude of surface waves, greater than 7.0° Richter, between 34° and 41°.
+Table 2-13. Seismic Catalog of Chile, earthquakes in the Biobío Region
+Effects
+Date Time Latitude Longitude Ms Depth (km) Mw
+Secondary
+02-08-1570 9:00 36,800 73,000 8.3 - - TD
+16-12-1575 14:30 39,800 73,200 8.5 - - TD
+05-13-1647 22:30 35,000 72,000 8.5 - - -
+03-15-1657 19:30 36,830 73,030 8.0 - - TD
+12-24-1737 - 39,800 73,200 7.7 - - T
+05-25-1751 1:00 36,830 73,030 8.5 - - TM
+02-20-1835 11:30 36,830 73,030 8.5 - - TD
+07-11-1837 8:00 39,800 73,200 8.0 - - TM
+01-29-1914 23:30 35,000 73,000 8.2 - - -
+01-03-1919 23:37 41,000 73,500 7.2 40 - -
+02-03-1919 7:45 41,000 73,500 7.3 40 - -
+10-12-1920 0:25 39,000 73,000 7.4 - - -
+01-12-1928 0:06 35,000 72,000 8.3 - - T
+01-03-1936 17:45 40,000 72,500 7.1 120 - -
+01-25-1939 23:32 36,200 72,200 8.3 60 - -
+11-10-1940 14:41 41,500 74,500 7.0 - - -
+04-19-1946 23:29 38,000 73,500 7.3 70 - -
+05-06-1953 13:16 36,500 72,600 7.6 60 - -
+05-21-1960 6:02 37,500 73,500 7.3 - - -
+05-22-1960 6:32 37,500 73,000 7.3 - - -
+05-22-1960 15:11 39,500 74,500 8.5 - 9.5 TD
+06-19-1960 22:01 38,000 73,500 7.3 - - -
+01-11-1960 4:45 38,500 75,100 7.4 55 - -
+07-13-1961 17:19 41,700 75,200 7.0 40 - -
+02-14-1962 2:36 37,800 72,500 7.3 45 - -
+03-13-1967 12:06 40,120 74,680 7.3 33 - -
+08-18-1974 6:44 38,453 73,431 7.1 36 - -
+05-10-1975 10:27 38,183 73,232 7.7 6 - -
+04-08-1985 21:56 34,131 71,618 7.5 37 - -
+02-27-2010 3:33 36,290 73,239 8.8 30 - TD
+Ms: Richter magnitude determined with surface seismic waves; Mw: Richter magnitude determined from the size and
+fault displacement; S: Shallow hypocenter (less than 40 km); T: Minor tsunami; TD: Tsunami
+destructive and major; TM: Moderate tsunami or major storm surge; Date and Time are local.
+Source: Seismological Service University of Chile.
+2-51
+==================================================================================
+PAGE 53
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Important earthquakes have been identified since 1552, with their epicenter in the city of Concepción, about
+8 km southwest of the Project, as well as other important earthquakes at 40 km and more than
+distance.
+Without prejudice to the above, and independent of the distance of earthquake occurrence with respect to the
+location of works and parts of the Project, its location in the Communes of Penco and Concepción
+determines that in accordance with the Chilean standard NCh No. 2,369/2003 on “Seismic Design of Structures and
+Industrial facilities”, is located in seismic zone 3, because it is on a geological unit of
+intrusive character in this case the Cordillera de la Costa Batholith. With this situation the constructions
+to be used must comply with the acceleration conditions established by said standard,
+ensuring the appropriate construction characteristics for the indicated zoning, in case
+of
+construction authorization.
+The geologically active volcanoes closest to the Project site correspond,
+according to the map of Volcanic Hazards of Chile (SERNAGEOMIN, 2011), the Copahue and
+Collaqui, with a moderate level of specific risk, to the Loma Blanca volcano with a very low level of risk.
+specific, and to the Nevado de Longaví, Nevados de Chillán and Antuco volcanoes.
+2.3.9.3 Risks of mass removal
+Localized mass removal deposits limited to areas were identified in the Project area.
+with absence of vegetation and/or where highly weathered hillside or slope is exposed, which favors
+the detachment and removal of the surface layer; These localized mass movements are
+associated with anthropogenic slopes and areas of anthropogenic terraces present in the place.
+The risk of mass removal is associated with a process of slow or rapid mobilization of a certain
+volume of soil, rock or both, in various proportions, and generated by various factors (Hauser,
+1993). These movements have a descending character since they are fundamentally controlled by
+gravity (Cruden, 1991).
+The triggering factors of a removal process are related to the susceptibility that
+presents a slope, depending on different interactions, either in the interaction of agents
+conditioning factors such as: geology, geotechnics, geomorphology, hydrology and hydrogeology, vegetation, climate
+and anthropogenic activity; and/or depending on triggering agents such as precipitation, earthquakes
+and other less frequent factors such as volcanic activity, snow melting,
+anthropic, etc. (Lara et al, 2008).
+The methodology to be used will be the susceptibility analysis, which is based on the work of Mora
+(2004) who defines “that landslides should be considered to occur when on a slope,
+composed of a certain lithology, with a certain degree of slope, a degree of
+susceptibility (passive elements). Under these conditions, external and dynamic factors (elements
+2-52
+==================================================================================
+PAGE 54
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+active), such as seismicity and rainfall, act as triggering factors that disturb the balance
+that remains on the slope.”
+This is how the degree of susceptibility to slip is considered to be the product of the elements
+passives and the action of the triggering factors:
+H = EP x G
+Where H is the degree of susceptibility to slip, EP is the value product of the combination of the
+passive elements, and G the value of the triggering factors or active elements.
+For its part, the value of the passive elements is made up of the following parameters:
+EP = S x S x S
+I h p
+Where S is the value of the lithological susceptibility parameter, S the value of the susceptibility parameter
+I h
+by soil humidity, and S the value of the susceptibility parameter by slope.
+p
+The value of active elements is made up of the following parameters:
+G = D + D
+s ll
+Where D is the value of the seismic tripping parameter and D is the value of the seismic tripping parameter.
+s ll
+rain.
+The parameters for the susceptibility analysis are:
+Slope susceptibility (Sp): It is understood as the angle of inclination of a surface of
+terrain with respect to a horizontal plane. This can be classified both by its angle and by the
+morphological processes present, according to the terrain conditions. The slopes of the area of influence
+will be obtained through a Digital Elevation Model (MED), which were processed using the
+ArcGIS Pro 3.2® work platform.
+The topographic information is classified into seven classes, as shown in Table 2-14 and each
+class was assigned the value that the parameter will have for the subsequent multicriteria analysis.
+2-53
+==================================================================================
+PAGE 55
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-14 Assessment of the pending parameter (Sp).
+Class
+of % in the Area Value of the
+Parameter slope
+Ground conditions
+Degrees (°) Influence (Sp)
+0-2 Plain, without appreciable denudation 1.4 0
+2-4 Very low slope, danger of erosion 3.2 1
+4-8 Low slope, severe danger of erosion 8 2
+8-16 Moderate slope, occasional slides, danger
+17.2 3
+severe erosion
+16-35 Strong slope, intense denudation processes
+28 4
+(slides), extreme danger of soil erosion
+35-55 Very steep slope, rocky outcrops, processes
+35 5
+intense denudation, reforestation possible
+>55 Extremely strong, rocky outcrops, processes
+severe denudation (rockfall), coverage 7 6
+vegetable limited
+Source: GAC based on Mora (2004)
+The values of this parameter are shown in Figure 2-18 for the influence area.
+2-54
+==================================================================================
+PAGE 56
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-18 Susceptibility parameter by slope for the area of influence
+Source: GAC
+2-55
+==================================================================================
+PAGE 57
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Lithological Susceptibility (S): Obtained by identifying each lithological type present in the area of
+l
+influence, according to the district geology carried out by the Owner. From Table 2-15, it is classified
+the lithology of the area obtaining the class of lithological susceptibility assigning to the area, the value
+corresponding for the subsequent multicriteria analysis.
+The lithology of the area corresponds to (*) strongly weathered intrusive rocks, forming a mantle
+regolith up to 60 m thick, it is then assigned a susceptibility value of 3.
+Table 2-15 Classification of different lithologies and their degree of susceptibility
+Lithology Susceptibility S Value
+l
+Thick, permeable, compact alluvium, low water table. hard limestone,
+permeable. Intrusive rocks with little fissures, low water table. Basalts,
+Ignimbrite andesites and other effusive rocks, healthy, permeable and little
+Low 1
+fissured. Metamorphic rocks, healthy with little fissures, low water table.
+Healthy materials with little or no weathering, resistance to cutting
+elevated, healthy fissures, no filling.
+Sedimentary rocks not or very little altered, solid stratification
+(decimetric or metric), few cracks, low water table. intrusive rocks,
+hard limestones, lavas, ignimbrites, slightly or moderately metamorphic rocks
+Moderate 2
+altered and fissured. Slightly compact alluviums, with proportions
+considerable fines, moderate drainage, water table at depths
+intermediate. Medium to high shear resistance, shearable fractures.
+Sedimentary rocks, intrusive rocks, lavas, ignimbrites, poorly welded tuffs, rocks
+metamorphic, medium to strongly altered, colluvial, lahars, sands,
+slightly compact regolith soils, poorly developed drainage, levels Medium 3
+relatively high water tables. Moderate to medium shear resistance,
+major fracturing. (*)
+Fluvio-lacustrine deposits, loose pyroclastic soils, sectors of
+hydrothermal alteration, strongly altered and fractured rocks with
+stratifications and foliation in favor of the slope and Alta 4
+clay fills, shallow water tables. Moderate to cut resistance
+low.
+Alluvial, colluvial and regolithic materials of very low mechanical quality,
+rocks with an advanced state of alteration, poor drainage. Cases are included
+Very High 5
+3 and 4 with very shallow water tables, subject to gradients
+high hydrodynamics. Low to very low shear resistance.
+Source: GAC, modified from Chaverri (2016)
+Susceptibility due to soil humidity (S): Natural soil humidity means the level of
+h
+saturation of water that the terrain can support in equilibrium. Beyond this limit it is susceptible to
+cause landslides. The S index, according to Mora and others (1992), is obtained from the average
+h
+monthly precipitation with which a simplified water balance is carried out, where a
+potential evapotranspiration of 125 mm/month, therefore,
+monthly rainfall less than 125
+2-56
+==================================================================================
+PAGE 58
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+mm do not lead to a significant increase in soil moisture, while precipitation
+between 125 and 250 mm does increase it and monthly rainfall greater than 250 mm leads to a
+very high soil humidity (Mora et al., 1992).
+Values are assigned to the monthly averages (Table 2-16), and the sum of these is made for the twelve
+months of the year, which results in a parameter value that can range between 0 and 24 units
+(Table 2-17). The result reflects the aspects related to the saturation and temporal distribution of
+humidity in the ground.
+The rainfall data from the DGA Andalién station (2020-2020) are used, considering it the most
+representative due to its proximity and similar height to the study area.
+Table 2-16 Values ​​assigned to monthly rainfall averages.
+Average Monthly Precipitation (mm) Assigned Value
+< 125 0
+125-250 1
+> 250 2
+Source: GAC based on Mora (2004)
+Table 2-17 Assessment of the soil humidity parameter (Sh).
+Sum of values assigned to each month Description Parameter value (S)
+h
+0-4 Very Low 1
+5- 9 Under 2
+10-14 Middle 3
+15-19 High 4
+20-24 Very High 5
+Source: GAC based on Mora (2004)
+Figure 2-19 shows the average monthly precipitation data for the Project area. with
+the assessment of each month (Table 2-16), the value obtained for the humidity parameter, according to Table
+2-17, is 3.
+2-57
+==================================================================================
+PAGE 59
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-19 Climogram of average monthly precipitation (2000-2020), DGA Andalién station and temperature
+monthly average (1966-2020) DMC Carriel Sur station.
+Source: APM consultants (2023)
+Seismic Trip (Ds): Trip is understood as any external and dynamic factor that disturbs the
+balance, most of the time precarious, which is maintained on the slope and which therefore triggers
+a material sliding process.
+Table 2-18 Determination of the seismic intensity factor
+PGA Acceleration
+Degree of susceptibility Value Factor D
+Yes
+%g m/s2
+1-12 0.098 - 1.226 Mild 1
+13-20 1,227 - 2,011 Very low 2
+21-29 2,012 - 2,894 Under 3
+30-37 2,895 - 3,679 Moderate 4
+38-44 3,680 - 4,365 Medium 5
+45-55 4,366 - 5,445 High 6
+56-65 5,446 - 6,426 Strong 7
+66-73 6,427 - 7,210 Fairly Strong 8
+74-85 7,211 - 8,388 Very Strong 9
+>85 >8,389 Extremely Strong 10
+Source: GAC, Modified from Chavegri, 2016
+For the definition of this parameter, the acceleration determined as the demand for
+condition of the operation for the Project location (Gensis,2021) that in practice and equal to
+0.5 m/s2.
+2-58
+==================================================================================
+PAGE 60
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The susceptibility value obtained with the PGA is similar to that obtained if it is obtained using the angle
+effective friction in degrees. Mora (1992) correlates a value of the parameter D of 1, for angles >
+Yes
+30°. The value defined for different areas of the Project in the various geotechnical studies (Pangea, 2022)
+is greater than 30°.
+Rain trip (D): As explained previously, trip means any external factor and
+ll
+dynamic, which disturbs the balance of the slope and therefore triggers a process of
+material slippage, in this case the factor is intense rain.
+This parameter considers the intensities of rain potentially generating landslides and
+It uses the maximum rainfall in 24 hours with a return period of 100 years for its calculation. For the
+definition of the parameter values, the division into five classes proposed by Mora was used as a basis.
+(2004), displayed in Table 2-19. To determine the maximum rainfall in 24 hours with a p
+period
+of return of 100 years, the value calculated in the hydrological study carried out by APM (2023) is used.
+For the calculations, information from the DGA Andalíen station is used. With these data, the value obtained
+is 208.3 mm.
+Table 2-19 Rating of the rain trigger parameter (Dll).
+Maximum rainfall in 24 hours, return period 100 Description Parameter value (Dll)
+years (mm)
+10 - 49 Very low 1
+50 – 89 Under 2
+90 – 129 Medium 3
+130 – 159 High 4
+Source: GAC
+For the classification of the results obtained through the indicated methodology, it is not possible to
+establish a unique scale of values, since they depend on the conditions of each area
+studied. For this reason, Mora (2004) suggests dividing the range of values obtained for the area
+of influence in five classes of susceptibility and assign the qualifiers presented in Table 2-20. The
+susceptibility qualifier is a quantitative representation of the different levels of threat,
+which shows only the relative threat range at a particular site and not the absolute threat.
+This relative classification of susceptibility is based on the study of different conditions.
+examined in a specific area, that is, the susceptibility areas determined for a site are
+valid only for said site.
+Table 2-20 Mass removal susceptibility classification.
+Class Features
+Stable sectors, no corrective measures required. Study I should be considered
+of the surrounding sectors with moderate to very high susceptibility. Very Low
+2-59
+==================================================================================
+PAGE 61
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Class Features
+Stable sectors that require minor corrective measures, only in case of II
+large-scale infrastructure works. Consideration should be given to the study of the Baja
+surrounding sectors with moderate to very high susceptibility.
+The construction of infrastructure should not be allowed if studies are not carried out
+geotechnical and site condition is improved. Improvements may include: III
+earthworks, retention structures, surface water management and Moderate
+underground bio-stabilization of land, etc. Badly filled sectors
+compacted are of special care.
+High probability of landslide (<50%) in case of earthquakes of significant magnitude IV
+and high intensity rains. For its use, studies must be carried out to ensure High
+the stability of the sector.
+Very high probability of landslide (>50%) in case of earthquakes of magnitude V
+important and high intensity rains. Its use for urban purposes is prohibited. Very High
+Source: GAC based on Mora (2004).
+Assessment and interpretation of the danger of mass removal.
+Figure 2-20 shows the results of the evaluation for the Project Area of Influence versus
+to the “Danger of mass removal” according to the algebraic expression proposed in the methodology for
+this study:
+𝐻 = (𝑆𝑙∗𝑆ℎ∗𝑆𝑝)∗(𝐷𝑠+𝐷𝑙𝑙)
+The result shows that the maximum value obtained is 216, a value that is considered low at all times.
+that the maximum allowed by the methodology is 1,800, that is, percentage wise the worst scenario
+theoretically possible for the Project AI represents percentagewise only 12% of the worst case
+tolerated by the method.
+2-60
+==================================================================================
+PAGE 62
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-20 Susceptibility map of mass removal processes for the area of influence
+Source: GAC
+2-61
+==================================================================================
+PAGE 63
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.3.10 c.8) Describe relevant economic activities
+In relation to the economic activities of the commune of Penco, based on the information available
+in bibliographical background or available in l
+line, coming from municipalities and governments
+respective regions, territorial planning instruments and development strategies; censuses
+productive areas, cadastres, among others, it is confirmed that there is a preferably forestry orientation,
+where more than 60% of the surface of the Agricultural Productive Units (UPA; 4,024 ha) are allocated
+to this industry (2,552 ha, Agricultural Census 2020-2021).
+The rest of the communal surface corresponds to residential areas and urban extension areas, among
+others.
+The project is located on a forest property with a total surface area of approximately 549 hectares, inserted in
+a matrix of forest plantations managed by Forestal ARAUCO, adjacent to the Sanitary Landfill -
+Concepción Waste Management Center (CEMARC). There is no presence of nearby mining operations or
+another industry in addition to those already mentioned previously.
+For more details, consult Chapter 03 Baseline of this EIA, section D, Human Environment –
+Uses of the Territory.
+2.4 d) Description of the measures, actions and works aimed at avoiding, preventing
+or eliminate the potential impacts that arise from the development of the
+Mining Extractive Industry, whether mining or hydrocarbon projects, in
+the places where this is carried out, in order to ensure Physical Stability
+and Chemistry thereof, in order to provide due protection to life
+and health of people and environment
+The actions and measures associated with the closure of remaining works and non-remaining works have been oriented
+to guarantee the conditions of physical and chemical stability of the work.
+During this phase, it is considered to dismantle, dismantle and remove from the site all the equipment that
+They will be found inside the processing plant.
+This equipment will be dismantled after de-energization, trying to preserve the different parts and
+elements that allow them to be reused, recycled or destined for sale, or made available to them
+final at an authorized site, as appropriate.
+2-62
+==================================================================================
+PAGE 64
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Process equipment in which reagents or chemicals are used will be emptied in the event of
+correspond, and they will be washed before proceeding with the dismantling, disposing of the waste
+according to its danger, for its subsequent removal by authorized companies heading to a site of
+final disposition authorized.
+The ponds and storage containers for dangerous inputs will be completely emptied and
+any remainder will be used, sold or returned to the supplier. The ponds and containers removed
+They will be classified for resale, reuse or final disposal.
+Plant equipment and facilities, in particular, those that have operated with acid solutions,
+Before dismantling they will be subjected to a cleaning and washing process with industrial water,
+to neutralize acidity. Once clean and without remaining acidity, the equipment, its accessories, pipes,
+bombs, steel structures, etc., as appropriate, will be dismantled, dismantled and removed
+for resale or taken to final disposal in a place authorized for this purpose. The water used for
+neutralization wash will be returned to the process, that is, this wash will be carried out at the end of the
+operation, prior to dismantling the equipment.
+The metal structures that make up the facilities will be dismantled and destined for recycling and/or
+final disposal at authorized site.
+Concrete structures will be demolished to ground level, the debris generated will be
+destined for authorized final disposal sites. The remainder of the foundations will be covered with
+a layer of material between 30 and 50 cm, to later be revegetated with native species.
+Completed the operation of the electrical connection corresponding to the electrical line that feeds the Plant
+processing, it will be de-energized and will remain in place.
+Informative and preventive signage will be installed in the extraction areas and the disposal area.
+warning about the risks of falling to different levels. All signage will be installed in accordance with the
+specifications established by the corresponding standard
+(NCh 1411). Recessed signs will be used
+of concrete or other durable material, located in visible places. In this way, the areas and accesses
+They will have clear, visible signage and durable material to warn third parties about the dangers of
+entry to the delimited areas, with instructions to stay away, and with information about
+communications for information and/or accidents.
+Solid waste comparable to non-hazardous household and industrial waste generated from the
+dismantled equipment will be taken to an authorized final disposal site through
+authorized companies. Along with the dismantling of equipment, a general cleaning of the
+sector. Priority will be given to the sale of parts and materials to be removed, for reuse by third parties.
+However, any material or part that does not represent value to the company will be treated as
+2-63
+==================================================================================
+PAGE 65
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+waste, being taken to an authorized final disposal site according to its category. The activities to
+carried out will be carried out in accordance with the legal provisions in force on the closing date of the
+Project, especially those referring to the protection of workers and the environment.
+2.4.1 d.1) Closure measures
+As noted above, the design of closure measures is aimed at guaranteeing the
+physical and chemical stability of the work.
+Below are the specific measures for each sector or area involved.
+• Processing Plant
+For the closure and abandonment, the paralysis and de-energization of the Plant is contemplated to proceed with the
+removal of waste and desorbent agents, precipitants, coagulants, flocculants, water, and elements
+of the facilities, in order to ensure their chemical stability.
+The remaining concrete foundations will be covered with material to later be
+revegetated with herbaceous species. Soils not occupied by facilities will be compacted.
+• Extraction Zones (Victoria Norte, Maite)
+The closure of the ZE considers as the main activity the preparation of the sectors in order to be covered
+with the layer of vegetal soil (extracted from these same areas), an activity that will be carried out in areas where
+possible depending on the conditions (slope, slope width, depth), to later be
+revegetated with native species.
+The following figure shows the original condition of the Victoria North ZE where the
+forestry activities that are carried out to date, in addition to the condition in operation and the condition
+in closing with the final revegetation.
+2-64
+==================================================================================
+PAGE 66
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-21: Closure scheme through revegetation of the Victoria North Extraction Zone
+Source: Own elaboration
+The actions associated with providing physical stability to the slopes of the extraction areas correspond
+to activities that will be developed during the operation of the Project, such as slope design,
+structure of the banks or terraces, in accordance with the geotechnical characteristics defined for the areas of the
+Project. Therefore, since the design of the slopes will be carried out during the operation phase
+Considering a long-term stable condition, it is considered to maintain the slopes in the same
+conditions resulting from the operation. Without prejudice to what is indicated, regarding the physical stability of
+the slopes associated with the extraction areas, at the time of closure a review of these will be generated
+to verify the status so as to ensure its stability.
+To characterize the mechanics of the extraction areas, pits were made in each of them to
+inspection, STP drilling, geophysical tests (wave speed), pressuremeter tests and analysis
+triaxial
+The stability analyzes for the slopes were carried out for the static and seismic conditions in
+drained and undrained conditions
+used the GGU – Stability program.
+For the pseudo-static analysis, the use of a seismic coefficient equal to 0.50 amax is considered.
+consistent with international practice and what is recommended by the Highway Manual. The accelerations
+Horizontal maximums are taken from the specific seismic risk study for the project and vary between
+0.33 and 0.47. Furthermore, a maximum vertical acceleration equal to half has been conservatively used.
+of the horizontal.
+The safety factors that are accepted in geotechnical engineering practice are:
+2-65
+==================================================================================
+PAGE 67
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- Static Analysis FS ≥ 1.5
+- Seismic Analysis FS ≥ 1.1
+The determined resistance parameters validate global inclinations of the cut slopes between
+23 and 37° depending on area and global heights. To carry out the pit, different configurations can be adopted
+of berms and benches, which allow the operation and traffic of trucks to be satisfied, are recommended for
+Benches use a height no greater than 6.0 meters according to the indicated configurations.
+• Disposition Zone (Neptune)
+For its part, in the disposal area, the material will be arranged in layers on the surface of the land.
+forming slopes or slopes of constant inclination, the slopes will have a ratio H/V = 3/1
+and (soil will be placed on the surface and will be covered with creeping vegetation, or failing that,
+protected by consolidation with binding substances such as polymers to make them stable
+to erosion.
+To determine the studies, tests were carried out at the laboratory and field level, in order to describe
+geotechnical characteristics and define its geometry.
+In the project area, embankments were set up where controls and/or tests were carried out, such as:
+Modified Proctor, granulometry, Atterberg limits and humidity control in the laboratory. The
+Tests are carried out prior to compaction of the material, while after compaction
+“In situ density” controls were carried out on this.
+In addition, the corresponding stability analysis was carried out where the
+Reference the Safety Factors recommended by the “Federal Highway Administration” (FHWA) for
+the Static, Temporal and Seismic scenarios, with values ≥ 1.5; 1.25 – 1.35; and ≥ 1.10, respectively.
+The results based on the resistance parameters indicate that the maximum inclination angles for
+The Neptune Disposal Zone corresponds to 18° for sterile material and for washed clays.
+Finally, the safety factors required for the Disposition Zone obtained from the Model
+using “Stability” software, exceed the values recommended by the (FHWA) as shown in the
+Table 2-21.
+2-66
+==================================================================================
+PAGE 68
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-21. Safety Factors for static and pseudo-static analysis.
+Type of material in Zone
+Scenario Situation Condition FS Required FS Model
+Layout
+Sterile Static Temporary Not Drained 1.25 1.56
+(w = 17%) Permanent Drained 1.50 2.32
+Not Drained 2.19
+Seismic Permanent Drained 1.10 1.33
+Not Drained 1.18
+Temporary Static Processing Not Drained 1.25 1.65
+(w=20%) Permanent Drained 1.50 2.27
+Not Drained 1.97
+Seismic Permanent Drained 1.10 1.31
+Not Drained 1.10
+Source: Own elaboration.
+According to the above, the Disposition Zone considers a stable design with respect to its static conditions.
+and pseudo-static. To identify further information, see Annex 10-3 PASM 136, of this EIA.
+Regarding the Revegetation Plan, after the final profiling of the disposal area, the
+Incorporation of a mixture of surface escarpment and plant material, sowing with herbaceous seeds,
+planting of shrubs and tree species.
+A quarterly monitoring frequency is estimated during the first two years and semiannually from
+third year. Achieving a cover with vegetation will ensure the stability of
+revegetation and
+erosion control.
+The actions associated with providing physical stability to the slopes of the disposal area correspond
+to activities that will be developed during the operation stage of the Project. The fillings are
+compacted in layers using equipment that guarantees its physical stability. Therefore,
+because the design of the slopes will be carried out during the operation phase considering a
+long-term stable condition, it is considered to maintain the final slopes that result from the operation.
+• Paths
+During the closure phase, roads must be maintained in optimal conditions for use. At
+In this regard, those roads that will be left passable during the execution of the work will be evaluated.
+activities associated with this phase, and the roads that will not be used in the closure phase will be
+properly closed or locked.
+The closure of the roads that require it will be carried out through the use of parapets or berms, so
+to prevent the entry of vehicles and people into the area.
+2-67
+==================================================================================
+PAGE 69
+==================================================================================
+Annex 10-4
+PASM 137
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The works that will remain in place as remaining works after the closure of the site are indicated in
+Table 2-22.
+Table 2-22. Remaining works of the Project.
+Project Area Works Measurements
+ZE Moon
+ZE Victoria zones Those sectors of the extraction zones that will not be covered by the zone of
+Extraction (ZE) North disposition will be afforested on the banks and revegetated on the slopes.
+ZE Maite
+Layout Zone
+ZD Neptuno Profiled, covered with vegetal soil and revegetated.
+(ZD)
+Closed or maintained roads for the care and maintenance of revegetation
+General
+execute access.
+Source: Own elaboration.
+2.4.2 d.1) Post closure measures
+After closure, it is considered a monitoring program that aims to visually detect
+any anomaly or deterioration of slopes in the disposal area and extraction areas.
+The program includes monthly supervision in the first year, during the second year a
+quarterly supervision and during the third year a semiannual supervision. Additionally, in case of the
+occurrence of a major seismic or climate event that occurs during the first 3 years of closure
+of the Project, an immediate inspection will be carried out after the event.
+As in the operation phase, monitoring of the quality of the restored water is considered.
+below the Disposal Zone, in the chamber located at the foot of the tank, from where the
+water sample for further analysis. During this phase, monitoring will be carried out for a period of
+two (2) years (post closure), and will be carried out semiannually.
+A semiannual report will be delivered, indicating the results obtained and sampling carried out in the
+corresponding period. The environmental services to which a copy of the
+activities and results are the following: the Superintendency of the Environment (SMA) and the Directorate
+General of Waters (DGA).
+2.5 Indicator that certifies compliance
+As an indicator of compliance for this permit, the following are considered:
+• Obtaining a favorable Environmental Qualification Resolution for the project;
+• Resolution approving the closure plan granted by the corresponding sector organization.
+2-68

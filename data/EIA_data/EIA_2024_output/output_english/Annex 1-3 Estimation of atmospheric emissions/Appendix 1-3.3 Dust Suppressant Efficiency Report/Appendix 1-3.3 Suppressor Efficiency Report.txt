@@ -1,0 +1,350 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 1-3.3
+Suppressor Efficiency Report
+EIA “Mining Development Project of
+Clay Extraction for Production
+of Rare Earth Concentrates”
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Report Number
+1573881
+Original
+Advice for measurement of
+efficiency on treated road
+with Polymeric Additive
+for Aclara Resources
+Santiago, January 21, 2021
+==================================================================================
+PAGE 3
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Project Title Body of the report
+Advice for measuring efficiency on treated roads with 12 sheets (includes cover)
+Polymeric additive
+Authors: Client Data
+Project Manager: Álvaro González, MSc, PhD Company Name: Ree Uno SPA
+Project engineering: Jonathan Valderrama RUT: 76.181.614-4
+Dictuc S.A. Address: Cerro El Plomo 5630, Floor 9,
+The Counts
+Vicuña Mackenna Nº 4860, Macul – Santiago
+Report Date Contractual Information
+January 21, 2022 Quote No.: 21278
+Technical counterpart
+Name: Viviana Flores
+Position: Environmental Engineer
+E-mail: viviana.flores@aclara-re.com
+Summary
+Claria Resources seeks to keep the level of dust produced by circulating vehicles under control
+for its unpaved roads, and hired Dictuc S.A. with the aim of obtaining expert advice
+to perform measurements and determine the efficiency of a polymer additive as a dust suppressant in
+an unpaved road. Dictuc made three visits to the Project to measure the baseline and
+mmeeddiicciioonneess ude follow up. The results of the study allow us to conclude that the section presented a
+effiicciieenncciiaa rdeea l9iz1a%d, 84%, and 78% at 0.25, 3, and 10 days after its application. Measurements
+rreeaalliizzated in this study represent the condition of the road for the conditions at the time of the
+measurement.
+Mr. Álvaro Gonzalez Mr. Felipe Bahamondes
+Project Director General Manager
+Dictuc S.A. Dictuc S.A.
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 2 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 4
+==================================================================================
+Report No. 1573881
+ORIGINAL
+GENERAL RULES
+ This report presents the final results of the Consulting study for measurement of
+efficiency on road treated with Polymeric Additive developed during the period of
+December 2021 and January 2022.
+ This report was prepared by Dictuc at the request of the Principal to measure the
+efficiency of a dust suppression treatment, under your exclusive responsibility.
+ The scope of this study is explicitly defined in Sections 1 and 2 of the
+present report, and in the work proposal. The conclusions of this report are limited
+to the information available for its execution.
+ The information contained in this report may not be reproduced in full or
+partially, for advertising purposes, without the prior written authorization of Dictuc
+through a Brand Use Agreement.
+ The Principal may state and leave verbal and written evidence, in front of third parties, whether
+these judicial or extrajudicial authorities, that the work was prepared by Dictuc, and if
+decides to deliver knowledge of this Dictuc report to any third party, it must
+do so in its entirety and in its entirety, and not in parts thereof.
+ This report is the property of the Principal, however, if Dictuc receives the request for
+A judicial instance will deliver a copy of this document to the court that
+requires, prior written communication to the Principal.
+ This report is the result of the methodologies developed by Dictuc, the scope
+of the commissioned report and the background information that the Principal made available to
+Dict. The Principal expressly accepts that the results of this information
+they can
+In short, not being favorable to their particular interests.
+ The Principal declares that he knows and accepts the general terms and conditions for the
+provision of services, available to the public on its official website
+www.dictuc.cl/tyc.
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 3 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 5
+==================================================================================
+Report No. 1573881
+ORIGINAL
+CONTENT
+1. Introduction ................................................................................................................................... 5
+2. Objectives ................................................................................................................................... 5
+3. Methodology ................................................................................................................................ 5
+3.1 Measurement of Particulate Material ........................................................................................... 5
+3.2 Determination of Efficiency ................................................................................................... 5
+4. Description of the area and road under study ................................................................................ 6
+5. Analysis of Results ................................................................................................................ 7
+6. Conclusions and Recommendations ........................................................................................... 11
+7. Annexes ....................................................................................................................................... 12
+7.1 Annex 1: Dustmate Equipment Calibration Certificate ....................................................... 12
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 4 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 6
+==================================================================================
+Report No. 1573881
+ORIGINAL
+1. Introduction
+Claria Resources has requested Dictuc's Road Engineering Unit for management advice
+of its unpaved roads from its Clay Extraction Mining Development Project
+for production of Rare Earth Concentrate, hereinafter "the Project", located in the
+communes of Penco and Concepción. This in order to define actions aimed at reducing the
+natural emission of particulate matter emitted by vehicle traffic on the roads of the
+project, in order to meet the objectives set out in its environmental planning.
+This report presents the results obtained from the study of the evolution of
+the efficiency of the dust suppression treatment with the DMS-DS100 product, applied in one of
+the interior roads of the project. The treatment began on December 27, 2021,
+and its efficiency was followed until January 6, 2022. The efficiency study aims
+make recommendations for the operation phase of the project regarding the periodicity in the
+application of dust suppression treatments.
+2. Objectives
+The objectives of this advice can be summarized as:
+ Determine the time between applications of the dust suppressant product, so as to
+maintain efficiency in accordance with the environmental objectives of the project.
+ Provide recommendations so that the environmental and operational performance of the
+maintenance actions associated with the application of dust suppressors are maintained
+in the optimum of the selected technology.
+3. Methodology
+3.1 Measurement of Particulate Matter
+The methodology for measuring particulate matter has been developed by Dictuc S.A and applied
+widely to unpaved roads. The methodology consists of equipping a light vehicle
+mining truck type with dust sensors, to then measure the amount of particles it generates
+the passage of the same vehicle on the road under study. This allows us to relatively quantify
+and objectively determines the amount of particles emitted into the air. The measurement results are expressed in
+quantity of particles per cubic centimeter (Pcc), and allows determining
+r the performance of
+products used to reduce dust emissions on unpaved roads. Furthermore
+After measuring particulate matter, an audiovisual record of the road is made and the
+the position of the vehicle through GPS system.
+3.2 Determination of Efficiency
+Efficiency is defined as the percentage reduction of particulate matter achieved by a
+dust suppression treatment. All efficiency requires knowing a baseline or amount of
+particles initially emitted by a path, before applying a dust suppressant. Once you
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 5 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 7
+==================================================================================
+Report No. 1573881
+ORIGINAL
+the dust suppressant is applied and subsequent measurements are made, the efficiency is calculated as
+100% minus the ratio between the subsequent measurement and the baseline, expressed as a percentage.
+The baseline measurement was carried out on a 'reference section' of the selected road without
+treat, and was compared with the treated section at each visit, allowing the comparison to be maintained
+with the baseline in the same time horizon. This strengthens the comparison, since it cancels the
+influence of climate such as ambient and surface humidity, which is an important factor to
+take into account given the geographical location of the project.
+Three measurements were made along the way: 6 hours after application, 3 days after
+application, and 10 days after application.
+4. Description of the area and road under study
+The unpaved road under study (Figure 4-1) is located in an area with crops
+forestry. It begins in the south on the road that connects Route 150 Road to Penco with the
+Cemarc Sanitary Landfill, and ends to the north at one end of the El Retamo Overpass,
+on Route 152 Itata Highway. Visual appreciation of the road during the field visit
+indicates that the surface has a satisfactory surface regularity condition, and can be
+maintain safe and comfortable driving, in the majority of its section, for a road not
+paved under the conditions observed during the field visit days.
+Figure 4-1 General location of test section (Source: Google Earth with Information from Clara
+Resource and Dictuc)
+The climate in the area is markedly seasonal, with cold winters (temperatures between
+13°C and 6°C in the coldest month), with abundant rain (maximum monthly average of 181 mm of
+water fall), in contrast to summer, which is temperate (temperatures between
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 6 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 8
+==================================================================================
+Report No. 1573881
+ORIGINAL
+13°C and 6°C in the warmest month) with little rain in the driest month (12 mm average rainfall
+for the month of January).
+Considering the above, the end of December 2021 was chosen for the application of the
+dust suppression treatment, in order to evaluate its effect in the most unfavorable condition
+possible.
+The company aims for treatment efficiency to be greater than or equal to 80%.
+5. Analysis of Results
+The suppressor used is called DMS-DS100, provided by the company ABC DUST, and is of type
+polymeric. According to what was reported by ABC DUST, for its preparation it is mixed with clean water.
+in an additive proportion to water of 1:10, with a dose of 4 lt/m2 of solution, in a section of
+400 meters.
+The dust suppressant product was applied to a section in the middle of the length of the road, for
+which the reference section is composed of two subsections at the ends of the road, as shown
+detailed in Table 5-1 and Figure 5-1.
+Table 5-1 Location of the start and end points of the subsections of the test section
+Point Latitude Longitude
+Home Reference 1 -36.762991° -72.983606°
+End Reference 1 -36.756826° -72.983119°
+Start Test Section -36.756826° -72.983119°
+End of Test Section -36.756115° -72.979374°
+Home Reference 2 -36.756115° -72.979374°
+End Reference 2 -36.753855° -7
+2.980711°
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 7 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 9
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Figure 5-1 Measured road subsections, according to treated or untreated condition (Source: Google
+Earth with Information from Aclara Resource and Dictuc)
+The application of the dust suppression treatment (Figure 5-2) was carried out on December 27, and
+The first measurement was carried out six hours after application (0.25 days), once the
+road surface was dry. The following follow-up measurements were performed on the
+3 and 10 days after applying the treatment.
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 8 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 10
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Figure 5-2 Test path with freshly applied additive. (Source: Dictuc Team)
+The measurement results (Table 5-2) indicate that the initial efficiency is close to the
+90%, a value that drops to 84% after three days. These efficiency values are explained by the
+nature of the additive which, being polymeric, has its greatest action due to the adhesion between
+soil particles. The efficiency at 10 days is 78% (Figure 5-3), at which time it could be
+assume that the suspended dust corresponds to a greater extent to particles not bound by the additive
+in your application. This efficiency can be improved with successive applications that are carried out,
+allowing performance to improve over time.
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 9 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 11
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Table 5-2 Summary of measurements and their efficiency in the area on the road under study (Source:
+Own elaboration with data taken in the field).
+Average
+PM10 Average Line M10
+Date Efficiency Days from
+Measured base Treated area
+Measurement [%] application
+in PM10 section [Pcc]
+reference [Pcc]
+12-27-2021 3171 288 91% 0.25
+12-30-2021 2162 308 84% 3
+01-06-2022 2319 505 78% 10
+95%
+90%
+85%
+80%
+75%
+70%
+0 2 4 6 8 10 12
+Figure 5-3 Evolution of efficiency over time in the study area. (Source: Own elaboration
+with data taken in the field).
+From the observation of the evolution graph of efficiency over time, it can be estimated using
+a linear adjustment that to maintain an efficiency greater than 80%, irrigation of
+maintenance approximately every 8 days during the driest and hottest season in the
+project location, with the doses for this purpose recommended by the product supplier
+dust suppressant. The 8 day time is calculated using the intersection of the linear fit with the
+efficiency limit (horizontal line with 80%).
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 10 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+]%[
+aicneicifE
+Days since application
+==================================================================================
+PAGE 12
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Figure 5-4 Start of sector with application of polymer suppressor during visit on January 7, 2022
+(10 days after application). (Source: Dictuc Team)
+It is important to note that the present study was carried out on an existing road. An improvement
+in the granulometry of the rolling surface should result in better performance of the
+applied suppressant and with other suppressants, increasing the time between treatment applications
+dust suppressant.
+6. Conclusions and Recommendations
+ The results of the study allow us to conclude that the section presented an efficiency of 91%,
+84%, and 78% at 0.25, 3, and 10 days after its application, respectively.
+ It is observed that under the conditions in which the present study was carried out, with the execution
+of maintenance irrigation, approximately every 8 days a
+efficiency over 80%.
+ The time between applications may increase if changes are made to the materiality of the
+rolling folder and if several applications are made and the applied product accumulates,
+among other factors. The time between applications may also be reduced by
+factors such as increased traffic intensity and severe weather, among others. For what
+Therefore, it is recommended to monitor the efficiency of the road during its operation.
+ The durability of dust suppression treatments is relative and depends on various
+factors, such as type and volume of traffic, type of material that makes up the folder,
+and climatic conditions (temperature, relative humidity, wind, etc.). Measurements
+performed in this study represent the road condition for the conditions at
+time of measurement.
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 11 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl
+==================================================================================
+PAGE 13
+==================================================================================
+Report No. 1573881
+ORIGINAL
+Annexes
+6.1 Annex 1: Dustmate Equipment Calibration Certificate
+Advice for measuring efficiency on roads treated with polymeric additives
+Report 1573881
+Page 12 of 12
+V03 code: FI-A.01-DSA
+www.dictuc.cl

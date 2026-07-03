@@ -1,0 +1,180 @@
+==================================================================================
+PAGE 1
+==================================================================================
+680000 680500 681000 681500 682000 682500 683000 683500
+!(Mining Development Project for Clay Extraction for Production
+1
+of Rare Earth Concentrate
+!(
+13
+Location Plan Permanent Works
+!( !(
+12 14
+General Location
+Regional Location
+!(
+!(
+11
+2
+!( !(
+10 3
+!( !(
+9 4
+!( !(
+8 5
+!(
+!(
+6
+7
+!(
+3!(LEGEND
+!( !( 4
+2
+11
+!( !(
+!( 1 5
+!(!( !(
+10
+1 2
+!(
+3
+!(
+9 !(
+!( !( 4
+1 8
+!
+!
+!( ! !(
+2! !(! ! 5
+!
+! 7
+! !(
+!(
+!! 6
+9
+!( !(
+!(
+8 3
+4
+!(
+!( !(
+2
+3 5
+!(
+!(6
+!(
+1
+4
+!(
+7
+!(
+5
+!(
+6
+!(
+20
+!(
+19
+!(
+15
+!(
+32
+!(
+!(
+21 18 !(
+16
+!(
+!(
+17
+1 !(!( !(
+31 CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+22
+!(
+29 UTM Coordinates Project Cartography
+Datum WGS 84 Spindle 18S Project Survey
+!( !(
+23 2
+!( !( SHEET SCALE:
+28 24
+1 of 1
+!( !(
+27 25 Sheet Size: A2
+!(
+26
+PREPARED BY: PREPARED FOR:
+0001395
+0050395
+0000395
+0059295
+0009295
+0058295
+0008295
+¯
+¯
+Communal Location
+North Victoria
+Area of
+Layout
+Stockpile Area
+Regional Location Permanent Works
+!(
+Biobío Vértices Region
+plant
+Other Regions! LTE Poles Processing
+Communal Location Vegetable Collection Area
+LTE
+Stockpile Area
+Area of Interest
+Pipeline Modification Area Belt
+Penco Commune
+Area of
+LTE Intervention Area
+Other Communes Vegetable Collection
+Name of North East vertices Name of North East vertices
+1 5,931,456 681,422 1 5,930,192 681,708 Processing Plant Area
+2 5,931,085 681,467 2 5,930,192 681,833
+3 5,931,006 681,429 3 5,930,128 681,923
+Extraction Area
+4 5,930,749 681,284 4 5,930,044 682,000
+5 5,930,601 681,244 5 5,929,880 681,912
+6 5,930,491 681149 Floor plan 6 5,929,784 681,883 Disposal Area
+7 5,930,475 681,062 Processing 7 5,929,841 681,690
+North Victoria
+8 5,930,594 681,030 8 5,930,011 681,690
+Internal Roads Area
+9 5,930,748 681,064 9 5,930,071 681,574
+10 5,931,006 681,056 10 5,930,211 681,474
+11 5,931,102 681,039 11 5,930,314 681,625
+12 5,931,300 681,127 12 5,930,192 681,708
+13 5,931,389 681,193 1 5,929,325 680,545
+14 5,931,300 681,498 2 5,929,443 680,552
+15 5,928,877 681,729 3 5,929,555 680,568
+ZAV
+16 5,928,718 681,678 4 5,929,537 680,749
+17 5,928,610 681,506 5 5,929,420 680,772
+Moon
+18 5,928,761 681,400 6 5,929,360 680,738
+19 5,928,939 681,467 LTE to Home Plant 5,929,768 681,548
+Maite
+20 5,928,985 681,594 processing End 5,929,977 681,723
+21 5,928,749 680,705 Pole 1 5,929,768 681,548
+22 5,928,550 680,819 Post 2 5,929,769 681,561
+23 5,928,368 680,834 Post 3 5,929,804 681,561
+24 5,928,269 680,625 Post 4 5,929,832 681,569
+25 5,928,132 680,507 Post 5 5,929,850 681,592
+26 5,928,051 680,302 Posting Post 6 5,929,859 681,633
+Maite 27 5,928,140 680,216 Post 7 5,929,870 681,688
+28 5,928,269 680,169 Pole 8 5,929,879 681,721
+Moon 29 5,928,481 680,188 Pole 9 5,929,962 681,723
+30 5,928,562 680,279 Post 10 5,929,918 681,723
+31 5,928,562 680,279 Pole 11 5,929,977 681,723 400 200 0 400 meters
+32 5,928,820 680,415 1 5,930,244 682,000
+1 5,930,011 679,828 2 5,930,331 682,002
+2 5,929,890 680,181 Stockpile 3 5,930,396 682,033
+3 5,929,426 680,378 4 5,930,357 682,074
+4 5,929,311 680,199 5 5,930,250 682,060
+Neptune 5 5,929,159 679,969 New section 1 5,928,588 679,929
+Belt Area Modification 6 5,929,099 679,807 Pipeline 2 5,928,372 680,992
+Pipeline 7 5,929,242 679,680
+8 5,929,561 679,643
+9 5,929,761 679,687

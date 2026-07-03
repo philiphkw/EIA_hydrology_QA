@@ -1,0 +1,2669 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-13.3
+Hydraulic report
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+APPENDIX 10-13.3
+HYDRAULIC WORKS DESIGN REPORT
+MINING DEVELOPMENT PROJECT
+EXTRACTION OF CLAYS FOR THE PRODUCTION OF
+RARE EARTH
+Date: June, 2024
+==================================================================================
+PAGE 3
+==================================================================================
+Appendix 10-13.3 Hydraulic Report
+Hydraulic Works Design Report
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earths
+FMR GCB AVF
+1 05-27-2024 Project Manager
+Project Engineer Senior Engineer
+Engineering
+Review Date Prepared Reviewed Approved
+Appendix 10-13.3
+Page 2 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 4
+==================================================================================
+Index
+1. General background ........................................................................................... 5
+1.1. Study Area ................................................................................................... 6
+2. Methodology ........................................................................................................... 7
+2.1. Precipitation ................................................................................................... 7
+2.2. Contributing areas ................................................................................................ 7
+23. Design flows ........................................................................................... 8
+2.4. Design of culverts, caissons and channels ........................................................... 9
+2.5. Verification of sewers and caissons ................................................................ 9
+2.6. Channel verification ................................................................................... 10
+3. Hydraulic works ................................................................................................... 10
+3.1. Crossings of streams ........................................................................................... 10
+3.1.1.1. Sewers ........................................................................................... 10
+3.1.2. Drawers ....................................................................................................... 11
+3.1.3. Layout and Sizing of Stream Crossings ........................... 11
+3.2. Evacuation works ........................................................................................... 15
+3.2.1. Contour channels ........................................................................................... 15
+3.2.2. Discharge to contour channels ................................................................ 18
+3.23. Discharges to streams ................................................................................... 19
+Appendix 10-13.3
+Page 3 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 5
+==================================================================================
+Index of figures
+Figure 1: General Location of the Project ................................................................................... 6
+Figure 3: Location of stream crossings ........................................................................................... 12
+Figure 4: Stream crossing scheme with 3-duct culvert-type crossing ............. 13
+Figure 5: Longitudinal section crossing stream with culvert .......................................
+................... 13
+Figure 6: Cross section crossing ravine with culvert ........................................................... 14
+Figure 7: Example diagram, crossing using boxes ................................................................... 14
+Figure 10: Proposed contour channel type scheme ....................................................................... 15
+Figure 11: Diagram of energy dissipating stands ....................................................................... 16
+Figure 12: Evacuation channel discharge type diagram in a contour channel ................................... 18
+Figure 13: Diagram of contour channel discharge work.................................................... 19
+Appendix 10-13.3
+Page 4 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 6
+==================================================================================
+1. General background
+This study is carried out within the framework of the project called Development Project
+Clay Extraction Miner for the Production of Rare Earth Concentrate
+the company REE UNO SpA, hereinafter The Project, which consists of the construction and
+operation of a mining site together with a material processing plant
+weathered of granitic origin with the presence of Lanthanides, widely known
+like Rare Earths. For the development of this study, the characterization is considered
+hydrology associated with the area of influence of the Project, having for this purpose
+public and bibliographic background.
+It should be noted that the project will not require the exploitation of natural water resources.
+(both underground and surface) of some course, body or reservoir adjacent to
+the project works for the execution of its industrial processes, counting said
+activities with external sources of use. In fact, the only interaction
+between the project and the superficial courses of the area of influence lies in the
+construction of a series of underground, surface or aerial crossings
+linked to the implementation of conduction pipelines and enabling of routes
+transportation.
+The hydraulic works, whose sizing is considered in this report are the
+following:
+• Contour channels in the Maite, Luna and Victoria Norte Extraction Zones,
+Neptune Disposal Zone and Temporary Plant Material Collection Zone
+(ZAV) of the Project, which will be presented within PAS 157.
+• Boxes and culverts for crossing streams on internal roads, works
+that will be presented within PAS 156.
+The sizing of the works was carried out based on the hydrology presented as
+appendix 10-13.2A of this EAI, for PAS 156 and 157. The dimensioning of the
+Other hydraulic works of the project are not part of the scope of this report.
+The objective of this appendix is to establish the design and parameters used for this
+and for the verification of the hydraulic works implemented in the project, as well as
+also serve as technical support for PAS 156 and 157.
+Appendix 10-13.3
+Page 5 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 7
+==================================================================================
+1.1. Study Area
+The area in which the hydrological study is carried out corresponds to the future location
+of the Project which is located east of the city of Penco, Biobío Region. Your
+General location with respect to the region is presented graphically in Figure 1.
+Figure 1: General Location of the Project.
+Source: Own elaboration, 2024.
+Appendix 10-13.3
+Page 6 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 8
+==================================================================================
+2. Methodology
+This section presents the methodology, as well as the main
+considerations and design criteria used for the sizing of the works
+hydraulics involved in this report.
+In g terms
+In general, the methodologies found in the Manual of
+Highways, 2022 edition, published by the MOP, in addition to design criteria and theory
+from the book Hydraulics Applied to the Design of Works by Horacio Mery and the book Hydraulics and
+Hydrology for Engineering by Antonio Campos Cedeño, Evgeny Konstantunivich
+Sinichenko and Ilya Igorevich Gritsuk 2016.
+2.1. Precipitation
+The sizing of the contour channels in the Extraction Zones is carried out
+using the data on flows and contributing areas from the study carried out
+by DAV Ingeniería y Consultoría SpA, delivered by the client (Appendix 10.13.3
+Rainwater Drainage)
+For the contour channels in the Neptune Disposal and Plant Collection areas
+(ZAV), the project layout and contour lines are used. The details of this analysis are
+found in Appendix 10-13.2A - Hydrological Report.
+2.2. Contributing areas
+Contributing basins are defined as the area that captures precipitated water and drains it.
+towards a release point. These basins can be of various sizes.
+depending on how the waters are drained. This definition is used to calculate the
+concentration time of each basin, which corresponds to the time that a particle
+travels from the hydraulically furthest point of the basin to the point of
+vent
+The Disposal and Temporary Collection Zones of Plant Material will be arranged
+with terraces and channels will be defined to channel rainfall over each bank and
+slope.
+Appendix 10-13.3
+Page 7 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 9
+==================================================================================
+23. Design flows
+To calculate runoff, the rational formula methodology is used, which is
+applicable to Chilean basins. This methodology is recommended in the Manual of
+MOP road and uses the annual maximum daily rainfall for the periods
+desired return, in addition to the concentration times associated with the basins
+contributors, in order to define a maximum intensity. Although the Highway Manual
+also recommends the use of the Verni King and DGA-AC methods, these were
+discarded since the study basins do not meet the conditions for their
+application. Finally, the runoff calculation is done using the following
+equation:
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3.6
+Where:
+• 𝐶 is the runoff coefficient associated with the return period T
+• 𝑖 is the precipitation intensity associated with the return period T, and at a
+duration equal to the concentration time of the basin or contributing area, in
+(mm/hr)
+• 𝐴 is the contributing area, in (km2).
+The details of the calculations and the methodology for determining the flows are
+can be found in Appendix 10-13.2A – Hydrological study and Annex 10-13.3 –
+Runoff calculation.
+Appendix 10-13.3
+Page 8 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 10
+==================================================================================
+2.4. Design of sewers, caissons and channels
+For the sizing of the sewers for each road crossing, the
+caissons and channels, the flood flows stipulated in Appendix 10 were used.
+13.2 – Hydrological study and Annex B.1 – Runoff calculation, and from these
+determined the runoff height. To determine the height of
+runoff, the Manning formula was used.
+Ω ∙ R2/3 ∙ 𝑆1/2
+𝑄 =
+𝑛
+Where:
+• 𝑄 corresponds to the design flow, in (m3/s).
+• Ω corresponds to the hydraulic area, in (m2).
+• R corresponds to the hydraulic radius, calculated as Ω/wetted perimeter, in (m).
+• S corresponds to the slope, in (m/m).
+2.5. Verification of sewers and caissons
+The inlet or backwater hydraulic head was calculated from the equations
+analyzes presented in Highway Manual Vol. 3 in section 3.703.303(1), which
+was by the Federal Highway Administration (FHWA) using regression models,
+polynomial equations of the fifth degree that directly give the hydraulic head
+input.
+𝐻 = [𝑎 + 𝑏𝑧𝐹 + 𝑐(𝑍𝐹)2 + 𝑑(
+𝑍𝐹)3 + 𝑒(𝑍𝐹)4 + 𝑓(𝑍𝐹)5 − 0.5𝑖] ∙ 𝐷
+𝑒
+where
+• 𝐻𝑒 is the inlet hydraulic head, in (m).
+• 𝐴. . 𝐹 are regression coefficients.
+• 𝐹 is Q/D5/2 in circular culverts, or Q/(BD)3/2 in box culverts.
+• Q is the flow rate in (m3/s).
+• B is the height of the sewer, diameter in case of pipes, in (m).
+• 𝑖 is the longitudinal slope, in (m/m).
+• 𝑍 is a conversion factor for metric units, and takes the value of
+1.81130889.
+Regression coefficients A to F take values according to the type of sewer
+(box or circular culvert), to the material (concrete, corrugated steel or pipe
+high-density polyethylene), and based on the finishes it presents when in contact with
+the flow (sharp edges, extended tubes, with or without wings, among others). All these values
+They are presented in table 3.703.303.A of volume 3 of the Highway Manual.
+Appendix 10-13.3
+Page 9 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 11
+==================================================================================
+2.6. Channel verification
+The verification flows (for a return period of 150 years) for the areas of
+Neptuno disposition and Acopio Vegetal ZAV were obtained from a
+linear interpolation between the flows for 100 and 200 years, given that they were estimated
+from the Rational Method. As the design flow rates of the contour channels
+in the extraction areas they come from the internal evacuation channels, and these were
+estimated using a methodology of exceedance probabilities, is used as
+amplification factor the ratio between the verification and design flow rates of the
+plant disposal and storage areas. This factor takes a value of 1.055 and is applied to
+the design flows of each contour channel in extraction areas to be able to
+perform the verification analogous to the flow of 150 years.
+With this flow, the hydraulic head generated in the channel is calculated and it is verified that this
+height does not exceed the proposed design in each of the extraction areas,
+plant disposition and collection. This verification is tabulated in Annex 10-13.3
+– Design of canals and culverts.
+3. Hydraulic works
+3.1. ravine crossings
+The function of the hydraulic works associated with road crossings is to preserve the
+continuity of the natural flow, coming from the runoff generated in the events of
+storm, which intercepts the planned road infrastructure. 2 types of are projected
+works, depending on the flows associated with each of the unique crossings. The
+Types of stream crossing will be materialized by:
+• Sewers
+• Drawers
+3.1.1.1. Sewers
+They correspond to the location of one or more corrugated galvanized steel pipes (or
+High Density Polyethylene (technically similar to corrugated steel) below the
+roadway. These are located at a defined depth so as not to be affected.
+due to the live loads of the trucks that will transit with the exploitation material of the
+mine. The entrance to the sewer is lined with concrete structures
+poor in order to conduct the water inside the tube(s) and serve as support
+structural. A Manning coefficient of 0.02 is considered for steel pipes
+corrugated.
+Appendix 10-13.3
+Page 10 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 12
+==================================================================================
+3.1.2. Drawers
+They correspond to reinforced concrete works with a square section, and can be
+prefabricated elements used as long as they comply with the associated dimensions
+at the defined carrying rate. These works will be installed below the
+roadway, at a defined depth so as not to be affected by the live loads of the
+trucks that will transport the mine exploitation material. The entrance to the drawer
+It is covered with a reinforced concrete structure, as well as walls
+wing at both ends, in order to improve the conduction of water towards the box,
+reduce erosion on the sides of the channel and reduce d energy
+and water entry
+to the work. A value of 0.015 is considered for the Manning coefficient of the drawer.
+concrete.
+3.1.3. Layout and Sizing of Crossings
+ravines
+The internal roads of the Project, both the new ones that will be enabled, as well as the
+existing ones that will be conditioned for the requirements of the Project, will cross
+ravines at the points shown in Figure 3.
+Appendix 10-13.3
+Page 11 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 13
+==================================================================================
+Figure 2: Location of stream crossings.
+Source: Own elaboration, 2024.
+The culverts of the corrugated galvanized steel stream crossings or in their
+defect of High Density Polyethylene (HDPE), they will have a diameter that will vary between
+0.6 m and 1.2 meters, depending on the return period flow 100 years that must be
+carry For construction facilities, commercial diameters have been considered
+starting at 0.6 m increasing 0.1 m until reaching 1.2 m.
+In Figure 3, Figure 4 and Figure 5, the sewer work diagram is presented and
+drawers, it should be noted that a case is presented with 3 ducts, there are cases of 1 and 2
+ducts.
+Appendix 10-13.3
+Page 12 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 14
+==================================================================================
+Figure 3: Stream crossing diagram with 3-duct culvert-type crossing.
+Source: Highway Manual, Vol 4.
+Figure 4: Longitudinal section crossing stream with culvert.
+Source: Highway Manual, Vol 4.
+Appendix 10-13.3
+Page 13 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 15
+==================================================================================
+Figure 5: Cross section of ravine crossing with culvert.
+Source: Highway Manual, Vol 4.
+The caissons of the square-section reinforced concrete stream crossings will be
+used in cases where there are high runoff values, where in case
+If sewer-type works of art were used, more than 3 ducts would be necessary. They will have
+a width and height of 2 or 3 meters, depending on the return period flow 100
+years that they must carry. Below is the diagram of the crossings using
+drawers.
+Figure 6: Example diagram, crossing through boxes.
+Source: Highway Manual, Vol 4.
+Appendix 10-13.3
+Page 14 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 16
+==================================================================================
+3.2. Evacuation works
+In both the Extraction and Disposal Zones of the Project, it is considered to implement
+the following works for the evacuation of rainwater:
+• Contour channels.
+• Discharge of contour channels.
+• Broken downloads.
+The mentioned works are described below.
+3.2.1. Contour channels
+Contour channels are those located on the edges of the Zones
+of Plant Extraction, Disposal and Collection. These have contributions from the
+runoff from the surrounding hills and streams, in addition to contributions from the canals
+evacuators (in the case of Extraction areas).
+The contour channels will be trapezoidal with a variable base and height and slopes of
+ratio 1:1 (45°), covered with lean concrete (or technically similar solution) and
+stones of irregular shape, in order to reduce the energy of the flow. In Figure 7,
+A typical scheme of the contour channels is presented.
+Figure 7: Proposed contour channel type scheme.
+Source: Own elaboration, 2024.
+Appendix 10-13.3
+Page 15 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+====
+==============================================================================
+PAGE 17
+==================================================================================
+Because the slopes of these channels are determined primarily by the
+topography, speeds greater than 5 m/s can be developed in them. To avoid the
+erosion, the following four measures are contemplated:
+• They will be covered with concrete, stones arranged irregularly and system
+stable construction (with acma mesh or technically similar solution. The
+coated can also be changed by technically
+similar, according to what is defined in subsequent phases of detailed engineering).
+• In the sections with high slopes, steps will be implemented, also of
+concrete with acma-type mesh and stones arranged irregularly (or solution
+technically similar).
+• The curves of the channels will be smoothed having as a parameter that the radius of
+Minimum curvature for a channel carrying 0.5 m3/s will be 5 m and a channel carrying
+carries 1 m3/s of 10 m.
+• The contour canals will evacuate their waters as soon as the topography permits.
+possible, in order to minimize the flow they carry. This is done to
+prevent them from transporting large flows. It is considered the natural form of the network
+drainage, in order to produce the least possible impact.
+As argued above, energy is dissipated through steps and falls that
+They will slow the flow, decreasing its speed and energy. Figure 8 shows a schematic
+conceptual of the latter.
+Figure 8: Diagram of energy dissipating stands.
+Source: Own elaboration, 2024.
+Appendix 10-13.3
+Page 16 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 18
+==================================================================================
+The main design criteria for contour channels are presented below.
+continued:
+✓ Return period of 100 years for the sizing of the works and 150
+years for verification.
+✓ Manning coefficient equal to 0.02, corresponding to ground channels free of
+vegetation.
+✓ Erosive speed of 0.9 m/s that will determine the need to cover or not the
+channel.
+✓ Trapezoidal channels, designed for sections of rugged topography,
+which ensure its stability and simplify its construction. In case the
+topography permits, rectangular channels will materialize, lined with
+same way.
+✓ Land slopes are considered, which are greater than 1% (i=0.01).
+✓ The existing minimum design offset will be 0.2 m and maximum 0.5 m.
+Appendix 10-13.3
+Page 17 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 19
+==================================================================================
+3.2.2. Discharge to contour channels
+The contour channels will only receive the contributions from the evacuation channels.
+The discharge of an evacuation channel into a contour channel will be materialized based on
+a radier and concrete walls with acma mesh (or technically similar solution) and
+stones arranged irregularly, according to the standard scheme presented in
+Figure 9.
+Figure 9: Evacuation channel discharge type diagram in a contour channel.
+Source: Own elaboration, 2024.
+Appendix 10-13.3
+Page 18 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 20
+==================================================================================
+3.2.3. Discharges to streams
+The contour canals will discharge the waters to surrounding streams through
+corrugated galvanized steel gutters (or technically competent solution), of
+according to the typical scheme presented in Figure 10.
+Figure 10: Diagram of contour channel discharge work.
+Source: Own elaboration, 2024.
+Appendix 10-13.3
+Page 19 of 19
+Hydraulic Works Design Report
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+===========================
+========================================================
+PAGE 21
+==================================================================================
+APPENDIX B
+HYDRAULIC REPORT
+OIL PIPELINE CROSSING EXTRACTION AREA
+MAITE
+Date: April, 2024
+Page 1 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 22
+==================================================================================
+Appendix B
+Hydraulic Report
+Pipeline Crossing Maite Extraction Zone
+FMR DOR GCB
+1 05/27/2024 Project Manager Coordinator
+Project Engineer
+Engineering Projects
+Review Date Prepared Reviewed Approved
+Page 2 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 23
+==================================================================================
+Index
+1. General background................................................................................................ 5
+1.1. Study Area ...................................................................................................6
+1.2. Hydrography ...........................................................................................................7
+1.3. Contributing Basins ...........................................................................................8
+1.4. Hydrology of the Study Area ...................................................................................9
+2. Hydraulic modeling ....................................................................................... 9
+2.1. Input parameters ........................................................................................... 10
+2.1.1. Flows ................................................................................................... 10
+2.1.2. Topography ................................................................................................... 13
+2.1.3. Definition of 2D grid ................................................................................ 15
+2.1.4. Manning coefficient ........................................................................... 19
+2.1.5. Boundary Conditions ................................................................................... 21
+2.2. Results ........................................................................................................... 25
+2.2.1. Flood surface ........................................................................... 25
+2.2.2. Undermining ................................................................................................ 30
+3. Conclusions ................................................................................................... 33
+Page 3 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 24
+==================================================================================
+Table Index
+Table 1: Description of the analysis points. ................................................................................... 8
+Table 2. Summary of flow rates used in the study ................................................................... 10
+Table 3: TC4 ZE Maite Canal design summary. ............................................................................ 10
+Table 4. Hydrograph parameters for each basin. ................................................................... 12
+Table 5. Meshing for each study basin ........................................................................... 15
+Table 6. Manning coefficient, different land uses ........................................................... 19
+Table 7: Modeled points of interest. ....................................................................................... 25
+Table 8. Parameters used according to soil type. ................................................... 31
+Table 9. General scour summary by profile and by basin. ................................................ 32
+Index of figures
+Figure 1: General Location of the Pr
+project, UTM WGS 84/ H18S. ................................................... 6
+Figure 2: Hydrographic network from DEM, UTM WGS 84/H18S. ................................................... 7
+Figure 3: Points of interest and basins, UTM WGS 84/ H18S. ....................................................... 8
+Figure 4. Types of rational unit hydrographs. ................................................................... 11
+Figure 5. Basin hydrographs, 100-year return period. ................................................... 12
+Figure 6. Area considered topographic survey, UTM DATUM WGS84/H18S ................... 13
+Figure 7. DEM used ................................................................................................................ 14
+Figure 8. Basin 1 meshing ........................................................................................................... 16
+Figure 9. Basin 2 grid, situation without project ....................................................................... 17
+Figure 10. Basin 2 grid, situation with project ........................................................................... 18
+Figure 11. Land use study area, UTM DATUM WGS84/H18S. .................................... 20
+Figure 12. Basin 1 boundary conditions ........................................................................................... 22
+Figure 13. Basin 2 boundary conditions (No Project Situation). ............................................ 23
+Figure 14. Basin 2 boundary conditions (Situation with Project). ............................................ 24
+Figure 15. Flood surface, point of interest 1 UTM DATUM WGS84/H18S ................ 26
+Figure 16. Flood surface, point of interest 2 (Situation without project), UTM DATUM
+WGS84/H18S ........................................................................................................................... 27
+Figure 17. Flood surface, point of interest 2 (Situation with project), UTM DATUM
+WGS84/H18S ................................................................................................................................ 28
+Figure 18. Pits made in the Maite extraction area. ................................................... 30
+Figure 19. Arrangement of cross-sectional profiles by basin. ....................................................... 32
+Page 4 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 25
+==================================================================================
+1.1. General background
+The Mining Development Project for Clay Extraction for the Production of Concentrate
+Rare Earths, administratively located in the Commune of Penco and Concepción, Province of
+Concepción, Biobío Region, consists of the construction and operation of a mining site together
+with a processing plant for weathered granitic material, with the presence of clays.
+Regolith, hereinafter called “Clays to be processed”, is formed as a result of a high
+weathering of rocks and contains lanthanides adsorbed on clay minerals. The
+Lanthanides, or Rare Earths, are 15 elements whose atomic number increases from Lanthanum
+(57) to lutetium (71). Due to their similar chemical behavior, yttrium (Y) is added to them. From now on
+They will be called “rare earths”.
+The plant has a capacity to process up to 320 tons/hour of material and produce
+approximately 3,100 tons per year of Rare Earth concentrate.
+In addition to the above, the Project considers three (3) clay extraction zones, where in the
+south side of one of them (ZE Maite) the modification of an underground oil pipeline is planned
+from ENAP. The main objective of the development of this study is to evaluate the general undermining
+in these 2 new crossing points of natural channels with the pipeline through
+2-dimensional hydraulic modeling with the HEC-RAS software, in order to determine if the
+buried pipe is affected by runoff (See Appendix 10.13.2B – Study
+Hydrological). 2 scenarios will be evaluated, situation without project (unaltered stream) and with
+project (ravine being intervened as an Extraction area).
+Page 5 of 34
+Appendix 10-13.3
+Hydra Report
+ulico Pipeline
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 26
+==================================================================================
+1.1. Study Area
+The area in which this hydrological study is carried out corresponds to the future location of the
+Maite extraction zone, located on the south side of the general Project site, which
+It is located east of the city of Penco, Biobío Region. Its general location with respect to the
+region is presented graphically in Figure 1.
+Figure 1: General Location of the Project, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024.
+Page 6 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 27
+==================================================================================
+1.2. Hydrography
+The study area is located adjacent to Estero Penco, which borders one of the areas of
+Project Extraction. The IGM 1:50,000 F-106 Hualqui charts are used as a reference to
+know the permanent channels surrounding the route of the modification of the pipeline in the area
+Maite extraction.
+The hydrographic network of the study area was obtained from a digital elevation model
+(DEM) along with data processing using algorithms in QGIS software. The DEM
+was generated from the project topography, which has contour lines with 1 meter
+precision.
+In Figure 2 you can see the hydrographic network obtained from the DEM and it can be seen
+that this is consistent with the IGM channels, maintaining the location of the channels in the
+vicinity of the project area.
+Figure 2: Hydrographic network from DEM, UTM WGS 84/H18S.
+Source: Own elaboration, 2024.
+Page 7 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 28
+==================================================================================
+1.3. Contributing Basins
+From the previously mentioned IGM channels, 2 points of interest were found, the
+which correspond entirely to crossings of the project infrastructure, in this case the
+by pass of the Oil Pipeline, with natural channels. The basins associated with these points of interest are
+obtained from the digital elevation model DEM, and the hydrographic network generated from
+of this, mentioned above. The description of the mentioned points is presented in
+Table 1, and the location of these next to their respective basins is shown graphically in the
+Figure 3.
+Table 1: Description of the analysis points.
+UTM WGS 84/ H18S
+Point Description
+E N
+Cuenca 1 680004 5928378 Projected pipeline crossing with IGM channels.
+Cuenca 2 680415 5928055 Projected pipeline crossing with IGM channels.
+Source: Own elaboration, 2024.
+Figure 3: Points of interest and basins, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024.
+Page 8 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 29
+==================================================================================
+1.4. Hydrology of the Study Area
+The hydrology used in this hydraulic study is attached in the document
+“Appendix 10-13.2B – Hydrological Study”.
+1.2. Hydraulic modeling
+Given that the ravine where the Maite ZE is located will be intervened for the extraction of
+material, a system of evacuation channels is generated that discharges to contour channels, whose
+The last destination is to discharge punctually into the natural channels, 2 scenarios are generated.
+modeling, situation with and without project. The situation without a project is exactly the same for
+both points of interest, where the runoff generated by the stream runs through the
+natural channels and the conditions at each discharge point are evaluated.
+On the other hand, the situation with a project for basin 1 (Figure 3) is the same as the situation without
+project
+to, given that none of the projected contour channels discharge into the channel that
+intercepts the pipeline at said point, however, for basin 2 (Figure 3) the
+channel TC4 discharges into said channel, so the channel will be modeled added to the runoff of
+the streams associated with said basin.
+For hydraulic modeling, the two-dimensional simulation type of the HEC-RAS Software is used.
+version 6.3.1, developed by the U.S Army Corps of Engineers Hydrologic Center.
+Page 9 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 30
+==================================================================================
+1.5. Input parameters
+1.5.1. Flows
+The flows used for modeling come from the calculations made in the report
+hydrology that accompanies this report. The flows for the different return periods
+They were calculated according to the hydrology of the sector and the corresponding basins.
+For hydraulic modeling, only the flows associated with the period of
+return of 100 years. Below is a summary of the flows obtained
+through the rational formula.
+Table 2. Summary of flows used in the study.
+Flow rate (m3/s)
+Basin
+T =100
+R
+Basin 1 0.29
+Basin 2 0.74
+Source: Own elaboration, 2024.
+For the situation with the project, the discharge of the TC4 channel of the ZE Maite, a trapezoidal channel, is added.
+and coated, which has the following parameters:
+Table 3: TC4 ZE Maite Canal design summary.
+ID Q (m3/s) i [m/m] B (m) H (m) z [-] n
+TC4 1.069 0.224 1 0.6 1 0.02
+Source: Own elaboration, 2024.
+1.5.1.1. Flood hydrographs
+Hydraulic modeling is carried out in an intermittent flow regime, therefore, it must be
+adopt a hydrograph to model floods. For the estimation of the hydrographs of
+flooding of the basins, which correspond to the streams that surround the project area,
+The modified rational unit hydrograph methodology was used, which is used to calculate
+the maximum flow product of the drainage area, rainfall intensities, and coefficients of
+runoff, applicable to areas less than 10 (km2).
+This method corresponds to an extension of the rational method, in order to generate a
+hydrograph where the maximum flow corresponds to that calculated from the rational method,
+for small basins. Figure 4 illustrates the types of hydrograph that can be used according to
+this method.
+Page 10 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 31
+==================================================================================
+Figure 4. Types of rational unit hydrographs.
+Source: Hydrograph developed in Virginia, USA. Obtained from “Rational and unitary hydrograph method
+Trapezoidal unit hydrograph” Rios, Alcocer, Borguett and Dominguez.
+In this case, a type II hydrograph will be used, where the time to peak corresponds to the time of
+concentration of each basin. The peak flow of each return period is presented in the Table
+2 and the duration is obtained as the difference between the base time and 1.5 times the
+concentration, that is:
+𝑑 = 𝑡 − 1.5 ∙ 𝑡
+𝑏 𝑐
+where
+• 𝑑: Duration of the modified rational unit hydrograph (min).
+• 𝑡: Concentration time of each basin, obtained from the hydrological study (min).
+𝑐
+• 𝑡: Base time (min).
+𝑏
+To obtain the base time, the Linsley-type unit hydrograph methodology was used.
+presented by the “Manual for calculating floods and minimum flows in a basin without information
+hydrographic”.
+To calculate the parameters that characterize the synthetic unit hydrograph, the
+formulas corresponding to zone III. According to the flood manual, for zone I
+The following equations apply:
+𝐿 0.237
+𝑔
+𝑡 = 1.351 ∙ (𝐿 ∙ )
+𝑝
+√𝑠
+𝑡 = 5.428 ∙ 𝑡0.717
+𝐵 𝑝
+Page 11 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 32
+====================
+==============================================================
+Where:
+• 𝑡 is the time to peak, in (hr).
+𝑝
+• 𝑡 is the base time, in (hr).
+𝐵
+• 𝐿 is the length of the basin, in (km).
+• 𝐿 is the distance to the center of gravity of the basin, (km).
+𝑔
+• 𝑠 is the slope of the basin, in (m/m).
+In this way, the duration of the hydrographs associated with each basin is obtained.
+Table 4. Hydrograph parameters for each basin.
+Basin L (km) Lg (km) s (%) tc (min) tp (min) tb (min) d (min)
+1 0.30 0.11 26.7 10.0 24.3 170.2 155.2
+2 0.60 0.35 21.9 10.8 39.0 239.2 223.0
+Source: Own elaboration, 2024.
+Figure 5. Basin hydrographs, 100-year return period.
+Hydrograph T =100 years
+0.9
+R
+0.8
+0.7 Basin 1
+)s
+/ 0.6
+³
+m
+Basin 2
+the
+(0.5
+d
+u 0.4
+to
+c
+0.3
+0.2
+0.1
+0
+0 50 100 150 200 250 300
+Duration (min)
+Source: Own elaboration, 2024.
+It is worth mentioning that, for the situation with the project, a type I hydrograph was considered for the
+discharge from the TC4 contour channel, using the same parameters associated with basin 2 and
+whose peak corresponds to the flow carried by the channel.
+Page 12 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 33
+==================================================================================
+1.5.2. Topography
+A digital elevation model (DEM) was generated from the aero-photogrammetric survey
+of the project area, which covers a total area of 298 hectares. Within this it is considered
+the Maite extraction area, the modified pipeline route and the nearby streams that
+produce the points of interest to model. Furthermore, a length is considered such that it allows
+Consider and evaluate the conditions upstream and downstream of the intersection points of
+the channels with the projected infrastructure.
+The survey was carried out by drone flight, which obtained a DEM with a resolution
+space of 1 meter.
+Figure 6. Area considered topographic survey, UTM DATUM WGS84/H18S.
+Source: Own elaboration, 2024.
+Page 13 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 34
+==================================================================================
+Figure 7. DEM used.
+Source: Own elaboration, 2024.
+Page 14 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 35
+==================================================================================
+1.5.3. Definition of 2D grid
+The HEC-RAS software has the capacity for 2-dimensional modeling using the
+finite volume. This allows the study area to be modeled using a grid of cells of 3, 4
+and up to 8 sides.
+For the case study, a single mesh, measuring 0.5 x 0.5 m2, and an area of
+refinement for the situation with the basin 2 project.
+Table 5 presents the details of the grids selected for each basin. In Figure 8,
+Figure 9 and Figure 10 show the meshing used in the model for basins 1 and basin 2,
+respectively.
+Table 5. Meshing for each study basin.
+ID General meshing Refinement zone
+Basin 1 0.5 x 0.5 m2 -
+Basin 2 0.5 x 0.5 m2 0.1x0.1 m2
+Source: Own elaboration, 2024.
+Page 15 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 36
+==================================================================================
+Figure 8. Basin 1 meshing.
+Source: Own elaboration, 2024.
+Page 16 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 37
+==================================================================================
+Figure 9. Meshing basin 2, situation without project.
+Source: Elaboration pro
+pia, 2024.
+Page 17 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 38
+==================================================================================
+Figure 10. Basin 2 meshing, situation with project
+Source: Own elaboration, 2024.
+Page 18 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 39
+==================================================================================
+1.5.4. Manning coefficient
+To define the Manning coefficients within the study area, the
+generation of a soil cover layer, to which the
+Manning coefficients according to the present land use.
+The land cover map was obtained from the vector file of the Land Use Cadastre.
+soil and vegetation of the Chilean Geospatial Data Infrastructure or IDE. This file
+vector that includes all land uses in Chile was cut for the project area
+considered in the modeling. The land uses used and the Manning coefficients
+associated are presented in Table 6.
+Table 6. Manning coefficient, different land uses.
+ID Land use Manning coefficient
+1 Forests 0.040
+2 Grasslands and shrublands 0.045
+Source: Own elaboration, 2024.
+The values of the Manning coefficients presented in Table 6 are obtained as the
+average of the values recommended by the “Hydrologic Engineering Center” of the body of
+engineers of the United States Army, proposed in the HEC-RAS 2D user manual.
+Figure 11 shows the distribution of land uses within the modeled area obtained.
+from the IDE's 2015 land use and vegetation registry, where one land use predominates
+of agricultural land, grasslands and bushes, and forests.
+Page 19 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 40
+==================================================================================
+Figure 11. Land use study area, UTM DATUM WGS84/H18S.
+Source: Own elaboration, 2024.
+From Figure 11 it can be deduced that basin 1 has 100% forest type land use,
+Therefore, its Manning coefficient for modeling is n=0.004. On the other hand, you can
+appreciate that for basin 2 there is a mixture of forest type soil and grassland type soil and
+Shrubland, so its resulting weighted Manning coefficient is n=0.046.
+Page 20 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 41
+==================================================================================
+1.5.5. Edge Conditions
+HEC-RAS Software provides a wide range of boundary conditions to be applied to the
+model. For this case, two types of boundary conditions were considered: Flow hydrograph
+and “Normal Depth”.
+To define the inflow in the model, the boundary conditions were considered to be
+previously calculated hydrographs. These conditions will be located in the headers of the
+basins, in order to reflect the flow entering the modeling area. Furthermore, it is considered
+the energy line as the slope of the terrain, which is used to calculate a depth
+normal from the given flow rate and cross section data along
+of the boundary condition line for each calculation time step. Next, it
+calculates a flow distribution in the cross section, based on the water surface at
+normal depth and flow rate in the cross section below the condition line
+2D outline.
+To define the flow output of the model, the normal depth condition is used.
+When using this boundary condition, a friction slope must be entered
+for
+that area. The friction slope can be based on the slope of the terrain in the vicinity
+of the boundary condition line of the 2D flow area. Just like the boundary condition
+of the Hydrograph, the normal depth condition is calculated based on individual cells.
+Thus, the zones at the edge of the modeling are defined as flow outlets of the system, of
+so that water does not artificially accumulate within the flood area and can occupy
+all the space you have available, as you would in reality.
+Page 21 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 42
+==================================================================================
+Figure 12, Figure 13 and Figure 14 show the boundary conditions developed in the
+model for both basins:
+Figure 12. Basin 1 boundary conditions.
+Source: Own elaboration, 2024.
+Page 22 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 43
+==================================================================================
+Figure 13. Basin 2 boundary conditions (No Project Situation).
+Source: Own elaboration, 2024.
+Page 23 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 44
+==================================================================================
+Figure 14. Basin 2 boundary conditions (Situation with Project).
+Source: Own elaboration, 2024.
+Page 24 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 45
+==================================================================================
+1.6. Results
+The next chapter presents the main results of hydraulic modeling in the
+study area. Only the situation was modeled with a 100-year return period hydrograph.
+In relation to the points of interest presented in Table 7, these correspond to
+intersections between the IGM 1:50,000 channels and the bypass route of the Hualpén-San Oil Pipeline
+Fernando, south of the Maite extraction area.
+Table 7: Modeled points of interest.
+UTM WGS 84/ H18S
+Point Description
+E N
+Cuenca 1 680004 5928378 Projected pipeline crossing with IGM channels.
+Cuenca 2 680415 5928055 Projected pipeline crossing with IGM channels.
+Source: Own elaboration, 2024.
+1.6.1. Flood surface
+1.6.1.1. Point of interest Cuenca 1
+The first point of interest corresponds to the intersection of the channel with the oil pipeline on the side
+west of the Maite Extraction Zone. Figure 15 shows the flooding surface.
+resulting from hydraulic modeling considering a return period of 100 years and the profile
+transversal analysis located at the point of interest.
+Page 25 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 46
+==================================================================================
+Figure 15. Flood surface, point of interest 1 UTM DATUM WGS84/H18S.
+Source: Own elaboration, 2024.
+It can be noted that the flooding values reach 1.88 m, however, at the height of the
+pipeline and as the attached profile shows, the surface does not exceed 30 cm in depth.
+Page 26 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 47
+==================================================================================
+1.6.1.2. Point of interest Cuenca 2
+1.6.1.2.1. Situation without project
+The second point of interest corresponds to
+the intersection of the channel with the pipeline in the
+eastern side of the Maite Extraction Zone. Figure 16 shows the surface of
+flood resulting from hydraulic modeling considering return period of 100 years
+and the transversal analysis profile located at the point of interest, for the situation without a project, is
+That is, the stream has not yet been intervened to extract the material.
+Figure 16. Flood surface, point of interest 2 (Situation without project), UTM DATUM
+WGS84/H18S.
+Source: Own elaboration, 2024.
+Page 27 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 48
+==================================================================================
+From Figure 16 it can be noted that the flooding values reach 1.33 m, however,
+at the height of the modification of the pipeline and as the attached profile shows, the surface does not
+exceeds 40 cm deep.
+1.6.1.2.2. Situation with project
+Figure 17 shows the flooding surface resulting from hydraulic modeling.
+considering return period of 100 years and the transversal analysis profile located in the
+point of interest, for the situation with project, that is, consider the presence of the channel of
+contour that evacuates towards the channel that passes through the point of basin 2.
+Figure 17. Flood surface, point of interest 2 (Situation with project), UTM
+DATUM WGS84/H18S.
+Source: Own elaboration, 2024.
+Page 28 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 49
+==================================================================================
+From Figure 17 it can be noted that the flooding values reach 1.43 m, however,
+at the height of the modification of the pipeline and as the attached profile shows, the surface does not
+exceeds 40 cm deep.
+Page 29 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 50
+==================================================================================
+1.6.2. Undermining
+To evaluate the impact on the pipeline, a general scour study was carried out in the
+channels in the area of interest, applying the methodologies proposed in the Highway Manual
+V3, which are widely used in studies of this nature. For this we considered the
+flow associated with a return period of 100 years.
+1.6.2.1. General Undermining
+In order to evaluate the general scour accurately, the granulometry of the
+drilling MAI 2204, from the internal report, generated from the various geotechnical studies
+made by the owner, and which is found at the end of this Appendix. In the following image
+The distribution of pits with respect to the points of interest is shown:
+Figure 18. Pits made in the Maite extraction area.
+Source: Own elaboration, 2024.
+Page 30 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 51
+==================================================================================
+According to soil mechanics, the type of soil corresponding to the first 3 m of the
+Calicata MAI 2204 is of the “low compressibility silt” type, which is why it is considered a soil
+cohesive. Based on the above, Neil's method is not valid, so its use is discarded.
+use and the Lischtvan – Levediev method is used for cohesive sediments, whose
+equation is presented below:
+- Cohesive Sediments:
+1
+𝑞 𝑗 ( 𝑥+1 )
+ℎ = ( )
+𝑗
+0.6 ∙ 𝛽 ∙ 𝛹 ∙ 𝛾1.18
+𝑠
+Where:
+• ℎ Undercut depth of strip j in m.
+𝑗
+• 𝑞 Unit flow rate of strip j in m3/s.
+𝑗
+• 𝛾 Dry specific weight, in ton/m3
+𝑆
+• 𝛹 Coefficient that considers the influence of suspended sediment.
+• 𝛽 Coefficient as a function of the probability of exceeding the design flow
+.
+• 𝑥 Parameter of the critical drag formula.
+Below are the parameters considered in the implementation of the method:
+Table 8. Parameters used according to soil type.
+Parameters Value
+𝛾
+𝑆
+1.39
+𝑥 0.35
+𝛹 1.6
+𝛽 1
+Cohesive Type
+Source: Parameters obtained from the Highway Manual Vol.3.
+The calculation of general scour is carried out in each of the 2 points of interest associated with the
+basins and for a return period of 100 years. 3 transverse profiles are generated per
+basin, one at the height of the axis of the pipeline modification and 2 more profiles, upstream and
+downstream of this point. The arrangement of the cross profiles is shown below:
+Page 31 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 52
+==================================================================================
+Figure 19. Arrangement of cross-sectional profiles by basin.
+Source:
+Own elaboration, 2024.
+Table 9. General scour summary by profile and by basin.
+Transverse Profile General Undermining (m)
+Profile 1 - Basin 1 0.16
+Profile 2 - Basin 1 0.42
+Profile 3 - Basin 1 0.32
+Profile 1 - Basin 2 (SP) 0.00
+Profile 2 - Basin 2 (SP) 0.00
+Profile 3 - Basin 2 (SP) 0.00
+Profile 1 - Basin 2 (CP) 0.00
+Profile 2 - Basin 2 (CP) 0.00
+Profile 3 - Basin 2 (CP) 0.00
+Source: Own elaboration, 2024.
+Page 32 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 53
+==================================================================================
+1.3. Conclusions
+The 2 points of interest were modeled in the HEC-RAS software version 6.3.1, where in each
+From these, the general flooding and scour zone was obtained, both for the situations with and
+without project.
+The operation phase of the Maite extraction zone includes a sanitation system
+rainwater through evacuation channels, which discharge to contour channels, which
+They subsequently discharge into the natural channels present in the area. Since for the point
+of interest basin 1 there is no contour channel discharging into the riverbed, it is assumed that the
+situation with and without project is exactly the same, so only one case of
+modeling.
+In each of the modeled areas, a transverse profile was generated at the point where the
+intercepts the flood zone with the underground pipeline. For basin point 1, the
+greatest flooding depth in the mentioned profiles takes a value of 23 cm, and for the
+basin 2 of 36 cm, for the situation without project, and 38 cm for the situation with project, all
+the values associated with a return period of 100 years.
+The general scour was calculated in each of the flood zones, for basin 1, and with
+and without a project for basin 2. As mentioned above, profiles were considered in
+the axis of the pipeline, upstream and downstream of this point, with a total of 3 profiles per
+basin. Basin 1 presented the highest overall scour value (43 cm) in the profile located
+on the axis of the pipeline.
+Figure 20 shows, schematically, a transverse profile with the arrangement of the
+pipe, where it is important to highlight that the key of this will be at least 1.5 m below the level
+of the land.
+Page 33 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 54
+==================================================================================
+Figure 20. Cross-sectional profile of pipeline layout.
+Source: Chapter 1 Project Description, 2024.
+It is concluded that the undercutting produced is not sufficient to alter the correct functioning
+of the pipeline, so no additional mitigation work is recommended at that point.
+On the other hand, basin 2, both in the situation with and without the project, presented general scour
+null in all 3 profiles.
+Page 34 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Mining Development Project for Clay Extraction for Production
+Rare Earth Concentrate Action
+==================================================================================
+PAGE 55
+==================================================================================
+Internal Report Aclara REE Uno SpA: Summary of the Characterization Report
+ZE Maite, Geotechnical Feasibility Engineering Extraction Zones N° 010122-
+MS-GE, Issued by PANGEA Geotecnia dated 12-27-2022
+1.4. GEOTECHNICAL CHARACTERIZATION – ZE MAITE
+1.5. EXPLORATION CAMPAIGN
+In the previous prospecting campaign (2021), 6 drillings were carried out with standard SPT penetration tests,
+6 test pits, 6 shear wave velocity measurements and 3 pressuremeter tests. In the current campaign
+(2022) 4 drillings were carried out to the rock with SPT tests, 4 pits with density tests and
+in-situ permeability, 4 shear wave velocity measurements, and 10 pressuremeter tests. Figure 24
+shows the location of the drillings. Calicating and geophysics were carried out on one side of each borehole.
+Figure 24. Location of the surveys carried out.
+Page 35 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 56
+==================================================================================
+Table 24 summarizes the coordinates of the drillings carried out.
+Table 24. Coordinates of drillings carried out.
+UTM coordinate system: WGS84 18H
+chain necklace
+ID Campaign. East North Sounding Depth [m]
+[m.s.n.m]
+MAI 2108 680532 5928664 35.0 231
+MAI 2115 680417 5928548 25.7 200
+MAI 2122 680520 5928392 42.6 225
+2021
+MAI 2127 680276 5928418 39.6 190
+MAI 2134 680393 5928279 44.7 202
+MAI 2146 680677 5928524 50.0 249
+MAI 2201 680662 5928273 24.0 207
+MAI 2202 680708 5928405 63.0 244
+2022
+MAI 2203 680461 5928805 47.6 219
+MAI 2204 680277 5928196 55.0 202
+It is worth mentioning that the exploration depth of the geotechnical drillings carried out during the campaign
+2021 are equivalent to that of the homonymous geological drillings, while, for the 2022 campaign, the
+exploration depth was prolonged until 2 continuous measurements of RQD ≥ 70% were obtained in
+samples 1 m long. The summary among the projected depths for the 2022 campaign
+(initially defined to match the nearby geological drillings) and actually executed is presented in
+Table 25.
+Table 25. Variation in drilling depths, 2022 campaign.
+Depth [m] Variation
+ID. Probing
+Projected Executed Δ (ml) Δ (%)
+MAI 2201 23 24 + 01 + 04%
+MAI 2202 47 63 + 16 + 34%
+MAI 2203 34 48 + 14 + 40%
+MAI 2204 40 55 + 15 + 38%
+Page 36 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 57
+==================================================================================
+1.6. RESULTS
+1.7. STRATIGRAPHY
+Based on the drilling carried out, Figure 25 and Figure 26 show the stratigraphic profiles of
+both exploration campaigns.
+Figure 25. Stratigraphic summary of drilling in the 2022 campaign.
+Page 37 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 58
+==================================================================================
+Figure 26. Stratigraphic summary of drilling in the 2021 campaign.
+The average granulometry and property index results for the stratigraphies illustrated in Figure
+25 and Figure 26, are presented respectively in Table 26 and Table 27.
+Table 26. Average laboratory results in drilling samples by stratum, 2022 campaign.
+Granulometry Classification Properties Indices
+ID. Probing Depth (m)
+USCS % Sieve No. 4 % Fines LL LP IP % Wn
+GM 4.6 36 18 33 25 8 10
+ML 6.5 89 72 32 - N.P. 12
+MAI 2201
+GM 10.5 29 25 30 - N.P. 12
+ML 21.0 100 82 34 - N.P. 27
+CL 1.2 100 87 50 22 28 33
+ML 46.1 100 83 45 33 11 30
+MAI 2202
+ML 57.0 100 64 ** - N.P. 26
+GW 59.6 4.5 2.2 ** - N.P. 4.8
+CL 5.5 100 79 46 21 26 33
+MH 9.5 100 82 52 - N.P. 44
+ML 24.0 97 78 39 34 5 34
+MAI 2203 ML 32.6 99 72 32 - N.P. 28
+GM 34.1 91 40 33 - N.P. 19
+M
+L 38.6 99 69 29 - N.P. 21
+SM 40.6 96 49 27 - N.P. 21
+ML 24.0 93 60 42 30 18 25
+MAI 2204 ML 46.5 97 58 33 - N.P. 18
+CL 50.1 93 60 39 22 17 8
+(**) In soils with LL<25%; According to the regulations, it is not feasible to determine a fluidity curve that allows finding
+graphically this consistency limit. In addition, zero plasticity is evident.
+Page 38 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 59
+==================================================================================
+Table 27. Average laboratory results in drilling samples by stratum, 2021 campaign.
+Granulometry Classification Properties Indices
+ID. Probing Depth (m)
+USCS % Sieve No. 4 % Fines LL LP IP % Wn
+ML 4.5 100 78 44 40 4 35
+SM 6.5 100 49 56 43 13 37
+ML 12.5 100 65 46 41 5 36
+MAI 2108
+SM 15.5 100 48 ** - N.P. 31
+ML 19.0 100 64 38 33 5 35
+SM 35.0 100 45 ** - N.P. 19
+ML 6.5 100 58 41 30 11 39
+CL 9.5 100 66 39 25 14 39
+MAI 2115 SM 12.5 100 32 33 30 3 22
+ML 19.0 100 48 37 32 5 35
+SM 25.7 100 39 42 - N.P. 15
+MH 6.5 100 83 61 33 28 116
+MAI 2122 ML 33.5 100 69 41 33 8 42
+SM 42.6 100 39 33 - N.P. 21
+MAI 2127 ML 39.6 100 63 37 30 7 33
+ML 9.5 100 73 45 42 3 44
+SM 12.5 100 42 43 - N.P. 44
+ML 16.0 100 50 43 - N.P. 34
+SM 19.0 100 46 41 31 10 35
+MAI 2134 ML 22.0 100 71 40 33 7 63
+SM 28.0 100 49 44 40 4 43
+ML 31.0 100 67 39 28 11 41
+SM 33.5 100 32 40 32 8 33
+ML 44.7 100 65 42 34 8 31
+ML 3.5 100 53 45 40 5 31
+MH 9.5 100 79 56 38 18 39
+ML 18.5 100 63 41 31 10 40
+MH 21.5 100 84 52 40 12 31.2
+MAI 2146
+ML 27.5 100 62 44 38 6 34
+MH 30.5 100 68 59 33 26 33
+SM 33.5 100 48 39 36 3 31
+ML 50.0 100 66 41 35 6 31
+(**) In soils with LL<25%; According to the regulations, it is not feasible to determine a fluidity curve that allows finding
+graphically this consistency limit. In addition, zero plasticity is evident.
+The moisture content in the ground (%Wn) reported in samples extracted from the drillings could be seen
+affected by the injection of water into the borehole. On the other hand, based on the
+pits, with an approximate depth of 3 meters, the classification results are presented in the Table
+28, which show the heterogeneity of the terrain given the proximity between both types of surveys.
+Page 39 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 60
+==================================================================================
+Table 28. Average laboratory results in samples from the base of pits.
+Granulometry Classification Properties Indices Natural Density
+ID. Calicata
+USCS % Sieve No. 4 % Fines LL IP % Wn γd (kg/dm3)
+MAI 2108 MH 100 84 55 21 21.3 1,480
+MAI 2115 ML 100 79 35 N.P. 16.4 1,552
+MAI 2122 ML 100 70 41 11 20.0 1.445
+MAI 2127 ML 100 78 47 16 20.1 1,523
+MAI 2134 ML 100 70 42 13 25.0 1,560
+MAI 2146 ML 100 66 34 3 21.8 1.408
+MAI 2201 SM 98 49 39 8 34.0 1,219
+MAI 2202 ML 100 70 44 6 35.5 1.305
+MAI 2203 SC 99 33 54 31 24.8 1,230
+MAI 2204 SM 98 34 45 6 16.6 1,392
+Table 29 and Table 30 show a summary of the water level observed in the boreholes. This measurement is not
+considered reliable because there was no time to wait for the drilling fluids to be absorbed into
+low permeability soils. To improve this condition, in the present stage they have been installed
+Casagrande type piezometers to allow the recording of a possible water table over time. Readings to date
+They are summarized in Table 31; November 2022 readings were taken one week after cleaning
+of the piezometric wells, while in September no cleaning was carried out between the execution
+of probing and taking a reading of the water table.
+Table 29. Depth of water level observed with respect to collar level during the 2021 campaign.
+Collar elevation Depth Sounding Water level Date
+ID. Probing
+[m.a.s.l.] [m] [m] Observation
+MAI 2108 231 35.0 12.8 Jan - 2021
+MAI 2115 200 25.7 8.6 Jan - 2021
+MAI 2122 225 42.6 N.A. Jan - 2021
+MAI 2127 190 39.6 N.A. Jan - 2021
+MAI 2134 202 44.7 15.8 Jan - 2021
+MAI 2146 249 50.0 N.A. Jan - 2021
+(N.D. = Not Detected)
+Table 30. Depth of observed water level r
+collar chain appearance during the 2022 campaign.
+Collar elevation Depth Sounding Water level Date
+ID. Probing
+[m.a.s.l.] [m] [m] Observation
+MAI 2201 207 24.0 N.D. Aug - 2022
+MAI 2202 244 63.0 45.4 Aug - 2022
+MAI 2203 219 47.6 17.1 Aug - 2022
+MAI 2204 202 55.0 31.9 Jul - 2022
+(N.D. = Not Detected)
+Page 40 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 61
+==================================================================================
+Table 31. Water level observed in piezometer, 2022 campaign drillings.
+Collar elevation Drilling depth Water table [m] Water table [m]
+ID. Probing
+[m.a.s.l.] [m] Sep. 2022 Nov. 2022
+MAI 2201 207 24.0 9.6 10.0
+MAI 2202 244 63.0 27.5 43.5
+MAI 2203 219 47.6 15.6 15.9
+MAI 2204 202 55.0 26.6 27.9
+On the other hand, as part of the drilling progress, standard penetration tests (SPT) were carried out.
+whose results are presented in Figure 27 and Figure 28, associated with the 2021 and 2022 campaigns.
+respectively.
+Figure 27. SPT trial results – 2021 campaign.
+Page 41 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 62
+==================================================================================
+Figure 28. SPT trial results – 2022 campaign.
+Page 42 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 63
+==================================================================================
+Due to the heterogeneity of the residual soils, the use of correlations with the test is not recommended.
+SPT to determine resistant parameters. Instead, the use of correlations based on the
+Atterberg limits (Wesley, 2010). For this the relationship in Figure 29 will be used. This relationship has been
+built from residual soils from Indonesia, New Zealand and Hong Kong so it must be used
+criterially. The results of applying this relationship to the project soils are presented in Figure 30 and
+Figure 31.
+Figure 29. Correlation for the determination of ∅'. Source: Wesley, 2010 [8]
+Page 43 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 64
+==================================================================================
+Figure 30. Atterberg limits correlation with ∅’, 2021 campaign.
+Page 44 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 65
+==================================================================================
+Figure 31. Atterberg limits correlation with ∅’, 2022 campaign.
+Page 45 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 66
+==================================================================================
+Finally, in the pits of the 2022 campaign, porchet tests were carried out to estimate the
+permeability, the results of which are summarized in Table 32.
+Table 32. In-situ permeability results, 2022 campaign.
+Classification
+ID. Calicata k (m/s) k (mm/h)
+USCS
+MAI 2201 SM 8.69E-06 31.3
+MAI 2202 ML 3.55E-06 12.8
+MAI 2203 SC 1.25E-05 44.9
+MAI 2204 SM 3.20E-05 115.1
+The estimation of the permeability for the rest of the strata is carried out indirectly, through the
+Kozeny-Carman equation (1956):
+1 𝛾
+𝑤
+𝑒3
+𝐶
+𝐾−𝐶
+𝑆2 𝜇
+𝑤
+1 + 𝑒
+where,
+- 𝐶 𝐾−𝐶 : Kozeny-Carman Factor (approximately equal to 5)
+- S: Specific surface area per unit volume of solid particles
+- 𝛾 : Density of water
+𝑤
+- 𝜇 : Dynamic viscosity of water
+𝑤
+- 𝑒 : Void index
+The surface
+specific ice is estimated according to what Chapius (2003) proposed for soils content of fines according to
+to:
+1 −1
+𝑆 = 103𝐺
+𝑠
+(1.3513 ( ) − 0.0089)
+𝐿𝐿
+Applying the indirect estimation of permeability to the pit samples of which we have
+in-situ measurements of permeability and density, it is observed that the correlations used estimate, in
+average, permeabilities equivalent to 90% of the value estimated through the in-situ test. Based on
+above, the permeabilities are estimated for each of the tests identified in both campaigns (see
+Table 33 and Table 34). For each drilling, the estimated void index in pits based on tests is considered.
+of density (sand cones) and, in a simplified way, the gradual decrease in depth is assumed
+0.59, which corresponds to the estimated average value for embankment No. 3 after compaction (94% PM), and whose
+fines content is approximately 50%. Likewise, for practical purposes, for samples with
+LL < 25%, which is not detailed according to laboratory regulations, the LL is considered to correspond to 20%.
+Page 46 of 34
+Appendix 10-13.3
+Oil Pipeline Hydraulic Report
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 67
+==================================================================================
+In the case of gravel, with low fines content, the specific surface area is considered as
+𝑆 = 6/𝐷 𝑚, which corresponds to an approximation of spherical particles, with 𝐷 𝑚 being the diameter
+medium of the material.
+Table 33. Estimated permeabilities for 2021 campaign stratigraphy.
+Table 34. Estimated permeabilities for 2022 campaign stratigraphy.
+Classification
+ID. Drilling Depth (m) k (m/s)
+USCS
+GM 4.6 4.58E-01
+ML 6.5 1.42E-05
+MAI 2201
+GM 10.5 8.62E-01
+ML 21.0 6.11E-06
+CL 1.2 5.20E-06
+ML 46.1 4.50E-06
+MAI 2202
+ML 57.0 1.53E-05
+GW 59.6 7.48E-01
+CL 5.5 8.81E-06
+MH 9.5 4.78E-06
+ML 24.0 7.58E-06
+MAI 2203 ML 32.6 7.75E-06
+GM 34.1 1.51E-03
+ML 38.6 6.34E-06
+SM 40.6 6.22E-06
+ML 24.0 4.59E-06
+MAI 2204 ML 50.1 5.31E-06
+CL 55.0 2.26E-06
+==================================================================================
+PAGE 68
+==================================================================================
+APPENDIX 10-13.3
+RUNOFF CALCULATION
+MINING DEVELOPMENT PROJECT
+EXTRACTION OF CLAYS FOR THE PRODUCTION OF
+RARE EARTH CONCENTRATE
+Date: May, 2024
+==================================================================================
+PAGE 69
+==================================================================================
+Index
+1. RUNOFF CALCULATION ........................................................................... 4
+2. METHODOLOGY ................................................................................................... 4
+2.1. Rational Formula ....................................................................................... 4
+3. CHANNELS IN DISPOSAL AREAS ........................................................... 6
+3.1. Neptune disposition zone ....................................................................... 7
+3.2. Temporary storage area for plant material ZAV ................................... 10
+4. CHANNELS IN EXTRACTION AREAS ....................................................... 12
+4.1. Moon extraction area ................................................................................... 12
+4.2. Maite extraction area ........................................................................... 15
+4.3. Victoria North Extraction Area ........................................................... 18
+Appendix 10-13.3 B.1
+Page 2 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 70
+==================================================================================
+table index
+Table 1: Runoff coefficients used ....................................................................... 5
+Table 2: Flow summary for ZD-Neptuno ................................................... 8
+Table 3: Summary of flow rates for contour channel TC1 ........................................... 8
+Table 4: Summary of flow rates for contour channel TC2 ........................................... 8
+Table 5: Flow Summary
+It is for TC3 contour channel ........................................... 9
+Table 6: Summary of flow rates for contour channel TC4 ................................................... 9
+Table 7: Summary of flow rates for ZAV ........................................................................... 10
+Table 8: Summary of flow rates for contour channel TC1 ........................................... 11
+Table 9: Summary of flow rates for contour channel TC2 ........................................... 11
+Table 10: Summary of internal drainage flows through evacuation channels
+Luna Extraction Zone ....................................................................................... 13
+Table 11: Summary of contributing flows for the design of the contour channels
+in the Luna Extraction Zone ................................................................................ 14
+Table 12: Summary of internal drainage flows through evacuation channels
+Maite Extraction Area ................................................................................... 16
+Table 13: Summary of contributing flows for the design of the contour channels
+in the Maite Extraction Zone ................................................................................ 17
+Table 14: Summary of internal drainage flows through evacuation channels
+Victoria North Extraction Zone ........................................................................... 19
+Table 15: Summary of contributing flows for the design of the contour channels
+in Victoria North Extraction Zone ................................................................... 21
+Index of Figures
+Figure 1: Runoff coefficients ................................................................................... 5
+Figure 2: Contour channels and contributing areas for Disposal Zone
+Neptune ................................................................................................................... 7
+Figure 3: Contour channels and contributing areas for ZAV Plant Collection Zone
+. ........................................................................................................................... 10
+Figure 4: Arrangement of contour channels for Luna Extraction Zone ....... 12
+Figure 5: Arrangement of contour channels for Maite Extraction Zone ...... 15
+Figure 6: Arrangement of contour channels for Victoria Extraction Zone
+North ................................................................................................................... 18
+Appendix 10-13.3 B.1
+Page 3 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 71
+==================================================================================
+1. Runoff calculation
+This annex details the calculations that were carried out to obtain the flow rates of
+runoff in the Extraction, Disposal and Plant Collection Zones of the Project. First
+First, the methodology used is presented, starting with the rational formula that is
+presented in the Road Manual, 2019 edition of the MOP and that makes a distinction between
+flat basins and sloping or natural basins.
+2. Methodology
+2.1. Rational Formula
+The rational formula is widely used in hydrology. The expression that allows
+Calculating the maximum instantaneous flow of a return period T is given by the following
+equation.
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3.6
+Where:
+• Q = Maximum instantaneous flow rate of return period T, expressed in m3/s.
+• C = Runoff coefficient associated with the return period T.
+• i = Average rainfall intensity associated with the return period T and an equal duration
+to the concentration time of the rainwater basin, expressed in mm/hr.
+• A = Contributing rainfall area expressed in km2.
+To calculate the design flows, first establish the coefficient of
+runoff, associated with the study area for a return period of 100 years as
+is shown in Figure 1. For return periods greater than 10 years, you must multiply
+the runoff coefficient by an amplification coefficient C, detailed in Figure 1.
+Appendix 10-13.3 B.1
+Page 4 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 72
+=======
+===========================================================================
+Figure 1: Runoff coefficients.
+From where it was evaluated according to the conditions of the Project lands and an estimated
+total runoff coefficient, which is detailed in Table 1:
+Table 1: Runoff coefficients used.
+Runoff Coefficient for T=100 years
+Factor Type Value
+Normal Relief 0.25
+Infiltration High 0.12
+Normal Plant Cover 0.07
+High Surface Storage 0.08
+Total 0.52
+Source: Own elaboration, 2024.
+On the other hand, the concentration time of the basin must be calculated. For the areas of
+extraction, disposal and plant collection, a time of local concentration of
+10 minutes. This value was considered because it is the minimum time suitable for the formula
+rational.
+Appendix 10-13.3 B.1
+Page 5 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 73
+==================================================================================
+As there are concentration times of less than 1 hour, then the
+Bell methodology to estimate precipitation, for concentration times between 5
+minutes and 1 hour, associated with return periods ranging from 2 to 100 years.
+𝑃𝑇 = (0.54 ∙ 𝑡𝑐0.25 − 0.50)(0.21 ∙ ln(𝑇) + 0.52)𝑃10
+𝑡𝑐 1
+Where:
+• tc: Basin concentration time (min)
+• T: Return period in (years)
+• 𝑃10: Maximum precipitation, in (mm), with return period 10 (years) and duration
+1
+1 (hr)
+3. Channels in disposal areas
+The Disposal Zones have 2 works associated with their implementation, the canals
+evacuation and contour channels. The evacuation channels were calculated according to
+the study carried out by DAV Ingeniería y Consultoría SpA, Appendix 10-13.3 Water Drainage
+Rain attached in the annexes. On the other hand, this study specifies which evacuation channels
+they discharge to which contour channels. The latter were calculated according to the criteria of
+design presented in Appendix 10-13.3 – Hydraulic report. The following details
+the contributing areas (for ZD Neptuno and ZAV) and the contributing evacuation channels
+respective (for Extraction Zones):
+Appendix 10-13.3 B.1
+Page 6 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 74
+==================================================================================
+3.1. Neptune disposition zone
+Below is the arrangement of the contributing areas and location of the channels.
+contour for the Neptune layout zone:
+Figure 2: Contour channels and contributing areas for the Neptune Disposition Zone.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 7 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 75
+==================================================================================
+rational formula
+Table 2: Flow summary for ZD-Neptuno.
+Q (m3/s)
+Contributing area A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 19160 0.0192 121 10 0.52 0.142 0.150
+A2 32314 0.0323 121 10 0.52 0.240 0.253
+A3 14075 0.0141 121 10 0.52 0.105 0.110
+A4 19188 0.0192 121 10 0.52 0.143 0.150
+A5 2309 0.0023 121 10 0.52 0.017 0.018
+A6 20759 0.0208 121 10 0.52 0.154 0.163
+A7 25913 0.0259 121 10 0.52 0.192 0.203
+A8 65347 0.0653 121 10 0.52 0.485 0.512
+A9 75485 0.0755 121 10 0.52 0.561 0.592
+A10 57172 0.0572 121 10 0.52 0.425 0.448
+A11 37895 0.0379 121 10 0.52 0.281 0.297
+A12 9423 0.0094 121 10 0.52 0.070 0.074
+Source: Own elaboration, 2024.
+Table 3: Summary of flows for contour channel TC1.
+TC1
+Contributing area
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A3 0.014 0.105 0.110
+A6 0.021 0.154 0.163
+A8 0.065 0.485 0.512
+A9 0.075 0.561 0.592
+A12 0.009 0.070 0.074
+Total 0.185 1.375 1.450
+Source: Own elaboration, 2024.
+Table 4: Summary of flows for contour channel TC2.
+TC2
+Contributing area
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A2 0.032 0.240 0.253
+Total 0.032 0.240 0.253
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 8 of 21
+Runoff Calculation
+Q
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 76
+==================================================================================
+Table 5: Summary of flows for contour channel TC3.
+TC3
+Contributing area
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A1 0.019 0.142 0.150
+A5 0.002 0.017 0.018
+A7 0.026 0.192 0.203
+A10 0.057 0.425 0.448
+A11 0.038 0.281 0.297
+Total 0.068 0.509 0.537
+Source: Own elaboration, 2024.
+Table 6: Summary of flows for contour channel TC4.
+TC4
+Contributing area
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A5 0.002 0.017 0.018
+A7 0.026 0.192 0.203
+A10 0.057 0.425 0.448
+A11 0.038 0.281 0.297
+Total 0.074 0.549 0.580
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 9 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 77
+==================================================================================
+3.2. Temporary storage area for plant material ZAV
+Below is the arrangement of the contributing areas and location of the channels.
+contour for the ZAV plant collection area:
+Figure 3: Contour channels and contributing areas for ZAV Plant Collection Zone
+Source: Own elaboration, 2024.
+rational formula
+Table 7: Flow summary for ZAV.
+Q (m3/s)
+Contributing area A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 17522 0.01752 121.5 10 0.52 0.131 0.138
+A2 16437 0.01644 121.5 10 0.52 0.123 0.129
+A3 1790 0.00179 121.5 10 0.52 0.013 0.014
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 10 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 78
+==================================================================================
+Table 8: Flow summary for contour channel TC1.
+TC1 Area
+contributor A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A1 0.018 0.131 0.138
+Total 0.018 0.131 0.138
+Source: Own elaboration, 2024.
+Table 9: Summary of flows for contour channel TC2.
+TC2 Area
+contributor A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A2 0.016 0.123 0.129
+Total 0.016 0.123 0.129
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 11 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 79
+==================================================================================
+4. Channels in extraction areas
+The Extraction Zones have 2 works associated with their implementation, the
+evacuation and contour channels. The evacuation channels were calculated according to
+the study carried out by DAV Ingeniería y Consultoría SpA, attached in the annexes. On the other
+On the other hand, this study specifies which evacuation channels discharge to which contour channels.
+The latter were calculated according to the design criteria presented in Appendix B
+– Hydraulic works. A diagram of the evacuation channels is detailed below.
+contributors to each contour channel:
+4.1. Luna extraction zone
+Figure 4: Arrangement of contour channels for the Luna Extraction Zone.
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Appendix 10-13.3 B.1
+Page 12 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 80
+==================================================================================
+Table 10: Summary of internal drainage flows through Zone evacuation channels
+of Moon Extraction.
+Ditch Length (m) Flow (L/s)
+Drainage Unit Drainage surface
+Per drainage unit Per drainage unit
+LF1-2B 797 80 10
+LF2-3A 1083 102 14
+LF1-3B 423 51 6
+LF1-3C 2281 216 38
+PathA LF1-3C 536 29 6
+LF1-3D 290 43 25
+LF2-4(1)-1 7036 290 119
+PathA LF2-4(1)-1 1059 62 12
+LF2-4(1)-2 5022 177 74
+LF2-4(2) 3015 134 57
+LF2-5A(1) 6201 428 90
+PathA LF2-5A(1) 584 29 7
+LF2-5A(2)-1 3044 165 48
+PathA LF2-5A(2)-1 1175 71 14
+LF2-5A(2)-2 2029 178 130
+LF1-6B(1) 3391 105 52
+RoadTo LF
+1-6B(1) 2146 75 22
+LF1-6B(2) 5086 264 100
+LF1-5B(1) 2227 200 79
+PathA LF1-5B(1) 1162 65 20
+LF1-5B(2) 1114 100 25.9
+LF2-5C 264 42 20
+LF1-6A(1) 1341 86 103
+LF1-6A(2) 894 64 26
+PathA LF1-6A(2) 1135 66 13
+LF2-6C(1) 3186 114 33
+PathA LF2-6C(1) 1322 71 15
+LF2-6C(2) 797 108 11
+LF2-7(1) 467 56 6
+PathA LF2-7(1) 1353 74 16
+LF2-7(2) 4203 162 57
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Appendix 10-13.3 B.1
+Page 13 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 81
+==================================================================================
+Table 11: Summary of contributing flows for the design of the contour channels in
+Luna Extraction Zone.
+Moon Extraction Zone Q design
+Q channel L/s design
+Contributing flows m3/s
+LF1-2B, LF1-3D, LF2-5A(1), LF2-4(2), PathA LF1-2B, PathA LF1-
+TC1 189.0 0.189
+3D, PathA LF2-5A(1), PathA LF2-4(2)
+LF1-6A(1), LF1-6A(2), LF1-5B(1), LF1-5B(2), LF2-5C, LF2-6C(2), LF2-
+7(1), LF2-7(2), PathA LF1-6A(1), PathA LF1-6A(2), PathA
+TC2 376.9 0.377
+LF1-5B(1), PathA LF1-5B(2), PathA LF2-5C, PathA LF2-
+6C(2), PathA LF2-7(1), PathA LF2-7(2)
+TC3 TC1, TC2 509.9 0.510
+TC5 LF1-3C, PathA LF1-3C 44.0 0.044
+LF1-3B, LF2-3A, LF2-4(1)-1, LF2-4(1)-2, LF2-5A(2)-1, LF2-5A(2)-2,
+LF1-6B(1), LF1-6B(2), LF2-6C(1), PathA LF1-3B, PathA LF2-3A,
+TC6 PathA LF2-4(1)-1, PathA LF2-4(1)-2, PathA LF2-5A(2)-1, 639.0 0.639
+PathA LF2-5A(2)-2, PathA LF1-6B(1), PathA LF1-6B(2),
+PathA LF2-6C(1)
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 14 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 82
+==================================================================================
+4.2. Maite extraction area
+Figure 5: Arrangement of contour channels for the Maite Extraction Zone.
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Appendix 10-13.3 B.1
+Page 15 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 83
+==================================================================================
+Table 12: Summary of internal drainage flows through Zone evacuation channels
+of Maite Extraction.
+Ditch Length
+Flow rate (L/s)
+Drainage Unit Drainage surface (m)
+Per drainage unit Per drainage unit
+MF1-1(1) 23745 573 204.5
+MF1-1(2) 10176 200 87.7
+ROAD TO MF1-2B 1045 62 9
+MF2-1A(1) 7775 252 79.5
+MF2-1A(2) 1372 54 14.7
+PATH TO MF2-2D 1138 66 13.3
+MF1-2A 5552 132 52.4
+ROAD TO MF1-3 1094 64 13
+MF1-2B 12368 609 106.5
+MF2-2C 9354 219 87.8
+ROAD TO MF2-3B 1090 63 13
+MF2-2D 12544 326 121.1
+MF2-3A(1) 2654 182 31.9
+MF2-3A(2) 13269 360 129.6
+ROAD TO MF2-4B 1040 66 12
+MF2-3B 3134 288 39.6
+MF1-4A 1105 116 14.2
+MF2-4B(1) 3378 255 41.3
+MF2-4B(2) 3378 119 35.2
+ROAD TO MF1-5A 1144 71 14
+ROAD TO MF2-5B(1) 1272 65 14
+MF2-4B(3) 10133 234 94.8
+MF2-4C 5657 240 61.7
+ROAD TO MF2-4C 1242 62 14
+MF1-5A 4427 244 51.1
+MF2-5B(1) 18393 561 185.1
+ROAD TO MF1-6 1058 62 12
+ROAD TO MF2-5B(2) 1160 80 14
+MF2-5B(2) 2044 135 24.4
+MF2-6A(1) 1250 258 16.8
+MF2-6A(2) 11254 416 118.8
+ROAD TO MF1-7 1146 70 13
+ROAD TO MF2-6A 1062 62 12
+ROAD TO MF2-7 91 62 1
+MF2-6B 573 68 7.5
+MF2-7(1) 6334 435 76.3
+Appendix 10-13.3 B.1
+Page 16 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 84
+==================================================================================
+Ditch Length
+Flow rate (L/s)
+Drainage Unit Drainage surface (m)
+Per drainage unit Per drainage unit
+ROAD TO MF1-8 1053 61 12
+MF2-7(2) 19003 590 192.1
+ROAD TO MF2-9 1175 65 14
+MF2-8(1) 12965 555 141.6
+MF2-8(2) 19448 408 177.3
+MF2-9(1) 2138 432 28.7
+MF2-9(2) 12116 359 121.1
+ROAD TO MF1-10A 1164 67 14
+MF1-10A 4068 370 51.3
+MF1-10B 1253 123 16
+ROAD TO MF1-11A 1065 62 12
+MF2-10C 2423 192 29.9
+MF1-11A 3951 275 34
+MF1-11B 193 27 1.7
+MF1-11C 178 43 1.5
+MF2-11D 534 63 7
+MF1-12A 3311 171 28.5
+MF1-13A 1768 128 15.2
+MF1-14 1457 109 12.6
+M.F.
+1-15 1312 98 11.3
+MF1-16 981 85 8.5
+MF1-17 335 52 2.9
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Table 13: Summary of contributing flows for the design of the contour channels in
+Maite Extraction Area.
+Maite Extraction Area Q design
+Q channel L/s design
+Contributing flows m3/s
+MF2-10C, MF2-9(2), MF2-8(2), MF2-7(2), MF2-6B, MF2-5B(2),
+TC1 579.3 0.579
+ROAD TO MF1-10A, ROAD TO MF1-8, ROAD TO MF2-7
+TC2 MF2-4B(3), MF2-3B, MF2-2D 363.0 0.363
+TC3 MF2-2C, PATH TO MF2-3B 100.8 0.101
+MF1-17, MF1-16, MF1-15, MF1-14, MF1-13A, MF1-12A, MF1-11A,
+MF1-10A, MF2-9(1), MF2-8(1), MF2-7(1), MF2-6A(1), MF1-5A, MF2-
+TC4 1069.4 1.069
+4B(1), MF2-3A(2), MF1-2B, MF1-1(1), MF1-1(2), PATH TO MF2-4B,
+ROAD TO MF1-2B
+TC5 MF1-10B, PATH TO MF1-11A 28.0 0.028
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 17 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 85
+==================================================================================
+4.3. Victoria North Extraction Area
+Figure 6: Layout of contour channels for the Victoria North Extraction Zone.
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Appendix 10-13.3 B.1
+Page 18 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 86
+==================================================================================
+Table 14: Summary of internal drainage flows through Zone evacuation channels
+of Victoria North Extraction.
+Ditch Length
+Flow rate (L/s)
+Drainage Unit Drainage surface (m)
+Per drainage unit Per drainage unit
+VNF2-1 763 47 9.7
+VNF2-2 1594 114 22.1
+VNF2-3 1650 144 25.8
+VNF2-4 4750 155 41.1
+VNF2-5 6346 159 46.9
+VNF2-6 6922 302 71.3
+VNF2-7 2896 327 52.8
+VNF2-8A 647 71 11.6
+VNF2-8B 3428 169 38
+PATH TO VNF2-8B 1226 69 14.7
+VNF2-9A 1389 138 23.4
+VNF2-9B 1319 107 19.7
+PATH TO VNF2-9B 1088 64 13.4
+VNF2-10A 2533 225 40
+VNF2-10B 2333 77 20.3
+PATH TO VNF2-10B 1132 64 13.6
+VNF2-11(1) 13627 293 91.8
+VNF2-11(2) 13627 88 59.3
+PATH TO VNF2-11 1233 69 14.7
+VNF2-12A 7156 523 100.4
+PATH TO VNF2-12A 1170 64 13.8
+VNF2-12B 675 53 9.9
+VNF2-12C 2351 186 34.6
+VNF2-13A(1) 14196 444 119.7
+PATH TO VNF2-13A 1196 71 14.8
+VNF2-13A(2) 1548 258 35.6
+VNF2-13B 1348 86 17.4
+VNF2-14A(1) 7070 495 96.7
+PATH TO VNF2-14A 1143 68 14.2
+VNF2-14A(2) 7070 135 44.4
+VNF2-14A(3) 14139 368 106.8
+VNF2-14B 140 18 2.8
+VNF2-15A 3219 221 43.5
+PATH TO VNF2-15A 1238 69 14.8
+VNF2-15B 1556 141 24.8
+VNF2-15C 1588 124 23.2
+Appendix 10-13.3 B.1
+Page 19 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 87
+==================================================================================
+Ditch Length
+Flow rate (L/s)
+Drainage Unit Drainage surface (m)
+Per drainage unit Per drainage unit
+VNF2-15D 675 57 10.3
+VNF2-15E 11039 403 102.2
+PATH TO VNF2-15E 1068 63 13.2
+VNF2-16A(1) 5228 104 33.6
+PATH TO VNF2-16A 430 23 5
+VNF2-21 1537 87 18.5
+ROAD TO VNF2-21 713 44 9
+VNF2-16A(2) 5228 246 56.3
+VNF2-16B(1) 2333 181 33.9
+VNF2-16B(2) 9333 452 102.3
+PATH TO VNF2-16B 1302 74 15.7
+VNF2-16C 52 145 6.5
+VNF2-16D 1113 86 16.2
+VNF2-17A 2781 212 40
+VNF2-17B 863 68 12.7
+VNF2-17C 1453 118 21.7
+VNF2-17D 7280 541 103.2
+PATH TO VNF2-17D 1142 64 13.7
+VNF2-18(1) 3983 293 56.1
+VNF2-18(2) 3983 154 38.2
+VNF2-18(3) 15931 496 134
+PATH TO VNF2-18 1287 75 15.8
+VNF2-18(4) 2655 145 31.3
+VNF2-19A 1484 127 22.9
+VNF2-19B 9718 373 92.7
+PATH TO VNF2-19B 1099 62 13.2
+VNF2-20(1) 8116 169 53.6
+VNF2-20(2) 8116 231 64.7
+PATH TO VNF2-20 1103 64 13.5
+Source: Study carried out by DAV Ingeniería y Consultoría SpA, 2024.
+Appendix 10-13.3 B.1
+Page 20 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 88
+==================================================================================
+Table 15: Summary of contributing flows for the design of the contour channels in
+Victoria North Extraction Zone.
+Victoria North Extraction Zone
+Q design
+Q channel L/s design
+Contributing flows m3/s
+TC1 VNF2-19A, VNF2-20(1) 76.5 0.077
+TC2 VNF2-14B, VNF2-15D, VNF2-16D, VNF2-17C, VNF2-18(4) 82.3 0.082
+VNF2-16C, VNF2-17B, VNF2-18(2), VNF2-18(1), VNF2-17A, VNF2-
+TC3 210.6 0.211
+16B(1), VNF2-15C
+TC4 VNF2-12B, VNF2-13B, VNF2-14A(2), VNF2-15B 96.5 0.097
+VNF2-16A(2), VNF2-21, VNF2-16A(1), VNF2-15A, VNF2-14A(1),
+VNF2-13A(1), VNF2-12A, VNF2-11(1), VNF2-10A, VNF2-9A, VNF2-
+TC5 8A, PATH TO VNF2-21, PATH TO VNF2-16A, PATH TO VNF2- 707.1 0.707
+15A, PATH TO VNF2-14A, PATH TO VNF2-13A, PATH TO VNF2-
+12A
+TC6 VNF2-1, VNF2-2, VNF2-3, VNF2-4, VNF2-5 145.6 0.146
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.1
+Page 21 of 21
+Runoff Calculation
+Mining Development Project for Clay Extraction for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 89
+==================================================================================
+APPENDIX 10-13.3
+DESIGN AND VERIFICATION OF CHANNELS
+CONTOUR, DRAWERS AND SEWERS
+Extraction Mining Development Project
+Clays for the Production of Concentrate
+Rare Earths
+Date: May, 2024
+==================================================================================
+PAGE 90
+==================================================================================
+Index
+1. HYDRAULIC WORKS.............................................................................................. 5
+1.1. Channels, plant disposal and collection areas............................................... 5
+1.1.1. Neptune Disposition Zone ........................................................... 6
+1.1.2. Temporary storage area for plant material ZAV ................................. 7
+1.2. Channels extraction areas ................................................................................... 8
+1.2.1. Luna Extraction Zone ................................................................... 8
+1.2.2. Maite Extraction Area ................................................................... 9
+1.2.3. Victoria North Extraction Area ................................................... 10
+1.3. Manholes and caissons at road crossings ........................................... 11
+1.3.1. Sewer design ........................................................................... 11
+1.3.2. Sewers verification ................................................................ 13
+1.3.3. Design drawers ........................................................................... 14
+1.3.1. Verification drawers ....................................................................... 15
+APPENDIX A: CONTOUR CHANNELS SECTION VERIFICATION IN
+HCHANNELS ....................................................................................................... 16
+Neptune Disposition Zone.............................................................................. 16
+ZAV Temporary Storage Area ........................................................................... 20
+Luna Extraction Zone ................................................................................... 20
+Maite Extraction Area ................................................................................... 23
+Victoria North Extraction Zone ....................................................................... 26
+Appendix 10-13.3 B.2
+Page 2 of 13 Design and verification of contour channels, caissons and culverts
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 91
+==================================================================================
+Table Index
+Table 1: Summary ZD Neptune contour channels ........................................................... 6
+Table 2: Design of ZD Neptune contour channels ........................................................... 6
+Table 3: Summary ZAV contour channels ........................................................... 7
+Table 4: Design of ZAV contour channels ........................................................... 7
+Table 5: Summary ZE Luna contour channels ................................................................... 8
+Table 6: ZE Luna contour channel design ........................................................... 8
+Table 7: Summary of ZE Maite contour channels ...........................................................
+.. 9
+Table 8: Design of ZE Maite contour channels................................................................ 9
+Table 9: Summary of ZE Victoria North contour channels ........................................... 10
+Table 10: ZE Victoria North contour channel design ........................................... 10
+Table 11: Sewer design T =100 years. ............................................................ 11
+R
+Table 12: Verification of sewers T =150 years. ................................................... 13
+R
+Table 13: Drawer design T =100 years. ................................................................... 14
+R
+Table 14: Verification of drawers T =150 years. ....................................................... 15
+R
+Appendix 10-13.3 B.2
+Page 3 of 13 Design and verification of contour channels, caissons and culverts
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 92
+==================================================================================
+Index of Figures
+Figure 1: Modeling result in HCanales for channel TC1 ....................................................... 16
+Figure 2: Modeling result in HCanales for channel TC2 ....................................................... 17
+Figure 3: Modeling result in HCanales for channel TC3 ....................................................... 18
+Figure 4: Modeling result in HCanales for channel TC4 ....................................................... 19
+Figure 5: Modeling result in HCanales for channel TC1 ....................................................... 20
+Figure 6: Modeling result in HCanales for channel TC2 ....................................................... 20
+Figure 7: Modeling result in HCanales for channel TC1 ....................................................... 20
+Figure 8: Modeling result in HCanales for channel TC2 ....................................................... 22
+Figure 9: Modeling result in HCanales for channel TC3 ....................................................... 22
+Figure 10: Modeling result in HCanales for channel TC5 ................................................... 22
+Figure 11: Modeling result in HCanales for channel TC6 ................................................... 23
+Figure 12: Modeling result in HCanales for channel TC1 ................................................... 23
+Figure 13: Modeling result in HCanales for channel TC2 ................................................... 25
+Figure 14: Modeling result in HCanales for channel TC3 ................................................... 25
+Figure 15: Modeling result in HCanales for channel TC4 ................................................... 25
+Figure 16: Modeling result in HCanales for channel TC5 ................................................... 26
+Figure 17: Modeling result in HCanales for channel TC1 ................................................... 26
+Figure 18: Modeling result in HCanales for channel TC2 ................................................... 27
+Figure 19: Modeling result in HCanales for channel TC3 ................................................... 27
+Figure 20: Modeling result in HCanales for channel TC4 ................................................... 28
+Figure 21: Modeling result in HCanales for channel TC5 ................................................... 29
+Appendix 10-13.3 B.2
+Page 4 of 13 Design and verification of contour channels, caissons and culverts
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 93
+==================================================================================
+1. Hydraulic Works
+This report details the calculations that were carried out for the design of the
+contour, sewers and crossroads. The results are presented by
+area, first of all, a summary table is presented with the types of works and their
+respective dimensions; Secondly, the calculation details of each work are presented
+from the flood flows obtained in Annex 13-13.3 – Runoff Calculation.
+1.1. Channels for plant disposal and collection areas
+The plant disposal and collection areas have drainage channels.
+contour that will lead
+the runoff generated into natural channels. These works were calculated according to the
+design criteria presented in Appendix 10-13-3 - Hydraulic Report and a
+Below they are detailed by area.
+Appendix 10-13.3 B.2
+Page 5 of 13 Design and verification of contour channels, caissons and culverts
+Clay Extraction Mining Development Project for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 94
+==================================================================================
+1.1.1. Neptune Disposition Zone
+Table 1: Summary ZD Neptune contour channels
+ID i [m/m] B (m) H (m) z [-] Coated
+TC1 0.121 0.7 0.6 1 YES
+TC2 0.133 0.7 0.6 1 YES
+TC3 0.185 0.7 0.6 1 YES
+TC4 0.162 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Table 2: Design of ZD Neptune contour channels.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Coat Q Tr=150 m3/s Hn (m) Verification
+TC1 1.375 0.121 0.02 0.7 0.26 0.2 0.5 1 0.263 0.253 0.175 5.43 YES 1.450 0.249 COMPLIANT
+TC2 0.240 0.133 0.02 0.7 0.09 0.2 0.3 1 0.093 0.073 0.076 3.27 YES 0.253 0.086 COMPLIANT
+TC3 0.509 0.185 0.02 0.7 0.13 0.2 0.4 1 0.130 0.108 0.101 4.72 YES 0.537 0.124 COMPLIANT
+TC4 0.549 0.162 0.02 0.7 0.14 0.2 0.4 1 0.142 0.119 0.108 4.61 YES 0.580 0.135 COMPLIANT
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 6 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 95
+==================================================================================
+1.1.2. Temporary storage area for plant material ZAV
+Table 3: ZAV contour channel summary
+ID i [m/m] B (m) H (m) z [-] Coated
+TC1 0.246 0.7 0.6 1 YES
+TC2 0.045 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Table 4: ZAV contour channel design
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Coat Q Tr=150 m3/s Hn (m) Verification
+TC1 0.131 0.246 0.02 0.7 0.050 0.2 0.3 1 0.050 0.038 0.045 3.47 YES 0.138 0.051 COMPLIANT
+TC2 0.123 0.045 0.02 0.7 0.086 0.2 0.3 1 0.086 0.067 0.071 1.82 YES 0.129 0.089 COMPLIANT
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 7 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 96
+==================================================================================
+1.2. Canals extraction areas
+The extraction areas have 2 works associated with their implementation. These are the
+evacuation channels and contour channels. These were calculated according to the criteria of
+design presented in the Hydraulic Works Report and are detailed below by
+zone.
+1.2.1. Moon Extraction Zone
+Table 5: Summary ZE Luna contour channels.
+ID i [m/m] B (m) H (m) z [-] Coated
+TC1 0.126 0.7 0.6 1 YES
+TC2 0.036 0.7 0.6 1 YES
+TC3 0.285 0.7 0.6 1 YES
+TC5 0.010 0.7 0.6 1 NO
+TC6 0.102 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Table 6: ZE Luna contour channel design.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Coat Q Tr=150 m3/s Hn (m) Verification
+TC1 0.189 0.126 0.02 0.7 0.08 0.2 0.3 1 0.084 0.066 0.070 2.88 YES 0.199 0.084 COMPLIANT
+TC2 0.377 0.036 0.02 0.7 0.18 0.2 0.4 1 0.178 0.156 0.130 2.41 YES 0.398 0.183 COMPLIANT
+TC3 0.510 0.285 0.02 0.7 0.12 0.2 0.4 1 0.117 0.096 0.093 5.33 YES 0.538 0.117 COMPLIANT
+TC5 0.044 0.010 0.02 0.7 0.07 0.2 0.3 1 0.075 0.058 0.063 0.76 NO 0.046 0.075 COMPLIANT
+TC6 0.639 0.102 0.02 0.7 0.18 0.2 0.4 1 0.180 0.159 0.131 4.03 YES 0.674 0.182 COMPLIANT
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 8 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 97
+==================================================================================
+1.2.2. Maite Extraction Area
+Table 7: Summary of ZE Maite contour channels.
+ID i [m/m] B (m) H (m) z [-] Coated
+TC1 0.
+200 0.7 0.6 1 YES
+TC2 0.115 0.7 0.6 1 YES
+TC3 0.038 0.7 0.6 1 YES
+TC4 0.224 1 0.6 1 YES
+TC5 0.071 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Table 8: ZE Maite contour channel design.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Coat Q Tr=150 m3/s Hn (m) Verification
+TC1 0.579 0.200 0.02 0.7 0.14 0.2 0.4 1 0.139 0.117 0.107 4.97 YES 0.611 0.140 COMPLIANT
+TC2 0.363 0.115 0.02 0.7 0.13 0.2 0.4 1 0.126 0.104 0.098 3.49 YES 0.383 0.126 COMPLIANT
+TC3 0.101 0.038 0.02 0.7 0.08 0.2 0.3 1 0.080 0.063 0.068 1.61 YES 0.106 0.080 COMPLIANT
+TC4 1.069 0.224 0.02 1 0.16 0.2 0.4 1 0.158 0.183 0.127 5.83 YES 1.128 0.160 COMPLIANT
+TC5 0.028 0.071 0.02 0.7 0.03 0.2 0.3 1 0.032 0.023 0.030 1.20 YES 0.030 0.032 COMPLIANT
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 9 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 98
+==================================================================================
+1.2.3. Victoria North Extraction Area
+Table 9: Summary of ZE Victoria North contour channels.
+ID i [m/m] B (m) H (m) z [-] Coated
+TC1 0.297 0.7 0.6 1 YES
+TC2 0.071 0.7 0.6 1 YES
+TC3 0.146 0.7 0.6 1 YES
+TC4 0.119 0.7 0.6 1 YES
+TC5 0.156 0.7 0.6 1 YES
+TC6 0.242 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Table 10: ZE Victoria North contour channel design.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Coat Q Tr=150 m3/s Hn (m) Verification
+TC1 0.077 0.297 0.02 0.7 0.04 0.2 0.3 1 0.041 0.030 0.037 2.54 YES 0.081 0.031 COMPLIANT
+TC2 0.082 0.071 0.02 0.7 0.06 0.2 0.3 1 0.061 0.046 0.053 1.78 YES 0.087 0.060 COMPLIANT
+TC3 0.211 0.146 0.02 0.7 0.09 0.2 0.3 1 0.086 0.068 0.072 3.10 YES 0.222 0.083 COMPLIANT
+TC4 0.097 0.119 0.02 0.7 0.06 0.2 0.3 1 0.057 0.043 0.050 2.25 YES 0.102 0.056 COMPLIANT
+TC5 0.707 0.156 0.02 0.7 0.17 0.2 0.4 1 0.167 0.145 0.124 4.87 YES 0.746 0.172 COMPLIANT
+TC6 0.146 0.242 0.02 0.7 0.06 0.2 0.3 1 0.058 0.044 0.051 3.31 YES 0.154 0.060 COMPLIANT
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 10 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 99
+==================================================================================
+1.3. Manholes and caissons at road crossings
+Next. The design of the sewers is presented using the methodology described in the hydraulic works report and using
+flood flows attached in Appendix A.
+1.3.1. Sewers design
+Table 11: T culvert design
+R
+=100 years.
+Coefficient
+Qdis Qdis Width Depth Perimeter Radius Flow
+# D h Angle Area Slope of Froude Velocity
+ID (KMZ) total unit Surface Hydraulic Wet Hydraulic Q Flow
+Sewers (m) (m) (num) (m2) i (m/m) Roughness (m/s) Fr
+(m3/s) (m3/s) (m) hm (m) Pm (m) Rh (m) (m3/s)
+n
+OAT 11-1 0.019 1 0.019 0.60 0.05 1.150 0.01 0.33 0.03 0.35 0.03 0.14 0.020 0.02 1.86 3.29 Supercritical
+OAT 7-7 0.172 1 0.172 0.60 0.13 1.953 0.05 0.50 0.09 0.59 0.08 0.17 0.020 0.17 3.75 3.93 Supercritical
+OAT 7-2 0.079 1 0.079 0.60 0.10 1.721 0.03 0.45 0.07 0.52 0.06 0.09 0.020 0.08 2.41 2.86 Supercritical
+OAT 5-11 0.126 1 0.126 0.60 0.13 1.948 0.05 0.50 0.09 0.58 0.08 0.09 0.020 0.13 2.76 2.90 Supercritical
+OAT 5-10 2.515 3 0.838 1.20 0.27 1.971 0.19 1.00 0.19 1.18 0.16 0.09 0.020 0.84 4.44 3.26 Supercritical
+OAT 2-3 0.083 1 0.083 0.60 0.10 1.724 0.03 0.46 0.07 0.52 0.06 0.10 0.020 0.08 2.53 3.00 Supercritical
+OAT 2-2 0.038 1 0.038 0.80 0.06 1.078 0.02 0.41 0.04 0.43 0.04 0.19 0.020 0.04 2.40 3.92 Supercritical
+OAT 2-1 0.556 1 0.556 1.00 0.18 1.757 0.10 0.77 0.13 0.88 0.11 0.25 0.020 0.56 5.75 5.17 Supercritical
+OAT 1-18 0.069 1 0.069 0.60 0.08 1.523 0.02 0.41 0.06 0.46 0.05 0.18 0.020 0.07 2.96 3.95 Supercritical
+OAT 1-17 0.132 2 0.066 0.60 0.07 1.342 0.02 0.37 0.04 0.40 0.04 0.45 0.020 0.07 4.00 6.06 Supercritical
+OAT 1-16 0.188 1 0.188 0.60 0.20 2.451 0.08 0.56 0.14 0.74 0.11 0.04 0.020 0.19 2.31 1.94 Supercritical
+OAT 1-11 0.073 1 0.073 0.60 0.07 1.404 0.02 0.39 0.05 0.42 0.04 0.38 0.020 0.07 3.90 5.66 Supercritical
+OAT 1-8 0.270 2 0.135 0.80 0.09 1.383 0.03 0.51 0.06 0.55 0.06 0.32 0.020 0.13
+4.21 5.36 Supercritical
+OAT 38-1 0.224 1 0.224 0.60 0.16 2.144 0.06 0.53 0.11 0.64 0.09 0.14 0.020 0.22 3.83 3.66 Supercritical
+OAT 22-5 0.297 1 0.297 0.60 0.20 2.448 0.08 0.56 0.14 0.73 0.11 0.10 0.020 0.30 3.65 3.07 Supercritical
+OAT 11-3 0.024 2 0.012 0.60 0.04 1.108 0.01 0.32 0.03 0.33 0.03 0.08 0.020 0.01 1.30 2.39 Supercritical
+OAT 1-14 5.280 3 1.760 1.20 0.33 2.199 0.25 1.07 0.23 1.32 0.19 0.18 0.020 1.76 7.04 4.64 Supercritical
+Appendix 10-13.3 B.2
+Page 11 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 100
+==================================================================================
+Coefficient
+Qdis Qdis Width Depth Perimeter Radius Flow
+# D h Angle Area Slope of Froude Velocity
+ID (KMZ) total unit Surface Hydraulic Wet Hydraulic Q Flow
+Sewers (m) (m) (num) (m2) i (m/m) Roughness (m/s) Fr
+(m3/s) (m3/s) (m) hm (m) Pm (m) Rh (m) (m3/s)
+n
+OAT 7-6 4.9 3 1.633 1.20 0.31 2.124 0.23 1.05 0.22 1.27 0.18 0.20 0.020 1.63 7.12 4.86 Supercritical
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 12 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 101
+==================================================================================
+1.3.2. Sewers verification
+Table 12: T sewer verification
+R
+=150 years.
+Qdis Qdis He - He - He -
+# Diameter Check Check Check
+ID (KMZ) unit total S F code code code H
+Sewers (m) He-4 He-5 He-6
+(m3/s) (m3/s) 4 5 6
+OAT 11-1 0.02 1 0.02 0.6 0.0000 0.08 0.143 0.123 0.158 1.2 MEETS MEETS MEETS
+OAT 7-7 0.19 1 0.19 0.6 0.0000 0.68 0.401 0.412 0.434 1.2 MEETS MEETS MEETS
+OAT 7-2 0.09 1 0.09 0.6 0.0000 0.31 0.257 0.263 0.278 1.2 MEETS MEETS MEETS
+OAT 5-11 0.14 1 0.14 0.6 0.0000 0.50 0.335 0.346 0.362 1.2 MEETS MEETS MEETS
+OAT 5-10 2.76 3 0.92 1.2 0.0000 0.58 0.735 0.757 0.794 1.8 MEETS MEETS MEETS
+OAT 2-3 0.09 1 0.09 0.6 0.0000 0.33 0.265 0.271 0.286 1.2 MEETS MEETS MEETS
+OAT 2-2 0.04 1 0.04 0.8 0.0000 0.07 0.188 0.160 0.207 1.4 MEETS MEETS MEETS
+OAT 2-1 0.61 1 0.61 1.0 0.0000 0.61 0.629 0.647 0.679 1.6 MEETS MEETS MEETS
+OAT 1-18 0.08 1 0.08 0.6 0.0000 0.27 0.241 0.245 0.261 1.2 MEETS MEETS MEETS
+OAT 1-17 0.14 2 0.07 0.6 0.0000 0.26 0.235 0.238 0.255 1.2 MEETS MEETS MEETS
+OAT 1-16 0.21 1 0.21 0.6 0.0000 0.74 0.423 0.434 0.459 1.2 MEETS MEETS MEETS
+OAT 1-11 0.08 1 0.08 0.6 0.0000 0.29 0.248 0.253 0.269 1.2 MEET MEET MEET
+OAT 1-8 0.30 2 0.15 0.8 0.0000 0.26 0.313 0.316 0.339 1.4 MEETS MEETS MEETS
+OAT 38-1 0.25 1 0.25 0.6 0.0000 0.88 0.472 0.482 0.514 1.2 MEETS MEETS MEETS
+OAT 22-5 0.33 1 0.33 0.6 0.0000 1.17 0.567 0.583 0.628 1.2 MEETS MEETS MEETS
+OAT 11-3 0.03 2 0.01 0.6 0.0000 0.05 0.128 0.102 0.141 1.2 MEETS MEETS MEETS
+OAT 1-14 5.57 3 1.86 1.2 0.1818 1.18 1.031 1.064 1.154 1.8 MEETS MEETS MEETS
+OAT 7-6 5.34 3 1.78 1.2 0.2000 1.13 0.987 1.016 1.103 1.8 MEETS MEETS MEETS
+Source: Own elaboration, 2024.
+Where:
+He-4: Circular corrugated steel manhole, front wall, wings 33g≤β ≤83g
+He-5: Circular corrugated steel manhole, bevel cut tube (without wings)
+He-6: Circular corrugated steel culvert, extended tube (without walls or wings)
+Appendix 10-13.3 B.2
+Page 13 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 102
+==================================================================================
+1.3.3. Design drawers
+Table 13: T drawer design
+R
+=100 years.
+Qdis Qdis Perimeter Radius
+Coefficient
+Flow
+# B H and Froude Velocity Slope Area
+ID (KMZ) unit total Wet Hydraulic Q Flow
+Drawers (m) (m) (m) (m2) i (m/m) Roughness (m/s) Fr
+(m3/s) (m3/s) Pm (m) Rh (m) (m3/s)
+n
+OAT 1-15 4.736 2 2.37 2.5 2 0.15 0.38 2.80 0.14 0.125 0.015 2.37 6.22 5.09 Supercritical
+OAT 1-6 11.689 3 3.90 2.5 2 0.18 0.45 2.86 0.16 0.200 0.015 3.90 8.68 6.54 Supercritical
+OAT 22-9 9.807 3 3.27 2.5 2 0.21 0.53
+2.92 0.18 0.083 0.015 3.27 6.17 4.27 Supercritical
+OAT 22-8 46.668 3 15.56 3 2 0.53 1.58 4.05 0.39 0.077 0.015 15.56 9.86 4.34 Supercritical
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 14 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 103
+==================================================================================
+1.3.1. Check drawers
+Table 14: T drawer verification
+R
+=150 years.
+Qdis Qdis He - He - He - He -
+# Diameter Check Check Check Check
+ID (KMZ) unit total B S F code code code code H
+Drawers or height He-7 He-8 He-9 He-10
+(m3/s) (m3/s) 7 8 9 10
+OAT 1-15 5.20 2 2.60 2 2.5 0.125 0.33 0.55 0.65 0.66 0.62 2.6 MEET MEET MEET MEET MEET
+OAT 1-6 12.84 3 4.28 2 2.5 0.200 0.54 0.75 0.86 0.85 0.79 2.6 MEET MEET MEET MEET MEET
+OAT 22-9 10.65 3 3.55 2 2.5 0.083 0.45 0.75 0.86 0.85 0.81 2.6 MEETS MEETS MEETS MEETS
+OAT 22-8 51.27 3 17.09 2 3 0.077 1.64 1.96 2.15 2.18 1.97 2.6 MEETS MEETS MEETS MEETS
+Source: Own elaboration, 2024.
+Where:
+He-7: Box with sharp edges, front wall and wings with 33g≤β≤83 g
+He-8: Box with sharp edges, front wall and wings with β = 17 g or 100 g
+He-9: Box with sharp edges, front wall and wings with = 0 g
+He-10: Box with beveled edges, front wall and β wings =50g
+Appendix 10-13.3 B.2
+Page 15 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 104
+==================================================================================
+Appendix A: Contour Channel Section Verification
+in HCanales
+Using the calculated verification flows, we proceed to model the sections of
+all channels, for all areas of the project, with their respective flow. The
+The results obtained are shown in Figure 1 to Figure 21 attached below:
+Neptune Disposition Zone
+Figure 1: Modeling result in HCanales for channel TC1.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 16 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 105
+==================================================================================
+Figure 17: Modeling result in HCanales for TC channel
+17.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 17 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 106
+==================================================================================
+Figure 18: Modeling result in HCanales for TC channel
+18.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 18 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 107
+==================================================================================
+Figure 19: Modeling result in HCanales for TC channel
+19.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 19 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 108
+==================================================================================
+ZAV Temporary Collection Zone
+Figure 5: Modeling result in HCanales for channel TC1.
+Source: Own elaboration, 2024.
+Figure 6: Modeling result in HCanales for channel TC2.
+Source: Own elaboration, 2024.
+Moon Extraction Zone
+Figure 7: Modeling result in HCanales for channel TC1.
+Appendix 10-13.3 B.2
+Page
+20 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 109
+==================================================================================
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 21 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 110
+==================================================================================
+Figure 8: Modeling result in HCanales for channel TC2.
+Source: Own elaboration, 2024.
+Figure 9: Modeling result in HCanales for channel TC3.
+Source: Own elaboration, 2024.
+Figure 10: Modeling result in HCanales for channel TC5.
+Appendix 10-13.3 B.2
+Page 22 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 111
+==================================================================================
+Source: Own elaboration, 2024.
+Figure 11: Modeling result in HCanales for channel TC6.
+Source: Own elaboration, 2024.
+Maite Extraction Area
+Figure 12: Modeling result in HCanales for channel TC1.
+Appendix 10-13.3 B.2
+Page 23 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 112
+==================================================================================
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 24 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 113
+==================================================================================
+Figure 13: Modeling result in HCanales for channel TC2.
+Source: Own elaboration, 2024.
+Figure 14: Modeling result in HCanales for channel TC3.
+Source: Own elaboration, 2024.
+Figure 15: Modeling result in HCanales for channel TC4.
+Appendix 10-13.3 B.2
+Page 25 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 114
+==================================================================================
+Source: Own elaboration, 2024.
+Figure 16: Modeling result in HCanales for channel TC5.
+Source: Own elaboration, 2024.
+Victoria North Extraction Zone
+Figure 17: Modeling result in HCanales for channel TC1.
+Appendix 10-13.3 B.2
+Page 26 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 115
+==================================================================================
+Source: Own elaboration, 2024.
+Figure 18: Modeling result in HCanales for channel TC2.
+Source: Own elaboration, 2024.
+Figure 19: Modeling result in HCanales for channel TC3.
+Appendix 10-13.3 B.2
+Page 27 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths
+==================================================================================
+PAGE 116
+==================================================================================
+Source: Own elaboration, 2024.
+Figure 20: Modeling result in HCanales for channel TC4.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 28 of 29 Design and verification of contour channels, caissons and culverts
+Mine Development Project
+Clay Extraction System for Concentrate Production
+of rare earths
+==================================================================================
+PAGE 117
+==================================================================================
+Figure 21: Modeling result in HCanales for channel TC5.
+Source: Own elaboration, 2024.
+Appendix 10-13.3 B.2
+Page 29 of 29 Design and verification of contour channels, caissons and culverts
+Mining Development Project for Clay Extraction for the Production of Concentrate
+of rare earths

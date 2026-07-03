@@ -1,0 +1,977 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-13
+Sectoral Environmental Permit
+PAS N°157
+EIA "Mining Development Project
+of Clay Extraction for
+Concentrate Production
+Rare Earths
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Environmental Impact Assessment
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+Annex 10.13
+Sectoral Environmental Permit No. 157
+Date: June, 2024
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 10.13
+Sectoral Environmental Permit No. 157
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+FMR GCB AVF
+0 01-31-2024 Project Manager
+Project Engineer Senior Engineer
+Engineering
+Review Date Prepared Reviewed Approved
+Annex 10.13
+Page 2 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 4
+==================================================================================
+Index
+1. Introduction ................................................................................................... 7
+2. Technical and Formal Contents that Accredit Compliance with PAS 157 ..... 9
+2.1. Description of the location of the Work ........................................... 9
+2.1.1. Identification of Channels ........................................................................... 12
+2.1.2. UTM Coordinates of the Works and Description of the sector in which they are
+the Works will be located ................................................................................................ 12
+2.1.3. Description of the General Characteristics of the Channel 100 meters before
+and after the modification ................................................................................... 18
+2.2. Description of the Work and its Phases ........................................................................... 19
+2.2.1. Collection and conduction works ........................................................... 19
+2.2.2. Channel Sizing ........................................................................... 22
+2.23. Unloading works for Canals ........................................................... 24
+2.2.4. Description of the construction, operation and abandonment stage yes
+corresponds ........................................................................................................... 25
+23. Estimation of the Deadlines and Construction Periods of the Works ................ 26
+2.4. Topographical floor plan and profiles, georeferenced, of the work and the area
+likely to be affected ........................................................................................... 28
+2.5. Memory of the calculation of the hydrological, hydraulic, drag study
+sediments and scour, for the situation with and without project, according to
+applicable................................................................................................................... 28
+2.5.1. Hydrological Study ................................................................................... 28
+2.5.2. Hydraulic Study ................................................................................... 28
+2.5.3. Study of Sediment Entrainment and Undermining ................................................... 28
+2.6. Monitoring Plan ........................................................................................... 29
+2.7. Measures to Minimize the Effects on Water Quality,
+Downstream of the Construction Site of the Works. ................................................ 29
+2.7.1. About the mineral present in the place ....................................................... 29
+2.7.2. Characteristics of processed clays from the plant...... 30
+2.7.3. On the deposit formed by process clays
+adas.................... 31
+Annex 10.13
+Page 3 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 5
+==================================================================================
+2.7.4. Water quality monitoring plan during the phase of
+operation 31
+2.8. Contingency Plan ................................................................................... 34
+2.9. Emergency Plan ................................................................................................... 35
+Annex 10.13
+Page 4 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 6
+==================================================================================
+Figures
+Figure - PAS 2-1. General location of the project, UTM WGS 84/Z18S. ....................... 10
+Figure - PAS 2-2: Project works referring to Extraction, Disposal and
+Vegetable Collection, UTM WGS 84/ H18S. ............................................................................ 11
+Figure - PAS 2-3: Drainage Network of the area where the Project is located, UTM WGS
+84/H18S. ....................................................................................................................... 12
+Figure - PAS 2-4: Map location of the contour channels for the Maite ZE, UTM
+WGS 84/H18S. ................................................................................................................... 13
+Figure - PAS 2-5: Map location of the contour channels for the Victoria North ZE,
+UTM WGS 84/H18S. ....................................................................................................... 14
+Figure - PAS 2-6: Map location of the contour channels for the Luna ZE, UTM
+WGS 84/H18S. ................................................................................................................... 15
+Figure - PAS 2-7: Map location of the contour channels for the Neptune ZD,
+UTM WGS 84/H18S. ....................................................................................................... 16
+Figure - PAS 2-8: Map location of contour channels for ZAV, UTM WGS 84/
+H18S. ................................................................................................................................... 17
+Figure - PAS 2-9: Proposed contour channel type scheme. ............................................ 20
+Figure - PAS 2-10: Diagram of energy dissipating stands. .................................... 20
+Figure - PAS 2-11: Evacuation channel discharge type diagram in a contour channel. 21
+Figure - PAS 2-12: Type diagram of contour channel discharge work. ................... 24
+Figure - PAS 2-13: Monitoring points. ....................................................................... 33
+Tables
+Table - PAS 2-1: Centroid coordinates of each Project Zone. ........................... 11
+Table - PAS 2-2: Location and length of the contour channels for the zone of
+Maite extraction. ........................................................................................................... 13
+Table - PAS 2-3: Location and length of the contour channels for the zone of
+Victoria North extraction. ................................................................................................... 14
+Table - PAS 2-4: Location and length of contour channels for the area of
+Moon extraction. ................................................................................................................... 15
+Table - PAS 2-5: Location and length of contour channels for the area of
+Neptune disposition. ................................................................................................... 16
+Table - PAS 2-6: Location and length of the contour channels for the collection area
+vegetable. ........................................................................................................................... 17
+Table - PAS 2-7: Summary of contour channels for ZE Maite.............................................. 22
+Annex 10.13
+Page 5 of 35
+Sectoral Environmental Permit No. 157
+Clay Extraction Mining Development Project for Prod
+uction of Rare Earth Concentrate
+==================================================================================
+PAGE 7
+==================================================================================
+Table - PAS 2-8: Summary of contour channels for ZE Victoria Norte. ................... 22
+Table - PAS 2-9: Summary of contour channels for ZE Luna. .................................... 22
+Table - PAS 2-10: Summary of contour channels for ZD Neptune. ........................ 23
+Table - PAS 2-11: Summary of contour channels for ZAV. ....................................... 23
+Table - PAS 2-12: ZE construction phase schedule (Luna and Victoria Norte). ..... 26
+Table - PAS 2-13: ZD Neptuno and ZAV construction phase schedule. .................... 26
+Table - PAS 2-14. Operation phase schedule ................................................................ 27
+Table - PAS 2-15: ZD Neptuno and ZAV operation phase schedule. ........................... 27
+Table - PAS 2-16: Coordinates of the monitoring points. ........................................ 32
+Annex 10.13
+Page 6 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 8
+==================================================================================
+1. Introduction
+The Mining Development Project for the Extraction of Clays for the Production of
+Rare Earth Concentrate, hereinafter, interchangeably, the “Project”, corresponds
+to the set of parts, works and actions that will allow the construction, operation and
+closure of a mining site for the extraction and processing of clays, material
+present in the area, which, due to natural effects, is highly weathered,
+with the presence of rare earths in clay minerals. The Project will be developed
+mainly in the commune of Penco, Province of Concepción, Biobío Region, without
+damage that part of the works are located in the commune of Concepción, on the border
+with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three
+(3) clay extraction zones (ZE Victoria Norte, ZE Luna, ZE Maite), one (1) zone of
+provision for ballast and processed clays (ZD Neptuno), one (1) storage area
+topsoil (ZAV), a clay processing plant (the “Plant”), a stockpile
+for the temporary collection of material prior to processing, an electrical line and its
+connection to existing line and the construction of internal roads to access the
+different areas. The Processing Plant will have a capacity to process up to
+320 tons/hour of material to produce Rare Earth concentrate. Furthermore, it
+considers the modification of an existing section of approximately 1.22 kilometers
+of the Hualpén – San Fernando oil pipeline, property of ENAP, reason for the exploitation of
+the ZE Maite. The Project in turn includes the implementation of temporary works
+corresponding to work facilities for the construction and enabling of the
+Project works.
+In Chapter 10 Applicable Environmental Regulatory Compliance Plan, a
+an analysis of Content Only Sectoral Environmental Permits
+Environmental and Mixed, established in Title VII of the System Regulations
+of Environmental Impact Assessment (D.S. Nº40/2012 of the Ministry of the Environment
+Environment), where the applicability of the Mixed Sectoral Environmental Permit was identified
+of article 157, whose text provides the following:
+“Article 157.- Permission to carry out channel regularization or defense works
+natural.
+"The natural or legal persons who wish to make the modifications referred to
+referred to in article 41 of this Code, they will present the projects corresponding to the
+Annex 10.13
+Page 7 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 9
+==================================================================================
+General Directorate of Water, for prior approval, applying to the presentation the
+procedure provided for in paragraph 1 of this Title. When it comes to works of
+regularization or defense of natural channels, the projects regarding
+ives must count,
+In addition, with the approval of the Department of River Works of the Ministry of Works
+Public».
+The requirement for its granting is that it does not affect the life or health of the inhabitants,
+through the non-significant alteration of runoff and erosive processes
+nature of the channel and the non-pollution of the waters.
+The technical and formal contents that must be presented to accredit your
+compliance are the following:
+a) Description of the location of the Work.
+b) Description of the work and its phases.
+c) Estimation of the deadlines and construction periods of the works.
+d) Topographic plan and profiles, georeferenced, of the work and the area
+likely to be affected.
+e) Memory of the calculation of the hydrological, hydraulic, and drag study.
+sediments and scour, for the situation with and without project, according to
+correspond.
+f) Monitoring Plan.
+g) Measures aimed at minimizing the effects on the quality of water, water
+below the construction site of the works.
+h) Contingency Plan.
+i) Emergency plan, if applicable.
+Annex 10.13
+Page 8 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 10
+==================================================================================
+2. Technical and Formal Contents that Accredit the
+Compliance with PAS 157
+Pursuant to the requirements of article 157 of the SEIA Regulations, below
+The technical and formal contents are presented that allow accreditation of compliance.
+of the requirements of the aforementioned PAS 157, which applies to contour channels and construction works.
+discharge towards streams in the Disposal Zones, Plant Soil Collection Zones
+and Project Extraction Zones.
+2.1. Description of the location of the Work
+The Project will be located in a rural sector, in the communes of Penco and Concepción,
+Province of Concepción, Biobío Region. The intervention area is a nearby area
+to the coast, essentially used for forestry.
+According to the DGA Classification (Inventory of basins, sub-basins and
+subsubbasins of Chile, DGA, 2014), the intervention area is located in the basin
+Coastal and Islands between Rio Itata and Rio Bio Bío (Basin Code 082) and between the sub-basins
+Coastal Río Pingueral and Río Andalién (Subbasin code 0821). These basins are
+of the Coastal Exorheic type.
+Within these small coastal basins, some have permanent runoff
+while others have small estuaries and water outcrops
+exclusively in the winter months, after storms. According to him
+document “Diagnosis and classification of courses and bodies of water according to objectives
+of quality, Itata River Basin”, DGA, 2004, the regime of these basins is clearly
+rainfall, marking high flows in the months associated with the southern winter and low
+in the dry season.
+Annex 10.13
+Page 9 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 11
+==================================================================================
+The Project considers a disposal, storage and extraction area in some basins
+coastal areas of the sector, modifying the natural drainage network of the channels. With the aim
+to restore the runoff generated by pluvial events to the channels of the sector,
+considers the construction of evacuation and contour channels in some of the areas
+intervened by the Project.
+Figure - PAS 2-1 shows the general location of the project, while the
+Figure - PAS 2-2 shows the location of the different extraction areas,
+plant disposition and collection, as well as internal roads and facilities.
+Figure - PAS 2-1. General location of the project, UTM WGS 84/Z18S.
+Source: Own elaboration, 2024.
+Table - PAS 2.1 details the coordinates of the centroids of the extraction zones,
+disposition and collection of vegetal soil, while Figure - PAS 2-2 presents its
+location on the map:
+Annex 10.13
+Page 10 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Earth Concentrate
+ace Rare
+==================================================================================
+PAGE 12
+==================================================================================
+Table - PAS 2-1: Centroid coordinates of each Project Zone.
+WGS 84 UTM 18S coordinates
+Type Name
+East North
+Neptune disposal zone 679,978 5,929,528
+Collection area Vegetable soil collection area 680,651 5,929,438
+Luna extraction area 681,563 5,928,804
+Maite extraction area 680,497 5,928,446
+Victoria North extraction zone 681,246 5,931,015
+Source: Own elaboration, 2024.
+Figure - PAS 2-2: Project works referring to Extraction, Disposal and
+Vegetable Collection, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 11 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 13
+==================================================================================
+2.1.1. Channel Identification
+Regarding the location of the channels, Figure - PAS 2-3 shows a general plan
+of the natural drainage network in the area of influence of the Project, the layout of the Estero
+Penco as a reference, the different areas of disposal, extraction and collection of plants and
+the routes surrounding the project:
+Figure - PAS 2-3: Drainage Network of the area where the Project is located, UTM WGS
+84/H18S.
+Source: Own elaboration, 2024.
+2.1.2. UTM Coordinates of the Works and Description of the sector in the
+that the Works will be located
+The works for which PAS 157 is applicable correspond to
+contour, connection and discharge works, which will be found around the
+extraction areas, collection of plant material and disposal.
+Below are the coordinates of the start and end points of each section.
+channel, for each of the project areas and their location on the map:
+Annex 10.13
+Page 12 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 14
+==================================================================================
+Table - PAS 2-2: Location and length of the contour channels for the zone of
+Maite extraction.
+Area
+UTM Coordinates Extraction WGS 84/ Z18S
+Length
+Maite
+section (m)
+Channel Start End
+East North East North Contour
+TC1 680,498 5,928,816 680,384 5,928,725 175
+TC2 680,339 5,928,645 680,238 5,928,513 174
+TC3 680,135 5,928,400 680,208 5,928,499 131
+TC4 680,836 5,928,375 680,512 5,928,157 456
+TC5 680,755 5,928,753 680,742 5,928,746 14
+Source: Own elaboration, 2024.
+Figure - PAS 2-4: Map location of the contour channels for the Maite ZE,
+UTM WGS 84/H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 13 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 15
+==================================================================================
+Table - PAS 2-3: Location and length of the contour channels for the zone of
+Victoria North extraction.
+Area
+Extraction
+UTM WGS 84/ Z18S coordinates
+Victory Length
+North section (m)
+Channel Start End
+East North East North Contour
+TC1 681,284 5,931,440 681,232 5,931,417 64
+TC2 681,389 5,931,456 681,511 5,931,412 141
+TC3 681,465 5,931,151 681,527 5,931,374 260
+TC4 681,473 5,931,058 681,458 5,930,907 194
+TC5 681,242 5,930,724 681,460 5,930,873 289
+TC6 681,045 5,930,590 681,034 5,930,704 124
+Source: Own elaboration, 2024.
+Figure - PAS 2-5: Map location of the contour channels for the Victoria ZE
+North, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 14 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 16
+==================================================================================
+Table - PAS 2-4: Location and length of contour channels for the area of
+Moon extraction.
+Area
+UTM Coordinates Extraction WGS 84/ Z18S
+Length
+Moon
+section (m)
+Channel Start End
+East North Contour
+East North
+TC1 681,565 5,928,965 681,453 5,928,901 135
+TC2 681,421 5,928,748 681,453 5,928,901 167
+TC3 681,453 5,928,901 681,417 5,928,866 53
+TC5 681,719 5,928,900 681,745 5,928,905 22
+TC6 681,676 5,928,724 681,454 5,928,653 265
+Source: Own elaboration, 2024.
+Figure - PAS 2-6: Map location of the contour channels for the Luna ZE, UTM
+WGS 84/H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 15 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 17
+==================================================================================
+Table - PAS 2-5: Location and length of contour channels for the area of
+Neptune disposition.
+Area
+UTM Coordinates Arrangement WGS 84/ Z18S
+Length
+Neptune
+section (m)
+Channel Start End
+East North East North Contour
+TC1 679,667 5,929,596 679,874 5,930,003 486
+TC2 679,958 5,929,893 679,874 5,930,003 150
+TC3 680,041 5,929,817 680,177 5,929,870 146
+TC4 680,266 5,929,566 680,177 5,929,870 321
+Source: Own elaboration, 2024.
+Figure - PAS 2-7: Map location of the contour channels for the Neptune ZD,
+UTM WGS 84/H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 16 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 18
+==================================================================================
+Table - PAS 2-6: Location and length of contour channels for the area of
+vegetable collection.
+Area
+Collection of UTM Coordinates WGS 84/ Z18S
+Length
+Vegetable
+section (m)
+Channel Start End
+East North East North Contour
+TC1 680,553 5,929,378 680,579 5,929,552 179
+TC2 680,559 5,929,348 680,607 5,929,304 66
+Source: Own elaboration, 2024.
+Figure - PAS 2-8: Map location of contour channels for ZAV, UTM WGS
+84/H18S.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 17 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 19
+==================================================================================
+2.1.3. Description of the General Characteristics of Channel 100
+meters before and after modification
+In relation to the general hydrological characteristics of the basins, according to
+antecedents present in the Hydrogeological Study of the Bío Bío Basin (DGA, 2012),
+could observe that, due to its coastal location, the regime is purely rainfall. The
+Drainage patterns are of the dendritic type, which warn that these are soils
+with a fine, clayey texture or with a superficial rocky layer, which causes a low
+permeability, facilitating the runoff of precipitation and with it the erosion of the
+pedological profile, with subsequent formation of channels that shape the structure
+of taxpayers to the main basin.
+There is no built infrastructure or singularities located within a radius of 300 (m)
+regarding the location of the future contour channels contemplated by the
+project. The basins associated with the extraction and disposal areas have channels
+with permanent flows of low load in the low areas, and channels without flows
+permanent in the upper areas of their basins, being mostly streams
+where rainwater drains in the rainy season.
+The areas are found with extensive cover of quila bushes and some shrubs,
+reducing access in certain sectors. Beyond the banks, the slopes
+increase and the vegetation is of introduced origin, which closes the visual field with
+extensive forest plantations of eucalyptus and radiata pine.
+For the disposal and extraction areas there are no natural singularities or
+built infrastructure that conditions the hydraulic axis in the intervention area
+of the project.
+Annex 10.13
+Page 18 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 20
+==================================================================================
+2.2
+. Description of the Work and its Phases
+The scope of this PAS is the modification of flow directions,
+coming from streams that have been intervened to be part of the areas of
+extraction, collection and disposal. It is in these areas where construction is planned.
+of different works that allow capturing the runoff generated and returning it to the
+nearest basins and/or streams. These works will correspond to channels of
+contour, discharge works and splices.
+2.2.1. Collection and conduction works
+2.2.1.1. Contour Channels
+The contour channels are located on the edges of the Zones of
+Extraction, disposal and plant collection; Its function is to direct the contributions of
+surface runoff from surrounding hills and streams, and what the different
+corresponding evacuation channels.
+The layout of these channels is consistent with the topography of the Extraction areas,
+Disposal and Collection, registering in some cases pending rates greater than 1%.
+To avoid erosion of the contour channels, the following four are considered:
+measurements:
+• They will be covered with concrete, stones arranged irregularly and system
+stable construction (with acma mesh or technically similar solution). The
+coated can also be changed by technically
+similar, according to what is defined in subsequent phases of detailed engineering).
+• In high slope sections, heat dissipative steps will be implemented.
+energy, also made of concrete with acma-type mesh and stones arranged in a
+irregular (or technically similar solution).
+• The contour canals will evacuate their waters as soon as the topography permits.
+possible, in order to minimize the flow they carry. This is done to
+Prevent them from transporting large flows (less than 2 m3/s). It is considered the
+natural form of the drainage network, in order to produce the least possible impact.
+As stated above, energy is dissipated through steps and falls
+that will stop the flow, decreasing its speed, energy and consequently
+erosive capacity.
+Figure - PAS 2-9 shows a conceptual diagram of the typical section of the
+contour, while Figure - PAS 2-10 the steps planned for unloading areas:
+Annex 10.13
+Page 19 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 21
+==================================================================================
+Figure - PAS 2-9: Proposed contour channel type scheme.
+Source: Own elaboration, 2024.
+Figure - PAS 2-10: Diagram of energy dissipating stands.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 20 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 22
+==================================================================================
+The connection work that joins the evacuation channels with the contour channels is
+presented below:
+Figure - PAS 2-11: Evacuation channel discharge type diagram in a contour channel.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 21 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 23
+==================================================================================
+2.2.2. Channel Sizing
+In accordance with the criteria and methodologies indicated above, in Appendix 10-13-3 –
+Hydraulic Works, summary tables are presented with the dimensioning of the channels
+contour in the Extraction, Plant Collection and Disposal Zones.
+2.2.2.1. Maite Extraction Area
+Table - PAS 2-7: Summary of contour channels for ZE Maite.
+ID Q design (m3/s) i [m/m] B (m) H (m) z [-] Coated
+TC1 0.579 0.200 0.7 0.6 1 YES
+TC2 0.363 0.115 0.7 0.6 1 YES
+TC3 0.101 0.038 0.7 0.6 1 YES
+TC4 1.069 0.224 1.0 0.6 1 YES
+TC5 0.028 0.071 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+2.2.2.2. Victoria North Extraction Zone
+Table - PAS 2-8: Summary of contour channels for ZE Victoria Norte.
+ID Q design (m3/s) i [m/m] B (m) H (m) z [-] Coated
+TC1 0.0765 0.297 0.7
+0.6 1 YES
+TC2 0.0823 0.071 0.7 0.6 1 YES
+TC3 0.2106 0.146 0.7 0.6 1 YES
+TC4 0.0965 0.119 0.7 0.6 1 YES
+TC5 0.7071 0.156 0.7 0.6 1 YES
+TC6 0.1456 0.242 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+2.2.23. Moon Extraction Zone
+Table - PAS 2-9: Summary of contour channels for ZE Luna.
+ID Q design (m3/s) i [m/m] B (m) H (m) z [-] Coated
+TC1 0.189 0.126 0.7 0.6 1 YES
+TC2 0.3769 0.036 0.7 0.6 1 YES
+TC3 0.5099 0.285 0.7 0.6 1 YES
+TC5 0.044 0.010 0.7 0.6 1 NO
+TC6 0.639 0.102 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 22 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 24
+==================================================================================
+2.2.2.4. Neptune Disposition Zone
+Table - PAS 2-10: Summary of contour channels for ZD Neptune.
+ID Q design (m3/s) i [m/m] B (m) H (m) z [-] Coated
+TC1 1.375 0.121 0.7 0.6 1 YES
+TC2 0.240 0.133 0.7 0.6 1 YES
+TC3 0.509 0.185 0.7 0.6 1 YES
+TC4 0.549 0.162 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+2.2.2.5. Vegetable Collection Zone (ZAV)
+Table - PAS 2-11: Summary of contour channels for ZAV.
+ID Q design (m3/s) i [m/m] B (m) H (m) z [-] Coated
+TC1 0.131 0.246 0.7 0.6 1 YES
+TC2 0.123 0.045 0.7 0.6 1 YES
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 23 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 25
+==================================================================================
+2.23. Download works for Canals
+The contour canals will discharge the waters to surrounding streams through
+corrugated galvanized steel gutters (or technically similar solution
+competent), according to the typical scheme presented in Figure - PAS 2-12.
+Figure - PAS 2-12: Type diagram of contour channel discharge work.
+Source: Own elaboration, 2024.
+Annex 10.13
+Page 24 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 26
+==================================================================================
+2.2.4. Description of the construction, operation and abandonment stage
+if applicable
+As mentioned above, contour channels will be built
+prior to the start of the operation of each work, to the extent that the
+intervention fronts of these, given that the waters of the basins that will be
+modified by the extraction, plant collection and disposal areas will be captured
+through evacuation channels that will be built progressively according to
+deposition or extraction banks are developed, according to the work of the Project in which
+are located.
+These evacuation channels will be connected through splices to the drainage channels.
+corresponding contour. These channels will have a definitive coating with
+concrete, irregularly arranged stones and stable construction system (with
+acma mesh or technically similar solution).
+For its part, the global concept of managing rainwater on the reservoir,
+corresponds to the one used in the sanitation of rainwater on mountain roads,
+consisting of discharging the water into lateral streams so as not to
+concentrate the flows and ensure the sanitation and stability of the tank.
+For the closing phase of the project, no new conduction works are contemplated either.
+contour channel type, because the waters will be able to drain naturally through
+the works already built.
+Annex 10.13
+Page 25 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 27
+==================================================================================
+23. Estimation of Construction Terms and Periods
+the works
+Construction phase
+During the construction phase, the escarpment of the Victoria Norte and Luna ZE is considered
+during the last 6 months of the aforementioned phase, as detailed in the following
+table.
+Table - PAS 2-12: C
+ZE construction phase schedule (Luna and Victoria Norte).
+Source: Own elaboration.
+The authorization of the Neptuno ZD is considered during the first 8 months of the phase
+construction of the Project, while the ZAV considers the removal of vegetation and
+conditioning the land for approximately 1 month, as detailed in
+the following table.
+Table - PAS 2-13: ZD Neptuno and ZAV construction phase schedule.
+Source: Own elaboration.
+Operation phase
+The operation phase of the ZE is considered over a period of 6 years, where in each
+extraction area, hydraulic works will be enabled in order to capture the
+generated runoff and return it to the nearest basins and/or streams. sayings
+Works will correspond to evacuation channels, contour channels and, when warranted, bilges.
+Annex 10.13
+Page 26 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 28
+==================================================================================
+pumping, which contemplates the impulsion by means of electric pumps to evacuate
+the accumulation of rainwater in the contour channels.
+Table - PAS 2-14. Operation phase schedule
+Source: Own elaboration.
+Regarding the operation of the ZD Neptuno and ZAV, these will be operational
+for a period of 6 years, as detailed in Table - PAS 2-15.
+Table - PAS 2-15: ZD Neptuno and ZAV operation phase schedule.
+Source: Own elaboration.
+Closing phase
+For the ZE, ZD and ZAV platforms, reforestation with tree species is considered.
+natives, the following stages are considered:
+• Incorporation of a mixture of surface scarp and plant material.
+• Sowing with herbaceous seeds.
+• Planting shrubs.
+• Planting of tree species.
+A quarterly monitoring frequency is estimated during the first two years and
+semester starting in the third year. Achieving a cover with vegetation will ensure
+the stability of revegetation and erosion control.
+Annex 10.13
+Page 27 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Z D
+Yes
+á r e a
+N e p tu n
+Z A V
+to c k p ile
+or
+M
+d
+A c t iv ity
+is pos ition of clay
+life
+T h e r e a s t
+(E s c a r p e )
+in e r a l / A p p o s i c i o n d
+clay s la va d a s
+2 0 2 6 2 0 2 7 2 0 2 8 2 0 2
+A
+9
+ñ or s
+2 0 3 0 2 0 3 1 2 0 3 2 2 0 3 3
+==================================================================================
+PAGE 29
+==================================================================================
+2.4. Topographical floor plan and profiles, georeferenced,
+of the work and the area likely to be affected
+The topographic plans and profiles are presented in Appendix 10-13.1.
+2.5. Memory of the calculation of the hydrological, hydraulic,
+sediment drag and scour, for the
+situation with and without project, as appropriate
+2.5.1. Hydrological Study
+The hydrological study is presented in Annex 10-13.2 – Hydrological Report.
+2.5.2. Hydraulic Study
+The hydraulic study is presented in Annex 10-13.3 – Hydraulic Report,
+also complemented by Annex 10-13.3 B.1 – Runoff Calculation and Annex 10-
+13.3 B.2 – Design of Channels and Sewers.
+2.5.3. Study of Sediment Entrainment and Undermining
+For the design of hydraulic works, the erosion speed was considered as a
+parameter to decide whether to line the contour channels or not. This speed of
+erosion was obtained from the Highway Manual Vol. 3, table 3,703,301 B for a terrain of
+silty clay type. Finally, all contour channels, except channel TC5
+from the Luna extraction zone, will be coated under the aforementioned criteria
+previously.
+Annex 10.13
+Page 28 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 30
+==================================================================================
+2.6. Monitoring Plan
+Water quality monitoring associated with the Neptuno disposal zone is considered.
+given that in this area both the waste extracted from the z
+extraction chambers,
+such as processed clays, coming from the Plant process.
+Water quality monitoring is not considered for extraction areas, due to
+that in these areas only material extraction will be carried out. It is also not considered
+monitoring the vegetal soil collection areas, and in these areas there will be
+temporarily only the soil scarp to be carried out in the extraction areas and
+disposal areas.
+2.7. Measures to Minimize the Effects on the
+Water Quality, Downstream of the Place of
+Construction of the Works.
+Below are the characteristics of the material to be deposited in the loading area.
+provision and measures aimed at minimizing the effects on the quality of the
+waters, particularly referring to water quality monitoring after the last
+ore washing in the processing plant.
+2.7.1. About the mineral present in the place
+Considering the lithological units found in the Project area and the
+mineralogy present in these, it can be concluded that the rocks and clays of Penco are not
+acidity generators since they do not contain sulfide minerals.
+In relation to the above, it should be noted that the acidic waters common in other types of
+mining originate through the chemical and biological oxidation of pyrite (FeS). This
+2
+phenomenon occurs when rocks containing these sulfides come into contact
+with oxygen (air or water) under suitable conditions.
+The units found in the Project development zones correspond to
+2 types; intrusive rocks of the Costa Batholith, which are locally grouped in the
+Penco Plutonic Complex, and metamorphic rocks, called Metapelites.
+During the studies of the materials present in the project area, they were reviewed
+the current “in situ” natural conditions and processes of the saprolite that will be exploited,
+concluding that it does not present any type of water or drainage formation.
+acids in the project area or surrounding areas.
+Annex 10.13
+Page 29 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 31
+==================================================================================
+In the case of the Clay Extraction Project for the Production of Earth Concentrate
+Rare, the mineralogical composition of the material that will be extracted, processed in the plant
+and subsequently taken to the disposal areas, is quite homogeneous and is
+composed mainly of clays (40%), quartz (30%), micas (10%) and oxides of
+iron (9%). It does not present any type of sulfides (e.g. Pyrite), which, as mentioned with
+above is the main producer of acidity and formator of acidic waters when
+There are environmental conditions for this.
+On the other hand, the Project will use vehicles in good condition and with technical inspections.
+up to date, considering carrying out maintenance, thus minimizing the occurrence
+of any accidental spillage of fuel or hydrocarbons into streams.
+Annex 1-9 of Chapter 1 Project Description of the EIA includes the
+Geochemical characterization of the clay material to be processed (zone of
+extraction).
+2.7.2. Characteristics of the processed clays from the
+plant
+Regarding the material that has passed through the plant, processed clays, which will be disposed
+in the disposal areas, in the operation phase within the Plant process, the
+material will be washed to ensure its chemical stability, recovering the water from
+washing and the reagents used in the process to be recirculated in it. The
+washing process, contributes to the chemical stability for the processed clays.
+In relation to what is indicated about the characteristics of the washing water, as part of
+the operation of the processing plant, quality monitoring is not contemplated
+of water from the washing stage, given that the washing is done in a press filter and then
+goes to the recovery plant, leaving the water in a closed circuit without
+discard. For more information about the geochemical characteristics of the material
+of the Disposal zones, see Annex 10.3 PASM 136 of this Impact Study
+Environmental.
+Considering the information presented, no impact on quality is expected.
+of water in disposal areas in r
+relationship with the rainwater that will infiltrate
+these deposits.
+Annex 10.13
+Page 30 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 32
+==================================================================================
+2.7.3. About the deposit formed by the processed clays
+In the disposal area, it will be filled, for final disposal, with sterile from
+from the extraction areas, the clays processed in the Plant and surplus material from the
+conditioning and/or construction of roads.
+The processed material coming from the Plant, which will be collected in the areas
+disposal does not correspond to tailings, given that, by not going through
+comminution, does not reach such a granulometry that the material to be disposed corresponds
+to a “suspension of solids in liquids forming a pulp.” In the process of
+obtaining the rare earths, before disposing of the processed clays, these are
+subjected to washing, obtaining a solid material that will have a content
+humidity around 20%. The material will be arranged in layers, which will be
+compacted at the time of disposal, so that they reach the conditions
+geotechnical techniques required for its stability. For more information about it
+to the chemical and physical stability of the disposal areas, see Annex 10.3 PASM 136.
+The topsoil layer will be steepened before the start of the operation of the ZD and the
+Exposed surface will be compacted together with the deposited material.
+2.7.4. Water quality monitoring plan during the phase
+of operation
+For the disposal area, water quality monitoring is considered at points
+prior to the discharge area to the streams or natural channels.
+The parameters that will be monitored will be those established in the Chilean Standard of
+Irrigation NCh 1333, measurement of Ammonium and Total Nitrogen will also be included.
+For the Disposal Zones, during the operation phase, quality monitoring of
+waters will have a monthly frequency during the first three (3) years, to
+subsequently carry out monitoring on a quarterly basis.
+Based on the results, once the operation phase is completed and in accordance with the
+that is established sectorally in the Closure Plan, the frequency of
+monitoring for the closure and post-closure phase.
+Below are the monitoring points proposed for channels.
+individualized within the area of influence of the Project (Appendix 10-13-2 – Report
+of Hydrology). It should be noted that the points where the monitoring of
+water quality parameters (Temperature, pH, Dissolved Oxygen, Conductivity
+Annex 10.13
+Page 31 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 33
+==================================================================================
+electricity, Total Dissolved Solids, Oils and Greases) do not consider any work by
+build within the channel section, from which the sample to be analyzed will be extracted
+(if there is flow at the time of monitoring):
+Table - PAS 2-16: Coordinates of the monitoring points.
+WGS84 Coordinates
+Control Point Typology ID
+H18S
+East North
+Stream basin control points
+CAO1 679,922 5,930,209 tributaries to the Andalién River.
+Stream basin control points
+CAO2 676,870 5,928,247 tributaries to the Andalién River.
+Stream basin control points
+CAO3 679,574 5,927,717 tributaries to the Andalién River.
+Stream basin control points
+CAO4 679,408 5,924,733 tributaries to the Andalién River.
+Stream basin control points
+CAO5 680,634 5,929,983 tributaries to the Andalién River.
+Stream basin control points
+CAO6 680,556 5,929,598 tributaries to the Andalién River.
+Stream basin control points
+CAO7 680,183 5,929,882 tributaries to the Andalién River.
+Stream basin control points
+CAO8 679,945 5,930,064 tributaries to the Andalién River.
+Stream basin control points
+CAO9 680,029 5,928,601 tributaries to the Andalién River.
+Stream basin control points
+CAO10 680,373 5,927,946 tributaries to the Andalién River.
+Work control points and crossings
+CAO11
+680,378 5,931,251 streams tributaries to Estero Penco.
+Work control points and crossings
+CAO12 678,963 5,932,507 streams tributaries to Estero Penco.
+Work control points and crossings
+CAO13 682,579 5,930,492 streams tributaries to Estero Penco.
+Work control points and crossings
+CAO14 682,084 5,930,610 streams tributaries to Estero Penco.
+Work control points and crossings
+CAO15 680,972 5,931,279 streams tributaries to Estero Penco.
+Work control points and crossings
+CAO16 681,326 5,930,702 streams tributaries to Estero Penco.
+Source: Own elaboration.
+Annex 10.13
+Page 32 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 34
+==================================================================================
+Figure - PAS 2-13: Monitoring points.
+Source: Own elaboration.
+Annex 10.13
+Page 33 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 35
+==================================================================================
+2.8. Contingency Plan
+As a contingency plan, a pollution prevention plan will be established.
+channel where general measures are provided, detailed below:
+• Training of Workers regarding the importance of water resources
+and contaminants. In this same sense, the
+elimination of waste inside the channels.
+• The personnel in charge of the works will be trained with the objective of preserving the
+conditions of the streams and avoid disturbance by elements, materials
+or substances other than those in the streams. A record will be kept of this
+activity in the work facility.
+• Management of contaminating elements or materials in the installation of tasks in
+the place determined for this.
+• It will be prohibited to carry out any type of repair or maintenance of vehicles or
+machinery in places adjacent to the channels.
+• The placement of collections of debris and garbage that could
+remain in the channel (preferential runoff routes) and that may affect
+the quality of the waters.
+• In order to avoid possible spills of oils, lubricants, fuels or
+any liquid waste coming from machinery or equipment, it will be preferred
+operation on the outer side of the channels.
+• Maintain periodic observation of the contour channels and, in particular,
+observation of these works after a seismic event has occurred and/or
+pluviometric of importance in order to verify the normal
+operation of each work and carry out repairs or adjustments
+required if necessary.
+Annex 10.13
+Page 34 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 36
+==================================================================================
+2.9. Emergency Plan
+In case of any emergency related to the spill of unwanted substances from
+any of the contour channels, which could eventually affect the channels
+surrounding natural areas, the following plan is proposed:
+• Determine the nature and extent of the spill, identifying the substances
+involved and evaluating the proximity to sensitive areas such as areas
+residential areas or fragile ecosystems.
+• Notify the competent Environmental Authorities, in this case you must
+inform the Supervisor and the Regional Environmental Specialist on duty to whom
+A report with the details must be given to them.
+• Manage to contain the spill, for this, it must be covered with a sand mixture
+dry, sodium carbonate or earth, avoiding the use of sawdust. Furthermore, it must
+Avoid the indiscriminate use of water to dilute the substances.
+• Before removing the waste, it must be verified that the absorption mixture is
+be dry before storing it, otherwise you should add more
+amount of absorbent material.
+• The container where the waste will be stored must be made of a material
+residue resistant. The collection of material resulting from the spill will be
+warehouse
+swimming in the Hazardous Waste Storage Area and
+subsequently removed by an external supplier.
+• In the event that any of the parameters monitored in the Control Registry
+water quality exceeds the range stipulated by the regulations, the
+works in the sector giving immediate notice to the competent authority. The
+Reports with sampling records will be kept in the offices
+administrative aspects of the project and may be requested by the SMA if they are
+necessary.
+• Finally, the contingency plan should be reviewed to identify areas of
+improve and make adjustments as necessary.
+Based on the background presented in this document, it is confirmed that
+The measures adopted for the execution of the works do not affect the life and/or health of the
+inhabitants, through the non-pollution of waters.
+Annex 10.13
+Page 35 of 35
+Sectoral Environmental Permit No. 157
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate

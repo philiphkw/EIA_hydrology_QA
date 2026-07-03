@@ -1,0 +1,2932 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3A-07
+Línea de Base de Ruido y Vibraciones
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras"
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE DESARROLLO MINERO DE EXTRACCIÓN DE ARCILLAS
+PARA PRODUCCIÓN DE CONCENTRADO DE TIERRAS RARAS
+REGIÓN DEL BIOBÍO
+PREPARADO PARA:
+PROYECTO N°5760B
+VERSIÓN FECHA DESCRIPCIÓN ELABORACIÓN REVISIÓN APROBACIÓN
+A 01.02.2024 Elaboración Inicial JMS-BVS MGD
+B 16.02.2024 Correcciones KTC MGD
+SANTIAGO, MAYO DE 2024
+GERARD INGENIERÍA ACÚSTICA SPA
+SE ENCUENTRA CERTIFICADO POR:
+================================================================================
+PAGE 3
+================================================================================
+ÍNDICE DE CONTENIDOS
+1 Introducción ........................................................................................................................................................ 4
+2 Objetivos ............................................................................................................................................................ 4
+2.1 Objetivo general......................................................................................................................................... 4
+2.2 Objetivos específicos ................................................................................................................................. 4
+3 Normativa y guías de referencia ......................................................................................................................... 5
+3.1 Decreto Supremo Nº 38/2011 del Ministerio del Medio Ambiente (MMA) .................................................. 5
+3.2 FTA - Transit Noise and Vibration Impact Assessment Manual ................................................................. 6
+3.3 Evaluación de efectos en la Fauna ............................................................................................................ 9
+4 Descripción de Proyeto y puntos de medición .................................................................................................. 12
+4.1 Descripción del Proyecto ......................................................................................................................... 12
+4.2 Puntos de medición ................................................................................................................................. 12
+4.3 Máximos permitidos y criterios de evaluación.......................................................................................... 24
+Zonificación según el D.S. N° 38/2011 del MMA .............................................................................. 24
+5 Metodología ...................................................................................................................................................... 25
+5.1 Mediciones de ruido ................................................................................................................................. 25
+Mediciones de ruido de fondo ........................................................................................................... 25
+Mediciones según FTA, Leq (h) para estimación LDN ...................................................................... 26
+5.2 Mediciones de vibraciones ...................................................................................................................... 26
+6 Resultados ....................................................................................................................................................... 27
+6.1 Mediciones de ruido ................................................................................................................................. 27
+Mediciones de ruido de fondo ........................................................................................................... 27
+Mediciones Leq (h) ............................................................................................................................ 31
+Nivel de ruido existente según descriptor LDN ................................................................................. 32
+Mediciones de ruido en puntos de fauna .......................................................................................... 32
+6.2 Máximos permitidos ................................................................................................................................. 34
+Ruido - Según D.S. N°38/2011 del MMA .......................................................................................... 34
+Ruido - Según FTA - Transit Noise and Vibration Impact Assessment Manual ................................ 35
+6.3 Mediciones de vibraciones ...................................................................................................................... 36
+7 Conclusiones .................................................................................................................................................... 37
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+1
+================================================================================
+PAGE 4
+================================================================================
+8 Instrumental ...................................................................................................................................................... 39
+9 Bibliografía utilizada ......................................................................................................................................... 39
+10 Profesionales participantes .............................................................................................................................. 40
+11 Glosario ............................................................................................................................................................ 40
+ANEXO I ................................................................................................................................................................... 42
+ANEXO II .................................................................................................................................................................. 73
+ANEXO III ................................................................................................................................................................. 92
+ANEXO IV ................................................................................................................................................................. 97
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+2
+================================================================================
+PAGE 5
+================================================================================
+ÍNDICE DE ILUSTRACIONES
+Ilustración 1: Criterios de impacto de ruido. ............................................................................................................................................................................... 6
+Ilustración 2: Ubicación de los receptores humanos. .............................................................................................................................................................. 13
+Ilustración 3: Ubicación de los receptores humanos – Flujo vehicular. ................................................................................................................................... 14
+Ilustración 4: Ubicación de los receptores de fauna. ............................................................................................................................................................... 15
+Ilustración 6: Fotografías de los puntos de medición de ruido y vibraciones – receptor humano. .......................................................................................... 17
+Ilustración 7: Fotografías de los puntos de medición de ruido y vibraciones – receptor fauna. .............................................................................................. 23
+ÍNDICE DE TABLAS
+Tabla 1: Descripción de tipos de zonas según el D.S. N° 38/2011 MMA.................................................................................................................................. 5
+Tabla 2: Máximos permisibles NPC según el D.S. N° 38/2011 del MMA. ................................................................................................................................. 5
+Tabla 3: Categoría de uso de suelo y descriptor para criterio de impacto de ruido de tránsito vehicular. ................................................................................ 7
+Tabla 4: Definición de tipos de impacto según FTA. ................................................................................................................................................................. 7
+Tabla 5: Criterio de molestia a personas de vibraciones transmitidas por el suelo. .................................................................................................................. 8
+Tabla 6: Criterio de daño a estructuras para niveles generales de vibración. Extracto FTA. .................................................................................................... 8
+Tabla 7: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Anfibios ............... 10
+Tabla 8: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Reptiles ............... 10
+Tabla 9: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Avifauna. ............. 10
+Tabla 10: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Mamíferos. ........ 11
+Tabla 11: Ubicación y descripción de receptores humano. ..................................................................................................................................................... 15
+Tabla 12: Ubicación y descripción de receptores de Flujo vehicular. ...................................................................................................................................... 16
+Tabla 13: Ubicación y descripción de receptores de fauna. .................................................................................................................................................... 16
+Tabla 11: Zonificación y niveles máximos permitidos según D.S. N° 38/2011 del MMA. ....................................................................................................... 25
+Tabla 55: Valores de ruido de fondo, en [dB(A)]-Lento y fuentes de ruido presentes en la medición. Periodo diurno. .......................................................... 28
+Tabla 56: Valores de ruido de fondo, en [dB(A)]-Lento y fuentes de ruido presentes en la medición. Periodo nocturno. ...................................................... 29
+Tabla 47: Resultados de Leq (h) medidos en periodo diurno. ................................................................................................................................................. 31
+Tabla 48: Estimación Nivel de ruido existente según descriptor LDN. ...................................................................................................................................... 32
+Tabla 57: Resumen de niveles de ruido obtenidos por 1/3 de octava de frecuencia y niveles globales – Periodo diurno. .................................................... 32
+Tabla 58: Resumen de niveles de ruido obtenidos por 1/3 de octava de frecuencia y niveles globales – Periodo nocturno. ................................................ 33
+Tabla 59: Niveles máximos permisibles de NPC, según el D.S. Nº 38/2011 del MMA. .......................................................................................................... 35
+Tabla 53: Criterios de impacto según norma FTA. Categoría 2. ............................................................................................................................................. 35
+Tabla 60: Valores de velocidad de partículas y nivel de velocidad según periodo de medición. Receptor humano. ............................................................. 36
+Tabla 60: Valores de velocidad de partículas y nivel de velocidad. Puntos A y B. .................................................................................................................. 36
+ÍNDICE DE GRÁFICOS
+Gráfico 1: Niveles de ruido de fondo registrados en horario diurno......................................................................................................................................... 29
+Gráfico 2: Niveles de ruido de fondo registrados en horario nocturno..................................................................................................................................... 30
+Gráfico 3: Niveles de ruido Leq (h). ......................................................................................................................................................................................... 31
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+3
+================================================================================
+PAGE 6
+================================================================================
+1 INTRODUCCIÓN
+El presente documento, elaborado por Gerard Ingeniería Acústica SpA., contiene el informe de Línea de Base de
+ruido y vibraciones del Proyecto “Proyecto Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”, (en adelante Proyecto), el cual se ubicará en la Región de Antofagasta.
+Las actividades involucradas en las fases de construcción y operación del Proyecto podrían ser capaces de generar
+un aumento del nivel de ruido y vibraciones en sectores aledaños. Con relación a lo anterior, se identificaron sectores
+habitados determinándose un total de quince (15) receptores humanos sensibles, nueve (9) puntos de interés de
+fauna y dos (2) receptores de evaluación de flujo vehicular. Para esto se contempló la realización de dos (2)
+campañas de mediciones, la cual la primera se desarrolló entre los días 28 de noviembre y 2 de diciembre de 2022,
+mientras que la segunda campaña se desarrolló los días 18 y 19 de enero de 2024.
+Con las mediciones realizadas se obtuvo un registro basal de los niveles de ruido de fondo y vibraciones en los
+diferentes puntos distribuidos en las cercanías del Proyecto.
+Las mediciones realizaron bajo los lineamientos que indica la “Guía para la predicción y evaluación de impactos por
+ruido y vibración en el SEIA”, del Servicio de Evaluación Ambiental (SEA).
+2 OBJETIVOS
+2.1 Objetivo general
+Obtener los niveles de ruido de fondo y vibraciones en los sectores cercanos que podrían ser afectados por la
+construcción y operación del Proyecto.
+2.2 Objetivos específicos
+▪ Identificar los receptores sensibles a las futuras emisiones de ruido y vibraciones producidas por el Proyecto
+en los sectores sensibles más cercanos a las obras y actividades de este.
+▪ Efectuar mediciones de nivel de ruido y nivel de vibraciones, en los receptores seleccionados.
+▪ Determinar los máximos permitidos según la normativa nacional y de referencia.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+4
+================================================================================
+PAGE 7
+================================================================================
+3 NORMATIVA Y GUÍAS DE REFERENCIA
+3.1 Decreto Supremo Nº 38/2011 del Ministerio del Medio Ambiente (MMA)
+El objetivo de esta normativa es proteger la salud de la comunidad mediante el establecimiento de niveles máximos
+de inmisión de ruido generados por las fuentes emisoras de ruido definidas en su Artículo N°6, punto 13.
+Los límites máximos permitidos por la normativa están asociados a la zonificación acorde con el Instrumento de
+Planificación Territorial (IPT) respectivo. Los tipos de zonas se definen como:
+Tabla 1: Descripción de tipos de zonas según el D.S. N° 38/2011 MMA.
+Tipo de Zona Descripción
+Aquella zona definida en el IPT respectivo y ubicada dentro del límite urbano, que permite exclusivamente
+Zona I uso de suelo Residencial o bien este uso de suelo y alguno de los siguientes usos de suelo: Espacio Público
+y/o Área Verde.
+Aquella zona definida en el IPT respectivo y ubicada dentro del límite urbano, que permite además los usos
+Zona II
+de la Zona I, Equipamiento a cualquier escala.
+Aquella zona definida en el IPT respectivo y ubicada dentro del límite urbano, que permite además de los
+Zona III
+usos de suelo de la Zona II, Actividades Productivas y/o de Infraestructura.
+Aquella zona definida en el IPT respectivo y ubicada dentro del límite urbano, que permite sólo usos de
+Zona IV
+suelo de Actividades Productivas y/o de Infraestructura.
+Zona Rural Aquella ubicada al exterior del límite urbano establecido en el IPT respectivo.
+Los Niveles de Presión Sonora Corregidos (NPC) que se obtengan no podrán exceder los valores de la siguiente
+tabla:
+Tabla 2: Máximos permisibles NPC según el D.S. N° 38/2011 del MMA.
+NPC Máximo Permitido [dB(A)]
+Tipo de Zona Periodo Diurno Periodo Nocturno
+7:00 a 21:00 horas 21:00 a 7:00 horas
+Zona I 55 45
+Zona II 60 45
+Zona III 65 50
+Zona IV 70 70
+Zona Rural Menor nivel entre el Nivel de Ruido de Fondo +10 [dB] y el NPC máximo permitido para Zona III
+El criterio para zona rural se aplicará en periodo diurno y nocturno de manera independiente.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+5
+================================================================================
+PAGE 8
+================================================================================
+3.2 FTA - Transit Noise and Vibration Impact Assessment Manual1
+La Administración Federal de Tránsito (FTA) de los Estados Unidos, establece las regulaciones y políticas para el
+cuidado del medioambiente, de los posibles impactos que pudiesen causar los sistemas de transporte. Entre dichas
+regulaciones se encuentran los niveles máximos de ruido para distintos medios de transportes, tales como
+ferrocarriles, buses y automóviles.
+a) Criterio de evaluación de ruido
+En la siguiente ilustración se muestra el criterio de impacto de ruido (Noise Impact Criteria) establecido por la FTA,
+para las categorías de usos de suelo y para dos tipos de impactos del proyecto de transportes (moderado y severo),
+considerando el nivel de ruido existente en las viviendas evaluadas y el umbral de ruido para el proyecto.
+Ilustración 1: Criterios de impacto de ruido.
+Fuente: FTA.
+Los criterios de impacto de ruido se basan en la comparación de los niveles de ruido exterior existentes y los niveles
+de ruido exterior futuros del Proyecto propuesto, estos incorporan criterios absolutos, que consideran el aporte de la
+actividad generada solo por la operación del Proyecto.
+La categoría del receptor y/o edificación evaluada se definen según el uso de suelo, como se detalla a continuación
+1 Evaluación de ruido y vibración en tránsito.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+6
+================================================================================
+PAGE 9
+================================================================================
+Tabla 3: Categoría de uso de suelo y descriptor para criterio de impacto de ruido de tránsito vehicular.
+Categoría según Unidad de
+Descripción
+uso de suelo medida [dB(A)]
+Sectores donde bajos niveles de ruido sean indispensables para las actividades a desarrollar.
+1 L [h]
+eq ( Teatros, salas de concierto, estudios de grabación, entre otros)
+Sectores con construcciones que la gente utiliza normalmente para dormir. (Viviendas,
+2 L
+DN hospitales y hoteles)
+Suelo institucional con uso principalmente diurno. Esta categoría incluye colegios, librerías,
+teatros e iglesias, en donde es importante evitar interferencias con las actividades como el
+habla, meditación y concentración en la lectura de material. Lugares para meditación o
+3 L [h]*
+eq asociados a estudio con cementerios, monumentos, museos, sector de camping y
+recreacionales, pueden también ser considerados para estar en esta categoría. Sitios
+históricos y parques pueden también ser considerados
+*Leq la hora más ruidosa relacionada a actividades de transito durante horas sensibles al ruido
+Fuente: Federal Transit Administration.
+En la clasificación anterior se aprecia que cada categoría es evaluada con un descriptor distinto, lo cual se debe a
+que las categorías 1 y 3 presentan un funcionamiento temporal acotado, poniendo énfasis al mayor nivel de presión
+sonora obtenido por hora durante este periodo (en Leq(h)). En cambio, para la categoría 2, relacionada al uso
+habitacional, se evalúa con relación al nivel día-noche (L ), ya que este descriptor es tomado en consideración para
+DN
+zonas donde el periodo nocturno en un factor sensible.
+Respecto a la clasificación de impacto, la normativa establece que el impacto severo amerita la implementación
+inmediata de alguna medida de control de ruido, mientras que el impacto moderado corresponde a una advertencia
+por la cual se señala que los niveles están próximos al límite del impacto severo. La siguiente tabla describe la
+clasificación de impacto dada por el estándar de la FTA.
+Tabla 4: Definición de tipos de impacto según FTA.
+Clasificación del impacto Definición
+La introducción del ruido del proyecto conlleva un incremento insignificante en el número de personas
+No existe impacto
+altamente molestas.
+El cambio en el nivel de ruido acumulado es notorio para la mayoría de las personas, pero no lo
+Impacto moderado
+suficientemente alto para producir una reacción adversa por parte de la comunidad.
+Impacto severo Un porcentaje significativo de personas estaría altamente molesto por el ruido introducido por el proyecto.
+Fuente: Federal Transit Administration.
+b) Criterio de evaluación de vibraciones
+Para el caso de las vibraciones, esta norma identifica dos (2) tipos de impacto por vibraciones, el primero hace
+referencia al criterio de molestia a personas, mientras que el segundo al criterio de daño a estructuras. El criterio de
+“molestia”, está relacionado con los niveles de vibración transmitidos por suelo cuya influencia y percepción puedan
+generar “molestia” en los humanos influenciados. Los indicadores de evaluación se basan en la velocidad de
+vibración RMS, la cual ha mostrado una mejor correlación respecto a la sensibilidad de la vibración en el cuerpo
+humano. Los niveles de velocidad de vibración (L ) son expresados en unidades de decibeles [dB] referenciados a
+v
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+7
+================================================================================
+PAGE 10
+================================================================================
+1 [µin/s] o con una V antepuesta a dB [VdB]. En general, el umbral de perceptibilidad humana es 65 [VdB]. El criterio
+de molestia a su vez se subdivide en un criterio “General” y un “Análisis detallado”. El criterio general de FTA,
+considera la cantidad de eventos vibratorios diarios y los clasifica en eventos frecuentes, ocasionales e infrecuentes.
+▪ Se define “Eventos frecuentes”, cuando ocurren más de 70 eventos por día.
+▪ Se define “Eventos ocasionales”, cuando ocurren entre 30 y 70 eventos por día.
+▪ Se define “Eventos infrecuentes”, cuando ocurren menos de 30 eventos por día.
+Los indicadores de evaluación para el criterio de molestia “General”, se presentan en la siguiente tabla y se
+establecen diferentes límites según tipos de usos de suelo, los cuales se clasifican en: altamente sensibles,
+residencial e institucional.
+Tabla 5: Criterio de molestia a personas de vibraciones transmitidas por el suelo.
+Nivel de impacto de vibraciones
+([VdB] re 1 [µin/s])
+Categoría uso de suelo
+Eventos Eventos Eventos
+frecuentes ocasionales infrecuentes
+Categoría 1:
+Edificios donde son esenciales bajos ambientes de vibración para operaciones 65a 65a 65a
+internas (Instrumental hospitalario, laboratorios de investigación, etc)
+Categoría 2:
+72 75 80
+Residencias o edificaciones donde normalmente duerme gente.
+Categoría 3:
+75 78 83
+Usos de suelo institucionales prioritariamente diurno (Escuelas, Iglesias, etc)
+aEste criterio está basado en niveles límites que son aceptables para equipamientos moderadamente sensibles como microscopios ópticos.
+Edificaciones manufactureras sensibles a la vibración deberán ser evaluadas con un análisis más detallado de niveles. Asegurar bajos niveles de
+vibraciones dentro de la misma edificación requiere un diseño especial de sistemas de ventilación y extracción.
+Fuente: Federal Transit Administration.
+Finalmente, la normativa no explicita límites admisibles para garantizar la no generación de daños sobre
+edificaciones como consecuencia de operaciones de transporte. No obstante, lo anterior sí establece un criterio de
+evaluación para actividades de construcción asociadas a proyectos de infraestructura de transporte. Los valores
+máximos permitidos se indican en sistema norteamericano ([in/s]) y corresponden a los enunciados en la siguiente
+tabla:
+Tabla 6: Criterio de daño a estructuras para niveles generales de vibración. Extracto FTA.
+Categoría de edificación PPV [in/s] Lv aproximado [VdB]a
+I. Concreto reforzado con madera o acero (sin enlucido) 0.5 102
+II. Diseño de ingeniería de hormigón y mampostería 0.3 98
+III. Madera y mampostería sin diseño de ingeniería 0.2 94
+IV. Edificio muy susceptible al daño por vibraciones 0.12 90
+a Velocidad RMS en decibeles [VdB] referencia 1 [µin/s.]
+Fuente: Federal Transit Administration.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+8
+================================================================================
+PAGE 11
+================================================================================
+3.3 Evaluación de efectos en la Fauna
+Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa
+Este documento técnico “Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa”,
+indica que según lo establecido en la letra b) del artículo 11 de la Ley N°19.300 se debe realizar un estudio de
+impacto ambiental para evaluar la significancia de efectos adversos del impacto por ruido sobre fauna nativa.
+De acuerdo con lo señalado en la letra e) del artículo 6° del Reglamento del SEIA para considerar un efecto adverso
+significativo particularmente para impactos asociados a ruido se deberá tener en cuenta “la diferencia entre los
+niveles de ruido con proyecto y el nivel de ruido de fondo representativo y característico del entorno donde se
+concentre fauna nativa asociada a hábitats de relevancia para su nidificación, reproducción o alimentación”.
+En este contexto se entenderá por objeto de protección al hábitat de relevancia de fauna para la nidificación,
+reproducción o alimentación, los cuales deben encontrarse dentro del Área de Influencia (AI) del proyecto, la cual se
+debe definir considerando el escenario con mayor exposición a ruido. Además, se deberá determinar un área
+representativa para el objeto de protección (hábitat de relevancia) sobre el AI según lo señalado en la Guía para la
+Descripción de los Componentes Suelo, Flora y Fauna de Ecosistemas Terrestres en el SEIA (SEA, 2015) debido a
+que es un componente dinámico por su desplazamiento en el entorno.
+Para la predicción de impactos se deberán utilizar los modelos de predicción señalados en la Guía para la Predicción
+y Evaluación de Impactos por Ruido y Vibración en el SEIA, (SEA, 2019), según corresponda a las fuentes de ruido
+que contemple el proyecto o actividad para cada una de sus fases.
+Para evaluar el impacto se deberán comparar los niveles de ruido estimados con umbrales de afectación para cada
+especie, los cuales se determinan según la especie evaluada, la fuente de ruido (continua, impulsiva o intermitente)
+y el efecto adverso asociado (fisiológicos y conductuales). Además, se deberán determinar y representar
+cartográficamente “áreas de afectación”, que corresponden a áreas geográficas en torno al proyecto donde se
+superan los umbrales asociados a efectos fisiológicos y a efectos conductuales, definidos para cada especie los
+cuales se deben contrastar con el área donde se ubican los receptores.
+Una vez que se identifique que existe una diferencia entre los niveles de ruido con proyecto y los niveles de ruido de
+fondo característicos y representativos del hábitat de relevancia, se deberá tener presente que:
+▪ Cuando los receptores presenten un nivel de exposición a ruido superior a los umbrales de afectación para
+efectos fisiológicos, ya sea como especie o grupo taxonómico según la información disponible, se
+considerará que el impacto ocasionado es significativo.
+▪ Cuando los receptores presenten un nivel de exposición a ruido que supere los umbrales de referencia
+asociados a efectos conductuales, deberá evaluarse la significancia del impacto sobre las especies
+evaluadas en función de lo señalado en el artículo 6° del Reglamento del SEIA:
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+9
+================================================================================
+PAGE 12
+================================================================================
+- Afectación de la permanencia del recurso, en este caso, fauna nativa.
+- Alteración de la capacidad de regeneración o renovación del recurso.
+- Alteración de las condiciones que hacen posible la presencia y desarrollo de las especies y ecosistemas,
+con especial énfasis en aquellos recursos propios del país que sean escasos, únicos y representativos.
+Bastará que al menos una de las afectaciones señaladas se produzca, para considerar que el impacto ocasionado
+es significativo.
+El documento técnico también indica que “en caso de ausencia o falta de información para la definición de umbrales
+de afectación, la evaluación deberá realizarse bajo un criterio preventivo, estableciendo aquellas acciones y
+condiciones que permiten evitar la ocurrencia de impacto”.
+A continuación, se presenta el listado con umbrales de referencias para evaluación de impactos que indica el
+documento técnico en el Capítulo 5.
+Tabla 7: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Anfibios
+Anfibios
+Descripción del efecto Tipo de efecto Tipo de fuente Umbral Referencia
+Cambio de frecuencia Continua (ruido 62 dB(C) Shieh, et al.,
+Conductual
+en las vocalizaciones ambiental) Promedio 2012
+Reducción en duración Continua-+
+72 dB(A) Shannon et al.,
+de cantos en anuros Conductual intermitente
+promedio 2015.
+machos (transporte)
+Fuente: Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa.
+Tabla 8: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Reptiles
+Reptiles
+Descripción del efecto Tipo de efecto Tipo de fuente Umbral Referencia
+Dificultad para Continua-intermitente 75 dB(C) Shannon et al.,
+Conductual
+localización (transporte) promedio 2015.
+Fuente: Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa.
+Tabla 9: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre. Avifauna.
+Avifauna
+Descripción del efecto Tipo de efecto Tipo de fuente Umbral Referencia
+Cambio de frecuencia Continua (ruido 60 dB(A) Dooling et al.,
+Conductual
+en vocalizaciones ambiental) Promedio 2007
+Continua (ruido 58 dB(A)
+ambiental) promedio
+Disminución del éxito Intermitente Shannon et al.,
+Conductual
+reproductivo (ruido de 68 dB(A) 2015.
+construcción, promedio
+transporte)
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+10
+================================================================================
+PAGE 13
+================================================================================
+Avifauna
+Descripción del efecto Tipo de efecto Tipo de fuente Umbral Referencia
+Efectos sobre la Continua-intermitente 60 dB(A)
+Fisiológico
+fisiología y desarrollo (transporte) máx
+80 dB(A)
+Impulsiva
+Aumento del estado máx
+Conductual (militar o
+de alerta y vigilancia 63 dB(A)
+tronaduras)
+promedio
+Impulso único 140 dB(A)
+Daño auditivo directo
+(tronaduras) Máx
+Impulsos
+múltiples
+Dooling et al.,
+Desplazamiento Fisiológico (construcción,
+93 dB(A) 2007
+temporal del umbral martillo
+máx
+auditivo neumático por
+ej.) y ruido de
+transporte
+Fuente: Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa.
+Tabla 10: Referencias para la determinación de umbrales de referencia para la evaluación de impacto por ruido sobre fauna terrestre.
+Mamíferos.
+Mamíferos
+Descripción del efecto Tipo de efecto Tipo de fuente Umbral Referencia
+Continua-intermitente
+Incremento del estrés 52 dB(Z) Blickley et al.
+Fisiológico (construcción,
+fisiológico Promedio (2012)
+industrial)
+Interrupción en la
+Continua-intermitente 80 dB(A)
+búsqueda del alimento Conductual
+(transporte) Promedio
+en murciélagos
+Continua-Intermitente
+Reducción de 68 dB(A)
+Conductual (construcción,
+eficiencia reproductiva Promedio
+industrial) Shannon et al., 2015
+Incremento de ritmo
+cardiaco y alteración
+Impulsiva 85 dB(Z)
+de dinámicas de Fisiológico -Conductual
+(militar) promedio
+descanso y movilidad
+en ungulados
+Fuente: Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+11
+================================================================================
+PAGE 14
+================================================================================
+4 DESCRIPCIÓN DE PROYETO Y PUNTOS DE MEDICIÓN
+4.1 Descripción del Proyecto
+El Proyecto corresponde al conjunto de obras y actividades que permitirán la construcción y operación de una faena
+minera y una planta de procesamiento de arcillas, material presente en la zona, el cual por efectos naturales se
+encuentra altamente meteorizado, con presencia de lantánidos adsorbidos en los minerales de arcilla.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y producir aproximadamente
+3.100 toneladas anuales de concentrado de Tierras Raras.
+4.2 Puntos de medición
+A continuación, se entrega la ubicación y descripción de los puntos de evaluación. Dicha selección de puntos se
+llevó a cabo según los siguientes criterios especificados en la “Guía para la predicción y evaluación de impactos por
+ruido y vibración en el SEIA, del Servicio de Evaluación Ambiental (SEA), 2019”, numeral 4.1.
+▪ Representar la ubicación más expuesta de un receptor o un conjunto de ellos a las emisiones de ruido y
+vibraciones.
+▪ El conjunto de puntos de medición debe, necesariamente, incluir un número suficiente de puntos para
+representar la totalidad de receptores potencialmente afectados, bajo las circunstancias más desfavorables.
+En función de lo anterior, se identificaron los puntos más próximos, que representan la ubicación más expuesta a las
+emisiones.
+La Ilustración 2, Ilustración 3, Ilustración 4, Tabla 11, Tabla 12 y Tabla 13, presentan la descripción de los puntos de
+evaluación.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+12
+================================================================================
+PAGE 15
+================================================================================
+Ilustración 2: Ubicación de los receptores humanos.
+Elaboración: Gerard Ingeniería Acústica SpA.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+13
+================================================================================
+PAGE 16
+================================================================================
+Ilustración 3: Ubicación de los receptores humanos – Flujo vehicular.
+Elaboración: Gerard Ingeniería Acústica SpA.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+14
+================================================================================
+PAGE 17
+================================================================================
+Ilustración 4: Ubicación de los receptores de fauna.
+Elaboración: Gerard Ingeniería Acústica SpA.
+Tabla 11: Ubicación y descripción de receptores humano.
+Coordenadas UTM
+Altura receptor* Datum WGS 84
+Receptor Descripción Uso efectivo
+[m] Huso 18H
+Este Norte
+Vivienda de 1 piso, ubicada al costado de camino Las
+1 1.5 Residencial 680.390 5.932.896
+Pataguas.
+Vivienda de 2 pisos ubicada a un costado de Ruta O-
+2 1.5 - 4 Residencial 680.671 5.932.437
+390.
+Entrada predio forestal, ubicado en camino interior a Ruta
+3 1.5 Industrial 681.441 5.932.015
+O-390.
+Conjunto de viviendas de 1 piso, ubicada en camino
+4 1.5 Residencial 682.281 5.932.438
+interior a Ruta O-390
+Vivienda de 1 piso, ubicada en camino interior a Ruta O-
+5 1.5 Residencial 682.315 5.932.496
+390.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+15
+================================================================================
+PAGE 18
+================================================================================
+Coordenadas UTM
+Altura receptor* Datum WGS 84
+Receptor Descripción Uso efectivo
+[m] Huso 18H
+Este Norte
+Conjunto de viviendas de 1 piso, ubicada en camino
+6 1.5 Residencial 682.568 5.932.367
+interior a Ruta O-390
+Vivienda de 1 piso y restaurant "Donde Zulema", ubicada Residencial/
+7 1.5 683.019 5.932.079
+a un costado de Ruta O-390. Comercial
+8 Vivienda de 1 piso, ubicada a un costado de Ruta O-390. 1.5 Residencial 683.194 5.932.076
+9 Vivienda de 1 piso, cercana a Vertedero 1.5 Residencial 681.918 5.928.825
+Administrativo/
+10 Garita principal Cemarc, de 1 piso. 1.5 681.542 5.929.206
+Industrial
+11 Vivienda de 1 piso, ubicada en camino interior. 1.5 Residencial 681.359 5.929.460
+Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle
+12 1.5 - 4 Residencial 678.898 5.930.509
+Los Castaños N°34.
+Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle
+13 1.5 - 4 Residencial 679.093 5.930.752
+Los Cipreses N°5.
+14 Vivienda de 1 piso, ubicada en calle Miramar N°990. 1.5 Residencial 679.242 5.931.249
+Centro de salud CESFAM Penco 2 pisos, ubicada en
+15 1.5 - 4 Salud 679.442 5.931.734
+calle Acceso a Fundo Copihueco.
+* Altura de receptor por piso, desde – hasta, en pasos de 2.5 [m].
+Tabla 12: Ubicación y descripción de receptores de Flujo vehicular.
+Coordenadas UTM
+Altura
+Datum WGS 84
+Receptor Descripción receptor*
+Huso 18H
+[m]
+Este Norte
+A Garita principal Cemarc, de 1 piso. 1.5 681.578 5.929.337
+B Vivienda de 1 piso, ubicada en camino interior. 1.5 681.359 5.929.460
+Tabla 13: Ubicación y descripción de receptores de fauna.
+Coordenadas UTM
+Altura
+Datum WGS 84
+Receptor Descripción receptor*
+Huso 18H
+[m]
+Este Norte
+F1 Punto de fauna asociado a bosque nativo 1.5 680.920 5.931.032
+F2 Punto de fauna asociado a plantación 1.5 680.812 5.928.949
+F3 Punto de fauna asociado a plantación 1.5 680.203 5.928.355
+F4 Punto de fauna asociado a matorral 1.5 680.634 5.930.114
+F5 Punto de fauna asociado a bosque asilvestrado 1.5 679.647 5.929.447
+F6 Punto de fauna asociado a bosque nativo 1.5 682.181 5.930.423
+F7 Punto de fauna asociado a bosque nativo 1.5 681.535 5.930.108
+F8 Punto de fauna asociado a bosque nativo 1.5 681.433 5.930.957
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+16
+================================================================================
+PAGE 19
+================================================================================
+Coordenadas UTM
+Altura
+Datum WGS 84
+Receptor Descripción receptor*
+Huso 18H
+[m]
+Este Norte
+F9 Punto de fauna asociado a bosque nativo 1.5 680.718 5.929.566
+Con el propósito de facilitar la interpretación de resultados y evaluaciones, el receptor humano “10” y el receptor de
+flujo vehicular “A”, corresponden al mismo receptor, pero se le nombrará “A” solo cuando sea con relación al flujo
+vehicular. De la misma manera con el punto “11” y “B”.
+A continuación, se presentan fotografías de los puntos de evaluación obtenidas en la campaña de línea de base.
+Ilustración 5: Fotografías de los puntos de medición de ruido y vibraciones – receptor humano.
+Punto 1-Ruido Punto 1-Vibraciones
+Punto 2-Ruido Punto 2-Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+17
+================================================================================
+PAGE 20
+================================================================================
+Punto 3-Ruido Punto 3-Vibraciones
+Punto 4-Vibraciones
+Punto 4-Ruido
+Punto 5-Ruido Punto 5-Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+18
+================================================================================
+PAGE 21
+================================================================================
+Punto 6-Ruido Punto 6-Vibraciones
+Punto 7-Ruido Punto 7-Vibraciones
+Punto 8-Ruido
+Punto 8-Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+19
+================================================================================
+PAGE 22
+================================================================================
+Punto 9-Ruido Punto 9-Vibraciones
+Punto 10-Ruido Punto 10-Vibraciones
+Punto 11-Ruido Punto 11-Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+20
+================================================================================
+PAGE 23
+================================================================================
+Punto 12-Ruido Punto 12-Vibraciones
+Punto 13-Ruido Punto 13-Vibraciones
+Punto 14-Ruido Punto 14-Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+21
+================================================================================
+PAGE 24
+================================================================================
+Punto 15-Ruido Punto 15-Vibraciones
+Punto A - Ruido Punto A - Vibraciones
+Punto B - Ruido Punto B - Vibraciones
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+22
+================================================================================
+PAGE 25
+================================================================================
+Ilustración 6: Fotografías de los puntos de medición de ruido y vibraciones – receptor fauna.
+Ruido-F1 Ruido-F2
+Ruido-F3 Ruido-F4
+Ruido-F5 Ruido-F6
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+23
+================================================================================
+PAGE 26
+================================================================================
+Ruido-F7 Ruido-F8
+Ruido-F9
+4.3 Máximos permitidos y criterios de evaluación
+Zonificación según el D.S. N° 38/2011 del MMA
+El D.S. N° 38/2011 del MMA establece los Niveles Máximos Permisibles de Presión Sonora Corregidos (NPC), de
+acuerdo con los usos de suelo permitidos en la ubicación del receptor.
+A continuación, se presenta la ubicación de los puntos de evaluación y las zonas en que se emplazan según el Plan
+Regulador Comunal (PRC) de Penco.
+Los puntos se encuentran ubicados en las siguientes zonas:
+• El punto 1 se emplazan en la zona “Área de Extensión Urbana ZER-1” del PRC de Penco, cuyo uso de suelo
+permite residencias y equipamiento, homologándose como zona II según la normativa.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+24
+================================================================================
+PAGE 27
+================================================================================
+• Los puntos 12 a 15 se emplazan en la zona “Área de Extensión Urbana ZR-2” del PRC de Penco, cuyo uso
+de suelo permite residencias, equipamiento, espacio público y áreas verdes, homologándose como zona II
+según la normativa.
+• Los puntos 2 al 11 se ubican al exterior del límite urbano en el instrumento de Planificación Territorial
+respectivo, homologándose como zona rural según la normativa.
+De acuerdo a lo descrito anteriormente, a continuación, se presenta la homologación y los máximos permitidos que
+establece la normativa aplicable para ambos periodos.
+Tabla 14: Zonificación y niveles máximos permitidos según D.S. N° 38/2011 del MMA.
+Zonificación según
+Nivel máximo diurno Nivel máximo
+Receptor Zona según PRC D.S. Nº 38/2011 del
+[dB(A)] nocturno [dB(A)]
+MMA
+1 ZER-1 Zona Il 60 45
+12-15 ZR-2 Zona Il 60 45
+Fuera del límite urbano Menor nivel entre el Nivel de Ruido de Fondo + 10
+2-11 Rural
+comunal [dB], y el NPC máximo permitido para Zona III
+En los puntos 1, 12, 13, 14 y 15 los niveles máximos permitidos corresponden a 60 [dB(A)] en período diurno, y 45
+[dB(A)] en período nocturno, valores correspondientes a los máximos permitidos en zona II. Por otro lado, en ambos
+periodos de evaluación los niveles máximos permitidos en los puntos del 2 al 11 quedarán establecidos en función
+del menor valor entre el Nivel de ruido de fondo + 10 [dB] y el valor máximo permitido para Zona III. Estos valores se
+aplican a las fuentes emisoras de ruido definidas en el Artículo Nº 6, punto 13 del D.S. Nº 38/11 del MMA.
+Ruido - Evaluación de efectos en la Fauna
+5 METODOLOGÍA
+5.1 Mediciones de ruido
+Mediciones de ruido de fondo
+▪ Entre lo días 28 de noviembre y 2 de diciembre de 2022, además de los días 18 y 19 de enero de 2024, se
+realizaron mediciones de ruido de fondo en periodo diurno y nocturno en función de los puntos receptores
+que indica la Ilustración 2.
+▪ La duración de cada medición de ruido estuvo sujeta a la diferencia que presentan los valores registrados
+cada 5 minutos, hasta que se considera la lectura como estable (diferencia menor o igual que 2 [dB(A)] entre
+cada lectura), de acuerdo al procedimiento de medición de ruido de fondo establecido en el D.S. Nº 38/2011
+del MMA.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+25
+================================================================================
+PAGE 28
+================================================================================
+▪ Para los puntos de fauna se realizaron mediciones de ruido en 1/3 de octava y sin ponderación de
+frecuencias, en periodo diurno y nocturno.
+▪ El sonómetro se ubicó a 1.5 [m] en su eje vertical del suelo y, en lo posible, a 3.5 [m] de cualquier superficie
+reflectante en su eje horizontal (paredes, muros, ventanas).
+▪ Para las mediciones se utilizó el equipo indicado en el capítulo 8 que cumple con la norma IEC 61672-
+1:2002. Los instrumentos fueron debidamente calibrados por el operador en terreno. En el Anexo IV se
+entregan los certificados de calibración del equipo utilizado.
+Mediciones según FTA, Leq (h) para estimación LDN
+▪ Se realizaron dos (2) mediciones con un tiempo total de una (1) hora, registrándose en cada caso el Leq (h),
+NPS y NPS . Esto de acuerdo a uno de los procedimientos estipulados en la normativa de referencia
+mín máx
+de la FTA Transit Noise and Vibration Assessment Manual2, para estimación del descriptor L en los puntos
+DN
+A y B, correspondientes a los más cercanos al camino principal empleado por el Proyecto (Ilustración 3).
+▪ A partir de las mediciones de una hora, se realiza la estimación del descriptor LDN, mediante las siguientes
+expresiones:
+• Para mediciones entre las 7 a.m. y las 7 p.m.:
+𝑳 ≈ 𝑳 −𝟐 (Ecuación 1)
+𝑫𝑵 𝒆𝒒
+• Para mediciones entre las 7 p.m. y las 10 p.m.:
+𝑳 ≈ 𝑳 +𝟑 (Ecuación 2)
+𝑫𝑵 𝒆𝒒
+• Para mediciones entre las 10 p.m. y las 7 a.m.:
+𝑳 ≈ 𝑳 +𝟖 (Ecuación 3)
+𝑫𝑵 𝒆𝒒
+▪ Según se indica en la guía, el valor resultante L es moderadamente subestimado. Esta subestimación
+DN
+pretende compensar la precisión reducida de cálculo de L .
+DN
+▪ Para las mediciones se utilizó el equipo indicado en el capítulo 8 que cumple con la norma IEC 61672-
+1:2002. Los instrumentos fueron debidamente calibrados por el operador en terreno. En el Apéndice IV se
+entregan los certificados de calibración del equipo utilizado.
+5.2 Mediciones de vibraciones
+▪ Se realizaron mediciones de vibraciones en los mismos puntos propuestos para ruido.
+2 Apéndice E: Determinación nivel existente; Método Opción 4.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+26
+================================================================================
+PAGE 29
+================================================================================
+▪ Para la realización de los registros de vibración se tomó como referencia lo estipulado en la normativa
+“Transit Noise and Vibration Impact Assessment Manual”, de la FTA de Estados Unidos, la cual estipula en
+su Sección 6.5, la caracterización de condiciones existentes de vibración.
+▪ De esta forma, para documentar los niveles de vibraciones existentes en los puntos antes señalados, se
+realizó una medición por un periodo continuo de entre 10 a 30 minutos, obteniéndose un promedio
+representativo de las características vibratorias de cada sector.
+▪ Los registros obtenidos corresponden valores de Velocidad Vertical de Partícula (VVP) en [mm/s].
+El nivel de velocidad (Lv ) se define como:
+ref 1 [µin/s]
+𝑣
+𝐿𝑣 𝜇 𝑖𝑛 = 20 𝑙𝑜𝑔( ) [𝑉𝑑𝐵] (Ecuación 4)
+𝑟𝑒𝑓 𝑣
+𝑠 𝑟𝑒𝑓
+Donde:
+𝜇 𝑖𝑛
+𝑣 : Velocidad en [ ]
+𝑠
+𝜇 𝑖𝑛
+𝑣 : Velocidad de referencia (𝑣 = 1[ ])
+𝑟𝑒𝑓 𝑟𝑒𝑓
+𝑠
+▪ Los puntos de medición se ubicaron al exterior de las edificaciones identificadas como receptores sensibles,
+instalando el transductor en un montante imantado sobre una estaca metálica insertada en la tierra. En los
+casos donde no existiera la posibilidad de instalar la estaca metálica, el transductor se instaló en puntos de
+apoyo naturales en las inmediaciones del punto evaluado, mediante la aplicación de cera al soporte
+respectivo.
+▪ Para los registros se utilizó el equipo indicado en el capítulo 8, en el Anexo IV se presenta el certificado de
+calibración del instrumental.
+6 RESULTADOS
+6.1 Mediciones de ruido
+Mediciones de ruido de fondo
+En el presente acápite se entregan los valores de ruido de fondo para todos los puntos descritos anteriormente, y se
+mencionan las principales fuentes de ruido presentes al momento de la toma de muestras.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+27
+================================================================================
+PAGE 30
+================================================================================
+Periodo diurno
+A continuación, se entregan los valores de ruido de fondo para el periodo diurno, registrados durante la campaña de
+mediciones basales, y se describen las fuentes de ruido asociadas a ellos. En el Anexo I se entrega el detalle de
+cada medición realizada.
+Tabla 15: Valores de ruido de fondo, en [dB(A)]-Lento y fuentes de ruido presentes en la medición. Periodo diurno.
+NPS NPS NPS Hora de
+eq mín máx
+Punto Fuentes de Ruido
+[dB(A)]* [dB(A)] [dB(A)] medición
+Aves silvestres, tránsito vehicular lejano por Carretera a Tomé y calle local,
+1 48 35.5 67.0 16:22
+tránsito aéreo lejano.
+2 46 33.6 66.2 Aves silvestres, tránsito vehicular lejano por Carretera a Tomé. 15:53
+3 54 31.5 70.7 Aves silvestres, tránsito vehicular por Ruta O-390. 15:26
+Aves silvestres, tránsito vehicular lejano por Ruta O-390, animales de corral,
+4 36 30.9 51.0 18:35
+efecto del viento sobre el follaje leve.
+Tránsito vehicular por camino interior, aves silvestres y efecto del viento
+5 42 35.1 59.4 17:45
+sobre el follaje.
+Animales de corral, aves silvestres, efecto del viento sobre el follaje leve,
+6 35 29.7 46.1 18:13
+tránsito vehicular lejano por Ruta O-390.
+Tránsito vehicular por camino interior, aves silvestres y efecto del viento
+7 62 30.5 84.9 17:15
+sobre el follaje, ruido comunitario lejano.
+Aves silvestres, tránsito vehicular por Ruta O-390, perros lejanos y ruido
+8 63 34.4 86.0 16:50
+domiciliario.
+Aves silvestres, operación maquinaria al interior de Vertedero, tránsito
+9 51 43.6 65.7 15:02
+vehicular lejano.
+Aves silvestres, operación maquinaria al interior de Vertedero, tránsito
+10 56 46.8 73.4 15:29
+vehicular a Vertedero.
+Aves silvestres, operación maquinaria al interior de Vertedero, animales de
+11 47 38.4 64.2 14:33
+corral, perros lejanos.
+12 53 45.4 80.5 Tránsito vehicular lejano por Autopista Itata, aves silvestres, perros lejanos. 17:46
+13 59 41.8 82.4 Tránsito vehicular por Autopista Itata, aves silvestres, perros lejanos. 17:16
+Aves silvestres, tránsito vehicular lejano por calle El Maitén, tránsito
+14 45 39.8 57.6 17:25
+vehicular lejano por By-Pass Penco, perros lejanos ocasionales.
+Tránsito vehicular por By Pass Penco, por calle Acceso a Fundo Copihueco,
+15 54 43.5 63.9 16:58
+movimiento de vehículos estacionamiento CESFAM.
+*Valor aproximado al entero más cercano.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+28
+================================================================================
+PAGE 31
+================================================================================
+Gráfico 1: Niveles de ruido de fondo registrados en horario diurno.
+Elaboración: Gerard Ingeniería Acústica SpA.
+De acuerdo a lo indicado en la Tabla 15 y Gráfico 1, los valores de NPSeq en periodo diurno fluctúan entre 35 y 63
+[dB(A)], donde las fuentes de ruido principales corresponden a aves silvestres, efecto del viento sobre el follaje,
+operación maquinaria al interior de Vertedero y tránsito vehicular por Autopista Itata, Carretera a Tomé, Ruto O-390
+y By-Pass Penco.
+Periodo nocturno
+La Tabla 16 y Gráfico 2 muestran los valores para el periodo nocturno de ruido de fondo registrados durante la
+campaña de mediciones y las fuentes de ruido asociadas a ellos. En el Anexo I se entrega el detalle de cada medición
+realizada.
+Tabla 16: Valores de ruido de fondo, en [dB(A)]-Lento y fuentes de ruido presentes en la medición. Periodo nocturno.
+NPS NPS NPS Hora de
+eq mín máx
+Punto Fuentes de Ruido
+[dB(A)]* [dB(A)] [dB(A)] medición
+Aves silvestres, tránsito vehicular lejano por Carretera a Tomé, grillos,
+1 42 37.0 53.8 22:24
+efecto viento sobre el follaje
+2 37 33.9 43.5 Aves silvestres, tránsito vehicular lejano por Carretera a Tomé, grillos. 22:27
+Aves silvestres, grillos, efecto del viento sobre el follaje, tránsito vehicular
+3 36 32.6 41.4 21:58
+lejano.
+4 30 27.4 36.0 Aves silvestres, efecto del viento sobre el follaje, animales de corral. 0:18
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+29
+================================================================================
+PAGE 32
+================================================================================
+NPS NPS NPS Hora de
+eq mín máx
+Punto Fuentes de Ruido
+[dB(A)]* [dB(A)] [dB(A)] medición
+5 29 27.3 36.6 Aves silvestres y de corral, efecto del viento sobre el follaje, grillos. 23:28
+6 29 27.0 41.3 Aves silvestres y de corral, efecto del viento sobre el follaje, grillos. 23:55
+Aves silvestres, efecto del viento sobre el follaje, tránsito vehicular lejano
+7 40 34.0 48.6 22:27
+por Autopista Itata.
+Aves silvestres, efecto del viento sobre el follaje, tránsito vehicular lejano
+8 40 34.0 48.6 22:33
+por Autopista Itata.
+Operación maquinaria al interior de Vertedero, aves silvestres y tránsito
+9 51 48.5 69.0 23:17
+vehicular lejano a Vertedero.
+10 52 48.4 65.5 Operación maquinaria al interior de Vertedero lejana, aves silvestres. 23:47
+Operación maquinaria al interior de Vertedero, tránsito vehicular lejano,
+11 51 46.2 75.3 0:08
+generador leve, aves silvestres, ruido domiciliario leve.
+Tránsito vehicular lejano por Autopista Itata, aves silvestres, efecto del
+12 50 43.7 63.2 22:02
+viento sobre el follaje.
+13 47 41.4 63.3 Tránsito vehicular lejano por Autopista Itata, perros lejanos. 23:35
+Aves silvestres, tránsito vehicular lejano por calle El Maitén, tránsito
+14 49 43.7 54.8 23:49
+vehicular lejano por By-Pass Penco, grillos.
+Grillos, extractores de aire CESFAM, tránsito vehicular por by Pass Penco,
+15 49 44.6 57.9 23:21
+perros lejanos.
+*Valor aproximado al entero más cercano.
+Gráfico 2: Niveles de ruido de fondo registrados en horario nocturno.
+Elaboración: Gerard Ingeniería Acústica SpA.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+30
+================================================================================
+PAGE 33
+================================================================================
+De acuerdo a lo indicado en la Tabla 16 y Gráfico 2, los valores de NPSeq fluctúan entre 29 y 52 [dB(A)], las fuentes
+de ruido principales corresponden a grillos, tránsito lejano, ruido por efecto del viento sobre el follaje y aves silvestres.
+Mediciones Leq (h)
+La Tabla 17 muestra los valores de Leq (h) obtenidos de las mediciones realizadas en periodo diurno. Las mediciones
+se realizaron en las mismas ubicaciones declaradas en el Apéndice III.
+Tabla 17: Resultados de Leq (h) medidos en periodo diurno.
+Leq (h)* NPS NPS
+Punto mín máx Descripción Fecha Hora
+[dB(A)] [dB(A)] [dB(A)]
+Tránsito de vehículos pesados, operación desde relleno
+A 63 47.9 84.3 19-01-2024 10:40
+sanitario, aves silvestres.
+Tránsito de vehículos pesados, aves silvestres y alarmas de
+B 48 39.6 65.4 19-01-2024 8:40
+retroceso desde relleno sanitario
+*Aproximado al entero más cercano.
+Gráfico 3: Niveles de ruido Leq (h).
+Elaboración: Gerard Ingeniería Acústica SpA.
+Se puede apreciar en la tabla y gráfico anterior, que los valores medidos de Leq (h) corresponden a 63 y 48 [dB(A)],
+donde las fuentes de ruido corresponden a aves silvestres, tránsito de vehículos pesados y operación desde relleno
+sanitario.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+31
+================================================================================
+PAGE 34
+================================================================================
+Nivel de ruido existente según descriptor LDN
+De acuerdo al procedimiento indicado por la FTA, a partir de la medición horaria es posible obtener el L ,según lo
+DN
+mencionado en capítulo 5.1.2. De acuerdo a lo indicado en el capítulo 6.1.2, las mediciones se efectuaron entre las
+7am y 7pm, por lo que se aplicará la ecuación (Ecuación 1) dada en el capítulo 5.1.2 (Corrección – 2 [dB]).
+Esta corrección, solo se aplicará en el punto B, que se evaluará con el descriptor L que representa la peor
+DN,
+condición para efectos de evaluación.
+Tabla 18: Estimación Nivel de ruido existente según descriptor LDN.
+Nivel de ruido
+Hora de medición Nivel de ruido
+Punto existente Corrección [dB]
+[hh:mm] existente L [dB(A)]*
+DN
+Leq (h) [dB(A)]
+A 10:40 63 - -
+B 08:40 48 -2 46
+*A partir de registros de una hora entre las 7 a.m. y las 7 p.m (𝐿 ≈ 𝐿 (ℎ)−2).
+𝐷𝑁 𝑒𝑞
+En la tabla anterior se observa que el valor de L corresponde a 46 [dB(A)]. Estos resultados determinarán los
+DN
+niveles máximos permitidos para el Proyecto.
+Mediciones de ruido en puntos de fauna
+A continuación, se muestra los valores de NPS promedioen 1/3 de octava, además de los valores globales de
+eq
+NPS y NPS , sin ponderación de frecuencias [dB] y con ponderación de frecuencias [dB(A)], para los puntos de
+mín máx
+evaluación de fauna durante el periodo diurno y nocturno. En el Anexo II se entrega el detalle de cada medición
+realizada.
+Tabla 19: Resumen de niveles de ruido obtenidos por 1/3 de octava de frecuencia y niveles globales – Periodo diurno.
+Frecuencia [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+20 41.1 51.8 36.3 53.0 43.8 40.3 55.5 39.6 47.2
+25 39.7 53.0 37.1 51.8 43.6 37.8 52.2 37.3 47.7
+31.5 39.4 50.6 38.3 52.3 43.4 35.9 48.0 34.7 43.6
+40 40.2 49.7 39.5 49.6 43.3 35.0 45.4 32.6 40.8
+50 39.2 50.0 40.7 52.9 43.8 30.9 45.2 31.6 38.9
+63 41.2 46.4 38.4 56.9 43.4 33.0 46.6 32.7 40.0
+80 44.8 41.6 40.0 55.7 42.6 32.6 45.6 32.6 38.3
+100 37.9 34.3 41.2 49.5 41.5 30.6 41.3 29.4 32.8
+125 35.4 29.5 34.3 45.4 39.1 31.7 35.6 27.6 31.1
+160 38.8 28.4 33.3 43.4 38.0 29.7 35.3 26.2 30.8
+200 38.0 26.9 31.6 38.9 36.8 28.6 35.8 25.8 28.8
+250 38.2 26.7 29.4 38.3 37.0 30.7 37.2 28.8 28.0
+315 36.2 27.5 28.5 36.6 35.5 30.9 36.5 29.6 26.2
+400 36.2 27.2 27.7 36.9 34.2 32.7 36.0 29.9 25.6
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+32
+================================================================================
+PAGE 35
+================================================================================
+Frecuencia [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+500 36.0 27.8 27.2 38.2 33.5 32.6 34.9 30.1 25.8
+630 33.7 28.3 26.9 37.9 32.7 33.6 34.8 30.1 25.6
+800 33.2 28.2 26.9 38.5 32.6 34.3 35.5 30.1 26.6
+1000 31.6 27.6 26.5 38.2 31.6 34.5 35.3 29.8 26.5
+1250 29.3 27.9 28.2 37.2 31.6 34.6 35.6 29.6 25.4
+1600 27.1 27.0 33.4 36.2 29.3 34.3 30.7 28.2 24.2
+2000 24.9 25.1 34.8 35.4 27.8 33.5 26.9 27.7 21.6
+2500 23.7 24.2 33.1 34.6 27.3 32.8 24.7 27.2 20.7
+3150 23.0 22.7 27.5 33.1 26.0 32.8 22.1 26.3 20.6
+4000 22.1 21.2 26.4 33.9 25.1 31.9 20.1 24.7 18.7
+5000 23.3 20.9 24.7 33.2 24.2 28.5 18.5 24.5 17.3
+6300 21.5 20.9 23.8 30.0 23.2 24.5 16.8 22.9 15.2
+8000 20.4 19.2 21.4 26.6 21.5 20.5 14.1 19.9 15.2
+10000 19.1 18.3 19.4 24.8 19.8 18.4 12.3 20.0 16.2
+12500 19.2 17.9 18.9 22.8 18.5 17.7 10.8 12.4 12.3
+16000 18.9 18.4 18.6 20.5 18.6 18.4 9.3 9.3 10.3
+20000 21.4 21.3 21.2 21.7 21.3 21.3 7.1 7.0 7.6
+NPS [dB(Z)] 51.6 58.6 49.4 62.8 53.2 47.9 59.0 45.7 52.6
+eq
+NPS [dB(A)] 41.6 37.5 41.7 47.8 41.7 44.2 43.2 39.4 35.1
+eq
+NPS [dB(Z)] 46.7 46.5 33.8 54.8 48.7 45.2 49.3 42.4 45.8
+mín
+NPS [dB(Z)] 60.9 67.1 78.0 71.1 60.7 54.4 73.8 50.1 66.2
+máx
+Las principales fuentes de ruido registradas durante el periodo diurno corresponden aves silvestres, efecto del viento
+sobre el follaje y corriente de agua.
+Particularmente en el punto F4, se percibe tránsito vehicular por Autopista del Itata, por lo que presenta mayor nivel.
+Tabla 20: Resumen de niveles de ruido obtenidos por 1/3 de octava de frecuencia y niveles globales – Periodo nocturno.
+Frecuencia [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+20 37.0 34.1 36.0 49.8 36.8 36.8 51.1 37.4 43.8
+25 36.6 34.9 36.9 49.8 36.9 36.1 49.0 36.7 41.1
+31.5 37.2 35.7 36.4 48.7 37.6 35.3 47.7 37.5 41.0
+40 36.9 36.3 37.4 48.4 38.4 35.3 46.7 37.9 39.1
+50 39.2 38.6 39.7 47.3 39.7 34.8 46.5 37.3 39.1
+63 41.4 39.8 40.6 49.9 40.7 33.2 46.0 36.4 40.3
+80 42.2 39.7 39.7 52.4 40.5 31.2 46.0 34.1 37.0
+100 37.0 36.1 37.0 45.3 39.8 29.9 43.9 31.8 33.2
+125 36.8 35.1 37.0 46.1 39.5 32.6 42.2 31.1 32.6
+160 37.3 32.9 32.5 44.1 35.7 28.2 38.8 27.9 33.0
+200 34.1 32.7 30.8 39.6 33.6 26.6 38.4 25.8 29.2
+250 34.1 31.3 28.5 40.3 32.1 27.1 37.6 27.3 30.1
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+33
+================================================================================
+PAGE 36
+================================================================================
+Frecuencia [Hz] F1 F2 F3 F4 F5 F6 F7 F8 F9
+315 30.6 28.8 29.1 38.6 31.1 28.1 38.9 28.8 32.8
+400 29.7 28.4 28.2 38.3 31.3 29.5 38.8 28.3 29.1
+500 30.4 28.1 28.1 37.5 31.9 30.9 40.2 28.1 28.1
+630 28.8 26.7 27.7 37.4 31.1 32.2 41.3 28.5 30.1
+800 27.6 26.8 26.6 38.6 29.8 33.5 42.0 28.9 30.3
+1000 26.4 25.8 24.9 37.4 27.7 33.8 40.8 28.9 29.9
+1250 23.7 22.6 22.6 36.0 25.0 33.6 37.2 28.5 28.5
+1600 21.4 19.3 19.4 34.3 21.3 33.2 33.8 28.3 25.5
+2000 19.2 16.3 17.3 31.7 17.9 32.6 29.1 27.5 21.8
+2500 18.0 14.6 15.4 28.4 15.1 31.3 23.9 26.3 18.6
+3150 16.5 13.9 14.4 25.1 13.9 29.3 19.9 24.7 16.4
+4000 15.3 14.2 14.9 21.0 14.6 26.8 17.1 22.7 15.3
+5000 15.4 15.0 15.0 17.6 15.0 23.9 15.0 19.9 13.4
+6300 15.4 15.1 15.2 16.5 15.2 21.3 13.8 17.6 12.2
+8000 15.9 15.9 16.0 16.7 16.0 19.3 12.2 17.1 10.8
+10000 18.0 20.0 18.9 23.2 20.7 22.7 11.6 31.5 14.3
+12500 20.0 22.2 20.3 25.3 22.5 25.1 13.7 41.8 29.6
+16000 18.4 18.5 18.5 18.9 18.6 19.2 12.2 30.9 33.2
+20000 21.7 21.4 21.7 21.5 21.8 22.8 7.6 16.0 23.3
+NPS [dB(Z)] 49.3 47.5 48.3 59.2 49.5 46.6 57.6 48.0 50.0
+eq
+NPS [dB(A)] 36.6 35.0 34.8 46.0 37.6 42.7 47.5 41.2 38.1
+eq
+NPS [dB(Z)] 44.6 44.4 44.4 51.0 46.2 45.1 51.7 43.3 39.6
+mín
+NPS [dB(Z)] 57.0 54.8 54.7 69.3 57.4 53.3 72.7 59.8 58.8
+máx
+Las principales fuentes de ruido registradas, tanto en periodo diurno como nocturno corresponden al ruido generado
+por aves silvestres, corriente de agua y tránsito vehicular lejano, y se pudo percibir que la presencia de aves silvestres
+es mayor que en el periodo diurno.
+6.2 Máximos permitidos
+Ruido - Según D.S. N°38/2011 del MMA
+Los límites máximos definidos para cada punto muestreado se presentan en las siguientes tablas. Estos valores se
+determinan en función de los límites establecidos en el D. S. Nº38/2011 del MMA, en relación con la homologación
+descrita en el apartado4.3.1.
+En la Tabla 21 se entrega el nivel de presión sonora corregido máximo permitido para los puntos muestreados.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+34
+================================================================================
+PAGE 37
+================================================================================
+Tabla 21: Niveles máximos permisibles de NPC, según el D.S. Nº 38/2011 del MMA.
+Zonificación Periodo diurno Periodo nocturno
+Punto de según
+medición D.S. Nº 38/2011 del Ruido de fondo NPC Máximo Ruido de fondo NPC Máximo
+NPS [dB(A)]* permitido [dB(A)] NPS [dB(A)]* permitido [dB(A)]
+MMA eq eq
+1 Zona II 48 60 42 45
+2 Zona Rural 46 56 37 47
+3 Zona Rural 54 64 36 46
+4 Zona Rural 36 46 30 40
+5 Zona Rural 42 52 29 39
+6 Zona Rural 35 45 29 39
+7 Zona Rural 62 65 40 50
+8 Zona Rural 63 65 40 50
+9 Zona Rural 51 61 51 50
+10 Zona Rural 56 65 52 50
+11 Zona Rural 47 57 51 50
+12 Zona II 53 60 50 45
+13 Zona II 59 60 47 45
+14 Zona II 45 60 49 45
+15 Zona II 54 60 49 45
+*Valor aproximado al entero más cercano.
+En la tabla anterior se indican los niveles máximos permitidos en los receptores seleccionados, cuyos valores varían
+entre 45 y 65 [dB(A)] para el periodo diurno, mientras que para el periodo nocturno los niveles oscilan entre 39 y 50
+[dB(A)].
+Ruido - Según FTA - Transit Noise and Vibration Impact Assessment Manual
+A continuación, se presentan los niveles para clasificación del impacto según el estándar de la FTA. Para el punto B
+se determinó el nivel de ruido existente según el descriptor nivel día-noche L para receptores residenciales
+DN
+(Categoría 2), mientras que el punto A, que es industrial, se consideró para el descriptor Leq(h) (Categoría 3). En
+función de dicho valor se calcularon los niveles permitidos dados por el estándar de referencia3.
+Tabla 22: Criterios de impacto según norma FTA. Categoría 2.
+Nivel de ruido de Nivel “Impacto Nivel “Impacto
+Nivel “Sin impacto”
+Receptor Descriptor exposición existente Moderado” Severo”
+Leq (h) o L dB(A)]*
+DN
+Leq (h) o L dB(A)] Leq (h) o L [dB(A)] Leq (h) o L [dB(A)]**
+DN DN DN
+A Leq (h) 63 <65 65-70 >70
+B L 46 <53 53-59 >59
+DN
+* Máximo de referencia para el proyecto para no generar impacto (No superación de la curva inferior Ilustración 1).
+** Máximo de referencia para el proyecto para no generar impacto Severo (No superación de la curva superior Ilustración 1).
+3 Tabla 4-5 de la normativa FTA, pag. 28
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+35
+================================================================================
+PAGE 38
+================================================================================
+6.3 Mediciones de vibraciones
+En la Tabla 23 se presentan los valores de vibraciones obtenidos en cada punto de medición en periodo diurno y
+nocturno. Los resultados obtenidos muestran el Lv y la VVP.
+Tabla 23: Valores de velocidad de partículas y nivel de velocidad según periodo de medición. Receptor humano.
+Periodo diurno Periodo nocturno
+Punto
+VVP [mm/s] Lv* [VdB] VVP [mm/s] Lv* [VdB]
+1 2.51E-02 59.9 1.34E-02 54.4
+2 1.81E-02 57.1 1.31E-02 54.2
+3 1.47E-02 55.2 1.38E-02 54.7
+4 1.35E-02 54.5 1.29E-02 54.1
+5 1.34E-02 54.5 1.29E-02 54.1
+6 1.35E-02 54.5 1.30E-02 54.2
+7 1.65E-02 56.3 1.27E-02 54.0
+8 1.47E-02 55.2 1.38E-02 54.7
+9 1.84E-02 57.2 1.33E-02 54.4
+10 2.08E-02 58.3 1.28E-02 54.1
+11 1.77E-02 56.9 1.71E-02 56.6
+12 1.32E-02 54.3 8.07E-03 50.0
+13 1.38E-02 54.7 1.28E-02 54.0
+14 2.54E-02 60.0 1.34E-02 54.5
+15 2.09E-02 58.3 1.32E-02 54.3
+F1 1.53E-02 55.6 1.27E-02 54.0
+F2 1.85E-02 57.3 1.28E-02 54.0
+F3 1.73E-02 56.6 1.27E-02 54.0
+F4 1.71E-02 56.5 1.31E-02 54.3
+F5 1.98E-02 57.9 1.27E-02 54.0
+F6 1.98E-02 55.1 1.27E-02 54.1
+F7 6.93E-04 28.7 5.86E-04 27.3
+F8 5.69E-04 27.0 5.62E-04 26.9
+F9 6.63E-04 28.3 7.31E-04 29.2
+* Ref: 1 [µin/s]
+Tabla 24: Valores de velocidad de partículas y nivel de velocidad. Puntos A y B.
+Periodo diurno
+Punto
+VVP [mm/s] Lv* [VdB]
+A 1.22E-02 53.6
+B 3.62E-03 43.1
+Todos los valores obtenidos corresponden a las vibraciones naturales del suelo en cada sector. Por otro lado, se
+puede determinar que para todos los puntos los valores registrados se encuentran por debajo del umbral de
+percepción humana definido en el documento FTA, el cual es de 65 [VdB].
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+36
+================================================================================
+PAGE 39
+================================================================================
+7 CONCLUSIONES
+El presente informe entrega los niveles obtenidos de las mediciones basales de nivel de presión sonora y vibraciones
+en sectores sensibles cercanos al emplazamiento del proyecto “Proyecto de Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras”, el cual se ubicará en las comunas de Penco y Concepción, obteniéndose quince
+(15) puntos de muestreo de nivel de ruido y vibraciones que caracterizan dichos sectores sensibles, nueve (9) puntos
+representativos de fauna y dos (2) puntos de evaluación de tránsito vehicular. La primera campaña de medición se
+realizó entre los días 28 de noviembre y 2 de diciembre de 2022, mientras que la segunda campaña se desarrolló
+los días 18 y 19 de enero de 2024.
+La metodología aplicada permitió determinar la magnitud de las emisiones acústicas que generará el Proyecto y, a partir
+de ello, evaluar el potencial impacto que este pudiera generar sobre su entorno.
+Dicha evaluación se realizó bajo los lineamientos que indica la “Guía para la predicción y evaluación de impactos
+por ruido y vibración en el SEIA, del Servicio de Evaluación Ambiental (SEA).
+Para tal efecto se identificaron receptores ubicados en los sectores más próximos del Proyecto, para los cuales se
+determinaron los máximos permitidos.
+Durante el periodo diurno, los NPS registrados varían entre 35 y 63 [dB(A)], donde las principales fuentes de ruido
+eq
+corresponden a aves silvestres, efecto del viento sobre el follaje, operación maquinaria al interior de Vertedero y
+tránsito vehicular por Autopista Itata, Carretera a Tome, Ruto O-390 y By-Pass Penco, durante el periodo nocturno
+los NPS registrados fluctúan entre 29 y 52 [dB(A)], donde los niveles se ven influenciados principalmente por grillos,
+eq
+tránsito lejano, ruido por efecto del viento sobre el follaje y aves silvestres.
+Para los puntos de fauna los NPS registrados varían entre 37.5 y 47.8 [dB(A)] para el periodo diurno, mientras que
+eq
+para el periodo nocturno, los NPS registrados varían entre 34.8 y 47.5 [dB(A)], donde las principales fuentes de ruido
+eq
+corresponden a aves silvestres, corriente de agua y tránsito vehicular lejano, cabe mencionar, que para el periodo
+nocturno además de las fuentes de ruido anteriormente mencionadas, se pudo percibir que la presencia de aves
+silvestres es mayor que en el periodo diurno.
+Por otro lado, se realizaron mediciones continuas de una (1) hora en dos (2) receptores, de manera de obtener el
+nivel existente según el descriptor LDN, a partir de métodos establecidos por la guía FTA- Transit Noise and Vibration
+Impact Assessment Manual, en donde los niveles existentes son de 61 LDN [dB(A)] para el punto A y de 46 LDN
+[dB(A)] para el punto B.
+Finalmente, se realizaron mediciones de Nivel de velocidad de vibración (Lv) y Velocidad vertical de partícula (VVP)
+en la totalidad de los puntos evaluados. Los valores obtenidos obedecen a las vibraciones naturales del suelo en
+cada sector, y al tránsito vehicular por las rutas cercanas, no existiendo otras fuentes claramente identificadas que
+puedan afectar los registros. Los valores registrados en todos los puntos se encuentran por debajo del umbral de
+percepción humana definido en la guía FTA, el cual es de 65 [VdB].
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+37
+================================================================================
+PAGE 40
+================================================================================
+Finalmente, estas mediciones representan el entorno sonoro del Proyecto y pueden ser utilizadas en futuros
+estudios donde se requiera niveles basales de ruido y vibraciones.
+BETSABÉ VÁSQUEZ SÁEZ MAX GLISSER DONOSO
+INGENIERO CIVIL EN SONIDO Y ACÚSTICA INGENIERO CIVIL EN SONIDO Y ACÚSTICA
+JEFE DE PROYECTOS GERENTE TÉCNICO
+GERARD INGENIERÍA ACÚSTICA SPA. GERARD INGENIERÍA ACÚSTICA SPA.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+38
+================================================================================
+PAGE 41
+================================================================================
+8 INSTRUMENTAL
+▪ 01. Sonómetro marca Rion, modelo NL-52, Clase 1 según IEC 61672-1:2002.
+▪ 01. Calibrador de niveles sonoros, marca Rion, modelo NC-74, Clase 1.
+▪ 01. Analizador de vibraciones terrestre triaxial, marca Rion, modelo VM-56
+▪ 01. Sonómetro y analizador en tiempo real marca Svantek, modelo Svan 958A con acelerómetro triaxial
+PCB.
+▪ 01. Cámara fotográfica digital;
+▪ 01. Termo anemómetro marca Extech, modelo 45158;
+9 BIBLIOGRAFÍA UTILIZADA
+▪ IEC 61672-1:2002, Electroacoustic – Sound Level Meters – Part 1: Specifications.
+▪ Decreto Nº 38/2011 del MMA: Establece Norma de Ruido generados para fuentes que indica, elaborada a
+partir de la revisión del Decreto Nº 146, de 1997, Ministerio Secretaria General de la República.
+▪ Resolución Exenta Nº 491/2016 del SMA: “Dicta instrucción de carácter general sobre criterio para homologación
+de zonas del Decreto Supremo Nº 38, de 2011, del Ministerio del Medio Ambiente”, publicado en el Diario Oficial
+el 8 de junio de 2016.
+▪ U.S. Federal Transit Administration Report, Transit Noise and Vibration Impact Assessment Manual, Edición
+Septiembre de 2018.
+▪ Guía para la predicción y evaluación de impactos por ruido y vibración en el SEIA, del Servicio de Evaluación
+Ambiental (SEA), 2019.
+▪ Guía “Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa”, 2022.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+39
+================================================================================
+PAGE 42
+================================================================================
+10 PROFESIONALES PARTICIPANTES
+LISTADO DE PROFESIONALES
+Gerente de Proyectos Claudio Salas Castro.
+Gerente Técnico Max Glisser Donoso.
+Jefe de Proyectos Betsabé Vásquez Sáez.
+Juan Pablo Martínez Sobarzo
+Asistentes de Proyecto
+Joaquín Retamal Coloma
+11 GLOSARIO
+a) Decibel [dB]: Unidad adimensional usada para expresar 10 veces el logaritmo de la razón entre una
+cantidad medida y una cantidad de referencia.
+b) Decibel A [dB(A)]: Es la unidad adimensional usada para expresar el nivel de presión sonora, medido con
+el filtro de ponderación de frecuencias A.
+c) Fuente emisora de ruido: Toda actividad, proceso, operación o dispositivo que genere, o pueda generar,
+emisiones de ruido hacia la comunidad.
+d) Ruido de fondo: es aquel ruido que está presente en el mismo lugar y momento de medición de la fuente
+que se desea evaluar, en ausencia de ésta.
+e) Nivel de Presión Sonora (NPS ó L ): Se expresa en decibeles [dB] y se define por la siguiente relación
+p
+matemática:
+𝑃
+1
+𝑁𝑃𝑆 = 20∙log ( )
+10 𝑃
+Donde:
+𝑃 : Valor efectivo de la presión medida
+1
+𝑃 : Valor efectivo de la presión sonora de referencia, fijada en 2×10-5 [N/m2]
+f) Nivel de Presión Sonora Continuo Equivalente (NPSeq, ó Leq): Es aquel nivel de presión sonora
+constante, expresado en decibeles A, que en el mismo intervalo de tiempo, contiene la misma energía total
+(o dosis) que el ruido medido.
+g) Nivel de Presión Sonora Máximo (NPS ): Es el NPS más alto registrado durante el periodo de medición,
+máx
+con respuesta lenta.
+h) Nivel de Presión Sonora Mínimo (NPS ): Es el NPS más bajo registrado durante el periodo de medición,
+mín
+con respuesta lenta.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+40
+================================================================================
+PAGE 43
+================================================================================
+i) Nivel de Presión Sonora Corregido (NPC): Es aquel nivel de presión sonora continuo equivalente, que
+resulte de aplicar el procedimiento de medición y las correcciones definidas en el D.S. N° 38/2011 del MMA.
+j) Receptor: Toda persona que habite, resida o permanezca en un recinto, ya sea un domicilio particular o en
+un lugar de trabajo, que esté o pueda estar expuesta al ruido generado por una fuente emisora de ruido
+externa.
+k) Respuesta Lenta: Es la respuesta temporal del instrumento de medición que evalúa la energía media en
+un intervalo de 1 segundo. Cuando el instrumento mide el nivel de presión sonora con respuesta lenta, dicho
+nivel se denomina NPS Lento. Si además se emplea el filtro de ponderación A, el nivel obtenido se expresa
+en [dB(A)] Lento.
+l) Vibraciones: Perturbación que provoca la oscilación de los cuerpos sobre su posición de equilibrio.
+m) Acelerómetro: Dispositivo que convierte los efectos del movimiento mecánico en una señal eléctrica, la cual
+es proporcional al valor de aceleración del movimiento.
+n) Velocidad eficaz o RMS: Valor cuadrático medio (RMS) de velocidad de la onda de vibración.
+o) Velocidad de referencia: Velocidad utilizada para transformar la velocidad vibratoria en nivel de velocidad
+pulgada
+vibratoria, como 10–6 [ ]], definida en normativas internacionales.
+s
+p) Nivel de Velocidad (Lv): Se expresa en decibeles [dB] y se define por la siguiente relación matemática:
+v
+L = 20∙log ( )
+v 10 v
+ref
+Donde:
+pulgada
+v: Valor de Velocidad medida, en unidades [ ]]
+s
+pulgada
+v : Valor de Velocidad de referencia, fijada en 1×10-6 [ ]
+ref
+s
+q) Direcciones de medición: Sistema de coordenadas que se origina en el punto desde el cual se considera
+que ingresa la vibración al cuerpo humano.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+41
+================================================================================
+PAGE 44
+================================================================================
+ANEXO I
+FICHAS DE MEDICIÓN RECEPTOR HUMANO
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+42
+================================================================================
+PAGE 45
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 1
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, ubicada al costado de camino Las Pataguas.
+Punto 1
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona II
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680390 5932896
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+43
+================================================================================
+PAGE 46
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 1
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 29-11-2022 29-11-2022
+Horario 16:22 22:24
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.5 1.5
+Temperatura [ºC] 28.0 16.0
+Humedad relativa [%] 42.0 84.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 41.5 48.1 47.8 41.9 42.3 -
+eq
+NPS /NPS [dB(A)] 35.5 67.0 37.0 53.8
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular lejano Aves silvestres, tránsito vehicular lejano
+Fuentes principales por Carretera a Tomé y calle local, por Carretera a Tomé, grillos, efecto
+tránsito aéreo lejano. viento sobre el follaje
+Vibraciones
+VVP [mm/s] / Lv [VdB] 2.51E-02 59.9 1.34E-02 54.4
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+44
+================================================================================
+PAGE 47
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 2
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 2 pisos ubicada a un costado de Ruta O-390.
+Punto 2
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680671 5932437
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+45
+================================================================================
+PAGE 48
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 2
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 29-11-2022 29-11-2022
+Horario 15:53 22:27
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 0.0
+Temperatura [ºC] 33.0 16.0
+Humedad relativa [%] 36.0 82.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 47.1 46.0 - 36.6 36.9 -
+eq
+NPS /NPS [dB(A)] 33.6 66.2 33.9 43.5
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular lejano Aves silvestres, tránsito vehicular lejano
+Fuentes principales
+por Carretera a Tomé. por Carretera a Tomé, grillos.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.81E-02 57.1 1.31E-02 54.2
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+46
+================================================================================
+PAGE 49
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 3
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Entrada predio forestal, ubicado en camino interior a Ruta O-390.
+Punto 3
+Uso efectivo Industrial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+681441 5932015
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+47
+================================================================================
+PAGE 50
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 3
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 29-11-2022 29-11-2022
+Horario 15:26 21:58
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 32.0 16.0
+Humedad relativa [%] 37.0 82.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 52.3 53.5 - 36.8 36.3 -
+eq
+NPS /NPS [dB(A)] 31.5 70.7 32.6 41.4
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular por Aves silvestres, grillos, efecto del viento
+Fuentes principales
+Ruta O-390. sobre el follaje, tránsito vehicular lejano.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.47E-02 55.2 1.38E-02 54.7
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+48
+================================================================================
+PAGE 51
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 4
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390
+Punto 4
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+682281 5932438
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+49
+================================================================================
+PAGE 52
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 4
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 28-11-2022 29-11-2022
+Horario 18:35 0:18
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.2 1.2
+Temperatura [ºC] 19.0 14.0
+Humedad relativa [%] 65.0 73.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 37.0 36.2 - 30.0 29.7 -
+eq
+NPS /NPS [dB(A)] 30.9 51.0 27.4 36.0
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular lejano
+Aves silvestres, efecto del viento sobre
+Fuentes principales por Ruta O-390, animales de corral,
+el follaje, animales de corral.
+efecto del viento sobre el follaje leve.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.35E-02 54.5 1.29E-02 54.1
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+50
+================================================================================
+PAGE 53
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 5
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, ubicada en camino interior a Ruta O-390.
+Punto 5
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+682315 5932496
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+51
+================================================================================
+PAGE 54
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 5
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 28-11-2022 28-11-2022
+Horario 17:45 23:28
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.2 1.0
+Temperatura [ºC] 18.7 14.0
+Humedad relativa [%] 63.0 71.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 43.3 41.6 - 29.2 28.7 -
+eq
+NPS /NPS [dB(A)] 35.1 59.4 27.3 36.6
+mín máx
+Observación durante las mediciones
+Tránsito vehicular por camino interior,
+Aves silvestres y de corral, efecto del
+Fuentes principales aves silvestres y efecto del viento sobre
+viento sobre el follaje, grillos.
+el follaje.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.34E-02 54.5 1.29E-02 54.1
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+52
+================================================================================
+PAGE 55
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 6
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390
+Punto 6
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+682568 5932367
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+53
+================================================================================
+PAGE 56
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 6
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 28-11-2022 28-11-2022
+Horario 18:13 23:55
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 1.2
+Temperatura [ºC] 19.0 14.0
+Humedad relativa [%] 63.0 71.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 35.9 35.1 - 29.0 29.0 -
+eq
+NPS /NPS [dB(A)] 29.7 46.1 27.0 41.3
+mín máx
+Observación durante las mediciones
+Animales de corral, aves silvestres,
+efecto del viento sobre el follaje leve, Aves silvestres y de corral, efecto del
+Fuentes principales
+tránsito vehicular lejano por Ruta O- viento sobre el follaje, grillos.
+390.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.35E-02 54.5 1.30E-02 54.2
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+54
+================================================================================
+PAGE 57
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 7
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Vivienda de 1 piso y restaurant "Donde Zulema", ubicada a un costado de Ruta O-
+Ubicación
+390.
+Punto 7
+Uso efectivo Residencial/Comercial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+683019 5932079
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+55
+================================================================================
+PAGE 58
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 7
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 28-11-2022 28-11-2022
+Horario 17:15 22:27
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 2.0
+Temperatura [ºC] 20.0 14.0
+Humedad relativa [%] 60.0 82.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 56.2 62.7 61.7 39.9 39.6 -
+eq
+NPS /NPS [dB(A)] 30.5 84.9 34.0 48.6
+mín máx
+Observación durante las mediciones
+Tránsito vehicular por camino interior, Aves silvestres, efecto del viento sobre
+Fuentes principales aves silvestres y efecto del viento sobre el follaje, tránsito vehicular lejano por
+el follaje, ruido comunitario lejano. Autopista Itata.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.65E-02 56.3 1.27E-02 54.0
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+56
+================================================================================
+PAGE 59
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 8
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, ubicada a un costado de Ruta O-390.
+Punto 8
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+683194 5932076
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+57
+================================================================================
+PAGE 60
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 8
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 28-11-2022 28-11-2022
+Horario 16:50 22:33
+Condiciones Meteorológicas
+Velocidad viento [m/s] 3.0 2.0
+Temperatura [ºC] 20.0 14.0
+Humedad relativa [%] 52.0 82.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 61.2 63.8 63.3 39.9 39.6 -
+eq
+NPS /NPS [dB(A)] 34.4 86.0 34.0 48.6
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular por Aves silvestres, efecto del viento sobre
+Fuentes principales Ruta O-390, perros lejanos y ruido el follaje, tránsito vehicular lejano por
+domiciliario. Autopista Itata.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.47E-02 55.2 1.38E-02 54.7
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+58
+================================================================================
+PAGE 61
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 9
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, cercana a Vertedero
+Punto 9
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+681918 5928825
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+59
+================================================================================
+PAGE 62
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 9
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 01-12-2022 01-12-2022
+Horario 15:02 23:17
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 34.0 15.0
+Humedad relativa [%] 34.0 61.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 52.2 51.2 - 53.0 51.1 -
+eq
+NPS /NPS [dB(A)] 43.6 65.7 48.5 69.0
+mín máx
+Observación durante las mediciones
+Aves silvestres, operación maquinaria al Operación maquinaria al interior de
+Fuentes principales interior de Vertedero, tránsito vehicular Vertedero, aves silvestres y tránsito
+lejano. vehicular lejano a Vertedero.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.84E-02 57.2 1.33E-02 54.4
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+60
+================================================================================
+PAGE 63
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 10
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Garita principal Cemarc, de 1 piso.
+Punto 10
+Uso efectivo Administrativo/Industrial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+681542 5929206
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+61
+================================================================================
+PAGE 64
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 10
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 01-12-2022 01-12-2022
+Horario 15:29 23:47
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 0.0
+Temperatura [ºC] 35.0 15.0
+Humedad relativa [%] 30.0 63.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 54.5 55.8 - 51.0 51.6 -
+eq
+NPS /NPS [dB(A)] 46.8 73.4 48.4 65.5
+mín máx
+Observación durante las mediciones
+Aves silvestres, operación maquinaria al
+Operación maquinaria al interior de
+Fuentes principales interior de Vertedero, tránsito vehicular
+Vertedero lejana, aves silvestres.
+a Vertedero.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 2.08E-02 58.3 1.28E-02 54.1
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+62
+================================================================================
+PAGE 65
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 11
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, ubicada en camino interior.
+Punto 11
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+681359 5929460
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+63
+================================================================================
+PAGE 66
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 11
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 01-12-2022 02-12-2022
+Horario 14:33 0:08
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 1.0
+Temperatura [ºC] 30.0 15.0
+Humedad relativa [%] 34.0 64.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 48.3 46.6 - 49.0 50.7 -
+eq
+NPS /NPS [dB(A)] 38.4 64.2 46.2 75.3
+mín máx
+Observación durante las mediciones
+Operación maquinaria al interior de
+Aves silvestres, operación de
+Vertedero, tránsito vehicular lejano,
+Fuentes principales maquinaria al interior de Vertedero,
+generador leve, aves silvestres, ruido
+animales de corral, perros lejanos.
+domiciliario leve.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.77E-02 56.9 1.71E-02 56.6
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+64
+================================================================================
+PAGE 67
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 12
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Castaños N°34.
+Punto 12
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona II
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+678898 5930509
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+65
+================================================================================
+PAGE 68
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 12
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 01-12-2022 01-12-2022
+Horario 17:46 22:02
+Condiciones Meteorológicas
+Velocidad viento [m/s] 0.0 1.0
+Temperatura [ºC] 23.0 16.0
+Humedad relativa [%] 61.0 67.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 52.7 53.3 - 51.0 49.5 -
+eq
+NPS /NPS [dB(A)] 45.4 80.5 43.7 63.2
+mín máx
+Observación durante las mediciones
+Tránsito vehicular lejano por Autopista
+Tránsito vehicular lejano por Autopista
+Fuentes principales Itata, aves silvestres, efecto del viento
+Itata, aves silvestres, perros lejanos.
+sobre el follaje.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.32E-02 54.3 8.07E-03 50.0
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+66
+================================================================================
+PAGE 69
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 13
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Cipreses N°5.
+Punto 13
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona II
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+679093 5930752
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+67
+================================================================================
+PAGE 70
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 13
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 01-12-2022 01-12-2022
+Horario 17:16 23:35
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 0.0
+Temperatura [ºC] 23.0 16.0
+Humedad relativa [%] 61.0 67.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 58.9 58.7 - 45.0 47.0 -
+eq
+NPS /NPS [dB(A)] 41.8 82.4 41.4 63.3
+mín máx
+Observación durante las mediciones
+Tránsito vehicular por Autopista Itata, Tránsito vehicular lejano por Autopista
+Fuentes principales
+aves silvestres, perros lejanos. Itata, perros lejanos.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.38E-02 54.7 1.28E-02 54.0
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+68
+================================================================================
+PAGE 71
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 14
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Vivienda de 1 piso, ubicada en calle Miramar N°990.
+Punto 14
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona II
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+679242 5931249
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+69
+================================================================================
+PAGE 72
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 14
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 29-11-2022 29-11-2022
+Horario 17:25 23:49
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 1.2
+Temperatura [ºC] 28.0 14.0
+Humedad relativa [%] 37.0 89.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 43.9 44.9 - 48.5 48.5 -
+eq
+NPS /NPS [dB(A)] 39.8 57.6 43.7 54.8
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular lejano
+Aves silvestres, tránsito vehicular lejano
+por calle El Maitén, tránsito vehicular
+Fuentes principales por calle El Maitén, tránsito vehicular
+lejano por By-Pass Penco, peros
+lejano por By-Pass Penco, grillos.
+lejanos ocasionales.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 2.54E-02 60.0 1.34E-02 54.5
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+70
+================================================================================
+PAGE 73
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN 15
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Centro de salud CESFAM Penco 2 pisos, ubicada en calle Acceso a Fundo
+Ubicación
+Copihueco.
+Punto 15
+Uso efectivo Salud
+Zonificación D.S Nº 38/2011 Zona II
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+679442 5931734
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+71
+================================================================================
+PAGE 74
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN 15
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 29-11-2022 29-11-2022
+Horario 16:58 23:21
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 1.0
+Temperatura [ºC] 30.0 14.0
+Humedad relativa [%] 39.0 88.0
+Ruido
+NPS 5 / 10 / 15 min [dB(A)] 53.3 54.1 - 48.1 48.6 -
+eq
+NPS /NPS [dB(A)] 43.5 63.9 44.6 57.9
+mín máx
+Observación durante las mediciones
+Tránsito vehicular por by Pass Penco,
+Grillos, extractores de aire CESFAM,
+por calle Acceso a Fundo Copihueco,
+Fuentes principales tránsito vehicular por by Pass Penco,
+movimiento de vehículos
+perros lejanos.
+estacionamiento CESFAM.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 2.09E-02 58.3 1.32E-02 54.3
+* Ref: 1 [µin/s]
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+72
+================================================================================
+PAGE 75
+================================================================================
+ANEXO II
+FICHAS DE MEDICIÓN PUNTOS DE FAUNA
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+73
+================================================================================
+PAGE 76
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F1
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a bosque nativo
+Punto F1
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680920 5931032
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+74
+================================================================================
+PAGE 77
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F1
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 30-11-2022
+Horario 17:37 22:21
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.5 1.0
+Temperatura [ºC] 25.0 15.0
+Humedad relativa [%] 44.0 64.0
+Ruido
+NPSeq [dB] 51.6 49.3
+NPS / NPS [dB] 46.7 60.9 44.6 57.0
+mín máx
+Observación durante las mediciones
+Aves silvestres, tránsito vehicular lejano Aves silvestres, tránsito vehicular lejano
+Fuentes principales
+por Autopista Itata, insectos. por Autopista Itata, insectos.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.53E-02 55.6 1.27E-02 54.0
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+75
+================================================================================
+PAGE 78
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F2
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a plantación
+Punto F2
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680812 5928949
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+76
+================================================================================
+PAGE 79
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F2
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 30-11-2022
+Horario 15:41 22:55
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 32.0 13.0
+Humedad relativa [%] 42.0 74.0
+Ruido
+NPSeq [dB] 58.6 47.5
+NPS / NPS [dB] 46.5 67.1 44.4 54.8
+mín máx
+Observación durante las mediciones
+Aves silvestres, efecto del viento sobre Aves silvestres, insectos, tránsito
+Fuentes principales
+el follaje, tránsito vehicular lejano. vehicular lejano.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.85E-02 57.3 1.28E-02 54.0
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+77
+================================================================================
+PAGE 80
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F3
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a plantación
+Punto F3
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680203 5928355
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+78
+================================================================================
+PAGE 81
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F3
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 30-11-2022
+Horario 16:19 23:37
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 30.0 12.0
+Humedad relativa [%] 40.0 78.0
+Ruido
+NPSeq [dB] 49.4 48.3
+NPS / NPS [dB] 33.8 78.0 44.4 54.7
+mín máx
+Observación durante las mediciones
+Aves silvestres, efecto del viento sobre Aves silvestres, insectos, tránsito
+Fuentes principales
+el follaje, tránsito vehicular lejano. vehicular lejano.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.73E-02 56.6 1.27E-02 54.0
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+79
+================================================================================
+PAGE 82
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F4
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a matorral
+Punto F4
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+680634 5930114
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+80
+================================================================================
+PAGE 83
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F4
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 30-11-2022
+Horario 17:07 21:56
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.0 1.5
+Temperatura [ºC] 28.0 18.0
+Humedad relativa [%] 40.0 62.0
+Ruido
+NPSeq [dB] 62.8 59.2
+NPS / NPS [dB] 54.8 71.1 51.0 69.3
+mín máx
+Observación durante las mediciones
+Aves silvestres, insectos, corriente de
+Aves silvestres, tránsito vehicular lejano
+Fuentes principales agua tránsito vehicular por Avenida del
+por Autopista Itata, insectos.
+Itata.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.71E-02 56.5 1.31E-02 54.3
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+81
+================================================================================
+PAGE 84
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F5
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a bosque asilvestrado
+Punto F5
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+679647 5929447
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+82
+================================================================================
+PAGE 85
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F5
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 01-12-2022
+Horario 15:00 0:23
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 30.0 11.0
+Humedad relativa [%] 48.0 80.0
+Ruido
+NPSeq [dB] 53.2 49.5
+NPS / NPS [dB] 48.7 60.7 46.2 57.4
+mín máx
+Observación durante las mediciones
+Aves silvestres, efecto del viento sobre
+Aves silvestres, insectos, tránsito
+Fuentes principales el follaje, movimiento y caída de
+vehicular lejano.
+material lejano.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.98E-02 57.9 1.27E-02 54.0
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+83
+================================================================================
+PAGE 86
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F6
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez - Joaquín Retamal
+Ubicación Punto de fauna asociado a bosque nativo
+Punto F6
+Datum: WGS 84 Huso: 18H
+Coordenadas UTM Este Norte
+682181 5930423
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+84
+================================================================================
+PAGE 87
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F6
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 30-11-2022 30-11-2022
+Horario 18:09 21:33
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.0 1.0
+Temperatura [ºC] 24.0 19.0
+Humedad relativa [%] 45.0 52.0
+Ruido
+NPSeq [dB] 47.9 46.6
+NPS / NPS [dB] 45.2 54.4 45.1 53.3
+mín máx
+Observación durante las mediciones
+Aves silvestres, insectos, corriente de
+Fuentes principales Aves silvestres, corriente de agua.
+agua.
+Vibraciones
+VVP [mm/s] / Lv [VdB] 1.98E-02 55.1 1.27E-02 54.1
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+85
+================================================================================
+PAGE 88
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F7
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez Sobarzo
+Ubicación Sector representativo de fauna, cercano a quebrada.
+Punto F7
+Datum: WGS84 Huso: 18H
+Coordenadas UTM Este Norte
+681535 5930108
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+86
+================================================================================
+PAGE 89
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F7
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 18-01-2024 18-01-2024
+Horario 14:17 23:01
+Condiciones Meteorológicas
+Velocidad viento [m/s] 5.0 0.0
+Temperatura [ºC] 32.0 15.0
+Humedad relativa [%] 34.0 51.2
+Ruido
+NPSeq [dB] 59.0 57.6
+NPS / NPS [dB] 49.3 73.8 51.7 72.7
+mín máx
+Observación durante las mediciones
+Aves silvestres, efecto del viento sobre
+Insectos y tránsito vehicular ocasional
+Fuentes principales follaje y tránsito vehicular desde Ruta
+por Ruta Acceso Norte.
+Acceso Norte.
+Vibraciones
+VVP [mm/s] Lv [VdB] 6.93E-04 28.7 5.86E-04 27.3
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+87
+================================================================================
+PAGE 90
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F8
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez Sobarzo
+Ubicación Sector representativo de fauna, ubicado en bosque nativo.
+Punto F8
+Datum: WGS84 Huso: 18H
+Coordenadas UTM Este Norte
+681433 5930957
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+88
+================================================================================
+PAGE 91
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F8
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 18-01-2024 18-01-2024
+Horario 16:06 22:33
+Condiciones Meteorológicas
+Velocidad viento [m/s] 0.0 0.0
+Temperatura [ºC] 30.0 14.0
+Humedad relativa [%] 40.4 57.6
+Ruido
+NPSeq [dB] 45.7 48.0
+NPS / NPS [dB] 42.4 50.1 43.3 59.8
+mín máx
+Observación durante las mediciones
+Efecto del viento sobre follaje, caudal
+Insectos, aves silvestres y caudal de
+Fuentes principales de riachuelo leve, aves silvestres y
+riachuelo leve.
+tránsito vehicular lejano ocasional.
+Vibraciones
+VVP [mm/s] Lv [VdB] 5.69E-04 27.0 5.62E-04 26.9
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+89
+================================================================================
+PAGE 92
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO REFERENCIAL DE FAUNA F9
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez Sobarzo
+Sector representativo de fauna, ubicado entre camino interior a Cemarc y Ruta
+Ubicación
+Acceso Norte.
+Punto F9
+Datum: WGS84 Huso: 18H
+Coordenadas UTM Este Norte
+680718 5929566
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+90
+================================================================================
+PAGE 93
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN F9
+Antecedentes de medición
+Periodo de Medición Diurno Nocturno
+Fecha 18-01-2024 18-01-2024
+Horario 13:27 23:27
+Condiciones Meteorológicas
+Velocidad viento [m/s] 3.0 0.0
+Temperatura [ºC] 32.0 12.0
+Humedad relativa [%] 34.0 58.1
+Ruido
+NPSeq [dB] 52.6 50.0
+NPS / NPS [dB] 45.8 66.2 39.6 58.8
+mín máx
+Observación durante las mediciones
+Aves silvestres, insectos, efecto del
+viento sobre follaje, tránsito vehicular Insectos y tránsito vehicular ocasional
+Fuentes principales
+lejano por Ruta Acceso Norte y por Ruta Acceso Norte.
+ocasional por camino privado a Cemarc.
+Vibraciones
+VVP [mm/s] Lv [VdB] 6.63E-04 28.3 7.31E-04 29.2
+FOTOGRAFÍAS
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+91
+================================================================================
+PAGE 94
+================================================================================
+ANEXO III
+FICHAS DE MEDICIÓN LEQ (H)
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+92
+================================================================================
+PAGE 95
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN A
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez
+Ubicación Garita principal Cemarc, de 1 piso.
+Punto A
+Uso efectivo Administrativo/Industrial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS84 Huso: 18 H
+Coordenadas UTM Este Norte
+681578 5929337
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+93
+================================================================================
+PAGE 96
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN A
+Antecedentes de medición
+Periodo de Medición Diurno
+Fecha 19-01-2024
+Horario 10:40
+Condiciones Meteorológicas
+Velocidad viento [m/s] 1.3
+Temperatura [ºC] 28.0
+Humedad relativa [%] 31.0
+Ruido
+Leq (h) [dB(A)] 63
+NPS /NPS [dB(A)] 47.9 84.3
+mín máx
+Observación durante las mediciones
+Fuentes principales Tránsito de vehículos pesados, operación desde relleno sanitario, aves silvestres.
+Vibraciones
+VVP [mm/s] Lv [VdB] 1.22E-02 53.6
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+94
+================================================================================
+PAGE 97
+================================================================================
+FICHA DE GEORREFERENCIACIÓN PUNTO DE MEDICIÓN B
+Proyecto Proyecto De Extracción De Arcillas Para Producción De Tierras Raras
+Operador Terreno Juan Pablo Martínez
+Ubicación Vivienda de 1 piso, ubicada en camino interior.
+Punto B
+Uso efectivo Residencial
+Zonificación D.S Nº 38/2011 Zona Rural
+Datum: WGS84 Huso: 18 H
+Coordenadas UTM Este Norte
+681359 5929460
+VISTA AMPLIADA DE PUNTO DE MEDICIÓN.
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+95
+================================================================================
+PAGE 98
+================================================================================
+FICHA DE MEDICIÓN PUNTO DE MEDICIÓN B
+Antecedentes de medición
+Periodo de Medición Diurno
+Fecha 19-01-2024
+Horario 8:40
+Condiciones Meteorológicas
+Velocidad viento [m/s] 2.1
+Temperatura [ºC] 17.4
+Humedad relativa [%] 49.6
+Ruido
+Leq (h) [dB(A)] 48
+NPS /NPS [dB(A)] 39.6 65.4
+mín máx
+Observación durante las mediciones
+Tránsito de vehículos pesados, aves silvestres y alarmas de retroceso desde
+Fuentes principales
+relleno sanitario
+Vibraciones
+VVP [mm/s] Lv [VdB] 3.62E-03 43.1
+FOTOGRAFÍA DE UBICACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+96
+================================================================================
+PAGE 99
+================================================================================
+ANEXO IV
+CERTIFICADOS DE CALIBRACIÓN
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+97
+================================================================================
+PAGE 100
+================================================================================
+CERTIFICADO DE CALIBRACIÓN SONÓMETRO SVANTEK SVAN 958-A
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+98
+================================================================================
+PAGE 101
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+99
+================================================================================
+PAGE 102
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+100
+================================================================================
+PAGE 103
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+101
+================================================================================
+PAGE 104
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+102
+================================================================================
+PAGE 105
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+103
+================================================================================
+PAGE 106
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+104
+================================================================================
+PAGE 107
+================================================================================
+CERTIFICADO DE CALIBRACIÓN CALIBRADOR ACÚSTICO SVANTEK SV33
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+105
+================================================================================
+PAGE 108
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+106
+================================================================================
+PAGE 109
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+107
+================================================================================
+PAGE 110
+================================================================================
+CERTIFICADO DE CALIBRACIÓN ACELEROMETRO TRIAXIAL PCB
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+108
+================================================================================
+PAGE 111
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+109
+================================================================================
+PAGE 112
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+110
+================================================================================
+PAGE 113
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+111
+================================================================================
+PAGE 114
+================================================================================
+CERTIFICADO DE CALIBRACIÓN SONÓMETRO RION NL-52
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+112
+================================================================================
+PAGE 115
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+113
+================================================================================
+PAGE 116
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+114
+================================================================================
+PAGE 117
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+115
+================================================================================
+PAGE 118
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+116
+================================================================================
+PAGE 119
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+117
+================================================================================
+PAGE 120
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+118
+================================================================================
+PAGE 121
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+119
+================================================================================
+PAGE 122
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+120
+================================================================================
+PAGE 123
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+121
+================================================================================
+PAGE 124
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+122
+================================================================================
+PAGE 125
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+123
+================================================================================
+PAGE 126
+================================================================================
+CARTA DE ACEPTACIÓN ISP SONÓMETRO RION NL-52
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+124
+================================================================================
+PAGE 127
+================================================================================
+CERTIFICADO DE CALIBRACIÓN CALIBRADOR RION NC-74
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+125
+================================================================================
+PAGE 128
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+126
+================================================================================
+PAGE 129
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+127
+================================================================================
+PAGE 130
+================================================================================
+CERTIFICADO DE CALIBRACIÓN ACELEROMETRO TRIAXIAL RION VM - 56
+CERTIFICADO DE CALIBRACIÓN SONÓMETRO SVANTEK SVAN 958-A
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+128
+================================================================================
+PAGE 131
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+129
+================================================================================
+PAGE 132
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+130
+================================================================================
+PAGE 133
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+131
+================================================================================
+PAGE 134
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+132
+================================================================================
+PAGE 135
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+133
+================================================================================
+PAGE 136
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+134
+================================================================================
+PAGE 137
+================================================================================
+CERTIFICADO DE CALIBRACIÓN CALIBRADOR ACÚSTICO SVANTEK SV33
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+135
+================================================================================
+PAGE 138
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+136
+================================================================================
+PAGE 139
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+137
+================================================================================
+PAGE 140
+================================================================================
+CERTIFICADO DE CALIBRACIÓN ACELEROMETRO TRIAXIAL PCB
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+138
+================================================================================
+PAGE 141
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+139
+================================================================================
+PAGE 142
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+140
+================================================================================
+PAGE 143
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+141
+================================================================================
+PAGE 144
+================================================================================
+CERTIFICADO DE CALIBRACIÓN SONÓMETRO RION NL-52
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+142
+================================================================================
+PAGE 145
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+143
+================================================================================
+PAGE 146
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+144
+================================================================================
+PAGE 147
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+145
+================================================================================
+PAGE 148
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+146
+================================================================================
+PAGE 149
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+147
+================================================================================
+PAGE 150
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+148
+================================================================================
+PAGE 151
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+149
+================================================================================
+PAGE 152
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+150
+================================================================================
+PAGE 153
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+151
+================================================================================
+PAGE 154
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+152
+================================================================================
+PAGE 155
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+153
+================================================================================
+PAGE 156
+================================================================================
+CARTA DE ACEPTACIÓN ISP SONÓMETRO RION NL-52
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+154
+================================================================================
+PAGE 157
+================================================================================
+CERTIFICADO DE CALIBRACIÓN CALIBRADOR RION NC-74
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+155
+================================================================================
+PAGE 158
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+156
+================================================================================
+PAGE 159
+================================================================================
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+157
+================================================================================
+PAGE 160
+================================================================================
+CERTIFICADO DE CALIBRACIÓN ACELEROMETRO TRIAXIAL RION VM - 56
+LÍNEA DE BASE DE RUIDO Y VIBRACIONES
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE TIERRAS RARAS - REV. B
+158

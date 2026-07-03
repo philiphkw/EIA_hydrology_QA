@@ -1,0 +1,348 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 1-3.3
+Informe de eficiencia supresor
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Informe Número
+1573881
+Original
+Asesoría para medición de
+eficiencia en camino tratado
+con Aditivo Polimérico
+para Aclara Resources
+Santiago, 21 de enero de 2021
+================================================================================
+PAGE 3
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Título del Proyecto Cuerpo del informe
+Asesoría para medición de eficiencia en camino tratado con 12 hojas (incluye portada)
+Aditivo polimérico
+Autores: Datos Mandante
+Jefe de proyecto: Álvaro González, MSc, PhD Razón Social: Ree Uno SPA
+Ingeniería de proyecto: Jonathan Valderrama RUT : 76.181.614-4
+Dictuc S.A. Dirección: Cerro El Plomo 5630, Piso 9,
+Las Condes
+Vicuña Mackenna Nº 4860, Macul – Santiago
+Fecha del informe Información Contractual
+21 de enero de 2022 Cotización N°: 21278
+Contraparte técnica
+Nombre: Viviana Flores
+Cargo: Ingeniero Medioambiental
+E-mail: viviana.flores@aclara-re.com
+Resumen
+Aclara Resources busca mantener controlado el nivel de polvo que producen los vehículos que circulan
+por sus caminos no pavimentados, y contrató a Dictuc S.A. con el objetivo de obtener asesoría experta
+para realizar mediciones y determinar la eficiencia de un aditivo polimérico como supresor de polvo en
+un camino no pavimentado. Dictuc realizó tres visitas al Proyecto para medir la línea de base y
+mmeeddiicciioonneess ude seguimiento. Los resultados del estudio permiten concluir que el tramo presentó una
+eeffiicciieenncciiaa rdeea l9iz1a%d, 84%, y 78% a los 0.25, 3, y 10 días transcurridos de su aplicación. Las mediciones
+rreeaalliizzaadas en este estudio representan la condición del camino para las condiciones al momento de la
+medición.
+Sr. Álvaro Gonzalez Sr. Felipe Bahamondes
+Director de Proyecto Gerente General
+Dictuc S.A. Dictuc S.A.
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 2 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 4
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+NORMAS GENERALES
+ El presente informe presenta los resultados finales del estudio Asesoría para medición de
+eficiencia en camino tratado con Aditivo Polimérico desarrollado durante el período de
+diciembre de 2021 y enero de 2022.
+ El presente informe fue preparado por Dictuc a solicitud del Mandante para medir la
+eficiencia de un tratamiento supresor de polvo, bajo su responsabilidad exclusiva.
+ Los alcances de este estudio están definidos explícitamente en las Secciones 1 y 2 del
+presente informe, y en la propuesta de trabajo. Las conclusiones de este informe se limitan
+a la información disponible para su ejecución.
+ La información contenida en el presente informe no podrá ser reproducida total o
+parcialmente, para fines publicitarios, sin la autorización previa y por escrito de Dictuc
+mediante un Contrato de Uso de Marca.
+ El Mandante podrá manifestar y dejar constancia verbal y escrita, frente a terceros, sean
+estos autoridades judiciales o extrajudiciales, que el trabajo fue preparado por Dictuc, y si
+decide entregar el conocimiento del presente informe de Dictuc, a cualquier tercero, deberá
+hacerlo en forma completa e íntegra, y no partes del mismo.
+ El presente informe es propiedad del Mandante sin embargo si Dictuc recibe la solicitud de
+una instancia judicial hará entrega de una copia de este documento al tribunal que lo
+requiera, previa comunicación por escrito al Mandante.
+ El presente informe es resultado de las metodologías desarrolladas por Dictuc, del alcance
+del informe encomendado y de los antecedentes que el Mandante puso a disposición de
+Dictuc. El Mandante acepta expresamente que los resultados del presente informe pueden
+en definitiva, no serles favorables a sus intereses particulares.
+ El Mandante declara conocer y aceptar los términos y condiciones generales para la
+prestación de servicios, disponibles para todo el público en su sitio web oficial
+www.dictuc.cl/tyc.
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 3 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 5
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+CONTENIDO
+1. Introducción ................................................................................................................................. 5
+2. Objetivos ...................................................................................................................................... 5
+3. Metodología ................................................................................................................................. 5
+3.1 Medición de Material Particulado ........................................................................................ 5
+3.2 Determinación de Eficiencia ................................................................................................ 5
+4. Descripción de la zona y camino en estudio ............................................................................... 6
+5. Análisis de Resultados ................................................................................................................ 7
+6. Conclusiones y Recomendaciones ........................................................................................... 11
+7. Anexos ....................................................................................................................................... 12
+7.1 Anexo 1: Certificado de Calibración Equipo Dustmate ..................................................... 12
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 4 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 6
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+1. Introducción
+Aclara Resources ha solicitado a la Unidad de Ingeniería Vial de Dictuc una asesoría para la gestión
+de sus caminos no pavimentados de su Proyecto de Desarrollo Minero de Extracción de Arcillas
+para producción de Concentrado de Tierras Raras, en adelante "el Proyecto", ubicado en las
+comunas de Penco y Concepción. Esto con el fin de definir acciones tendientes a disminuir la
+natural emisión de material particulado emitido por el tránsito de vehículos en los caminos del
+proyecto, de manera de cumplir con los objetivos planteados en su planificación ambiental.
+En el presente informe se presentan los resultados obtenidos del estudio de la evolución de
+la eficiencia del tratamiento supresor de polvo con el producto DMS-DS100, aplicado en uno de
+los caminos interiores del proyecto. El tratamiento se inició el día 27 de diciembre de 2021,
+y su eficiencia fue seguida hasta el día 06 de enero de 2022. El estudio de eficiencia tiene por fin
+realizar recomendaciones para la fase de operación del proyecto respecto a la periodicidad en la
+aplicación de tratamientos supresores de polvo.
+2. Objetivos
+Los objetivos de la presente asesoría se pueden resumir en:
+ Determinar el tiempo entre aplicaciones del producto supresor de polvo, de manera de
+mantener una eficiencia acorde a los objetivos ambientales del proyecto.
+ Entregar recomendaciones para que el desempeño a nivel ambiental y operacional de las
+acciones de mantenimiento asociadas a la aplicación de supresores de polvo se mantenga
+en el óptimo de la tecnología seleccionada.
+3. Metodología
+3.1 Medición de Material Particulado
+La metodología de medición de material particulado ha sido desarrollada por Dictuc S.A y aplicada
+ampliamente a caminos no pavimentados. La metodología consiste en equipar un vehículo liviano
+tipo camioneta minera con sensores de polvo, para luego medir la cantidad de partículas que genera
+el paso del mismo vehículo sobre el camino en estudio. Esto permite cuantificar de manera relativa
+y objetiva la cantidad de partículas emitidas al aire. Los resultados de las mediciones se expresan en
+cantidad de partículas por centímetro cúbico (Pcc), y permite determinar el desempeño de
+productos utilizados para la reducción de la emisión de polvo en caminos no pavimentados. Además
+de la medición de material particulado, se hace un registro audiovisual del camino y se determina
+la posición del vehículo mediante sistema GPS.
+3.2 Determinación de Eficiencia
+La eficiencia se define como el porcentaje de reducción de material particulado que logra un
+tratamiento supresor de polvo. Toda eficiencia requiere conocer una línea de base o cantidad de
+partículas que inicialmente emite un camino, antes de aplicar un supresor de polvo. Una vez que se
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 5 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 7
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+aplica el supresor de polvo y se realizan las mediciones posteriores, la eficiencia se calcula como
+100% menos el cociente entre la medición posterior y la línea de base, expresado en porcentaje.
+La medición de la línea de base se realizó en un ‘tramo de referencia’ del camino seleccionado sin
+tratar, y fue comparado con la sección tratada en cada visita, permitiendo mantener la comparación
+con la línea base en el mismo horizonte temporal. Esto robustece la comparación, pues anula la
+influencia del clima como la humedad ambiental y en la superficie, el cual es un factor importante a
+tener en cuenta dada la ubicación geográfica del proyecto.
+Se realizaron tres mediciones en el camino: 6 horas después de la aplicación, 3 días después de la
+aplicación, y 10 días después de la aplicación.
+4. Descripción de la zona y camino en estudio
+El camino no pavimentado en estudio (Figura 4-1) se encuentra emplazado una zona con cultivos
+forestales. Tiene su inicio por el sur en el camino que conecta la Ruta 150 Camino a Penco con el
+Relleno Sanitario Cemarc, y tiene su fin por el norte en un extremo del Paso Superior El Retamo,
+sobre la Ruta 152 Autopista del Itata. La apreciación visual del camino durante la visita a terreno
+indica que la superficie tiene una condición de regularidad superficial satisfactoria, pudiéndose
+mantener una conducción segura y confortable, en la mayoría de su sección, para un camino no
+pavimentado bajo las condiciones observadas durante los días de visita a terreno.
+Figura 4-1 Ubicación general de tramo de prueba (Fuente: Google Earth con Información de Aclara
+Resource y Dictuc)
+El clima en la zona, es de estacionalidad marcada, siendo los inviernos fríos (temperaturas entre
+13°C y 6°C en el mes más frío), con abundante lluvia (máximo promedio mensual de 181 mm de
+agua caída), en contraposición con el verano, que es de temperatura templada (temperaturas entre
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 6 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 8
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+13°C y 6°C en el mes más cálido) con pocas lluvias en el mes más seco (12 mm de lluvia promedio
+para el mes de enero).
+Considerando lo anterior, se escogió el final del mes de diciembre 2021 para la aplicación del
+tratamiento supresor de polvo, de manera de evaluar su efecto en la condición más desfavorable
+posible.
+La empresa tiene como objetivo que la eficiencia del tratamiento sea mayor o igual al 80%.
+5. Análisis de Resultados
+El supresor utilizado se denomina DMS-DS100, provisto por la empresa ABC DUST, y es de tipo
+polimérico. De acuerdo a lo informado por ABC DUST, para su preparación se mezcla con agua limpia
+en una proporción aditivo a agua de 1:10, con una dosis de 4 lt/m2 de solución, en una sección de
+400 metros.
+El producto supresor de polvo se aplicó en una sección en el medio de la longitud del camino, por
+lo que el tramo de referencia se compone de dos subtramos en los extremos del camino, como se
+detalla en la Tabla 5-1 y Figura 5-1.
+Tabla 5-1 Ubicación de los puntos de inicio y fin de los sub tramos del tramo de prueba
+Punto Latitud Longitud
+Inicio Referencia 1 -36.762991° -72.983606°
+Fin Referencia 1 -36.756826° -72.983119°
+Inicio Tramo de Prueba -36.756826° -72.983119°
+Fin Tramo de Prueba -36.756115° -72.979374°
+Inicio Referencia 2 -36.756115° -72.979374°
+Fin Referencia 2 -36.753855° -72.980711°
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 7 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 9
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Figura 5-1 Subtramos del camino medidos, según condición tratada o no tratada (Fuente: Google
+Earth con Información de Aclara Resource y Dictuc)
+La aplicación del tratamiento supresor de polvo (Figura 5-2) fue realizada el día 27 de diciembre, y
+la primera medición fue realizada seis horas después de la aplicación (0.25 días), una vez que la
+superficie del camino estaba seca. Las siguientes mediciones de seguimiento fueron realizadas a los
+3 y 10 días de aplicado el tratamiento.
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 8 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 10
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Figura 5-2 Camino de prueba con el aditivo recién aplicado. (Fuente: Equipo Dictuc)
+Los resultados de las mediciones (Tabla 5-2) indican que la eficiencia inicial se encuentra cerca del
+90%, valor que desciende al 84% a los tres días. Dichos valores de eficiencia se explican por la
+naturaleza del aditivo el que, al ser polimérico, tiene su mayor acción por la adhesión entre
+partículas de suelo. La eficiencia a los 10 días es de 78% (Figura 5-3), instante en el que se podría
+suponer que el polvo suspendido corresponde en mayor medida a partículas no ligadas por el aditivo
+en su aplicación. Esta eficiencia puede verse mejorada con las aplicaciones sucesivas que se realicen,
+permitiendo tener un desempeño que mejore en el tiempo.
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 9 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 11
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Tabla 5-2 Resumen de mediciones y su eficiencia en zona en el camino en estudio (Fuente:
+Elaboración Propia con datos tomados en terreno).
+Promedio
+PM10 Línea Promedio M10
+Fecha Eficiencia Días desde la
+Base medida Zona tratada
+Medición [%] aplicación
+en tramo de PM10 [Pcc]
+referencia [Pcc]
+27-12-2021 3171 288 91% 0.25
+30-12-2021 2162 308 84% 3
+06-01-2022 2319 505 78% 10
+95%
+90%
+85%
+80%
+75%
+70%
+0 2 4 6 8 10 12
+Figura 5-3 Evolución de la eficiencia en el tiempo en zona en estudio. (Fuente: Elaboración Propia
+con datos tomados en terreno).
+De la observación del gráfico de evolución de la eficiencia en el tiempo, se puede estimar utilizando
+un ajuste lineal que para mantener una eficiencia superior al 80%, se tendrían que hacer riegos de
+mantenimiento aproximadamente cada 8 días durante la época más seca y calurosa en el
+emplazamiento del proyecto, con las dosis para dicho fin que recomiende el proveedor del producto
+supresor de polvo. El tiempo de 8 días se calcula utilizando la intersección del ajuste lineal con el
+límite de eficiencia (línea horizontal con el 80%).
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 10 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+]%[
+aicneicifE
+Días desde aplicación
+================================================================================
+PAGE 12
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Figura 5-4 Inicio de sector con aplicación de supresor polimérico en visita del 07 de enero de 2022
+(10 días después de la aplicación). (Fuente: Equipo Dictuc)
+Es importante señalar que el presente estudio fue realizado en un camino ya existente. Una mejora
+en la granulometría de la superficie de rodado debería redundar en un mejor desempeño del
+supresor aplicado y con otros supresores, aumentando el tiempo entre aplicaciones del tratamiento
+supresor de polvo.
+6. Conclusiones y Recomendaciones
+ Los resultados del estudio permiten concluir que el tramo presentó una eficiencia de 91%,
+84%, y 78% a los 0.25, 3, y 10 días transcurridos de su aplicación, respectivamente.
+ Se observa que bajo las condiciones en que se realizó el presente estudio, con la ejecución
+de riegos de mantenimiento, aproximadamente cada 8 días se podría mantener una
+eficiencia sobre el 80%.
+ El tiempo entre aplicaciones puede aumentar si se hacen cambios a la materialidad de la
+carpeta de rodado y si se realizan varias aplicaciones y se acumula el producto aplicado,
+entre otros factores. También puede verse disminuido el tiempo entre aplicaciones por
+factores como el aumento en la intensidad del tránsito y clima severo, entre otros. Por lo
+tanto, se recomienda controlar la eficiencia del camino durante su operación.
+ La durabilidad de los tratamientos supresores de polvo es relativa y depende de diversos
+factores, tales como tipo y volumen de tránsito, tipo de material que conforma la carpeta,
+y condiciones climáticas (temperatura, humedad relativa, viento, etc.). Las mediciones
+realizadas en este estudio representan la condición del camino para las condiciones al
+momento de la medición.
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 11 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 13
+================================================================================
+Informe Nº 1573881
+ORIGINAL
+Anexos
+6.1 Anexo 1: Certificado de Calibración Equipo Dustmate
+Asesoría para medición de eficiencia en camino tratado con Aditivo polimérico
+Informe 1573881
+Página 12 de 12
+Código V03: FI-A.01-DSA
+www.dictuc.cl

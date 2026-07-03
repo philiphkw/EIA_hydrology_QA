@@ -1,0 +1,419 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 1-4
+Plan de aplicación de supresor de polvo
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Informe Número
+1615421
+Original
+Plan de supresión de polvo en caminos no
+pavimentados, aplicación y seguimiento en
+“Proyecto de Desarollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+para Aclara Resources
+Santiago, 26 de enero de 2024
+================================================================================
+PAGE 3
+================================================================================
+Título del Proyecto Cuerpo del informe de Avance
+Plan de supresión de polvo en caminos no pavimentados, 11 hojas (incluye portada)
+aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Autores: Fecha del informe
+Jefe de proyecto: Álvaro González V. 30 de enero de 2024
+Ingeniería de proyecto: Jonathan Valderrama R. Información Contractual
+Dictuc S.A. OC N°: 4570073159 del 29-01-2024
+Vicuña Mackenna Nº 4860, Macul – Santiago
+Datos Mandante Contraparte técnica
+Razón Social: Ree Uno SpA Nombre: Viviana Flores
+RUT: 76.181.614-4 Cargo: Ingeniero Medioambiental
+Dirección: Cerro El Plomo 5630, Piso 15, Las Condes E-mail: viviana.flores@aclara-re.com
+Sr. Álvaro González V. Sr. Felipe Bahamondes
+Unidad Ingeniería Vial Gerente General
+Dictuc S.A. Dictuc S.A.
+================================================================================
+PAGE 4
+================================================================================
+NORMAS GENERALES
+ El presente informe presenta las recomendaciones del estudio “Plan de supresión de polvo en
+caminos no pavimentados , aplicación y seguimiento en “Proyecto de Desarrollo Minero
+de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”” iniciado en
+diciembre de 2021, y anula y ree mplaza el informe 1598876 del 17 de abril de 2023
+ El presente informe fue preparado por Dictuc a solicitud del Mandante para uso a definir por éste,
+bajo su responsabilidad exclusiva.
+ Los alcances de este estudio están definidos explícitamente en la Sección 3 del presente informe.
+Las conclusiones de este informe se limitan a la información disponible para su ejecución, hasta la
+fecha.
+ La información contenida en el presente informe no podrá ser reproducida total o parcialmente,
+para fines publicitarios, sin la autorización previa y por escrito de Dictuc mediante un Contrato de
+Uso de Marca.
+ El Mandante podrá manifestar y dejar constancia verbal y escrita, frente a terceros, sean estos
+autoridades judiciales o extrajudiciales, que el trabajo fue preparado por Dictuc, y si decide
+entregar el conocimiento del presente informe de Dictuc, a cualquier tercero, deberá hacerlo en
+forma completa e íntegra, y no partes del mismo.
+ El presente informe es propiedad del Mandante, sin embargo, si Dictuc recibe la solicitud de una
+instancia judicial hará entrega de una copia de este documento al tribunal que lo requiera, previa
+comunicación por escrito al Mandante.
+ El presente informe es resultado de las metodologías desarrolladas por Dictuc, del alcance del
+informe encomendado y de los antecedentes que el Mandante puso a disposición de Dictuc. El
+Mandante acepta expresamente que los resultados del presente informe pueden, en definitiva,
+no serles favorables a sus intereses particulares.
+ El Mandante declara conocer y aceptar los términos y condiciones generales para la prestación de
+servicios, disponibles para todo el público en su sitio web oficial www.dictuc.cl/tyc.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 3 de 13
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 5
+================================================================================
+Contenido
+1. Introducción ................................................................................................................................. 5
+2. Objetivos ...................................................................................................................................... 5
+3. Alcances de las medidas ............................................................................................................. 5
+4. Medidas generales de mantenimiento ........................................................................................ 7
+4.1 Planificación de las aplicaciones ........................................................................................ 7
+4.2 Recomendaciones generales de aplicación obtenidas del camino en estudio .................. 8
+5. Medidas de control ...................................................................................................................... 9
+5.1 Características del equipo de medición para control ......................................................... 9
+5.2 Instalación del equipo en vehículo ................................................................................... 10
+5.3 Características de los tramos a medir .............................................................................. 10
+6. Ajustes en el plan de mantenimiento ........................................................................................ 11
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 4 de 13
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 6
+================================================================================
+Informe Nº 1615421
+Original
+1. Introducción
+Ree Uno SpA ha solicitado a la Unidad de Ingeniería Vial de Dictuc una asesoría para la gestión de
+sus caminos no pavimentados de su “Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras” (El Proyecto), ubicado en las comunas de Penco y
+Concepción. El proyecto requiere definir y tomar acciones para a disminuir la natural emisión de
+material particulado emitido por el tránsito de vehículos en los caminos no pavimentados del
+proyecto, de manera de cumplir con los objetivos planteados en su planificación ambiental.
+En el presente informe de avance se entregan recomendaciones para que la eficiencia en la
+supresión del material particulado por la circulación de vehículos en caminos no pavimentados sea
+igual o mayor a 80%, considerando tanto acciones de mantenimiento como de control.
+2. Objetivos
+Los objetivos de la asesoría son:
+ Recomendar medidas generales de mantenimiento para caminos no pavimentados que se
+encuentren en operación durante la vida útil del proyecto.
+ Recomendar acciones generales de monitoreo que permitan obtener indicadores de
+desempeño del abatimiento de material particulado emitido por el tránsito de vehículos en
+los caminos no pavimentados del proyecto.
+ Presentar procedimientos y parámetros que permitan en el futuro realizar cambios al plan
+de mantenimiento, de manera que permita evaluar nuevas técnicas, tecnologías y prácticas
+que puedan surgir durante la vida útil del proyecto.
+3. Alcances de las medidas
+El alcance del plan aplica a los caminos no pavimentados que se encuentren operativos y que sean
+transitados por vehículos y maquinarias durante las actividades del “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”.
+Se entregan recomendaciones generales que puede adoptar el “Proyecto de Desarrollo Minero
+de Extracción de Arcillas para Producción de Concentrado de Tierras Raras” tendientes a disminuir
+las emisiones de material particulado suspendido por el tránsito de vehículos en caminos no
+pavimentados. Se recomiendan acciones generales de control de material particulado que puedan
+asegurar el cumplimiento de los objetivos planteados, así como su seguimiento en el tiempo.
+Las recomendaciones entregadas en este plan de mantenimiento son generales y no
+necesariamente reemplazan una adecuada ingeniería de caminos que permita reducir aún más el
+material particulado de los caminos.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 5 de 13
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 7
+================================================================================
+Informe Nº 1615421
+Original
+Las recomendaciones entregadas se centran en caminos que tienen (Figura 3-1) o van a tener
+tratamiento supresor de polvo. En aquellos caminos que no se encuentren con tratamiento, y que
+de manera extraordinaria deban ser transitados por alguna maquinaria o vehículo, se sugiere
+establecer una velocidad máxima de 10 km/h de manera de minimizar la suspensión de material
+particulado.
+Figura 3-1: Caminos con aplicación de supresor de polvo.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Plan de supresión de polvo
+en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo Minero de Extracción de
+Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615 421
+Página 6 de 13
+Código V03 : FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 8
+================================================================================
+Informe Nº 1615421
+Original
+4. Medidas generales de mantenimiento
+4.1 Planificación de las aplicaciones
+De acuerdo a la información obtenida en el estudio realizado en terreno en un tramo particular del
+proyecto y reportado en informe Dictuc 1573881 para Aclara Resources, para alcanzar la eficiencia1
+deseada se puede aplicar el producto supresor de polvo polimérico DMS-DS100, o cualquiera que
+demuestre igual o mayor eficiencia en la supresión de polvo, cada no más de ocho días. Esta
+frecuencia puede variar en otras zonas del proyecto y de acuerdo a las condiciones particulares de
+clima y tránsito.
+Se recomienda programar las aplicaciones de supresor de polvo en los caminos no pavimentados
+con un plan de riego semanal, el cual es producto de una planificación que se debe realizar
+analizando las variables asociadas a las características y condiciones de los caminos a tratar.
+La planificación de riegos considera las siguientes etapas: obtención de variables, modelación de
+desempeño, aprobación del área de ingeniería, y verificación (o no) del cumplimiento de los
+indicadores de desempeño. Con esta información se decide (o no) si es necesario realizar la
+aplicación de supresor de polvo y la cantidad a aplicar.
+La planificación semanal debe tomar en cuenta las siguientes variables de los caminos: tipo de
+camino, tipo de tráfico, KPI, PM10, y dosis acumulada:
+• Tipo de Camino: Se refiere al tipo de vehículo que hacen uso del camino. Normalmente se
+tienen dos niveles: primario y secundario. Los caminos primarios son aquellos en que
+circulan camiones de gran tamaño o CAEX y los caminos secundarios corresponden a
+caminos por los que no circulan camiones de gran tamaño, es decir, caminos para vehículos
+livianos.
+• Tipo de Tráfico: Se refiere a la intensidad del tráfico que presenta un camino, la que
+normalmente se divide en alto y bajo. Esta clasificación solo afecta a caminos primarios.
+• PM10: Se refiere al nivel de emisiones, en Partículas por Centímetro Cúbico (PCC) que
+presenta cada camino en su última medición (a ser explicada en Sección 5).
+• KPI: Se refiere al nivel general de emisiones medido en PCC. Es un valor único que
+representa el estado de los caminos a nivel de red.
+1 La eficiencia se define como el porcentaje de reducción de material particulado que logra un tratamiento
+supresor de polvo. Toda eficiencia requiere conocer una línea de base o cantidad de partículas que
+inicialmente emite un camino, antes de aplicar un supresor de polvo. Una vez que se aplica el supresor de
+polvo y se realizan las mediciones posteriores, la eficiencia se calcula como 100% menos el cociente entre la
+medición posterior y la línea de base, expresado en porcentaje.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Plan de supresión de polvo
+en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo Minero de Extracción de
+Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615 421
+Página 7 de 13
+Código V03 : FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 9
+================================================================================
+Informe Nº 1615421
+Original
+• Dosis acumulada: Se refiere a la cantidad histórica de supresor de polvo aplicado en l/m²
+que se ha aplicado en cada camino o tramo después de la última intervención mayor con
+maquinaria que haya tenido la superficie del camino.
+4.2 Recomendaciones generales de aplicación obtenidas del camino en estudio
+Para la aplicación del tratamiento supresor de polvo se podrá instalar una planta en el interior de la
+faena, o el producto supresor de polvo podrá venir premezclado en camiones aljibes. La
+concentración en la aplicación inicial de cada camino será de 1:10, y posteriormente podrá ser
+ajustada según las indicaciones del proveedor, y el desempeño en cada camino.
+En el caso que el camino no haya sido tratado previamente con supresor de polvo es importante
+considerar la preparación de la superficie existente. En este caso, se realizarán trabajos de
+reparaciones previas si la carpeta de rodado existente presenta alguno de los siguientes problemas:
+material suelto, baches, calaminas, chuscales, hundimientos debido a la inestabilidad de la
+subrasante y áreas que presenten un aspecto superficial muy alterado. En estos casos, se procederá
+a remover y reemplazar el espesor necesario para eliminar este defecto en un mínimo de 10 cm de
+profundidad. Si el camino a tratar no presenta los problemas que se describieron anteriormente,
+sólo bastará con un perfilado simple con motoniveladora, a fin de nivelar la plataforma y hacer que
+el material sea permeable, permitiendo que el aditivo penetre en la superficie. Durante el perfilado,
+se retirarán las piedras que queden sueltas y con sobre tamaño. Posteriormente, se deberá realizar
+un riego completo con agua previa a la aplicación del aditivo ya que una humectación favorece la
+penetración del aditivo.
+Los riegos supresores de polvo se aplicarán uniformemente sobre todo el ancho de la superficie,
+utilizando un camión aljibe equipado con una barra de riego con aspersores y una bomba autónoma,
+las que asegurarán un riego constante y homogéneo, independiente de la velocidad y marcha del
+camión. Se controlará dicha homogeneidad 3 veces cada 50 m3 aplicados, con el método de la
+bandeja desarrollado por Dictuc. Esta motobomba, debe contar con una válvula de corte que sea
+controlada desde la cabina a fin de evitar derrames de solución cuando el camión se detenga.
+También debe contar con un velocímetro o en su defecto un tacómetro que permita medir las
+revoluciones del motor, a fin de controlar la velocidad del camión.
+El camino no pavimentado en estudio se describe con más detalle en informe Dictuc 1573881 para
+Aclara Resources. El camino se encuentra emplazado una zona con cultivos forestales, y se conecta
+con el Relleno Sanitario Cemarc por lo que tiene un importante flujo de camiones. La apreciación
+visual del camino durante la visita a terreno realizada indica que la superficie tiene una condición
+de regularidad satisfactoria, pudiéndose mantener una conducción segura y confortable para un
+camino no pavimentado bajo las condiciones observadas durante los días de visita a terreno. Por
+dichas condiciones fue seleccionado para el presente estudio, pues es el camino dentro de la zona
+que mejor representa la red de caminos que se encontrarán operativos durante la operación del
+proyecto.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 8 de 13
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 10
+================================================================================
+Informe Nº 1615421
+Original
+El control de la aplicación de supresor de polvo se realizará llevando un registro de aplicación,
+mediante un registro físico y/o digital, que deberá tener al menos la siguiente información:
+ Fecha y hora de inicio y fin de aplicación
+ Camino y punto de inicio y fin de aplicación (acompañar de archivo GPS)
+ Cantidad de supresor aplicada
+ Dosis medida por m2 por método de bandeja, registrando velocidad de aplicación.
+ Ancho de aplicación
+ Longitud aplicación
+ Responsable y firma
+5. Medidas de control
+5.1 Características del equipo de medición para control
+Para determinar la eficiencia de los tratamientos aplicados, se deberá hacer al menos un monitoreo
+anual en una muestra representativa de los caminos en operación, con una ventana de tiempo que
+permita evaluar su evolución entre aplicaciones, con al menos tres mediciones por sección, en
+temporada de verano. Este monitoreo puede ser más frecuente en el caso que cambien las
+condiciones del proyecto (por ejemplo, mayor tránsito).
+Se recomienda realizar las mediciones con equipo de cuantificación directo portátil de medición de
+material particulado como el equipo Marca Turnkey modelo Dustmate o similar, que registre datos
+de material particulado por unidad de volumen de aire (Figura 5-1). Este equipo realiza análisis
+fotométrico de una muestra estándar de aire, permitiendo identificar el diámetro de las partículas
+contenidas en la muestra y establecer la masa total de estas en microgramos por metro cúbico
+(gr/m3) de aire o en cantidad de partículas por centímetro cúbico de aire (PCC).
+Figura 5-1 Equipo Dustmate
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Arcillas para
+Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 9 de 13
+Código V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 11
+================================================================================
+Informe Nº 1615421
+Original
+5.2 Instalación del equipo en vehículo
+La sonda de medición del equipo Dustmate debe ser instalada en el parachoques posterior de una
+camioneta, orientada al lado contrario de la salida del escape (Figura 5-2). Al mismo tiempo, la
+entrada de aire de la sonda está conectada al equipo mediante un conducto flexible de diámetro
+interior de 4 milímetros. La toma de aire se debe ubicar aproximadamente a 40 centímetros del
+suelo (que corresponde a aproximadamente el 50% de la altura del neumático desde el suelo) y 110
+centímetros de la fuente de generación de material particulado por tracción (neumático del
+vehículo).
+Figura 5-2 Ubicación de sonda de equipo Dustmate
+Se debe utilizar la misma camioneta durante las pruebas para eliminar el tipo de neumático como
+una variable. Las mediciones se deberán realizar acompañadas de un dispositivo GPS, que permita
+registrar la posición del vehículo durante las mediciones, para georreferenciar las mediciones
+realizadas.
+5.3 Características de los tramos a medir
+No se deben realizar mediciones cuando el camino esté recién humectado o se observe presencia
+de barro, ya que por un lado la emisión de material particulado será cero, y por otro lado el sensor
+colocado en la parte trasera del vehículo se cubrirá de barro, alterando las mediciones siguientes si
+no es limpiado adecuadamente.
+Los tramos deben tener entre 300 a 1.000 metros de longitud. El tramo debe estar en condición
+natural al momento de levantar la línea base2 (que se podrá fijar al principio del proyecto, o podrá
+2 La línea de base se refiere a la cantidad de partículas que inicialmente emite un camino, antes de aplicar
+un supresor de polvo y se puede medir con el equipo Dustmate montado en camioneta o similar.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 10 de 13 Código
+V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 12
+================================================================================
+Informe Nº 1615421
+Original
+medirse cada año), es decir, sin humectación ni aplicación de supresor. El tramo debe estar
+conformado por un material homogéneo (debe tener el mismo tipo de suelo en su longitud) en
+caso contrario los resultados de las mediciones también serán heterogéneos. También debe tener
+una geometría homogénea (sin curvas cerradas ni cambios de pendiente, idealmente en una zona
+plana) y sin intersecciones , de manera de permitir que la camioneta desarrolle una velocidad
+constante al circular por él. La velocidad será de 40 ± 5 km/h, a menos que restricciones de
+seguridad del proyecto fijen una velocidad de circulación menor , en cuyo caso será la
+adoptada para las mediciones.
+Se deberán elegir al menos dos caminos que representen dos o más subgrupos de caminos en el
+proyecto (por materialidad, tratamiento, uso, geometría, condición sol-sombra, etc).
+Las mediciones realizadas deberán ser agrupadas en un informe, que dé cuenta al menos de:
+ Número de caminos estudiados
+ Longitud de caminos
+ Fecha de las mediciones
+ Justificación de tramo patrón a comparar (fecha, clima, materialidad, etc)
+ Tiempo pasado entre última aplicación supresor y medición
+ Nivel de emisión en partículas por centímetro cúbico promedio en cada camino
+ Eficiencia en cada emisión para cada camino
+ Curva de eficiencia de cada camino estudiado
+ Estimación de tiempo entre tratamientos para mantener eficiencia objetivo
+ Identificación de puntos críticos de emisión en cada camino si los hubiere.
+Además de este informe anual, se podrán realizar mediciones en otros momentos del año que
+permitan ajustar la dosis y periodicidad de aplicación de supresor en otras estaciones y climas del
+año, de manera de darle sustento a dichas decisiones de ingeniería.
+6. Ajustes en el plan de mantenimiento
+Las técnicas y tecnologías aplicadas para el mantenimiento de caminos no pavimentados y la
+supresión de polvo, tienen un constante avance y desarrollo , por lo que podrían cambiarse o
+ajustarse durante la vida útil del proyecto . Resulta conveniente para el proyecto definir
+indicadores de desempeño como el PCC u otros que permitan tomar la decisión referente a la
+adopción de un nuevo producto o técnica, y evaluar cambiar lo que se esté aplicando o utilizando
+en un momento particular del proyecto.
+Para tomar la decisión de cambiar o modificar el producto supresor de polvo por uno nuevo, se
+recomienda estudiar y/o comparar al menos los siguientes parámetros:
+ Eficiencia de abatimiento en el tiempo del supresor nuevo versus el utilizado
+ Cálculo de agua utilizado con supresor de polvo nuevo versus el utilizado.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 11 de 13 Código
+V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 13
+================================================================================
+Informe Nº 1615421
+Original
+ Inocuidad ambiental.
+Además de dichos parámetros se podrá tener en cuenta múltiples factores adicionales cómo su
+costo, facilidad de aplicación, seguridad vial normalmente relacionada con la resistencia al
+deslizamiento de los vehículos, análisis de ciclo de vida, fabricación local, cuidado de los vehículos,
+mejora de los parámetros estructurales de los caminos, entre otros.
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 12 de 13 Código
+V03: FI-A.01-DSA
+www.dictuc.cl
+================================================================================
+PAGE 14
+================================================================================
+Informe Nº 1615421
+Original
+7. Anexos
+7.1 Ejemplo de ficha de control
+Correlativo
+Fecha Hora Inicio Hora Término
+Camino
+Coordenadas Inicio X UTM Y UTM
+Coordenadas Término X UTM Y UTM
+Cantidad de supresor Inicio
+en cisterna Litros
+Cantidad de supresor =(I)-(T) Litros
+Inicio en cisterna (I) Litros
+Término en cisterna (T) Litros
+Densidad Solución Kg/lt
+Cálculo dosis
+Volumen en bandeja Litros
+Velocidad de paso km/h
+Longitud recorrida kilómetros
+Ancho promedio Aplicación metros
+Nombre Aplicador Firma
+Nombre Supervisor Firma
+Plan de supresión de polvo en caminos no pavimentados, aplicación y seguimiento en “Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”
+Informe 1615421
+Página 13 de 13 Código
+V03: FI-A.01-DSA
+www.dictuc.cl

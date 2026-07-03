@@ -1,0 +1,2554 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Chapter 08
+Contingency and Emergency Plan
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+8 Contingency and Emergency Prevention Plan ................................................................... 8-1
+8.1 Introduction ................................................................................................................................... 8-1
+8.2 Objectives ................................................................................................................................... 8-1
+8.3 Scope and Priorities ................................................................................................................... 8-2
+8.4 Contingency Prevention Plan ....................................................................................................... 8-2
+8.5 General risk prevention measures ........................................................................................... 8-2
+8.6 Identification of Main Project Risks ................................................................................... 8-3
+8.6.1 Description of Identified Risks ........................................................................................... 8-4
+8.6.2 Contingency prevention and risk control measures to be implemented ............................ 8-7
+8.7 Emergency Plan ................................................................................................................... 8-24
+8.7.1 Risk analysis ........................................................................................................... 8-25
+8.7.2 Means of protection ....................................................................................................... 8-25
+8.7.3 Organization of the emergency ........................................................................................... 8-27
+8.7.4 Emergency response procedures ........................................................................... 8-30
+8.8 Maintenance of Equipment, Machinery and Systems ................................................................... 8-50
+8.9 Training ........................................................................................................................... 8-50
+8.10 Update of the Contingency and Emergency Plan ........................................................... 8-51
+8.11 First aid ................................................................................................................................... 8-51
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 8-1. Main Project Risks ........................................................................................................... 8-3
+Table 8-2. Measures to Implement – Earthquake and tsunamis.............................................................................. 8-8
+Table 8-3. Measures to Implement – Adverse Weather Conditions ........................................................... 8-9
+Table 8-4. Measures to Implement –Flood or Waterlogging ........................................................... 8-10
+Table 8-5. Measures to Implement – Landslide and/or Materials ........................................... 8-11
+Table 8-6. Measures to Implement – Industrial and Forest Fires ................................................ 8-12
+Table 8-7. Measures to Implement – Workplace Accidents ....................................................................... 8-14
+Table 8-8. Measurements to implement
+ntar –Transportation of Personnel and/or Project Supplies ............................ 8-19
+Table 8-9. Measures to Implement –Transportation, Handling, Storage and Spill of Substances and/or
+Hazardous Waste ........................................................................................................................................... 8-20
+Table 8-10. Measures to Implement – Affectation of Wildlife ................................................................... 8-22
+Table 8-11. Measures to Implement – Hydrocarbon spill in terrestrial and aquatic environment product
+of the modification of the ENAP pipeline layout ........................................................................................... 8-23
+Table 8-12. Measures to Implement – Sewage spill ........................................................... 8-23
+Table 8-13. Measures to Implement – In the event that the effluent from the PTAS cannot be reused... 8-24
+Table 8-14. Contact information for external support ........................................................................................... 8-29
+Table 8-15. Procedure for Action Against Earthquakes and Tsunamis ................................................................... 8-32
+Table 8-16. Procedure for Action Against Adverse Weather Conditions ......................... 8-33
+Table 8-17. Procedure for Action Against Workplace Accidents ................................................... 8-35
+Table 8-18. Procedure for Action Against Accidents in the Transportation of Personnel and/or Supplies
+Project ................................................................................................................................................... 8-37
+Table 8-19. Procedure for Action Against Spills of Hazardous Substances and/or Waste .... 8-38
+Table 8-20. Procedure for Action Against Industrial and Forest Fires ......................... 8-40
+Table 8-21. Procedure for Action Against Accidents with Wildlife ................................... 8-43
+Table 8-22. Procedure for Action Against Flooding or Waterlogging ........................................... 8-44
+Table 8-23. Procedure for Action Against Landslides and/or Materials ......................... 8-45
+Table 8-24. Measures to Implement – Hydrocarbon spill in terrestrial and aquatic environment product
+of the modification of the ENAP pipeline layout ........................................................................................... 8-46
+Table 8-25. Measures to Implement – Sewage spill ........................................................... 8-47
+Table 8-26. Measures to Implement – In the event that the effluent from the PTAS cannot be reused... 8-48
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 8-1. Organizational structure of the Emergency ........................................................................... 8-28
+INDEX OF ANNEXES
+Annex 8-1 Fire Protection Plan
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8 CONTINGENCIES AND EMERGENCIES PREVENTION PLAN
+8.1 Introduction
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Raras, hereinafter, without distinction, the “Project” corresponds to the set of parts, works and actions
+that will allow the construction, operation and closure of a mining site for extraction and processing
+of clays, a material present in the area, which, due to natural effects, is highly
+weathered, with the presence of rare earths in clay minerals. The Project will be developed
+mainly in the commune of Penco, Province of Concepción, Biobío Region, without prejudice to part
+of the works are located in the commune of Concepción, on the border with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three (3) storage areas
+clay extraction (ZE V
+ictoria Norte, ZE Luna, ZE Maite), one (1) disposal area for ballast and clays
+processed (ZD Neptuno), one (1) vegetal soil collection area (ZAV), a processing plant
+clays (the “Plant”), a stockpile for the temporary collection of material prior to processing, a line
+electricity and its connection to the existing line and the construction of internal roads to access the different
+areas. The Processing Plant will have a capacity to process up to 320 tons/hour of
+material to produce Rare Earth concentrate. In addition, the modification of a section is considered
+existing approximately 1.22 kilometers of the Hualpén – San Fernando pipeline, owned by
+ENAP, reason for the exploitation of the Maite ZE. The Project in turn includes the implementation of works
+temporary corresponding to work facilities for the construction and authorization of the works of the
+Project.
+8.2 Objectives
+In accordance with the provisions of Title III, letter j) of Article 18 of the D.S. 40/2012, modified by
+D.S. 30/2023, both from the Ministry of the Environment, Regulation of the Evaluation System of
+Environmental Impact Study (RSEIA), an Environmental Impact Study must contain a Prevention Plan
+Contingencies and Emergencies, in accordance with the provisions of Paragraph 2 of Title VI of the aforementioned
+RSEIA.
+In accordance with the above, this chapter presents the Contingency Prevention Plan and
+Emergencies for the Project.
+For the development of this Plan, those risk or contingency situations that
+may affect the population or the environment. Likewise, the measures that will be
+implemented to reduce the probability of occurrence of these risk situations. On the other hand,
+In the Emergency Plan, the action procedures that will be carried out in the event of
+8-1
+==================================================================================
+PAGE 6
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+of a contingency occurring with the aim of controlling its effects on the population and the environment
+environment.
+The Contingency and Emergency Prevention Plan must be updated each time they occur.
+variations in the Project, either in the organic structure during the expansion, operation or
+technical variations of it.
+8.3 Scope and Priorities
+This Plan will be applicable to all personnel involved in the execution of the Project, in its implementation phases.
+construction, operation and closure, as appropriate.
+A hierarchical order of operational priorities is established for this Plan, being as follows:
+Guarantee and protect the physical and mental integrity of people;
+Avoid the occurrence of incidents that could affect the community or environment.
+Avoid the occurrence of damage to the environment, whether in the Project area or its surroundings;
+8.4 Contingency Prevention Plan
+In accordance with the provisions of Article 103 of the RSEIA, the Contingency Prevention Plan considers
+the following:
+“… must identify risk or contingency situations that may affect the environment
+environment or the population and describe the actions or measures to be implemented to prevent
+these occur or minimize the probability of their occurrence.”
+In the following sections, the risks associated with the Project are identified and described and the
+general risk prevention measures for the construction, operation and closure phases.
+8.5 General risk prevention measures
+The general risk prevention measures that must be implemented in the different phases of the
+Project correspond to the following:
+- Maintain an environmental management system that includes the commitments of the impact study
+environmental, as well as the procedures for handling chemical substances and waste.
+- Risk prevention and control plan and program that includes, at least:
+• Hazard identification and risk assessment of the activity and facilities;
+• Identification of legal security requirements;
+8-2
+==================================================================================
+PAGE 7
+==================================================================================
+Chapter
+08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Carrying out preventive safety observations, in order to identify
+risks due to unsafe acts of workers;
+• Carrying out preventive safety inspections, in order to inspect
+systematically the work places and equipment, that is, the material conditions
+with which the tasks are developed;
+• Investigation of accidents and occupational diseases;
+• Information to workers about the risks involved in their work, the
+preventive measures and correct work methods;
+• Staff training and training program;
+• Identification of the necessary Personal Protection Elements (PPE); and,
+• Systematic verification of applicable regulations.
+• Preparation of Internal Safety and Hygiene Regulations, including the
+obligations, responsibilities and prohibitions for workers regarding
+safety and risks.
+Adherence to an administrative body that carries out permanent risk prevention activities
+work accidents and occupational diseases, in accordance with the provisions of Law No. 16,744.
+• Instructions and/or safe work procedures for the tasks to be carried out.
+• Coordination of preventive activities with contractor companies and
+subcontractors.
+• Establish the Joint Hygiene and Safety Committee if there are more than 25 workers in
+the Project.
+• Facility maintenance and inspection program.
+8.6 Identification of Main Project Risks
+Depending on the activities associated with the construction, operation and closure phases of the Project, the
+which are described in Chapter 1 “Project Description”, as well as in the Line
+Base, the following risks are identified and described:
+Table 8-1. Main Project Risks
+Type of Phases
+Risks
+Risk Con. Ope. Cie.
+Earthquakes and tsunamis x x x
+Natural
+Adverse weather conditions (heavy rain, intense winds) x x x
+Risks due to occupational accidents x x x
+Anthropos
+Risks associated with the transportation of personnel and/or supplies x x x
+8-3
+==================================================================================
+PAGE 8
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Type of Phases
+Risks
+Risk Con. Ope. Cie.
+Risks associated with the transportation, handling and storage of substances and/or
+x x x
+hazardous waste with the potential to affect soils and water courses
+Risks from industrial and forest fires x x x
+Risk of impact on wildlife x x x
+Risk of flooding or waterlogging x x x
+Risk due to landslide and/or materials x x x
+Risk of hydrocarbon spills in the environment and aquatic product
+x
+of the construction of the ENAP pipeline route modification
+Risk of wastewater spill x x x
+Risk if the effluent from the PTAS cannot be reused x x x
+Source: Own elaboration, 2024.
+8.6.1 Description of Identified Risks
+Natural Hazards
+They are all those caused by natural phenomena in which the
+integrity of the worker, the infrastructure or the continuity of the processes.
+These risks are made up of three essential factors; The first is the danger that refers to
+the probability of a certain natural phenomenon, of a certain extent, intensity and duration. The
+Second is vulnerability, which refers to the impact of the phenomenon on the organization, and the
+Third is responsiveness.
+Regarding the consideration of climate risks related to rising temperatures, the
+Climate risks are evaluated at low levels or with slight increases in the commune of Penco, so they are not
+Its consideration in this Contingency and Emergency Prevention Plan is considered applicable.
+• Earthquakes and tsunamis
+The Project is located in an area with seismic zoning “Zone 2” according to the NCh. 433 “Design
+“building seismic”, which implies a high probability of occurrence for this event compared to
+with other zones defined for the rest of Chile. Therefore, “earthquake risk” is identified in all
+the
+stages of the project.
+According to the information presented in the “Tsunami Flood Letter of Bahías Concepción and San
+Vicente, referring to the event of the year 1835; Prepared by SHOA”, the simulation result shows the
+Project area outside the flood zone; Therefore, it is not considered a tsunami risk.
+• Adverse weather conditions (heavy rain, intense winds)
+8-4
+==================================================================================
+PAGE 9
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+According to what is indicated in Chapter 3 (Baseline) of the EIA, rainfall in the Project area
+They are of a pluvial type, and are present for much of the year, concentrating in the winter months of May
+to August, and with maximum precipitation levels of up to 336 mm in the month of June. Regarding the wind,
+The average annual recorded speed corresponds to 3.9 m/s. In the period between 3:00 p.m. and 4:00 p.m.,
+Speeds of 4.8 m/s are recorded. The winds come from the SW direction with a frequency of
+60%, approximately.
+The risk of adverse weather conditions is identified for the construction, operation and phases.
+closure. The events with the highest probability of occurrence would be heavy rain and/or intense winds.
+Anthropic Risks
+They are risks caused by human activities or as a result of human activities,
+including technological ones. This type of risk is directly related to the development of the activity
+and the behavior of man.
+• Risks due to work accidents
+o Risks that correspond to the possibility that a worker suffers a certain
+damage derived from work during all phases (construction, operation and closure)
+of the Project.
+o Fall of people at different and same levels.
+o Blows due to falling objects or suspended loads.
+o Entrapment due to overturning of machines or vehicles.
+o Entrapments between objects, cuts by objects and/or tools.
+o Direct and indirect electrical contacts.
+o Exposure to dust, noise, vibrations and non-ionizing radiation (ultraviolet of origin
+solar), wastewater.
+o Work in deep excavations.
+o Blows/run over by vehicles or machinery.
+o Risks due to the projection of fragments, particles or liquids.
+o Risks due to contact with dangerous substances.
+o Fire risks.
+• Risk associated with the transportation of personnel and/or Project supplies
+Related to events with consequences that occur due to the displacement of people
+or transportation of supplies to or from the Project. It is usually caused by collisions between two
+vehicles, collisions with fixed objects, run overs, overturning, among others. They generally originate
+8-5
+==================================================================================
+PAGE 10
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+due to human errors, mechanical failure of vehicles, unfavorable weather conditions, poor
+condition of roads and/or access routes.
+Considering the different tasks that will be carried out in the Project and the supplies that must be transported,
+This type of risk is associated with all phases, mainly the construction phase.
+• Risk associated with the transportation, handling, storage and spill of substances and/or waste
+dangerous with the potential to affect soils and water courses
+It involves the occurrence of events with effects on soils and watercourses, but specifically
+produced due to the transportation, handling and storage of substances that have any of the
+hazard classifications contained in the NCh. 382/2017 “Dangerous Goods – Classification” or
+hazardous waste that has one or more of the classifications contained in the D.S. N°148/2003
+“Health Regulations on Hazardous Waste Management” of the Ministry of Health. These accidents
+They can be caused by collisions between two vehicles, collisions with fixed objects, run overs,
+overturning, among others. They generally derive from human errors, mechanical failure of vehicles
+ulos,
+unfavorable weather conditions, poor condition of roads and access routes.
+This risk will be present in all phases of the Project, with the construction phase being the most
+requirement regarding the transport of dangerous substances.
+• Risks from industrial and forest fires
+It refers to a condition that can contribute to the initiation and subsequent spread of fire,
+representing a danger to the safety of people, the environment and property both
+public as well as private.
+This risk can be found in all phases, because the project is immersed in
+forest plantations and forests, likewise, the Processing Plant will have the presence of
+fuel storage areas, temporary storage areas for substances and waste
+hazardous waste and material storage facilities with a significant combustible load (waste
+domestic solids).
+The Fire Protection Plan is presented in Annex 8.1.
+• Risks of affecting wildlife
+Risk associated with the possibility of being run over or finding injured fauna in the sectors associated with
+Project. This type of risk is considered in the three phases of the Project, mainly in the phase of
+construction and operation thereof.
+• Risk of flooding and/or waterlogging
+8-6
+==================================================================================
+PAGE 11
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+According to what is indicated in Chapter 3 (Baseline) of the EIA, the Project Area is located,
+according to the DGA basin inventory, in the Coastal and Island Basin between the Itata River and the Biobío River. A
+sub-basin level, the southern portion of the Project is located in the Río Andalién sub-sub-basin, while
+that the northern portion is located in the Costeras subsubbasin between Río Pingueral and Río Andalién.
+On the other hand, considering the extension of the Project and the topography of the place, in the area there is
+a network of estuaries and minor streams, related to the location of the works and parts of the
+Project.
+This risk of flooding and/or waterlogging may be present in all phases of the Project, due to
+to the possibility of overflowing some of the estuaries during episodes of intense rain.
+• Risk of landslide and/or materials
+Possibility of accidents due to possible risk situations of mass removal and materials
+deposited in the vicinity of the Project area. This risk can be present in all phases of the
+Project. Notwithstanding the above, it is highlighted that it is considered as a fundamental part of the Project, the
+stability of its parts and works, an issue that, specifically, is presented as part of the
+background provided in this EIA, regarding the application for environmental permits
+sectoral defined in articles 136 and 137 of the RSEIA, Permission to establish a waste dump
+or accumulation of mineral and Permit for the approval of the closure plan of a mining site,
+respectively.
+• Risk of hydrocarbon spills in the environment and aquatic environment as a result of construction
+of the modification of the ENAP pipeline route
+This risk may arise in the operation phase, due to the construction and connection to the pipeline.
+• Risk of sewage spill
+This risk can occur in all phases of the project, due to the use of toilet services.
+and, therefore, wastewater generation.
+• Risk in the event that the effluent from the PTAS cannot be reused
+This risk can occur in all phases of the project, due to the use of toilet services.
+and, therefore, wastewater generation.
+8.6.2 Contingency prevention and risk control measures to be implemented
+Next, once the main risks present in the Project have been identified, they are indicated for each
+one of them risk prevention and control measures, with the aim of:
+8-7
+==================================================================================
+PAGE 12
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Clay Extraction Mining Development Project for
+ra Production of
+Rare Earth Concentrate
+- Reduce the probability of failure associated with elements, equipment or processes;
+- Reduce the frequency of exposure to risk by workers; and,
+- Reduce the magnitude of the consequences, should the contingency occur.
+8.6.2.1 Seismic and tsunami risk
+Table 8-2. Measures to Implement – Earthquake and tsunamis
+Risk or contingency Earthquakes.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action All Project facilities, mainly in the Work Facility and
+associated Processing Plant.
+• The engineering design and construction of the Project will be in accordance with
+national and international norms and standards for seismic resistance, for
+which will be built with the capacity to resist earthquakes of magnitudes
+expected for the Biobío region.
+• Safety and evacuation zones will be established, which will be maintained
+demarcated and free of obstacles.
+• All work areas will be maintained in order and cleanliness.
+Actions or measures to
+to ensure rapid evacuation from earthquakes in case of
+implement
+necessary.
+• Emergency telephone numbers will be kept in a visible and easily accessible area.
+to ensure effective communication when required.
+• Emergency drills will be carried out to evaluate the response
+by Project staff.
+• Training and training will be carried out for personnel associated with the
+rescue and first aid work.
+An action protocol will be established in the event of an earthquake where actions will be carried out.
+emergency drills, leaving a record and report of the activity.
+After the event, it will be verified that the total number of people participating in the
+Project are safe, for which a record of income and
+Form of control and exits of people.
+tracking
+During the construction, operation and closure phases, all work will be suspended.
+until it has been technically verified that there is no risk to workers.
+During the operation phase, an inspection of the facilities will be carried out in order to
+to verify its condition and rule out the existence of damage that could cause the
+collapse or collapse of structures.
+Source: Own elaboration, 2024.
+8-8
+==================================================================================
+PAGE 13
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.6.2.2 Risks due to adverse weather conditions (heavy rains, winds
+intense)
+Table 8-3. Measures to Implement – Adverse Weather Conditions
+Risk or contingency Adverse weather conditions.
+Project Phase
+Construction, operation and closure.
+what applies
+All Project facilities, mainly in:
+• Installation of tasks.
+Part, work or action • Processing plant.
+associated • Clay extraction areas.
+• Washed clay disposal area.
+• Plant soil collection area.
+• Road enabling activities.
+• The sectors most likely to be affected will be identified,
+establishing themselves as risk areas that will be identified on maps of
+work.
+• The location of work facilities will be carried out outside the areas
+exposed to flooding.
+• Constant monitoring of wind or other conditions will be maintained.
+weather conditions that may affect Project operations. For
+When monitoring meteorological variables, the
+use of some of the following instruments:
+or Rain gauge.
+o Anemometer.
+or Thermometer.
+Actions or measures to
+or Weathervanes.
+implement
+• Continuous training will be carried out for personnel in relation to the
+prevailing climatic conditions in the project location area.
+• When adverse weather conditions are evident, warning will be given.
+for the suspension of work to be carried out. Along with this, all
+Personnel must withdraw from areas likely to be affected.
+• It should be noted that as part of the adverse weather conditions,
+consider the extreme precipitation events that may occur with
+greater frequency and intensity in accordance with change projections
+climate analyzed for the location area
+of the Project. For this,
+The pertinent monitoring will be carried out and when evidenced
+conditions not conducive to the safety of the development of the Project,
+will give notice for the suspension of works and operations.
+8-9
+==================================================================================
+PAGE 14
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Adverse weather conditions.
+• All slaughter facilities and ancillary facilities (warehouses)
+hazardous substances and waste, offices, workshops, etc.) must be closed
+until weather conditions improve.
+Periodic control of work areas, verifying the structural integrity of the
+Control form and
+facilities and verifying that safety zones are free of
+tracking
+obstacles and properly demarcated.
+Source: Own elaboration, 2024.
+8.6.2.3 Risk of flooding or waterlogging
+Considering the adverse effects of climate change, observations from the historical period (1985-
+2019) show a significant trend of decrease in precipitation on an annual scale.
+(Dichato station) and in the months of April (Carriel Sur) and May (Cancha Los Litres). As for the
+future projections of decreased rainfall, these continue with negative trends,
+although not all models present statistical significance for this result.
+However, the occurrence of high precipitation events in the future cannot be ruled out, so
+the risk of flooding against the occurrence of this type of events, measures will be implemented
+indicated in Table 8-4.
+Table 8-4. Measures to Implement –Flood or Waterlogging
+Risk or contingency Flood or Waterlogging.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+Given the possibility of flooding due to heavy rainfall, or overflow of
+some of the estuaries due to operational failures in their vicinity, collapse of
+structures, or increasing its channel, the following measures will be taken:
+• The location of work facilities will be carried out outside the areas
+exposed to flooding.
+Actions or measures to
+• Water levels, pressure gauges, and ventilation systems will be periodically checked.
+implement
+emergency, relief valves, among others.
+• Auxiliary operation systems will be maintained in case of failures
+operational, that allow alternative forms of operation in case
+of mechanical or electrical failures.
+• Establishment of security zones, which will remain demarcated and
+free of obstacles.
+8-10
+==================================================================================
+PAGE 15
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Flood or Waterlogging.
+The evolution of accidents will be monitored, detecting whether changes
+form of control and experienced are due to a random fluctuation or a new factor that has
+modified monitoring of security conditions. According to the results obtained,
+appropriate corrective measures will be taken.
+Source: Own elaboration, 2024.
+8.6.2.4 Risk due to landslide and/or materials
+Considering the adverse effects of climate change, observations from the historical period (1985-
+2019) show a significant trend of decrease in precipitation on an annual scale.
+(Dichato station) and in the months of April (Carriel Sur) and May (Cancha Los Litres). As for the
+future projections of decreased rainfall, these continue with negative trends,
+although not all models present statistical significance for this result. However, not
+The occurrence of high precipitation events in the future cannot be ruled out, so it must be evaluated
+the relevance of managing the risk of mass removals in the event of this type of event
+The measures indicated in Table 8-5 will be taken.
+Table 8-5. Measures to Implement – Landslide and/or Materials
+Ri
+esgo or contingency Landslide and/or materials.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+The following measures are proposed to avoid possible risk situations:
+• Safe areas and evacuation routes for workers will be defined.
+• Maximum safety of excavations, control and
+slope stabilization.
+• Structural measures will be established:
+o Geometric rectification of the terrain.
+o Implementation of drainage elements.
+o Implementation of structural reinforcement elements if
+would correspond.
+Actions or measures to
+• Instrumental measures will be established in the Disposition Zone of the
+implement
+Project, which consists of the installation of instrumentation equipment and
+monitoring with the objective of establishing an Early Warning System and
+thereby reducing physical, functional or operational vulnerability. Some of
+These instruments can be:
+o Piezometers.
+o Inclinometers.
+o Rain gauges.
+o Topographic leveling points.
+o Extensometers.
+8-11
+==================================================================================
+PAGE 16
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Landslide and/or materials.
+• The evolution of accidents will be monitored, detecting whether changes
+experienced are due to a random fluctuation or a new factor
+that has modified security conditions. According to the results
+Control form and
+that are obtained, the corresponding corrective measures will be taken.
+tracking
+• Periodic control of work areas, based mainly on
+ground inspections.
+Source: Own elaboration, 2024.
+8.6.2.5 Risks associated with industrial and forest fires
+Considering the adverse effects of climate change, the background information available in ARClim
+(evaluated in detail in Annex 1-12) on the risk of forest fires in the commune of Penco da
+account for a slight increase in this risk in the future period (2035-2065) compared to the period
+reference history (1980-2010). According to this background, although climate change does not
+would have a significant adverse effect on the risk of wildfires, measures will be taken
+indicated in Table 8-6. The Fire Protection Plan is presented in Annex 8.1.
+Table 8-6. Measures to Implement – Industrial and Forest Fires
+Risk or contingency Industrial and forest fires.
+Project Phase
+Construction, operation and closure.
+what applies
+The areas with a higher risk of an industrial fire occurring are:
+• Installation of works and warehouses.
+• Processing Plant.
+• Domestic solid waste storage areas for accumulation
+of easily combustible elements.
+Part, work or action
+• Diesel tanks due to combustion of flammable elements.
+associated
+• Areas with dense vegetation (extraction areas, disposal area,
+of vegetal soil collection.)
+• Offices: a fire may occur due to lack of order and cleanliness, acts
+insecure staff.
+• In mobile vehicles due to mechanical failure of the equipment.
+• In the environment where there is dry vegetation.
+The risk of fire in the Project is mainly associated with poor management.
+inadequate handling of flammable and combustible materials, as well as work with
+Actions or measures to
+tools that could project incandescent particles, indicating the
+implement
+following measures to minimize said risk:
+8-12
+==================================================================================
+PAGE 17
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Industrial and forest fires.
+• Identification of areas where any
+activity that may generate sparks, such as lighting a fire, smoking,
+carry or maintain elements that may cause sparks, etc.
+• Implement a hot work permit system, in which
+can evaluate control measures on a case-by-case basis, when executed
+in
+activities with open flames or incandescent particles.
+• Combustible and flammable materials will be stored in spaces
+specially enabled, complying with the provisions of the D.S. No.
+160/2008 of the Ministry of Economy, Development and Reconstruction “Approves
+Safety Regulations for production facilities and operations
+and refining, transportation, storage, distribution and supply of
+liquid fuels” and in the D.S. No. 43/2016 of the Ministry of Health
+“Approves Regulations for the storage of dangerous substances.”
+• Arrangement of fire extinguishing elements in the facilities
+appropriate (fire extinguishers, etc.), carrying out periodic maintenance, according to
+is established in current regulations.
+• Location of extinguishing equipment near the points
+probable fire hazards, being accessible by workers and
+demarcating the area where they are located according to current regulations.
+• Training workers in the correct use of the elements of
+protection and fire fighting.
+• Control of combustible products, maintaining order and cleanliness in
+storage and having only the necessary stock.
+• Communication will be maintained with the owners of the property.
+location of the Project in order to detect possible conduct of
+third parties that cause the generation of fire.
+• Periodic reviews and maintenance will be carried out on all facilities.
+that could cause a fire, mainly the installations
+electrical.
+• Due communication will be maintained between security and surveillance personnel.
+of the Project in order to detect possible conduct of third parties that
+encourage the generation of a fire.
+Additionally to what is indicated, in relation to the prevention of forest fires,
+indicate the following measures:
+• Induction to workers on the prevention of forest fires.
+• If a fire is detected that cannot be controlled with the
+own resources of the Project, immediate contact will be established with the
+Fire Departments and the National Forestry Corporation (CONAF), with the
+purpose of requesting support to address the emergency and thus mitigate the
+damage.
+8-13
+==================================================================================
+PAGE 18
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Industrial and forest fires.
+• Preventive signs will be implemented in different parts of the Project, with
+the objective of raising awareness among people and promoting the prevention of
+forest fires.
+• A plan will be prepared where those areas susceptible to
+forest fires, which will be visible to all staff and contractors
+of the Project.
+• The evolution of accidents will be monitored, detecting whether changes
+experienced are due to a random fluctuation or a new factor
+that has modified security conditions. According to the results
+that are obtained, the corresponding corrective measures will be taken.
+Control form and
+monitoring • Periodic control of working conditions, based mainly on
+ground inspections.
+• The continuous improvement of the work procedures of each will be ensured.
+one of the activities associated with the Project.
+Source: Own elaboration, 2024.
+8.6.2.6 Risks due to Workplace Accidents
+Table 8-7. Measures to Implement – Workplace Accidents
+Risk or contingency Workplace accidents.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+As a general measure, induction talks will be held for all staff to
+inform about all the risks of the Project, how to prevent accidents and
+action procedures.
+People falling to the same level:
+• All work will be executed in a planned manner, with a Work Permit.
+Safe Work (PTS) and in accordance with the procedures pre-established by
+Actions or measures to
+the company.
+implement
+• The floor of the passage and work areas will be kept clean and clear.
+• If the floor is uneven, the person in charge will be notified.
+risk prevention to take the corresponding measures.
+• Work areas will be marked, mainly
+especially those that involve
+specific risks.
+• All personnel will use the appropriate PPE for the work to be done.
+• Work areas will be adequately illuminated.
+8-14
+==================================================================================
+PAGE 19
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Workplace accidents.
+• There will be first aid kits nearby at points
+strategic to the work tasks.
+Fall of people at different levels:
+• Personal fall arrest system will be used (body harness).
+complete Classes A, D, E or P, lifeline) in certified work at height.
+• All workers who carry out work at height must be
+properly trained on the associated risks, as well as the use
+correct use of personal protective equipment and work systems in
+height. In addition, workers will be required to have training
+specific to ensure your safety.
+• When necessary, fall protection systems will be installed and
+scaffolding by qualified personnel.
+• Periodic inspections will be carried out on work at height support equipment.
+(scaffolds, lifting platforms, baskets supported by cranes, ladders
+and service stairs, etc.) and personal protective equipment (PPE). If
+perform corrective maintenance on height support equipment, or
+change if necessary.
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+Blows due to falling objects or suspended loads:
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+• Areas with risk of falling objects will be delimited to prevent the passage
+of people.
+• Personnel will be trained about not driving under suspended load.
+• Mandatory use of appropriate PPE.
+Entrapment due to overturning of machines or vehicles:
+• Transit areas for vehicles and workers will be delimited by means of
+signage.
+• Vehicles will be used according to the type of terrain with availability of
+poles, beacons and siren in reverse.
+• Mandatory use of vests or reflective elements in places where
+vehicles circulate.
+• The corresponding maintenance will be carried out on the vehicles according to
+manufacturer's indication.
+• Vehicles must have cabins equipped to ensure the
+physical integrity of the driver, traction control system and safety system
+third eye
+Entrapments between objects, cuts by objects and/or tools:
+8-15
+==================================================================================
+PAGE 20
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Workplace accidents.
+• All jobs will be executed with a PTS (Work Procedures).
+Insurance) and if necessary Task Risk Analysis (ART).
+• Prohibition to remove protections from belts, gears or any other
+other moving part of the machines that involves risk in order to avoid
+entrapments.
+• To intervene on equipment with moving parts or in its proximity, always
+The equipment must be disconnected and locking systems used.
+• Mandatory use of appropriate PPE (safety footwear, gloves
+mechanical protection, safety glasses).
+• Any equipment guard (motorized that has displacement, axles in
+movement, etc.) must have a stop system when removed.
+Direct/indirect electrical contacts:
+• All jobs will be executed with PTS (Safe Work Procedures)
+• Only authorized and trained workers will carry out risky work.
+electric.
+• Mandatory use of appropriate PPE according to the voltage to be worked on (safety gloves).
+protection against electrical risk, safety glasses, fireproof clothing, etc.).
+• All equipment and elements that are or have been live must be
+disconnect before doing any work on them, following the 5
+golden rules: following: (1) disconnect dangerous energy, (2
+) lock and
+labeling, (3) zero energy verification, (4) energy release
+residual or grounding and, (5) signaling of the work area). The
+Disconnection will be done with a visible cut, it will be immobilized with a lock or
+padlock and the active parts will be grounded, the absence of
+voltage and the work area will be marked and beaconed (Lock application
+and tagging – Lockout/tagout (LOTO).
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+• Any electrical installation to be intervened must be protected.
+differential.
+Risk due to exposure to dust, noise, vibrations, solar ultraviolet, etc.:
+• Compliance with the requirements established in the D.S. No. 594/99
+“Approves regulations on basic sanitary and environmental conditions in
+workplaces.”
+• Training for workers.
+• Mandatory use of appropriate PPE (protective gloves, protection
+respiratory according to the contaminant, hearing protectors, safety glasses
+security, etc.).
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+8-16
+==================================================================================
+PAGE 21
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Workplace accidents.
+Work in deep excavations:
+• The angle of inclination will be reviewed in the soil mechanics study.
+maximum of the recommended slope and if any shoring or shoring system is indicated
+protection of the walls of the excavation (e.g. shotcret).
+• Workers will be trained on the risks to which they are exposed in the workplace.
+Project, correct work methods, procedures and elements of
+personal protection to use.
+• Perimeter closure will be installed, which will be at a distance greater than half
+of the depth of the excavation, as indicated in the NCh. No.3481.
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+• It will be evaluated whether natural light is sufficient or if it is necessary to install artificial light.
+• An emergency procedure will be drafted that allows for immediate assistance.
+timely occurrence of an accident, which must be disseminated and
+evaluated periodically.
+Hits/run over by vehicles or machinery:
+• Transit areas for vehicles and workers will be delimited by means of
+signage.
+• Vehicles will be used according to the type of terrain with availability of
+poles, beacons and siren in reverse.
+• Mandatory use of vests or reflective elements in places where
+vehicles circulate.
+• The corresponding maintenance will be carried out on the vehicles according to
+manufacturer's indication.
+• Signage will be implemented indicating the maximum speed allowed.
+inside the Project.
+• Prohibition of getting on or off moving machines.
+• Correct lighting will be ensured during night work.
+• Only authorized and trained personnel may use machinery or vehicles.
+Risks due to projection of fragments, particles or liquids:
+• Mandatory use of appropriate PPE.
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+• An emergency procedure will be drafted that allows for immediate assistance.
+timely occurrence of an accident, which must be disseminated and
+evaluated periodically.
+Risks due to contact with hazardous substances and/or waste:
+• Mandatory use of appropriate PPE.
+8-17
+==================================================================================
+PAGE 22
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Workplace accidents.
+• Procedures associated with the handling and
+storage of hazardous substances and waste.
+• All personnel associated with the handling and storage of substances and
+hazardous waste will be properly trained.
+• Prohibition of eating and
+/or smoking in handling areas and
+storage of hazardous substances and waste.
+• Eyewash and shower systems will be maintained in areas with handling of
+dangerous substances.
+Fire risks:
+• The accumulation of combustible material near possible sources of fire will be avoided.
+heat.
+• Mandatory use of appropriate PPE for personnel who handle substances
+flammable, grease, oil or other combustible material.
+• Signage will be implemented according to NCh. No. 1411 “Risk Prevention
+Part 1: Safety signs and Part 2: Safety signs.”
+• The Project considers installing fire extinguishers at strategic points.
+• All personnel will be trained to deal with small fires.
+• An early fire detection system will be maintained (detectors
+smoke detectors, temperature detectors and fire detectors), these will be
+installed in fuel warehouses, hazardous substances and offices.
+• A record of injured people will be kept indicating at least,
+identification of the accident, type of accident, form of accident, type of
+injuries, recovery time (when applicable), etc.
+• An annual prevention program will be created, where
+responsible for the development of control and management of preventive issues for
+ensure the success of the program.
+• The evolution of the accident rate will be monitored, detecting whether the changes
+Control form and
+experienced are due to a random fluctuation or a new factor
+tracking
+that has modified security conditions. According to the results
+that are obtained, the corresponding corrective measures will be taken.
+• Periodic control of working conditions to avoid accidents,
+based mainly on field inspections.
+• The continuous improvement of the work procedures of each will be ensured.
+one of the activities associated with the Project.
+Source: Own elaboration, 2024.
+8-18
+==================================================================================
+PAGE 23
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.6.2.7 Risks associated with the transportation of personnel and/or Project supplies
+Table 8-8. Measures to Implement –Transportation of Personnel and/or Project Supplies
+Risk or contingency Risks associated with the transportation of personnel and/or Project supplies.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+• Compliance with all applicable regulations will be required for both workers
+direct and indirect, to contractor companies and their subcontractors
+through contractual clauses where compliance with laws is stipulated
+current traffic regulations, decrees, regulations, instructions and others that regulate
+transport on and off roads.
+• Contractors and/or their subcontractors will be complied with and required to comply.
+the obligation to apply one or more procedures for transport
+(people, equipment and materials), based on the application of Decree 298 of the
+Ministry of Transportation and Telecommunications that regulates transportation
+of dangerous loads on streets and roads. This regulatory body establishes
+the conditions, rules and procedures applicable to the transportation of cargo
+through streets and roads in Chile for substances or products that, due to their
+characteristics are dangerous or represent risks to the health of the
+people, public safety or the environment.
+• Training will be carried out that will be updated at least once a year
+on the actions to follow in the event of an accident to or from the Project.
+• For the transport of oversized loads, their transfer will be coordinated
+Actions or measures to be taken with the Directorate of Roads and Carabineros of Chile and will be processed
+implement the necessary authorizations in advance.
+• All drivers will be responsible for the vehicle and/or machinery at their disposal.
+position and, in the event that you are involved in a traffic accident,
+You must immediately inform your direct Supervisor and he or she will inform the Expert in
+Prevention.
+• For personnel transport vehicles, the prohibition of
+transport any type of cargo in the cabin or with passengers, in
+especially those defined as dangerous substances.
+• In the event that the transportation of the p
+personnel to the work fronts
+carried out in buses and smaller vehicles, a company in the sector will be counted, the
+which must have all the security elements required by the
+legislation and will be required to comply with current provisions on the
+passenger transport, including international safety standards
+of the cabins.
+• Daily inspection of driving equipment, as well as periodic inspections
+of mobile equipment, in which the daily check-list of the
+equipment and the presence or absence of spare wheels, jacks,
+wedges, fire extinguishers, etc.
+8-19
+==================================================================================
+PAGE 24
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Risks associated with the transportation of personnel and/or Project supplies.
+• If there is an over-level crossing, the maximum height allowed will be considered.
+for loading. Likewise, the maximum tonnage allowed for the
+step over bridges.
+• In the case of transfer of materials, the load must be secured
+so as to avoid the risk of falling from the vehicle.
+• The vehicles associated with the Project may not exceed the maximum number of
+people to move.
+• The personnel to be hired to drive the trucks and machinery will be
+qualified personnel, with a valid driver's license. License will be required
+as indicated in the Traffic Law (Nº18,290).
+• Training will be required for contractor and subcontractor companies for the
+operators and drivers regarding the actions to follow in the event of an accident
+to and from the Project.
+• The roads will be properly signposted.
+• The vehicles will be suitable for the roads to be traveled.
+• The Project facilities will have signage that will indicate the
+maximum speed allowed.
+• The evolution of accidents will be monitored, detecting whether changes
+experienced are due to a random fluctuation or a new factor
+Form of control and that has modified the security conditions. According to the results
+follow-up obtained, the corresponding corrective measures will be taken.
+• The continuous improvement of the work procedures of each will be ensured.
+one of the activities associated with the Project.
+Source: Own elaboration, 2024.
+8.6.2.8 Risks associated with the transportation, handling and storage of substances
+and/or hazardous waste with the potential to affect soils and water courses
+Table 8-9. Measures to Implement –Transportation, Handling, Storage and Spill of Substances and/or Waste
+Dangerous
+Risks associated with the transportation, handling, storage and spill of substances
+Risk or contingency
+and/or hazardous waste with the potential to affect soils and water courses.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action The areas with the greatest risk regarding an unwanted event correspond to
+associated with those where there is management and storage of hazardous substances and waste.
+In the case of transportation of supplies, the following measures must be implemented
+risk prevention and control:
+Actions or measures to
+implement • Compliance with the guidelines established in Decree No. 298/94
+“Regulates the transportation of dangerous loads on streets and roads” and the
+legislation applicable to the transportation of fuel.
+8-20
+==================================================================================
+PAGE 25
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risks associated with the transportation, handling, storage and spill of substances
+Risk or contingency
+and/or hazardous waste with the potential to affect soils and water courses.
+• Provision in the vehicle of the instructions to follow in the event of an accident.
+• Driver training for response in the event of a spill accident
+of the transported substances.
+• Use of security badges, according to NCh. 2190 “Transport of substances
+dangerous – Distinctions for risk identification”.
+• Transformer oil replacement protocol by the
+company responsible for trans
+transportation and removal of the in case it occurs
+an electrical failure and replacement is required.
+For the management of dangerous substances (lubricants, oils and fuel) and waste
+dangerous (used oils, huaipes, cloths and PPE soiled with oil) and prevention of
+potential spills, the following measures must be taken into consideration
+preventive:
+• Storage of hazardous substances and waste in accordance with D.S.
+Nº43/2016 of the Ministry of Health, “Approves Regulation of
+storage of dangerous substances” and in D.S. No. 148/2003 of
+Ministry of Health, “Approves health regulations on the management of
+“hazardous waste.”
+• Review of containment chambers for substance and waste warehouses.
+dangerous, verifying that they are capable of containing the volumes
+regulations in case of spillage, keep the chambers covered to avoid
+alter its contents in case of rain.
+• There will be a fuel loading procedure.
+• Training for personnel who handle and store substances and waste
+dangerous.
+• Provision of means for containment and cleaning of spills.
+• Provision on the premises of the Safety Data Sheets of the substances
+and hazardous waste handled and/or stored in the facilities.
+• Maintenance of inventory and control over the use of substances and waste
+dangerous.
+For fuel loading the following will be considered:
+• Before starting charging: the ground connection will be made to eliminate the
+static electricity; The loading must be carried out under the supervision of a
+person and the fire extinguisher should be placed in an easily accessible place.
+• During unloading: safety triangles or cones will be placed to
+prevent the passage of personnel not involved in the work.
+Fuel tank:
+8-21
+==================================================================================
+PAGE 26
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risks associated with the transportation, handling, storage and spill of substances
+Risk or contingency
+and/or hazardous waste with the potential to affect soils and water courses.
+• It will comply with the provisions of the Superintendence of Electricity and
+Fuels (SEC) and will be declared before this same organization.
+• It will have a spill control system.
+• It will have a loading and unloading area, which will be waterproofed.
+• Absorbent material will be available to contain any spills.
+• The evolution of accidents will be monitored, detecting whether changes
+experienced are due to a random fluctuation or a new factor
+that has modified security conditions. According to the results
+Form of control and that they are obtained, the corresponding corrective measures will be taken.
+monitoring • Periodic control of working conditions, based mainly on
+ground inspections.
+• The continuous improvement of the work procedures of each will be ensured.
+one of the activities associated with the Project.
+Source: Own elaboration, 2024.
+8.6.2.9 Risk of impact on wildlife
+Table 8-10. Measures to Implement – Affectation of Wildlife
+Risk or contingency Affectation of wildlife.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+The protocol establishes the following measures in order to prevent the occurrence of
+incidents such as running over and/or accidental death of wildlife. Some of these
+measures are contained in the Fauna Component Environmental Assessment Guide
+Silvestre (SAG, 2016), and includes measures such as:
+• Train Project workers (through brochures, posters and/or
+talks) in order to create awareness of the need to know, value and
+conserve fauna. Talks will also be given to staff about the
+Actions or measures to potential fauna present in the area, its protection and care, as well as
+implement as the procedure of action in case of a discovery.
+• Training for Project personnel on the possible crossing of animals,
+indicating the prohibition of the use of horns in the event of an encounter with Fauna
+in vehicle traffic area.
+• Maximum speed of movement of vehicles inside the works
+of the 35 km/h Project.
+• Feeding will be prohibited
+to animals, to avoid domesticating them and attracting them
+permanently to the Project sector.
+8-22
+==================================================================================
+PAGE 27
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Affectation of wildlife.
+It is important to indicate that training in wildlife protection matters
+that will be carried out to the personnel involved, both external and internal to the Project,
+during construction, operation and closure, the Service will be previously informed
+Agricultural and Livestock (SAG).
+Form of control and personnel regarding the fauna present in the Project area will be trained to
+follow-up, which will leave a signed record of those attending said training.
+Source: Own elaboration, 2024.
+8.6.2.10 Risk of hydrocarbon spills in terrestrial and aquatic environments
+product of the modification of the ENAP pipeline route
+Table 8-11. Measures to Implement – Hydrocarbon spills in terrestrial and aquatic environments as a result of
+ENAP pipeline route modification
+Hydrocarbon spill in terrestrial and aquatic environments as a result of
+Risk or contingency
+ENAP pipeline route modification
+Project Phase to which
+Operation
+apply
+Associated part, work or action Construction layout modification
+The flow of the pipeline will be cut off, closing the valves closest to the beginning and end
+of the layout to be modified.
+Gas will be vented through the system vents using the
+displacement of inert gas.
+The pipeline will be dismantled, being stored within the same land according to the
+Actions or measures to
+type of waste in question.
+implement
+Indicator signs along the pipeline section will be removed
+modified.
+The waste from the dismantling will be managed according to its
+dangerous category (non-hazardous waste and hazardous waste), being
+arranged in places authorized by the health authority.
+A final report on the installation of the layout will be prepared. This will describe
+Control form and installation procedure.
+monitoring Photographic records will be maintained of the construction and installation of the new
+stretch.
+Source: Own elaboration, 2024.
+8.6.2.11 Risk of wastewater spill
+Table 8-12. Measures to Implement – Sewage spill
+Risk or contingency Wastewater spill
+Project Phase to which
+Construction, operation and closure.
+apply
+Associated part, work or action Wastewater treatment plants and chemical baths
+8-23
+==================================================================================
+PAGE 28
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Risk or contingency Wastewater spill
+• Periodic maintenance will be carried out on the health systems with which
+account of the Project, with the objective of verifying that there are no
+Actions or measures to address operational problems
+implement • Maintenance and withdrawals will be carried out by authorized companies.
+• There will be health authorizations in accordance with the
+regulations.
+Form of control and • Maintenance record.
+follow-up • Copy of corresponding health authorizations.
+Source: Own elaboration, 2024.
+8.6.2.12 Risk if the effluent from the PTAS cannot be reused
+Table 8-13. Measures to Implement – In the event that the effluent from the PTAS cannot be reused
+Risk or contingency In the event that the effluent from the PTAS cannot be reused
+Project Phase to which
+Construction, operation and closure.
+apply
+Associated part, work or action Wastewater treatment plants
+• Emergency drains are implemented for 50% of the effluent
+generated on the day by each PTAS.
+Actions or measures to • Monitoring of the committed effluent will be verified in a manner
+implement semiannual and regulatory compliance with Nch 1333 of 78
+• Record will be kept of the measurement of parameters such as pH,
+temperature, chlorination, which will be carried out at least daily.
+Control form and
+• Record of measurements carried out.
+tracking
+Source: Own elaboration,
+2024.
+8.7 Emergency Plan
+The Emergency Plan describes the actions to be implemented in the event of an emergency,
+in order to control said emergency and/or minimize its effects on the environment and/or the
+population.
+This Emergency Plan consists of the following sections:
+- Identification of accident scenarios that may affect the environment and/or the
+population (Risk Analysis).
+- Description of the means of protection to combat emergencies.
+- Emergency response organizational structure.
+- Action procedures for each of the identified accident scenarios.
+- Maintenance of the Emergency Plan.
+- Training and training plan.
+8-24
+==================================================================================
+PAGE 29
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- First aid.
+8.7.1 Risk analysis
+An accident can occur anywhere on the Project facilities where an accident occurs.
+incident that is not effectively controlled. The facilities are associated with a certain level of
+risk, derived from the possibility of inducing adverse consequences on vulnerable elements
+(population, material goods and environment), as a result of the harmful effects caused by
+uncontrolled events in its facilities or activities.
+The following scenarios have been identified in which an emergency situation could occur
+that could affect the environment and/or the population:
+- Scenario 1: Earthquakes and tsunamis.
+- Scenario 2: Adverse weather conditions (heavy rain, intense winds).
+- Scenario 3: Risks due to work accidents.
+- Scenario 4: Risk associated with the transportation of personnel and/or supplies.
+- Scenario 5: Risks associated with the transportation, handling and storage of substances and/or waste
+dangerous with the potential to affect soils and water courses.
+- Scenario 6: Risks from industrial and forest fires.
+- Scenario 7: Risk of impact on wildlife.
+- Scenario 8: Risk of flooding or waterlogging.
+- Scenario 9: Risk due to landslide and/or materials.
+- Scenario 10: Risk of hydrocarbon spills in the environment and aquatic environment as a result of
+construction of the ENAP pipeline route modification.
+- Scenario 11: Risk of wastewater spill.
+- Scenario 12: Risk if the effluent from the PTAS cannot be reused.
+8.7.2 Means of protection
+All personnel must know the measures to reduce the risks of possible contingencies, the
+procedure for emergency control and distribution of fire fighting equipment,
+spill control and first aid.
+8.7.2.1 Manual extinguishing system
+All fire extinguishers must be located in accessible places and with signs indicating the type of fire.
+What should be attacked with the team:
+8-25
+==================================================================================
+PAGE 30
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- Portable dry chemical powder extinguishers, designed to protect areas that contain risk
+fire class A (common solid fuels), class B (liquid fuels) and class C
+(flammable gases, electrically energized equipment).
+- Portable CO extinguishers, designed to protect areas that contain fire risk
+2
+class B (liquid fuels) and class C (flammable gases, electrically energized equipment).
+All fire extinguishers must be inspected periodically, visually verifying that the
+parts that compose it (pressure gauge, trip lever, outlet valve, discharge hose,
+nozzle and discharge cone) are in optimal condition and also have the identification
+of the fire case for those who are suitable. Additionally, it must be verified that they are loaded
+with extinguishing agent and have the required monthly maintenance record.
+8.7.2.2 Spill control materials
+In substance handling and storage areas
+and hazardous waste, the
+basic elements for the care and control of spills. The spill control kit will be
+made up of the following elements:
+Absorbent material:
+• Absorbent barriers: Required to contain spills of substances or
+liquid waste.
+• Absorbent pads or cloths: Used to contain small spills.
+and/or control drip leaks in valves and couplings.
+• Absorbent earth: Diatomaceous earth or vermiculite.
+Tools:
+• Anti spark blades.
+• Rubber hammer and kit of wooden plugs, useful for plugging leaks through holes.
+Personal protection elements:
+• Nitrile rubber gloves.
+• Safety masks for respiratory tracts.
+• Signaling tapes to delimit the incident area and prevent the entry of
+non-emergency personnel.
+Other elements:
+Bags and drums to collect spilled material.
+8.7.2.3 First aid equipment
+The following first aid and support equipment should be considered:
+8-26
+==================================================================================
+PAGE 31
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Complete first aid kits.
+• Breathing masks.
+• Ground protection line.
+• Personal protective equipment.
+• Stretcher and immobilization equipment.
+8.7.3 Organization of the emergency
+8.7.3.1 Emergency Levels
+Depending on the severity of the emergency, the means of protection, human and material, are determined.
+that must be mobilized to face emergency situations that may occur in the
+facilities; There are three Emergency Levels.
+Level 1 or Emergency Attempt: Situation in which the risk or accident that causes it can be
+neutralized simply and quickly, with the available means and resources present at the time and
+accident site.
+Level 2 or Partial Emergency: Situation in which the risk or accident requires the
+intervention of teams specifically designated and instructed for this purpose; affects an area of the
+facilities and “partial evacuation” or evacuation of the affected area may be necessary.
+Level 3 or General Emergency: Situation in which the risk or accident endangers safety and
+physical integrity of the people and it is necessary to proceed with the eviction or evacuation, abandoning the
+facilities. Requires the intervention of External Help.
+It must be highlighted that the same accident can, due to its evolution, lead to different Levels of
+Emergency.
+8.7.3.2 Emergency Structure
+The Emergency Organizational Structure is designed to safeguard and protect the people present,
+facilities and environment, at the time of the Emergency, being constituted by a set
+of Emergency Teams, specifically the Intervention Team and the Support Team.
+These teams will be specially trained to prevent and act in case of emergency within the
+scope of the Project facilities.
+The organizational structure, in case of emergency situation is indicated in Figure 8-1.
+8-27
+==================================================================================
+PAGE 32
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 8-1. Organizational structure of the Emergency
+Director of
+Emergency
+Emergency Chief Support Team
+Intervention Team
+Source: Own elaboration, 2024.
+The functions of the Emergency Teams indicated are the following:
+Emergency Director: Assumes maximum responsibility in the structure of the Emergency Plan,
+having the necessary authority to make the decisions of greatest scope and responsibility in the event of
+any type of emergency. He is the general coordinator of efforts to neutralize the emergency.
+It will have absolute powers to have the personnel, equipment and means it deems necessary to
+the best development of its function. He is responsible for issuing internal and external communications;
+Likewise, he is the only person authorized to deliver information to
+the media.
+Emergency Chief: Assumes leadership of emergency response operations. Its function is
+to assess the emergency and assume the direction of coordination of the Emergency Teams.
+Support Team: They are responsible for managing and coordinating all interventions with external resources.
+request of the Emergency Director.
+Intervention Team: It will be made up of personnel with adequate training and training in the
+firefighting, as well as first aid. They know the general and particular risks that
+present the different activities developed in the different phases of the Project. They have knowledge
+of the existence and use of the material means of extinction available.
+8.7.3.3 Emergency Plan activation criteria
+The activation of the Emergency Plan occurs from the moment an anomaly occurs in the
+installation that could generate an accident, mainly:
+In case of receiving an accident alarm in Level 1, 2 or 3 facilities.
+8-28
+==================================================================================
+PAGE 33
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In the event that an accident not classified as Level 1, 2 or 3 evolves unfavorably to any
+of these levels or the Emergency Director deems it necessary as a preventive measure.
+In case of threat or external sabotage.
+8.7.3.4 Emergency communication system and warning opportunity
+Facility workers will have means of communication (portable communicator or
+walkie-talkie or similar) for emergency situations. All communications between the different
+Emergency groups will be carried out through exclusive channels for this purpose during an emergency.
+For those contingencies that are related to environmental aspects, associated with Natural Events,
+transportation, handling and spill of hazardous substances and/or waste, Fires and alteration of elements
+assets (in the case of findings), the Regional Office of the Superintendence of
+Environment of the Biobío Region of the contingency that occurred. The person responsible for informing the SMA
+will be the Emergency Chief of the Construction, Operation or Closure Task as appropriate.
+Contact details for external support in case of emergency situation are indicated in Table 8-14.
+Table 8-14. External support contact information
+EXTERNAL SUPPORT PHONE NUMBER
+Firefighters 132
+Penco Firefighters 41 - 2453670
+22 - 4018580
+SENAPRED Biobío Region
+41 - 2528383
+Carabineros of Chile
+41 - 2141318
+Penco Tenure
+SAMU (Emergency Medical Care Service) 131
+41 - 2726100
+SEREMI of Health Biobío Region
+41 - 2726101
+SEA Biobío Region 41 - 2791750
+Superintendency of Environment Biobío Region 41 - 2568364
+Regional Directorate of Roads Bío Region – Bío
+41 - 2852142
+Province of Concepción
+41 - 2624062
+National Forestry Corporation (CONAF) Biobío
+41 - 2223848
+Agricultural and Livestock Service (SAG) Biobío Of. Concepción 41 - 2228684
+National Fisheries and Aquaculture Service (SERNAPESCA)
+41 - 3169000
+Talcahuano Office
+41 - 2650286
+Office Take
+Source: Own elaboration, 2024.
+8-29
+==================================================================================
+PAGE 34
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.7.4 Emergency response procedures
+The general procedure for action in an emergency is described below, as well as
+also the general procedures of action for each of the identified scenarios.
+8.7.4.1 General procedure for action in case of emergency
+1. The activation of the Emergency Plan occurs from the moment an anomaly occurs
+in the facility that could cause an accident. The detection of an emergency situation is
+It may be produced visually by its own personnel, contractors or visitors.
+2. Any person who notices an anomaly that could be the cause of an emergency must
+act as follows:
+• Raise the alarm to your supervisor
+straight with the available media.
+• Try to control the emergency with the means at your disposal, in no case
+case risking his physical integrity.
+Locate the Director and the Emergency Chief, notifying the situation that, previously, will have been
+confirmed as true.
+If you have assigned missions, you will join your position once the emergency is over.
+3. The Emergency Director will declare the Emergency Level once the data from the
+emergency and advised by the Emergency Chief.
+4. Staff will be notified of the activation of the Emergency Plan through the system considered.
+more suitable.
+5. The intervention personnel will act in accordance with what is indicated in the specific procedures
+of action, applying the following general rules:
+• Stay calm and avoid panic.
+Notify the Emergency Director clearly identifying the accident.
+• Provide priority assistance to those potentially affected.
+• Keep in mind the possible presence and formation of flammable vapors.
+• Keep away (or eliminate) possible ignition sources.
+Act following the instructions of the Emergency Chief.
+6. Personnel without a specific task assigned in the Emergency Plan must stop all types of
+work safely and go to the Meeting Point determined to wait for instructions.
+7. Once the Emergency Chief considers that the emergency situation can be considered
+concluded, it will propose to the Emergency Director the end of it.
+8-30
+==================================================================================
+PAGE 35
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8. After the Emergency Director decrees the end of the emergency, the restoration of the emergency will be carried out.
+operation of the task.
+9. The Emergency Director will order the investigation of the causes and conditions of the emergency,
+in order to obtain the necessary knowledge for the adoption of preventive and corrective actions.
+8.7.4.2 Procedure for notification to authorities
+In accordance with the provisions of Art. No. 104 of the Regulations of the Impact Evaluation System
+Environmental, the Emergency Plan must consider the following:
+“… must describe the actions to be implemented in the event of an emergency.
+The objective of these measures is to control the emergency and/or minimize its effects on the environment.
+environment or population. Likewise, it will indicate the opportunity and means of communication
+to the Superintendency of the activation of said Plan.”
+The Emergency Director will be responsible for giving immediate notice via telephone, to the
+Superintendence of the Environment and the competent authorities. Depending on the type of
+emergency, SEA Regional, SAG Regional Directorate, Regional Road Directorate, Seremi will be notified.
+of Health, Municipality of the affected Communes, etc.
+Said notification will include, at least, the following information:
+Communication, as soon as possible, of the circumstances and relevant data of the emergency,
+including:
+• Company identification.
+• Type and category of the accident.
+• Description of the damaged facility.
+• Description, if applicable, of the substance or substances involved.
+• Description of the current situation of the accident.
+• Effects of the accident and actions that have been taken so far.
+Once the emergency has been analyzed, send the causes and effects of it, as well as the emergency measures.
+security adopted.
+In case of investigation in more detail, update of the information already provided.
+8-31
+==================================================================================
+PAGE 36
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.7.4.3 Procedure for action in case of earthquakes and tsunamis
+Table 8-15. Procedure for Action Against Earthquakes and Tsunamis
+Situation of
+Action plan against earthquakes and tsunamis.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+All Project facilities, mainly in:
+Part, work or action
+associated with installation of tasks.
+Pr Plant
+ocessation.
+In the event that an earthquake of intensity IV or greater on the Mercalli scale occurs,
+will carry out the following actions:
+• The staff will suspend any activity they are carrying out and will go to the
+nearest safe zone area, which must be located in an area
+open and away from facilities that may involve risk of
+collapse/collapse.
+• You should not act impulsively as this increases the risk of injury and
+contributes to increasing panic.
+• It will be necessary to move away from the windows, since the vibration can cause the
+glass breaking.
+• If it is indoors, it must be protected from falling lamps,
+electrical appliances, wood, books, paintings, etc.
+• It will remain in the safety zone until the earthquake ends. Only in cases
+specific as visible and considerable damage to the building such as
+Fall of walls, fracture of columns, an area can be evacuated.
+Actions to
+• In external areas of buildings it will be necessary to stay away from walls, poles, cables
+implement
+electrical and other items that may fall.
+• If a motorized unit is being handled, the unit will be guided with
+take caution to a safe place and the unit will be stopped.
+After an earthquake:
+• You must remain silent and calm.
+• Depending on the magnitude of the earthquake, a total evacuation must be carried out.
+of buildings towards the assigned security zones.
+• Evacuate quickly, but without running, maintaining calm, order and silence,
+avoiding creating crowds.
+• If you get trapped, you should try to use a visible sign or
+sonorous.
+• Check if there are any fire sources; report them immediately.
+• It will be observed if there are injured people, not moving the injured unless
+who are in danger of suffering further injuries.
+8-32
+==================================================================================
+PAGE 37
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against earthquakes and tsunamis.
+emergency
+• Wait 30 minutes in the security zone for possible aftershocks.
+• An inspection will be carried out at the facilities in order to verify their condition.
+and rule out the existence of damage that could cause collapse or collapse
+of structures.
+• A damage report will be prepared and communication will be maintained with the
+local and emergency authorities.
+• The tasks will not be activated until it has been proven that there is no risk
+structural collapse of the facilities.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA), SENAPRED and
+SEREMI Environment, via telephone and/or email. Then, within a period of time
+more than 15 days after the event occurred, an emergency report will be sent, which
+will contain at least:
+Opportunity and avenues
+communication to the SMA • Date, time and place of occurrence.
+of the Activation of the • Reason for the emergency.
+Plan • Environmental aspects involved (soil, atmospheric emissions, fauna, etc.)
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8.7.4.4 Procedure for action in case of adverse weather conditions
+Table 8-16. Procedure for Action Against Adverse Weather Conditions
+Situation of the Action Plan in the face of adverse weather conditions (heavy rains, winds
+intense emergency).
+Project Phase
+Construction, operation and closure.
+what applies
+All Project facilities, mainly in:
+• Installation of tasks.
+Part, work or action • Processing plant.
+associated • Clay extraction areas.
+• Ballast and washed clay disposal area.
+• Plant soil collection area.
+• Road enabling activities.
+The Coordinator at the site will establish contact with the National Prevention Service
+Actions to
+and Disaster Response (SENAPRED) to notify regarding:
+implement
+• Predicted natural phenomenon.
+8-33
+==================================================================================
+PAGE 38
+========================================================
+============================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of the Action Plan in the face of adverse weather conditions (heavy rains, winds
+intense emergency).
+• Expected evolution of the natural phenomenon in the subsequent hours.
+• Condition of the roads and access roads to the Project.
+• Status of telephone service and other communication channels.
+• Means of mobilization provided by the National Prevention and Prevention Service.
+Disaster Response (SENAPRED).
+The Emergency Chief will order, when necessary, the cancellation of the
+operations and maneuvers that are not of major importance at the moment, such as
+like:
+• Loading or unloading of substances, waste, materials and supplies.
+• Operation of machinery and equipment that may represent a risk
+in the event of a natural phenomenon.
+• General machinery maneuvers.
+• Workers will not be allowed to remain in facilities that are
+are under construction or temporary in nature due to the risk of
+collapse
+The Emergency Chief will order verification of the status and security of:
+• Facilities, in general.
+• Equipment or accessories that may be displaced as a result of the
+predicted natural phenomenon. Pay special attention to structures and
+temporary constructions (for example: construction sheds,
+scaffolding, etc.).
+• Move mobile equipment to levels above ground level.
+The Emergency Chief will order the activation of the alarm and, if necessary, the
+evacuation to the meeting point.
+• Staff will be calmed, to avoid panic and minimize further effects that
+the emergency could originate in people.
+• All personnel will go to the security zones established through
+the emergency exits closest to your workplace, which are
+They will be duly identified and signposted.
+• Workers must follow the instructions of the Head of Production at all times.
+the Emergency. You may only return to the workplace if the Head of the
+Emergency allows it.
+• The use of electrical equipment and/or instruments will be prohibited inside all
+the dependencies during the climatic event, also ordering that the
+personnel stay away from doors, windows, pillars or structures
+metallic.
+In the event of a Level 2 or Level 3 emergency, the
+Opportunity and avenues
+within the first 24 hours to the Superintendence of the Environment (SMA),
+communication to the SMA
+SENAPRED and SEREMI Environment, via telephone and/or email. Then, in
+8-34
+==================================================================================
+PAGE 39
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of the Action Plan in the face of adverse weather conditions (heavy rains, winds
+intense emergency).
+of the Activation of a period not exceeding 15 days after the event occurred, a report of the
+Emergency plan, which will contain at least:
+• Date, time and place of occurrence.
+• Reason for the emergency.
+• Environmental aspects involved (soil, atmospheric emissions, fauna, etc.).
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8.7.4.5 Procedure for action in case of work accidents
+Table 8-17. Procedure for Action Against Workplace Accidents
+Situation of
+Action plan against workplace accidents.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+Once an emergency situation caused by an accident is detected
+work, notification must be given to the immediate Supervisor, who in turn informs the Head of the
+Emergency to assess the situation and coordinate the corresponding actions.
+As long as the emergency situation allows, trained members
+of the staff (in principle, Intervention Team) must provide first aid
+relevant.
+However, if you witness an accident, you should take
+r into consideration the
+following actions:
+Actions to • Do not get upset, do not scream, or run desperately for help or to help
+implement the injured person. You should remain calm and report the situation to your
+supervision and/or emergency numbers as indicated above.
+• Approach the injured person and confirm if he is alive, if he is conscious and what
+is the severity of your injuries. If he is conscious, you should talk to him
+accident, try to calm him down and prevent him from moving.
+• If the injured party is trapped, a rescue should not be attempted unless
+that is of extreme necessity (if a structure is giving way, if there is
+current, fire or water, if there is a toxic risk, etc.).
+• Only if you have knowledge of first aid and the conditions of it or
+those affected allow it, an attempt should be made to provide support. Should not move
+8-35
+==================================================================================
+PAGE 40
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against workplace accidents.
+emergency
+to the affected person since damage to the back or organs should always be presumed
+internal.
+• The transfer of the injured person should be done only if the severity of the accident makes it
+allows and if you have the necessary implements (collars, boards, blankets,
+etc.).
+• Once emergency care arrives, the area must be cleared and allowed
+professionals to carry out their tasks, only providing support if they indicate it.
+Any information viewed or obtained from the
+accident it will be useful to indicate it.
+If oneself has suffered an accident, the injured party himself will have
+Take into account the following steps to take:
+• The injured person should not get upset or scream desperately. It must be
+keep calm, take care of your strength and request help through calls
+and gestures both to colleagues and to supervision and/or numbers of
+emergency, taking into account that if there are more colleagues in the area,
+They must be coming to his aid.
+• Do not attempt to make sudden movements unless it is extremely
+necessity (if a structure is giving way, if there is current, fire or water, if
+there is a toxic risk, etc.).
+• If there is any part of the body that is emanating an abundant flow of
+blood, it will be pressed with some force to try to avoid a
+bleeding.
+• Wait for the attention of colleagues with first aid courses or
+health professionals.
+Once the specialized personnel arrives at the area, they must carry out an evaluation
+preliminary and quick of:
+• Number of injured.
+• Special conditions (entrapment, crushing, suspended,
+burns, etc.).
+• Type of injuries.
+• Imminent risks of the place (danger of falls, spills, etc.).
+• Once the initial evaluation has been carried out and the patients have been stabilized,
+They will be transferred to the health center to complete medical care. The transfer
+must be through appropriate transportation, that is, in an ambulance,
+unless the evaluating professional so indicates.
+• At the nearest emergency care location, the doctor will proceed to
+evaluate the emergency and initiate the treatment that it deems appropriate and
+necessary.
+8-36
+==================================================================================
+PAGE 41
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against workplace accidents.
+emergency
+In accordance with the provisions of Article 76 of Law No. 16,744 and the Compendium
+SUSESO (Superintendency of Social Security) Book IV Title I Letter D, in case
+If a serious or fatal work accident occurs, the company must comply with the following
+obligations:
+• Immediately suspend the affected tasks and, if necessary,
+allow workers to evacuate the workplace.
+• Immediately report what happened to the Labor Inspection and the
+Regional Ministerial Health Secretariat of the Biobío Region.
+Opportunity and avenues
+The Emergency Director will report what happened to the Labor Inspection and the
+co
+communication to the SMA
+Regional Ministerial Health Secretariat of the Biobío Region maximum 48 hours
+of the Activation of
+the event occurred.
+Plan
+Source: Own elaboration, 2024.
+8.7.4.6 Procedure for action in the event of an accident in the transport of personnel
+and/or project inputs
+Table 8-18. Procedure for Action Against Accidents in the Transportation of Personnel and/or Project Supplies
+Situation of the Action Plan against accidents in the transportation of personnel, supplies, substances and
+hazardous waste emergency.
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+In the activities of transporting supplies or personnel.
+associated
+In the event that an accident occurs during transportation, notification must be given to the
+Immediate supervisor, who in turn informs the Head of the Emergency so that he can assess
+the situation and coordinate the corresponding actions. After giving the notice, you must
+act as follows:
+• Collect information about the accident that occurred (through collaboration
+of personnel present in the area):
+o Affected people.
+Actions to
+o Facilities or vehicles involved.
+implement
+o Substances/waste involved and their danger. Yes
+The substances involved are classified as Substances
+Dangerous, the driver of the vehicle will have a Data Sheet
+of Transportation Safety for these substances.
+o Situation of the damaged vehicles and supplies and/or
+transported substances.
+o Emergency services that have been notified (Carabineros,
+Firefighters, SAMU, etc.).
+8-37
+==================================================================================
+PAGE 42
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of the Action Plan against accidents in the transportation of personnel, supplies, substances and
+hazardous waste emergency.
+• Once the scenario has been evaluated, contact the Intervention Team in case
+necessary.
+• If there are injuries, secure the vehicle before entering to attend.
+to patients. Do not move the vehicle, do not try to turn it over, throw it or drag it
+with the injured inside.
+• Stabilize and extract the injured in the presence of medical personnel.
+• Carry out the securing of the area. To do this, a perimeter must be established
+and stabilize the accident vehicle in a safe position.
+• Verify that there is a line charged with water (wet network) or portable fire extinguisher,
+even if there is no fire at the moment.
+• If necessary, control the spill of fuel or substances
+dangerous, through barriers for containment and absorption of substances. Use
+Appropriate PPE for the task.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Emergency Director of the fact, declaring the end of the
+same.
+• The data of the accident or contingency will be incorporated into a record
+to prepare a preliminary incident report.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA) and SEREMI Medio
+Environment, via telephone and/or email. Then, within a period of no more than 15 days
+After the event occurs, an emergency report will be sent, which will contain at least
+less:
+Opportunity and avenues
+communication to the SMA
+• Date, time and place of occurrence.
+of the Activation of
+• Reason for the emergency.
+Plan
+• Environmental aspects involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8.7.4.7 Procedure for action in the event of a spill of substances and/or waste
+dangerous with the potential to affect soils and water courses
+Table 8-19. Procedure for Action Against Spills of Hazardous Substances and/or Waste
+Situation of
+Action plan against spills of hazardous substances and/or waste
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+8-38
+==================================================================================
+PAGE 43
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EI
+A Mining Development Project for the Extraction of Clay for the Production of
+Rare Earth Concentrate
+Situation of
+Action plan against spills of hazardous substances and/or waste
+emergency
+The areas with the highest probability of an unwanted event occurring correspond to
+those where there is management and storage of hazardous substances and waste,
+such as:
+Part, work or action
+• Fuel tank.
+associated
+• Hazardous waste warehouse.
+• Hazardous substances warehouse.
+• Generator set area.
+In the event of a spill of any dangerous substance in volumes exceeding 200
+l in work areas, outside the processing plant, the steps to follow to
+its control are:
+• Once the spill is detected, immediately notify the Director of
+Emergency to activate the Emergency Plan.
+• Immediately contain the spill with a sufficient amount of material.
+absorbent or other for storage and disposal.
+• In the case of a combustible product, be prepared to act in the event that
+inflammation of the substance occurs.
+• Cleaning the affected area. Remove all altered materials and
+manage them as hazardous waste.
+• Cleaning of protective equipment and cleaning and replacing all safety equipment.
+employee emergency.
+• Collect and recover spilled product.
+Actions to
+In the event of a spill of any dangerous substance in volumes exceeding the
+implement
+5,000 l, inside the processing plant, the steps to follow for its control are:
+• Once the spill is detected, immediately notify the Director of
+Emergency to activate the Emergency Plan.
+• Pumping of substances, fluids, fuels or others towards a tank of
+retention and, subsequently, transfer to an authorized place for disposal
+final.
+• The material collected from a spill will be properly disposed in cylinders
+for subsequent transfer and final disposal in a security deposit
+authorized.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Emergency Director of the fact, declaring the end of the
+same.
+• The Emergency Director and the Emergency Chief must establish the
+cause of the spill and the corresponding corrective measures.
+Opportunity and means of If a Level 2 or Level 3 emergency occurs, it will be reported within the
+communication to the SMA first 24 hours to the Superintendence of the Environment (SMA), National Service
+8-39
+==================================================================================
+PAGE 44
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against spills of hazardous substances and/or waste
+emergency
+of the Activation of Fisheries and Aquaculture (SERNAPESCA) and SEREMI Environment, by telephone and/or
+Email plan. Then, within a period of no more than 15 days after the event occurred,
+will send an emergency report, which will contain at least:
+• Date, time and place of occurrence.
+• Reason for the emergency.
+• Environmental aspects involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8.7.4.8 Procedure for action in the event of an industrial fire or forest fire
+Table 8-20. Procedure for Action Against Industrial and Forest Fires
+Situation of
+Action plan against industrial and forest fires.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+Areas with a higher probability that an industrial fire could occur
+they are:
+• Installation of works and warehouses.
+• Processing Plant.
+• Storage areas for domestic solid waste due to accumulation of
+Part, work or action elements that are easy to burn.
+associated • Diesel tanks due to combustion of flammable elements.
+• Areas with dense vegetation (extraction areas, disposal area, storage area).
+stockpile of vegetal soil.)
+• Offices: A fire may occur due to lack of order and cleanliness, acts
+insecure staff.
+• In mobile vehicles due to mechanical failure of the equipment.
+• In
+the environment where there is dry vegetation.
+In the event of an industrial fire, action will be taken as described below:
+Actions to • Once the fire is detected, notify the Emergency Director so that
+implement define whether to activate the Emergency Plan.
+• The Emergency Chief will evaluate the incident and must assess the level of
+emergency.
+8-40
+==================================================================================
+PAGE 45
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against industrial and forest fires.
+emergency
+• Once the fire is detected, notify the Emergency Director so that
+Define whether to activate the Emergency Plan.
+• The Emergency Chief will evaluate the incident and must assess the level of
+emergency.
+• For Level 1 emergencies, any personnel trained in the handling and use of
+fire extinguishers will be able to put out the fire. In case of Level 2 emergencies, only the
+Intervention Team will be able to attend to the situation, without exposing itself and that this does not
+poses a risk to other personnel. Level 3 emergencies will be
+attended by external support (Fire Corps, CONAF).
+• If the fire cannot be extinguished, notify the Fire Rescue Plan to be activated.
+Emergency and evacuate the area. If necessary, all operations will be paralyzed.
+operations of the site or compromised area and the
+operation of:
+o Motors or other electrical equipment.
+o Other equipment or vehicles that can cause an ignition point.
+• The direction of the wind must be observed, and according to this, the
+the danger zone widely and access to it must be prevented from
+personnel who are not adequately equipped, preferably moving away
+direction opposite to the wind, to any person unrelated to the emergency.
+• The number of people in the danger zone should be limited to a minimum.
+essential, constantly controlling them by a person in charge who
+must remain outside the area, which must have a
+rescue team ready to intervene if necessary.
+• Once the Emergency Director activates the Plan, the Intervention Team
+will be deployed to control the fire and, if possible, cordon off the area
+affected.
+• The safety of personnel must be maintained, providing a way of
+removal at all times and using the appropriate extinguishing agents and PPE
+against fire. If the situation is serious, the fact will be communicated
+to the fire company.
+• After extinguishing the fire, collect effluents contaminated by extinguishing agents.
+and manage them appropriately as determined by the Waste Management Plan
+of the company.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Emergency Director of the fact, declaring the end of the
+same.
+The procedure for action in the event of a forest fire will be as follows:
+• Give immediate notice to the supervisor in case of provocation, sighting or
+reported a forest fire.
+8-41
+==================================================================================
+PAGE 46
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Situation of
+Action plan against industrial and forest fires.
+emergency
+• All people who suffer a work accident as a result of
+fire or its fight must be referred to the Project paramedic/TENS
+or mutual security, as appropriate.
+• The Emergency Director will decree the activation of this Plan and the Chief
+of the Emergency will assess its Level.
+• The Intervention Team will only act for Level 2 emergencies. In case of
+Level 3 emergencies will require external help (Fire Departments,
+CONAF).
+• Coordinate with CONAF, firefighters and police if the emergency requires it.
+In order for these institutions to have knowledge of the fact and
+carry out the necessary evaluations for the dispatch of resources to the area of the
+fire.
+• Appropriately trained and available personnel closest to the site of the
+fire will begin to fight it immediately, as long as
+ndo is not there
+compromised, otherwise the risk prevention advisor
+risks must direct the evacuation process towards the meeting points
+emergencies defined for the Project.
+• The first fire attack will begin towards the arrest of the main front or
+fire source using extinguishing equipment and building fire lines
+control that is required.
+• Only if the conditions of the fire allow it, should all fires be removed.
+flammable products found in the damaged area and those
+that may cause spills.
+• The Emergency Chief must count all personnel present
+in the emergency.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Emergency Director of the fact, declaring the end of the
+same.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA), CONAF and SEREMI
+Environment, via telephone and/or email. Then, within a period not exceeding
+15 days after the event occurred, an emergency report will be sent, which
+will contain at least:
+Opportunity and avenues
+communication to the SMA • Date, time and place of occurrence.
+of the Activation of the • Reason for the emergency.
+Plan • Environmental aspects involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+8-42
+==================================================================================
+PAGE 47
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: Own elaboration, 2024.
+8.7.4.9 Procedure for action in the event of wildlife accidents
+Table 8-21. Procedure for Action Against Accidents with Wildlife
+Situation of
+Action plan against accidents with wildlife.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+In the event that a contingency affects wildlife, rescue will be carried out.
+immediately of the species that were or could be affected to be settled
+momentarily at the wildlife rehabilitation center closest to the area
+of the Project, until the moment of its recovery, to the point that the return is possible
+of the species to the place of origin. In parallel, notice will be given to the Agricultural Service and
+Rancher (SAG) of what happened.
+It is worth mentioning that the logistics and delivery will be the responsibility of the Project Owner.
+transfer of fauna species that could be injured by the actions of the
+Project, as well as the costs of such work. Notification will be given to the SAG
+previously so that they authorize the actions and are aware. The staff of
+Actions to
+The project will have training on the actions to be carried out in the event of an eventual
+implement
+impact on wildlife in the vicinity of the Project.
+The company will send it to the authorities and organizations within a period of 30 days.
+competent authorities, a detailed report with information on the environmental emergency that
+will contain the following:
+• Origin of the emergency.
+• Response action.
+• Effectiveness of the action.
+• Damage or loss of resources.
+• Costs involved.
+In the event of an event associated with the impact of wildlife,
+will inform the Agricultural and Livestock Service (SAG) within the first 24 hours, with
+copy to the Superintendence of the Environment (SMA), by telephone and/or mail
+electronic. Then, within a period of no more than 15 days after the event occurred, it will be sent
+Opportunity and means of an emergency report, which will contain at least:
+communication to the SMA
+of the Activation of the • Date, time and place of occurrence.
+Plan • Reason for the emergency.
+• Environmental aspects involved (soil, atmospheric emissions, fauna,
+etc.).
+• Scope of the emergency.
+• Control actions carried out.
+8-43
+==================================================================================
+PAGE 48
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Extr Mining Development Project
+Action of Clays for the Production of
+Rare Earth Concentrate
+Situation of
+Action plan against accidents with wildlife.
+emergency
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8.7.4.10 Procedure for action in case of flooding or waterlogging
+Table 8-22. Procedure for Action Against Flooding or Waterlogging
+Situation of
+Action plan against flooding or waterlogging.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+• Notification will be given immediately to the Head of the Emergency who will inform the Director
+of the Emergency about what happens.
+• Depending on the magnitude of the event, operations will be immediately paralyzed.
+works and if pertinent, all personnel will be evacuated to safe areas.
+• Duly trained company personnel will inspect the site of the
+accident, verifying that there are no injuries in the area. In case of registration
+Actions for injured people due to this accident, they will be taken to a healthcare center
+implement nearby.
+• A restriction area will immediately be delimited, where only
+enter trained and duly authorized personnel.
+• The affected areas must be inspected, demarcating those that
+pose a risk.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Director of the Emergency, declaring the end of it.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA) and SEREMI Medio
+Environment, via telephone and/or email. Then, within a period of no more than 15 days
+After the event occurs, an emergency report will be sent, which will contain at least
+less:
+Opportunity and avenues
+communication to the SMA • Date, time and place of occurrence.
+of the Activation of the • Reason for the emergency.
+Plan • Environmental aspects involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+8-44
+==================================================================================
+PAGE 49
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Source: Own elaboration, 2024.
+8.7.4.11 Procedure for action in case of landslides and/or
+materials
+Table 8-23. Procedure for Action Against Landslides and/or Materials
+Situation of
+Action plan against landslides and/or materials.
+emergency
+Project Phase
+Construction, operation and closure.
+what applies
+Part, work or action
+The entire project.
+associated
+In the event that an event due to the displacement of earth and/or materials is foreseen,
+will consider, at a minimum, the evacuation of all personnel from the risk area as well as
+such as the provision of reinforcements, restraints or protections necessary to
+ensure the safety of people and the environment.
+The action procedure must contemplate at least:
+• In the event of a displacement, notify the Director of
+Actions to
+Emergency in case the Emergency Plan has to be activated.
+implement
+• Evacuate in an orderly and quick manner, if the instruction is given
+(decision of the Emergency Chief).
+• In case of evacuation, go to the security zone through the predefined routes,
+away from places with risk of movement of material, and as indicated by the
+risk preventionist.
+• Once the emergency situation is controlled, the Emergency Chief
+will inform the Emergency Director of the fact, declaring the end of the
+same.
+In the event of a Level 2 or Level 3 emergency, it will be reported within the
+first 24 hours to the Superintendence of the Environment (SMA), SENAPRED and
+SEREMI Environment, via telephone and/or email. Then, within a period of time
+more than 15 days after the event occurred, an emergency report will be sent, which
+will contain at least:
+Opportunity and avenues
+communication to the SMA • Date, time and place of occurrence.
+of the Activation of the • Reason for the emergency.
+Plan • Aspects
+environmental factors involved (soil, atmospheric emissions, fauna, etc.
+• Scope of the emergency.
+• Control actions carried out.
+• Repair actions carried out.
+• Prevention actions that will be implemented to avoid a new
+occurrence.
+Source: Own elaboration, 2024.
+8-45
+==================================================================================
+PAGE 50
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.7.4.12 Procedure for action in the event of a hydrocarbon spill in the
+terrestrial and aquatic product of the modification of the oil pipeline route
+ENAP
+Table 8-24. Measures to Implement – Hydrocarbon spills in terrestrial and aquatic environments as a result of
+ENAP pipeline route modification
+Hydrocarbon spill in terrestrial and aquatic environments as a result of
+Emergency situation
+ENAP pipeline route modification
+Project Phase to which
+Operation
+apply
+Associated part, work or action Construction layout modification
+Terrestrial environment:
+- The Area Head will coordinate and request the area operator to
+implementation of the first containment measures
+(cut/stop the source that generates spills, if applicable)
+necessary, containment ditches, earth parapets are made, request
+vacuum type truck for absorption of the product) in order to avoid
+the spill to expand to a larger area.
+- The Head of Area, by telephone, will notify the personnel of the
+Environmental Directorate of the area, immediately detected the
+contingency in order to coordinate technical inspection in the area.
+- Environmental personnel from the area will carry absorbent material.
+available (blankets, sleeves, adsorbent bags, as needed),
+to be used if necessary.
+- Personnel from the Environment Directorate will evaluate the event according to
+the geographical area, the climatic conditions, proximity to courses of
+water, presence of fauna, type of soil (stabilized, meadow, vegetation,
+Actions or measures to
+etc.), the area is also measured using GPS and the
+implement track.
+- Once the incident has been evaluated, personnel from the Media Directorate
+Environment will proceed to deliver the cleaning guidelines to whoever
+appropriate, which consists of the removal of contacted material
+through the use of manual or mechanized tools (depending
+of the magnitude of the event).
+- The contacted material must be managed and disposed of as waste.
+dangerous.
+Aquatic environment:
+- The Area Head will coordinate and request the area's operators to execute the
+of the first containment measures (cut/stop the source that
+generates spills, implementation of containment measures, suction of
+hydrocarbon by vaccum type truck, material spraying
+absorbent, use of pumps for the extraction of hydrocarbons) with the
+in order to prevent the spill from spreading over a larger area.
+8-46
+==================================================================================
+PAGE 51
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Hydrocarbon spill in terrestrial and aquatic environments as a result of
+Emergency situation
+ENAP pipeline route modification
+- The Area Chief will notify the emergency team as soon as possible.
+- The Head of Area, by telephone, will notify personnel of the
+Environmental Directorate of the area, immediately detected the
+contingency in order to coordinate technical inspection in the area.
+- Environmental personnel from the area will carry absorbent material.
+available (blankets, sleeves, absorbent bags, according to need),
+to be used if required.
+- Personnel from the Environment Directorate will evaluate the event according to
+the geographical area, climatic conditions, presence of fauna, shape
+of the water course, place of mouth, the
+geographic coordinates of the event.
+- Once the incident has been evaluated, personnel from the Media Directorate
+Environment will proceed to deliver the cleaning guidelines to whoever
+appropriate, which consists of the removal of the spilled product
+through the use of manual or mechanized tools (truck type
+vacumm or s pump
+uction, use of absorbent materials).
+- If product (hydrocarbon) is recovered, it will be stored
+and then transported as indicated by the Area Head.
+- Once the actions described above have been implemented, the
+notice in cases that apply to the competent authorities.
+- Environment Directorate Personnel will coordinate the request for
+water sampling (upstream and downstream of the area) according to
+necessity.
+With the preliminary background of the causes that generated the contingency
+provided by the Head of the Area and the effects and/or potential effects of the
+contingency or incident in the environment, evaluated by the personnel of the
+Opportunity and avenues
+Environment Directorate, the environmental coordinator will proceed to the
+communication to the SMA of the
+preparation of the “Operational Incident Report with Consequences
+Plan Activation
+Environmental”; report with the information required to report to the authority
+in cases where applicable, which will be available during the first 24 hours.
+accounted for from the generation or detection of the contingency.
+Source: Own elaboration, 2024.
+8.7.4.13 Procedure for action in the event of a wastewater spill
+Table 8-25. Measures to Implement – Sewage spill
+Emergency situation Sewage spill
+Project Phase to which
+All phases
+apply
+Associated part, work or action Wastewater treatment plants and chemical baths
+Actions or measures 1. Immediately notify the intervention team and head of the Emergency Department,
+implement indicating:
+8-47
+==================================================================================
+PAGE 52
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Emergency situation Sewage spill
+• Location of the incident.
+• Magnitude
+• Type of waste
+• Consequences (severity)
+2. The Emergency Chief will evaluate the situation and if warranted, will request the
+evacuation of personnel.
+3. To stop the generation of sewage, the area must be evacuated, for
+Therefore, the boss or supervisor in charge of this will suspend the work in his
+dependencies, proceeding to transfer the workers to their residence.
+At the same time, the external company will be called to identify, fix or
+Replace system parts that are in poor condition.
+4. In the event that the contingency persists for a period greater than one day of
+operating at maximum capacity, the water will be removed by a company with
+health authorization, which will take them to a final disposal site
+authorized.
+5. A team will proceed to clean and/or disinfect the areas that have been in
+contact with sewage. In case of contact with the ground,
+The contaminated material will be removed and disposed of at an authorized site.
+6. Once the problem has been resolved, it will be the responsibility of the boss or
+supervisor in charge authorize its normal operation again.
+7. An investigation of the incident will be carried out, collecting all evidence
+possible, in order to make the corrections that the case warrants and avoid a
+new occurrence.
+In case of emergency, during the first 24 hours after the event occurred,
+will inform the Superintendency of the Environment. Likewise, it will be carried out
+the corresponding report in the SMA notices module through its
+Opportunity and avenues
+web page. Depending on the severity of the emergency, it will be communicated
+communication to the SMA of the
+additionally through telephone contact, as indicated in the section
+Plan Activation
+8.7.3.4 of this document.
+Once the situation is controlled, a detailed report will be sent to the
+SMA within 15 business days.
+Source: Own elaboration, 2024.
+8.7.4.14 Procedure for action in case the water cannot be reused
+of the PTAS
+Table 8-26. Measures to Implement – In the event that the effluent from the PTAS cannot be reused
+Emergency situation In the event that the effluent from the PTAS cannot be reused
+Project Phase to which
+All phases
+apply
+Associated part, work or action Wastewater treatment plants
+Actions or measures a PTAS inspections will be incorporated into the monthly supervision program.
+implement
+8-48
+=====
+==============================================================================
+PAGE 53
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Emergency situation In the event that the effluent from the PTAS cannot be reused
+1. The intervention team and head of emergencies will be notified immediately.
+indicating:
+• Location of the incident.
+• Magnitude
+• Type of waste
+• Consequences (severity)
+2. The Emergency Chief will evaluate the situation and if warranted, will request the
+evacuation of personnel.
+3. In the event that the contingency persists for a period greater than one day of
+operation at maximum capacity, the effluent will be removed by a company with
+health authorization, which will take it to a final disposal site
+authorized.
+4. An investigation of the incident will be carried out, collecting all evidence
+possible, in order to make the corrections that the case warrants and avoid a
+new occurrence.
+In case of emergency, during the first 24 hours after the event occurred,
+will inform the Superintendency of the Environment. Likewise, it will be carried out
+the corresponding report in the SMA notices module through its
+Opportunity and avenues
+web page. Depending on the severity of the emergency, it will be communicated
+communication to the SMA of the
+additionally through telephone contact, as indicated in the section
+Plan Activation
+8.7.3.4 of this document.
+Once the situation is controlled, a detailed report will be sent to the
+SMA within 15 business days.
+Source: Own elaboration, 2024.
+8-49
+==================================================================================
+PAGE 54
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+8.8 Maintenance of Equipment, Machinery and Systems
+In order to prevent the occurrence of accidents that cause emergency situations,
+carry out the following actions:
+Review and maintenance of equipment, machinery and systems in accordance with their ranges of
+preventive maintenance.
+Maintenance of fire extinguishing systems.
+Field verification of the existence of spill control material in all facilities
+management and storage of hazardous substances and waste.
+8.9 Training
+A training and training plan must be available for all site personnel, with the
+purpose of keeping personnel properly trained to prevent and deal with any
+emergency. These trainings must be carried out through periodic talks in which they describe
+the existing risks, forms of solution and procedures to act in the event of any occurrence
+accident and/or incident.
+The actions that must be taken will be the following:
+Training and training in the Contingency and Emergency Prevention Plan.
+Dissemination of the Plan's procedures to operational personnel.
+Coordination meetings with members of the Security Committee.
+Training and indoctrination talks.
+Publication of safety bulletins, posters, among others.
+Instructions to the Intervention Team.
+Practices and management of safety implements.
+Practice and training on evacuation procedures and emergency drills, with the aim
+to verify in the available means, both material and human, the following aspects:
+• The operation and effectiveness of personal warning systems and
+communications during the emergency.
+• The speed of response of the action groups in the application of the safety measures
+self protection.
+Their operation (in fictitious conditions) and an evaluation of their effectiveness.
+8-50
+==================================================================================
+PAGE 55
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+It is important to indicate that the training in wildlife protection matters that will be carried out at
+personnel involved, both external and
+internal process of the project, during construction, operation and
+closure, the Agricultural and Livestock Service (SAG) will be previously informed.
+8.10 Update of the Contingency and Emergency Plan
+This Contingency and Emergency Plan must be updated taking into account the following:
+- When incidents or events not described in this document occur.
+- Every time modifications are made to the Project, both for extensions and
+new constructions.
+- The experience collected in training and simulation exercises.
+- Incorporation of substances and/or waste with dangerous characteristics.
+The SMA will be informed of the update of the Plan in accordance with the instructions Guide for uploading Plans.
+Prevention of Environmental Contingencies and Environmental Emergency Plans, in the Health System
+Environmental Qualification Resolutions (SRCA), R.E. No. 1610/2018.
+8.11 First aid
+It is the first response to unwanted events that endanger a person's life. everything
+Effort made must be executed causing the least possible impact.
+Only properly trained personnel will be able to provide first aid to an injured person. The
+General procedure of action in case of giving first aid will be as follows:
+- Stay calm and act quickly and safely.
+- Evaluate the scene of the accident and verify the condition of the affected person.
+- Handle the affected person gently and cautiously.
+- Reassure the injured person.
+- Give notice as quickly as possible asking for help, indicating the greatest number of
+information.
+- Do not remove the injured person unless his life is in danger (fire, electrocution,
+collapses, pollution, asphyxiation, drowning, etc.).
+- Consider the control of bleeding and breathing as a priority, provided that the elements
+that make up the first aid kit allow it and do not put yourself at greater risk by
+crashed
+- If there is loss of consciousness, do not give drink.
+- Cover the injured person so that they do not get cold, preventing thermal shock.
+- For transfer, do it carefully (immobilization, stretcher, etc.)
+8-51
+==================================================================================
+PAGE 56
+==================================================================================
+Chapter 08
+Contingency and emergency plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+- Take data on facts and news to maintain the corresponding records.
+In case of emergency, there must be an emergency station in order to provide the first
+assistance in the installation of work and work fronts. These must include at least:
+- Physiological serum.
+- Alcohol for cleaning surfaces and disinfecting materials.
+- Sterile dressings and cotton.
+- Adhesive fabric.
+- Band-Aid patches.
+- Sterilized gauze.
+- Blunt tip scissors.
+- Antiseptic gel soap.
+- Procedure gloves.
+- Common tweezers.
+- Cardboard or wooden slats to immobilize.
+- Triangle bandages.
+- Safety pins.
+- Cotton.
+- Gender and elastic bandages.
+- Cervical neck.
+- Long board and side immobilizers.
+Every injured person will be treated at the polyclinic to be evaluated by a health professional (Technician in
+higher level nursing (TENS) and/or Paramedic), who will stabilize the person to be transferred
+to the nearest medical center if necessary.
+Additionally, within the facilities there will be a first response truck in front of
+accidents, rescues, fires and chemical emergencies, which will be made up of trained personnel.
+8-52

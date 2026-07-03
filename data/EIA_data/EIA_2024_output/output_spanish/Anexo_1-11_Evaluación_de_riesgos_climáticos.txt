@@ -1,0 +1,732 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 1-11
+Evaluación de riesgos climáticos
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+ÍNDICE GENERAL
+1 Introducción ............................................................................................................................ 1-3
+2 Metodología ............................................................................................................................ 2-4
+3 Resultados ............................................................................................................................... 3-6
+3.1 Riesgos asociados al sector minería ........................................................................................... 3-6
+3.1.1 Impacto de sequía en faenas mineras ................................................................................ 3-6
+3.1.2 Impacto de alta pluviometría en relaves mineros .............................................................. 3-7
+3.2 Riesgos asociados a los recursos hídricos .................................................................................. 3-7
+3.2.1 Inundaciones por desbordes de ríos .................................................................................. 3-7
+3.2.2 Inundaciones en zonas urbanas ......................................................................................... 3-8
+3.2.3 Disminución de la disponibilidad de agua superficial para fines ambientales ................... 3-8
+3.2.4 Aprovechamiento de agua superficial en riego.................................................................. 3-8
+3.2.5 Sequía hidrológica .............................................................................................................. 3-9
+3.3 Riesgos asociados al sector salud y bienestar humano .............................................................. 3-9
+3.3.1 Anegamientos de asentamientos costeros ........................................................................ 3-9
+3.3.2 Inundaciones .................................................................................................................... 3-10
+3.3.3 Aumento de morbilidad por aumento de temperaturas y olas de calor ......................... 3-10
+3.3.4 Mortalidad prematura por calor ...................................................................................... 3-11
+3.3.5 Efecto olas de calor en la salud humana .......................................................................... 3-11
+3.3.6 Disconfort térmico ambiental .......................................................................................... 3-12
+3.3.7 Incendios en asentamientos urbanos .............................................................................. 3-12
+3.3.8 Efectos de las heladas en ciudades. ................................................................................. 3-12
+3.3.9 Efectos de la isla de calor urbana ..................................................................................... 3-12
+3.3.10 Seguridad hídrica doméstica urbana ................................................................................ 3-12
+3.3.11 Seguridad hídrica doméstica rural.................................................................................... 3-13
+3.4 Riesgos sobre los bosques nativos ........................................................................................... 3-14
+3.4.1 Incendios en bosques nativos .......................................................................................... 3-14
+3.4.2 Pérdida de verdor en bosques nativos ............................................................................. 3-14
+3.5 Riesgos sobre la biodiversidad ................................................................................................. 3-15
+3.5.1 Pérdida de fauna por cambios de precipitación............................................................... 3-15
+3.5.2 Pérdida de flora por cambios de precipitación ................................................................ 3-15
+3.5.3 Pérdida de fauna por cambios de temperatura ............................................................... 3-15
+3.5.4 Pérdida de flora por cambios de temperatura ................................................................. 3-16
+3.5.5 Degradación de humedales costeros ............................................................................... 3-16
+4 Conclusiones .......................................................................................................................... 4-17
+5 Bibliografía ............................................................................................................................ 5-19
+1-i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+ÍNDICE DE TABLAS
+Tabla 3-1. Riesgo de disminución de la seguridad hídrica que afecte la productividad de las faenas mineras.
+.................................................................................................................................................................... 3-6
+Tabla 3-2. Riesgo de inundaciones por desbordes de ríos. ........................................................................ 3-7
+Tabla 3-3. Riesgo de inundaciones en zonas urbanas. ............................................................................... 3-8
+Tabla 3-4. Aumento en el riesgo de sequía hidrológica. ............................................................................ 3-9
+Tabla 3-5. Riesgo de anegamiento de asentamientos costeros. ................................................................ 3-9
+Tabla 3-6. Riesgo de impactos en la salud debido a inundaciones por desborde de colectores. ............ 3-10
+Tabla 3-7. Riesgo de efectos adversos sobre la salud de la población (mortalidad y morbilidad) generados
+por aumento de temperaturas y olas de calor. ........................................................................................ 3-11
+Tabla 3-8. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor. .....
+.................................................................................................................................................................. 3-11
+Tabla 3-9. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor. .....
+.................................................................................................................................................................. 3-11
+Tabla 3-10. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor. ...
+.................................................................................................................................................................. 3-12
+Tabla 3-11. Riesgo de impactos negativos en la salud de la población debido a la seguridad hídrica
+doméstica urbana. .................................................................................................................................... 3-13
+Tabla 3-12. Riesgo de impactos negativos en la salud de la población debido a la seguridad hídrica
+doméstica rural. ....................................................................................................................................... 3-13
+Tabla 3-13. Aumento en el riesgo de incendios en los bosques nativos. ................................................. 3-14
+Tabla 3-14. Aumento en el riesgo potencial sobre el verdor de los bosques nativos. ............................ 3-14
+Tabla 3-15. Riesgo de pérdida de especies de fauna producto del cambio futuro en la precipitación
+promedio anual. ....................................................................................................................................... 3-15
+Tabla 3-16. Riesgo de pérdida de especies de flora producto del cambio futuro en la precipitación promedio
+anual. ........................................................................................................................................................ 3-15
+Tabla 3-17. Riesgo de pérdida de especies de fauna producto del cambio futuro en la temperatura media.
+.................................................................................................................................................................. 3-16
+Tabla 3-18. Riesgo de pérdida de especies de flora producto del cambio futuro en la temperatura media.
+.................................................................................................................................................................. 3-16
+Tabla 3-19. Riesgo de degradación de humedales costeros por cambios en las condiciones ambientales. ..
+.................................................................................................................................................................. 3-16
+ÍNDICE DE FIGURAS
+Figura 2-1 Objetivos del proyecto y mapas de riesgo climático asociados. ............................................... 2-5
+1-ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El presente informe presenta un análisis de riesgos climáticos ante un escenario de cambio climático
+severo (RCP 8.5) en la comuna de Penco, Región del Biobío, con el objeto de poder identificar aquellos
+riesgos que deban ser considerados por parte del Proyecto “Proyecto de Desarrollo Minero de Extracción
+de Arcillas para Producción de Concentrado de Tierras Raras” (en adelante, el “Proyecto”).
+El análisis fue realizado a partir de las cadenas de impacto y mapas de riesgo climático disponibles en Atlas
+de Riesgos Climáticos (ARClim) del Ministerio del Medio Ambiente. Esta plataforma permite analizar los
+riesgos climáticos a partir de parámetros de amenaza, exposición y vulnerabilidad, lo cual permite evaluar
+las cadenas de impacto de mayor relevancia de acuerdo con los objetivos del Proyecto.
+A modo preliminar, cabe señalar que de acuerdo con los criterios establecidos en la Resolución N°
+202399101883 de fecha 10 de noviembre de 20231, del Servicio de Evaluación Ambiental, el área de
+emplazamiento del Proyecto (zona K) se vería afectada por las siguientes variaciones en las condiciones
+climáticas:
+• Disminución de la precipitación: se proyecta una disminución de un -20,1% en la precipitación
+acumulada anual para el período futuro (2035-2065) en comparación con el período histórico
+(1980-2010) para el percentil P25 de las proyecciones, y una disminución de la precipitación
+(cambio de -9,5%) para el percentil P75 de las proyecciones.
+• Aumento de la temperatura: se proyecta un aumento en la temperatura media anual en el
+período futuro (2035-2065) en comparación con el período histórico (1980-2010), en una
+magnitud de 1,4 °C a lo largo del territorio nacional continental.
+Estas variaciones son consistentes con las tendencias observadas en un conjunto de índices climáticos
+propuestos en el informe “Análisis de escenarios climáticos para Evaluación de Impacto Ambiental
+Proyecto Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras”,
+elaborado por el Centro de Cambio Global de la Universidad Católica (Anexo 1-11 del EIA). Este estudio
+realiza una caracterización histórica de la hidrometeorología de la comuna de Penco, en particular para
+las cuencas costeras e islas entre río Itata y río Biobío, y generó proyecciones de tendencias e indicadores
+de eventos extremos con base a distintos modelos de cambio climático2 y escenarios de emisión. Los
+resultados dan cuenta de un aumento significativo en los indicadores vinculados al aumento de las
+1 Criterio de Evaluación en el SEIA: Cambio climático en la evaluación ambiental del recurso hídrico.
+2 El estudio en referencia seleccionó los modelos NorESM1-M (seco), CESM1-CAM5 (intermedio) y HadGEM2-ES
+(húmedo), los cuales tuvieron una mejor representación del área de estudio al comparar los datos históricos de las
+proyecciones con datos observados en las estaciones de medición.
+1-3
+================================================================================
+PAGE 5
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+temperaturas hacia el año 2070 (días cálidos3, noches cálidas4 y días de verano5), y una disminución de las
+precipitaciones a escala anual hacia el año 2050, aunque este último resultado no presenta una
+significancia estadística en todos los modelos analizados.
+Estas variaciones en las condiciones climáticas a futuro se relacionan con un conjunto de riesgos climáticos
+que podrían generar efectos sobre los componentes ambientales y sobre las operaciones e instalaciones
+del Proyecto. Para identificar los riesgos climáticos de mayor significancia en el entorno del Proyecto, a
+continuación se presenta la metodología y resultados del análisis efectuado para el análisis de riesgos
+climáticos de acuerdo con los antecedentes disponibles en la plataforma ARClim. La sección de
+conclusiones identifica los riesgos climáticos prioritarios en el área de emplazamiento del Proyecto.
+2 METODOLOGÍA
+La evaluación de riesgos climáticos se elabora a partir de los antecedentes disponibles en ARClim. Si bien
+cada riesgo se estima a partir de metodologías diferentes según la naturaleza de cada riesgo, estas tienen
+en común la definición del concepto de riesgo climático a partir de los factores de amenaza, exposición y
+vulnerabilidad, según se indica en la Figura 2-1 a continuación.
+Figura 2-1. Riesgo climático
+Fuente: Guía metodológica para la consideración del cambio climático en el SEIA (SEA, 2023).
+De acuerdo con la “Guía metodológica para la consideración del cambio climático en el SEIA” (SEA, 2023):
+• La amenaza se refiere a la probabilidad o intensidad esperada de condiciones climáticas adversas
+en cierto territorio, considerando el cambio del clima entre el pasado reciente (1980-2010) y el
+3 Número de días en que la temperatura máxima sobrepasa el percentil 90 del registro.
+4 Número de días en que la temperatura mínima sobrepasa el percentil 90 del registro.
+5 Número de días en que la temperatura máxima sobrepasa los 25 °C.
+2-4
+================================================================================
+PAGE 6
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+futuro mediano (2035-2065) bajo un escenario pesimista de emisiones de gases de efectos
+invernadero (RCP8.5).
+• La exposición se relaciona con la presencia y dimensión de componentes ambientales
+potencialmente susceptibles de ser afectados negativamente por sucesos climáticos. En cuanto
+más elementos (por ejemplo, población, superficie, etc.) se encuentren en un territorio afectado
+por amenazas climáticas, mayor es la exposición y, por lo tanto, el riesgo climático.
+• La vulnerabilidad corresponde a factores no climáticos, e indica la propensión o predisposición a
+que un territorio, ecosistema, comunidad o sector se vea afectado negativamente a partir de la
+sensibilidad o susceptibilidad al daño y a la falta de capacidad para responder y adaptarse.
+En la sección 0 se evalúan los mapas de riesgo climático disponibles en ARClim para las cadenas de impacto
+que tienen mayor relación con el Proyecto. La selección de cadenas de impacto se realizó en base a la
+Tabla 2 de la “Guía metodológica para la consideración del cambio climático en el SEIA” (SEA, 2023), que
+establece las cadenas de impacto o mapas de riesgo a evaluar sobre la base de los objetivos del Proyecto
+y las tipologías de ingreso al SEIA. En este caso, los mapas de riesgo evaluados corresponden a las
+categorías minería, recursos hídricos, salud y bienestar humano, biodiversidad y bosques nativos, según
+se especifica en la Figura 2-1 a continuación.
+Figura 2-1 Objetivos del proyecto y mapas de riesgo climático asociados.
+Fuente: Guía metodológica para la consideración del cambio climático en el SEIA (SEA, 2023).
+2-5
+================================================================================
+PAGE 7
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La evaluación de estos riesgos climáticos se encuentra disponible en la sección resultados (secciones 3.1 a
+3.5) del presente informe. En cuanto a la incorporación de los planes de adaptación al cambio climático y
+los planes estratégicos mencionados en la Figura 2-1, la evaluación de su relación con el Proyecto se
+aborda en el capítulo 11 de relación con las políticas, planes y programas de desarrollo del presente EIA.
+3 RESULTADOS
+3.1 Riesgos asociados al sector minería
+Las siguientes cadenas de impacto son aplicables al sector minería, el cual resulta compatible con los
+objetivos del Proyecto. Sin embargo, cabe señalar que estas cadenas de impacto no necesariamente tienen
+una relación directa con el Proyecto, según se señala en las secciones a continuación.
+3.1.1 Impacto de sequía en faenas mineras
+El riesgo de disminución de la seguridad hídrica que afecte la productividad de las faenas mineras debido
+a la baja pluviometría se evalúa en un nivel muy bajo en la comuna de Penco.
+Este índice de riesgo evalúa la disminución de la seguridad hídrica que puede afectar la productividad de
+faenas mineras. El riesgo se compone de una amenaza relacionada con la disminución de la precipitación,
+un parámetro de exposición que da cuenta densidad de faenas mineras, un parámetro de sensibilidad que
+combina la falta de preparación o adecuación de la infraestructura y la viabilidad de tener fuentes de agua
+alternativas, y un parámetro de capacidad adaptativa que da cuenta del porcentaje de consumo de agua
+proveniente del mar respecto de la extracción total.
+Cabe señalar que este indicador se encuentra a la fecha en revisión, y que la valoración de este riesgo se
+explica por la ausencia de faenas mineras en la comuna, lo cual cambiaría de materializarse el presente
+proyecto. Según los antecedentes disponibles en el capítulo 1 de descripción del Proyecto, este no extraerá
+aguas superficiales o subterráneas, y considerando que el agua industrial será abastecida mediante
+camiones aljibes provenientes de la planta de ESSBIO, la productividad de la faena no se vería disminuida
+por el efecto de la sequía.
+Tabla 3-1. Riesgo de disminución de la seguridad hídrica que afecte la productividad de las faenas mineras.
+Comuna Amenaza Exposición Sensibilidad Riesgo
+0,3798 0,000 0,499 0,0000
+Penco
+(Baja) (Nula) (Moderada) (Nulo)
+Fuente: ARClim (2023).
+3-6
+================================================================================
+PAGE 8
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.1.2 Impacto de alta pluviometría en relaves mineros
+No se cuenta con información disponible para este riesgo en la Región del Biobío. Lo anterior puede
+deberse a la inexistencia estructuras de relaves o a la falta de información sistematizada sobre ellos.
+3.2 Riesgos asociados a los recursos hídricos
+3.2.1 Inundaciones por desbordes de ríos
+No se cuenta con información para este riesgo en la comuna de Penco. A modo de referencia, sin que los
+resultados sean directamente extrapolables, en las comunas de Concepción y Chiguayante no se proyectan
+cambios significativos en el nivel de riesgo entre el período histórico (1980-2010) y el período futuro (2035-
+2065) asociado a inundaciones por desbordes de ríos para crecidas de período de retorno de 100 años.
+El índice de riesgo presenta la susceptibilidad de que la infraestructura hidráulica crítica cercana al cauce
+principal que describe la zona urbana sufrir los impactos en mayor o menor magnitud frente a un desborde
+de río. El índice se construye a partir de un cambio en el nivel de amenaza asociado a la severidad de la
+crecida evaluada, un índice de exposición que considera la densidad de infraestructura crítica (obras
+hidráulicas contenidas en un buffer de 2 km) y un índice de sensibilidad que contempla la vulnerabilidad
+media de las obras hidráulicas (basada en el período de retorno de diseño de la obra respecto al período
+de retorno de la crecida evaluada) y una escala cualitativa de vulnerabilidad que evalúa las características
+del cauce y las obras de defensa fluvial colindantes.
+Tabla 3-2. Riesgo de inundaciones por desbordes de ríos.
+Capacidad
+Centro poblado Amenaza Exposición Sensibilidad Riesgo
+adaptativa
+Penco Sin información
+0,0 0,0 0,0 0 0,0
+Concepción
+(Sin cambio) (Nula) (Nula) (Sin información) (Sin cambio)
+0,0 0,0 0,0 0 0,0
+Chiguayante
+(Sin cambio) (Nula) (Nula) (Sin información) (Sin cambio)
+Fuente: ARClim (2023).
+Cabe señalar que el índice de riesgo se evalúa como sin cambios entre el período histórico y el período
+futuro en Concepción y Chiguayante, lo cual da cuenta de que el cambio climático no acentuaría en forma
+significativa el riesgo de inundaciones por desborde de ríos. Debe considerarse que esta valoración se
+explica por la baja valoración en los parámetros de exposición y sensibilidad, y por la inexistencia de
+variaciones significativas en el parámetro de amenaza entre el período histórico y el período futuro. Para
+este último parámetro, es necesario considerar que éste se evalúa sin cambios significativos entre
+períodos, pero la valoración de ambos períodos es de 0,8 (alto) en una escala de 0-1, lo cual da cuenta de
+que la amenaza asociada a crecidas de ríos se encuentra presente en ambos períodos de análisis.
+3-7
+================================================================================
+PAGE 9
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.2.2 Inundaciones en zonas urbanas
+No se cuenta con información para este riesgo en la comuna de Penco. A modo de referencia, sin que los
+resultados sean directamente extrapolables, en la comuna de Concepción se proyecta un leve aumento
+en el nivel de riesgo asociado a inundaciones urbanas entre el período histórico (1980-2010) y el período
+futuro (2035-2065), mientras que en la comuna de Chiguayante no se proyectan cambios. Este índice de
+riesgo muestra los efectos de inundaciones generadas por precipitaciones extremas de distinto período
+de retorno en zonas urbanas a nivel comunal, considerando aspectos sociales y existencia de servicios
+básicos junto a las condiciones climáticas presentes y actuales.
+El índice de riesgo de inundaciones en zonas urbanas se compone de un parámetro de amenaza que ilustra
+la afectación de las comunas por inundaciones debido al cambio en los eventos de precipitación extrema
+entre períodos, la cual se muestra a través del cambio del porcentaje de falla de colectores de aguas lluvia.
+Los resultados para este parámetro se presentan en este documento para precipitaciones extremas de
+período de retorno de 10 años. El índice de riesgo de inundaciones se compone a su vez de un parámetro
+de exposición, el cual contempla indicadores de densidad poblacional, densidad educacional y cantidad de
+servicios críticos disponibles. Finalmente, el riesgo considera un parámetro de sensibilidad, que evalúa la
+calidad de viviendas y de los servicios públicos críticos (bomberos, carabineros, servicios de salud y
+educación). Los parámetros de exposición y sensibilidad se evalúan bajo la condición actual (año 2018)
+Tabla 3-3. Riesgo de inundaciones en zonas urbanas.
+Comuna Amenaza Exposición Sensibilidad Riesgo
+Histórico Futuro Histórico Futuro Histórico Futuro
+Penco Sin información
+0,6761 0,7759 1 0,7029 0,6936 0,7960
+Concepción
+(Leve aumento) (Muy alta) (Muy alta) (Leve aumento)
+0,6657 0,7846 1 0,9261 1 1
+Chiguayante
+(Leve aumento) (Muy alta) (Muy alta) (Disminución)
+Fuente: GAC (2023), a partir de datos de ARClim.
+3.2.3 Disminución de la disponibilidad de agua superficial para fines ambientales
+No se cuenta con información disponible para este riesgo en cuencas de la Región del Biobío. Esta cadena
+de impacto estima riesgos asociados a la disponibilidad de agua superficial según criterios ambientales,
+por lo que busca estimar el riesgo al que están expuestos los ecosistemas que dependen de estos recursos.
+3.2.4 Aprovechamiento de agua superficial en riego
+No se cuenta con información disponible para este riesgo en cuencas de la Región del Biobío. Este índice
+de riesgo muestra cambios e la vulnerabilidad extrema para las distintas zonas de riego expuestas a
+3-8
+================================================================================
+PAGE 10
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+cambios en la precipitación media. El riesgo aumenta al existir una disminución en los caudales,
+impidiendo que el uso del derecho pueda ser ejercido íntegramente bajo los efectos del cambio climático.
+3.2.5 Sequía hidrológica
+No se cuenta con información para este riesgo en la comuna de Penco. A modo de referencia, sin que los
+resultados sean directamente extrapolables, el riesgo de sequía hidrológica fue evaluado con un fuerte
+aumento entre el periodo histórico de referencia (1980-2010) y el periodo futuro (2035-2065) en la cuenca
+del río Biobío en la comuna de Concepción.
+Este índice da cuenta de la susceptibilidad que presentan servicios dependientes del agua a sufrir un mayor
+o menor impacto adverso, y fue estimado a partir de los cambios en los caudales medios diarios (amenaza),
+la población rural residente a nivel comunal (exposición) y la susceptibilidad de las personas debido a
+condiciones demográficas, socioeconómicas y a la presencia de infraestructura hídrica (vulnerabilidad).
+Tabla 3-4. Aumento en el riesgo de sequía hidrológica.
+Comuna Período Amenaza Exposición Vulnerabilidad Riesgo
+Penco Sin información
+Histórico 0,375 0,3972
+(Moderada) (Moderado)
+Concepción Futuro 1 0,4107 0,4610 0,5620
+(Cuenca del río Biobío) (Muy alta) (Moderada) (Alta) (Alto)
+Delta 1 0,4148
+(Fuerte aumento) (Fuerte aumento)
+Fuente: ARClim (2023).
+3.3 Riesgos asociados al sector salud y bienestar humano
+3.3.1 Anegamientos de asentamientos costeros
+En la comuna de Penco, el riesgo de anegamiento de sectores costeros debido a marejadas y el alza de
+nivel del mar se evalúa en un nivel alto. Este riesgo evalúa cambios en la cota de inundación entre el
+período histórico y el futuro (amenaza), el tamaño de los emplazamientos en zonas litorales bajas medido
+a través del número de viviendas (exposición), y un parámetro de sensibilidad que considera la densidad
+poblacional, densidad de viviendas y el tipo de viviendas. Este riesgo ha sido normalizado, por lo que
+corresponde a un ranking entre los distintos asentamientos analizados.
+Tabla 3-5. Riesgo de anegamiento de asentamientos costeros.
+Localidad Amenaza Exposición Vulnerabilidad Riesgo
+0,9072 0,1059 0,3218 0,0309
+Penco
+(Muy alto) (Bajo) (Moderada) (Alto)
+Fuente: ARClim (2023).
+3-9
+================================================================================
+PAGE 11
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.3.2 Inundaciones
+No se cuenta con información disponible para este riesgo en la comuna de Penco. A modo de referencia,
+sin que los resultados sean directamente extrapolables, el riesgo de inundaciones presenta un aumento
+en la comuna de Concepción y una disminución en la comuna de Talcahuano.
+Este índice evalúa los posibles impactos adversos sobre las condiciones de las viviendas y servicios críticos
+asociados a inundaciones por desborde de los colectores de aguas lluvia, considerando condiciones
+climáticas, sociales e institucionales históricas y futuras.
+Tabla 3-6. Riesgo de impactos en la salud debido a inundaciones por desborde de colectores.
+Ciudad Periodo Amenaza Exposición Sensibilidad Resiliencia Riesgo
+Presente Sin información Sin información Sin información
+Penco Futuro Sin información Sin información Sin información Sin información Sin información
+Cambio Sin información Sin información Sin información
+0,0053 0,7226
+Presente --
+(Muy bajo) (muy alto)
+0,1984 0.4603 0,599 0,4223
+Concepción Futuro --
+(Bajo) (muy alto) (Alta) (Alta)
+0.0381 0,426
+Cambio --
+(leve aumento) (Aumento)
+0,0525 0,5934
+Presente --
+(Muy bajo) (muy alto)
+0,1411 0,2282 0,5546 0,4874
+Talcahuano Futuro --
+(Muy bajo) (muy alto) (Alta) (Alta)
+-0.003 -0,2971
+Cambio --
+(bajo) (Disminución)
+Fuente: ARClim (2023).
+3.3.3 Aumento de morbilidad por aumento de temperaturas y olas de calor
+En la comuna de Penco, se proyecta un bajo6 índice de riesgo de aumento de morbilidad por aumento de
+temperaturas y olas de calor. Cabe señalar que el índice se expresa en términos del cambio en el nivel de
+riesgo entre el período histórico y futuro. Este índice se compone de la amenaza de incidencia de aumento
+de temperaturas y olas de calor, la exposición de la población comunal expuesta (urbana y rural), las
+condiciones poblacionales o territoriales que aumentan la susceptibilidad de la comuna a sufrir impactos
+adversos de olas de calor (sensibilidad), y la capacidad de los asentamientos humanos de adaptarse a estas
+amenazas (resiliencia).
+6 El aumento en el riesgo se encuentra evaluado en ARClim en base a una escala numérica. La clasificación en
+categorías discretas (nulo; muy bajo; bajo; moderado; alto) es propuesta a partir de la escala numérica disponible en
+ARClim.
+3-10
+================================================================================
+PAGE 12
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 3-7. Riesgo de efectos adversos sobre la salud de la población (mortalidad y morbilidad) generados por
+aumento de temperaturas y olas de calor.
+Comuna Amenaza Exposición Sensibilidad Capacidad adaptativa Riesgo
+1,5°C 52.082 habitantes 19,4274 muertes 0,85 0,0289
+Penco
+(Moderada) (Moderada) (Alto) (Alta) (Bajo)
+Fuente: ARClim (2023).
+3.3.4 Mortalidad prematura por calor
+En la comuna de Penco, se proyecta un alto riesgo de aumento en la mortalidad para todas las causas no
+accidentales debido a cambios en la temperatura y el aumento en la frecuencia de olas de calor por efecto
+del cambio climático. Este índice se compone cambios en el promedio anual de la temperatura máxima
+diaria durante el periodo de 2035-2064 con respecto a promedio de la temperatura máxima observada
+durante el periodo 1980-2010, para los meses con aumento de mortalidad (amenaza), población comunal
+proyectada al año 2050 (exposición), cantidad de muertes por causas no accidentales esperadas al año
+2050 sin considerar un aumento de la temperatura producto del cambio climático (sensibilidad) y cantidad
+de jornadas diarias completas de trabajo de médicos, en salud primaria, por cada 10.000 habitantes
+(capacidad adaptativa).
+Cabe señalar que la mortalidad prematura por calor considera la capacidad de adaptación frente a la
+amenaza de altas temperaturas. De no considerarse el efecto de la capacidad adaptativa, el índice de
+riesgo aumentaría desde 0,0553 a 1,7 muertes al año 2050.
+Tabla 3-8. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor.
+Comuna Amenaza Exposición Sensibilidad Capacidad Adaptativa Riesgo
+1,5°C 277 muertes 0,85 0,0553 muertes
+Penco 52.082 habitantes
+(Moderada) (Alta) (Alta) (Leve aumento)
+Fuente: ARClim (2023).
+3.3.5 Efecto olas de calor en la salud humana
+En la comuna de Penco, se proyecta un bajo riesgo de efectos adversos sobre la salud de la población
+(mortalidad y morbilidad) generados por las olas de calor. Este índice se compone del cambio en la
+amenaza de incidencia de olas de calor entre el clima histórico y el clima futuro, la población expuesta
+(urbana y rural) al año 2035, las condiciones poblacionales o territoriales que aumentan la susceptibilidad
+de la comuna a sufrir impactos adversos de olas de calor (sensibilidad), y la capacidad de los asentamientos
+humanos de adaptarse a estas amenazas (resiliencia).
+Tabla 3-9. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor.
+Comuna Amenaza Exposición Sensibilidad Resiliencia Riesgo
+0,4709 0,2625 0,3789 0,37343
+Penco 0,4018
+(Leve aumento) (Baja) (Moderada) (Leve aumento)
+Fuente: ARClim (2023).
+3-11
+================================================================================
+PAGE 13
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.3.6 Disconfort térmico ambiental
+No se cuenta con información disponible para este riesgo en la comuna de Penco. Este riesgo se evalúa
+para ciudades con más de 50.000 habitantes.
+3.3.7 Incendios en asentamientos urbanos
+En la comuna de Penco, se proyecta un bajo aumento en el nivel de riesgo asociado a incendios en
+asentamientos humanos. Este índice considera un factor de amenaza correspondiente a la variación en la
+incidencia de temperaturas sobre 30 °C (propicias para la ocurrencia de incendios) entre el clima histórico
+y el clima futuro, la población urbana presente y que se proyecta residir al año 2035 en la comuna, un
+factor de sensibilidad asociado a la materialidad de las viviendas, y una capacidad adaptativa que considera
+la tasa comunal de número de compañías de bomberos por cada 100.000 habitantes.
+Tabla 3-10. Riesgo de efectos adversos sobre la salud de la población, mortalidad prematura por calor.
+Comuna Amenaza Exposición Sensibilidad Capacidad Adaptativa Riesgo
+0,0664 0,805 0,1975 0,2435 0,0515
+Penco
+(Bajo aumento) (Moderado) (Bajo) (Moderada) (Bajo aumento)
+Fuente: ARClim (2023).
+3.3.8 Efectos de las heladas en ciudades.
+No se cuenta con información disponible para este riesgo en la comuna de Penco.
+3.3.9 Efectos de la isla de calor urbana
+No se cuenta con información disponible para este riesgo en la comuna de Penco.
+3.3.10 Seguridad hídrica doméstica urbana
+Se proyecta un fuerte aumento en el riesgo de impactos negativos sobre la salud de la población debido a
+la seguridad hídrica doméstica urbana en la comuna de Penco. Este índice de riesgo se construye a partir
+de la variación en la incidencia de sequías meteorológicas (amenaza), la población urbana (exposición), la
+susceptibilidad de la comuna a sufrir impactos adversos en su seguridad hídrica doméstica urbana
+(sensibilidad) que se relaciona con las condiciones demográficas, socioeconómicas y de infraestructura
+hídrica de la comuna, y con la capacidad de los asentamientos humanos para responder adaptarse
+(resiliencia) a la amenaza de una mayor incidencia de sequías meteorológicas.
+3-12
+================================================================================
+PAGE 14
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 3-11. Riesgo de impactos negativos en la salud de la población debido a la seguridad hídrica doméstica
+urbana.
+Comuna Periodo Amenaza Exposición Sensibilidad Resiliencia Riesgo
+0,1374 0,6872 0,0085
+Histórico
+(Baja) (Moderada) (Muy bajo)
+0,7685 0,4864 0,6037 0,3789 0,6179
+Penco Futuro
+(Alto) (Moderada) (Alto) (Moderada) (Alto)
+0,3891 0,3891
+Delta --
+(Fuerte aumento) (Fuerte aumento)
+Fuente: ARClim (2023).
+3.3.11 Seguridad hídrica doméstica rural
+Se proyecta un fuerte aumento en el riesgo de impactos negativos sobre la salud de la población debido a
+la seguridad hídrica doméstica rural en la comuna de Penco. Este índice de riesgo se construye a partir de
+la variación en la incidencia de sequías meteorológicas (amenaza), la población rural (exposición), la
+susceptibilidad de la comuna a sufrir impactos adversos en su seguridad hídrica doméstica rural
+(sensibilidad) que se relaciona con las condiciones demográficas, socioeconómicas y de infraestructura
+hídrica de la comuna, y con la capacidad de los asentamientos humanos para responder adaptarse
+(resiliencia) a la amenaza de una mayor incidencia de sequías meteorológicas.
+Tabla 3-12. Riesgo de impactos negativos en la salud de la población debido a la seguridad hídrica doméstica
+rural.
+Comuna Periodo Amenaza Exposición Sensibilidad Resiliencia Riesgo
+0,1374 0,0056 0,2602
+Histórico
+(Baja) (Muy bajo) (Bajo)
+0,7685 0,008 0,7565 0,3789 0,8516
+Penco Futuro
+(Alta) (Muy bajo) (Alto) (Moderada) (Muy alto)
+0,3891 0,6373
+Delta --
+(Leve aumento) (Fuerte aumento)
+Fuente: ARClim (2023).
+3-13
+================================================================================
+PAGE 15
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.4 Riesgos sobre los bosques nativos
+3.4.1 Incendios en bosques nativos
+El riesgo asociado a incendios de bosques nativos como consecuencia de las olas de calor se evalúa en un
+nivel muy bajo en la comuna de Penco, presentando un leve aumento entre el período histórico y el
+período futuro. La valoración de este índice se ve influida en forma importante por el parámetro de
+exposición, que representa la superficie comunal cubierta por bosque nativo. El índice se compone además
+por la sensibilidad de un bosque a experimentar un incendio, lo cual depende de factores geográficos (por
+ejemplo, la pendiente del terreno), factores humanos (por ejemplo, cercanía de centros urbanos) y de
+cobertura de suelo (por ejemplo, el tipo de vegetación).
+Tabla 3-13. Aumento en el riesgo de incendios en los bosques nativos.
+Comuna Período Amenaza Exposición Sensibilidad Riesgo
+0,016 0,012
+Histórico
+(Muy bajo) (Muy bajo)
+0,0824 0,1034 0,980 0,062
+Penco Futuro
+(Muy bajo) (Muy bajo) (Muy alta) (Muy bajo)
+0,0664 0,050
+Delta
+(Muy bajo) (Leve aumento)
+Fuente: ARClim (2023).
+3.4.2 Pérdida de verdor en bosques nativos
+El efecto potencial de los cambios del clima sobre el vigor o verdor de los bosques nativos a nivel comunal
+en Penco se evalúa en un nivel muy bajo, presentando un leve aumento entre el período histórico y el
+período futuro. El vigor o verdor representa la abundancia de clorofila en las hojas, lo que es una
+aproximación de la capacidad fotosintética y potencial de crecimiento de las plantas. Su disminución
+puede representar disminución del crecimiento, defoliación y muerte de partes de la copa o de los
+individuos. El riesgo es calculado a partir de datos de cobertura de bosques nativos, la condición
+topográfica y de suelos donde se encuentran los bosques y las amenazas expresadas en los cambios de
+temperatura y precipitación.
+Tabla 3-14. Aumento en el riesgo potencial sobre el verdor de los bosques nativos.
+Comuna Periodo Amenaza Exposición Sensibilidad Riesgo
+Histórico 0,4629 0,0881
+(Moderado) (Muy bajo)
+Futuro 0,9027 0,1034 0,3755 0,1717
+Penco
+(Muy alto) (Muy bajo) (Baja) (Muy bajo)
+Delta 0,4629 0,0837
+(Moderado aumento) (Leve aumento)
+Fuente: ARClim (2023).
+3-14
+================================================================================
+PAGE 16
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.5 Riesgos sobre la biodiversidad
+3.5.1 Pérdida de fauna por cambios de precipitación
+Para la comuna de Penco se proyecta un alto riesgo de pérdida de diversidad de especies de fauna
+producto de los cambios futuros en los patrones de precipitación. El índice se construye a nivel comunal a
+partir de la disminución en la precipitación promedio anual en el clima futuro respecto a las condiciones
+climáticas históricas, el nivel de intervención medido como el grado de pérdida de la vegetación natural
+que ha experimentado el territorio en los últimos 30 años, y un índice de vulnerabilidad que representa la
+tolerancia climática y la capacidad adaptativa de las especies, la cual se relaciona con la amplitud de su
+nicho climático para la variable precipitación.
+Tabla 3-15. Riesgo de pérdida de especies de fauna producto del cambio futuro en la precipitación promedio
+anual.
+Comuna Amenaza Intervención Vulnerabilidad Riesgo
+0,5015 0,8824 0,1777 0,6433
+Penco
+(Moderada) (Muy alta) (Muy baja) (Alto)
+Fuente: ARClim (2023).
+3.5.2 Pérdida de flora por cambios de precipitación
+Para la comuna de Penco se proyecta un muy alto riesgo de pérdida de diversidad de especies de flora
+producto de los cambios futuros en los patrones de precipitación. El índice de riesgo de pérdida de
+diversidad de flora se construye a nivel comunal a partir de la disminución en la precipitación promedio
+anual en el clima futuro respecto a las condiciones climáticas históricas, el nivel de intervención medido
+como el grado de pérdida de la vegetación natural que ha experimentado el territorio en los últimos 30
+años, y un índice de vulnerabilidad que representa la tolerancia climática y la capacidad adaptativa de las
+especies, la cual se relaciona con la amplitud de su nicho climático para la variable precipitación.
+Tabla 3-16. Riesgo de pérdida de especies de flora producto del cambio futuro en la precipitación promedio
+anual.
+Comuna Amenaza Intervención Vulnerabilidad Riesgo
+0,5015 0,8824 1 0,9218
+Penco
+(Moderada) (Muy alta) (Muy alta) (Muy alto)
+Fuente: ARClim (2023).
+3.5.3 Pérdida de fauna por cambios de temperatura
+Para la comuna de Penco, se proyecta un muy bajo riesgo de pérdida de especies de fauna producto de
+los cambios futuros en los patrones de temperatura. El índice de riesgo de pérdida de diversidad de fauna
+se construye a nivel comunal a partir del aumento de la temperatura media en el clima futuro respecto a
+las condiciones climáticas históricas (amenaza), el nivel de intervención medido como el grado de pérdida
+de la vegetación que ha experimentado el territorio en los últimos 30 años, y un índice de vulnerabilidad
+3-15
+================================================================================
+PAGE 17
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+que representa la tolerancia climática y la capacidad adaptativa de las especies, la cual se relaciona con la
+amplitud de su nicho climático para la variable temperatura.
+Tabla 3-17. Riesgo de pérdida de especies de fauna producto del cambio futuro en la temperatura media.
+Comuna Amenaza Exposición Sensibilidad Capacidad adaptativa Riesgo
+0,1654 0,8824 0,0638 0,0 0,6975
+Penco
+(Muy baja) (Muy alta) (Muy baja) (Baja) (Alto)
+Fuente: ARClim (2023).
+3.5.4 Pérdida de flora por cambios de temperatura
+Para la comuna de Penco, se proyecta un muy bajo riesgo de pérdida de especies de flora producto de los
+cambios futuros en los patrones de temperatura. El índice de riesgo de pérdida de diversidad de flora se
+construye a nivel comunal a partir del aumento de la temperatura media en el clima futuro respecto a las
+condiciones climáticas históricas (amenaza), el nivel de intervención medido como el grado de pérdida de
+la vegetación que ha experimentado el territorio en los últimos 30 años, y un índice de vulnerabilidad que
+representa la tolerancia climática y la capacidad adaptativa de las especies, la cual se relaciona con la
+amplitud de su nicho climático para la variable temperatura.
+Tabla 3-18. Riesgo de pérdida de especies de flora producto del cambio futuro en la temperatura media.
+Comuna Amenaza Intervención Vulnerabilidad Riesgo
+0,1654 0,8824 0,7134 0,7813
+Penco
+(Muy baja) (Muy alta) (Alta) (Alto)
+Fuente: ARClim (2023).
+3.5.5 Degradación de humedales costeros
+En relación con la degradación de humedales costeros, para la comuna de Penco se proyecta un riesgo de
+nivel alto de acuerdo a los cambios de las condiciones ambientales. Al encontrarse emplazados en zonas
+costeras bajas, estos humedales se encuentran amenazados tanto por la anegación permanente debido a
+un incremento del nivel del mar, como por la alteración de la composición de su columna de agua
+ocasionada por el aumento de ingreso de agua de mar asociado a eventos de marejadas.
+Tabla 3-19. Riesgo de degradación de humedales costeros por cambios en las condiciones ambientales.
+Comuna Amenaza Exposición Sensibilidad Capacidad adaptativa Riesgo
+0,73 0,7749 1,0 0,2 0,9472
+Penco
+(Moderada) (Moderada) (Muy sensible) (Baja) (Alto)
+Fuente: ARClim (2023).
+3-16
+================================================================================
+PAGE 18
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4 CONCLUSIONES
+Según se describe en la introducción, de acuerdo con los criterios establecidos en la Resolución N°
+202399101883/2023 de fecha 10 de noviembre de 20237, del Servicio de Evaluación Ambiental, el área de
+emplazamiento del Proyecto se vería afectada por una reducción de la precipitación acumulada a nivel
+anual. De acuerdo con el percentil P25 de las proyecciones climáticas disponibles, esta reducción
+alcanzaría un valor de 20,1%, mientras que de acuerdo con el percentil P75 de las proyecciones se
+produciría una disminución de 9,5%. Respecto de las tendencias en las temperaturas, se proyecta un
+aumento en la temperatura media anual en una magnitud de 1,4 °C a lo largo del territorio nacional
+continental.
+En consecuencia, los principales riesgos climáticos en la comuna de Penco se relacionan tanto con la
+disminución de las precipitaciones como con el aumento de las temperaturas. Destaca fuerte aumento en
+el riesgo de sequía hidrológica entre el período histórico (1980-2010) y el período futuro (2035-2065). En
+forma similar, se proyecta un fuerte aumento en el riesgo sobre la seguridad hídrica doméstica rural y
+urbana entre el período histórico y el período futuro en la comuna de Penco. En cuanto al impacto de la
+disminución de las precipitaciones sobre el sector minero, a partir de la información disponible en ARClim
+no es posible anticipar un efecto negativo de la disminución de las precipitaciones sobre la productividad
+de faenas mineras, y en cuanto a los posibles efectos sobre el Proyecto, el abastecimiento de agua
+industrial mediante camiones aljibes prevenientes de la planta de ESSBIO aumenta el grado de resiliencia
+frente a los posibles efectos de las sequías.
+En cuanto a riesgos relacionados con eventos de alta precipitación, no se cuenta con antecedentes en
+ARClim sobre el riesgo de impactos en la salud debido a inundaciones por desborde de colectores de aguas
+lluvia en la comuna de Penco, y si bien no son resultados directamente extrapolables, se proyecta un
+aumento en este riesgo en la comuna de Concepción y una disminución en Talcahuano. Para el caso del
+riesgo en la salud debido a las inundaciones que podrían provocar desborde de ríos, no proyectan cambios
+en la valoración de este riesgo en las comunas de Concepción y Chiguayante. No se cuenta con información
+disponible para este último riesgo en la comuna Penco. Finalmente, el riesgo de anegamiento de sectores
+costeros debido a marejadas y el alza de nivel del mar se evalúa en un nivel alto en la localidad de Penco.
+Con relación al aumento de las temperaturas, en la comuna de Penco se proyecta un leve aumento en el
+riesgo de efectos adversos sobre la salud de la población por aumento en las olas de calor y en el riesgo
+de mortalidad prematura por calor. El riesgo de incendios en asentamientos urbanos, el cual se ve
+acentuado ante la ocurrencia de temperaturas por sobre 30 °C, se evalúa con un bajo aumento entre el
+período histórico y el período futuro en la comuna de Penco.
+7 Criterio de Evaluación en el SEIA: Cambio climático en la evaluación ambiental del recurso hídrico.
+4-17
+================================================================================
+PAGE 19
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Finalmente, en cuanto a los riesgos climáticos sobre componentes bióticos, para el componente flora y
+vegetación se proyecta un muy alto riesgo de pérdida de especies de flora por cambios en las
+precipitaciones y un alto riesgo de pérdida de especies por cambios en las temperaturas. Para el
+componente fauna, estos riesgos se evalúan en un nivel alto. En cuanto a riesgos relacionados con bosques
+nativos, se proyecta un leve aumento en el riesgo de incendios y para el riesgo de pérdida de verdor en
+bosques nativos. En cuanto al riesgo de degradación de humedales costeros, se proyecta un alto riesgo de
+degradación por aumento del nivel del mar y el efecto de las marejadas.
+4-18
+================================================================================
+PAGE 20
+================================================================================
+Anexo 1-11 Evaluación de Riesgos Climáticos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+5 BIBLIOGRAFÍA
+Centro de Cambio Global UC, 2023. Análisis de escenarios climáticos para Evaluación de Impacto
+Ambiental Proyecto Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras. Informe final.
+Servicio de Evaluación Ambiental, 2023. Guía metodológica para la consideración del cambio climático en
+el SEIA. Primera edición. Santiago, Chile.
+Servicio de Evaluación Ambiental, 2023. Criterio de evaluación en el SEIA: Cambio climático en la
+evaluación ambiental del recurso hídrico. Primera edición.
+Ministerio del Medio Ambiente, 2022. Atlas de Riesgos Climáticos (ARClim).
+https://arclim.mma.gob.cl/atlas/
+5-19

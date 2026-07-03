@@ -1,0 +1,1446 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3A-12
+Línea de Base de Hidrología
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Página i
+INFORME
+Línea de Base Hidrología
+EIA Extracción de Arcillas Para Producción de
+Concentrado de Tierras Raras
+Mayo 2024
+Cliente:
+Fecha Elaborado por Revisado por Versión
+30-01-2024 DT/ASM FAZ 0
+Informe Línea de Base Hidrología
+Mayo 2024 i
+================================================================================
+PAGE 3
+================================================================================
+Página ii
+Tabla de Contenidos
+1 Introducción ....................................................................................................................... 1
+2 Objetivos ............................................................................................................................ 3
+2.1.1 Objetivo General ...................................................................................................... 3
+2.1.2 Objetivos Específicos ............................................................................................... 3
+3 Metodología ....................................................................................................................... 4
+3.1.1 Revisión de Información Secundaria ....................................................................... 4
+3.1.2 Análisis Hidrológico .................................................................................................. 5
+3.1.3 Determinación del Patrón de Drenaje ..................................................................... 5
+3.1.4 Identificación de Puntos de Control ........................................................................ 6
+4 Resultados ....................................................................................................................... 10
+4.1.1 Área de Influencia .................................................................................................. 10
+4.1.2 Hidrometeorología................................................................................................. 11
+4.1.3 Riesgo Climático ..................................................................................................... 14
+4.1.4 Patrón de Drenaje .................................................................................................. 19
+4.1.5 Caudales en Crecida ............................................................................................... 20
+4.1.6 Presentación de resultados de medición de caudales en Estero Penco y Cabrito 21
+Descripción de la actividad ......................................................................................................... 21
+Número de verticales por sección de aforo................................................................................ 22
+Método a utilizar para la medición de caudales ......................................................................... 22
+Aforo con Molinete ..................................................................................................................... 22
+Por Vadeo ................................................................................................................................... 23
+4.1.7 Resultado Acumulados Históricos ......................................................................... 23
+4.1.8 Delimitación y Caracterización de Cuencas y Áreas Aportantes ........................... 26
+4.1.9 Precipitaciones Máximas en 24 horas ................................................................... 28
+4.1.10 Caudales en Crecida ............................................................................................... 33
+4.1.11 Caudales Medios Mensuales ................................................................................. 40
+4.1.12 Análisis de Potenciales Efectos Adversos sobre el Recurso Hídrico ...................... 44
+5 Conclusiones .................................................................................................................... 46
+6 Referencias ...................................................................................................................... 48
+Informe Línea de Base Hidrología
+Mayo 2024 ii
+================================================================================
+PAGE 4
+================================================================================
+Página iii
+Lista de Figuras
+Figura 1-1: Ubicación General Proyecto ............................................................................................................. 2
+Figura 3-1: Ubicación Obras del Proyecto .......................................................................................................... 7
+Figura 3-2: Ubicación Puntos de Control ............................................................................................................ 8
+Figura 4-1: Área de Influencia Hidrológica del Proyecto .................................................................................. 11
+Figura 4-2: Climograma de precipitación media mensual (2000-2020) estación DGA Andalién y temperatura
+media mensual (1966-2022) estación DMC Carriel Sur ........................................................................... 12
+Figura 4-3: Isolíneas de evaporación de tanque (color naranjo) y de evaporación real (color amarillo).
+Balance Hídrico de Chile (DGA, 1987) ...................................................................................................... 14
+Figura 4-4: Amenazas Climáticas vinculadas a la componente Hídrica para la comuna de Penco .................. 16
+Figura 4-5: Red de Drenaje o Red Hidrográfica del AI ...................................................................................... 19
+Figura 4-6: Ubicación puntos de control fliviométrico ..................................................................................... 20
+Figura 4-7: Variación Mensual de Caudales en Estero El Cabrito ..................................................................... 25
+Figura 4-8: Variación Mensual de Caudales en Estero Penco .......................................................................... 25
+Figura 4-9: Delimitación de Cuencas y Áreas Aportantes................................................................................. 27
+Figura 4-10: Ubicación Estaciones Pluviométricas cercanas al AI .................................................................... 29
+Figura 4-11: Isoyetas en cuencas del AI ............................................................................................................ 32
+Figura 4-12: Curvas de Variación Estacional en la Cuenca del Estero Penco para Probabilidades de Excedencia
+del 50 % al 90 %. ...................................................................................................................................... 42
+Figura 4-13: Curvas de Variación Estacional en la Cuenca del Estero El Cabrito para Probabilidades de
+Excedencia del 50 % al 90 %. ................................................................................................................... 43
+Informe Línea de Base Hidrología
+Mayo 2024 iii
+================================================================================
+PAGE 5
+================================================================================
+Página iv
+Lista de Tablas
+Tabla 3-1: Coordenadas Puntos de Control en red de drenaje del AI ................................................................ 9
+Tabla 4-1: Coordenadas Puntos de Control fluviométrico ............................................................................... 20
+Tabla 4-2: Caudales Aforados en Estero Penco y Cabrito ................................................................................. 24
+Tabla 4-3: Parámetros Morfométricos de cuencas de Puntos de Control tipo Cuenca ................................... 27
+Tabla 4-4: Información Estaciones Pluviométricas cercanas al AI .................................................................... 28
+Tabla 4-5: Precipitaciones Diarias por Estación para distintos Periodos de Retorno ....................................... 30
+Tabla 4-6: Resumen Cálculo de Precipitación Máxima Diaria por Cuenca para T=10 años .............................. 33
+Tabla 4-7: Evaluación del Coeficiente de Escorrentía (T=10 años) ................................................................... 34
+Tabla 4-8: Tiempos de Concentración .............................................................................................................. 36
+Tabla 4-9: Coeficiente de Duración. Estación Carriel Sur (Concepción) ........................................................... 38
+Tabla 4-10: Coeficientes de Frecuencia para distintos periodos de retorno. Estación Carriel Sur (Concepción)
+................................................................................................................................................................. 38
+Tabla 4-11: Intensidad de Precipitación de Diseño para Cuenca Ponderada ................................................... 39
+Tabla 4-12: Caudales en Crecida ...................................................................................................................... 39
+Tabla 4-13: Características Geomorfológicas de la Cuenca .............................................................................. 40
+Tabla 4-14: Caudales Medios Mensuales (L/S), para Distintas Probabilidades de Excedencia, en la Cuenca del
+Estero Penco ............................................................................................................................................ 41
+Tabla 4-15: Caudales Medios Mensuales (L/S), para Distintas Probabilidades de Excedencia, en la Cuenca del
+Estero El Cabrito. ..................................................................................................................................... 42
+Tabla 4-16: Caudales Medios Mensuales y Caudal Medio Anual Esteros Penco y El Cabrito .......................... 43
+Informe Línea de Base Hidrología
+Mayo 2024 iv
+================================================================================
+PAGE 6
+================================================================================
+1 Introducción
+ACLARA ha solicitado a APM Medioambiente la elaboración de la Línea de Base Hidrológica
+del Proyecto de Extracción de Arcillas para Producción de Concentrado de Tierras Raras. Este
+Proyecto pertenece a la empresa REE UNO SpA, en adelante ACLARA, el cual consiste en la
+construcción y operación de una faena minera junto con una planta de procesamiento de
+maicillo granítico con presencia de Lantánidos, conocidos ampliamente como Tierras Raras.
+Para el desarrollo de este estudio se considera la caracterización hidrológica asociada al área
+de influencia del Proyecto, disponiendo para ello de antecedentes públicos y bibliográficos.
+Cabe destacar que el proyecto no requerirá de la explotación del recurso hídrico natural (ni
+superficial ni subterráneo) de algún curso, cuerpo o reservorio adyacente a las obras del
+proyecto para ejecución de sus procesos industriales y que, por lo tanto, dichas actividades
+contarán con fuentes externas de aprovechamiento. En efecto, la única interacción entre el
+proyecto y los cursos superficiales del área de influencia radica en la construcción de una serie
+de atraviesos de índole subterráneo, superficial o aéreo vinculados con la implementación de
+tuberías de conducción y habilitación de rutas de transporte.
+El emplazamiento del proyecto se sitúa en la comuna de Penco y Concepción, Provincia de
+Concepción, Región del Biobío. Al proyecto se accede desde la ruta 150, Camino a Penco, km
+4,5, tal como lo indica la Figura 1-1 a continuación.
+Informe Línea de Base Hidrología
+Mayo 2024 1
+================================================================================
+PAGE 7
+================================================================================
+Figura 1-1: Ubicación General Proyecto
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 2
+================================================================================
+PAGE 8
+================================================================================
+2 Objetivos
+2.1.1 Objetivo General
+El objetivo general del presente informe corresponde a la elaboración de la línea base de la
+componente hidrológica para el área de influencia del Proyecto, teniendo en cuenta la
+caracterización y descripción de este recurso por medio de la disponibilidad de información
+pública, bibliográfica existente y antecedentes de terreno, así como también identificar los
+potenciales efectos sobre este recurso considerando la ejecución del Proyecto. Lo anterior,
+siguiendo los lineamientos planteados en el documento Criterio de Evaluación en el SEIA:
+Contenido Técnico para la Evaluación Ambiental del Recurso Hídrico (SEIA, 2022).
+2.1.2 Objetivos Específicos
+Con el objetivo de elaborar la línea de base y levantar una data hidrológica del área del
+proyecto se contemplan los siguientes objetivos específicos:
+• Definición de las cuencas que comprenden el Área de Influencia
+• Análisis de estadísticas hidrometeorológicas
+• Definición de precipitaciones medias y máximas para distintos períodos de retorno
+• Definición de temperaturas y evapotranspiración medias y máximas
+• Características del patrón de drenaje del área de influencia
+• Definición de los caudales máximos para distintos periodos de retorno (10, 20, 50 y 100
+años), en 24 puntos de interés del área de influencia (atraviesos de caminos y de obras),
+para ello se realizará:
+o Delimitación de las cuencas hidrográficas aportantes a cada atravieso de quebrada,
+utilizando como cartografía base un modelo de elevación digital.
+o Estimación de los parámetros geomorfológicos necesarios para la aplicación de los
+métodos indirectos de cálculo de caudales de crecida.
+o Realizar los análisis de frecuencia de la información pluviométrica y pluviométrica
+disponible en las estaciones hidrometeorológicas cercanas a la zona del proyecto.
+o Calcular los caudales de crecida mediante los métodos propuestos por el Manual DGA
+y de Carreteras.
+Informe Línea de Base Hidrología
+Mayo 2024 3
+================================================================================
+PAGE 9
+================================================================================
+3 Metodología
+A continuación, se describe la metodología empleada para dar cumplimiento a cada uno de
+los objetivos específicos establecidos para este estudio.
+Inicialmente se realizó una caracterización hidrográfica regional del área de estudio donde se
+identificaron sectores hidrológicos y la principal red hidrográfica asociada a la zona del
+Proyecto.
+A continuación, se realizó una caracterización hidrográfica local, con el fin de identificar la red
+de drenaje del sector y de esta forma poder definir potenciales impactos en el recurso hídrico.
+Posteriormente, se realizó una caracterización hidrometeorológica del área donde se
+desarrolla el Proyecto, con el objetivo de establecer los valores de temperatura y
+precipitaciones, determinando para el caso de las precipitaciones valores para distintos
+periodos de retorno.
+Luego, se presentan los resultados de caudales máximos para distintos periodos de retorno,
+basado en las metodologías planteadas en el presente documento.
+Finalmente, para la elaboración del presente informe, se consideraron principalmente las
+siguientes actividades:
+• Revisión de información secundaria
+• Análisis hidrológico
+• Fotointerpretación
+• Determinación del patrón de drenaje
+• Identificación de puntos de control
+A continuación, se presenta una descripción de cada una de las actividades mencionadas
+precedentemente.
+3.1.1 Revisión de Información Secundaria
+Con el objetivo de recopilar los antecedentes necesarios para caracterizar la componente
+hidrológica, se consultaron los siguientes documentos y bases de datos:
+• Guía para la Descripción del Área de Influencia, Servicio de Evaluación de Impacto
+Ambiental, 2017.
+• Criterio de Evaluación en el SEIA: Contenido Técnicos para la Evaluación Ambiental del
+Recurso Hídrico, 2022.
+• Base de datos mapoteca digital de la Dirección General de Aguas (DGA).
+Informe Línea de Base Hidrología
+Mayo 2024 4
+================================================================================
+PAGE 10
+================================================================================
+• Base de datos de estadística fluviométrica de la Dirección General de Aguas (DGA).
+• Cartas IGM escala 1:50.000. Instituto Geográfico Militar (IGM).
+• Guía de Evaluación de Impactos Ambientales, Servicio de Evaluación Ambiental, 2015.
+• Mankuk Consulting & Services S.A. (2024). Informe de Hidrología Proyecto Extracción de
+Arcillas para Producción de Tierras Raras.
+3.1.2 Análisis Hidrológico
+Se realiza una descripción hidrográfica regional y local en torno a la zona del Proyecto,
+identificando los principales cauces naturales que interactúan con el área de influencia y
+determinando los posibles impactos del Proyecto sobre este recurso.
+Basado en la red hidrográfica se definen cuencas aportantes y sus parámetros morfométricos,
+y de registros históricos se obtienen las precipitaciones máximas anuales para distintos
+períodos de retorno, con el fin de estimar caudales de crecida. Los escenarios analizados
+corresponden a periodos de 10, 20, 50 y 100 años.
+Para el análisis hidrológico se consideró la ejecución de las siguientes actividades:
+Fotointerpretación
+Se revisó las cartas IGM asociadas al sector, las que corresponden a las cartas IGM F-106
+(Hualqui) y F-97 (Tomé), con el fin de identificar las posibles redes de escurrimiento y/o
+quebradas naturales. Además, para complementar la información, se utilizó el mapa vectorial
+red hidrográfica disponible en la mapoteca del Congreso Nacional de Chile (BCN) y el mapa
+vectorial canales descargado desde la mapoteca de la Infraestructura de Datos Geoespaciales
+de Chile (IDE Chile), de igual manera que la información recopilada en la visita a terreno
+realizada a la zona del Proyecto.
+Determinación del Patrón de Drenaje
+La red hidrográfica del área de influencia fue obtenida a dos niveles de escala, ya que se
+contaba con dos fuentes distintas de información de la superficie de la zona. Las redes
+obtenidas y sus fuentes fueron las siguientes:
+• Red gruesa: Esta red fue obtenida mediante el modelo digital de elevación (DEM por sus
+siglas en inglés) de ALOS PALSAR DEM (https://search.asf.alaska.edu/#/), de 12,5 m de
+resolución por pixel.
+• Red fina: Esta red fue obtenida mediante la topografía de curvas de nivel cada 1 m de la
+zona de estudio.
+Informe Línea de Base Hidrología
+Mayo 2024 5
+================================================================================
+PAGE 11
+================================================================================
+El patrón de drenaje de todas las cuencas se desarrolla en términos generales de Este a Oeste,
+en el que algunos tramos se desvían en diversos sentidos, pero teniendo todos como descarga
+el océano Pacífico.
+El cauce principal corresponde al río Andalién (zona sur del Proyecto), que drenan las
+pequeñas quebradas que se ubican en la zona, y cuyo régimen es completamente pluvial. Este
+cauce es el que presenta un caudal permanente y continuo durante todos los meses del año,
+sin embargo, las quebradas donde se emplazan las obras permanecen generalmente secas y
+se activan con la presencia de lluvias importantes. En el sector norte del desarrollo del
+Proyecto, el drenaje principal corresponde al estero Penco, de régimen pluvial, donde la
+mayoría de sus quebradas aportantes solo se encuentran activas durante eventos de
+precipitación.
+Identificación de Puntos de Control
+Se han determinado puntos de control que definen la intersección de caminos con quebradas.
+A continuación, se presentan la ubicación de las obras del proyecto, así como la red
+hidrográfica y los puntos de control resultantes.
+La Figura 3-1 muestra la ubicación de las obras del Proyecto, proyectado en el sistema de
+coordenadas WGS84 UTM Zona 18S. El proyecto se encuentra a aproximadamente 1 km de
+la ciudad de Penco en la Región del Biobío.
+Informe Línea de Base Hidrología
+Mayo 2024 6
+================================================================================
+PAGE 12
+================================================================================
+Figura 3-1: Ubicación Obras del Proyecto
+Fuente: APM Consultores
+La Figura 3-2 muestra los puntos de control en la red de drenaje del área de influencia. La
+Tabla 3-1 presenta las coordenadas de los puntos de control.
+Informe Línea de Base Hidrología
+Mayo 2024 7
+================================================================================
+PAGE 13
+================================================================================
+Figura 3-2: Ubicación Puntos de Control
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 8
+================================================================================
+PAGE 14
+================================================================================
+Tabla 3-1: Coordenadas Puntos de Control en red de drenaje del AI
+UTM
+Punto WGS 84/ H18S Descripción
+E (m) N (m)
+OAT 1-6 680495 5928930 Intersección de caminos internos con red hidrográfica
+OAT 1-8 680454 5929082 Intersección de caminos internos con red hidrográfica
+OAT 1-11 680198 5929182 Intersección de caminos internos con red hidrográfica
+OAT 1-14 680736 5929268 Intersección de caminos internos con red hidrográfica
+OAT 1-15 680841 5929248 Intersección de caminos internos con red hidrográfica
+OAT 1-16 680935 5929125 Intersección de caminos internos con red hidrográfica
+OAT 1-17 681092 5929093 Intersección de caminos internos con red hidrográfica
+OAT 1-18 681368 5929241 Intersección de caminos internos con red hidrográfica
+OAT 2-1 681523 5929552 Intersección de caminos internos con red hidrográfica
+OAT 2-2 681501 5929634 Intersección de caminos internos con red hidrográfica
+OAT 2-3 681502 5929674 Intersección de caminos internos con red hidrográfica
+OAT 5-10 679874 5930015 Intersección de caminos internos con red hidrográfica
+OAT 5-11 679976 5930014 Intersección de caminos internos con red hidrográfica
+OAT 7-2 680866 5928888 Intersección de caminos internos con red hidrográfica
+OAT 7-4 681130 5928765 Intersección de caminos internos con red hidrográfica
+OAT 7-5 681113 5928701 Intersección de caminos internos con red hidrográfica
+OAT 7-7 680892 5928521 Intersección de caminos internos con red hidrográfica
+OAT 11-1 681552 5929350 Intersección de caminos internos con red hidrográfica
+OAT 11-3 681524 5929374 Intersección de caminos internos con red hidrográfica
+OAT 22-5 681961 5930557 Intersección de caminos internos con red hidrográfica
+OAT 22-8 681472 5930845 Intersección de caminos internos con red hidrográfica
+OAT 22-9 681464 5930925 Intersección de caminos internos con red hidrográfica
+OAT 35-2 681448 5929668 Intersección de caminos internos con red hidrográfica
+OAT 38-1 681483 5929744 Intersección de caminos internos con red hidrográfica
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 9
+================================================================================
+PAGE 15
+================================================================================
+4 Resultados
+4.1.1 Área de Influencia
+De acuerdo con lo establecido por el Artículo 19º letra b.1. del Reglamento del Sistema de
+Evaluación de Impacto Ambiental (RSEIA), a continuación, se define y justifica el área de
+influencia para la componente hidrológica, considerando los potenciales impactos
+ambientales al recurso hídrico. El área de influencia ha sido establecida a partir de todas las
+obras y/o acciones asociadas al Proyecto que, en sus distintas fases, pudiesen potencialmente
+afectar a la hidrología local.
+Basado en lo anterior y lo indicado en la Guía para la Descripción del Área de Influencia (SEIA,
+2017), se definió el área de influencia como se muestra en la Figura 4-1, la que considera el
+espacio geográfico comprendido por el emplazamiento de las obras definitivas, las que
+corresponden a la ubicación de canteras, Planta de producción y caminos de acceso. Se
+incluyen también el emplazamiento de las obras de carácter temporal, las que corresponde a
+la instalación de faenas entre otros. Considerando que todas estas zonas podrían generar
+potenciales impactos sobre el objeto de protección, siendo para este caso todos los cauces
+naturales que interactúan con el área de influencia definida. Como resultado de la definición
+del AI la superficie corresponde a una extensión de 33 km2 (3.300 hectáreas)
+Informe Línea de Base Hidrología
+Mayo 2024 10
+================================================================================
+PAGE 16
+================================================================================
+Figura 4-1: Área de Influencia Hidrológica del Proyecto
+Fuente: APM Consultores
+4.1.2 Hidrometeorología
+En el presente acápite se presenta la caracterización de las componentes
+hidrometeorológicas de interés, esto es: temperatura, precipitación, evapotranspiración y
+riesgo climático.
+Temperatura
+La estación meteorológica que presenta la mayor estadística de temperatura y de mejor
+consistencia corresponde a la estación controlada por la Dirección Meteorológica de Chile
+(DMC) denominada Carriel Sur, ubicada a unos 10 km al sur oeste de la zona de estudio,
+dentro de los límites del aeropuerto Carriel Sur de la ciudad de Concepción. De acuerdo con
+el registro histórico de los últimos 56 años de dicha estación (1966-2022), la temperatura
+media anual de la zona es de 12,3 °C. El promedio mensual mínimo se registra en el mes de
+julio con un valor de 8,8 °C y el máximo en el mes de enero con un valor de 16,5 °C. Dichas
+Informe Línea de Base Hidrología
+Mayo 2024 11
+================================================================================
+PAGE 17
+================================================================================
+temperaturas son típicas de un clima tipo Csbn’s según el sistema Koppen-Geiger, el cual
+corresponde a Templado cálido con lluvias invernales y gran humedad atmosférica. El
+climograma de la Figura 4-2 muestra la distribución mensual de las temperaturas.
+Precipitaciones
+La estación pluviométrica controlada por la Dirección General de Aguas (DGA) denominada
+Andalién, se considera representativa de la zona, debido a su cercanía (menos de 10 km) y a
+una altura semejante de la zona de estudio (40 metros aproximadamente). El clima Csbn’s de
+la zona presenta una estación seca de menos de cuatro meses, alcanzando un valor anual
+acumulado de agua caída de 1.136 mm promedio durante los últimos 20 años de estadística
+(2000-2020). En cuanto a la variación mensual de las precipitaciones, junio es el mes más
+lluvioso con una cantidad promedio de 256 mm de agua caída, mientras que el mes de febrero
+es el más seco, con 12 mm. La variación temporal de la precipitación se muestra en el
+climograma de la Figura 4-2.
+Figura 4-2: Climograma de precipitación media mensual (2000-2020) estación DGA Andalién y
+temperatura media mensual (1966-2022) estación DMC Carriel Sur
+Fuente: APM Consultores
+Evapotranspiración
+De acuerdo con el Balance Hídrico de Chile (DGA, 1987), la evaporación de tanque en el área
+es del orden de los 1250 mm/año y la evapotranspiración real cerca de 600 mm/año. La Figura
+4-3 presenta ambos tipos de isolíneas publicadas por la DGA.
+Por otra parte, la evapotranspiración real anual se puede estimar utilizando el método de
+Turc, cuya fórmula se encuentra representada por:
+Informe Línea de Base Hidrología
+Mayo 2024 12
+================================================================================
+PAGE 18
+================================================================================
+Donde:
+ETR: evapotranspiración real en mm/año
+P: precipitación en mm/año: que se tomará igual a 1.136 mm/año según el registro de
+la estación DGA Andalién
+L: 300+25xt+0,005xt3, siendo t=temperatura media anual en °C: el resultado de este
+polinomio adimensional es igual a 618,5
+De acuerdo con lo anterior, se obtiene un valor de evapotranspiración real (ETR) de 550
+mm/año para la zona de estudio, que es cercano a los valores de ETR estimados por la DGA
+(1987), de 600 mm/año.
+Informe Línea de Base Hidrología
+Mayo 2024 13
+================================================================================
+PAGE 19
+================================================================================
+Figura 4-3: Isolíneas de evaporación de tanque (color naranjo) y de evaporación real (color
+amarillo). Balance Hídrico de Chile (DGA, 1987)
+Fuente: Balance Hídrico de Chile (DGA, 1987)
+4.1.3 Riesgo Climático
+Para la definición de la sinergia negativa que el factor climático pueda ejercer sobre la
+componente hídrica del área de influencia, se consideró la evaluación de los parámetros
+hidrometereológicos comprendiendo su evolución en el tiempo sumado a este factor de
+amenaza.
+En este sentido, se evaluó la proyección (simulación) de parámetros climáticos que influyen
+en la disponibilidad y características del recurso hídrico, las que fueron escogidas desde la
+base de datos del portal arclimb.mma.gob.cl del Ministerio de Medioambiente:
+Informe Línea de Base Hidrología
+Mayo 2024 14
+================================================================================
+PAGE 20
+================================================================================
+• Temperatura
+• Frecuencia de sequía (%)
+• Días Secos consecutivos
+• Evapotranspiración potencial
+• Precipitación máxima diaria
+• Intensidad de precipitaciones
+La Figura 4-4 identifica la progresión de dichas amenazas climáticas vinculadas en el tiempo
+apara la comuna de Penco
+Informe Línea de Base Hidrología
+Mayo 2024 15
+================================================================================
+PAGE 21
+================================================================================
+Figura 4-4: Amenazas Climáticas vinculadas a la componente Hídrica para la comuna de Penco
+Informe Línea de Base Hidrología
+Mayo 2024 16
+================================================================================
+PAGE 22
+================================================================================
+aclara
+AIPIM Acetera Prorectos Medioacslente
+Días secos consecutivos en PENCO
+Evaportraspiración Potencial en PENCO Anual
+Anual
+200
+Pasado
+Futuro
+Pasado
+Futuro
+[ 150 1 100 1 50
+1 3.5 1 2,5 1 1.5
+1980
+2000
+2020
+2040
+2060
+1980
+2000
+2020 Año
+2040
+2060
+Año
+Simulación individual
+Valor medio de las simulaciones
+Simulación individual
+Valor medio de las simulaciones
+Highcharts-com
+Highcharts.com
+Informe Línea de Base Hidrología Mayo 2024
+================================================================================
+PAGE 23
+================================================================================
+Fuente: Desarrollado en base a información de www.arclimb.gob.cl
+Informe Línea de Base Hidrología
+Mayo 2024 18
+================================================================================
+PAGE 24
+================================================================================
+La simulación (Valor medio) derivada de los datos de ArClimb (MMA) predice un aumento de
+las temperaturas máximas diarias en promedio de 1°C para el año 2060, y junto con ello el
+aumento de la probabilidad de sequía y días secos; y consecuentemente una aceleración
+sobre la tasa de evapotranspiración producto de los cambios climáticos. Para el caso de las
+precipitaciones máximas diarias, ésta se proyecta por debajo de los máximos históricos por
+lo que corresponde a una condición que afectaría las entradas al sistema hídrico de la cuenca;
+sin embargo, la proyección de la intensidad de precipitaciones pronostica un aumento de la
+frecuencia de un 10% en intensidades de 2 mm/día.
+4.1.4 Patrón de Drenaje
+El patrón de drenaje característico presente en el área de influencia corresponde a un drenaje
+dendrítico. La Figura 4-5 presenta la red de drenaje o red hidrográfica del área.
+Figura 4-5: Red de Drenaje o Red Hidrográfica del AI
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 19
+================================================================================
+PAGE 25
+================================================================================
+4.1.5 Caudales en Crecida
+Introducción
+Dado que el área de influencia corresponde a cuencas sin control fluviométrico por parte de
+la DGA, no se cuenta con mediciones permanentes de caudales en línea en esteros y/o
+quebradas ubicadas en el AI. De acuerdo a las observaciones de campo, realizadas en las
+sucesivas visitas a terreno, se tiene que aparte del río Andalién, solo el estero Penco contaría
+con escorrentía permanente a lo largo del año, las restantes quebradas aparentemente se
+activan durante los eventos de precipitación, quedando solo algunas de ellas con un flujo
+durante la época invernal y primaveral.
+En función de lo descrito precedentemente, en el presente capítulo se realiza la evaluación
+de escorrentía en crecida para diferentes periodos de retorno en los puntos de interés,
+correspondiendo a los puntos de control de cuenca, atraviesos y obras. Para ello se recurre a
+relaciones precipitación-escorrentía utilizando metodologías y fórmulas recomendadas por la
+Autoridad.
+Medición de caudales Esteros Penco y Cabrito
+De acuerdo a lo señalado anteriormente, existe la necesidad de crear una base de datos
+propia que incluya mediciones de caudales en los esteros mas importante de la zona. En
+este sentido el proyecto cuenta con información fluviométrica en los esteros Penco y El
+Cabrito.
+Los puntos de medición están localizados en los esteros antes indicados en las siguientes
+coordenadas referidas al Datum WGS 84.
+Tabla 4-1: Coordenadas Puntos de Control fluviométrico
+Punto Coordenada Norte Coordenada Este
+Estero Penco aguas arriba 5.931.666 681.408
+Estero Penco aguas abajo 5.931.458 681.087
+Estero El Cabrito aguas arriba 5.933.781 682.436
+Estero El Cabrito aguas abajo 5.935.075 681.864
+Fuente: APM Consultores
+En la Figura 4-6 se presenta la ubicación de los puntos antes citados.
+Figura 4-6: Ubicación puntos de control fliviométrico
+Informe Línea de Base Hidrología
+Mayo 2024 20
+================================================================================
+PAGE 26
+================================================================================
+Fuente: APM Consultores
+4.1.6 Presentación de resultados de medición de caudales en Estero Penco y Cabrito
+Metodología Empleada
+A continuación, se presenta la metodología utilizada para efectuar el levantamiento de
+información en terreno.
+i. Medición de Caudal mediante aforo con molinete
+A continuación, se describe la forma de medición de caudales efectuada en los esteros
+Penco y El Cabrito.
+Descripción de la actividad
+Algunas consideraciones:
+• La sección a medir se eligió en un lugar accesible, considerando futuras campañas
+de aforo.
+Informe Línea de Base Hidrología
+Mayo 2024 21
+================================================================================
+PAGE 27
+================================================================================
+• El hidromensor, de acuerdo a las condiciones del terreno, definió el punto exacto
+del aforo (aguas arriba o abajo).
+• El aforo se realizó en un tramo recto del río o curso de agua, en una sección donde
+sin caídas de agua, rápidos ni turbulencias.
+• Considerando que las distribuciones de velocidad deben ser parejas, se procedió a
+mejorar algunas secciones desmalezando y sacando piedras, lo cual permitió
+mejorar las secciones de aforo seleccionadas, de modo de tener una sección que
+garantice una medición confiable.
+• Los aforos fueron realizados mediante vadeo.
+Número de verticales por sección de aforo
+Por regla general, en función del ancho de la sección a aforar y de la precisión requerida, el
+hidromensor determina el número de verticales en que se llevan a cabo las medidas de
+velocidad. En este caso, fueron consideradas mediciones de profundidad y velocidad de la
+corriente a una distancia máxima entre verticales de 20 cm, las cuales se acercaron a los 10
+cm en los casos que se consideró necesario.
+Método a utilizar para la medición de caudales
+Se utiliza el método relación Sección-Velocidad, en el cual se mide en forma indirecta, de
+acuerdo a:
+CAUDAL = VELOCIDAD x AREA
+Q [m3/s] = V [m/s] x A [m2]
+El método consiste en medir la sección del curso de agua y la velocidad en la misma. Ello se
+hace a través de verticales en las que se mide profundidad y velocidad. Se determinan así
+áreas parciales y velocidades medias en las áreas parciales con las cuales se determinan
+caudales parciales, cuya sumatoria arroja el caudal total.
+Como método de control o chequeo se repetirá la medición de velocidad en cada en una de
+las verticales y comparará que la diferencia entre la primera y segunda medición no exceda
+el 5%, de lo contrario de realizará nuevamente la medición de todas las verticales en la sección
+de aforos.
+Aforo con Molinete
+El molinete es un dispositivo constituido por paletas que giran al estar en contacto con una
+corriente de agua, siendo el número de revoluciones proporcional a la velocidad de la
+corriente. La cantidad de vueltas que se registran en un tiempo determinado, se controlan
+con un contador electrónico.
+Informe Línea de Base Hidrología
+Mayo 2024 22
+================================================================================
+PAGE 28
+================================================================================
+La ecuación a través de la cual se calcula la velocidad en base al número de revoluciones de
+la hélice del molinete está dada por el fabricante del molinete y es corregida en cada
+calibración o contrastación del instrumento.
+Las mediciones de abscisas, profundidad y velocidad se hacen al mismo tiempo, partiendo de
+izquierda a derecha en sentido del flujo.
+El moliente utilizado corresponde a uno de cazoletas tipo Gurley.
+Por Vadeo
+Los aforos en ambos esteros se realizaron mediante la técnica de vadeo, para ello el
+procedimiento utilizado fue el siguiente:
+Se ubicó una huincha debidamente graduada a lo ancho de la sección del río, en él se
+marcaron las abscisas, cada 10 cm, de izquierda a derecha (a favor del flujo) en las cuales se
+realizaron las mediciones de profundidad y de velocidad de la corriente de agua.
+La barra graduada donde va montado el molinete se ubicó en forma vertical hasta tocar el
+fondo del lecho, la profundidad medida correspondió a la profundidad de esa vertical y el
+dato de velocidad (número de vueltas del molinete) corresponde a la velocidad del flujo de
+agua en esa vertical.
+4.1.7 Resultado Acumulados Históricos
+A continuación, se presentan los resultados acumulados de las campañas de aforo realizadas
+por APM. La Tabla 4-2 se presenta los caudales medidos en los esteros Penco y El Cabrito
+para los meses de octubre 2020 a diciembre de 2023, en tanto que las siguientes Figuras
+muestran la variación mensual de los caudales para los esteros El Cabrito y Penco
+respectivamente.
+Informe Línea de Base Hidrología
+Mayo 2024 23
+================================================================================
+PAGE 29
+================================================================================
+Tabla 4-2: Caudales Aforados en Estero Penco y Cabrito
+Caudal (L/s)
+Estero Punto oct- nov- dic- ene- feb- mar- abr- may- jun- jul- ago- sept- oct- nov- dic- ene- feb- mar- abr- may-
+20 20 20 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22
+aguas
+35 40 31
+El arriba 22 26 18 33 26 55 37 40 57 47 23 18 17 6 13 17 49
+Cabrito aguas
+39 48 35
+abajo 30 39 29 38 23 47 44 48 97 77 31 24 27 17 11 16 59
+aguas
+62 71 65
+arriba 34 41 37 56 38 43 48 65 83 111 38 35 35 27 22 34 79
+Penco
+aguas
+68 76 65
+abajo 36 59 55 98 59 92 138 103 154 138 74 46 59 41 25 26 120
+Caudal (L/s)
+Estero Punto
+jun- jul- ago- sept- oct nov- dic- ene- feb- mar- abr- may- jun- jul- ago- sept- oct- nov- dic-
+22 22 22 22 -22 22 22 23 23 23 23 23 23 23 23 23 23 23 23
+aguas
+El arriba 191 133 117 71 74 47 41 49 34 19 139 37 125 187 293 179 108 130 106
+Cabrito aguas
+abajo 148 178 175 107 90 93 58 59 35 39 90 37 130 143 319 203 138 141 110
+aguas
+arriba 201 (*) (*) (*) (*) 94 96 75 47 50 (*) 42 241 263 645 362 354 207 158
+Penco
+aguas
+abajo 372 233 237 112 89 154 110 130 48 41 77 56 281 307 563 358 189 261 262
+(*) Sin dato por corte de camino
+Fuente: Informes de Aforos Estero Penco y Cabrito APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 24
+================================================================================
+PAGE 30
+================================================================================
+Figura 4-7: Variación Mensual de Caudales en Estero El Cabrito
+Fuente: APM Consultores
+Figura 4-8: Variación Mensual de Caudales en Estero Penco
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 25
+================================================================================
+PAGE 31
+================================================================================
+4.1.8 Delimitación y Caracterización de Cuencas y Áreas Aportantes
+El análisis del área aportante en los puntos de atravieso de quebradas se realizó mediante las
+curvas de nivel de la zona de proyecto, cuya resolución vertical es de 1 m, en combinación
+con el DEM de ALOS PALSAR, de resolución de pixel de 12,5 m.
+A continuación, la Figura 4-9 presenta la delimitación de las cuencas y la Tabla 4-1 presenta
+sus principales parámetros morfométricos, donde se han considerado los siguientes:
+1. Longitud del Cauce principal (𝐿 ): Se obtiene de la medición directa de la longitud del cauce
+𝑐
+principal de la cuenca a lo largo de su trayectoria.
+2. Elevación mínima de la cuenca (𝐻 ): Corresponde a la mínima cota dentro de la cuenca.
+𝑚í𝑛
+3. Elevación máxima de la cuenca (𝐻 ): Corresponde a la máxima cota dentro de la cuenca.
+𝑚á𝑥
+4. Elevación media de la cuenca (𝐻 ): Corresponde a la cota media dentro de la cuenca.
+𝑚𝑒𝑑
+5. Desnivel Máximo de la cuenca (∆𝐻 ): Corresponde a la diferencia entre la cota del punto
+𝑚á𝑥
+de la divisoria de las aguas de la cuenca más alto y alejado de su salida y la cota del punto
+de término del cauce principal.
+6. Desnivel Medio de la cuenca (∆𝐻 ): Corresponde al mayor valor entre: La diferencia de
+𝑚𝑒𝑑
+cotas entre la elevación máxima y media; la diferencia de cotas entre la elevación mínima y
+media.
+7. Pendiente media de la cuenca (S): Corresponde a la pendiente media de la cuenca, obtenida
+del software QGIS.
+Informe Línea de Base Hidrología
+Mayo 2024 26
+================================================================================
+PAGE 32
+================================================================================
+Figura 4-9: Delimitación de Cuencas y Áreas Aportantes
+Fuente: APM Consultores
+Tabla 4-3: Parámetros Morfométricos de cuencas de Puntos de Control tipo Cuenca
+UTM
+Nombre Área H H H ∆H L S
+WGS 84/ H18S mín med máx med ∆H (m) c
+máx
+Cuenca (km²) (msnm) (msnm) (msnm) (m) (m) (m/m)
+E (m) N (m)
+OAT 35-2 681448 5929668 0,2093 240,0 275,3 305,0 35,3 65,0 606 0,107
+OAT 22-5 681961 5930557 0,0391 172,2 214,2 250,4 41,9 78,2 296 0,264
+OAT 11-3 681524 5929374 0,0032 261,3 272,7 285,9 13,2 24,6 53 0,465
+OAT 11-1 681552 5929350 0,0026 266,5 274,6 285,9 11,4 19,5 28 0,696
+OAT 1-15 680841 5929248 0,6570 220,0 258,2 305,0 46,8 85,0 1562 0,054
+OAT 1-14 680736 5929268 0,0050 225,0 239,1 245,0 14,1 20,0 45 0,444
+OAT 1-11 680198 5929182 0,0098 179,1 197,2 215,0 18,1 35,9 80 0,449
+OAT 1-8 680454 5929082 0,0361 180,0 222,3 245,0 42,3 65,0 209 0,311
+OAT 7-7 680892 5928521 0,0231 235,7 268,9 285,0 33,2 49,3 110 0,448
+OAT 7-5 681113 5928701 0,0433 239,3 268,7 305,0 36,3 65,7 203 0,324
+OAT 7-4 681130 5928765 0,5847 241,4 286,3 355,0 68,7 113,6 1344 0,085
+Informe Línea de Base Hidrología
+Mayo 2024 27
+================================================================================
+PAGE 33
+================================================================================
+UTM
+Nombre Área H H H ∆H L S
+WGS 84/ H18S mín med máx med ∆H (m) c
+máx
+Cuenca (km²) (msnm) (msnm) (msnm) (m) (m) (m/m)
+E (m) N (m)
+OAT 1-6 680495 5928930 1,6498 184,1 264,3 355,0 90,7 170,9 2186 0,078
+OAT 7-2 680866 5928888 0,0105 245,0 262,5 275,0 17,5 30,0 91 0,330
+OAT 5-11 679976 5930014 0,0170 126,2 147,1 165,0 21,0 38,8 127 0,306
+OAT 5-10 679874 5930015 0,3424 125,0 166,2 210,0 43,8 85,0 910 0,093
+OAT 2-3 681502 5929674 0,0109 247,5 262,1 270,0 14,7 22,5 100 0,225
+OAT 2-2 681501 5929634 0,0050 259,8 286,1 302,6 26,4 42,8 45 0,951
+OAT 2-1 681523 5929552 0,0735 250,0 287,2 305,0 37,2 55,0 410 0,134
+OAT 1-18 681368 5929241 0,0092 256,2 265,2 275,8 10,6 19,5 97 0,201
+OAT 1-17 681092 5929093 0,0175 250,0 266,9 275,0 16,9 25,0 143 0,175
+OAT 1-16 680935 5929125 0,0250 247,2 264,2 275,0 17,0 27,8 96 0,289
+OAT 38-1 681483 5929744 0,0296 240,0 256,7 270,0 16,7 30,0 192 0,156
+OAT 22-9 681464 5930925 7,3090 139,0 298,0 401,0 159,0 262,0 4039 0,065
+OAT 22-8 681472 5930845 6,6794 139,0 304,0 401,0 165,0 262,0 3300 0,079
+Fuente: APM Consultores
+4.1.9 Precipitaciones Máximas en 24 horas
+Estadística Disponible
+Con la finalidad de evaluar las precipitaciones máximas en 24 horas para posteriormente
+utilizarlas en la estimación de escorrentía en crecida, se procedió a recopilar información de
+las estaciones más cercanas al AI pertenecientes a la red de estaciones de monitoreo de la
+Dirección General de Aguas, Las estaciones seleccionadas y sus principales características se
+presentan en la Tabla 4-4, en tanto que su ubicación respecto del AI se puede observar en la
+Figura 4-10.
+Tabla 4-4: Información Estaciones Pluviométricas cercanas al AI
+Elevación
+UTM Este UTM Norte
+Código BNA Nombre Año Inicio
+[m] [m] [msnm]
+08410001-3 Concepción DGA 669.387 5.921.946 28 1994
+08220006-1 Andalién 683.839 5.923.886 37 2001
+08220005-3 Carriel Sur 672.298 5.927.883 236 1990
+08140001-6 Rafael 692.309 5.943.295 264 1990
+Biobío
+08394001-8 672.818 5.921.279 16 1985
+Desembocadura
+Fuente: APM Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 28
+================================================================================
+PAGE 34
+================================================================================
+Figura 4-10: Ubicación Estaciones Pluviométricas cercanas al AI
+Fuente: APM Consultores
+Tal como se indicó precedentemente. la información a utilizar del registro de las estaciones
+corresponde a los valores de precipitación máxima anual en 24 horas. Para homogenizar las
+series pluviométricas se realiza un relleno de datos que finalmente permite obtener series
+con 27 años completos que abarcan desde el 01/04/1993 al 31/03/2019.
+El relleno estadístico se efectúa utilizando el método de los módulos pluviométricos, el cual
+completa los datos faltantes relacionando la precipitación diaria y anual de la estaciona a
+rellenar con el conjunto de las estaciones que cuentan con datos disponibles como se define
+en la siguiente expresión:
+Donde,
+𝑃 : Precipitación diaria de la estación a rellenar en (mm).
+𝑥
+𝑀 : Precipitación media anual de la estación a rellenar en (mm).
+𝑥
+𝑛: Número de estaciones con registro disponible.
+𝑃: Precipitación diaria de una estación disponible en (mm).
+𝑖
+Informe Línea de Base Hidrología
+Mayo 2024 29
+================================================================================
+PAGE 35
+================================================================================
+𝑀: Precipitación media anual de una estación con registro disponible en (mm).
+𝑖
+Análisis de Frecuencia y Bondad de Ajuste
+En base a la serie de precipitaciones obtenida de las 5 estaciones indicadas precedentemente,
+se ajustaron funciones distribución de probabilidades para estimar las precipitaciones
+máximas anuales con diferentes periodos de retorno. Los ajustes de distribución se realizaron
+para cada estación mediante el método de máxima verosimilitud.
+Las distribuciones ajustadas para las series de máximos anuales para cada estación son:
+Normal, Log-normal, Pearson, Log-Pearson y Gumbel. Luego se seleccionó la distribución con
+mejor ajuste considerando los resultados de los test Chi-Cuadrado y Kolmogorov-Smirnov. En
+el Anexo A se presentan las distribuciones adoptadas para la serie de datos de cada estación
+y una tabla resumen con los resultados de cada test.
+Con la distribución adoptada, se obtienen las precipitaciones diarias para distintos periodos
+de retorno, para cada una de las estaciones, las cuales se presentan a continuación en la Tabla
+4-5.
+Tabla 4-5: Precipitaciones Diarias por Estación para distintos Periodos de Retorno
+Concepción Biobío
+T Andalién Carriel Sur Rafael
+DGA Desembocadura
+(años) Precipitación Diaria (mm)
+2 68,3 64,3 63,0 88,4 54,1
+5 101,0 91,3 89,9 119,8 74,3
+10 123,9 109,7 111,0 140,4 87,8
+20 146,7 127,7 133,9 160,0 100,7
+25 154,1 133,4 141,8 166,2 104,8
+50 177,4 151,4 168,0 185,4 117,5
+100 201,4 169,6 197,4 204,5 130,3
+200 226,1 188,2 230,2 223,8 143,1
+Fuente: APM Consultores
+Precipitación Media
+Se evaluó el valor de precipitación media a considerar en cada una de las cuencas o áreas
+aportantes definidas en la Tabla 4-1. Para ello se elaboró un mapa campo de isoyetas a partir
+de los resultados obtenidos en la Tabla 4-5, considerando un periodo de retorno T=10 años.
+El campo de isoyetas contiene información de las líneas de igual precipitación. Además, con
+el fin de contrastar resultados se incluye en el grafico el mapa de isoyetas de precipitaciones
+máximas de 24 horas para 10 años de periodo de retorno del Balance Hídrico de Chile (DGA,
+Informe Línea de Base Hidrología
+Mayo 2024 30
+================================================================================
+PAGE 36
+================================================================================
+1987), el cual contiene información con resolución de 20 (mm). La siguiente figura presenta
+el campo de isoyetas generado.
+Informe Línea de Base Hidrología
+Mayo 2024 31
+================================================================================
+PAGE 37
+================================================================================
+Figura 4-11: Isoyetas en cuencas del AI
+Fuente: APM Consultores
+Para determinar la precipitación media de cada cuenca se realiza un promedio ponderado del
+área entre isoyetas respecto del área total de la cuenca según la siguiente fórmula:
+Donde,
+𝑃𝑃 𝑗: Precipitación ponderada para la 𝑗-ésima cuenca en (mm).
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜
+𝑁: Es el total de pares de isoyetas contiguas que atraviesan la cuenca 𝑗.
+𝑃̅: Corresponde al promedio en (mm) entre 2 isoyetas contiguas. Como ejemplo, el
+𝑖
+promedio 122,5 (mm) corresponde al área entre las isoyetas 122 y 123 (mm).
+𝐴 : El área de la cuenca entre 2 isoyetas (Km2).
+𝑖
+𝐴 : El área total de la cuenca en (Km2).
+𝑇
+Los resultados obtenidos se presentan en la Tabla 4-6.
+Informe Línea de Base Hidrología
+Mayo 2024 32
+================================================================================
+PAGE 38
+================================================================================
+Tabla 4-6: Resumen Cálculo de Precipitación Máxima Diaria por Cuenca para T=10 años
+Área (m2) entre isoyetas con P (mm)
+PP
+Cuenca ponderada
+120,5 121,5 122,5 123,5 124,5 125,5 126,5
+mm
+OAT 11-1 2564 122,5
+OAT 7-7 22060 1000 121,5
+OAT 7-5 43349 122,5
+OAT 7-4 327000 257729 122,9
+OAT 7-2 9000 1529 121,6
+OAT 5-11 16962 121,5
+OAT 5-10 298000 44429 120,6
+OAT 2-3 10927 123,5
+OAT 2-2 4951 123,5
+OAT 2-1 14000 59469 123,3
+OAT 1-18 9241 122,5
+OAT 1-17 17549 122,5
+OAT 1-16 25041 122,5
+OAT 1-15 466000 191000 122,8
+OAT 1-14 5041 121,5
+OAT 1-11 9836 121,5
+OAT 1-8 36140 121,5
+OAT 1-6 300000 883000 466781 122,6
+OAT 38-1 1000 28599 123,5
+OAT 35-2 28286 181000 123,4
+OAT 22-9 381000 1313000 2078000 1997000 1540000 124,9
+OAT 22-8 1313000 2078000 1997000 1291445 125,0
+OAT 22-5 39143 123,5
+OAT 11-3 3199 122,5
+Nota: Las celdas en blanco corresponden a rangos de elevación no presentes en la cuenca estudiada
+Fuente: AMP Consultores
+4.1.10 Caudales en Crecida
+Debido a que las cuencas de estudio tienen áreas menores que 20 km2. se ha descartado
+estimar los caudales máximos instantáneos por lo métodos precipitación-escorrentía
+recomendados por el Manual DGA. correspondientes a los Método DGA-AC. Veri-King
+Modificado y Fórmula Racional. motivo por el cual se ha usado el método racional
+especificado en el Manual de Carreteras. El método permite calcular las crecidas mediante la
+siguiente expresión:
+Informe Línea de Base Hidrología
+Mayo 2024 33
+================================================================================
+PAGE 39
+================================================================================
+T
+C(T) x I x Ap
+tc
+Q(T) =
+3,6
+Donde.
+C(T): Coeficiente de escorrentía asociado al periodo de retorno T
+I T: Intensidad de precipitación en mm/hr. asociado a un periodo de retorno T y tiempo
+tc
+de concentración tc
+Ap: Área pluvial aportante en km2
+Coeficiente de Escorrentía
+De acuerdo al Manual de Carreteras. Vol. 3 (Dirección de Vialidad del Ministerio de Obras
+Públicas). el coeficiente de escorrentía para periodo de retorno de 10 años se calcula a partir
+de la Tabla 4-5. evaluando distintos factores morfológicos que definen a la cuenca en estudio.
+tales como relieve. infiltración. cobertura vegetal y almacenamiento superficial. La sumatoria
+de los valores asignados a cada factor corresponde al valor que adopta el coeficiente de
+escorrentía de la cuenca en evaluación.
+Tabla 4-7: Evaluación del Coeficiente de Escorrentía (T=10 años)
+Factor Extremo Alto Normal Bajo
+0,28 – 0,35 0,20 – 0,28 0,14 – 0,20 0,08 – 0,14
+Relativamente plano
+Escarpado con Montañoso con Con cerros y
+Relieve con pendientes
+pendientes mayores pendientes entre 10 pendientes entre 5 y 10
+menores
+que 30 % y 30 % %
+al 5 %
+0,12 – 0,16 0,08 – 0,12 0,06 – 0,08 0,04 – 0,06
+Suelos arcillosos o Normales. bien Suelos profundos de
+Suelo rocoso o arcilloso
+limosos con baja drenados. textura arena u otros suelos
+Infiltración con capacidad de
+capacidad de infiltración. mediana. limos bien drenados con alta
+infiltración
+mal arenosos. suelos capacidad de
+despreciable
+drenados arenosos infiltración
+0,12 – 0,16 0,08 – 0,12 0,06 – 0,08 0,04 – 0,06
+Poca vegetación. terrenos
+Regular a buena; 50 Buena a excelente; 90
+Cobertura escasa. cultivados o naturales.
+Cobertura Vegetal % del área con % del área con
+terreno sin vegetación menos del 20 % del área
+praderas o bosques. no praderas. bosques o
+o escasa cobertura con buena cobertura
+más del 50 % cultivado cobertura equivalente
+vegetal
+0,10 – 0,12 0,08 – 0,10 0,06 – 0,08 0,04 – 0,06
+Almacenamiento Despreciable. pocas Baja. sistema de cauces Normal; posibilidad de
+Capacidad alta. sistema
+depresiones superficiales pequeños almacenamiento
+Superficial hidrográfico poco
+superficiales. sin bien buena. zonas
+definido
+zonas húmedas definidos húmedas y pantanos
+Fuente: AMP Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 34
+================================================================================
+PAGE 40
+================================================================================
+En base a la tabla y valores indicados precedentemente, se adopta por utilizar los coeficientes
+de escorrentía que corresponden a la siguiente clasificación y valores:
+• Relieve: Normal, valor 0,25.
+• Infiltración: Alto, valor 0,12.
+• Cobertura vegetal: Normal, valor 0,07.
+• Almacenamiento superficial: Alto, valor 0,08.
+La estimación del coeficiente de escorrentía consiste en examinar los 4 factores,
+seleccionando el valor correspondiente para el área de estudio, y sumar las contribuciones
+de estos. El coeficiente resultante es representativo de tormentas con periodos de retorno
+de 10 años o inferiores, por lo que, si se necesitan coeficientes de escorrentía de tormentas
+de períodos de retorno mayores, se recomienda amplificar los resultados por 1,1, 1,2 y 1,25
+para períodos de retorno de 25, 50 y 100 años, respectivamente. El coeficiente de escorrentía
+para la zona de interés es el que se presenta a continuación:
+Tiempos de Concentración
+Se han evaluado los tiempos de concentración mediante el uso de variadas fórmulas
+empíricas de uso común, entre ellas: California Culverts Practice, Giandotti y Normas
+Españolas. A continuación, se presenta el detalle de cada una de ellas.
+• California Culverts Practice (1942): Esta fórmula es una adaptación de la fórmula de Kirpich
+para cuencas pequeñas de montaña en California:
+Donde,
+L: Longitud del cauce principal en km
+H: Desnivel máximo de la cuenca en m
+• Giandotti: Esta fórmula se utiliza para cuencas pequeñas con pendiente, correlaciona la
+longitud del cauce, el área aportante y la diferencia de nivel con el tiempo de concentración:
+Informe Línea de Base Hidrología
+Mayo 2024 35
+================================================================================
+PAGE 41
+================================================================================
+Donde,
+L: Longitud del cauce principal en km
+S: Pendiente del cauce principal en m/m
+A: Área de la cuenca en km2
+Restricción: La fórmula es aplicable en cuencas con A < 200 (Ha) y si L/5,4 < T (Hr) < L /3,6.
+c c c
+• Normas Españolas: Fórmula citada en el Manual de Carreteras, propuesta por Témez en 1978
+para cuencas naturales de España. Esta es la expresión más usada en España y se encuentra
+registrada en la Dirección General de Carreteras de dicho país. La ecuación es la siguiente:
+Donde,
+L: Longitud del cauce principal en km
+Sc: Pendiente media del cauce principal en m/m
+En los tres casos, el tiempo de concentración (Tc) se obtiene en minutos.
+Tiempos de Concentración adoptados
+Las características morfométricas de las cuencas de interés no cumplen con la restricción
+dede uso de la fórmula de Giandotti, en consecuencia, se evalúan los tiempos de
+concentración por lo métodos de California y Norma Española. La Tabla 4-8 presenta los
+tiempos de concentración para las cuencas o áreas aportantes definidas en la Tabla 4-1.
+Tabla 4-8: Tiempos de Concentración
+T (minutos)
+c
+Cuenca
+California Normas españolas Valor adoptado
+OAT 35-2 6,4 18,8 12,6
+OAT 22-5 2,6 9,2 10,0
+OAT 11-3 0,6 2,2 10,0
+OAT 11-1 0,3 1,3 10,0
+OAT 1-15 17,2 43,9 30,6
+OAT 1-14 0,5 2,0 10,0
+OAT 1-11 0,8 3,1 10,0
+Informe Línea de Base Hidrología
+Mayo 2024 36
+================================================================================
+PAGE 42
+================================================================================
+T (minutos)
+c
+Cuenca
+California Normas españolas Valor adoptado
+OAT 1-8 1,9 6,8 10,0
+OAT 7-7 1,0 3,9 10,0
+OAT 7-5 1,8 6,6 10,0
+OAT 7-4 13,0 36,0 24,5
+OAT 1-6 19,4 52,9 36,2
+OAT 7-2 1,0 3,6 10,0
+OAT 5-11 1,3 4,7 10,0
+OAT 5-10 9,2 26,3 17,8
+OAT 2-3 1,2 4,2 10,0
+OAT 2-2 0,4 1,7 10,0
+OAT 2-1 4,4 13,4 10,0
+OAT 1-18 1,2 4,1 10,0
+OAT 1-17 1,7 5,7 10,0
+OAT 1-16 1,1 3,8 10,0
+OAT 38-1 2,3 7,3 10,0
+OAT 22-9 33,5 87,4 60,5
+OAT 22-8 26,5 72,2 49,4
+Fuente: AMP Consultores
+Precipitación Máxima asociada al Tiempo de Concentración tc
+En cuanto a la precipitación máxima asociada al período de retorno T y al tiempo de
+concentración tc, existen dos aproximaciones definidas en función del tiempo de
+concentración de la cuenca. Por un lado, si el tiempo de concentración es menor a 1 hora,
+entonces se aplica la expresión de Bell definida en el Manual de Carreteras:
+Donde,
+t: Tiempo de concentración de la cuenca en minutos
+T: Periodo de retorno en años
+P 10: Es la precipitación máxima con periodo de retorno de 10 años y 1 hora de duración,
+1
+en mm
+Informe Línea de Base Hidrología
+Mayo 2024 37
+================================================================================
+PAGE 43
+================================================================================
+Por otro lado, si el tiempo de concentración es mayor a 1 hora, se utiliza la siguiente
+expresión:
+Donde,
+CF : Coeficiente de frecuencia para el periodo de retorno T
+T
+CD; Coeficiente de duración para el tiempo de concentración t
+t
+P 10: Precipitación máxima con periodo de retorno de 10 años y duración de 24 horas, en
+24
+mm
+Teniendo en consideración las estaciones pluviométricas evaluadas en el Manual de
+Carreteras Vol. 3, para la definición de los coeficientes de frecuencia y duración para las
+distintas zonas del país, se decidió utilizar la estación DMC Carriel Sur (Concepción), cuya
+distancia a las obras del Proyecto es de 10 km, aproximadamente. Los valores los coeficientes
+de duración se presentan en la Tabla 4-9, en tanto que los coeficientes de frecuencia se
+presentan en la Tabla 4-10.
+Tabla 4-9: Coeficiente de Duración. Estación Carriel Sur (Concepción)
+Estación Duración [hr]
+pluviométrica 1 2 4 6 8 10 12 14 18 24
+Concepción 0,19 0,30 0,39 0,48 0,56 0,64 0,70 0,76 0,90 1,00
+Fuente: AMP Consultores
+Tabla 4-10: Coeficientes de Frecuencia para distintos periodos de retorno. Estación Carriel Sur
+(Concepción)
+Estación Periodo de retorno [años]
+pluviométrica 2 5 10 20 25 50 100 150
+Concepción 0,68 0,87 1 1,12 1,16 1,28 1,40 1,47
+Fuente: AMP Consultores
+Intensidad de Precipitación
+La intensidad de precipitación asociada el periodo de retorno y al tiempo de concentración
+de la cuenca o área aportante se determina mediante la siguiente expresión:
+Donde,
+Informe Línea de Base Hidrología
+Mayo 2024 38
+================================================================================
+PAGE 44
+================================================================================
+P T: Precipitación máxima asociada al periodo de retorno T y a un tiempo de
+tc
+concentración tc, en mm.
+tc: Tiempo de concentración de la cuenca o área aportante, en hrs.
+A continuación, la Tabla 4-11 presenta la evaluación de las intensidades de precipitación para
+las cuencas o áreas aportantes de interés para distintos periodos de retorno.
+Tabla 4-11: Intensidad de Precipitación de Diseño para Cuenca Ponderada
+Intensidad (mm/hr)
+Hora Minut
+T = 2 T = 5 T = 10 T = 20 T = 25 T = 50 T = 100 T = 200
+s os
+años años años años años años años años
+0,08 5 63,6 82,0 96,0 109,9 114,4 128,3 142,2 156,1
+0,17 10 47,6 61,4 71,8 82,2 85,6 96,0 106,4 116,8
+0,33 20 33,2 42,8 50,1 57,4 59,7 67,0 74,2 81,5
+0,50 30 26,3 34,0 39,7 45,5 47,3 53,1 58,9 64,6
+0,67 40 22,2 28,6 33,5 38,3 39,9 44,7 49,6 54,5
+0,83 50 19,4 25,0 29,2 33,4 34,8 39,0 43,3 47,5
+1,00 60 17,6 22,5 25,9 29,0 30,1 33,2 36,3 39,4
+2,00 120 13,9 17,8 20,5 22,9 23,7 26,2 28,6 31,1
+4,00 240 9,0 11,6 13,3 14,9 15,4 17,0 18,6 20,2
+6,00 360 7,4 9,5 10,9 12,2 12,7 14,0 15,3 16,6
+8,00 480 6,5 8,3 9,5 10,7 11,1 12,2 13,4 14,5
+10,0 600 5,9 7,6 8,7 9,8 10,1 11,2 12,2 13,3
+120, 0 720 5,4 6,9 8,0 8,9 9,2 10,2 11,1 12,1
+140, 0 840 5,0 6,4 7,4 8,3 8,6 9,5 10,4 11,3
+180, 0 1080 4,6 5,9 6,8 7,6 7,9 8,7 9,5 10,4
+240, 0 1440 3,9 4,9 5,7 6,4 6,6 7,3 8,0 8,6
+0
+Fuente: AMP Consultores
+Evaluación de Caudales en Crecida
+El resultado de la evaluación de caudales en crecida para los diferentes puntos de control,
+utilizando el método Racional, se presenta a continuación, donde cada una de sus parámetros
+o variables han sido determinados precedentemente este capítulo.
+La Tabla 4-12 presenta los caudales en crecida para las diferentes cuencas o áreas aportantes.
+Tabla 4-12: Caudales en Crecida
+Periodo de Retorno
+Cuenca
+T=5 T=10 T=20 T=25 T=50 T=100 T=150
+Caudal (m3/s)
+OAT 35-2 0,73 0,85 0,98 1,12 1,37 1,59 1,67
+Informe Línea de Base Hidrología
+Mayo 2024 39
+================================================================================
+PAGE 45
+================================================================================
+Periodo de Retorno
+Cuenca
+T=5 T=10 T=20 T=25 T=50 T=100 T=150
+Caudal (m3/s)
+OAT 22-5 0,14 0,16 0,18 0,21 0,26 0,30 0,31
+OAT 11-3 0,01 0,01 0,01 0,02 0,02 0,02 0,03
+OAT 11-1 0,01 0,01 0,01 0,01 0,02 0,02 0,02
+OAT 1-15 2,18 2,55 2,92 3,35 4,10 4,74 4,99
+OAT 1-14 0,02 0,02 0,02 0,03 0,03 0,04 0,04
+OAT 1-11 0,03 0,04 0,05 0,05 0,06 0,07 0,08
+OAT 1-8 0,12 0,15 0,17 0,19 0,23 0,27 0,28
+OAT 7-7 0,08 0,09 0,11 0,12 0,15 0,17 0,18
+OAT 7-5 0,15 0,18 0,20 0,23 0,28 0,33 0,34
+OAT 7-4 1,97 2,31 2,65 3,04 3,72 4,30 4,53
+OAT 1-6 5,37 6,29 7,21 8,26 10,12 11,69 12,34
+OAT 7-2 0,04 0,04 0,05 0,06 0,07 0,08 0,08
+OAT 5-11 0,06 0,07 0,08 0,09 0,11 0,13 0,13
+OAT 5-10 1,16 1,35 1,55 1,78 2,18 2,52 2,65
+OAT 2-3 0,04 0,04 0,05 0,06 0,07 0,08 0,09
+OAT 2-2 0,02 0,02 0,02 0,03 0,03 0,04 0,04
+OAT 2-1 0,26 0,30 0,34 0,39 0,48 0,56 0,59
+OAT 1-18 0,03 0,04 0,04 0,05 0,06 0,07 0,07
+OAT 1-17 0,06 0,07 0,08 0,09 0,11 0,13 0,14
+OAT 1-16 0,09 0,10 0,12 0,13 0,16 0,19 0,20
+OAT 38-1 0,10 0,12 0,14 0,16 0,19 0,22 0,24
+OAT 22-9 4,88 5,60 6,28 7,15 8,61 9,81 10,24
+OAT 22-8 21,43 25,11 28,79 32,97 40,39 46,67 49,24
+Fuente: AMP Consultores
+4.1.11 Caudales Medios Mensuales
+Para poder estimar y determinar cualquier caudal se debe comprender las características
+geomorfológicas del cauce y su cuenca aportante, a continuación, se presenta un resumen
+de estas características para los dos esteros en estudio, Penco y El Cabrito.
+Tabla 4-133: Características Geomorfológicas de la Cuenca
+Estero en el punto de captación Parámetro Unidad Valor
+Estero Penco Área km2 10,13
+Altura mínima msnm 119
+Altura media msnm 317
+Informe Línea de Base Hidrología
+Mayo 2024 40
+================================================================================
+PAGE 46
+================================================================================
+Altura máxima msnm 435
+Desnivel altitudinal medio m 198
+Desnivel altitudinal máximo m 316
+Longitud del cauce Principal km 5,32
+Pendiente m/m 0,06
+Estero El Cabrito Área km2 10,07
+Altura mínima msnm 85
+Altura media msnm 251
+Altura máxima msnm 435
+Desnivel altitudinal medio m 166
+Desnivel altitudinal máximo m 350
+Longitud del cauce Principal km 4,51
+Pendiente m/m 0,08
+Fuente: AMP Consultores
+Respecto a las estimaciones de los Caudales Medios Mensuales, se muestran a continuación
+para cada estero (Penco y El Cabrito) los hidrogramas de caudales medios mensuales para
+distintas probabilidades de excedencia.
+Estero Penco
+Tabla 4-14: Caudales Medios Mensuales (L/S), para Distintas Probabilidades de Excedencia, en la
+Cuenca del Estero Penco
+MES ABR MAY JUN JUL AGO SEPT OCT NOV DIC ENE FEB MAR
+Distribución Adoptada G P N N P P P N P N N P
+50% 53,8 105,9 232,3 257,5 236,6 196,5 121,2 72,0 54,9 34,7 30,1 30,8
+75% 34,8 68,6 145,6 175,8 171,2 136,4 80,1 49,2 33,0 20,5 18,4 20,4
+80% 30,7 62,5 129,7 160,0 158,0 122,9 71,8 44,7 28,5 18,0 16,2 18,6
+85% 26,2 56,5 113,3 143,3 143,9 108,0 63,0 40,1 23,8 15,5 14,1 16,8
+90% 20,9 50,3 95,6 124,7 128,0 90,8 53,1 34,9 18,7 12,8 11,8 14,8
+G — Distribución Gumbel; N — Distribución Log-Normal; P — Distribución Log-Pearson
+Fuente: AMP Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 41
+================================================================================
+PAGE 47
+================================================================================
+Figura 4-122: Curvas de Variación Estacional en la Cuenca del Estero Penco para Probabilidades de
+Excedencia del 50 % al 90 %.
+Fuente: AMP Consultores
+Estero El Cabrito
+Tabla 4-15: Caudales Medios Mensuales (L/S), para Distintas Probabilidades de Excedencia, en la
+Cuenca del Estero El Cabrito.
+MES ABR MAY JUN JUL AGO SEPT OCT NOV DIC ENE FEB MAR
+Distribución Adoptada N P N N N P N P P N N P
+50% 51,3 105,9 232,3 257,5 236,6 196,5 115,5 76,4 54,9 33,6 29,2 30,8
+75% 35,6 68,6 145,6 175,8 171,2 136,4 77,7 51,2 33,0 19,9 17,8 20,4
+80% 32,5 62,5 129,7 160,0 158,0 122,9 70,4 45,9 28,5 17,5 15,7 18,6
+85% 29,2 56,5 113,3 143,3 143,9 108,0 62,8 40,3 23,8 15,0 13,6 16,8
+90% 25,6 50,3 95,6 124,7 128,0 90,8 54,4 34,0 18,7 12,4 11,4 14,8
+N— Distribución Log-Norma: P — Distribución Log-Pearson
+Fuente: AMP Consultores
+Informe Línea de Base Hidrología
+Mayo 2024 42
+================================================================================
+PAGE 48
+================================================================================
+Figura 4-133: Curvas de Variación Estacional en la Cuenca del Estero El Cabrito para Probabilidades de
+Excedencia del 50 % al 90 %.
+Fuente: AMP Consultores
+Según las curvas de variación estacional mostradas anteriormente, los mayores caudales
+(Pex= 50%) se registran en los meses de otoño e invierno en los dos esteros, mostrando un
+régimen de carácter pluvial en las cuencas aportantes. Durante los años húmedos los
+mayores caudales ocurren entre mayo y septiembre, producto del incremento en las
+precipitaciones por épocas intranual y su cercanía con la costa que influencia tormentas
+pluviales, mientras que los menores se registran entre enero y marzo. Por lo tanto, el
+periodo de estiaje de la cuenca ocurre en meses de verano.
+A modo de resumen, tanto para el estero Penco como para el estero El Cabrito se presentan
+en la tabla siguiente el caudal medio mensual (QMM) estimado en cada sector, y se calcula
+también el caudal medio anual para cada estero (QMA).
+Tabla 4-166: Caudales Medios Mensuales y Caudal Medio Anual Esteros Penco y El Cabrito
+CAUDAL (L/S) ENE FEB MAR ABR MAY JUN JUL AGO SEPT OCT NOV DIC QMA
+Caudal medio
+34,7 30,1 30,8 53,8 105,9 232,3 257,5 236,6 196,5 121,2 72,0 54,9 118,9
+mensual (QMM)
+estero Penco
+Caudal medio
+mensual (QMM) 33,6 29,2 30,8 51,3 105,9 232,3 257,5 236,0 196,5 115,5 76,4 54,9 118,4
+estero El Cabrito
+Fuente: AMP Consultores
+Es importante indicar que los caudales aforados presentados en el punto 4.1.7.3.2, para los
+Esteros Penco y El cabrito, indicarían una consecuencia respecto de los cálculos de las
+Informe Línea de Base Hidrología
+Mayo 2024 43
+================================================================================
+PAGE 49
+================================================================================
+caudales medios mensuales indicados en la tabla anterior, por lo que el régimen hidrológico
+es confirmado para Periodos de Excedencia del 50%.
+4.1.12 Análisis de Potenciales Efectos Adversos sobre el Recurso Hídrico
+Considerando lo indicado en el documento Contenidos Técnicos para la Evaluación Ambiental
+del Recurso Hídrico (SEA, 2022), los objetos de protección de la Guía para la descripción del
+Área de Influencia (SEIA, 2017), y los resultados presentados anteriormente, a continuación,
+se indican las posibles alteraciones sobre el recurso hídrico para el área de influencia
+determinada, con especial énfasis en la calidad de las aguas superficiales.
+Cambio en la Calidad del Agua
+Las superficies de contacto del área de influencia y sus obras asociadas son inertes, por lo que
+no se generan cambios químicos o físicos en el recurso hídrico. Para el caso de afectaciones
+en forma indirecta, se implementarán todas las medidas necesarias para minimizar los efectos
+sobre la calidad de las aguas, evitando generar contaminación de cualquier tipo que pueda
+afectar el agua en caso de que exista escurrimiento (desechos, derrames, entre otros), con lo
+que se mantiene la calidad original de las aguas del cauce.
+Los potenciales efectos adversos en esta zona, que se pueden generar de forma indirecta, se
+describen a continuación:
+• Aumento de la contaminación (basura) en las zonas donde interactúa el área de influencia
+con los cauces naturales identificados, producto del aumento de tránsito de personas,
+específicamente trabajadores, que llevarán a cabo la construcción y operación del Proyecto.
+• Contaminación en las zonas donde interactúa el área de influencia con los cauces naturales
+identificados, producto del acopio de material, lavado de maquinarias o traslado de
+sustancias peligrosas.
+Las medidas de manejo contempladas para evitar los riesgos mencionados con anterioridad
+son:
+• Se capacitará constantemente a los trabajadores, sobre la importancia de mantener limpia
+las zonas de trabajo y el cuidado del recurso hídrico. Prohibiendo estos sectores como zona
+de esparcimiento.
+• Estará estrictamente prohibido almacenar algún tipo de material en las zonas de interacción
+entre el área de influencia y cursos superficiales.
+• Se prohibirá a los trabajadores manipular combustible o sustancias peligrosas en las cercanías
+de los cauces.
+• Se prohibirá el lavado de maquinarias en los cauces o en lugares próximos a éste,
+considerándose para tales efectos realizar mantenciones y lavados en centros autorizados
+preferentemente fuera del área de influencia.
+Informe Línea de Base Hidrología
+Mayo 2024 44
+================================================================================
+PAGE 50
+================================================================================
+• Cualquier residuo que se genere se retirará de inmediato del área y será dispuesto en áreas
+debidamente habilitadas y autorizadas, de esta manera se evitará que ante la presencia de
+escorrentía el material pueda ser transportado por estos cauces.
+• El transporte de personal y maquinaria se realizará por caminos y huellas destinadas para ello,
+prohibiéndose el uso de huellas alternativas.
+Cambio en el Patrón de Infiltración o Recarga
+La fase de construcción y operación del Proyecto no considera la impermeabilización del
+terreno, por lo que las zonas de infiltración se mantienen, y no se altera el patrón de recarga.
+Alteración del Flujo Subterráneo Pasante
+En caso de identificar la presencia del flujo subterráneo en la fase de construcción del
+Proyecto, se deberá agotar la napa en algunos lugares puntuales, sin embargo, este
+agotamiento es despreciable para generar un cambio en el flujo pasante.
+Cambio en los Niveles de Agua Subterránea
+El proyecto utilizará como fuente de agua industrial para los procesos el agua proveniente de
+planta de tratamiento y contempla además la recirculación de un porcentaje importante por
+lo que, no existiendo extracción de agua subterránea, los niveles de éstos no deberían
+presentar cambios como consecuencia de la operación del proyecto.
+Cambio en el Volumen Embalsado
+En el área de emplazamiento del proyecto no se identifica la existencia de embalses y/o
+depósitos del recurso hídrico, por lo que no se genera un cambio en el volumen embalsado.
+Alteración de Cauces y Riberas
+En la fase de construcción del Proyecto se considera la regularización de obras de
+modificación de cauce, la cual se detalla en los permisos ambientales correspondientes.
+Dichas obras corresponden a un sistema de manejo de aguas definid principalmente por una
+canalización de contorno que permitirá evitar el contacto de las aguas lluvias que descienden
+por las quebradas con las zonas de disposición (ZD)
+Para el área de influencia asociada a los atraviesos en los 24 puntos, el Proyecto considera
+movimientos de tierra y construcción de obras lineales. Se agrega el siguiente efecto adverso
+potencial:
+• Contaminación producto de las obras realizadas en los atraviesos de los cursos superficiales.
+Por lo tanto, adicionalmente a las medidas ya consideradas se agrega un plan de seguimiento
+para el recurso hídrico presentado en los permisos ambientales correspondientes.
+Alteración del Régimen de Caudales
+Informe Línea de Base Hidrología
+Mayo 2024 45
+================================================================================
+PAGE 51
+================================================================================
+El Proyecto no considera la modificación del recurso hídrico en ninguna de sus fases (no
+contempla extracción de agua o vertimiento de afluentes), por lo tanto, no se ve alterado el
+régimen de caudales.
+Modificación de la Red de Drenaje
+La construcción y operación del Proyecto NO modifica la red de drenaje. Si bien se considera
+la construcción de atraviesos en el área del proyecto, y se proyectan obras de manejo de
+aguas en la Cuenca pluvial, éstas serán desviadas y restituidas a su cauce natural evitando así
+el contacto con las zonas de disposición, por lo que la red de drenaje se mantiene.
+Aumento de la Zona de Inundación
+No se considera la modificación de la red de drenaje ni del caudal, por lo que no se genera
+aumento de la zona de inundación.
+Cambio o Eliminación del Cuerpo de Agua
+El Proyecto no considera la extracción y/o utilización del recurso hídrico en ninguna de sus
+fases, por lo tanto, no se ve afectada la cantidad del recurso hídrico disponible, es decir, no
+se genera un cambio o eliminación del cuerpo de agua.
+Modificación de la Hidrodinámica Lacustre
+La construcción y operación del Proyecto, considerando el área de influencia, no considera la
+modificación de la hidrodinámica lacustre.
+Alteración del Régimen Sedimentológico
+La construcción y operación del Proyecto no considera modificación del recurso hídrico que
+genere una alteración del régimen sedimentológico.
+Cambio en el Aporte Hídrico del Glaciar a su Cuenca Inmediata
+De acuerdo con lo indicado en el Inventario Público de Glaciares 2022 (IPG2022), en el área
+de influencia del Proyecto no se identifica la presencia de glaciares, por lo que no hay
+modificación del recurso hídrico que genere un cambio en el aporte hídrico del glaciar a su
+cuenca inmediata.
+Cambio en las Características Físicas del Glaciar
+De acuerdo con lo indicado en el Inventario Público de Glaciares 2022 (IPG2022), en el área
+de influencia del Proyecto no se identifica la presencia de glaciares, por lo que no hay
+modificación del recurso hídrico que genere un cambio en las características físicas del glaciar.
+5 Conclusiones
+De acuerdo con los antecedentes presentados en este informe, se concluye lo siguiente:
+Informe Línea de Base Hidrología
+Mayo 2024 46
+================================================================================
+PAGE 52
+================================================================================
+• El área de influencia para la componente hidrológica corresponde a la zona donde se
+emplazará el proyecto, incluyendo todas las zonas de intervención directa, relacionados con
+la construcción y operación del Proyecto durante sus distintas fases y cuya extensión
+corresponde a 33 km2.
+• Tanto el estero Penco como el río Andalién no serán intervenidos por el proyecto en cuanto
+a su explotación hídrica (cantidad) o su alteración en calidad como consecuencia de las partes,
+acciones y obras del proyecto en todas sus fases.
+• Las cuencas de los puntos de control comprenden áreas que van desde 0,02 a 7,31 km2, con
+cauces principales desde 45 m a 4,04 km.
+• Las cuencas presentan un régimen pluvial y no cuentan con control fluviométrico, por lo cual,
+la determinación de los caudales máximos instantáneos se ha realizado de manera indirecta.
+• El estero Penco ha sido monitoreado mensualmente mediante aforos manuales desde el año
+2020. Control que aún se sigue efectuando. Los caudales aforados presentados en el punto
+4.1.7.3.2, para los Esteros Penco y El cabrito, indicarían una consecuencia respecto de los
+cálculos de las caudales medios mensuales indicados en la tabla anterior, por lo que el
+régimen hidrológico es confirmado para Periodos de Excedencia del 50% (Caudal Medio
+Mensual).
+• Se realiza un análisis de frecuencia y bondad de ajuste de las estaciones Concepción DGA,
+Andalién, Carriel Sur, Rafael y Biobío Desembocadura. Se utilizó el método de máxima
+verosimilitud para evaluar la de mejor ajuste.
+• Debido a que las cuencas de estudio tienen áreas menores que 20 km2, se ha descartado
+estimar los caudales máximos instantáneos por lo métodos precipitación-escorrentía
+recomendados por el Manual DGA, motivo por el cual se ha usado el método Racional
+especificado en el Manual de Carreteras para la obtención de los caudales de cada cuenca.
+• Respecto al artículo 11 de la Ley 19.300 Bases Generales del Medio Ambiente, se puede
+indicar que no se considera extracción y/o utilización de aguas superficiales, y se considera la
+implementación de medidas de manejo para evitar potenciales efectos adversos indirectos
+sobre el recurso hídrico, por lo que el Proyecto no genera cambios en cuanto a la cantidad y
+calidad de los recursos hídricos existentes.
+• Finalmente, si bien los modelos de proyección del comportamiento de variables que
+intervienen en la disponibilidad del recurso hídrico en la comuna de Penco, obtenidos a través
+de la información del portal ArClim indicarían tendencias de disminución del dicho objeto de
+protección en el tiempo, esta condición no juega un papel relevante en el desarrollo del
+proyecto ya que dicho escenario no constituye sinergias negativas con ninguno de sus
+impactos declarados. Esto se condice con el hecho de que el proyecto no hará uso de aguas
+naturales que provengan de la cuenca para sus procesos; empleando fuentes alternativas
+como riles tratados para tal desempeño.
+Informe Línea de Base Hidrología
+Mayo 2024 47
+================================================================================
+PAGE 53
+================================================================================
+6 Referencias
+• Dirección General de Aguas (1987). Balance Hídrico de Chile.
+• Sistema Nacional de Información del Agua (2023).
+(https://snia.mop.gob.cl/BNAConsultas/reportes)
+• Dirección Meteorológica de Chile (2023). (https://climatologia.meteochile.gob.cl/)
+• Ministerio de Obras Públicas (2018). Manual de Carreteras, Volumen N°3.
+• Dirección General de Aguas (1995). Manual de Cálculo de Crecidas y Caudales Mínimos en
+Cuencas sin Información Fluviométrica.
+• Chow, Maidment y Mays (1994). Hidrología Aplicada.
+• Mankuk Consulting & Services (2024). Estudio Hidrológico.
+Informe Línea de Base Hidrología
+Mayo 2024 48

@@ -1,0 +1,3144 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación,
+reparación y compensación
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE GENERAL
+7 PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN ....................................... 7-1
+7.1 Introducción ............................................................................................................................... 7-1
+7.2 Objetivo ...................................................................................................................................... 7-3
+7.3 Impactos Significativos ............................................................................................................... 7-4
+7.3.1 Plan de Medidas para el Componente Calidad del aire ..................................................... 7-5
+7.3.2 Plan de Medidas para el Componente Flora y Vegetación .............................................. 7-14
+7.3.3 Plan de Medidas para el Componente Fauna Terrestre .................................................. 7-27
+7.3.4 Plan de Medidas para el Componente Fauna Invertebrada ............................................ 7-47
+7.3.5 Plan de Medidas para el Componente Suelo ................................................................... 7-54
+7.3.6 Plan de Medidas para el Componente Medio Humano ................................................... 7-62
+i
+================================================================================
+PAGE 3
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE DE TABLAS
+Tabla 1-1. Impactos significativos del Proyecto ......................................................................................... 7-4
+Tabla 1-2. Medidas propuestas para el componente calidad del aire ....................................................... 7-5
+Tabla 1-3. Medida de compensación MC-01 Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+.................................................................................................................................................................... 7-6
+Tabla 1-4. Medida de compensación MC-02 Aumento en control de emisiones en 3,5km para camino de
+acceso a CEMARC ....................................................................................................................................... 7-9
+Tabla 1-5. Medida de compensación MC-03 Reemplazo de equipos de calefacción y cocinas que utilizan
+leña como combustible ............................................................................................................................ 7-12
+Tabla 1-6. Medidas propuestas para el componente plantas (flora y vegetación) .................................. 7-14
+Tabla 1-7. Medida de mitigación MM-01: Rescate y Relocalización de 20 ejemplares de Citronella
+mucronata ................................................................................................................................................ 7-15
+Tabla 1-8. Ejemplares de Citronella mucronata a intervenir ................................................................... 7-16
+Tabla 1-9. Medida de compensación MC-04: Colecta de Germoplasma, Viverización y Replante de
+Individuos de Asplenium trilobum, Gardoquia multiflora y Vestia foetida .............................................. 7-19
+Tabla 1-10. ECC para el sector de enriquecimiento. ................................................................................ 7-23
+Tabla 1-11. Cronograma de actividades de MC-04 .................................................................................. 7-27
+Tabla 1-12. Medidas propuestas para el componente fauna terrestre ................................................... 7-28
+Tabla 1-13 Medida de Mitigación “MM-02 Plan de Rescate y Relocalización de Fauna Vertebrada” .... 7-29
+Tabla 1-14. Especies objetivo del plan de rescate y relocalización de fauna silvestre y el ambiente de
+registro. .................................................................................................................................................... 7-30
+Tabla 1-15. Cronograma general del Proyecto. ........................................................................................ 7-35
+Tabla 1-16. Cronograma fase de operación del Proyecto ........................................................................ 7-35
+Tabla 1-17. Medida de Mitigación “MM-03 Plan de Perturbación Controlada”...................................... 7-36
+Tabla 1-18. Especies objetivo del plan de perturbación controlada de fauna silvestre y el ambiente de
+registro ..................................................................................................................................................... 7-36
+Tabla 1-19. Medida MR-01 Revegetación y Conservación de áreas intervenidas ZD y ZE con vegetación
+nativa ........................................................................................................................................................ 7-40
+Tabla 1-20. Cronograma Fase de Operación ............................................................................................ 7-42
+Tabla 1-21. Medida MC-05 Protección de áreas aledañas al Proyecto .................................................... 7-43
+Tabla 1-22. Especies de fauna vertebrada con categoría de conservación ............................................. 7-43
+Tabla 1-23. Indicador de cumplimiento ................................................................................................... 7-47
+Tabla 1-24. Medidas propuestas para el componente fauna terrestre ................................................... 7-48
+Tabla 1-25. Medida de Mitigación “MM-04 Plan de Rescate y Relocalización de fauna invertebrada” . 7-49
+Tabla 1-26. Medidas propuestas para el componente suelo ................................................................... 7-55
+Tabla 1-27. MR-02 Rescate, acopio y reutilización de suelo en las áreas intervenidas. .......................... 7-55
+Tabla 1-28. MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas. ........................ 7-59
+Tabla 1-29. Medidas propuestas para el componente Medio Humano .................................................. 7-63
+ii
+================================================================================
+PAGE 4
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 1-30. Protocolo de acceso controlado para GHPPI......................................................................... 7-63
+Tabla 1-31. MM-06 Plan de información y comunicación con GHPPI ...................................................... 7-67
+Tabla 1-32. MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI ................... 7-70
+iii
+================================================================================
+PAGE 5
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE DE FIGURAS
+Figura 1-1. Tramo de implementación de carpeta asfáltica. ..................................................................... 7-7
+Figura 1-2. Sector de implementación de la medida ................................................................................. 7-8
+Figura 1-3. Tramo de aplicación de supresor. .......................................................................................... 7-10
+Figura 1-4. Sector de implementación de la medida ............................................................................... 7-11
+Figura 1-5. Sector de implementación de la medida en receptores 11, 28 y 32 ..................................... 7-13
+Figura 1-6. Distribución de ejemplares de Citronella mucronata a intervenir ......................................... 7-17
+Figura 1-7. Sector de relocalización en quebrada al noreste del Área de Influencia ............................... 7-18
+Figura 1-8. Distribución de individuos de Gardoquia multiflora a intervenir. ......................................... 7-21
+Figura 1-9. Distribución de individuos de Vestia foetida a intervenir ...................................................... 7-21
+Figura 1-10. Ubicación de parcela en la que se registró Asplenium trilobum a intervenir ...................... 7-22
+Figura 1-11. Sector de enriquecimiento en quebrada al noreste del Área de Influencia ........................ 7-23
+Figura 1-12. Áreas de Rescate de fauna de baja movilidad identificadas en el área de Influencia ......... 7-32
+Figura 1-13. Área de Relocalización de fauna de baja movilidad en Parque Nacional Nonguén............. 7-33
+Figura 1-14. Ubicación de ZE (izq.) (excepto ZE Luna) y ZD (der.). ........................................................... 7-41
+Figura 1-15. Perfil tipo zonas de extracción ............................................................................................. 7-42
+Figura 1-16. Perfil tipo zona de disposición de mineral ........................................................................... 7-42
+Figura 1-17. Áreas para protección .......................................................................................................... 7-46
+Figura 1-18. Ambientes para fauna de acuerdo con formación vegetacional. ........................................ 7-49
+Figura 1-19. Área de Rescate (arriba)y Relocalización (abajo) de fauna de baja movilidad en Parque
+Nacional Nonguén. ................................................................................................................................... 7-51
+Figura 1-20. Zonas de extracción del proyecto (verde) ............................................................................ 7-57
+Figura 1-21. Zona de disposición del proyecto (gris)................................................................................ 7-57
+Figura 1-22. Zona de acopio suelo vegetal (amarillo) .............................................................................. 7-58
+Figura 1-23. Zonas de extracción del proyecto ........................................................................................ 7-60
+Figura 1-24. Zona de disposición del proyecto ......................................................................................... 7-61
+Figura 1-25. Puntos de control de acceso próximos a ZE Victoria Norte ................................................. 7-64
+Figura 1-26. Ubicación sectores El Tranque, Los Queules y estero Penco y sitios de recolección de hierbas
+.................................................................................................................................................................. 7-65
+Figura 1-27. Puntos de control de acceso próximos a ZE Victoria Norte ................................................. 7-68
+Figura 1-28. Ubicación sectores El Tranque, Los Queules y estero Penco ............................................... 7-69
+Figura 1-29. Puntos de control de acceso ................................................................................................ 7-71
+Figura 1-30. Ubicación sectores El Tranque, Los Queules y estero Penco ............................................... 7-71
+iv
+================================================================================
+PAGE 6
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+ANEXOS
+Anexo 7-1. Análisis de bioequivalencia y adicionalidad de las medidas de compensación
+Anexo 7-2. Modelación de medidas de compensación
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+v
+================================================================================
+PAGE 7
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+7 PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN
+7.1 Introducción
+Conforme a lo establecido en la Ley N°19.300 sobre Bases Generales del Medio Ambiente (modificada por
+Ley N°20.417/10) y el artículo 18 letra i) y artículo 97 del del D.S. N°40/2012 del Ministerio de Medio
+Ambiente, y sus modificaciones, Reglamento del Sistema de Evaluación de Impacto Ambiental (en
+adelante RSEIA), los cuales establecen que un Estudio de Impacto Ambiental debe considerar una un Plan
+de Medidas de Mitigación, Reparación y Compensación que describirá y justificará las medidas que se
+adoptarán para eliminar, minimizar, reparar, restaurar o compensar, según corresponda y cuando sea
+procedente, los efectos ambientales adversos del Proyecto descritos en el Capítulo 5 del presente EIA.
+Sin perjuicio de estas medidas, es preciso señalar que el Proyecto ha considerado, como parte de los
+criterios de diseño y de procedimientos de operación, medidas de manejo ambiental y estándares
+orientados a evitar y/o controlar los impactos ambientales adversos no significativos en sus distintas fases
+de ejecución; lo anterior está reflejado en el Capítulo 1, Descripción de Proyecto. Del mismo modo, en el
+Capítulo 13 Compromisos Ambientales Voluntarios de este EIA, se presenta un conjunto de acciones de
+manejo ambiental de carácter voluntario, tendientes a controlar efectos o molestias hacia la comunidad,
+controlar impactos no significativos y a promover o potenciar ciertos beneficios esperados del Proyecto.
+Al respecto, el citado literal i) del Artículo 18 del RSEIA, señala, en relación con los contenidos a presentar
+en la elaboración de un EIA:
+Un Plan de Medidas de Mitigación, Reparación y Compensación que describirá y justificará las
+medidas que se adoptarán para eliminar, minimizar, reparar, restaurar o compensar los efectos
+ambientales adversos del proyecto o actividad descritos en la letra g) del presente artículo. El Plan
+deberá cumplir con lo establecido en el Párrafo 1º del Título VI de este Reglamento.
+Por su parte, el párrafo 1° del Título VI del RSEIA, referido al Plan de Medidas de Mitigación, Reparación y
+Compensación Ambiental, señala:
+Artículo 97.- Plan de Medidas Ambientales.
+El Plan de Medidas de Mitigación, Reparación y Compensación Ambientales de un proyecto o
+actividad deberá contener, cuando proceda, uno o más de los siguientes planes:
+a) Plan de Medidas de Mitigación Ambiental.
+b) Plan de Medidas de Reparación Ambiental.
+c) Plan de Medidas de Compensación Ambiental.
+7-1
+================================================================================
+PAGE 8
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+El Plan deberá contener para cada fase del proyecto o actividad la indicación del componente
+ambiental; el impacto ambiental asociado; el tipo de medida; nombre, objetivo, descripción y
+justificación de la medida correspondiente; lugar, forma y oportunidad de implementación; y el
+indicador de cumplimiento.
+El solo cumplimiento de la normativa ambiental aplicable no constituirá necesariamente una
+medida de mitigación, reparación o compensación.
+Por su parte, los Artículos 98, 99 y 100 definen respectivamente las medidas de mitigación, reparación y
+compensación.
+Artículo 98.- Medidas de mitigación ambiental.
+Las medidas de mitigación tienen por finalidad evitar o disminuir los efectos adversos del proyecto
+o actividad, cualquiera sea su fase de ejecución. Se expresarán en un Plan de Medidas de
+Mitigación Ambiental que deberá considerar, al menos, una de las siguientes medidas:
+a) Las que impidan o eviten completamente el efecto adverso significativo, mediante la no
+ejecución de una obra o acción, o de alguna de sus partes.
+b) Las que minimizan o disminuyen el efecto adverso significativo, mediante una adecuada
+limitación o reducción de la extensión, magnitud o duración de la obra o acción, o de alguna
+de sus partes.
+c) Las que minimizan o disminuyen el efecto adverso significativo mediante medidas
+tecnológicas y/o de gestión consideradas en el diseño.
+Artículo 99.- Medidas de reparación ambiental.
+Las medidas de reparación tienen por finalidad reponer uno o más de los componentes o elementos
+del medio ambiente a una calidad similar a la que tenían con anterioridad al impacto sobre dicho
+componente o elemento o, en caso de no ser ello posible, restablecer sus propiedades básicas.
+Artículo 100.- Medidas de compensación ambiental.
+Las medidas de compensación tienen por finalidad producir o generar un efecto positivo alternativo
+y equivalente a un efecto adverso identificado, que no sea posible mitigar o reparar.
+Dichas medidas incluirán, entre otras, la sustitución de los recursos naturales o elementos del
+medio ambiente afectados por otros de similares características, clase, naturaleza, calidad y
+función.
+Respecto a los lugares donde se adoptarán las medidas de mitigación y reparación, estas se producirán en
+áreas o lugares en que se presenten o generen los impactos significativos sobre los elementos del medio
+ambiente. Para el caso de las medidas de compensación tendrán lugar en áreas o lugares en que los
+7-2
+================================================================================
+PAGE 9
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+impactos significativos se presenten o generen o, si no fuera posible, en otras áreas o lugares donde
+resulten efectivas.
+Para efectos del cumplimiento de cada medida se establecerá, por cada fase del Proyecto, lo siguiente: el
+componente ambiental, el impacto ambiental asociado, el tipo de medida, nombre, objetivo, descripción
+y justificación de la medida correspondiente, lugar, forma y oportunidad de implementación, y el indicador
+de cumplimiento.
+La información de cada una de las medidas se presenta en formato de ficha, para entregar de manera
+clara, ordenada y organizada por tipo de medida y componente ambiental impactado. Esta ficha incluye
+el siguiente contenido (conforme lo indican los artículos 97 al 100, Título VI del RSEIA):
+• Nombre de la medida
+• Fase del Proyecto (fase de aplicación de la medida)
+• Componente ambiental a que aplica la medida
+• Impacto ambiental asociado
+• Tipo de medida (mitigación, reparación o compensación)
+• Código de la medida
+• Objetivo de la medida
+• Descripción de la medida
+• Justificación de la medida
+• Lugar de implementación de la medida
+• Método de implementación de la medida
+• Plazo de implementación de la medida
+• Indicador de cumplimiento de la medida.
+A continuación, se presentan las medidas de mitigación, reparación y/o compensación para aquellos
+impactos calificados como significativos para el Proyecto de Desarrollo Minero de Extracción de Arcillas
+para Producción de Concentrado Tierras Raras, de acuerdo con la evaluación definida en el Capítulo 4 del
+presente EIA: “Predicción y Evaluación de los Impactos Ambientales”.
+7.2 Objetivo
+El objetivo general es describir las medidas que deberán ser adoptadas para mitigar, reparar o compensar,
+según corresponda, los efectos ambientales adversos del Proyecto evaluados como significativos y que
+permiten hacerse cargo de los efectos, características y circunstancias del artículo 11 de la LBGM que dan
+origen a la presentación de EIA.
+7-3
+================================================================================
+PAGE 10
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+7.3 Impactos Significativos
+Según el análisis pormenorizado de aquellos efectos, características o circunstancias del artículo 11 de la
+Ley – presentado en detalle en el Capítulo 5 del presente EIA – se concluyó que el proyecto requiere
+ingresar a evaluación ambiental mediante la presentación de un Estudio de Impacto Ambiental. Lo
+anterior, se funda en el hecho que el Proyecto genera los efectos, características y circunstancias señaladas
+en el artículo 11 de la Ley, en lo específico, en el literal a) de dicha Ley, detallado en el artículo 5 del
+Reglamento del SEIA.
+Respecto a lo anterior, la identificación, predicción y evaluación de los impactos ambientales, concluyó
+que los impactos significativos que ocasionará el Proyecto se presentan en los siguientes componentes:
+Tabla 7-1. Impactos significativos del Proyecto
+Fase Componente Impacto
+ICA-01: Afectación de receptores humanos por aumento de
+Operación Calidad del aire
+concentración de material particulado y gases en receptores
+Construcción
+Suelo ISU-01: Pérdida del Recurso Natural Suelo (Suelo IV, VI, VIII)
+Operación
+IFV-02 Pérdida de ejemplares de flora - Asplenium trilobum,
+Construcción
+Citronella mucronata, Gardoquia multiflora y Vestia foetida
+Flora y vegetación
+IFV-02 Pérdida de ejemplares de flora - Gardoquia multiflora,
+Operación
+Vestia foetida
+IFA-01 Pérdida de ejemplares de fauna de interés y/o sensibles
+- Eupsophus roseus, Liolaemus schroederi, Dromiciops gliroides
+Construcción y
+Fauna vertebrada IFA-02 Pérdida y/o modificación de hábitat de especies de
+Operación
+interés y/o sensibles - Eupsophus roseus, Liolaemus schroederi,
+Dromiciops gliroides, Leopardus guigna, Pudu puda, Puma
+concolor
+Construcción y IFI-01 Pérdida de ejemplares de fauna de interés y/o sensibles –
+Fauna invertebrada
+Operación Phixotrichus scrofa.
+Construcción y IFI-02 Pérdida y/o modificación de hábitat de especies de
+Operación interés y/o sensibles -Phixotrichus scrofa.
+IMH-01 Afectación al desarrollo de prácticas culturales y
+tradicionales de organizaciones indígenas a lo largo del camino
+Construcción,
+Medio humano forestal adyacente a estero Penco por restricción de acceso
+Operación y Cierre
+mediante instalación de puntos de control de acceso vehicular,
+señalética informativa y rondas de vigilancia.
+7-4
+================================================================================
+PAGE 11
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Fase Componente Impacto
+IMH-03 Restricción de acceso a recursos naturales (hierbas
+medicinales) utilizadas por los GHPPI con fines medicinales y
+Construcción,
+culturales dificultando la manifestación de actividades
+Operación y Cierre
+culturales e intereses colectivos, por la instalación de puntos de
+control de acceso, señalética informativa y rondas de vigilancia.
+Fuente: GAC
+7.3.1 Plan de Medidas para el Componente Calidad del aire
+i. Impactos Significativos
+Considerando el análisis de evaluación de impactos realizado en el Capítulo 4 del presente EIA, las
+emisiones de material particulado, producto de la ejecución del Proyecto generará impacto en la salud de
+la población. Producto de la generación de estas emisiones fue establecido el siguiente impacto
+significativo.
+a) ICA-01 Afectación de receptores humanos por aumento de concentración de material
+particulado y gases
+Este impacto se manifiesta en un aumento de las concentraciones anuales de MP2,5 por sobre los límites
+definidos como significativos en la guía “Impacto de emisiones en zonas saturadas por material particulado
+respirable MP10 y material particulado fino respirable MP2,5”, del Servicio de Evaluación Ambiental. Los
+aportes considerados como significativos para el promedio anual de MP2,5, fueron estimados sobre tres
+receptores que se encuentran próximos al Proyecto.
+ii. Definición de medidas
+Fueron definidas tres medidas que permiten compensar el aporte, en términos de calidad del aire, sobre
+los receptores en donde se estima un impacto (Tabla 7-2).
+Tabla 7-2. Medidas propuestas para el componente calidad del aire
+Tipo de Medida Impacto Asociado Medida Propuesta
+Cambio de carpeta en 1,6 km de acceso compartido
+a Proyecto CEMARC.
+ICA-01 Afectación de receptores
+Aumento en control de emisiones en 3,5 kms para
+humanos por aumento de
+Compensación camino compartido de acceso a CEMARC.
+concentración de material
+particulado y gases Recambio de equipos de calefacción y cocinas que
+utilizan leña como combustible por equipos cero
+emisiones.
+Fuente: GAC
+7-5
+================================================================================
+PAGE 12
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+7.3.1.1 Medidas de Compensación
+i. Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Tabla 7-3. Medida de compensación MC-01 Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Nombre de la
+Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+medida
+Código de
+MC-01
+Medida
+Tipo de medida Compensación
+Componente
+Calidad del aire
+ambiental
+Objeto de
+Salud de la población
+Protección
+Impacto ICA-01 Afectación de receptores humanos por aumento de concentración de material
+ambiental particulado y gases
+Lugar de
+Fase de operación
+ocurrencia del
+Receptores R_11, R_28 y R_32.
+impacto
+Fase del
+Proyecto de
+Operación
+ocurrencia del
+impacto
+El objetivo de la medida es compensar el aporte de material particulado asociado a la ejecución
+Objetivo de la
+del Proyecto y que altera la de calidad del aire como promedio anual de MP2,5 sobre los
+medida
+receptores en donde fue estimado el impacto.
+La medida de compensación considera la implementación de una carpeta asfáltica en parte del
+camino que utilizarán los vehículos del Proyecto “Continuidad Operacional Centro de Manejo
+de Residuos de Concepción”, para acceder desde la Ruta 150 hasta el Proyecto. El estudio,
+ambientalmente aprobado (CEMARC), consideró que el camino será no pavimentado, con un
+Descripción de tramo que poseerá humectación y un tramo con aplicación de supresor por lo que la
+la medida pavimentación asfáltica del camino compartido generará disminución de emisiones, por
+aumento de eficiencia con él supresor, en el tránsito de camiones de CEMARC.
+La Figura 7-1 presenta el tramo en donde será implementada la medida y el tipo de medida de
+control ambientalmente aprobada para el Proyecto “Continuidad Operacional Centro de
+Manejo de Residuos de Concepción”.
+7-6
+================================================================================
+PAGE 13
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Figura 7-1. Tramo de implementación de carpeta asfáltica.
+Fuente: GAC
+El cambio de tipo de carpeta en el tramo indicado generará una reducción de las emisiones
+ambientalmente aprobadas del Proyecto “Continuidad Operacional Centro de Manejo de
+Justificación de
+Residuos de Concepción”, lo que reducirá los aportes estimados en los receptores R_11, R_28 y
+la medida
+R_30, en donde el impacto fue definido como significativo en la componente calidad del aire
+para el promedio anual de MP2,5.
+Lugar de La medida será implementada en un tramo de aproximadamente 1,6 kilómetros, en el camino
+implementación utilizado para el ingreso a CEMARC. La Figura 7-2 presenta el sector de implementación de la
+de la medida carpeta asfáltica en el tramo de acceso a CEMARC.
+7-7
+================================================================================
+PAGE 14
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Figura 7-2. Sector de implementación de la medida
+Fuente: GAC
+Forma de La medida será implementada mediante el cambio de tipo de carpeta en el tramo de camino
+implementación indicado, reemplazando su calidad actual de camino no pavimentado a un camino con carpeta
+de la medida asfáltica.
+Oportunidad de
+La medida será implementada durante la fase construcción del Proyecto de Desarrollo Minero
+implementación
+de Extracción de Arcillas para Producción de Concentrado de Tierras Raras.
+de la medida
+Indicador de La medida se entenderá cumplida una vez que la carpeta asfáltica se encuentre implementada
+cumplimiento en el tramo de aproximadamente 1,6 kilómetros previo al acceso a CEMARC.
+de la medida Informe de ejecución de la medida.
+Fuente: GAC
+7-8
+================================================================================
+PAGE 15
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+ii. Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+Tabla 7-4. Medida de compensación MC-02 Aumento en control de emisiones en 3,5km para camino de acceso a CEMARC
+MC-02: Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+Nombre de la
+Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+medida
+Código de
+MC-02
+Medida
+Tipo de medida Compensación
+Componente
+Calidad del aire
+ambiental
+Objeto de
+Salud de la población
+Protección
+Impacto ICA-01 Afectación de receptores humanos por aumento de concentración de material
+ambiental particulado y gases
+Lugar de
+Fase de operación
+ocurrencia del
+Receptores R_11, R_28 y R_32.
+impacto
+Fase del
+Proyecto de
+Operación
+ocurrencia del
+impacto
+Objetivo de la El objetivo de la medida es compensar el aporte en términos de calidad del aire como promedio
+medida anual de MP2,5 sobre los receptores en donde fue estimado el impacto.
+La medida de compensación considera la aplicación de supresor de emisiones de material
+particulado resuspendido en parte del camino que utilizarán los vehículos del Proyecto
+“Continuidad Operacional Centro de Manejo de Residuos de Concepción”, para acceder desde
+la Ruta 150 hasta el Proyecto. El estudio, ambientalmente aprobado, consideró que el camino
+Descripción de
+será no pavimentado, con un tramo que poseerá humectación y un tramo con aplicación de
+la medida
+supresor.
+La Figura 7-3 presenta el tramo en donde será implementada la medida y el tipo de medida de
+control ambientalmente aprobada para el Proyecto “Continuidad Operacional Centro de
+Manejo de Residuos de Concepción”.
+7-9
+================================================================================
+PAGE 16
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-02: Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+Figura 7-3. Tramo de aplicación de supresor.
+Fuente: GAC
+La aplicación de supresor en el tramo indicado generará una reducción de las emisiones
+ambientalmente aprobadas del Proyecto “Continuidad Operacional Centro de Manejo de
+Justificación de Residuos de Concepción” (que considera agua como medida de control lo que tiene menor
+la medida eficiencia que el supresor), lo que reducirá los aportes que estimados en los receptores R_11,
+R_28 y R_30, en donde el impacto fue definido como significativo en la componente calidad del
+aire para el promedio anual de MP2,5.
+Lugar de La medida será implementada en un tramo de aproximadamente 3,5 kilómetros, en el camino
+implementación utilizado para el ingreso a CEMARC. La Figura 7-4 presenta el sector de aplicación de supresor
+de la medida en el tramo de acceso a CEMARC.
+7-10
+================================================================================
+PAGE 17
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-02: Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+Figura 7-4. Sector de implementación de la medida
+Fuente: GAC
+Forma de La medida será implementada primero con la preparación de la carpeta de rodado, para
+implementación posteriormente aplicar el supresor. La aplicación del supresor seguirá el protocolo de aplicación
+de la medida indicado en el Anexo 1-4.
+Oportunidad de
+La medida será implementada durante la construcción del Proyecto de Desarrollo Minero de
+implementación
+Extracción de Arcillas para Producción de Concentrado Tierras Raras.
+de la medida
+Indicador de
+La medida se entenderá cumplida con los registros que permitan verificar la aplicación del
+cumplimiento
+supresor siguiendo el protocolo de aplicación indicado en el Anexo 1-4.
+de la medida
+Fuente: GAC
+7-11
+================================================================================
+PAGE 18
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+iii. Remplazo de equipos de calefacción y cocinas que utilizan leña como combustible
+por equipos cero emisión
+Tabla 7-5. Medida de compensación MC-03 Reemplazo de equipos de calefacción y cocinas que utilizan leña como
+combustible
+MC-03: Reemplazo de equipos de calefacción y cocinas que utilizan leña como combustible.
+Nombre de la
+Reemplazo de equipos de calefacción y cocinas que utilizan leña como combustible.
+medida
+Código de
+MC-03
+Medida
+Tipo de medida Compensación
+Componente
+Calidad del aire
+ambiental
+Objeto de
+Salud de la población
+Protección
+Impacto ICA-01 Afectación de receptores humanos por aumento de concentración de material
+ambiental particulado y gases
+Lugar de
+Fase de operación
+ocurrencia del
+Receptores R11, R28 y R32.
+impacto
+Fase del
+Proyecto de
+Operación
+ocurrencia del
+impacto
+Objetivo de la El objetivo de la medida es compensar el aporte en términos de calidad del aire como promedio
+medida anual de MP2,5 sobre los receptores en donde fue estimado el impacto.
+La medida de compensación considera el remplazo de los equipos de calefacción y cocina, que
+Descripción de
+utilizan leña como combustible, por calefactores y cocinas eléctricas. El Proyecto se hará cargo
+la medida
+de todos los costos involucrados durante la duración del mismo.
+El remplazo de equipos de calefacción y cocinas, que utilicen leña como combustible, permitirá
+reducir las emisiones que genera la combustión de leña. La combustión de leña genera
+importantes aportes en las concentraciones de material particulado en el interior de las viviendas
+(contaminación intradomiciliaria) y en su entorno inmediato, aporte que es reducido en su
+Justificación de
+totalidad al sustituir el tipo de calefactor y cocina. Como se concluye en el Anexo 5-1 Evaluación
+la medida
+ambiental del riesgo para la salud de la población, en un escenario conservador de reducción de
+concentraciones de MP2,5 al aplicar la medida de sustitución de las estufas/cocinas a leña, se
+generaría un efecto de protección de la salud de estos receptores, ya que tanto para la exposición
+crónica como en la exposición aguda se reduce la exposición más allá de la situación basal.
+7-12
+================================================================================
+PAGE 19
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-03: Reemplazo de equipos de calefacción y cocinas que utilizan leña como combustible.
+La medida de remplazo de calefactores y cocinas que utilicen leña como combustible, será
+implementada en las viviendas identificadas como R11, R28 y R32. Que corresponden a los
+receptores para los cuales se determinó un impacto significativo.
+Figura 7-5. Sector de implementación de la medida en receptores 11, 28 y 32
+Lugar de
+implementación
+de la medida
+Fuente: GAC
+La medida será implementada remplazando los equipos que utilicen leña como combustible
+Forma de desde las tres viviendas identificadas como R11, R28 y R32. Los equipos retirados serán
+implementación reemplazados por equipos eléctricos nuevos de similares prestaciones. El Titular procurará el
+de la medida acceso a la energía eléctrica de las viviendas y contribuirá en su costo para el funcionamiento de
+los equipos.
+Oportunidad de La medida será implementada previo al inicio de la fase de operación del Proyecto. En efecto, en
+implementación el Anexo 16.1 del EIA se presentan los acuerdos de relacionamiento entre los propietarios de las
+de la medida tres viviendas y el Titular que respaldan la ejecución de la presente medida.
+Indicador de La medida se entenderá cumplida con los certificados de retiro de los equipos calefactores y
+cumplimiento estufas que utilicen leña como combustible desde las tres viviendas, y la posterior instalación y
+de la medida verificación de funcionamiento de todos los artefactos de calefacción y cocina correspondientes.
+Fuente: GAC
+7-13
+================================================================================
+PAGE 20
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+7.3.2 Plan de Medidas para el Componente Flora y Vegetación
+i. Impactos Significativos
+Considerando el análisis de evaluación de impactos realizado en el Capítulo 4 del presente EIA, la actividad
+de despeje de vegetación es la principal acción que genera impactos al componente flora y vegetación.
+A raíz de esta actividad se establecieron los siguientes impactos significativos:
+a) IFV-02 Pérdida de ejemplares de flora
+Este impacto se manifiesta por las actividades de despeje de la vegetación en los ambientes naturales e
+intervenidos, traduciéndose en pérdida de ejemplares de flora por la materialización del Proyecto.
+ii. Definición de medidas
+Considerando lo que señala la guía para la compensación de biodiversidad en el SEIA (SEA, 2023), es
+necesario identificar una jerarquización de medidas y compensación adecuada. La jerarquización parte, en
+la medida de lo posible, propiciando la generación de medidas de mitigación que tienen por finalidad evitar
+o disminuir los efectos adversos, en segundo lugar, generar medidas de reparación que tienen por
+finalidad reponer uno o más de los componentes o elementos del medio ambiente a una calidad similar a
+la que tenían con anterioridad al impacto (en este caso no se puede reparar ya que las obras del proyecto
+son permanentes), y, en tercer lugar, generar medidas de compensación que tienen por finalidad producir
+o generar un efecto positivo alternativo y equivalente a un efecto adverso identificado, que no sea posible
+mitigar o reparar.
+En base a la jerarquización mencionada y los impactos significativos identificados, se proponen las
+siguientes medidas:
+Tabla 7-6. Medidas propuestas para el componente plantas (flora y vegetación)
+Tipo de Medida Impacto Asociado Medida Propuesta
+MM-01 Rescate y Relocalización de 20 ejemplares
+Mitigación
+de Citronella mucronata
+IFV-02 Pérdida de ejemplares de
+MC-02 Colecta de germoplasma, viverización y
+flora
+Compensación replante de individuos de Vestia foetida, Gardoquia
+multiflora y Asplenium trilobum.
+Fuente: GAC
+De acuerdo con lo anterior, la medida sobre los ejemplares de Citronella mucronata (naranjillo)
+corresponde a una mitigación, debido a que los individuos serán relocalizados desde el área de influencia
+para evitar el impacto sobre dichas entidades. Por otra parte, la medida de replante de individuos
+corresponde a una medida de compensación y considera a las especies con singularidad ambiental.
+7-14
+================================================================================
+PAGE 21
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+La medida de compensación debe cumplir con un estándar de compensación de biodiversidad apropiada,
+considerando las variables indicadas en la guía para la compensación de biodiversidad en el SEIA (SEA,
+2023), que se mencionan a continuación:
+• Equivalencia: Se refiere al objetivo fundamental de la compensación apropiada, que busca que
+los elementos de la biodiversidad afectados por un proyecto o actividad sean compensados en
+terreno por elementos de similares características, clase, naturaleza, calidad y función.
+• Adicionalidad: Se refiere a la ganancia de biodiversidad que se obtiene en el escenario con
+compensación, en comparación al escenario sin compensación. Esto implica comprobar que la
+ganancia en biodiversidad producida por la medida de compensación no se habría producido en
+ausencia de la medida, así como verificar que la implementación de la medida de compensación
+no provoca impactos adversos, tales como el desplazamiento de actividades que generan pérdida
+de biodiversidad hacia otros sectores.
+En el Anexo 7-1 “Análisis de bioequivalencia y adicionalidad de las medidas de compensación” se presenta
+el detalle de la aplicación de la Guía de Compensación de Biodiversidad del SEA.
+7.3.2.1 Medidas de Mitigación
+La mitigación hace referencia a la acción de atenuar los impactos sobre el recurso, entregando alternativas
+para aminorar los posibles impactos producidos por las obras del Proyecto que, en algunos casos, dada la
+naturaleza de este, sobrepasan la posibilidad de prevenir.
+iii. Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+Tabla 7-7. Medida de mitigación MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+Nombre de la
+Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+medida
+Código de
+MM-01
+Medida
+Tipo de medida Mitigación
+Componente
+Flora y Vegetación
+ambiental
+Objeto de
+Flora en categoría de conservación
+Protección
+Impacto IFV-02. Pérdida de ejemplares de flora en la fase de construcción, correspondiente a 20
+ambiental ejemplares de Citronella mucronata.
+7-15
+================================================================================
+PAGE 22
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+Lugar de Fase de construcción IFV-02
+ocurrencia del ZD Neptuno: 14 ejemplares de Citronella mucronata.
+impacto Zona de Acopio de Suelo vegetal (ZAV): seis (6) ejemplares de Citronella mucronata
+Fase del
+Proyecto de
+Construcción
+ocurrencia del
+impacto
+El objetivo de la medida es mitigar la pérdida de individuos de especies en categoría de
+conservación en grado de amenaza a causa de la implementación de las partes, obras y acciones
+del Proyecto, a través del rescate y relocalización de ejemplares de Citronella mucronata que
+serán intervenidos y que están ubicados dentro de ambientes intervenidos correspondientes a
+Objetivo de la
+plantaciones forestales de Eucalyptus globulus y Bosque asilvestrado de Pinus radiata, con el
+medida
+propósito de minimizar la intervención numérica de individuos aislados de especies en
+categoría de conservación (ECC), que forman parte de una matriz de plantaciones y bosques
+asilvestrados, los cuales por uso histórico han sido dañados y cortados por la acción de tala rasa
+de las plantaciones forestales del lugar.
+Esta medida de mitigación considera la relocalización, en una proporción de 1:5, de los
+ejemplares de Citronella mucronata sujetos a intervención por descepado. Esta proporción
+tiene la finalidad de aumentar el N poblacional, ya que tasa de mortalidad para la especie es de
+60% (Colbun, 2018), y de esta manera se aseguran los 20 individuos afectados por el proyecto
+y se obtiene una ganancia de 20 individuos más.
+Estos ejemplares se ubican dentro de unidades de plantaciones forestales y bosques
+asilvestrados, por lo cual no hay intervención de bosque nativo de preservación. En la siguiente
+tabla se muestran las coordenadas de los ejemplares a intervenir.
+Tabla 7-8. Ejemplares de Citronella mucronata a intervenir
+Coordenadas
+Descripción de Ejemplar1 Obra Ambiente (UTM, WGS 84 18S)
+la medida Este Norte
+657 ZD Neptuno Bosque asilvestrado de Pinus radiata 679.845 5.929.560
+659 ZD Neptuno Bosque asilvestrado de Pinus radiata 679.814 5.929.614
+672 ZD Neptuno Bosque asilvestrado de Pinus radiata 679.864 5.929.725
+747 ZD Neptuno Bosque asilvestrado de Pinus radiata 679.844 5.929.714
+748 ZD Neptuno Bosque asilvestrado de Pinus radiata 679.800 5.929.546
+660 ZD Neptuno Plantación de Eucalyptus globulus 679.890 5.929.557
+661 ZD Neptuno Plantación de Eucalyptus globulus 679.884 5.929.571
+662 ZD Neptuno Plantación de Eucalyptus globulus 679.898 5.929.584
+605 ZD Neptuno Plantación de Eucalyptus globulus 679.759 5.929.642
+606 ZD Neptuno Plantación de Eucalyptus globulus 679.750 5.929.654
+809 ZD Neptuno Plantación de Eucalyptus globulus 679.781 5.929.813
+818 ZAV Plantación de Eucalyptus globulus 680.601 5.929.463
+7-16
+================================================================================
+PAGE 23
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+819 ZAV Plantación de Eucalyptus globulus 680.588 5.929.469
+820 ZAV Plantación de Eucalyptus globulus 680.570 5.929.508
+821 ZAV Plantación de Eucalyptus globulus 680.578 5.929.470
+822 ZAV Plantación de Eucalyptus globulus 680.567 5.929.503
+785 ZAV Plantación de Eucalyptus globulus 680.589 5.929.450
+658 ZD Neptuno Plantación de Eucalyptus globulus 680.168 5.929.656
+663 ZD Neptuno Plantación de Eucalyptus globulus 680.168 5.929.656
+673 ZD Neptuno Plantación de Eucalyptus globulus 680.180 5.929.651
+1 número correlativo utilizado para la identificación de los individuos en el microruteo.
+Fuente: GAC
+En la siguiente figura se puede observar la distribución de los ejemplares de Citronella
+mucronata a intervenir.
+Figura 7-6. Distribución de ejemplares de Citronella mucronata a intervenir
+Fuente: GAC
+El traslado de los individuos o sus cepas (condicionado por la fisionomía de estos) se
+fundamenta en el contexto de que Citronella mucronata (naranjillo) es una especie que
+Justificación de presenta una gran capacidad de rebrote, lo que facilita la sobrevivencia de la cepa, para que
+la medida con posteriores prácticas silvícolas modifiquen la arquitectura resultante. Esta acción posibilita
+la conservación de la base genética de la población intervenida.
+7-17
+================================================================================
+PAGE 24
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+Se contempla relocalizar las cepas a un lugar cercano, de preferencia en el área de influencia
+del Proyecto, que reúna las condiciones de hábitat que permitan la sobrevivencia y crecimiento
+de los ejemplares relocalizados, además, de su permanente monitoreo para tomar las medidas
+correctivas requeridas en caso de ser necesarias.
+El lugar donde se realizará la medida de relocalización corresponde a una zona ubicada al
+noreste del Área de Influencia, específicamente en el sector de bosque nativo de preservación,
+en micrositios que tengan las condiciones para la sobrevivencia de los ejemplares (4,90 ha). En
+siguiente figura se presenta la ubicación del bosque nativo de preservación, lugar de
+implementación del traslado de Citronella mucronata.
+Figura 7-7. Sector de relocalización en quebrada al noreste del Área de Influencia
+Lugar de
+implementación
+de la medida
+Fuente: GAC
+Se propone realizar el traslado de las 20 cepas de ejemplares de Citronella mucronata
+intervenidos al ya señalado bosque nativo de preservación. Esto en función de que, al ser
+acondicionados mediante poda, su cepa quedará disponible para ser desenterrada y dispuesta
+en un contenedor (por ejemplo, tambor, maxisaco o similar), para luego ser trasladarla a un
+Forma de lugar definitivo donde será acondicionada para estimular el crecimiento de rebrotes. Los
+implementación ejemplares, posterior a su traslado se aplicará un programa de monitoreo quincenal durante
+de la medida los primeros dos meses y posteriormente mensual durante tres años. La relocalización de los
+20 ejemplares se realizará en un lugar cercano que reúna las condiciones para la sobrevivencia
+de las cepas y permitan el fácil acceso para realizar los cuidados y el monitoreo necesario. Este
+lugar corresponde al bosque nativo de preservación ubicado en una quebrada al noreste del
+Área de Influencia.
+7-18
+================================================================================
+PAGE 25
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+Con el material de poda sobrante, se establecerá un ensayo de propagación con material
+vegetativo de modo de aportar al conocimiento de propagación de la especie y también tener
+material de los individuos intervenidos para cumplir con la medida manteniendo la base
+genética de la población afectada.
+Las actividades de rescate y relocalización de los 20 ejemplares de Citronella mucronata se
+Oportunidad de
+realizarán, durante las temporadas de invierno y/o primavera del primer año del Proyecto,
+implementación
+previo a la construcción de las obras ZD Neptuno y ZAV que intervienen los ejemplares de
+de la medida
+naranjillo.
+La medida se entenderá cumplida si al segundo año de relocalización 20 ejemplares de
+Indicador de
+Citronella mucronata se encuentren vivos. De existir mortalidad, el titular se compromete a
+cumplimiento
+plantar 5 individuos por cada ejemplar muerto (1:5) con una sobrevivencia del 100% al octavo
+de la medida
+año del Proyecto.
+Fuente: GAC
+7.3.2.2 Medidas de Compensación
+i. Colecta de germoplasma, viverización y replante de individuos de Asplenium
+trilobum, Gardoquia multiflora y Vestia foetida
+Tabla 7-9. Medida de compensación MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de
+Asplenium trilobum, Gardoquia multiflora y Vestia foetida
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+Nombre de la Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum,
+Medida Gardoquia multiflora y Vestia foetida
+Código de
+MC-04
+Medida
+Tipo de Medida Compensación
+Componente
+Flora y Vegetación
+Ambiental
+Objeto de
+Flora en categoría de conservación
+Protección
+Impacto IFV-02. Pérdida de ejemplares de flora en la fase de construcción y operación, correspondiente
+Ambiental a un total de 299 ejemplares de especies en categoría de conservación.
+Fase de construcción IFV-02
+ZD Neptuno, Planta de procesamiento, Caminos existentes con modificación, Caminos
+Lugar de
+proyectados y Zona de Acopio de Suelo vegetal (ZAV)
+ocurrencia del
+impacto
+Fase de operación IFV-02
+Modificación trazado oleoducto ENAP (Bypass) y ZE Maite
+7-19
+================================================================================
+PAGE 26
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+Fase del
+Proyecto de
+Construcción y Operación
+ocurrencia del
+impacto
+Objetivo de la Compensar la pérdida de flora en categoría de conservación producto de la implementación
+Medida de las partes, obras y acciones del Proyecto.
+La medida consiste en la colecta de germoplasma, viverización y plantación de 510 ejemplares
+de Gardoquia multiflora y 2.480 ejemplares de Vestia foetida. Dicha cifra corresponde a diez
+veces la cantidad de individuos que serán intervenidos por la construcción de las obras del
+Proyecto. La ubicación de los individuos de estas dos especies se puede ver en las Figura 7-8 y
+Figura 7-9.
+Para esto, se contempla la generación de individuos de Especies con Categoría de Conservación
+(ECC) a partir de la colecta local de semillas, además, de la obtención de material vegetativo
+de ramas no lignificadas (estacas) de individuos seleccionados fenotípicamente para su
+eventual enraizamiento.
+Por otro lado, dada la carencia de antecedentes formales respecto a las medidas culturales
+Descripción de
+óptimas para el establecimiento de las especies de interés (ECC), se plantea la ejecución de
+la Medida
+prácticas de manejo adaptativo que, en función de los resultados obtenidos en cada sector
+plantado, incorpore las prácticas exitosas en las temporadas posteriores a dicha plantación.
+Dada la particularidad de la reproducción, para el caso de Asplenium trilobum, y considerando
+el estado del arte de propagación de helechos nativos, se propone el rescate y relocalización
+de los individuos encontrados en la obra ZD Neptuno (ver Figura 7-10), considerando la
+extracción del rizoma lo más completo posible, junto con el sustrato que lo contenga. Su
+traslado se realizará en condiciones de frio y humedad relativa aptas para su sobrevivencia.
+Se contempla la instalación de ensayos de mantención y propagación de estos individuos en
+condiciones de clima controlado. Lo anterior será realizado por una institución científica de
+reconocido prestigio.
+7-20
+================================================================================
+PAGE 27
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 7-8. Distribución de individuos de Gardoquia multiflora a intervenir.
+Fuente: GAC
+Figura 7-9. Distribución de individuos de Vestia foetida a intervenir
+Fuente: GAC
+7-21
+================================================================================
+PAGE 28
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+Figura 7-10. Ubicación de parcela en la que se registró Asplenium trilobum a intervenir
+Fuente: GAC
+Producto de la implementación de las partes, obras y acciones del Proyecto en las fases de
+construcción y operación, se verán intervenidos 51 ejemplares de Gardoquia multiflora y 248
+ejemplares de Vestia foetida.
+Justificación de
+la Medida De esta manera, la medida busca compensar la intervención de tres (3) especies en categoría
+de conservación, replantando una cantidad diez veces mayor a la cortada a causa del desarrollo
+del Proyecto, contribuyendo al aumento en número de individuos de ECC. Esta plantación se
+realizará en el sitio aledaño al de la medida MM-01.
+El lugar donde se realizará la plantación de ECC corresponde al bosque nativo de preservación
+de la medida MM-01 y la zona aledaña a esta, ubicada noreste del área de influencia. Esta zona
+Lugar de está compuesta por un sector de bosque nativo de preservación (4,90 ha) y una matriz de
+Implementació plantaciones forestales adyacentes (8,15 ha), a modo de proteger la revegetación con
+n de la Medida Gardoquia multiflora y Vestia foetida y evaluar si los micrositios de la plantación ofrecen
+condiciones para la sobrevivencia y crecimiento de las estas especies. En siguiente figura se
+presenta la ubicación del área de enriquecimiento.
+7-22
+================================================================================
+PAGE 29
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+Figura 7-11. Sector de enriquecimiento en quebrada al noreste del Área de Influencia
+Fuente: GAC
+La caracterización del sitio de compensación se encuentra presente en el Anexo 7-3.
+La cantidad de ejemplares de ECC a plantar se calculó a partir de los individuos a intervenir por
+las obras del Proyecto de las especies Gardoquia multiflora (51 ejemplares) y Vestia foetida (248
+ejemplares) en una razón de 1:10 para estas últimas dos especies.
+Al respecto, se considera plantar 2.990 ejemplares considerando la siguiente distribución en el
+sector de enriquecimiento.
+- 2:3 en bosque nativo de preservación (4,90 ha).
+- 1:3 en la matriz de plantaciones forestales adyacentes (8,15 ha).
+Forma de
+En la siguiente tabla se muestra el número de individuos de ECC a plantar en este sector de
+Implementación
+enriquecimiento.
+de la Medida
+Tabla 7-10. ECC para el sector de enriquecimiento.
+Número total de individuos
+Especies
+Bosque nativo de preservación Plantaciones forestales
+Gardoquia multiflora 340 170
+Vestia foetida 1.653 827
+Total 1.993 997
+Fuente: GAC
+7-23
+================================================================================
+PAGE 30
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+En concordancia con el nombre de la medida, el método de implementación consta de tres (3)
+fases o actividades: colecta de germoplasma, viverización y plantación, las cuales se describe a
+continuación.
+Colecta de germoplasma:
+Se contempla la generación de individuos a partir de la colecta local de semillas, además, de la
+obtención de material vegetativo de ramas no lignificadas (estacas) de individuos seleccionados
+fenotípicamente para su eventual enraizamiento, provenientes de la población local, es decir,
+del área de influencia de flora y vegetación del Proyecto y sus alrededores.
+Dependiendo del tipo de propágulo que se trate (parte de la planta capaz de desarrollarse de
+manera separada para dar lugar a un nuevo organismo idéntico al que lo formó), la colecta se
+realizará en la estación adecuada conforme a la fenología de la especie, para presentar su
+ocurrencia y calidad adecuada para la recolección.
+- Frutos/Semillas: La colecta se realizará en el período comprendido entre los meses de
+febrero y mayo.
+- Estacas: Se colectarán estacas de alrededor de 20 cm de largo, a partir de brotes
+nuevos correspondientes al crecimiento del período. Se realizarán distintas campañas
+de colecta, partiendo desde mediados de primavera hasta fines de verano.
+Las accesiones serán realizadas por personal capacitado, quienes emplearán herramientas de
+corte en buen estado, principalmente tijeras de podar y/o repique, las cuales se encontrarán
+debidamente aseadas y serán desinfectadas con alcohol previo a la toma de cada muestra,
+procurando realizar cortes limpios al objeto de no provocar daños al árbol madre.
+Se confeccionará una ficha de registro de cada muestra, donde se recabará la siguiente
+información:
+- Tipo de muestra
+- Fecha de toma de muestra
+- Punto de ubicación, en coordenadas UTM WGS 84 18S
+- Nombre del colector
+- Estado de desarrollo del individuo
+- Estado sanitario
+- Vigor
+- Registro fotográfico
+Se confeccionará una base de datos de las campañas de toma de muestras que se realicen y
+cada muestra será debidamente rotulada con un identificador que permita tener una
+trazabilidad de ella, para las actividades posteriores asociadas a la medida.
+La cantidad total de propágulos a colectar deberá ser como mínimo el triple del compromiso en
+el caso de semillas y el quíntuple para el caso de estacas y los cormos necesarios. El objetivo es
+que al momento de la plantación se cuente con una producción adecuada que permita cumplir
+7-24
+================================================================================
+PAGE 31
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+con los 2.990 ejemplares de ECC, manteniéndose los restantes como resguardo para efectuar
+la plantación.
+Viverización:
+Para esta etapa se confeccionará una infraestructura acorde que permita efectuar el
+tratamiento requerido para propagar el material colectado o bien se establecerá un convenio
+con algún vivero de la zona que pueda realizar las labores conforme a la metodología que a
+continuación se detalla. Esta infraestructura estará en funcionamiento previo al momento de
+iniciar las campañas de colecta de germoplasma.
+En esta etapa se plantea estudiar metodologías para aumentar la germinación de material
+proveniente de frutos recolectados, con diferentes tratamientos de estratificación y
+escarificación. Se caracterizarán los frutos en cuanto a tamaño, madurez y procedencia de
+manera de evaluar el efecto de alguna de estas variables sobre la germinación en condiciones
+de vivero. En vivero se probarán distintos sustratos y contenedores de manera de seleccionar
+la combinación más adecuadas para la obtención de plantas susceptibles de plantarse en
+campo. Se caracterizarán los índices de calidad de planta (índice de esbeltez, índice tallo raíz e
+índice de Dickson).
+De manera general, se espera que las plantas, dispuestas en bolsas de plantación, sean
+mantenidas en vivero durante dos (2) años, período luego del cual se decidirá si se encuentran
+en condiciones de ser llevadas a las áreas de plantación. Esta decisión estará determinada por
+el crecimiento y vigor observado de los individuos producidos en vivero. De considerarse
+insuficiente, los individuos requerirán un año (1) adicional de mantención.
+Plantación:
+La plantación deberá realizarse idealmente a fines de otoño o principios de invierno. Para llevar
+a cabo esta actividad se considerarán las siguientes medidas generales.
+En toda el área de ejecución de la medida se bloquearán los accesos para impedir la entrada de
+herbívoros como equinos, caprinos, bovinos y ovinos; y de personas ajenas al Proyecto, con el
+objetivo de mejorar las condiciones del establecimiento y sobrevivencia de los ejemplares. La
+medida debe permitir o facilitar el tránsito de la fauna local.
+Se evitará rozar, en la medida de lo posible, la vegetación nativa presente, privilegiando el
+establecimiento de las plantas bajo la protección de arbustos, de modo que se genere un efecto
+nodriza. La preparación de este anodrizaje se realizará de forma individual de manera de afectar
+lo menos posible la vegetación circundante. La plantación se hará en función de la existencia de
+micrositios aptos para el desarrollo de las especies de interés.
+Se hará una preparación del terreno con el objeto de descompactar y de aumentar la capacidad
+de infiltración, mediante preparación individual de las casillas. Se efectuará mediante
+ahoyadura manual de una dimensión aproximada de 50x50x50 cm, con una mejora del sustrato,
+el cual contempla la adición de suelo de sectores en los que se encuentran actualmente las
+especies. Lo anterior, con el objetivo de aportar eventualmente inóculos naturales que
+7-25
+================================================================================
+PAGE 32
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+contribuyan el mejor establecimiento de los ejemplares. En ellas se descompactará el sustrato
+y se hará una mezcla compuesta, de preferencia, por 10% de material vegetal y un 90% del
+sustrato de la casilla.
+Un día antes de realizar la plantación, las casillas vacías serán inundadas con agua para favorecer
+la infiltración y descompactación de suelo. Luego la planta será dispuesta dentro de la casilla
+quedando bajo el nivel de la superficie del suelo y se realizarán las labores posteriores para
+formar una taza en torno a la planta. El sustrato sobrante se esparcirá alrededor de la casilla.
+Al momento de la plantación se aplicará un riego de establecimiento consistente en 5 litros por
+planta. La frecuencia del riego será quincenal en otoño y primavera, y semanal en verano. Se
+aplicará una cantidad entre 5 a 8 lt/planta cada vez, durante los primeros dos (2) años. Luego
+de transcurrido los dos (2) primeros años de riego de la plantación, se intentará aclimatar a los
+individuos a las condiciones ambientales locales, a partir del tercer año hasta el quinto. Para
+ello se considera un programa decreciente de riego en volumen y frecuencia durante los dos (2)
+años posteriores, regando al término del proceso (quinto año) sólo en caso de riesgos de
+mortalidad y estado de las plantas y finalmente eliminándolo completamente. Este programa
+estará sujeto a la evaluación y monitoreo de la situación climática imperante en las áreas de
+plantación.
+Al objeto de evitar ataque por lagomorfos y daño por herbivoría, se dispondrán adicionalmente
+protecciones individuales alrededor de cada planta, las cuales serán de malla o en su defecto
+polipropileno con tratamiento Anti-UV, adosadas a un tutor mediante alambres, de 0,6 m de
+alto. En forma complementaria, y de ser necesario, se implementará un plan de control de
+lagomorfos, el cual excluirá el control químico.
+Se realizará mantención de la plantación durante los cinco (5) años posterior a su ejecución,
+donde se revisará las protecciones individuales y el sistema de riego, de registrar algún
+problema o deterioro se procederá con el arreglo.
+Además, habrá un control por eliminación manual y posterior manejo de la presencia de
+especies invasoras tales como: Acacia dealbata, Acacia saligna, Pinus radiata, Rubus ulmifolius
+y Rosa rubiginosa, para evitar la competencia con la vegetación natural y favorecer los nichos
+de regeneración de los componentes nativos.
+En caso de observase mortalidad de individuos durante los dos (2) años posteriores a la
+plantación, éstos deberán ser replantados durante la época de otoño/invierno/primavera
+siguiente, al objeto de mantener el número de ECC inicial correspondiente a 2.990 ejemplares
+en el sector de enriquecimiento.
+Se plantea la ejecución de prácticas de manejo adaptativo que, en función de los resultados
+obtenidos en cada sector plantado, incorpore las prácticas exitosas en las temporadas
+posteriores a la plantación. En la siguiente tabla se presenta un cronograma de actividades de
+MC-01.
+7-26
+================================================================================
+PAGE 33
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum, Gardoquia
+multiflora y Vestia foetida
+Tabla 7-11. Cronograma de actividades de MC-04
+Año
+Actividad 1 2 3 4 5 6 7 8
+T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3
+Colecta de semillas
+Colecta de estacas
+Viverización*
+Bloqueo de accesos
+Casilla para plantación y/o roce
+Instalación sistema de riego
+Preparación de sustrato
+Plantación**
+Riego***
+Replante
+Mantención
+T1-T2-T3: Corresponden a trimestres. (*): De considerarse insuficiente el desarrollo en vivero durante dos (2) años, los individuos
+requerirán un año adicional de mantención. (**): Plantación considera protección individual, inundación de casillas un día antes de la
+plantación y un riego de establecimiento. (***): Riego decreciente a partir del sexto año de la medida.
+Fuente: GAC
+La medida se implementará a partir del primer año del Proyecto, donde se considera las
+temporadas establecidas para la colecta de germoplasma y viverización en su primera etapa,
+Oportunidad de
+y desde el tercer año de desarrollo del Proyecto la plantación. Este plazo se encuentra
+implementació
+condicionado a los resultados obtenidos en las etapas previas, dado que la plantación se
+n de la medida
+realizará una vez que los individuos presenten un desarrollo mínimo para su establecimiento
+seguro en los sitios de plantación.
+La medida se entenderá cumplida si al quinto año de mantención existe un 75% de
+Indicador de sobrevivencia del número inicial de ECC plantados (2.990)
+cumplimiento Para el caso del ensayo de mantención y propagación de individuos de Asplenium trilobum, la
+de la medida medida se entenderá como cumplida con la publicación y/o difusión de los resultados de éste.
+Fuente: GAC
+7.3.3 Plan de Medidas para el Componente Fauna Terrestre
+i. Impactos Significativos
+Considerando el análisis de evaluación de impactos realizado en el Capítulo 4 del presente EIA, la actividad
+de despeje de vegetación es la principal acción que genera impactos al componente flora y vegetación.
+A raíz de esta actividad se establecieron los siguientes impactos significativos:
+a) IFA-01 Pérdida de ejemplares de fauna de interés y/o sensibles
+El presente impacto puede ocurrir para las tres fases del Proyecto (Construcción, Operación y Cierre).
+7-27
+================================================================================
+PAGE 34
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+b) IFA-02 Pérdida y/o modificación de hábitat de especies de interés y/o sensibles
+Corresponde a la modificación significativa de las condiciones y recursos necesarios para la existencia de
+especies nativas, como consecuencia de la remoción total del suelo y su vegetación y/o cambios en los
+lugares que transitan. El concepto de hábitat suele emplearse para referirse a un sector del espacio que
+reúne ciertas condiciones que permiten la existencia de algunas especies, pero no de otras (Construcción
+y Operación).
+ii. Definición de medidas
+Considerando lo que señala la guía para la compensación de biodiversidad en el SEIA (SEA, 2014), es
+necesario identificar una jerarquización de medidas y compensación adecuada. La jerarquización parte, en
+la medida de lo posible, propiciando la generación de medidas de mitigación que tienen por finalidad evitar
+o disminuir los efectos adversos, en segundo lugar, generar medidas de reparación que tienen por
+finalidad reponer uno o más de los componentes o elementos del medio ambiente a una calidad similar a
+la que tenían con anterioridad al impacto y, en tercer lugar, generar medidas de compensación que tienen
+por finalidad producir o generar un efecto positivo alternativo y equivalente a un efecto adverso
+identificado, que no sea posible mitigar o reparar.
+En base a la jerarquización mencionada y los impactos significativos identificados, se proponen las
+siguientes medidas:
+Tabla 7-12. Medidas propuestas para el componente fauna terrestre
+Tipo de Medida Impacto Asociado Medida Propuesta
+IFA-01. Pérdida de ejemplares de interés
+MM-02 Plan de Rescate y Relocalización
+y/o sensibles
+Mitigación
+IFA-01. Pérdida de ejemplares de interés
+MM-03 Plan de Perturbación Controlada
+y/o sensibles
+IFA-02. Pérdida y/o modificación de
+MR-01 Revegetación y Conservación de áreas
+Reparación hábitat de especies de interés y/o
+intervenidas ZD y ZE con vegetación nativa
+sensibles
+IFA-02. Pérdida y/o modificación de
+Compensación hábitat de especies de interés y/o MC-05 Protección de áreas aledañas al Proyecto
+sensibles
+Fuente: GAC
+La medida de compensación debe cumplir con un estándar de compensación de biodiversidad apropiada,
+considerando las variables indicadas en la guía para la compensación de biodiversidad en el SEIA (SEA,
+2014), que se mencionan a continuación:
+• Equivalencia: Se refiere al objetivo fundamental de la compensación apropiada, que busca que los
+elementos de la biodiversidad afectados por un proyecto o actividad sean compensados en terreno
+por elementos de similares características, clase, naturaleza, calidad y función.
+7-28
+================================================================================
+PAGE 35
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+• Adicionalidad: Se refiere a la ganancia de biodiversidad que se obtiene en el escenario con
+compensación, en comparación al escenario sin compensación. Esto implica comprobar que la
+ganancia en biodiversidad producida por la medida de compensación no se habría producido en
+ausencia de la medida, así como verificar que la implementación de la medida de compensación
+no provoca impactos adversos, tales como el desplazamiento de actividades que generan pérdida
+de biodiversidad hacia otros sectores.
+En el Anexo 7-1 “Análisis de bioequivalencia y adicionalidad de las medidas de compensación” se presenta
+el detalle de la aplicación de la Guía de Compensación de Biodiversidad del SEA.
+7.3.3.1 Medidas de Mitigación
+La mitigación hace referencia a la acción de atenuar los impactos sobre el recurso, entregando alternativas
+para aminorar los posibles impactos producidos por las obras del Proyecto que, en algunos casos, dada la
+naturaleza de este, sobrepasan la posibilidad de prevenir.
+i. Plan de rescate y relocalización
+Tabla 7-13 Medida de Mitigación “MM-02 Plan de Rescate y Relocalización de Fauna Vertebrada”
+MM-02 Plan de Rescate y Relocalización
+Nombre de la
+Plan de Rescate y Relocalización de Fauna Vertebrada
+medida
+Código de
+MM-02
+Medida
+Tipo de medida Mitigación
+Componente
+Fauna de Vertebrados Terrestres
+ambiental
+Especies de Baja Movilidad: Pleurodema thaul (sapito de cuatro ojos), Eupsophus roseus (rana
+rosácea), Liolaemus schroederi (lagartija de Schröeder), Liolaemus cyanogaster (lagartija de
+Objeto de vientre azul), Liolaemus lemniscatus (lagartija lemniscata), Liolaemus tenuis (lagartija esbelta),
+Protección Liolaemus chiliensis (lagarto chileno), Liolaemus pictus (lagartija pintada), Dromiciops gliroides
+(monito del monte), Oligoryzomys longicaudatus (ratón de cola larga), Abrothrix longipilis (ratón
+lanudo bicolor) y Abrothrix olivaceus (ratón oliváceo).
+Impacto IFA-01. Pérdida de ejemplares de fauna de interés y/o sensibles - Anfibios, Reptiles y
+ambiental Micromamíferos
+En el área de influencia del Proyecto se detectaron cuatro ambientes para la fauna denominados
+Lugar de
+"bosque”, "matorral", “modificado” y “plantación” (Capítulo 03. Sección B. Línea de Base de
+ocurrencia del
+Fauna de Vertebrados Terrestres). La siguiente tabla, muestra los ambientes en que fueron
+impacto
+registrados las especies objetivo.
+7-29
+================================================================================
+PAGE 36
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-02 Plan de Rescate y Relocalización
+Tabla 7-14. Especies objetivo del plan de rescate y relocalización de fauna silvestre y el
+ambiente de registro.
+Especie Ambientes de fauna
+e
+s
+a
+lC Bosque Matorral Modificado Plantación
+Nombre científico Nombre común
+a Rana rosácea de
+ib
+ih
+Eupsophus roseus
+hojarasca
+- - X X
+p
+m Pleurodema thaul Sapito de cuatro ojos - - - X
+A
+Liolaemus schroederi Lagartija de Schröeder - X X X
+Lagartija de vientre
+Liolaemus cyanogaster - X - X
+a azul
+ilitp
+Liolaemus tenuis Lagartija esbelta X X X X
+e
+R Liolaemus lemniscatus Lagartija lemniscata X X X X
+Liolaemus chiliensis Lagarto chileno X X X X
+Liolaemus pictus Lagartija pintada - X - X
+Oligoryzomys
+Ratón de cola larga - - - X
+longicaudatus
+Abrothrix longipilis Ratón de pelo largo X - X X
+a
+ila
+m
+Abrothrix olivaceus Ratón oliváceo X - X X
+m
+a
+M
+Ratón orejudo de
+Phyllotis darwini - - - X
+Darwin
+Dromiciops gliroides Monito del monte - X - X
+X=Presencia.
+Fuente: GAC
+Fase del
+Proyecto de
+Construcción y Operación
+ocurrencia del
+impacto
+El objetivo de la medida es realizar una actividad de rescate y relocalización, con la finalidad de
+Objetivo de la evitar la pérdida de individuos de fauna de baja movilidad por causa del Proyecto. Sumado a las
+medida especies citadas anteriormente, aplicará a toda especie de herpetofauna y micromamífero
+identificado y/o capturada en el esfuerzo de captura.
+Las actividades de captura serán realizadas por profesionales especialistas con experiencia
+acreditada en manipulación de fauna silvestre, y se llevarán a cabo una vez obtenido el permiso
+de captura otorgado por la autoridad y hecha la notificación respectiva.
+Descripción de
+la medida • Anfibios: se realizará mediante la captura manual mediante recorridos activos y/o
+búsqueda dirigida de la especie objetivo, en los hábitats y ambientes en que esté
+presente en el área de influencia del Proyecto.
+7-30
+================================================================================
+PAGE 37
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-02 Plan de Rescate y Relocalización
+• Reptiles: se realizará mediante la captura manual y/o con lazo corredizo mediante
+recorridos activos y/o búsqueda dirigida de la especie objetivo, en los hábitats y
+ambientes en que esté presente en el área de influencia del Proyecto.
+• Micromamíferos: se realizará la captura con trampas colapsables tipo Sherman y/o
+Tomahawk modificadas, mediante su instalación en grillas o líneas, en los hábitat y
+ambientes de este grupo que estén presentes en el área de influencia del Proyecto. Las
+trampas serán cebadas (avena y plátano) y revisadas dos veces por día, para estar activa
+por un periodo de aprox. 8 a 12 horas como máximo. Se realizarán tres repeticiones
+por cada grilla o línea de captura, esto quiere decir que las trampas quedarán instaladas
+durante tres noches consecutivas antes de iniciar el rescate en una nueva grilla, tal
+como se menciona en la Guía Técnica Para Implementar Medidas de Rescate/
+Relocalización y Perturbación Controlada (Torres-Mura et al., 20141) del Servicio
+Agrícola y Ganadero. Para el caso de D. gliroides, las trampas Tomahawk modificadas
+serán instaladas en altura, utilizando plátano como cebo.
+Justificación de La medida se justifica en su capacidad para reducir la perdida de individuos pertenecientes a
+la medida las especies objetivo y aquellas de baja movilidad (PASM 146).
+1 Torres-Mura, J.C., E. Riveros-Riffo, V. Escobar-Gimpel. 2014. Guía técnica para implementar medidas de rescate/ relocalización
+y perturbación controlada. Servicio Agrícola y Ganadero, 45 pp.
+7-31
+================================================================================
+PAGE 38
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Áreas de rescate y/o captura:
+Las áreas consideradas como superficies de rescate comprenden aproximadamente una
+superficie de 140,75 hectáreas, las que incluyen obras y partes del Proyecto (obras areales),
+tanto de características temporales como permanentes.
+Figura 7-12. Áreas de Rescate de fauna de baja movilidad identificadas en el área de
+Influencia
+Lugar de
+implementación
+Fuente: GAC
+Área de relocalización:
+El área de relocalización será determinada dentro del Parque Nacional Nonguén (Figura 7-13) y
+contará con las siguientes características:
+• Superficie del área de relocalización mayor o igual a la superficie del área de captura.
+• El área de relocalización tendrá características de hábitat similar al área de captura o
+de mejores condiciones ambientales (esto es en parte las características
+vegetacionales, altitud, microhábitat, refugios, disponibilidad de alimento, entre
+otras).
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• El área de relocalización no será intervenida por el Proyecto, garantizando su
+protección en el mediano a largo plazo.
+En el Apéndice 10-9.1 se presenta el detalle de la caracterización del área de relocalización.
+7-32
+================================================================================
+PAGE 39
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 7-13. Área de Relocalización de fauna de baja movilidad en Parque Nacional Nonguén
+Fuente: GAC
+Debido a la complejidad del Proyecto en cuanto a su extensión y diversidad de áreas a ser
+ocupadas, se programará la fecha y número de rescates, de acuerdo con el cronograma de
+ejecución de obras o intervenciones (ver oportunidad de implementación). Las actividades se
+realizarán de forma previa a la intervención y/o al avance de la maquinaria de construcción y
+emplazamiento de obras, realizándose las capturas en un máximo de cinco días (entre 1 a 5 días)
+antes del comienzo de los distintos frentes de trabajo. Para ello se solicitará los permisos de
+captura correspondientes al Servicio Agrícola y Ganadero (SAG), informando previamente los
+días de trabajo según la frecuencia que estipule la resolución emitida por la autoridad.
+Captura
+Forma de
+Aproximadamente dos meses antes del inicio de las actividades de captura, se realizará, para
+implementación
+cada área de rescate, una campaña de línea de base a fin de corroborar y ajustar la estimación
+del número de individuos a rescatar, considerando la variación natural que puede sufrir la
+densidad de esta especie en relación con la disponibilidad de alimento, refugio y/o cuerpos o
+cursos de agua.
+El esfuerzo de captura se realizará entre las 20:00 y 02:00 horas para coincidir con el aumento
+de la actividad que presentan los anfibios en horario crepuscular. En el caso de los reptiles, los
+trabajos se desarrollarán en horario diurno entre las 09:00 y 17:00 horas tiempo en que los
+individuos presenta mayor actividad. Por su parte para los micromamíferos, los trabajos se
+concentrarán en la instalación de trampas en horario diurno (máximo de tiempo sin revisión
+durante el día de 8 horas) y su posterior revisión cada noche entre las 08:00 y 11:00 am.
+7-33
+================================================================================
+PAGE 40
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+El área por intervenir será recorrida en forma pedestre, procurando realizar un barrido
+completo, con particular énfasis en aquellos microambientes favorables para la presencia de las
+especies objetivo, como matorrales y roqueríos para micromamíferos, cuerpos o cursos de agua
+para anfibios y roqueríos, matorrales y árboles en el caso de reptiles. Para la captura se realizará
+la exploración de los distintos ambientes y microambientes realizando la búsqueda activa de
+ejemplares bajo o entre piedras, troncos y arbustos. Los individuos detectados serán capturados
+de forma manual (herpetofauna) o trampas Sherman (micromamíferos).
+Transporte
+Los ejemplares capturados, serán depositados individualmente en recipientes plásticos, los
+cuales serán provistos de sustrato y refugio adecuados, junto con las condiciones de humedad,
+ventilación y temperatura necesarios para asegurar el bienestar de los ejemplares.
+Cada individuo se mantendrá en su recipiente durante un tiempo no mayor a tres horas.
+Los individuos serán transportados en el exterior de la camioneta evitando corrientes de aire o
+luz solar directa; y procurando conservar medidas de bioseguridad por el riesgo de zoonosis.
+Marcaje y liberación
+De manera previa a su liberación, los ejemplares capturados serán caracterizados en términos
+de su estado de desarrollo, sexo, y parámetros morfométricos básicos.
+Los anfibios no recibirán ningún tipo de marca y serán individualizados mediante fotografías y
+registro en fichas de características para su posterior reconocimiento (sexo, verrugas,
+coloración, etc.).
+Para la liberación de los ejemplares se seleccionarán áreas que correspondan a los mismos tipos
+de ambiente en que se efectuó la captura. Para la elección del área de liberación se realizará
+una evaluación de la calidad de los ambientes y microambientes, considerando factores como:
+presencia de la especie, grado de protección del área, disponibilidad de recursos alimenticios y
+de refugios, entre otros.
+Monitoreo
+Luego de aplicada la medida, se realizarán un primer monitoreo en el área de captura al día
+siguiente o 2 días posteriores al rescate (monitoreo inmediato) enfocado a verificar que no
+queden individuos por rescatar, este durará cuatro jornadas y eventualmente más si es
+necesario. Las actividades asociadas al proceso de construcción podrán iniciarse una vez
+concluido el primer monitoreo del área de captura en un plazo máximo de 5 días.
+El monitoreo siguiente, correspondiente a la segunda campaña, se realizará a los 14 días
+posterior al rescate en el área de relocalización, enfocado en determinar la permanecía
+temprana de los individuos relocalizados, ya que el marcaje con pintura debería resistir dicho
+periodo de tiempo. El tercer, cuarto y quinto monitoreo se efectuará a los 90, 180 y 360 días
+posterior al rescate, siendo el objetivo de dichos monitoreos poder evaluar el comportamiento
+7-34
+================================================================================
+PAGE 41
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+de la población receptora una vez adicionado nuevos individuos. La duración de los monitoreos
+tendrá una duración de tres días. Los monitoreos abarcan un año completo para poder incluir
+un ciclo reproductivo de las especies objetivo.
+Las actividades de rescate se realizarán durante la fase de construcción y de manera previa a la
+entrada en operación de cada zona u obras del Proyecto asociada a un área de rescate. Al
+respecto, conforme a cronograma de fase de operación del proyecto se detalla la siguiente
+secuencialidad de los trabajos:
+Tabla 7-15. Cronograma general del Proyecto.
+Año
+Fase
+1 2 3 4 5 6 7 8
+Construcción
+Operación
+Fuente: GAC
+Oportunidad de
+Tabla 7-16. Cronograma fase de operación del Proyecto
+implementación
+Año
+Área Actividad
+3 4 5 6 7 8
+Planta Procesamiento
+ZE Luna Extracción
+ZE Victoria Norte Extracción
+ZE Maite Extracción
+ZD Neptuno Disposición
+Fuente: GAC
+La presente medida se asocia a etapas de construcción y operación del Proyecto por lo cual el
+plan se deberá ejecutar en virtud del avance y plazos establecidos.
+El indicador de cumplimiento será la entrega a la Superintendencia del Medio Ambiente y al SAG
+regional de un informe exponiendo resultados y actividades de rescate y relocalización, en un
+plazo de 45 días desde el término de cada monitoreo estacional de seguimiento. Se establece
+que la medida será exitosa si se rescata el 100% de los ejemplares registrados en el área del
+Indicador de proyecto.
+cumplimiento Los informes incluirán figuras con la ubicación de las áreas de rescate y sitios de relocalización
+los individuos, coordenadas de georreferencia (UTM WGS84 Huso 19) y anexos fotográficos.
+Posterior a la campaña de rescate y relocalización se realizará una campaña de monitoreo
+enfocado a verificar que no queden individuos por rescatar en el área del Proyecto. De igual
+forma, se presentará un informe exponiendo los resultados de este monitoreo.
+Medio de El medio de verificación será el comprobante de carga del informe de seguimiento ambiental a
+verificación la plataforma del SNIFA de la SMA y similar medio de verificación del SAG.
+7-35
+================================================================================
+PAGE 42
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+En el área de relocalización se contempla que haya un aumento o mantenimiento de la
+abundancia de las especies objetivo, sin presentarse variaciones a través del tiempo hasta
+finalizado el seguimiento de la medida (SEA, 20222).
+Fuente: GAC
+ii. Plan de Perturbación Controlada
+Tabla 7-17. Medida de Mitigación “MM-03 Plan de Perturbación Controlada”
+MM-03 Plan de Perturbación Controlada
+Nombre de la
+Plan de Perturbación Controlada
+medida
+Código de Medida MM-03
+Tipo de medida Mitigación
+Componente
+Fauna de Vertebrados Terrestres
+ambiental
+Especies de baja movilidad registradas en ambientes asociados a obras de extensión lineal
+de superficie menor a 3 ha, de las clases Reptilia y Mammalia: Liolaemus schroederi (lagartija
+de Schröeder), Liolaemus cyanogaster (lagartija de vientre azul), Liolaemus lemniscatus
+(lagartija lemniscata), Liolaemus tenuis (lagartija esbelta), Liolaemus chiliensis (lagarto
+Objeto de
+chileno), Liolaemus pictus (lagartija pintada), Oligoryzomys longicaudatus (ratón de cola
+Protección
+larga), Abrothrix longipilis (ratón lanudo bicolor) y Abrothrix olivaceus (ratón oliváceo). Sin
+perjuicio del listado presentado, la medida podrá ejecutarse sobre todas las especies dentro
+del área de perturbación. En el caso anfibios y la especie Dromiciops gliroides aplicará
+exclusivamente la medida de rescate y relocalización.
+Impacto IFA-01. Pérdida de ejemplares de fauna de interés y/o sensibles - Anfibios, Reptiles y
+ambiental Micromamíferos
+En el área de emplazamiento del Proyecto, donde se detectaron cuatro ambientes para la
+fauna denominados "bosque”, "matorral", “modificado” y “plantación” (Capítulo 03. Sección
+B. Línea de Base de Fauna de Vertebrados Terrestres). La siguiente Tabla, muestra los
+ambientes en que fueron detectados los individuos de las especies objetivo conforme a la
+Línea de Base.
+Lugar de Tabla 7-18. Especies objetivo del plan de perturbación controlada de fauna silvestre y el
+ocurrencia del ambiente de registro
+impacto
+Especie Ambientes de fauna
+e
+s
+a
+lC Bosque Matorral Modificado Plantación
+Nombre científico Nombre común
+Lagartija de
+a Liolaemus schroederi - X X X
+ilitp
+e Laga
+S
+rt
+c
+i
+h
+ja
+r ö
+d
+e
+e
+d
+v
+e
+i
+r
+e ntre
+R Liolaemus cyanogaster - X - X
+azul
+2 Servicio de Evaluación Ambiental (SEA). 2022. Criterio de Evaluación en el SEIA: Criterios Técnicos para la Aplicación de una
+Perturbación Controlada. [Disponible en: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+perturbacion-controlada].
+7-36
+================================================================================
+PAGE 43
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-03 Plan de Perturbación Controlada
+Liolaemus tenuis Lagartija esbelta X X X X
+Liolaemus lemniscatus Lagartija lemniscata X X X X
+Liolaemus chiliensis Lagarto chileno X X X X
+Liolaemus pictus Lagartija pintada - X - X
+Oligoryzomys
+Ratón de cola larga - - - X
+longicaudatus
+a
+ila Abrothrix longipilis Ratón de pelo largo X - - X
+m
+m
+a Abrothrix olivaceus Ratón oliváceo X - - X
+M
+Ratón orejudo de
+Phyllotis darwini - - - X
+Darwin
+X: Presencia
+Fuente: GAC
+Fase del Proyecto
+de ocurrencia del Construcción y Operación
+impacto
+Inducir el desplazamiento gradual de especies de baja movilidad desde el ambiente que
+Objetivo de la utilizan hacia zonas inmediatamente adyacentes, para disminuir el impacto de la potencial
+medida pérdida de ejemplares amenazados de baja movilidad, debido a las obras y acciones del
+Proyecto.
+En términos genéricos, la medida consiste en remover de forma gradual los refugios de las
+especies de interés, como cúmulos de rocas o vegetación arbustiva, previo al inicio de las
+actividades de despeje de vegetación o de movimiento de tierras (SAG, 2016).
+La metodología se describe a continuación:
+• De acuerdo con el avance de las obras, se removerán y retirarán rocas, troncos,
+vegetación y todo aquello que pueda servir como refugio para las especies objetivo.
+• La presente actividad debe realizarse en el horario de actividad de las especies
+objetivo (mayor capacidad de huida), estableciendo esto entre las 8:00 h y las 18:00
+h en estaciones climáticas frías (otoño, invierno) y entre las 8:00 h y 20:00 h durante
+las temporadas cálidas (primavera, verano). Quedando prohibida su
+Descripción de la implementación fuera de este horario. Por otra parte, se sugiere la implementación
+medida del plan de perturbación controlada fuera de épocas reproductiva de las especies
+objetivo (reptiles y micromamíferos), evitando actividades entre los meses de
+septiembre y enero, época en la que se pueden encontrar huevos o individuos crías.
+• Una vez aplicada la perturbación propiamente tal, se realizarán recorridos y/o
+puntos de muestreo, con el objetivo de identificar la “Abundancia de las especies
+objetivo”, para verificar el éxito de esta medida, observándose y/o verificándose
+que no estén presentes las especies sometidas a la perturbación.
+• Posterior a lo ya indicado, el titular tendrá un plazo máximo de 12-24 horas para
+comenzar los trabajos una vez terminada la liberación de áreas mediante la
+metodología de perturbación controlada. En el caso que el plazo se exceda se
+deberá repetir la medida debido a la posible recolonización de las especies objetivo
+del presente plan.
+7-37
+================================================================================
+PAGE 44
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-03 Plan de Perturbación Controlada
+Descripción hábitat de origen.
+El hábitat de origen de las especies corresponde a ambientes en su mayoría con algún grado
+de intervención, asociado a caminos existentes, áreas de tráfico vehicular, vegetación de
+tipo exótica o de tipo forestal. Las especies objetivo corresponde a especies con capacidad
+de adaptación a estos ambientes intervenidos, pudiéndose encontrar en orillas de camino,
+piedras o refugios pequeños cercanos a las obras ya existentes, en ambientes principalmente
+de tipo plantación forestal o matorral.
+Potencial hábitat de destino.
+Las zonas de destino de los animales corresponden áreas similares a las de origen debido a
+la cercanía que presentan. En particular la constituyen principalmente zonas intervenidas de
+caminos existentes, plantaciones forestales y matorrales ubicados en bordes de áreas
+intervenidas. En las áreas de destino y según información levantada en campañas de terreno,
+se evidenció la presencia de especies objetivo, otorgando las condiciones adecuadas para
+recibir individuos perturbados.
+Grado de influencia de otras actividades sobre el sitio donde se proyecta desplazar a los
+animales
+Como ya se mencionó el área de destino de los animales corresponde a zonas con
+intervención de media a alta, pese a ello el hábitat representa condiciones adecuadas para
+recibir a los animales. Cabe destacar que el titular deberá brindar la protección de estas
+áreas, resguardándolas de futuras intervenciones.
+Rango de hogar y capacidad de desplazamiento de especies objetivo
+Según la literatura científica el ámbito de hogar de los reptiles objetivo de la medida no
+superaría los 150 m de desplazamiento. Por otra parte, y para los micromamíferos, no
+superaría los 450 m de desplazamiento. De esta manera, la medida se sustenta en la biología
+y comportamiento de las especies y su capacidad de huida mediante sus propios medios.
+Por lo anterior y para evitar la recolonización de los animales, se deberá remover todo tipo
+de refugio de los animales (piedras, ramas, rocas, etc.) y el área de recepción deberá ser
+enriquecida ambientemente con todo el material retirado. Con respecto al desplazamiento
+se espera que los animales abandonen el área perturbada desde el momento en que
+comiencen las actividades, por ello es necesaria la revisión previa, inmediatamente posterior
+a la perturbación y el monitoreo especificado, en términos de estimación de abundancia y
+riqueza de especies.
+Tasa de avance esperado del desplazamiento.
+Como ya se mencionó en enunciado anterior, la tasa de avance de los animales se considera
+ligada a sus ámbitos de hogar, pudiendo las especies objetivo desplazarse por sus propios
+medios una distancia de entro los 150 y 450 m. Por lo anterior la tasa de avance de la medida
+se condicionará perturbando de manera secuencial desde la zona más alejada a las áreas de
+destino, condicionando el avance de las especies desde zonas intervenidas a zonas de
+7-38
+================================================================================
+PAGE 45
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-03 Plan de Perturbación Controlada
+protección. Se considera que la medida deberá realizarse por un equipo conformado por un
+especialista de fauna silvestre y 6 jornales (con herramientas para el despeje manual, como
+motosierra o desmalezadora). Se considera que el equipo ya detallado tendrá una tasa de
+avance de 1 hectárea por día de trabajo por cada cuadrilla de trabajadores (1 especialista y
+6 jornales).
+La medida se justifica, dada la presencia de especies de reptiles y micromamíferos
+(endémicos y/o en categorías de conservación según la legislación nacional vigente), las
+Justificación de la cuales debido a su baja capacidad de desplazamiento presentan riesgo de sufrir pérdida de
+medida individuos. La aplicación de esta medida se justifica en superficies acotadas, en las que se
+sugiere facilitar el movimiento natural de los individuos hacia áreas adyacentes (Torres-
+Mura et al., 2014), y evitar un estrés de captura innecesario.
+La presente medida aplicará para obras de tipo lineal asociadas, caminos existentes o
+nuevos, modificación del oleoducto de ENAP y área de intervención de LTE principalmente,
+los cuales requieran algún grado de intervención como despeje de vegetación, escarpado,
+Lugar de
+compactación u otro.
+implementación
+A cada camino donde existirá algún grado de intervención por parte del Proyecto, se le
+agregará un buffer o zona de amortiguación donde se presume un grado de intervención
+directa o indirecta (cercanía); el buffer utilizado es 20 m a cada lado del camino.
+• El procedimiento para desarrollar la medida contempla:
+• Supervisión de un experto (médico veterinario, biólogo o profesional con experiencia
+en manejo de animales silvestres) y seis ayudantes para aplicar la medida de
+perturbación controlada por cada hectárea de liberación.
+• La perturbación se llevará a cabo en áreas intervenidas por obras lineales, puntuales
+o areales de superficies acotadas (superficies menores a 3 hectáreas). Lo anterior de
+acuerdo con la tasa de avance de caminos según cronograma anual ya presentado y
+a tasa de avance de cada obra.
+• La perturbación controlada considera la remoción y retiro manual de refugios
+potenciales para reptiles y micromamíferos, esto incluye, rocas, troncos, vegetación,
+entre otros.
+Forma de • La aplicación de la medida implica el recorrido exhaustivo del área a intervenir,
+implementación recorrido en el cual se identificará y procederá a la remoción de refugios. La remoción
+implicará principalmente remoción de arbustos, material vegetal, troncos, rocas de
+tamaño pequeño y medio.
+• El despeje debe realizarse principalmente de forma manual o con herramientas de
+uso manual (motosierra o desmalezadora); y el material retirado (piedras de menor
+tamaño, material vegetal) se dejará en las zonas contiguas al área de despeje (dentro
+del área de recepción), de manera de proveer refugio en las zonas a las que se
+desplazarán los individuos.
+• Al día siguiente de realizada la perturbación se debe recorrer el área en que se realizó
+la remoción de refugios, para verificar la ausencia de especies de baja movilidad. En
+caso de observar actividad, se reforzará la remoción de posibles refugios que no
+hayan sido identificados y removidos previamente.
+7-39
+================================================================================
+PAGE 46
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-03 Plan de Perturbación Controlada
+• La medida será considerada exitosa toda vez se estime la nula presencia de las
+especies objetivo del plan de perturbación en las áreas de origen una vez concluida
+las actividades (día siguiente).
+• Se realizará un seguimiento el primer mes a través de métodos no invasivos (sin
+captura) que permitan determinar, además de presencia, la actividad de ocupación
+de refugios o madrigueras. Al segundo y tercer mes se realizarán mediciones
+cuantitativas y posteriormente en estaciones contrastadas. El seguimiento deberá
+abordar al menos dos ciclos reproductivos de las especies objetivo.
+• Como indicador de éxito se considera que los resultados obtenidos deberán
+evidenciar que la población receptora se ha mantenido en el tiempo o que presenta
+un aumento respecto a su condición original previa a la perturbación.
+Debido a la extensión y complejidad del Proyecto, la ejecución del plan de perturbación se
+Oportunidad de
+ajustará al cronograma de construcción y operación del Proyecto, y por cada área a ser
+implementación
+intervenida en relación con la planificación de avance.
+Se llevará un registro en fichas de las actividades diarias asociadas a la medida de
+perturbación controlada, en el que se dé cuenta de la superficie de aplicación de la medida
+y del indicador de cumplimiento.
+Se presentará un Plan de Perturbación Controlada a la DIPROREN (División de Protección de
+Indicador de Recursos Naturales) del SAG, donde se detallará la metodología, plazos, especies objetivo y
+cumplimiento seguimiento de la presente medida. En complemento a esto, se presentará un informe que
+describa las actividades realizadas, así como la indicación de la realización del monitoreo
+final de verificación de ausencia total de individuos posterior a la perturbación.
+Aviso del inicio de la medida y la entrega de un informe que dé cuenta de las actividades de
+perturbación controlada, a la Superintendencia del Medio Ambiente y al SAG regional.
+Fuente: GAC
+7.3.3.2 Medidas de Reparación
+i. Revegetación de áreas intervenidas ZD y ZE con vegetación nativa
+Tabla 7-19. Medida MR-01 Revegetación y Conservación de áreas intervenidas ZD y ZE con vegetación nativa
+MR-01 Revegetación de áreas intervenidas ZD y ZE con vegetación nativa
+Nombre de la
+Revegetación y Conservación de áreas intervenidas ZD y ZE con vegetación nativa
+medida
+Código de
+MR-01
+Medida
+Tipo de medida Reparación
+Componente
+Fauna de Vertebrados Terrestres
+ambiental
+Objeto de
+Hábitat de fauna de vertebrados terrestres
+Protección
+7-40
+================================================================================
+PAGE 47
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-01 Revegetación de áreas intervenidas ZD y ZE con vegetación nativa
+Impacto IFA-02. Pérdida y/o modificación de hábitat de especies de interés y/o sensibles - Anfibios,
+ambiental Reptiles, Micromamíferos, Meso y Macromamíferos
+La habilitación de obras del Proyecto tanto en la fase de construcción como de operación
+Lugar de
+provocará la pérdida de ambientes de especies de vertebrados terrestres. Esto se dará
+ocurrencia del
+principalmente en las Zonas de Extracción (Victoria Norte y Maite), Zona de Disposición y Planta,
+impacto
+que corresponden a las obras areales y de mayor ocupación de superficie.
+Fase del
+Proyecto de
+Construcción y Operación
+ocurrencia del
+impacto
+Objetivo de la
+Generar hábitats propicios para fauna terrestre en las áreas intervenidas por el Proyecto.
+medida
+A medida que se vayan cerrando las distintas áreas, particularmente las Zonas de Extracción y
+Zona de Disposición, se irá revegetando las superficies ya intervenidas y cerradas.
+Esta revegetación se asocia a la corta de plantaciones forestales debido a la construcción de las
+partes y obras del proyecto en la cual se empleará vegetación nativa a medida que se vayan
+cerrando las distintas partes y obras del Proyecto. La revegetación se hará con especies nativas, y
+Descripción de
+se realizará en los taludes que permitan realizar esta medida al interior de cada ZE y en la ZD.
+la medida
+A su vez, una vez finalizada la etapa de operación y cierre con especies de vegetación nativa,
+respecto de la formalización de este sitio de protección, en caso de obtener una Resolución de
+Calificación Ambiental (RCA) favorable del EIA, el Titular inscribirá la superficie de esta medida
+como un área de protección privada. La superficie aproximada es de 222,73 hectáreas, a fin de
+proporcionar un hábitat definitivo y protegido a las especies de fauna nativa que habitan la zona.
+La justificación de la medida corresponde a que, mediante la revegetación de especies nativas en
+Justificación de las áreas intervenidas, se generarán ambientes propicios para la fauna terrestre. La medida se
+la medida realizará en las ZE (excepto ZE Luna) y ZD, debido a que estas obras corresponden a las obras
+areales de mayor ocupación de superficie.
+La revegetación con especies nativas se realizará en las Zonas de Extracción (excepto ZE Luna) y
+Zona de Disposición.
+Figura 7-14. Ubicación de ZE (izq.) (excepto ZE Luna) y ZD (der.).
+Lugar de
+implementación
+Fuente: GAC
+7-41
+================================================================================
+PAGE 48
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-01 Revegetación de áreas intervenidas ZD y ZE con vegetación nativa
+Figura 7-15. Perfil tipo zonas de extracción
+Fuente: GAC
+Figura 7-16. Perfil tipo zona de disposición de mineral
+Fuente: GAC
+La forma de implementación corresponde a revegetar con especies nativas las áreas a medida que
+van cesando su operación dentro de cada ZE (excepto ZE Luna) y cada ZD.
+Forma de
+implementación Respecto a la formalización de las áreas que serán revegetadas, en caso de obtener una Resolución
+de Calificación Ambiental (RCA) favorable del EIA, el Titular inscribirá la superficie de esta medida
+como un área de protección privada.
+La revegetación con especies nativas se realizará durante la fase de operación a medida que las
+distintas ZE (excepto ZE Luna) y ZD van siendo cerradas conforme al cronograma de operación.
+Corresponde a una actividad que se hará de manera paulatina y continua durante la fase de
+operación conforme al cierre de las distintas áreas.
+Tabla 7-20. Cronograma Fase de Operación
+Año
+Oportunidad de Área Actividad
+3 4 5 6 7 8
+implementación
+Planta Procesamiento
+ZE Luna3 Extracción
+ZE Victoria Norte Extracción
+ZE Maite Extracción
+ZD Neptuno Disposición
+Fuente: GAC
+3 La Zona de Extracción Luna no se revegeta. Mayor detalle ver Capítulo 1 del EIA.
+7-42
+================================================================================
+PAGE 49
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-01 Revegetación de áreas intervenidas ZD y ZE con vegetación nativa
+En cuanto a la conservación del sitio, esta se realizará una vez reforestadas todas las ZE y ZD.
+Se llevará un registro de cese de operación de cada ZE (excepto ZE Luna) y ZD e inicio de las
+actividades de revegetación en cada área.
+Iniciada la revegetación de áreas, se generará un mapa semestral indicando las áreas que han sido
+revegetadas.
+Mediante monitoreo trimestrales, se llevará el registro de la fauna presente en las zonas
+Indicador de revegetadas (densidades y abundancias), durante 3 años.
+cumplimiento Se enviará un informe semestral a la Superintendencia del Medio Ambiente (SMA) durante la fase
+de operación. En este informe se incluirá el mapa de las áreas revegetadas en el periodo
+correspondiente, las densidades y abundancias de fauna presente, además de otras actividades
+realizadas.
+La protección del área se entenderá cumplida si se efectúan los siguientes indicadores:
+- Documento que acredite la inscripción del área como una zona de protección privada.
+Fuente: GAC
+7.3.3.3 Medidas de Compensación
+i. Protección de áreas aledañas al Proyecto
+Tabla 7-21. Medida MC-05 Protección de áreas aledañas al Proyecto
+MC-05 Protección de áreas aledañas al proyecto
+Nombre de la
+MC-05 Protección de áreas aledañas al Proyecto
+medida
+Código de medida MC-05
+Tipo de medida Compensación
+Componente
+Fauna vertebrada terrestre
+ambiental
+Objeto de Hábitat de fauna vertebrada terrestre con énfasis en los siguientes mamíferos: Pudu
+protección puda (pudú), Leopardus guigna (güiña) y Puma concolor (puma).
+IFA-02. Pérdida y/o modificación de hábitat de especies de interés y/o sensibles - Anfibios,
+Impacto ambiental
+Reptiles y Mamíferos
+En el área de emplazamiento del Proyecto se identificaron cuatro ambientes para la fauna
+denominados como "Bosque”, "Matorral", “Modificado” y “Plantación”. La siguiente
+Tabla muestra las especies con categoría de conservación que se registraron durante la
+Línea de Base.
+Lugar de ocurrencia Tabla 7-22. Especies de fauna vertebrada con categoría de conservación
+del impacto Especialista de
+Especie Categoría de Conservación Movilidad
+hábitat
+Pudu puda Vulnerable Alta No
+Leopardus guigna Vulnerable Alta No
+Puma concolor Casi Amenazada Alta No
+Galictis cuja Preocupación Menor Alta No
+7-43
+================================================================================
+PAGE 50
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-05 Protección de áreas aledañas al proyecto
+Lycalopex culpaeus Preocupación Menor Alta No
+Eupsophus roseus Vulnerable Baja Si
+Pleurodema thaul Casi Amenazada Baja Si
+Liolaemus schroederi Vulnerable Baja Si
+Liolaemus cyanogaster Preocupación Menor Baja Si
+Liolaemus tenuis Preocupación Menor Baja Si
+Liolaemus lemniscatus Preocupación Menor Baja Si
+Liolaemus pictus Preocupación Menor Baja Si
+Liolaemus chiliensis Preocupación Menor Baja Si
+Dromiciops gliroides Casi Amenazada Baja Si
+Abrothrix longipilis Preocupación Menor Baja Si
+Fuente: GAC
+Fase del Proyecto de
+ocurrencia del Construcción y Operación
+impacto
+El objetivo de la medida es asegurar la existencia de parches de vegetación nativa y
+exótica, que en su conjunto y con una distribución espacial determinada, permitan la
+Objetivo de la persistencia de las poblaciones de las especies objetivo.
+medida La medida se enfoca principalmente en las especies: Pudu puda (pudú), Leopardus guigna
+(güiña) y Puma concolor (puma). No obstante, se considera que la medida beneficiará a
+un conjunto mayor de especies al permitir la permanencia de hábitat para éstas.
+La medida consiste en la protección de una serie de polígonos aledaños y dentro del área
+de influencia del Proyecto. Esta protección se traduce en asegurar la permanencia de su
+vegetación con prohibición de tala rasa, corta o cualquier otro proceso de extracción de
+ésta, de forma permanente a partir del comienzo del Proyecto.
+Considerando la línea de base de flora y vegetación, sumada a la fotointerpretación de
+sectores aledaños, se ha determinado un conjunto de polígonos a ser sujetos de esta
+protección. Estas áreas comprenden sectores con vegetación nativa y con plantaciones
+forestales.
+Los polígonos que serán protegidos totalizan 90,66 hectáreas, y se presentan en formato
+Descripción de la digital (.kmz) en el Anexo 7.1-3, clasificados según su cobertura vegetacional de la
+medida siguiente forma:
+• Bosque nativo de preservación: 4,90 hectáreas
+• Plantación forestal: 76,92 hectáreas
+• Herbazal: 4,21 hectáreas
+• Matorral: 2,95 hectáreas
+• Matorral arborescente: 1,68 hectáreas
+Será responsabilidad del Proyecto el asegurar el cumplimiento de esta protección en la
+totalidad del área.
+La medida se sustenta en que aquellas plantaciones forestales poseedoras de
+Justificación de la
+determinadas características – como presencia de sotobosque – que son capaces de
+medida
+constituirse en hábitat de especies de fauna vertebrada, con énfasis en los mamíferos
+7-44
+================================================================================
+PAGE 51
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-05 Protección de áreas aledañas al proyecto
+nativos como Pudu puda, Leopardus guigna, entre otros (Simonetti et al 2013). Esta
+propuesta sigue la idea de diseñar políticas que promuevan prácticas amigables con la
+biodiversidad en tierras productivas (Fisher et al 2008)4, en línea con las Metas Aichi
+señaladas por la Convención sobre Diversidad Biológica el año 2010.
+El uso que diversos grupos de vertebrados terrestres hacen de plantaciones forestales ha
+sido ampliamente documentado (Simonetti et al 2013, Estades et al 2012, Acosta-Jamett
+y Simonetti 2004, Estades 1999)5, y su persistencia en este hábitat dependería, entre otros
+factores, en la composición a escala de paisaje, por ejemplo, la distancia entre parches de
+hábitat, la existencia de corredores biológicos y ausencia de elementos que limiten la
+conectividad (e.g. Acuña y Estades, 2011)6.
+De esta manera, en base a la vasta literatura disponible sobre esta temática, últimamente
+existe el entendimiento de la existencia de determinadas características clave para la
+existencia de un hábitat de buena calidad – a escala de paisaje – para las especies de
+bosque. Estas características se resumen según Arroyo-Rodríguez et al (2020)7, a grandes
+rasgos, en la mantención de ≥ 40% de cobertura de bosque, organizado en al menos un
+10% en un gran parche y el 30% restante en diversos parches dispersos y corredores,
+además estar rodeados de una matriz antropogénica amigable con la biodiversidad.
+Es este marco teórico-práctico el que da justificación a esta medida, la que busca
+aproximarse a estos estándares para diseñar un paisaje que permita la persistencia de las
+especies objetivo en el área.
+Por otro lado, la presencia de las especies de meso y macromamíferos distribuidos a lo
+largo del área de influencia del Proyecto enfatiza la necesidad de incluir este enfoque a
+nivel de paisaje por sobre uno dirigido a sitios en particular.
+Sumado a todo lo expuesto la presente medida le entrega continuidad a corredores
+biológicos presentes en el área de influencia, los que corresponden principalmente a
+quebradas de bosque nativo, parches de plantaciones forestales, cursos de agua o zonas
+de inundaciones presentes en el área.
+En el Anexo 7-1 Análisis de Bioequivalencia y Adicionalidad de las Medidas de
+Compensación, la justificación de la ganancia en biodiversidad de esta medida.
+4 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J y Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+5 Simonetti, J., Grez, A. y Estades, C. 2013. Providing habitat for native mammals through understory enhancemente in forestry
+plantations. Cons Biol 27(5):1117-1121
+Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. En: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. Editorial Universitaria, Santiago; 2012. pp.
+77–98.
+Acosta-Jamett y Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+Estades, C. 1999. Nidificación de aves en un rodal maduro de Pinus radiata. Bol Chil Ornit 6:35-38
+6 Acuña, P. y Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+7 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation. Ecology Letters
+23:1404-1420
+7-45
+================================================================================
+PAGE 52
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-05 Protección de áreas aledañas al proyecto
+Los polígonos que serán protegidos corresponden a los que se grafican en rojo en la
+siguiente Figura.
+Figura 7-17. Áreas para protección
+Lugar de
+implementación
+Fuente: GAC
+La caracterización del sitio de compensación se encuentra presente en el Anexo 7.1-3.
+Respecto a la formalización de protección de estas áreas, en caso de obtener una
+Resolución de Calificación Ambiental (RCA) favorable del EIA, el Titular inscribirá en el
+conservador de bienes raíces, la superficie de esta medida como un área de protección
+privada. La declaración de protección permanente será mediante un documento legal que
+acredite que los terrenos serán protegidos.
+Luego, se procederá a realizar la protección del hábitat, principalmente mediante
+Forma de acciones educativas y restrictivas. En este sentido, se realizarán charlas a todos los
+implementación trabajadores sobre las áreas protegidas y las precauciones que se deben adoptar para no
+alterar dicho sitio.
+Por otra parte, se instalarán al menos 15 señaléticas de manera permanente y legible,
+indicando la calidad protegida de estas áreas, preferentemente en sectores donde las
+áreas de protección colinden con caminos.
+Adicionalmente, en las áreas protegidas se consideran las siguientes restricciones:
+7-46
+================================================================================
+PAGE 53
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MC-05 Protección de áreas aledañas al proyecto
+• Prohibición de caza, captura y/o recolección de especies animales silvestres
+• Prohibición de uso de fuego
+• Prohibición de alimentar especies domésticas y silvestres
+• Prohibición de botar residuos fuera de los lugares establecidos
+• Prohibición de la circulación de vehículos y trabajadores fuera de caminos
+habilitados y establecidos.
+• Restricción en la velocidad de circulación de los vehículos y/o maquinaria.
+• Prohibiciones y restricciones tendientes a minimizar las perturbaciones de las
+especies silvestres en periodo reproductivo.
+• Educación y/o capacitación de los trabajadores en materia de fauna
+La medida, involucra la instalación de al menos 30 cámaras trampa de manera anual
+durante 3 años de monitoreo, con lo cual se obtendrá un registro de la fauna vertebrada,
+presentes en el área de Protección.
+Oportunidad de La medida se implementará a partir del comienzo de la fase de Construcción y será de
+implementación carácter permanente.
+Los indicadores de cumplimiento considerados para la medida son los siguientes:
+Tabla 7-23. Indicador de cumplimiento
+Actividad Indicador de cumplimiento
+Inscribir la medida como Al comienzo de la fase de construcción se cuenta con documento
+un área de protección que acredite la inscripción del área como una zona de protección
+privada privada con la totalidad de superficie de protección.
+La composición y cobertura de la vegetación se mantienen sin
+Indicador de Protección del hábitat
+alteraciones significativas asociadas a intervenciones antrópicas.
+cumplimiento
+Se realizará un estudio con frecuencia anual utilizando trampas
+cámaras direccionadas a registros de fauna vertebrada. Se
+Registros de Fauna
+considera la instalación de manera anual de al menos 30 cámaras
+Vertebrada
+trampa durante 3 años. Se espera que, con la protección del área,
+la presencia de fauna se mantenga en el tiempo.
+Al comienzo de la fase de construcción se instalarán al menos 15
+Instalación de señalética
+carteles distribuidos en los sectores de protección.
+Fuente: GAC
+Fuente: GAC
+7.3.4 Plan de Medidas para el Componente Fauna Invertebrada
+i. Impactos Significativos
+Considerando el análisis de evaluación de impactos realizado en el Capítulo 4 del presente EIA, la actividad
+de despeje de vegetación es la principal acción que genera impactos al componente flora y vegetación.
+A raíz de esta actividad se establecieron los siguientes impactos significativos:
+7-47
+================================================================================
+PAGE 54
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+a) IFI-01 Pérdida de ejemplares de fauna de interés y/o sensibles
+El presente impacto puede ocurrir para las tres fases del Proyecto (Construcción, Operación y Cierre).
+b) IFI-02 Pérdida y/o modificación de hábitat de especies de interés y/o sensibles
+Corresponde a la modificación significativa de las condiciones y recursos necesarios para la existencia de
+especies nativas, como consecuencia de la remoción total del suelo y su vegetación y/o cambios en los
+lugares que transitan. El concepto de hábitat suele emplearse para referirse a un sector del espacio que
+reúne ciertas condiciones que permiten la existencia de algunas especies, pero no de otras.
+ii. Definición de medidas
+Considerando lo que señala la guía para la compensación de biodiversidad en el SEIA (SEA, 2014), es
+necesario identificar una jerarquización de medidas y compensación adecuada. La jerarquización parte, en
+la medida de lo posible, propiciando la generación de medidas de mitigación que tienen por finalidad evitar
+o disminuir los efectos adversos, en segundo lugar, generar medidas de reparación que tienen por
+finalidad reponer uno o más de los componentes o elementos del medio ambiente a una calidad similar a
+la que tenían con anterioridad al impacto y, en tercer lugar, generar medidas de compensación que tienen
+por finalidad producir o generar un efecto positivo alternativo y equivalente a un efecto adverso
+identificado, que no sea posible mitigar o reparar.
+En base a la jerarquización mencionada y los impactos significativos identificados, se proponen las
+siguientes medidas:
+Tabla 7-24. Medidas propuestas para el componente fauna terrestre
+Tipo de Medida Impacto Asociado Medida Propuesta
+IFI-01. Pérdida de ejemplares de interés
+y/o sensibles
+Mitigación IFI-02. Pérdida y/o modificación de MM-04 Plan de Rescate y Relocalización de Fauna Invertebrada
+hábitat de especies de interés y/o
+sensibles
+Fuente: GAC
+La mitigación hace referencia a la acción de atenuar los impactos sobre el recurso, entregando alternativas
+para aminorar los posibles impactos producidos por las obras del Proyecto que, en algunos casos, dada la
+naturaleza de este, sobrepasan la posibilidad de prevenir.
+7-48
+================================================================================
+PAGE 55
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+7.3.4.1 Medidas de Mitigación
+i. Plan de rescate y relocalización
+Tabla 7-25. Medida de Mitigación “MM-04 Plan de Rescate y Relocalización de fauna invertebrada”
+MM-04 Plan de Rescate y Relocalización
+Nombre de la
+Plan de Rescate y Relocalización de fauna invertebrada
+medida
+Código de
+MM-04
+Medida
+Tipo de medida Mitigación
+Componente
+Fauna Invertebrada Terrestre
+ambiental
+Objeto de Especies de Fauna invertebrada con estados de conservación: Acanthogonathus pissi, Euathlus
+Protección manicata y Phrixotrichus scrofa
+Impacto
+IFA-01. Pérdida de ejemplares de fauna de interés y/o sensibles – Fauna Invertebrada
+ambiental
+Dentro del área de influencia se registró la presencia de 4 especies con estados de
+conservación, distribuidas en los distintos Puntos de Muestreo dentro del AI de Fauna.
+Figura 7-18. Ambientes para fauna de acuerdo con formación vegetacional.
+Lugar de
+ocurrencia del
+impacto
+Fuente: GAC
+7-49
+================================================================================
+PAGE 56
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-04 Plan de Rescate y Relocalización
+Fase del
+Proyecto de
+Construcción y Operación
+ocurrencia del
+impacto
+Objetivo de la El objetivo de la medida es realizar una actividad de rescate y relocalización, con la finalidad de
+medida evitar la pérdida de individuos de fauna invertebrada por causa del Proyecto.
+Las capturas serán llevadas a cabo por equipos con experiencia en el manejo de fauna
+invertebrada, siendo cada uno liderado por un profesional especialista en la materia. Las
+actividades serán ejecutadas tras la obtención del permiso de captura otorgado por la
+autoridad competente (Resolución Exenta) y en conformidad a los requerimientos establecidos
+por ésta.
+Sin embargo, las actividades de captura estarán planificadas según la tasa de avance de las
+obras, con el objetivo de que se cumplan 5 días como máximo entre el término del rescate y el
+inicio de la fase de construcción, para evitar la recolonización del área. Por lo tanto, el número
+de especialistas y esfuerzo dependerá de la superficie de las obras a liberar.
+Para el ejercicio de las capturas, el personal de terreno (especialistas fauna silvestre) deberá
+contar con experiencia y/o estar capacitado para el manejo de las especies objetivo, incluyendo
+el manejo de conceptos básicos de bioseguridad y del plan de contingencia en caso de
+Descripción de
+observarse animales heridos, moribundos o muertos.
+la Medida
+Las actividades de captura deberán ser realizadas en épocas en que las temperaturas permitan
+condiciones favorables para la reubicación de individuos. Esto es durante la estación de
+primavera y/o de verano, y en los días y horarios en que las características climáticas así lo
+permitan, ajustándose el cronograma de inicio de la construcción a lo señalado.
+Específicamente para las capturas realizadas en arácnidos, éstas deben de realizarse posterior
+a la temporada de verano (marzo-abril) de manera de no intervenir su proceso de ecdisis ni su
+periodo de eclosión de ootecas. Se deberá considerar diferencias horarias para hembras y
+machos; durante el día para hembras y durante la noche para machos.
+Para dejar registro de lo anterior, se implementarán fichas diarias asociadas a la aplicación de
+las capturas, que indiquen el área, profesionales a cargo, fecha, temperatura y condiciones del
+viento y nubosidad, esfuerzos aplicados y/o tasa de avance, y así como el horario de captura y
+relocalización de los individuos.
+Justificación de La medida se justifica en su capacidad para reducir la perdida de individuos pertenecientes a
+la medida las especies objetivo (PASM 146 para fauna invertebrada).
+Áreas de rescate y/o captura:
+Las áreas consideradas como superficies de rescate comprenden aproximadamente un total
+de 275,42 hectáreas, las que incluyen obras y partes del Proyecto en su mayoría de tipo areal,
+Lugar de tanto de características temporales como permanentes.
+implementació
+n Área de relocalización:
+El área de relocalización será determinada dentro del Parque Nacional Nonguén y contará
+con las siguientes características:
+• Superficie del área de relocalización mayor o igual a la superficie del área de captura.
+7-50
+================================================================================
+PAGE 57
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-04 Plan de Rescate y Relocalización
+• El área de relocalización tendrá características de hábitat similar al área de captura
+(esto es en parte las características vegetacionales, altitud, microhábitat, refugios,
+disponibilidad de alimento, entre otras).
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• El área de relocalización no será intervenida por el Proyecto, garantizando su
+protección en el mediano a largo plazo.
+Figura 7-19. Área de Rescate (arriba)y Relocalización (abajo) de fauna de baja movilidad en
+Parque Nacional Nonguén.
+Fuente: GAC
+Forma de Las capturas serán llevadas a cabo por equipos con experiencia en el manejo de fauna
+implementació invertebrada, siendo cada uno liderado por un profesional especialista en la materia. Las
+n actividades serán ejecutadas tras la obtención del permiso de captura otorgado por la
+7-51
+================================================================================
+PAGE 58
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-04 Plan de Rescate y Relocalización
+autoridad competente (Resolución Exenta) y en conformidad a los requerimientos establecidos
+por ésta.
+Sin embargo, las actividades de captura estarán planificadas según la tasa de avance de las
+obras, con el objetivo de que se cumplan 5 días como máximo entre el término del rescate y el
+inicio de la etapa de construcción, para evitar la recolonización del área. Por lo tanto, el número
+de especialistas y esfuerzo dependerá de la superficie de las obras a liberar.
+Captura
+Para el ejercicio de las capturas, el personal de terreno (especialistas fauna silvestre) deberá
+contar con experiencia y/o estar capacitado para el manejo de las especies objetivo, incluyendo
+el manejo de conceptos básicos de bioseguridad y del plan de contingencia en caso de
+observarse animales heridos, moribundos o muertos.
+Las actividades de captura deberán ser realizadas en épocas en que las temperaturas permitan
+condiciones favorables para la reubicación de individuos. Esto es durante la estación de
+primavera y/o de verano, y en los días y horarios en que las características climáticas así lo
+permitan, ajustándose el cronograma de inicio de la construcción a lo señalado.
+Específicamente para las capturas realizadas en arácnidos, éstas deben de realizarse posterior
+a la temporada de verano (marzo-abril) de manera de no intervenir su proceso de ecdisis ni su
+periodo de eclosión de ootecas. Se deberá considerar diferencias horarias para hembras y
+machos; durante el día para hembras y durante la noche para machos.
+Para dejar registro de lo anterior, se implementarán fichas diarias asociadas a la aplicación de
+las capturas, que indiquen el área, profesionales a cargo, fecha, temperatura y condiciones del
+viento y nubosidad, esfuerzos aplicados y/o tasa de avance, y así como el horario de captura y
+relocalización de los individuos.
+A continuación, se indican las consideraciones asociadas a la captura de fauna invertebrada:
+La caracterización de invertebrados se realizará bajo dos métodos principalmente, una colecta
+activa y una colecta pasiva, repartidas en cada uno de los sitios prospectados. En cada PME la
+superficie se recorrerá de manera pedestre con ayuda de un odómetro y se realizará una
+colecta activa bajo distintas rocas y trozos de troncos disponibles en el área del proyecto, para
+el caso de los arbustos y árboles que se prospecten se utilizará un paragua entomológico, cuya
+función principalmente consiste en el golpeteo de ramas y estructuras leñosas disponibles,
+generando la caída y colecta posterior con aspirador entomológico de las diferentes especies
+que se puedan observar en la manta de tela blanca que conforma el paragua entomológico
+utilizado, cuya superficie fue de un metro cuadrado. Para la colecta pasiva se utilizarán trampas
+Barber y pitfall, donde se instaló siguiendo las recomendaciones para evitar los errores típicos
+que pueden afectar los datos obtenidos con la auto-correlación entre las muestras según
+Lafranco et al (2010). Para ello las trampas de caída (Trampa pitfall y barber) se colocarán cada
+40 metros a lo largo del transecto, las trampas de caída o pitfall serán conformadas por un vaso
+7-52
+================================================================================
+PAGE 59
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-04 Plan de Rescate y Relocalización
+de plástico de 360 ml enterrado a superficie y las trampas Barber de igual forma fueron
+dispuestas como las trampas pitfall, donde se llenará un tercio de su capacidad con cebo líquido
+aromático en base a vinagre de manzana y uva roja las que serán instaladas aleatoriamente en
+cada PME.
+Transporte
+Para el traslado de los ejemplares desde las áreas de captura hacia los sitios de liberación o
+relocalización, los individuos serán transportados en contenedores. Para su traslado en
+vehículo, se asegurará que los contenedores queden fijos y que la velocidad de desplazamiento
+no sea superior a los 20 km/hr en el caso de existir caminos no pavimentados y/o con eventos.
+Marcaje y liberación
+El grupo arácnido se deberá marcar, para lograr el correcto seguimiento. Para lo anterior, se
+requerirá de rotulador fluorescente no tóxico. El procedimiento de manipulación y marcaje
+deberá ser detallado en el permiso de captura, considerando todos los factores ambientales al
+momento de realizar la actividad y ubicación como la posición del marcaje para su correcta
+función en monitoreos posteriores.
+Monitoreo
+Una vez se obtenga el permiso de captura, y para dar cumplimiento a la Resolución Exenta que
+permita ésta, de forma previa al comienzo de la actividad, se dará aviso del inicio de las
+capturas al SAG regional, con 5 o 10 días hábiles de anticipación o según se estipule en el
+permiso que otorgue la Resolución Exenta.
+Luego de aplicada la medida, se realizarán un primer monitoreo en el área de captura al día
+siguiente o 2 días posteriores al rescate (monitoreo inmediato) enfocado a verificar que no
+queden individuos por rescatar, este durará cuatro jornadas y eventualmente más si es
+necesario. Las actividades asociadas al proceso de construcción podrán iniciarse una vez
+concluido el primer monitoreo del área de captura en un plazo máximo de 5 días.
+El monitoreo siguiente, correspondiente a la segunda campaña, se realizará a los 14 días
+posterior al rescate en el área de relocalización, enfocado en determinar la permanecía
+temprana de los individuos relocalizados, ya que el marcaje con pintura debería resistir dicho
+periodo de tiempo. El tercer, cuarto y quinto monitoreo se efectuará a los 90, 180 y 360 días
+posterior al rescate, siendo el objetivo de dichos monitoreos poder evaluar el comportamiento
+de la población receptora una vez adicionado nuevos individuos. La duración de los monitoreos
+tendrá una duración de tres días. Los monitoreos abarcan un año completo para poder incluir
+un ciclo reproductivo de las especies objetivo.
+Oportunidad de
+La medida se implementará a partir del comienzo de la fase de Construcción y será de carácter
+implementació
+permanente.
+n
+Indicador de Se dará aviso a la Superintendencia del Medio Ambiente previo a la realización de cada
+cumplimiento actividad de rescate y relocalización, y se entregará un informe posterior a la realización de
+7-53
+================================================================================
+PAGE 60
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-04 Plan de Rescate y Relocalización
+cada actividad. Se entiende por cada actividad al rescate y relocalización que se realizará
+conforme a cronograma de fases de construcción y de operación, según lo cual las áreas de
+rescate se relacionan con las siguientes obras del Proyecto y años dentro de cada fase.
+Se establece como indicador de cumplimiento la verificación de la sobrevivencia del 50% de
+los individuos relocalizados al día 15 posterior a la relocalización. En caso de que no se cumpla
+la sobrevivencia señalada, se ejecutarán nuevas campañas de rescate hasta alcanzar el
+porcentaje de éxito de la medida.
+Además, se deberá evaluar el rendimiento de la medida a corto, mediano y largo plazo acorde
+a lo presentado en Anexo 10-8.2 PAS 146.
+El procedimiento de captura y relocalización será documentado mediante un informe a ser
+presentado a la autoridad ambiental, en el plazo que estipule la resolución de autorización del
+SAG.
+Se llevará un registro en fichas de las actividades diarias asociadas a la medida de rescate y
+relocalización, en el que se dé cuenta de la superficie de aplicación de la medida y del indicador
+de cumplimiento.
+Previo a las actividades se deberá recorrer el área de captura (rescate) con la finalidad de
+obtener datos basales de densidad de animales (especies objetivo de la medida) de manera
+previa al plan de rescate y relocalización, los cuales deberán ser contrarrestados con el
+Medio de PASM146 en virtud de identificarse variaciones poblacionales con el paso del tiempo entre la
+verificación elaboración del PASM y la implementación de la medida.
+Posterior a la medida, en el área de captura se permitirá un 0% de abundancia de la especie
+objetivo, es decir si durante el primer monitoreo se identifican más individuos de la especie
+objetivo estos deberán ser rescatados.
+Fuente: GAC
+7.3.5 Plan de Medidas para el Componente Suelo
+i. Impactos Significativos
+Considerando el análisis de evaluación de impactos realizado en el Capítulo 4 del presente EIA, las
+actividades de despeje de vegetación, escarpe y nivelación son las principales acciones que generan
+impactos al componente suelo. A raíz de esta actividad se establecieron los siguientes impactos
+significativos:
+c) ISU-01 Pérdida del recurso natural suelo
+Corresponde a la pérdida irreversible de una superficie de suelo generada por el emplazamiento u
+ocupación permanente en área rural, como consecuencia de la construcción y operación de las obras del
+proyecto. Este impacto se debe a que las obras del Proyecto requieren intervención de suelo para su
+habilitación.
+7-54
+================================================================================
+PAGE 61
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+ii. Definición de medidas
+En base a los impactos significativos identificados, se proponen las siguientes medidas:
+Tabla 7-26. Medidas propuestas para el componente suelo
+Tipo de Medida Impacto Asociado Medida Propuesta
+MR-02. Rescate, acopio y reutilización de suelo en las
+ISU-01 Pérdida del recurso natural áreas intervenidas
+Reparación
+suelo MR-03. Mejoramiento de propiedades de suelo en las
+áreas intervenidas
+Fuente: GAC
+7.3.5.1 Medidas de Reparación
+i. Rescate, acopio y reutilización de suelo en las áreas intervenidas
+Tabla 7-27. MR-02 Rescate, acopio y reutilización de suelo en las áreas intervenidas.
+MR-02. Rescate, acopio y reutilización de suelo en las áreas intervenidas
+Nombre de la
+Rescate, acopio y reutilización de suelo en las áreas intervenidas
+medida
+Código de la
+MR-02
+medida
+Tipo de medida Reparación
+Componente
+Suelo
+ambiental
+Objeto de
+Superficie de suelo CCUS IV, VI y VIII
+protección
+Impacto ambiental ISU-01. Pérdida del recurso natural suelo
+Sector del proyecto
+Instalaciones de faena, planta de procesamiento, zonas de extracción Victoria norte, Zona
+asociado al
+de Extracción Maite, Zona Extracción Luna y zona de disposición Neptuno.
+impacto
+Fase del Proyecto
+de ocurrencia del Construcción y operación.
+impacto
+Rescatar la capa superficial de suelo desde las áreas intervenidas, acopiarla por un período
+temporal para posteriormente reutilizarla en la superficie de las áreas ya intervenidas, para
+Objetivo
+reestablecer sus propiedades básicas y de esta forma promover el crecimiento de
+vegetación.
+Previo a la intervención del suelo, asociada a la habilitación y desarrollo de las ZE, ZD,
+instalación de faenas y Planta de Procesamiento, se extraerá la capa superficial de suelo
+mediante escarpe, considerando el rescate de un espesor aproximado de 30 cm de
+Descripción
+profundidad. La capa de suelo irá temporalmente a una zona de acopio (ZA) hasta su
+reutilización en la superficie de las áreas que van siendo cerradas, específicamente en el
+ancho de berma de bancos de explotación de la ZE y en las plataformas y taludes de escasa
+7-55
+================================================================================
+PAGE 62
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-02. Rescate, acopio y reutilización de suelo en las áreas intervenidas
+inclinación de las ZD. Estas actividades se realizarán de manera continua, conforme al
+avance del desarrollo del Proyecto, tanto en fase de construcción como de operación.
+Cabe señalar que, en el caso de las ZE, se rescatará y acopiará el suelo de los primeros
+bancos de explotación, posteriormente con el avance en los siguientes bancos de
+explotación, se realizará el rescate de la capa de suelo superficial de los nuevos bancos que
+entran en explotación, reutilizando dicha capa inmediatamente en los bancos ya
+explotados, es decir, este suelo no será llevado a la zona de acopio vegetal (ZAV).
+En el acopio temporal se establecerán pilas de suelo, lo cuales deberán ser cubiertas con
+biomallas para protección de las lluvias y erosión. Adicionalmente, en cada ZA se habilitarán
+obras hidráulicas a fin de permitir captar las escorrentías generadas y restituirlas a las
+cuencas y/o quebradas más cercanas, dichas obras corresponderán a canales evacuadores
+y de contorno, obras de descarga, empalmes y pequeñas depresiones de terreno, en que
+se contempla la impulsión mediante bombas para restituir recurso hídrico a los canales
+transportadores (contorno). El detalle de dichas obras hidráulicas se presenta en el Anexo
+10-11 PAS 157 del presente EIA.
+Esta medida permitirá resguardar el suelo vegetal del área del proyecto el cual será
+reutilizado para promover el crecimiento de vegetación en las áreas intervenidas, dando
+Justificación
+continuidad del hábitat de la flora y la fauna de áreas circundantes a las intervenidas y
+también ofrecerá protección respecto de procesos erosivos.
+Rescate y reutilización de suelo: El rescate de suelo mediante escarpe de una capa de 30
+cm, se realizará en la totalidad de las áreas señaladas (Planta de procesamiento, en las 3
+Lugar de ZE y una ZD), a medida que se avance en su desarrollo. Las coordenadas geográficas de
+implementación ubicación se identifican en el capítulo 1.8.2 “Representación cartográfica en DATUM WGS
+84 (Art. 18º c.3.2.)”. En las figuras siguientes, se presenta su ubicación espacial dentro del
+área de estudio.
+7-56
+================================================================================
+PAGE 63
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 7-20. Zonas de extracción del proyecto (verde)
+Fuente: GAC
+Figura 7-21. Zona de disposición del proyecto (gris)
+Fuente: GAC
+Acopio temporal de suelo: En cuanto al acopio temporal de suelo hasta su uso al momento
+del cierre, este se realizará en distintos momentos, conforme al avance de las obras. Las
+7-57
+================================================================================
+PAGE 64
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-02. Rescate, acopio y reutilización de suelo en las áreas intervenidas
+coordenadas geográficas de ubicación se identifican en el capítulo 1.8.2 “Representación
+cartográfica en DATUM WGS 84 (Art. 18º c.3.2.)”. En las figuras siguientes se presenta su
+ubicación espacial dentro del área de estudio.
+Figura 7-22. Zona de acopio suelo vegetal (amarillo)
+Fuente: GAC
+• Rescate de suelo: El escarpe de los primeros 30 cm de suelo se realizará mediante
+maquinaria, de manera previa a la extracción de estéril/mineral desde las ZE, a la
+disposición de material en las ZD y a los movimientos de tierras para la Planta de
+Procesamiento. Esto se hará de manera paulatina y continua, conforme al avance de
+las obras en cada una de las distintas áreas y conforme al cronograma de construcción
+y operación.
+• Acopio de suelo: El suelo escarpado irá a 1 zona de acopio mediante camiones y
+posteriormente será llevado hacia las áreas cerradas para su reutilización en superficie.
+Forma de
+Esto se hará de manera paulatina y continua conforme el avance de las obras. La
+implementación
+capacidad de la zona de acopio de suelo vegetal es de 491.000 m3.
+• Reutilización: A medida que progresivamente vayan cerrando los bancos ya
+explotados en las ZE previamente definidas, así como sectores ya rellenados en las
+ZD, se llevará, en camiones, el suelo acopiado hacia estos bancos y sectores donde
+será extendido sobre el terreno. Al final de esta etapa, y para dar estabilidad al suelo,
+se realizará una compactación con rodillo compactador sobre las superficies que han
+sido cubiertas con la capa de suelo rescatado. Inmediatamente se ejecutará la medida
+MR-02 “Mejoramiento y cobertura de suelo en las áreas intervenidas”.
+7-58
+================================================================================
+PAGE 65
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-02. Rescate, acopio y reutilización de suelo en las áreas intervenidas
+La medida será implementada durante la fase de construcción y durante los 6 años de la
+fase de operación, es decir, el rescate de suelo mediante escarpe de la capa de suelo
+superficial, su acopio en la zona de acopio de suelo vegetal, y su reutilización al momento
+Oportunidad de
+del cierre de bancos de explotación de ZE y cierre de áreas ya rellenadas en las ZD,
+implementación
+corresponden a actividades que se realizarán de manera continua conforme al avance de
+las obras. La reutilización de suelo se realizará una vez al momento del cierre de cada área.
+Registros de suelo acopiado (Toneladas o metros cúbicos)
+Indicador de
+Registros de suelos reutilizado (Toneladas o metros cúbicos)
+cumplimiento
+Fuente: GAC
+ii. Mejoramiento de propiedades de suelo en las áreas intervenidas
+Tabla 7-28. MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas.
+MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas
+Nombre de la Medida Mejoramiento de propiedades de suelo en las áreas intervenidas
+Código de la Medida MR-03
+Tipo de medida Reparación
+Componente ambiental Suelo.
+Objeto de protección Superficie de suelo CCUS IV, VI y VIII
+Impacto ambiental ISU-01 Pérdida del recurso natural suelo.
+Sector del Proyecto asociado Instalaciones de faena, planta de procesamiento, zonas de extracción Victoria
+al impacto norte, Zona de Extracción Maite y zona de disposición Neptuno.
+Fase del Proyecto Construcción y Operación
+Mejorar las propiedades físicas, químicas y biológicas del suelo que será
+Objetivo reutilizado en la superficie de las áreas intervenidas, de manera de promover el
+crecimiento de vegetación.
+De manera posterior a la realización de la actividad de reutilización de suelo en
+las áreas intervenidas (MR-01), se realizará un mejoramiento de las propiedades
+Descripción del suelo por medio de la aplicación de compost orgánico (Clase A bajo Norma
+Chilena 2880/2015) y siembra de herbáceas gramíneas Lolium perenne y Festuca
+arundinacea para cubrir y proteger el suelo de la erosión.
+Esta medida promoverá el crecimiento de vegetación en las áreas intervenidas y
+Justificación protegerá el suelo de la erosión, dando así continuidad de hábitat para la
+vegetación y fauna con las áreas circundantes al proyecto, como también
+7-59
+================================================================================
+PAGE 66
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas
+contribuirá a mejorar las condiciones del suelo para recibir las medidas de
+forestación de bosque nativo y enriquecimiento vegetal.
+Aplicación de compost a suelo dispuesto en áreas ya cerradas:
+El mejoramiento de propiedades de suelo mediante aplicación de compost se
+realizará sobre el suelo que será reutilizado en la superficie de las áreas ya
+intervenidas y cerradas, lo cual está relacionado con la medida MR-01. Esta
+actividad se hará de manera paulatina, a medida que se vaya disponiendo el suelo
+sobre las superficies intervenidas ya cerradas en las ZE Victoria Norte, ZE Maite y
+ZD Neptuno. La dosis por aplicar es de 20 toneladas por ha. Las coordenadas
+geográficas de ubicación se identifican en el capítulo 1.8.2 “Representación
+cartográfica en DATUM WGS 84 (Art. 18º c.3.2.)” de la Descripción de Proyecto.
+En las figuras siguientes se presenta su ubicación espacial dentro del área de
+estudio.
+Figura 7-23. Zonas de extracción del proyecto
+Lugar de implementación
+Fuente: GAC
+7-60
+================================================================================
+PAGE 67
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas
+Figura 7-24. Zona de disposición del proyecto
+Fuente: GAC
+Revegetación con siembra de especies herbáceas.
+Después de 2 semanas de aplicado el compost se realizará una siembra de
+herbáceas Lolium perenne y Festuca arundinacea la cual permitirá cubrir el suelo
+en 3 a 4 semanas. Se utilizará una dosis de 80 kg/ha.
+Cabe señalar que ZE Luna no formará parte de esta medida, debido a que es una
+superficie que posterior a la etapa de extracción de mineral (años 2028-2029),
+pasará a formar parte de la celda 4 del proyecto "Continuidad Operacional Centro
+de Manejo de Residuos Concepción", de la empresa Cemarc, cuya Resolución de
+Calificación Ambiental fue aprobada el año 2023. La construcción de la Celda N° 4
+está proyectada para el año 2030. Para más información Ver acápite 1.11.2.5.i.
+“Avance Cronológico de las ZE” del Capítulo 1 Descripción de Proyecto.
+La aplicación del compost y las semillas de gramíneas se realizará mediante
+Forma de implementación maquinaria agrícola que permita incorporar el compost en los primeros
+centímetros del suelo y un equipo sembrador.
+La medida será implementada conforme al cronograma de construcción y
+operación del Proyecto, y al avance de la medida MR-01. La aplicación de
+Oportunidad de
+compost se realizará una única vez, de manera posterior a la reutilización de suelo
+implementación
+en las áreas intervenidas, previo a la revegetación de estas áreas.
+Registros de suelo acopiado (Toneladas o metros cúbicos)
+Indicador de cumplimiento
+Registros de suelos reutilizado (Toneladas o metros cúbicos)
+7-61
+================================================================================
+PAGE 68
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MR-03. Mejoramiento de propiedades de suelo en las áreas intervenidas
+Registros de compra de compost
+Registro de resultados de laboratorio (MO en muestras de suelo)
+Fuente: GAC
+7.3.6 Plan de Medidas para el Componente Medio Humano
+En consideración Al análisis de efectos presentada en el Capítulo 04 Predicción y Evaluación de Impactos,
+la principal afectación al medio humano se relaciona con la instalación de dos (2) puntos de control de
+acceso, instalación de señalética y rondas de vigilancia; restringiendo la libre circulación de grupos
+humanos indígenas y no indígenas para el desarrollo de actividades tradicionales, culturales, recreativas,
+deportivas y educativas.
+i. Impactos Significativos
+De esta forma, para el Medio Humano se establecieron los siguientes impactos significativos:
+a) IMH-01 Afectación al desarrollo de prácticas culturales y tradicionales de organizaciones indígenas
+a lo largo del camino forestal adyacente a estero Penco por restricción de acceso mediante
+instalación de puntos de control de acceso, señalética informativa y rondas de vigilancia.
+El presente impacto puede ocurrir para las tres fases del Proyecto (Construcción, Operación y Cierre).
+b) IMH-03 Restricción de acceso a recursos naturales (hierbas medicinales) utilizadas por los GHPPI
+con fines medicinales y culturales dificultando la manifestación de actividades culturales e
+intereses colectivos, por la instalación de puntos de control de acceso, señalética informativa y
+rondas de vigilancia.
+El presente impacto puede ocurrir para las tres fases del Proyecto (Construcción, Operación y Cierre).
+De acuerdo con los antecedentes presentados en la Línea Base de Medio Humano y Anexo de
+Caracterización Antropológica, algunos habitantes locales vinculados a los Grupos Humanos
+Pertenecientes a Pueblos Indígenas (GHPPI) identificados, accederían a los sectores del borde del estero
+Penco con el fin de recolectar hierbas medicinales. Al respecto, se han identificado en la ciudad de Penco
+dos (2) organizaciones Mapuches urbanas que ejercen prácticas culturales en las cercanías del Proyecto;
+específicamente, las denominadas “Lawen Mawida” y “Koñintu Lafken Mapu Penco”.
+7-62
+================================================================================
+PAGE 69
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+ii. Definición de medidas
+En base a los impactos significativos identificados, se proponen las siguientes medidas:
+Tabla 7-29. Medidas propuestas para el componente Medio Humano
+Tipo de Medida Impacto Asociado Medida Propuesta
+IMH-01 Afectación al desarrollo de prácticas
+culturales y tradicionales de organizaciones MM-05 Protocolo de acceso controlado
+indígenas a lo largo del camino forestal adyacente para GHPPI
+a estero Penco por restricción de acceso mediante
+instalación de puntos de control de acceso, MM-06 Plan de información y
+señalética informativa y rondas de vigilancia. comunicación con GHPPI
+Mitigación IMH-03 Restricción de acceso a recursos naturales
+(hierbas medicinales) utilizadas por los GHPPI con
+fines medicinales y culturales dificultando la MM-07 Plan de apoyo al
+manifestación de actividades culturales e intereses fortalecimiento de prácticas culturales
+colectivos, por la instalación de puntos de control de los GHPPI
+de acceso, señalética informativa y rondas de
+vigilancia.
+Fuente: GAC
+7.3.6.1 Medidas de Mitigación
+i. Protocolo de acceso controlado para GHPPI
+Tabla 7-30. Protocolo de acceso controlado para GHPPI
+MM-05 Protocolo de acceso controlado para GHPPI
+Nombre de la
+Protocolo de acceso controlado para GHPPI
+medida
+Código de
+MM-05
+Medida
+Tipo de medida Mitigación
+Componente
+Medio Humano
+ambiental
+GHPPI identificados en el Anexo de Caracterización Antropológica y la Línea de Base de Medio
+Objeto de
+Humano como usuarios del área de acceso controlado; a saber: Asociación Indígena Koñintu
+Protección
+Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen Mawida.
+IMH-01 Afectación al desarrollo de prácticas culturales y tradicionales de organizaciones
+Impacto indígenas a lo largo del camino forestal adyacente a estero Penco por restricción de acceso
+ambiental mediante instalación de puntos de control de acceso, señalética informativa y rondas de
+vigilancia.
+Se prevé la habilitación de dos (2) puntos de control del acceso en el camino forestal
+Lugar de
+adyacente al Estero Penco, utilizado por los GHPPI para acceder a zonas de recolección de
+ocurrencia del
+hierbas medicinales y a otras áreas para el desarrollo de prácticas culturales.
+impacto
+Los puntos de control de acceso a habilitar se presentan a continuación.
+7-63
+================================================================================
+PAGE 70
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-05 Protocolo de acceso controlado para GHPPI
+Figura 7-25. Puntos de control de acceso próximos a ZE Victoria Norte
+Fuente: GAC
+Los integrantes de la Asociación Lawen Mawida recorren un camino forestal privado existente
+y colindante al estero Penco hasta el km 1,2, en donde realizan talleres de identificación y
+recolección de plantas nativas y medicinales, lugar que se encuentra a aproximadamente 600
+metros de la obra más próxima (zona de extracción Victoria Norte). Por su parte, los miembros
+de la Asociación Indígena Koñintu Lafken Mapu Penco también hace uso del mismo camino,
+realizando ceremonias ligadas con la recolección de hierbas en los sectores de El Tranque,
+ubicado a 1.200 metros aproximados de la obra más próxima (zona de extracción) y Los
+Queules, situado al norte de zona de extracción Victoria Norte (la obra más cercana); así como
+también recolección de hierbas medicinales a lo largo del mencionado camino,
+principalmente durante la temporada primavera - verano y de materias primas para la
+elaboración de cestería mapuche.
+7-64
+================================================================================
+PAGE 71
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-05 Protocolo de acceso controlado para GHPPI
+Figura 7-26. Ubicación sectores El Tranque, Los Queules y estero Penco y sitios de recolección de
+hierbas
+Fuente: GAC
+Fase del
+Proyecto de
+Construcción, Operación, Cierre.
+ocurrencia del
+impacto
+Coordinar un acceso controlado a los sitios de recolección de hierbas medicinales y áreas de
+desarrollo de actividades culturales para los GHPPI que realizan dichas actividades, y que
+fueron identificados en el Informe Antropológico y la Línea de Base de Medio Humano, a
+Objetivo de la
+través de un protocolo de acceso que permita la ejecución de las actividades del Proyecto de
+medida
+manera segura, evitando riesgos eventuales sobre los GHPPI que han hecho uso histórico de
+estas áreas, de modo que puedan continuar realizando sus prácticas culturales en forma
+compatible con los estándares de seguridad con que contará el Proyecto.
+Establecer un protocolo que permita, durante la ejecución, en todas sus fases, del Proyecto
+de Extracción de Arcillas para la Producción de Tierras Raras, el ingreso a las zonas de
+recolección de hierbas medicinales y otras áreas para el desarrollo de actividades culturales
+por parte de los integrantes de los GHPPI identificadas en la Línea de Base del Medio Humano
+Descripción de la
+en el área de acceso controlado, limitados parcialmente por los dos puntos de control de
+medida
+acceso señalados.
+El protocolo, en su diseño, considera los siguientes elementos:
+7-65
+================================================================================
+PAGE 72
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-05 Protocolo de acceso controlado para GHPPI
+- Formulario de Ingreso: La comunidad indígena interesada e identificada como usuaria del
+área protocolizada en el EIA, deberá completar un formulario de ingreso por escrito a la
+Compañía, indicando fecha de ingreso, sectores a utilizar, personas y vehículos que ingresarán
+y fecha de salida. Este proceso se realizará de la forma más expedita que la comunidad desee
+aplicar, considerándose la Casa Abierta Aclara o vía telefónica o email o carta antes del
+ingreso.
+- Validación: El Titular tendrá un plazo de 5 días hábiles para generar la validación
+correspondiente, debiendo informar al solicitante de la resolución por escrito y también vía
+telefónica y/o presencial, con el fin de asegurar que la comunicación sea oportuna. Esta tarea
+queda a cargo de los profesionales del Titular desplegados en la comuna.
+- Ingreso y salida: Una vez obtenida la validación, la comunidad podrá hacer ingreso al área
+de acceso controlado, siendo responsable del cumplimiento de lo declarado en el formulario
+de ingreso, inclusive horario de salida.
+La medida considera a la totalidad de los integrantes de cada Asociación al momento de elevar
+cada formulario al Titular. De igual forma, esta medida puede ser extensiva a nuevos usuarios
+que acrediten que hacen uso del área de protocolo para realizar labores de recolección de
+hierbas.
+En el EIA se reconoce que el área de acceso controlado podría ser utilizada por las
+Justificación de Asociaciones indígena y cultural mapuche individualizadas, por lo que la medida se orienta a
+la medida facilitar el acceso de forma segura y controlada para el desarrollo de la práctica objeto de
+protección.
+Casa Abierta Aclara, Penco; vía telefónica o correo electrónico; carta.
+- Formulario de Ingreso: la Asociación interesada e identificada en Anexo de Caracterización
+Lugar de
+Antropológica y la Línea de Base de Medio Humano como usuaria del área de acceso
+implementación
+controlado, deberá completar un formulario de ingreso por escrito al Titular, en la Casa
+Abierta Aclara en Penco u otra oficina del Titular en la comuna o vía telefónica o correo
+electrónico o carta antes del ingreso.
+- Formulario de Ingreso: La Asociación interesada e identificada en Anexo de Caracterización
+Antropológica y la Línea de Base de Medio Humano como usuaria del área de acceso
+controlado, deberá completar un formulario de ingreso por escrito al Titular, indicando fecha
+y horario de ingreso, sectores a utilizar, personas y vehículos que ingresarán y fecha y horario
+de salida. Este proceso, se realizará en la Casa Abierta Aclara en Penco o vía telefónica o correo
+Forma de electrónico o carta antes del ingreso.
+implementación
+- Validación: El Titular tendrá un plazo de 5 días hábiles para generar la validación
+correspondiente, debiendo informar al solicitante de la resolución por escrito y también vía
+telefónica y/o presencial, con el fin de asegurar que la comunicación sea oportuna. Esta tarea
+queda a cargo de los profesionales del Titular desplegados en la comuna.
+7-66
+================================================================================
+PAGE 73
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-05 Protocolo de acceso controlado para GHPPI
+- Ingreso y salida: Una vez obtenida la validación, la Asociación podrá hacer ingreso al área de
+acceso controlado, siendo responsable del cumplimiento de lo declarado en el formulario de
+ingreso, inclusive horario de salida.
+El Titular contará con un periodo de 90 días corridos previo a la ejecución del hito de inicio,
+para informar a las asociaciones indígenas usuarias del área de acceso controlado
+identificadas en el EIA, del nuevo protocolo y su implementación a través de una Carta
+informativa con el detalle del protocolo dirigida al presidente(a) y secretario(a) de cada
+asociación indígena individualizada.
+Oportunidad de Toda vez que los GHPPI identificados en el Anexo de Caracterización Antropológica y Línea
+implementación Base de Medio Humano como usuarios del área de acceso controlado lo requieran.
+- Protocolo para acceso a áreas de Recolección de Hierbas Medicinales y otros sitios utilizados
+con fines culturales.
+Indicador de - Entrega de carta informativa del Protocolo a ambas Asociaciones identificadas como usuarias
+cumplimiento del área de acceso controlado en el EIA.
+- Registro de acreditaciones autorizadas por el Titular que cumplen con los requisitos básicos
+de postulación.
+Forma de
+Informe anual a la SMA del uso del Protocolo para acceso a áreas de Recolección de Hierbas
+control y
+Medicinales por parte de los GHPPI identificados en el EIA.
+seguimiento
+ii. Plan de información y comunicación con GHPPI
+Tabla 7-31. MM-06 Plan de información y comunicación con GHPPI
+MM-06 Plan de información y comunicación con GHPPI
+Nombre de la
+Plan de información y comunicación con GHPPI
+medida
+Código de Medida MM-06
+Tipo de medida Mitigación
+Componente
+Medio Humano
+ambiental
+GHPPI identificados en el Anexo de Caracterización Antropológica y la Línea de Base de
+Objeto de
+Medio Humano como usuaria del área de acceso controlado; a saber: Asociación Indígena
+Protección
+Koñintu Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen Mawida.
+IMH-01 Afectación al desarrollo de prácticas culturales y tradicionales de organizaciones
+Impacto indígenas a lo largo del camino forestal adyacente a estero Penco por restricción de acceso
+ambiental mediante instalación de puntos de control de acceso, señalética informativa y rondas de
+vigilancia.
+Se prevé la habilitación de dos puntos de control de acceso en el camino forestal adyacente
+Lugar de al Estero Penco, utilizado por los GHPPI para acceder a zonas de recolección de hierbas
+ocurrencia del medicinales y a otras áreas para el desarrollo de prácticas culturales.
+impacto Los puntos de control de acceso a habilitar se presentan a continuación.
+7-67
+================================================================================
+PAGE 74
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 7-27. Puntos de control de acceso próximos a ZE Victoria Norte
+Fuente: GAC
+Los integrantes de la Asociación Lawen Mawida recorren un camino forestal privado
+existente y colindante al estero Penco hasta el km 1,2, en donde realizan talleres de
+identificación y recolección de plantas nativas y medicinales, lugar que se encuentra a
+aproximadamente 600 metros de la obra más próxima (zona de extracción Victoria Norte).
+Por su parte, los miembros de la Asociación Indígena Koñintu Lafken Mapu Penco también
+hace uso del mismo camino, realizando ceremonias ligadas con la recolección de hierbas en
+los sectores de El Tranque, ubicado a 1.200 metros aproximados de la obra más próxima
+(zona de extracción) y Los Queules, situado a 200 metros aproximados al norte de la obra
+más cercana (zona de extracción Victoria Norte); así como también recolección de hierbas
+medicinales a lo largo del mencionado camino, principalmente durante la temporada
+primavera - verano y de materias primas para la elaboración de cestería mapuche.
+7-68
+================================================================================
+PAGE 75
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-06 Plan de información y comunicación con GHPPI
+Figura 7-28. Ubicación sectores El Tranque, Los Queules y estero Penco
+Fuente: GAC
+Fase del Proyecto
+de ocurrencia del Construcción, Operación, Cierre
+impacto
+Informar a la comunidad de manera oportuna respecto de las restricciones de acceso,
+promover la comprensión de los motivos detrás de las restricciones y fomentar la
+Objetivo de la
+cooperación de los GHPPI en el cumplimiento de las medidas de control de acceso. Realizar
+medida
+ajustes al protocolo de acceso según los requerimientos de cada Asociación, de ser
+necesario.
+Realizar campañas educativas y de concienciación sobre las razones de seguridad que
+generan las restricciones de acceso a la circulación, mediante la aplicación de las siguientes
+acciones:
+- Reuniones con las Asociaciones: El Titular organizará al menos una reunión informativa
+inicial con cada Asociación, en la que se expondrán las razones y forma en que se
+implementarán los puntos de control de acceso. En esta oportunidad se expondrán dudas y
+Descripción de la
+se tomarán acuerdos específicos que faciliten las posteriores solicitudes de ingreso, según
+medida
+Protocolo de Ingreso.
+Posteriormente, se realizará una reunión anual de retroalimentación para evaluar el sistema
+de ingreso controlado, incorporando ajustes y mejoras, de ser necesario.
+- Carta certificada y correo electrónico: Se enviará carta certificada y correo electrónico a
+ambas Asociaciones indicando la fecha de instalación de los puntos de control de acceso y
+el mecanismo de solicitud de ingreso (Protocolo de ingreso).
+7-69
+================================================================================
+PAGE 76
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-06 Plan de información y comunicación con GHPPI
+- Línea telefónica directa: A través de un contacto telefónico directo, los miembros de la
+Asociación podrán exponer sus consultas y solicitudes de manera oportuna y directa. La línea
+telefónica directa será informada en la carta certificada y correo electrónico señalado en el
+punto anterior.
+La aplicación del Plan de información y comunicación con GHPPI está orientado a garantizar
+que los GHPPI identificados en el Anexo de Caracterización Antropológica y la Línea de Base
+Justificación de la de Medio Humano como usuaria del área de acceso controlado; a saber: Asociación Indígena
+medida Koñintu Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen Mawida estén
+informadas de las restricciones y protocolos de acceso, facilitando la implementación y
+cumplimiento de esta medida de seguridad.
+Lugar de
+Casa Abierta Aclara, Penco; vía telefónica; correo electrónico; carta.
+implementación
+- Reuniones con las Asociaciones: Se realizará una reunión informativa inicial con cada
+Asociación, previo a la instalación de los puntos de control de acceso. Se realizará una
+reunión anual de evaluación y retroalimentación.
+- Carta certificada y correo electrónico: Se enviará carta certificada y correo electrónico a
+Forma de
+ambas Asociaciones indicando la fecha de instalación de los puntos de control de acceso y
+implementación
+el mecanismo de solicitud de ingreso, de forma previa a la instalación de los puntos de
+control de acceso.
+- Línea telefónica directa: La línea telefónica directa estará disponible desde el inicio de la
+etapa de construcción y durante todas las fases del Proyecto.
+Oportunidad de De forma previa a la instalación de los puntos de control de acceso y durante todas las fases
+implementación del Proyecto.
+- Actas de reuniones efectuadas, registro de asistencia
+Indicador de
+- Copia de carta certificada y correo electrónico informativo.
+cumplimiento
+- Habilitación línea telefónica directa
+Forma de control Informe anual a la SMA con los resultados del Plan de información y comunicación con los
+y seguimiento GHPPI identificados en el EIA.
+iii. Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Tabla 7-32. MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Nombre de la
+Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+medida
+Código de Medida MM-07
+Tipo de medida Mitigación
+Componente
+Medio Humano
+ambiental
+7-70
+================================================================================
+PAGE 77
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+GHPPI identificados en el Anexo de Caracterización Antropológica y la Línea de Base de Medio
+Objeto de Humano que realizan actividades culturales y de recolección de hierbas medicinales en Fundo
+Protección Coihueco; a saber: Asociación Indígena Koñintu Lafken-Mapu Penco y Asociación Cultural
+Mapuche Lawen Mawida.
+IMH-03 Restricción de acceso a recursos naturales (hierbas medicinales) utilizadas por los GHPPI
+con fines medicinales y culturales dificultando la manifestación de actividades culturales e
+Impacto ambiental
+intereses colectivos, por la instalación de puntos de control de acceso, señalética informativa y
+rondas de vigilancia.
+Se prevé la habilitación de dos puntos de control de acceso en el camino forestal adyacente al
+Estero Penco, utilizado por los GHPPI para acceder a zonas de recolección de hierbas
+medicinales y a otras áreas para el desarrollo de prácticas culturales.
+Los puntos de control de acceso a habilitar se presentan a continuación.
+Figura 7-29. Puntos de control de acceso
+Lugar de ocurrencia
+del impacto
+Fuente: GAC
+Se reconoce la existencia de prácticas culturales en las cercanías del Proyecto, específicamente
+de dos (2) organizaciones Mapuche urbanas de la comuna de Penco, denominadas “Lawen
+Mawida” y “Koñintu Lafken Mapu Penco”, quienes, entre otras zonas, realizan recolección de
+plantas nativas y medicinales a lo largo de un camino privado adyacente al estero Penco, en el
+Fundo Coihueco, así como también ceremonias asociadas a dichas actividades de recolección
+en los sectores de “El Tranque” y “Los Queules”.
+Figura 7-30. Ubicación sectores El Tranque, Los Queules y estero Penco
+7-71
+================================================================================
+PAGE 78
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Fuente: GAC
+Al respecto, y de acuerdo con la información recopilada en la Línea de Base de Medio Humano
+y el apéndice de caracterización antropológica, son las mujeres de la Asociación Koñintu Lafken
+Mapu Penco las que principalmente realizan, y actualmente, buscan reactivar las prácticas
+culturales del pueblo mapuche. Siendo la recolección de hierbas medicinales, una de las
+practicas más relevantes y la cual constituye una identidad entorno a esta; mientras que la
+Agrupación Lawen Mawida, sus principales prácticas culturales se relacionan con las reuniones,
+talleres para reactivar la lengua mapuche, el uso de hierbas medicinales y la participación en
+actividades ceremoniales de carácter indígena.
+Fase del Proyecto
+de ocurrencia del Construcción, Operación, Cierre
+impacto
+Fomentar la cooperación con los GHPPI para el fortalecimiento de sus prácticas culturales y de
+Objetivo de la
+resignificación indígena de los GHPPI identificados, dando énfasis en los aspectos materiales e
+medida
+inmateriales vinculados a las prácticas extractivas de recursos naturales y su procesamiento.
+El Plan de Apoyo consistirá en poner a disposición de los GHPPI identificados una mesa de
+trabajo para el desarrollo de proyectos de beneficio comunitario vinculados al rescate de
+Descripción de la especies propias del sector, fomento de la cultura (material e inmaterial) asociada a la práctica
+medida de recolección de dichos recursos, y puesta en valor de las prácticas y costumbres relacionadas
+con los productos que se obtienen del procesamiento de estos. Los proyectos serán elegidos de
+manera participativa con los GHPPI identificados.
+7-72
+================================================================================
+PAGE 79
+================================================================================
+Capítulo 7
+Plan de medidas de mitigación, reparación y compensación
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Esta medida se propone como forma de mitigar el impacto asociado a las restricciones de
+Justificación de la
+acceso a recursos naturales (hierbas medicinales) utilizadas por los GHPPI con fines medicinales
+medida
+y culturales dificultando la manifestación de actividades culturales e intereses colectivos.
+Lugar de El lugar de implementación de la medida será definido en conjunto con la Comunidad, pudiendo
+implementación ser en el mismo predio o en otro lugar, en acuerdo con ellos.
+Forma de implementación: Para la ejecución y el seguimiento de los proyectos, se propone el
+siguiente mecanismo:
+Se establecerá una Mesa de Trabajo, conformada por al menos dos representantes de cada
+GHPPI identificados y por dos representantes del Titular, para definir en conjunto las líneas
+Forma de estratégicas que serán desarrolladas. En función de estas líneas estratégicas se implementarán
+implementación procesos de elección de proyectos, con un método participativo y representativo de los
+miembros de la Comunidad. Una vez seleccionado el proyecto, se ratificará el mismo en un
+acuerdo firmado por las partes. El Titular pondrá a disposición un profesional que acompañe la
+ejecución de los Proyectos, y que reporte a la Mesa de Trabajo la correcta ejecución de estos,
+en aspectos formales y contables.
+Oportunidad de La Mesa de Trabajo se desarrollará de forma previa a la instalación de los puntos de control de
+implementación acceso y durante todas las fases del Proyecto.
+- Actas de reuniones efectuadas, registro de asistencia
+Indicador de
+- Copia de carta certificada y correo electrónico informativo.
+cumplimiento
+- Habilitación línea telefónica directa
+Informe anual de cumplimiento del estado de avance de la Medida, que contiene los siguientes
+verificadores: Actas de reunión y acuerdos de la Mesa de Trabajo con listado de asistencia
+Forma de control y firmado, para las distintas instancias del proceso (definición de líneas de trabajo y elección de
+seguimiento proyectos, al menos), y registro fotográfico.
+El informe debe ser presentado a los organismos competentes como máximo tres meses
+después de terminado cada año de implementación de la medida.
+Fuente: GAC
+7-73

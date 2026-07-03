@@ -1,0 +1,465 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-6
+PASM 139
+EIA Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+Bío Bio Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+INDEX
+1 INTRODUCTION ....................................................................................................................................... 1
+2 DESCRIPTION OF THE PROCESSES IN WHICH INDUSTRIAL LIQUID WASTE IS GENERATED OR
+MINERS, ESTIMATION OF THEIR FLOWS AND CHARACTERIZATION ................................................................... 2
+3 LOCATION DRAWING OF THE TREATMENT SYSTEM ................................................................... 8
+4 DESIGN OF THE TREATMENT SYSTEM INCLUDING FLOW CHART AND UNITS AND
+EQUIPMENT NECESSARY TO CONDUCT, TREAT AND DISCHARGE THE EFFLUENT ........................................... 9
+5 MONITORING AND CONTROL PROGRAM OF OPERATIONAL PARAMETERS, INCLUDING
+CRITICAL PARAMETERS ................................................................................................................................... 10
+6 DESCRIPTION AND GEOREFERENCE OF THE WORKS OR INFRASTRUCTURE FOR UNLOADING THE
+TREATED WASTE, IF APPLICABLE ................................................................................................... 10
+7 DESCRIPTION AND CHARACTERIZATION OF THE SURFACE AND/OR UNDERGROUND RECEIVING BODY,
+IDENTIFYING YOUR CURRENT AND INTENDED USES ................................................................................... 10
+8 EXPECTED EFFECT OF THE SHOCK ON THE RECEIVING BODY OR COURSE, CONSIDERING THE
+IDENTIFIED USES ................................................................................................................................... 11
+9 MANAGEMENT PLAN FOR SLUDGE AND ANY OTHER WASTE GENERATED ....................................... 11
+10 CONTINGENCY PLAN ................................................................................................................... 11
+11 EMERGENCY PLAN ................................................................................................................................... 12
+TABLE INDEX
+Table 2-1. Inlet parameters to the effluent plant ........................................................................... 7
+Table 3-1. Coordinates Location of washing system area ........................................................................... 8
+INDEX OF FIGURES
+Figure 2-1. Schematic figure for equipment washing area ................................................................................ 3
+Figure 2-2 Effluent Treatment Flow Chart ................................................................................................... 5
+Figure 3-1 Truck and Machinery Washing System Area ........................................................................... 8
+INDEX OF APPENDICES
+Appendix 10-6.1 General layout floor plan
+Appendix 10-6.2 Equipment washing elevation plan
+Appendix 10-6.3 Block Diagram
+Appendix 10-6.4 Flowchart
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+1 INTRODUCTION
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Raras, hereinafter, without distinction, the “Project” corresponds to the set of parts, works and actions
+that will allow the construction, operation and closure of a mining site for extraction and processing
+of clays, a material present in the area, which, due to natural effects, is highly
+weathered, with the presence of rare earths in clay minerals. The Project will be developed
+mainly in the commune of Penco, Provi
+ncia of Concepción, Biobío Region, without prejudice to the
+of the works are located in the commune of Concepción, on the border with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three (3) storage areas
+clay extraction (ZE Victoria Norte, ZE Luna, ZE Maite), one (1) disposal area for ballast and clays
+processed (ZD Neptuno), one (1) vegetal soil collection area (ZAV), a processing plant
+clays (the “Plant”), a stockpile for the temporary collection of material prior to processing, a line
+electricity and its connection to the existing line and the construction of internal roads to access the different
+areas. The Processing Plant will have a capacity to process up to 320 tons/hour of
+material to produce Rare Earth concentrate. In addition, the modification of a section is considered
+existing approximately 1.22 kilometers of the Hualpén – San Fernando pipeline, owned by
+ENAP, reason for the exploitation of the Maite ZE. The Project in turn includes the implementation of works
+temporary corresponding to work facilities for the construction and authorization of the works of the
+Project.
+The Project requires the granting of the permit referred to in article 139 of the SEIA Regulations,
+which corresponds to the authorization of the liquid industrial waste treatment system, for the
+chassis and bodywork washing area, and the corresponding collection, cleaning and reuse of water
+used in said washing.
+The treatment system has been designed to treat the effluents generated by vehicle washing,
+with a capacity of 177 m3/day, with a generation of approximately 0.6 m3/day of sludge, which
+They will be arranged with companies that have Health Authorization; Also, consider a
+approximate water recirculation of the order of 159 m3/day.
+Article 139 of the SEIA Regulations corresponds to the permit for the construction, repair,
+modification and expansion of any public or private work intended for the evacuation, treatment or
+final disposal of industrial or mining waste, referred to in article 71 letter b) second part,
+of Decree with Force of Law No. 725/1967 of the Ministry of Public Health, Health Code.
+The requirement for its granting is that the quality of the water of the receiving body does not endanger
+risk to the health of the population. The technical and formal contents that must be presented to accredit
+Their compliance is presented below.
+1
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+2 DESCRIPTION OF THE PROCESSES IN WHICH WASTE IS GENERATED
+INDUSTRIAL OR MINING LIQUIDS, ESTIMATION OF THEIR FLOWS AND
+CHARACTERIZATION
+The Project considers an area where minor repairs to equipment will be carried out, along with washing
+of vehicle chassis and bodies, and the corresponding collection, cleaning and reuse of water
+used in said washing. These facilities will be located inside the Plant
+Processing.
+2.1 Detailed description of the treatment system of the processes in which
+waste is generated
+As mentioned previously, the Project will enable permanent facilities inside the Plant
+Processing facilities that include a workshop for minor equipment repairs and an area for washing
+equipment, machinery and/or vehicles. The vehicles will enter the washing area, where through the use of
+pressurized water, coming from a water tank, the chassis, tires and parts will be washed
+of each team through the use of biodegradable detergents. This system has
+objective to remove waste from wheels, canoes, radiator, parapets, covers, other elements and
+components of machinery and vehicles.
+In the washing area, a concrete slab will be built, which will have a central channel and
+also lateral gutters at each end, with a slope for gravitational collection
+of the wash water.
+Subsequently, the water collected in the gutters will be conveyed to a sedimentation pool.
+which will be divided into 2 zones: sedimentation and prewater
+treated.
+In the sedimentation zone, due to the difference in density of the liquids and gravity,
+will naturally produce 3 phases: an emulsified phase on top (water with oils and residues
+oily), a water phase in the central part and a solid phase in the lower part.
+For its part, the pretreated water area will communicate directly through an opening in the
+separating wall with the sedimentation zone, and due to gravity and the “communicating vessels” effect,
+It will be filled with water without solids or emulsion (pretreated water).
+The emulsified phase will be transported by means of a floating pump to a secondary tank where
+There is an oil skimmer equipment, which will be responsible for separating the water from the oils present,
+transferring the oils to a secondary tank for temporary storage until their removal by
+authorized third parties and subsequently returning and/or recirculating the water to the pretreated water area.
+2
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Subsequently, the pretreated water is transferred by means of a submersible pump to the filtration system.
+of pretreated water.
+In the filtering system, the pretreated water is circulated through a basket filter, which will separate the
+particles in suspension of clarified water. The resulting water will be recirculated to the water pond.
+washing, to once again supply 100% equipment washing. The water lost through evaporation and
+Due to the generation of sludge, it will be replaced by the fresh water network of the processing plant.
+Regarding the climatic conditions in the Project area, it is noted that, in case of precipitation,
+The facilities will have a roofed structure over the facilities, which prevents water from entering.
+from precipitation enters the system. Furthermore, it is indicated that the ponds used are
+They are closed and properly insulated so they would not be in contact with precipitation.
+The settled sludge and the oil and hydrocarbon fraction will be recovered and stored as
+hazardous waste, to be temporarily sent to the hazardous waste warehouse for
+subsequently be removed and taken to final disposal in a place authorized for this type of disposal.
+waste.
+Figure 2-1. Schematic figure equipment washing area
+Source: Own elaboration, 2024.
+3
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+For more details, see Appendix 10-6.1 corresponding to the general layout floor plan of the
+Project.
+2.2 Identification of units that make up each of the stages of the
+treatment
+The units that make up each of the treatment stages are detailed below:
+• Washing water pond.
+• Pressurized pumping system.
+• Washing slab.
+• Semi-decanting pool.
+• Emulsified pump.
+• Water/oil separator skimmer.
+• Oil Tank.
+• Drive pump.
+• Basket filter.
+2.3 Flow diagram of the treatment system (in which the
+generation, collection, treatment and disposal points
+In Appendix 10-6.3 and Appendix 10-6.4, the block diagram plan and flow diagram are attached.
+flows of the effluent treatment system. Without prejudice to the above, below is the
+system flow diagram.
+4
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Figure 2-2 Effluent Treatment Flow Diagram
+Source: Clarify.
+5
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+2.4 Estimation of effluent quantity
+s and expected quality of the tributary and
+treated effluent
+i. Effluent quantity
+To estimate the volume of effluent, the use during one day with a volumetric flow has been considered
+instantaneous 177 m3/day, which is recirculated and has a make-up of 19 m3/day, equivalent to 2%
+approximately of all the industrial water to be supplied to the Project. It is considered a
+approximate water recirculation of the order of 159 m3/day.
+ii. Expected quality of the influent and treated effluent
+As a reference, a typical characterization of wastewater washing water is presented below.
+trucks. The presence of microbiological content in wastewater is not expected given the type of
+work that the trucks will carry out (transport of clays and products). It should be noted, as
+will indicate later that the Project does not contemplate works to discharge effluents into bodies or courses
+of receiving, surface and/or underground waters. The resulting flow rate of the treatment system is
+It will be reused to wash equipment or to moisten roads and/or work fronts. No
+However, the expected quality of the effluent will also be limited to the limits established in the
+NCh1333 of78, Quality standard for different uses (Table 1 quality of water for irrigation), as stated
+indicates below:
+6
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Table 2-1. Input parameters to the effluent plant
+Parameter Untreated influent Effluent values Regulations
+Source of
+information
+Unit Result Unit Result
+*Plant of D.S-90 table
+Oils and Fats (mg/L) mg/l 70 mg/l treatment 50 N°2
+car wash
+Nch 1333 of
+Aluminum (mg/L) mg/l 2.84 RCA N° 4/ 20071 mg/l 5
+78 table 1
+Nch 1333 of
+Total Copper (mg/L) mg/l 0.74 RCA N° 4/ 2007 mg/l 0.2
+78 table 1
+COMPANY D.S-90 table
+BOD5 (mg O2/L) mg/l 34 TRANSLOGAM mg/l 300 N°2
+S.A.S.2
+*Plant of D.S-90 table
+Fixed Hydrocarbons (mg/L) mg/l 52 mg/l treatment 50 N°2
+car wash
+*Plan of Nch 1333 of
+Manganese (mg/L) mg/l 0.21 mg/l treatment 0..2 78 table 1
+car wash
+*Plant of D.S-90 table
+Suspended Solids
+mg/l 1200 treatment mg/l 300 N°2
+Totals (mg/L)
+car wash
+D.S-90 table
+pH - 7.05 RCA N° 4/ 2007 - 6.0 - 8.5
+No. 2
+Source: Own elaboration, 2024.
+1 RCA N° 4/ 2007: Improvement of the waste treatment system at the Saladillo bus and truck washing station
+2 design of a water treatment plant for automotive washing, TRanslogam Company
+7
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+3 LOCATION PLAN OF THE TREATMENT SYSTEM
+The truck and machinery washing system will be located within the Processing Plant of the
+Project, as seen in Figure 2-1 and its location coordinates are presented in Table 3-1.
+Figure 3-1 Truck and Machinery Washing System Area
+Table 3-1. Coordinates Location of washing system area
+UTM Coordinates (Datum WGS84, Zone 18)
+Installation Vertex Surface (ha)
+East (m) North (m)
+1 5,930,166 681,584
+Washing system 2 5,930,156 681,571
+0.09
+trucks 3 5,930,126 681,615
+4 5,930,116 681,601
+Source: GAC
+In Appendix 10-6.2, the plans are attached with details of the location of the system components.
+of treatment and the formation of the main liquid waste treatment units.
+8
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+4 DESIGN OF THE TREATMENT SYSTEM INCLUDING FLOW CHART
+AND THE UNITS AND EQUIPMENT NECESSARY TO DRIVE, TREAT
+AND DISCHARGE THE EFFLUENT
+The design of the treatment system is detailed in sections 2.1 and 2.2 of this document.
+4.1 Treatment flow diagram, mass balance where applicable.
+Flowchart
+The detail of the flow chart is presented in section 2.3 of this document.
+Mass Balance
+The details of the mass balance are indicated below:
+Initial calculation
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑝𝑜𝑟 𝑙𝑎𝑣𝑎𝑑𝑜∗𝑁°𝑚á𝑥 𝑑𝑒 𝑙𝑎𝑣𝑎𝑑𝑜𝑠
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 14,700 𝑙∗12
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 176,400 𝑙 ~ 177 𝑚3
+Influent=Effluent Calculation
+Daily influent = 10% (sludge + evaporation) + 90% (recirculation)
+177 m3 = 17.7m3 (sludge + evaporation) + 159.3m3 (recirculation)
+4.2 Identification of critical points of generation of annoying odors
+Due to the nature of the waste, this process does not have the potential to generate unpleasant odors.
+9
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+5 MONITORING AND CONTROL PROGRAM OF OPERATIONAL PARAMETERS,
+INCLUDING CRITICAL PARAMETERS
+5.1 Description of the monitoring program, according to the type of treatment
+contemplated (compliance with emission or reference standard, according to
+appropriate)
+In accordance with the specifications of the water or effluent treatment system from the washing
+of machinery and vehicles, and since the treated flow will be used for recirculation and for
+humidification, its quality will be limited to compliance with the limits indicated in the Chilean Standard
+NCh N°1333 Of 78, as a quality standard for irrigation water.
+Monitoring will be carried out semiannually throughout the entire operation phase of the Project.
+5.2 Communication routes
+The reports with the results of the monitoring will be informed to the Superintendence of the Environment
+and the respective Seremi de Salud.
+6 DESCRIPTION AND GEOREFERENCE OF THE WORKS OR INFRASTRUCTURE
+DISCHARGE OF TREATED WASTE, IF APPLICABLE
+Not Applicable; The Project does not contemplate discharge works in bodies or courses of continental waters, nor
+surface or underground.
+7 DESCRIPTION AND CHARACTERIZATION OF THE SUPERFICIAL RECEPTOR BODY AND/OR
+UNDERGROUND, IDENTIFYING ITS CURRENT AND PLANNED USES
+Not applicable; The Project does not contemplate discharge works in receiving water bodies or courses.
+surface and/or underground. The resulting flow from the treatment system will be reused for washing
+of equipment or for moistening roads and/or work fronts.
+10
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+8 EXPECTED EFFECT OF THE SHOCK ON THE RECEIVING BODY OR COURSE,
+CONSIDERING THE IDENTIFIED USES
+Not applicable; The Project does not contemplate discharge works in receiving water bodies or courses.
+surface and/or underground. The resulting flow from the treatment system will be reused for washing
+of equipment or for moistening roads and/or work fronts.
+9 MANAGEMENT PLAN FOR SLUDGE AND ANY OTHER WASTE GENERATED
+The untreated sludge will be removed for final disposal, directly from the settling pool,
+by an external company authorized for such purposes; The withdrawal will be made with an approximate frequency
+twice a month.
+The sludge will be disposed of in places that have Health Authorization from the SEREMI of Health.
+10 CONTINGENCY PLAN
+The contingency plan considers the following procedure:
+1. The treatment system could present a failure, which will alert the personnel in charge.
+at the time the contingency occurs.
+2. Once the responsible personnel have been alerted, the contingency will be monitored to
+be able to determine its cause. The most common contingencies that could happen are: obstruction;
+mechanical failure; spills.
+3. The responsible personnel on duty will inform by telephone, email and/or the means
+digital that is defined as equivalent, of the present situation or contingency, interpreting its
+detected cause, to the Contingency Management.
+4. Corrective measures, according to the contingency:
+a. Obstruction:
+• The head of maintenance will be notified to coordinate with the Head of
+Repair operations.
+• The Head of Operations must coordinate the repair of the treatment system,
+reporting the time spent
+stopped before restarting its operation.
+b. Mechanical failure:
+• If the failure implies a total change of a spare part, the operations manager will be requested
+its replacement.
+c. Spills:
+• Before proceeding with the spill control work, the emergency brigade
+will proceed to put on appropriate personal protective equipment.
+11
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+• The spill will be stopped by returning the container to its upright position, closing a
+leaking valve or hose or placing a second container in place to
+recover washing water and/or sludge that is leaking.
+• Cleaning will begin using absorbent materials on the slab to collect
+spilled liquids.
+• Loose absorbent materials for spills will be dispersed over the entire area of the
+spill, working in circles from the outside in. This will decrease the
+possibilities of splashing or spreading spilled water.
+During the rainy months, the pool will be covered with high-density polyethylene, to prevent the
+Rainwater mixes with the residual water accumulated in the pool and generates an eventual spill. Furthermore,
+During this period, the filling capacity of the washing sites will be constantly reviewed, to avoid a
+potential overflow.
+Once the spilled water has been absorbed, in cases of small spills, the
+water with the absorbent material inside a polyurethane bag with a brush and a dustpan,
+and in cases of large spills, in a plastic container with a screw lid, lined with
+polyethylene.
+11 EMERGENCY PLAN
+The Emergency Plan is framed in the Emergency Plan presented in chapter 8 of this EIA
+and is made up of a series of measures that will be activated if preventive actions fail.
+The specific Emergency Plan regarding washing water treatment provides the guidelines
+to deal with emergencies, in addition to instructing workers and all personnel on the actions
+necessary to minimize effects.
+Objectives
+In particular, the plan has the following objectives:
+• Safeguard the physical integrity of workers and inhabitants.
+• Protect the environment, property, facilities and materials.
+• Restore normality in operations, in the shortest time possible.
+• Instruct personnel regarding their responsibilities, functions and powers, in the event of a
+emergency.
+• Establish a method of investigation of facts that can generate or generate situations of
+emergency, in order to establish its causes, control and eliminate them.
+12
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+Scope of the Plan
+This Emergency Plan applies to all activities that will be carried out in the works of the
+Project and its facilities, to react to an emergency generated by the
+treatment of washing water that may affect workers or the environment.
+Plan Coverage
+This Plan is designed to be applied in the operations of the water treatment system of
+washing and the surrounding facilities of the Project.
+Responsible for the Emergency Plan
+The person responsible for this Emergency Plan corresponds to the person in charge of the Emergency Brigade
+and will have the following responsibilities:
+• Disseminate this plan, once approved, to all personnel working at the Plant.
+• Carry out the necessary procedures for the allocation of resources that allow the acquisition,
+maintenance and operation of response material.
+• Carry out the necessary coordination to achieve cooperation in the event of an accident from other
+responsive organizations.
+• Arrange for response exercises to be carried out in the event of some type of emergency.
+• Define the training standards and training of the personnel assigned for the response,
+arranging for the courses to be carried out
+necessary to achieve efficient and consistent capacity
+to company policies.
+• Establish the logistics and means of the organization, in order to satisfy the needs of the
+Plan operator.
+• Implement the Emergency Plan.
+• Keep the management team informed.
+In those cases in which the magnitude of the emergency occurred or if the situation warrants it, it will be
+advise by a team of specialists in different areas, made up of personnel from the same
+company.
+The Emergency Plan considers the following actions:
+• In the event of any abnormality in the treatment system, any worker who detects it must
+Give immediate notice to your direct supervisor.
+13
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 10-6. PASM 139
+EIA Clay Extraction Mining Development Project for
+Production of Rare Earth Concentrate
+• The direct supervisor will confirm the fact and immediately notify the person in charge of the Emergency Brigade.
+Emergency, so that it acts in accordance with the emergency that is in process.
+• The person responsible for the Plan will take immediate measures, such as: convening the response group,
+establish the suspension of operations, etc.
+• Control actions will be directed with the corresponding resources and means and it will be determined if the
+emergency can affect or reach the sectors surrounding the treatment system.
+• Before proceeding with the emergency control tasks, the personnel in charge of the
+emergency will proceed to put on the appropriate personal protective equipment.
+• The emergency must be contained as soon as possible, according to its typology.
+• A record of the incident will be prepared.
+14

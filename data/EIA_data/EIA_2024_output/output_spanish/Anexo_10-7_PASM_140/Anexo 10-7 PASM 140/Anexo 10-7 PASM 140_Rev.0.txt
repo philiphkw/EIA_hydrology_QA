@@ -1,0 +1,935 @@
+
+================================================================================
+PAGE 1
+================================================================================
+PL-EIA-GE-0001
+Anexo 10-7
+Permiso Ambiental Sectorial
+N°140
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Aspectos generales ..................................................................................................................... 3
+2.1 Descripción y planos del sitio ........................................................................................................ 3
+2.1.1 Fase de construcción ............................................................................................................. 3
+2.1.2 Fase de operación ................................................................................................................. 3
+2.1.3 Fase de cierre ........................................................................................................................ 4
+2.2 Descripción de variables meteorológicas relevantes .................................................................... 6
+2.3 Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar ........................... 7
+2.3.1 Fase de construcción ............................................................................................................. 7
+2.3.2 Fase de operación ................................................................................................................. 9
+2.3.3 Fase de cierre ...................................................................................................................... 11
+2.4 Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y equipamiento
+..................................................................................................................................................... 12
+2.5 Formas de abatimiento de emisiones y de control y manejo de residuos ................................. 13
+2.6 Descripción del sistema de manejo de rechazos ........................................................................ 13
+2.7 Plan de verificación y seguimiento de los residuos a ser tratados y rechazados ........................ 13
+2.8 Plan de contingencias .................................................................................................................. 14
+2.9 Plan de emergencias ................................................................................................................... 16
+3 Tratándose de almacenamiento de residuos .............................................................................. 17
+3.1 Especificaciones técnicas de las características constructivas del sitio de almacenamiento y
+medidas de protección de condiciones ambientales .............................................................................. 17
+3.2 Capacidad máxima de almacenamiento ..................................................................................... 18
+3.3 Descripción del tipo de almacenamiento, tales como a granel o en contenedores ................... 20
+4 Indicadores de cumplimiento .................................................................................................... 22
+INDICE DE APÉNDICES
+Apéndice 10-7.1 Planos de emplazamiento
+Apéndice 10-7.2 Planos de elevación
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1. Ubicación y superficie. Sitios de residuos no peligrosos .............................................................. 4
+Tabla 2-2. Estimación de residuos domésticos y no peligrosos durante la Fase de Construcción. .............. 8
+Tabla 2-3 Estimación de residuos domésticos generado por sector durante Fase de Operación ................ 9
+Tabla 2-4. Estimación de Residuos Industriales No Peligrosos durante Fase de Operación. ...................... 10
+Tabla 2-5. Estimación de Residuos domésticos durante Fase de Cierre ..................................................... 11
+Tabla 2-6. Estimación de residuos industriales no peligrosos Fase de Cierre. ............................................ 12
+Tabla 2-7. Descripción medidas de emergencias en sitios de almacenamiento de residuos industriales no
+peligrosos y domésticos. ............................................................................................................................. 16
+Tabla 3-1. Capacidad máxima de almacenamiento de residuos domésticos y asimilables. ....................... 18
+Tabla 3-2. Capacidad máxima de almacenamiento de residuos industriales no peligrosos. ...................... 19
+Tabla 3-3. Contenedores tipo ...................................................................................................................... 21
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 2-1 Almacenamiento temporal residuos domésticos y Residuos no Peligrosos, IIFF- Fase de
+construcción .................................................................................................................................................. 5
+Figura 2-2 Almacenamiento temporal residuos domésticos, y Residuos No Peligrosos Planta de
+procesamiento- Fase de operación y cierre .................................................................................................. 6
+Figura 2-3. Diagrama de flujo acopio temporal y disposición final de residuos ......................................... 13
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto.
+En cuanto al Permiso Ambiental Sectorial a que se refiere el artículo N°140 del Reglamento del Sistema de
+Evaluación de Impacto Ambiental (RSEIA), el Proyecto requiere un sitio de almacenamiento temporal
+destinado a los residuos sólidos industriales no peligrosos, y residuos sólidos domésticos que se generen
+durante las distintas fases del Proyecto. En este sentido, el Artículo 140º del RSEIA, D.S. Nº 40/2012, MMA,
+en aquella parte de sus contenidos que resulta aplicable al Proyecto, señala:
+Artículo 140.- Permiso para la construcción, reparación, modificación y ampliación de
+cualquier planta de tratamiento de basuras y desperdicios de cualquier clase o para la
+instalación de todo lugar destinado a la acumulación, selección, industrialización, comercio o
+disposición final de basuras y desperdicios de cualquier clase.
+El permiso para la construcción, reparación, modificación y ampliación de cualquier planta de
+tratamiento de basuras y desperdicios de cualquier clase, o para la instalación de todo lugar
+destinado a la acumulación, selección, industrialización, comercio o disposición final de
+basuras y desperdicios de cualquier clase, será el establecido en los artículos 79 y 80 del
+Decreto con Fuerza de Ley Nº 725, de 1967, del Ministerio de Salud Pública, Código Sanitario,
+y siempre que no corresponda la aplicación de otro permiso ambiental sectorial por la misma
+acción.
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El requisito para su otorgamiento consiste en que las condiciones de saneamiento y seguridad
+eviten un riesgo a la salud de la población.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento, y
+de acuerdo al Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Tierras Raras, son los siguientes:
+a) Generales:
+a.1. Descripción y planos del sitio.
+a.2. Descripción de variables meteorológicas relevantes.
+a.3. Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar.
+a.4. Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y
+equipamiento.
+a.5. Formas de abatimiento de emisiones y de control y manejo de residuos.
+a.6. Descripción del sistema de manejo de rechazos.
+a.7. Plan de verificación y seguimiento de los residuos a ser tratados y rechazados.
+a.8. Plan de contingencias.
+a.9. Plan de emergencia.
+(…)
+e) Tratándose de almacenamiento de residuos, además de lo señalado en las letras desde a.1) hasta
+a.9):
+e.1. Especificaciones técnicas de las características constructivas del sitio de almacenamiento y
+medidas de protección de condiciones ambientales.
+e.2. Capacidad máxima de almacenamiento.
+e.3. Descripción del tipo de almacenamiento, tales como a granel o en contenedores.
+A continuación, se señalan los antecedentes para acreditar el cumplimiento de los requisitos para el
+otorgamiento del citado Permiso Ambiental Sectorial N° 140.
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 ASPECTOS GENERALES
+2.1 Descripción y planos del sitio
+Para todas las fases del Proyecto se habilitarán lugares de almacenamiento temporal de residuos, tanto
+para residuos domésticos como para residuos sólidos industriales no peligrosos, las que se detallan a
+continuación.
+Por otra parte, se indica que la cantidad de residuos generados de los distintos frentes de trabajo como
+zonas de extracción (ZE), planta de procesamiento, zonas de disposición (ZD), zonas de acopio vegetal
+(ZAV), caminos (entre otros) están sumadas en los sectores que se especifican en las distintas tablas,
+excepto para la modificación del oleoducto, la cual se encuentra separada en la fase de operación del
+proyecto.
+2.1.1 Fase de construcción
+En la fase de construcción, los residuos domésticos y asimilables a domésticos serán llevados hacia la zona
+de almacenamiento establecida en la instalación de faenas, donde se encontrarán contenedores
+herméticos sobre terreno nivelado y despejado para facilitar el tránsito considerando un perímetro
+cercado con malla tipo acma o similar. Este sector corresponderá al punto de recolección desde donde se
+realizará el retiro periódico por una empresa debidamente autorizada para su disposición final.
+Por su parte, los residuos industriales no peligrosos serán llevados hacia la zona de almacenamiento
+establecida en la instalación de faenas, donde se considera una base de radier de hormigón para disponer
+los residuos industriales no peligrosos considerando un perímetro cercado con malla tipo acma o similar.
+Este sector corresponderá al punto de recolección desde donde se realizará el retiro periódico por una
+empresa debidamente autorizada para su disposición final.
+2.1.2 Fase de operación
+En la fase de operación los residuos domésticos y asimilables a domésticos serán llevados hacia la zona de
+almacenamiento establecida en la planta de procesamiento, donde se encontrarán contenedores
+herméticos sobre terreno natural nivelado y despejado para facilitar el tránsito considerando un perímetro
+cercado con malla tipo acma o similar. Este sector corresponderá al punto de recolección desde donde se
+realizará el retiro periódico por una empresa debidamente autorizada para su disposición final.
+Por su parte los residuos industriales no peligrosos serán llevados hacia la zona de almacenamiento
+establecida en la planta de procesamiento, donde se considera una base de radier de hormigón para
+disponer los residuos industriales no peligrosos considerando un perímetro cercado con malla tipo acma.
+Este sector corresponderá al punto de recolección desde donde se realizará el retiro periódico por una
+empresa debidamente autorizada para su disposición final.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.3 Fase de cierre
+En la fase de cierre, se dispondrá de una instalación temporal, donde los residuos domésticos y asimilables
+a domésticos serán almacenados en bolsas plásticas al interior de contenedores de plástico con tapa, los
+que permanecerán cerrados para evitar la proliferación de vectores sanitarios y/u olores, y serán
+acopiados temporalmente en un área habilitada para estos fines en los sectores de la Planta de
+procesamiento (en desarme), correspondientes a zonas de residuos domésticos, desde donde serán
+retirados y trasladados por un contratista debidamente autorizado, para ser dispuestos en sitio autorizado.
+Por su parte los residuos industriales no peligrosos serán llevados hacia la zona de almacenamiento
+establecida en la planta de procesamiento (en desarme), donde se considera una base de radier de
+hormigón para disponer los residuos industriales no peligrosos considerando un perímetro cercado con
+malla tipo acma.
+Las zonas de almacenamiento para la fase de cierre serán las mismas implementadas para la fase de
+operación del Proyecto.
+La ubicación definida a priori1 para estas instalaciones se detalla en la siguiente Tabla:
+Tabla 2-1. Ubicación y superficie. Sitios de residuos no peligrosos
+Superficie
+Fase Instalación Residuos ID estimada V. Norte Este
+m²
+1 5.930.034 681.855
+Residuos No 2 5.930.024 681.855
+A 100
+Peligrosos 3 5.930.024 681.865
+Instalación de 4 5.934.034 681.865
+Construcción
+Faenas 5 5.930.061 681.850
+Residuos 6 5.930.053 681.850
+B 40
+Domésticos 7 5.930.053 681.855
+8 5.930.061 681.855
+9 5.930.034 681.855
+Residuos No 10 5.930.024 681.855
+A 100
+Peligrosos 11 5.930.024 681.865
+Operación- Planta de 12 5.934.034 681.865
+Cierre procesamiento 13 5.929.880 681.786
+Residuos 14 5.929.872 681.785
+B 40
+Domésticos 15 5.929.871 681.790
+16 5.929.879 681.791
+A continuación, se presentan las figuras de ubicación de los sitios detallados en la tabla anterior:
+1 Eventualmente, conforme condiciones específicas en el terreno, las coordenadas aquí especificadas podrán
+ajustarse.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-1 Almacenamiento temporal residuos domésticos y Residuos no Peligrosos, IIFF- Fase de construcción
+Fuente: Elaboración propia, 2024
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-2 Almacenamiento temporal residuos domésticos, y Residuos No Peligrosos Planta de procesamiento-
+Fase de operación y cierre
+Fuente: Elaboración propia, 2024.
+2.2 Descripción de variables meteorológicas relevantes
+El clima del sector donde se emplazará el Proyecto, según la clasificación de Köppen, corresponde a
+“Templado cálido con lluvias invernales y gran humedad atmosférica”, perteneciente a los climas del tipo
+templados, los que se caracterizan por presentar temperaturas medias del mes más frío inferior a 18°C y
+superior a -3 °C y lluvias estaciones.
+Respecto a la meteorología, se utilizó la data de cuatro estaciones de monitoreo cercanas al lugar de
+emplazamiento del Proyecto: Kingston College, Liceo Polivalente, Coronel Norte y Nueva Libertad.
+De acuerdo con las estaciones descritas, el promedio de velocidad de los vientos no supera los 3,66 m/s.
+Las calmas, correspondientes a los vientos con una velocidad menor a 0,5 m/s, ocurren principalmente en
+horario nocturno y presentan hasta una frecuencia promedio anual de hasta 18% en la estación Liceo
+Polivalente. En relación con la dirección del viento, la mayoría de las estaciones comparten componentes
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+predominantes provenientes desde el Oeste y del Sur en horario diurno, mientras que en horario nocturno
+la dirección se observa más heterogénea.
+El promedio de la temperatura en las estaciones caracterizadas se encuentra en torno a los 13°C, con
+mínimas (entre -0,5°C y 0,1°C) y máximas (entre los 31 °C y 32 °C), con amplitudes térmicas diarias y
+estacionales bajas, debido a la cercanía de las estaciones a la costa.
+En relación con la humedad relativa, se observa que aumenta en el horario nocturno y disminuye en el
+horario diurno producto de la radiación solar, esta última con máximos que se producen en torno al
+mediodía.
+La precipitación en la zona se concentra mayoritariamente en los meses invernales, con excepción en la
+estación Liceo Polivalente, donde la precipitación durante el año 2020 alcanzó su máximo en meses
+estivales.
+Para mayor detalle revisar Capitulo 3 Línea Base “Clima y Meteorología” del Proyecto.
+2.3 Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar
+La estimación y caracterización de los residuos que se generarán durante las diferentes fases del Proyecto
+se presenta a continuación.
+2.3.1 Fase de construcción
+Residuos domésticos y asimilables a domésticos
+Los residuos sólidos domésticos corresponderán básicamente a restos de comida, envases de alimentos,
+papeles, cartones, plásticos, envases de vidrio, entre otros habituales en una faena de construcción. Los
+residuos domésticos serán almacenados en recipientes cerrados de plástico con tapa de 200 litros
+ubicados en los sitios de generación, para posteriormente ser llevados al lugar transitorio de acumulación
+ubicado en el área de almacenamiento de esta clase de residuos en contenedores de 1.100 l. El retiro se
+realizará 3 veces a la semana para ser llevados a un sitio autorizado para disposición final. Se verificará
+que el transporte y disposición final de los residuos cumplan con todas las autorizaciones sanitarias para
+el transporte y destino final de estos.
+Considerando una dotación máxima de 373 personas2 y una tasa de generación per-cápita de 1
+kg/persona/día, se estima que se generarán aproximadamente 11,2 t/mes de este tipo de residuos.
+2 Las 745 personas mencionadas en Acápite 1.10.4 del Capítulo 1 del presente EIA, corresponden al total de mano
+de obra contratada, sin embargo, la mano de obra máxima en faena para efectos del diseño no superará los 373
+trabajadores.
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Residuos Industriales No Peligrosos
+Durante la construcción del Proyecto se generarán residuos sólidos como despuntes de fierro, materiales
+de embalaje, despuntes de madera, restos de HDPE, entre otros habituales para este tipo de faenas de
+construcción. Estos residuos serán clasificados y acopiados en un lugar destinado particularmente para
+esta clase de residuos en el área de acumulación temporal de residuos, lugar que contará con un cerco y
+señaléticas, desde donde los residuos serán trasladados periódicamente fuera del recinto por una empresa
+debidamente autorizada para realizar el transporte de residuos industriales a un sitio de disposición final
+autorizado.
+Para la fase de construcción se estima un volumen promedio de 150 m3/mes, los que serán retirados
+periódicamente para ser trasladados a centros de reciclajes o lugares de disposición final debidamente
+autorizados.
+En la siguiente tabla se entrega una estimación de la cantidad de residuos domésticos y residuos sólidos
+industriales que se generará durante la Fase de Construcción del Proyecto.
+Tabla 2-2. Estimación de residuos domésticos y no peligrosos durante la Fase de Construcción.
+Cantidad
+Cantidad estimada
+Sitio Tipo de Residuos estimada
+(m3/mes)
+(Ton/mes)
+Alimentos 6,05 4,8
+Plásticos 6,05 5,7
+Domésticos
+Papeles 6,05 0,5
+Cartones 6,05 0,3
+Total mes 24,2 11,2
+Retiro de instalaciones
+temporales 18,0 0,7
+Residuos de concreto 77,0 184,8
+Residuos estructurales 7,0 0,9
+Residuos de mecánica 39,0 3,1
+Sólidos
+Residuos de cañerías 1,0 1,5
+Industriales No
+Residuos eléctricos 1,0 0,9
+Peligrosos
+Residuos arquitectura 1,0 1,5
+Recubrimiento tolvas de
+camiones 0,4 0,4
+Restos de fierro y alambre 0,1 0,2
+Residuos de madera 5,2 2,6
+Total mes 150 196,6
+Fuente: Elaboración propia, 2024.
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3.2 Fase de operación
+Residuos Asimilables a Domésticos
+Los residuos sólidos domésticos corresponderán básicamente a restos de comida, envases de alimentos,
+papeles, cartones, plásticos, envases de vidrio, entre otros. Los residuos domésticos serán almacenados
+en recipientes cerrados de plástico con tapa ubicados en los sitios de generación, para posteriormente ser
+llevados al lugar transitorio de acumulación ubicado en la Planta de procesamiento y taller de
+reparaciones, desde donde serán retirados y trasladados por un contratista debidamente autorizado, para
+ser dispuestos en sitio autorizado. El retiro se realizará 3 veces a la semana para ser llevados a un sitio
+autorizado para disposición final. Se verificará que el transporte y disposición final de los residuos cumplan
+con todas las autorizaciones sanitarias para el transporte y destino final de estos.
+Considerando una dotación máxima de 448 personas y una tasa de generación per-cápita de 1
+kg/persona/día, se estima que se generarán aproximadamente 20,1 t/mes de este tipo de residuos.
+Adicionalmente, se agrega la generación de residuos sólidos domésticos producto del ajuste en el trazado
+de oleoducto de ENAP, con una generación aproximada de 2,4 m3/mes, lo cual se producirá solo por unos
+meses durante el año 2 de fase de operación del Proyecto.
+En la siguiente tabla se entrega una estimación de la cantidad de residuos domésticos para Fase de
+Operación del Proyecto.
+Tabla 2-3 Estimación de residuos domésticos generado por sector durante Fase de Operación
+Cantidad Cantidad
+Sector Tipo de Residuos estimada estimada
+(m3/mes) (ton/mes)
+Alimentos 10,7 8,5
+Plásticos 10,7 10,1
+Planta de Procesamiento
+Papeles 10,7 0,95
+Cartones 10,7 0,53
+Total 43 20,1
+Alimentos 0,6 0,5
+Plásticos 0,6 0,6
+Modificación del trazado de oleoducto de ENAP3
+Papeles 0,6 0,1
+Cartones 0,6 0,03
+Total 2,4 1,2
+3 Los residuos producto de la modificación del trazado de oleoducto de ENAP serán acopiados temporalmente en el
+mismo sector habilitado en la planta de procesamiento para el acopio de residuos domésticos y asimilables.
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Residuos Industriales No Peligrosos
+Se estima que en el proceso de operación se generen 8,1 ton/mes de este tipo de residuos. Se habilitarán
+puntos de recolección para residuos de menor tamaño y residuos de mayor tamaño (fierros, madera, etc.),
+los que serán llevados hacia la zona de almacenamiento temporal establecida en cada uno de los sectores
+de operación. Desde este lugar, serán retirados periódicamente y trasladados a sitios autorizados para su
+disposición final.
+Adicionalmente, dependiendo del comportamiento del material que se extraiga de las Zonas de Extracción
+(ZE), podría ser necesario utilizar en las tolvas de los camiones, recubrimientos de polímero de tipo PE
+UHMW (Polietileno de Ultra Alto Peso Molecular) o similar, los que serán retirados periódicamente para
+ser trasladados a centros de reciclajes o lugares de disposición final debidamente autorizados según
+corresponda.
+Adicionalmente, se agrega la generación de residuos industriales no peligrosos producto de la
+modificación del trazado de oleoducto de ENAP, con una generación aproximada de 121,5 m3/mes, lo cual
+se producirá solo por unos meses en el año 2 de la fase de operación del Proyecto.
+En la siguiente tabla se indica la cantidad estimada de residuos industriales no peligrosos a ser generados
+en la fase de operación.
+Tabla 2-4. Estimación de Residuos Industriales No Peligrosos durante Fase de Operación.
+Cantidad Cantidad
+Sector Tipo de Residuos estimada estimada
+(m3/mes) (ton/mes)
+Restos de madera. 5,5 2,8
+Restos de fierro y alambre. 0,2 1,0
+Recubrimiento tolvas de camiones 4,1 4,0
+Planta de Procesamiento
+Otros (papeles, recipientes plásticos,
+aluminio, vidrio, hormigón, entre 0,8 0,3
+otros)
+Total 10,6 8,1
+Retiro de instalaciones temporales 10 0,4
+Modificación del trazado Residuos estructurales 3 0,4
+de oleoducto de ENAP4 Cañería existente 103,5 155,3
+Residuos de madera 5 0,5
+Total 121,5 156,6
+Fuente: Elaboración propia, 2024.
+4 Los residuos producto de la modificación del trazado de oleoducto de ENAP serán acopiados temporalmente en el
+mismo sector habilitado en la planta de procesamiento para el acopio de residuos domésticos y asimilables.
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3.3 Fase de cierre
+Residuos Asimilables a Domésticos
+Los residuos sólidos domésticos corresponderán básicamente a restos de comida, envases de alimentos,
+papeles, cartones, plásticos, envases de vidrio, entre otros. Los residuos domésticos serán almacenados
+en recipientes cerrados de plástico con tapa de 200 litros ubicados en los sitios de generación, para
+posteriormente ser llevados al lugar transitorio de acumulación ubicado en el área de almacenamiento de
+esta clase de residuos. El retiro se realizará 3 veces a la semana para ser llevados a un sitio autorizado para
+disposición final. Se verificará que el transporte y disposición final de los residuos cumplan con todas las
+autorizaciones sanitarias para el transporte y destino final de estos.
+Considerando una dotación máxima de 230 personas y una tasa de generación per-cápita de 1
+kg/persona/día, se estima que se generarán aproximadamente 10,8 t/mes de este tipo de residuos.
+A continuación, se presenta el detalle:
+Tabla 2-5. Estimación de Residuos domésticos durante Fase de Cierre
+Cantidad Cantidad
+Sector Tipo de Residuos estimada estimada
+(m3/mes) (ton/mes)
+Alimentos 5,7 4,6
+Plásticos 5,7 5,4
+Planta de procesamiento
+Papeles 5,7 0,5
+Cartones 5,7 0,3
+Total 22,8 10,8
+Fuente: Elaboración propia, 2024.
+Residuos Industriales No Peligrosos
+Durante la fase de cierre del Proyecto se generarán residuos industriales sólidos no peligrosos como restos
+de estructurales, restos de concreto, despuntes de fierro y alambre, despuntes de madera, restos
+eléctricos, de cañería, entre otros. Estos residuos serán clasificados y acopiados en un lugar destinado
+particularmente para esta clase de residuos en el patio de acumulación temporal de residuos, lugar que
+contará con un cerco y señaléticas que indiquen que se trata de un área de acopio temporal, desde donde
+los residuos serán trasladados periódicamente fuera del recinto por una empresa debidamente autorizada
+para realizar el transporte de residuos industriales a un sitio de disposición final autorizado.
+Se estima que en la fase de cierre se generarán 2.554,8 t/mes de residuos industriales no peligrosos, los
+que serán retirados periódicamente para ser trasladados a centros de reciclajes o lugares de disposición
+final debidamente autorizados según corresponda.
+En la siguiente tabla se detalla la estimación de residuos:
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-6. Estimación de residuos industriales no peligrosos Fase de Cierre.
+Cantidad Cantidad
+Sector Tipo de Residuos
+(m3/mes) (ton/mes)
+Residuos de concreto 437,0 1048,8
+Residuos estructurales 2,0 0,2
+Residuos de mecánica 25,0 2,0
+Residuos de cañerías 1,0 1,5
+Residuos eléctricos 1,0 1,5
+Planta de procesamiento
+Demoliciones 600 1.500
+Recubrimiento de tolvas
+0,4 0,4
+de camiones
+Restos de fierro y
+0,1 0,3
+alambre
+Restos de madera 0,3 0,1
+Total 1.066,8 2.554,8
+Fuente: Elaboración propia, 2024.
+Estos residuos serán almacenados de forma temporal en un sector debidamente señalizado y específica
+para dicha función, y serán retirados periódicamente por una empresa debidamente autorizada para
+realizar el retiro de forma periódica a centros de reciclajes o lugares de disposición final debidamente
+autorizados.
+2.4 Diseño de la planta de tratamiento que incluya diagrama de flujo y las
+unidades y equipamiento
+No se considera el tratamiento de los residuos en el área del Proyecto en ninguna de sus fases, puesto que
+sólo se realizará su almacenamiento temporal y posterior traslado por empresas autorizadas a un sitio de
+disposición final autorizado o bien para su reutilización o reciclaje.
+A continuación, se adjunta un diagrama de flujo de generación de los distintos tipos de residuos del
+Proyecto, el lugar de almacenamiento temporal y su lugar de disposición final.
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-3. Diagrama de flujo acopio temporal y disposición final de residuos
+Fuente: Elaboración propia, 2024.
+2.5 Formas de abatimiento de emisiones y de control y manejo de residuos
+Para los residuos domésticos, la generación de emisiones (por ejemplo, olores) será manejada mediante
+el empleo de bolsas plásticas para almacenar los residuos al interior de contenedores plásticos, desde
+donde serán retirados por una empresa autorizada con una frecuencia de 3 veces por semana. Por otra
+parte, se mantendrá la limpieza y el orden en los distintos lugares de generación de residuos.
+En este sentido, debido al manejo realizado y considerando una frecuencia de retiro 3 veces a la semana
+a cargo de una empresa autorizada, los residuos sólidos domésticos no generarán gases u olores molestos.
+En cuanto al acopio temporal de residuos industriales sólidos no peligrosos, cabe señalar que estos no
+contienen materias orgánicas que se descompongan o generen malos olores o emisiones. Sin perjuicio de
+lo indicado, estos residuos se almacenarán en forma ordenada al interior de la zona de acopio temporal.
+2.6 Descripción del sistema de manejo de rechazos
+Dadas las características del Proyecto y el tipo y cantidad de residuos a ser generados, no se considera
+otro manejo que el almacenamiento temporal en los sitios destinados con ese fin, para su posterior
+traslado a un sitio de disposición final autorizado por parte de empresa autorizada, por tanto, no se
+generarán rechazos.
+2.7 Plan de verificación y seguimiento de los residuos a ser tratados y rechazados
+De acuerdo con las características del Proyecto, y considerando el acopio temporal de residuos, el Proyecto
+no se relaciona con tratamiento ni rechazo de residuos.
+La operación del sitio de almacenamiento temporal de residuos industriales no peligrosos contará con un
+sistema de registros documentados y/o electrónicos, en cuanto a su disposición a terceros ya sea para
+reciclaje o sitios autorizados para su disposición final, donde el encargado, cada vez que se realice un retiro
+de residuos, deberá levantar la siguiente información:
+13
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+- Numeración interna y tipo del residuo retirado.
+- Fecha de ingreso a la bodega de almacenamiento.
+- Característica de peligrosidad
+- Cantidad o volumen del residuo retirado.
+- Empresa que efectúa el retiro.
+- Fecha de retiro.
+- Patente del vehículo que efectúa el retiro.
+- Identificación del transportista.
+- Destino final.
+- Encargado.
+2.8 Plan de contingencias
+En el Capítulo 8 del EIA se presenta el Plan de Contingencia donde se detallan las medidas para prevenir
+contingencias, las que estarán enfocadas a prevenir la ocurrencia de eventuales accidentes, permitiendo
+así el trabajo seguro del personal. Para esto, se resguardará la salud, el bienestar de los trabajadores y el
+medio ambiente, a través de la provisión de elementos de protección personal adecuados para cada una
+de las labores desempeñadas.
+Además, el Proyecto mantendrá un sistema de señalización de seguridad compuesto por letreros de
+identificación de seguridad que indicarán los elementos de protección personal mínimo a utilizar al interior
+de la instalación, las vías de evacuación en caso de emergencias, los sistemas de extinción de incendio, la
+zona de seguridad, etc. Asimismo, cada sitio de acopio temporal de residuos contará con su respectiva
+señalización.
+Asimismo, serán aplicadas las siguientes medidas:
+• Charlas se realizarán a cada uno de los trabajadores cuya contratación sea directa o
+subcontratada. Se propone, al menos:
+i. Dar a conocer los sitios de disposición de los distintos tipos de residuos;
+ii. Instruir respecto de la forma de disposición de los residuos, tanto por control sanitario
+como de orden e higiene de los frentes de trabajo y de las faenas;
+• Todo el personal que trabaje en el Proyecto será instruido respecto a la prevención de incendios
+y derrames, y tendrá conocimiento de los planes de contingencia y emergencia.
+• Se implementará señalética en torno a los contenedores de residuos sólidos, de fácil lectura para
+los trabajadores.
+Medidas de contingencia por transporte de residuos a ser realizado por terceros:
+14
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El titular implementará y/o exigirá a las empresas a cargo del traslado de residuos lo siguiente:
+• Se mantendrá en obra un registro de las empresas transportistas autorizadas para el transporte
+de residuos hacia el sitio de disposición final autorizado.
+• Los transportistas deberán seguir los procedimientos de ingreso, circulación, descarga y carga que
+serán establecidos en el plan de seguridad del Proyecto.
+• El Titular entregará una cartilla educativa con las medidas de prevención de accidentes y medidas
+de seguridad en la conducción vial que tenga énfasis en situaciones y condiciones críticas.
+• El Titular recorrerá los caminos que utiliza después de algún evento que pudiera cambiar las
+condiciones normales de operación. En caso de ser necesario se reportará y dará aviso oportuno
+a las autoridades viales y a los proveedores de servicios para tomar las medidas de control
+correspondientes.
+Medidas de contingencia frente a incendios:
+• El plan de prevención de incendios se inicia en el diseño de las instalaciones. Se utilizarán criterios
+de diseño que consideren la locación y factores estructurales de seguridad.
+• Todos los trabajadores se regirán por las medidas y obligaciones establecidas por el Titular del
+Proyecto para minimizar el riesgo de incendio.
+• Se capacitará a los trabajadores en los procedimientos de trabajo seguro para las actividades que
+puedan presentar riesgos de incendios.
+• Se dispondrán de defensas, protecciones y/o encerramientos en áreas donde se efectúen trabajos
+de oxicorte, soldadura, aserrado, corte y desbaste, mantenciones mecánicas y otros.
+• En las instalaciones del Proyecto se dispondrá de los elementos básicos requeridos para combatir
+cualquier amago de fuego o incendio, según lo establecido por la normativa vigente en esta
+materia (extintores, mangueras, tambores con arena, etc.).
+• Se proveerá, mantendrá e inspeccionará los sistemas de extinción de fuego requeridos con la
+frecuencia que indique el fabricante.
+• Se realizarán inspecciones a las instalaciones eléctricas y mantenimientos periódicos a las mismas
+con la frecuencia que indiquen las especificaciones del fabricante.
+• Se conectarán a tierra los equipos que puedan generar chispas y almacenar electricidad estática.
+Medidas de contingencia frente a olores y vectores:
+• En caso de detectarse un aumento de los olores en el área del Proyecto que no sea en el área de
+almacenamiento de residuos sólidos no peligrosos, se procederá a la inspección de la zona
+involucrada y su correspondiente limpieza.
+• En caso de existir una proliferación de vectores, específicamente en lo que se refiere a una
+propagación excesiva de moscas, provenientes de la zona de almacenamiento de residuos, se
+tomarán las siguientes medidas:
+15
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+i. Se solicitará el retiro inmediato por parte de un camión autorizado de los residuos
+involucrados.
+ii. Se reforzará la limpieza y barrido de las zonas involucradas, a modo de eliminar cualquier
+trozo de material, donde las larvas de moscas puedan refugiarse y cumplir su ciclo de
+propagación.
+Adicionalmente, la implementación del Proyecto considera medidas de contingencia y emergencia para la
+operación de las distintas actividades asociadas a su funcionamiento, las que se describen en el Capítulo 8
+Plan de prevención de contingencias y emergencias, del presente EIA.
+2.9 Plan de emergencias
+En situaciones de emergencia, lo más importante es la oportuna comunicación de acuerdo con el
+organigrama establecido y la evacuación de los trabajadores expuestos y/o que puedan interferir en el
+desempeño del Jefe de Turno.
+En la siguiente Tabla, se detallan los tipos de emergencias que pueden afectar el área de Almacenamiento
+de Residuos no peligrosos.
+Tabla 2-7. Descripción medidas de emergencias en sitios de almacenamiento de residuos industriales no
+peligrosos y domésticos.
+Tipos de contingencias y
+Medidas
+emergencias
+Se procederá a:
+• Dar aviso de inmediato al jefe de Planta quien informará a los encargados
+de prevención de riesgos y al comité de emergencia.
+• Dependiendo de la magnitud del evento, se paralizarán inmediatamente
+las operaciones en el área específica y si es pertinente se evacuará a todo
+En caso de detectar una
+el personal, hasta áreas seguras
+situación de emergencia
+• En caso de registrarse accidente, éstos serán llevados a un especialista en
+general
+prevención de riesgos y/o emergencias, inspeccionará el área,
+demarcando las áreas de riesgo. El profesional determinará lo que es
+conveniente respecto del evento que suceda. Si este fuera el caso, se
+informará a las autoridades pertinentes.
+• Control del incidente.
+En caso de emergencia de incendio, se procederá a:
+• Evaluar el nivel de gravedad del incendio para informar de forma
+inmediata a Bomberos.
+• Evitar, siempre que sea posible, que el fuego se propague a otros sectores
+del proyecto combatiendo el fuego (evitando riesgo) con los medios de
+Incendio
+extinción disponibles (extintores).
+• De no ser posible el control del fuego, proceder a evacuación del recinto
+y confirmar la presencia de Cuerpo de Bombero más cercano, entregando
+los antecedentes de los residuos involucrados y las Hojas de Seguridad
+de sustancias almacenadas en caso de existir.
+En caso de proliferación de vectores sanitarios, se procederá a:
+Proliferación de vectores
+• Solicitar el retiro inmediato por parte de un camión autorizado de los
+sanitarios
+residuos involucrados.
+16
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tipos de contingencias y
+Medidas
+emergencias
+• Se reforzará la limpieza y barrido de las zonas involucradas, a modo de
+eliminar cualquier trozo de material, donde las larvas de moscas puedan
+refugiarse y cumplir su ciclo de propagación.
+Al igual que en el Plan de Contingencias, los principales actores responsables son
+el gerente general, el jefe de terreno (Coordinador de Emergencia), el comité de
+emergencias y finalmente todos los trabajadores contratados directamente por la
+empresa titular o por empresas contratistas o externas.
+• Gerente General: Es el responsable de entregar los medios para la
+Prevención y el Control de las Emergencias.
+• Jefe de turno / terreno: Es el responsable del control de las situaciones
+que puedan generar una emergencia, debe realizar inspecciones a las
+Responsables
+áreas, materiales y equipos que pueden ser la fuente de una emergencia
+y tomar las medidas preventivas que correspondan.
+• Comité de Emergencias: Grupo responsable de coordinar las acciones en
+caso de una emergencia.
+• Trabajadores: Deberá participar activamente en el reporte de situaciones
+que pudieran generar una emergencia, así como también acatar las
+instrucciones dadas por su Supervisor cada vez que ocurra una
+emergencia.
+Fuente: GAC.
+Adicionalmente, la implementación del Proyecto considera medidas de contingencia y emergencia para la
+operación de las distintas actividades asociadas a su funcionamiento, las que se describen en el Capítulo 8
+Plan de prevención de contingencias y emergencias del presente EIA.
+3 TRATÁNDOSE DE ALMACENAMIENTO DE RESIDUOS
+3.1 Especificaciones técnicas de las características constructivas del sitio de
+almacenamiento y medidas de protección de condiciones ambientales
+Los residuos sólidos domiciliarios (RSD) serán almacenados dentro de contenedores herméticos con tapa,
+que permanecerán cerrados para evitar la proliferación de vectores sanitarios y/u olores. Estos residuos
+permanecerán en el sitio de acopio temporal para luego ser enviados a disposición final en camiones
+autorizados, a un relleno sanitario aprobado por la Autoridad Sanitaria. El área estará señalizada, tendrá
+cierre perimetral con malla y suelo nivelado y compactado.
+Por su parte, los residuos sólidos industriales no peligrosos (RSINP) serán almacenados en contenedores,
+tolvas, o a granel, dependiendo del tipo de residuos. Cada sitio de almacenamiento de RSINP contará con
+un terreno estabilizado, piso nivelado, cierre perimetral, demarcación al interior de las áreas, las
+señaléticas correspondientes y control de acceso para personal autorizado. Además, se contará con
+distintos sectores de modo que los residuos se almacenarán de forma segregada y ordenada, y contarán
+con un letrero que indique cada tipo de material a acopiar.
+17
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En rigor, las zonas donde se almacenarán los residuos no peligrosos y domésticos tendrán las siguientes
+características:
+• Los sitios de almacenamiento deberán estar demarcados. El sitio de RSD contará con techo.
+• En el sector de acopio temporal de residuos domiciliarios se encontrarán contenedores
+herméticos sobre terreno natural nivelado y despejado; para controlar el tránsito se considera un
+perímetro cercado con malla tipo acma o similar.
+• En el sector de acopio temporal de residuos sólidos industriales no peligrosos, se considera una
+base de radier de hormigón para disponer estos y un perímetro cercado con malla tipo acma.
+Los residuos serán dispuestos por separado, hasta su retiro periódico por una empresa autorizada para
+tales fines, la cual será encargada de llevarlos a un sitio de disposición final. Los residuos industriales serán
+clasificados, y dependiendo de su tamaño, serán dispuestos en contenedores o sobre el piso.
+Las medidas generales consideradas para proteger el medio ambiente serán:
+• Orden y limpieza de los lugares de acopio de residuos.
+• El retiro de residuos industriales no peligrosos y domésticos estará a cargo de empresas que
+cuenten con autorización sanitaria para ello.
+3.2 Capacidad máxima de almacenamiento
+Residuos domésticos y asimilables
+En cuanto a los residuos domésticos, estos se almacenarán temporalmente al interior de basureros con
+tapa, los cuales se mantendrán al interior de las zonas de acopio temporal.
+En la siguiente tabla se detalla la capacidad máxima de almacenamiento en cada fase del Proyecto.
+Tabla 3-1. Capacidad máxima de almacenamiento de residuos domésticos y asimilables.
+Cantidad
+Frecuencia de Contenedores/Cap.
+Fase Sector Tipo estimada
+retiro máx.
+(m3/mes)
+Alimentos 4,7 2 x 1.100 litros
+Instalación de 3 veces a la
+Construcción Plásticos 4,7 2 x 1.100 litros
+faenas semana
+Papeles 4,7 2 x 1.100 litros
+Cartones 4,7 2 x 1.100 litros
+Alimentos 10,1 1 x 660 litros
+Planta de 3 veces a la
+Operación
+procesamiento Plásticos 10,1 semana 1 x 660 litros
+Papeles 10,1 1 x 660 litros
+18
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Cantidad
+Frecuencia de Contenedores/Cap.
+Fase Sector Tipo estimada
+retiro máx.
+(m3/mes)
+Cartones 10,1 1 x 660 litros
+Modificación Alimentos 0,6 1 x 660 litros
+del trazado de Plásticos 0,6 3 veces a la 1 x 660 litros
+oleoducto de Papeles 0,6 semana 1 x 660 litros
+ENAP Cartones 0,6 1 x 660 litros
+Alimentos 5,7 1 x 660 litros
+Planta de Plásticos 5,7 3 veces a la 1 x 660 litros
+Cierre
+procesamiento Papeles 5,7 semana 1 x 660 litros
+Cartones 5,7 1 x 660 litros
+Fuente: Elaboración propia, 2024.
+Residuos sólidos industriales no peligrosos
+La capacidad máxima de almacenamiento del acopio temporal de residuos industriales no peligrosos se
+muestra en la siguiente tabla.
+Tabla 3-2. Capacidad máxima de almacenamiento de residuos industriales no peligrosos.
+Cantidad Frecuencia de Contenedores/Cap.
+Fase Sector Tipo
+(m3/mes) retiro máx.
+Retiro de instalaciones
+2 x 1.100 l
+temporales 18,0
+1 tolva 15 m3 /
+Residuos de concreto
+77,0 granel
+1 x 1100 litros/
+Residuos estructurales
+7,0 granel
+1 x tolva 5 m3 /
+Residuos de mecánica
+39 granel
+Instalación de 2 veces a la
+Construcción Residuos de cañerías 1,0 1 x 1.100 litros
+faenas semana
+Residuos de
+1 x 240 l / granel
+arquitectura 1,0
+Residuos eléctricos 1,0 1 x 660 litros
+Recubrimiento tolvas
+1 x 240 l / granel
+de camiones 0,4
+Restos de fierro y
+1 x 240 l / granel
+alambre 0,1
+Residuos de madera 5,2 1 x 1.100 litros
+Restos de madera 5,5 1 x 1.100 litros
+Restos de fierro y
+0,2 1 x 240 l / granel
+alambre.
+Recubrimiento tolvas
+Planta de 4,1 1 x 240 l / granel
+Operación de camiones 1 vez al mes
+Procesamiento
+Otros (papeles,
+recipientes plásticos,
+0,8 1 x 240 l / granel
+aluminio, vidrio, entre
+otros)
+19
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Cantidad Frecuencia de Contenedores/Cap.
+Fase Sector Tipo
+(m3/mes) retiro máx.
+Retiro de instalaciones
+10 2 x 1.100 litros
+Modificación temporales
+del trazado de 1 x 1100 litros/
+Residuos estructurales 3 1 vez al mes
+oleoducto de granel
+ENAP Cañería existente 103,5 1 x 1.100 litros
+Residuos de madera 5 1 x 1.100 litros
+Residuos de concreto 437,0 1 x 240 l / granel
+Residuos estructurales 2,0 1 x 240 l / granel
+Residuos de mecánica 25,0 1 x 1.100 litros
+1 tolva 15 m3 /
+Residuos de cañerías 1,0
+granel
+Planta de 1 x 1100 litros/
+Cierre Residuos eléctricos 1,0 1 vez al mes
+Procesamiento granel
+1 x tolva 5 m3 /
+Demoliciones 600
+granel
+Recubrimiento de
+0,4 1 x 1.100 litros
+tolvas de camiones
+Restos de fierro y
+0,1 1 x 660 litros
+alambre
+1 tolva 15 m3 /
+Restos de madera 0,3
+granel
+Fuente: Elaboración propia, 2024.
+3.3 Descripción del tipo de almacenamiento, tales como a granel o en
+contenedores
+Los residuos domésticos serán almacenados al interior de bolsas plásticas dispuestas en contenedores con
+tapa en los distintos lugares de generación, desde donde serán almacenados temporalmente en las zonas
+de acopio temporal para posteriormente ser retirados los residuos por una empresa autorizada a un sitio
+de disposición final autorizado.
+Los residuos industriales sólidos no peligrosos por su parte se almacenarán de manera temporal en
+contenedores y/o granel al interior de los patios de salvatajes, de forma ordenada, segregada y clasificada.
+Desde estos sitios de almacenamiento temporal, serán retirados por una empresa autorizada a un sitio de
+disposición final autorizado.
+A continuación, se presentan algunos tipos de contenedores a utilizar en las instalaciones:
+20
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 3-3. Contenedores tipo
+Contenedor Figura tipo
+200 litros
+240 litros
+660-1100 litros
+Tolva 5 m3-15 m3
+Fuente: Elaboración propia
+21
+================================================================================
+PAGE 26
+================================================================================
+Anexo 10-7 PAS 140
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4 INDICADORES DE CUMPLIMIENTO
+• Autorización Sanitaria (Permiso Sectorial) otorgada para la construcción y funcionamiento del área
+de almacenamiento de residuos industriales no peligrosos, en virtud de lo establecido en los
+artículos 79 y 80 del Decreto con Fuerza de Ley Nº 725, de 1967, del Ministerio de Salud Pública,
+Código Sanitario.
+22

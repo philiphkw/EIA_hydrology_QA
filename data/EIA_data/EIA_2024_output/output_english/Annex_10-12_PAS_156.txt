@@ -1,0 +1,924 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-12
+Sectoral Environmental Permit
+No. 156
+EIA "Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate"
+B iobio Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Environmental Impact Study
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+Annex 10.12
+Sectoral Environmental Permit No. 156
+Date: June, 2024
+==================================================================================
+PAGE 3
+==================================================================================
+ANNEX 10.12
+Sectoral Environmental Permit No. 156
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+FMR GCB AVF
+1 05/27/2024 Project Manager
+Project Engineer Senior Engineer
+Engineering
+Review Date Prepared Reviewed Approved
+Annex 10.12
+Page 2 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 4
+==================================================================================
+Index
+1. Introduction ................................................................................................... 5
+2. Technical and Formal Contents that Accredit Compliance with PAS 156 ..... 6
+2.1. Description of the location of the Work ........................................... 7
+2.1.1. Identification of Channels ........................................................................... 11
+2.1.2. UTM Coordinates of the Works and Description of the sector in which they are
+the Works will be located ................................................................................................ 13
+2.1.3. Description of the General Characteristics of the Channel 100 meters before
+and after the modification ................................................................................... 15
+2.2. Description of the Work and its Phases ........................................................................... 16
+2.2.1. Detail type of work, function, construction characteristics and dimensions
+basics................................................................................................................ 16
+2.2.2. Description of the Construction, Operation and Abandonment stage if
+corresponds ........................................................................................................... 25
+23. Estimation of the Deadlines and Construction Periods of the Works ................ 27
+2.4. Measures to Minimize the Effects on Water Quality,
+Downstream of the Construction Site of the Works ........................................................... 28
+2.4.1. About the crossing works in channels and streams ................................... 28
+2.4.2. Plant Extraction, Disposal and Storage Areas................................... 30
+2.5. Water Quality Monitoring Plan during the Construction Phase
+........................................................................................................................... 32
+Annex 10.12
+Page 3 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 5
+==================================================================================
+Index of Figures
+Figure 2-1. General Project Location, UTM WGS 84/ H18S. .................................... 8
+Figure 2-2. Project works referring to Extraction, Disposal, and Stockpile areas
+Vegetable and internal roads UTM WGS 84/ H18S. ............................................................ 9
+Figure 2-3. Hualpén – San Fernando Oil Pipeline Layout in ZE Maite. ......................... 10
+Figure 2-4. Drainage Network of the area where the Project is located, UTM WGS 84/
+H18S. ............................................
+................................................................................... 11
+Figure 2-5. Crossings associated with the Pipeline, UTM WGS 84/ H18S. ........................... 12
+Figure 2-6. 3-duct sewer type crossing scheme. ................................... 18
+Figure 2-7. Longitudinal section of creek crossing with culvert. ........................... 19
+Figure 2-8. Cross section of creek crossing with culvert. ........................... 19
+Figure 2-9. Example diagram of crossing using boxes................................................... 20
+Figure 2-10. Location of the Alcantarilla and Cajón type crossings, UTM WGS 84/ H18S.
+....................................................................................................................................... 21
+Figure 2-11. Scheme of change in topography for extraction areas. ......... 22
+Figure 2-12. Cross-sectional profile of pipeline layout. ................................................ 24
+Figure 2-13. Crossing Type Control Points, UTM WGS 84/ H18S. ........................... 33
+Table Index
+Table 2-1. Centroid coordinates of each Project Zone................................................ 9
+Table 2-2. Project crossings and their coordinates. ................................................... 13
+Table 2-3. Description of the analysis points. ............................................................ 14
+Table 2-4. Basic dimensions of culverts at road crossings. ....................... 17
+Table 2-5. Design of box-type traverses. ................................................................... 21
+Table 2-6 Schedule for the start of operations for the project areas. .............. 25
+Table 2-7. Gantt chart construction of culvert and box type crossings. ................. 27
+Table 2-8. Comparison of SPLP results with D.S N°90 (Table N°1) and NCh 1.333. 31
+Table 2-9. 34 Crossing Type Control Points. ............................................................ 34
+Annex 10.12
+Page 4 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 6
+==================================================================================
+1. Introduction
+The Mining Development Project for the Extraction of Clays for the Production of
+Rare Earth Concentrate, hereinafter, interchangeably, the “Project”, corresponds
+to the set of parts, works and actions that will allow the construction, operation and
+closure of a mining site for the extraction and processing of clays, material
+present in the area, which, due to natural effects, is highly weathered,
+with the presence of rare earths in clay minerals. The Project will be developed
+mainly in the commune of Penco, Province of Concepción, Biobío Region, without
+damage that part of the works are located in the commune of Concepción, on the border
+with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three
+(3) clay extraction zones (ZE Victoria Norte, ZE Luna, ZE Maite), one (1) zone of
+provision for ballast and processed clays (ZD Neptuno), one (1) storage area
+topsoil (ZAV), a clay processing plant (the “Plant”), a stockpile
+for the temporary collection of material prior to processing, an electrical line and its
+connection to existing line and the construction of internal roads to access the
+different areas. The Processing Plant will have a capacity to process up to
+320 tons/hour of material to produce Rare Earth concentrate. Furthermore, it
+considers the modification of an existing section of approximately 1.22 kilometers
+of the Hualpén – San Fernando oil pipeline, property of ENAP, reason for the exploitation of
+the ZE Maite. The Project in turn includes the implementation of temporary works
+corresponding to work facilities for the construction and enabling of the
+Project works.
+In Chapter 10 Applicable Environmental Regulatory Compliance Plan, a
+an analysis of Content Only Sectoral Environmental Permits
+Environmental and Mixed, established in Title VII of the System Regulations
+of Environmental Impact Assessment (D.S. Nº40/2012 of the Ministry of the Environment
+Environment),
+where the applicability of the Mixed Sectoral Environmental Permit was identified
+of article 156, given that the project requires making channel modifications in
+both contemplates crossing works associated with the enabling of roads that cross
+channels or streams required for the development of the project.
+Annex 10.12
+Page 5 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 7
+==================================================================================
+The article on which the Mixed Sectoral Environmental Permit is based states the following:
+Article 156.- Permission to make channel modifications.
+The permission to make channel modifications will be as established in article 41 e
+paragraph 1 of article 171 of Decree with Force of Law No. 1,122, of 1981, of the Ministry
+of Justice, Water Code, as long as it is not a matter of regularization or
+defense of natural channels. The requirement for its granting is not to affect the
+life or health of the inhabitants, through the non-pollution of waters.
+The technical and formal contents that will be presented in the following report, to
+prove compliance with the requirements set forth in the relevant article, are
+detailed below:
+a) Description of the location of the work.
+b) Description of the work and its phases.
+c) Estimation of the deadlines and construction periods of the works.
+d) Measures aimed at minimizing the effects on the quality of water, water
+below the construction site of the works.
+e) Water quality monitoring plan during the construction phase.
+2. Technical and Formal Contents that Accredit the
+Compliance with PAS 156
+Pursuant to the requirements of article 156 of the SEIA Regulations, below,
+Both technical and formal contents are presented that allow accreditation of the
+compliance with the requirements of the aforementioned PAS 156, which apply to crossings of
+natural channels.
+Annex 10.12
+Page 6 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 8
+==================================================================================
+2.1. Description of the location of the Work
+The project will be located in a rural sector, in the commune of Penco and Concepción,
+Province of Concepción, in the Bio Bío Region. The intervention zone is an area
+close to the coast, essentially used for forestry.
+According to the DGA Classification (Inventory of basins, sub-basins and
+subsubbasins of Chile, DGA, 2014), the intervention area is located in the basin
+Coastal and Islands between Rio Itata and Rio Bio Bío (Basin Code 082) and between the sub-basins
+Coastal Río Pingueral and Río Andalién (Subbasin code 0821). These basins are
+of the Coastal Exorheic type.
+Within these small coastal basins, some have permanent runoff
+while others have small estuaries and water outcrops
+exclusively in the winter months, after storms. According to him
+document “Diagnosis and classification of courses and bodies of water according to objectives
+of quality, Itata River Basin”, DGA, 2004, the regime of these basins is clearly
+rainfall, marking high flows in the months associated with the southern winter and low
+in the dry season.
+The Project considers disposal, storage and extraction areas in some basins
+coastal areas of the sector, modifying the natural drainage network of the channels. Furthermore, it
+will consider different types of crossings (culvert or works of art) that will allow the
+vehicle traffic, due to the need to enable interior roads, towards the
+different sectors of the Project.
+Figure 2-1 shows the general location of the project, while Figure
+2-2 shows the location of the different extraction, disposal and
+plant collection, as well as internal roads and facilities.
+Annex 10.12
+Page 7 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==============================================================
+=====================
+PAGE 9
+==================================================================================
+Figure 2-1. General Project Location, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024
+Annex 10.12
+Page 8 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 10
+==================================================================================
+Table 2-1 details the coordinates of the centroids of the extraction zones,
+disposition and collection of vegetal soil, while Figure 2-2 its location in the
+map:
+Table 2-1. Centroid coordinates of each Project Zone.
+WGS 84 UTM 18S coordinates
+Type Name
+East North
+Neptune disposal zone 679,978 5,929,528
+Collection area Vegetable soil collection area 680,651 5,929,438
+Luna extraction area 681,563 5,928,804
+Maite extraction area 680,497 5,928,446
+Victoria North extraction zone 681,246 5,931,015
+Source: Own elaboration, 2024.
+Figure 2-2. Project works referring to Extraction, Disposal, and Stockpile areas
+Vegetable and internal roads UTM WGS 84/ H18S.
+Source: Own elaboration, 2024
+Annex 10.12
+Page 9 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 11
+==================================================================================
+Additionally, at the location of the Maite Extraction Zone, there is a projected
+ENAP underground oil pipeline, as shown in the following image:
+Figure 2-3. Hualpén – San Fernando Oil Pipeline Layout in ZE Maite.
+Source: Own elaboration, 2024
+Annex 10.12
+Page 10 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 12
+==================================================================================
+2.1.1. Channel Identification
+With respect to the location of the channels, Figure 2-4 shows a general plan of
+the natural drainage network in the area of influence of the Project, the different areas of
+disposal, extraction and plant collection, the project facilities and road network,
+and the location of the crossings and/or channel modification (Points of Interest):
+Figure 2-4. Drainage Network of the area where the Project is located, UTM WGS 84/
+H18S.
+Source: Own elaboration, 2024
+It is worth mentioning that the process plant, located within the Facilities polygon,
+It does not imply any impact on the natural drainage network.
+Annex 10.12
+Page 11 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 13
+==================================================================================
+In the case of the Oil Pipeline, Figure 2-5 shows the arrangement of the channels in said
+zone, where the IGM Channels 1:50,000 are added as a reference and the points where
+generates the intersection with the pipeline route:
+Figure 2-5. Crossings associated with the Pipeline, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024
+It can be seen in the previous figure that the pipeline layout generates 2 points
+intersection with the IGM channels.
+Annex 10.12
+Page 12 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 14
+==================================================================================
+2.1.2. UTM Coordinates of the Works and Description of the
+sector in which the Works will be located
+The construction site sector corresponds to interior roads to be built.
+within the context of the mining plan, developed for the exploitation of different
+extraction and disposal areas. The crossing works will be located at the crossings of
+roads with ravines, aiming not to interfere with the natural course of the
+waters, preserving the natural drainage network.
+The background associated with channel regulation or defense works
+natural s
+necessary for the extraction, disposal and storage areas of vegetal soil.
+presented in Annex 10.13 of Chapter 10 of the EIA-PAS 157. Table 2-2 presents the
+UTM coordinates of the 23 road crossings with the channels, displayed in the
+Figure 2-4.
+Table 2-2. Project crossings and their coordinates.
+UTM WGS 84/ H18S coordinates
+traversal ID
+East North
+OAT 11-1 681,552 5,929,350
+OAT 7-4 681,130 5,928,765
+OAT 7-2 680,866 5,928,888
+OAT 5-11 679,976 5,930,014
+OAT 5-10 679,874 5,930,015
+OAT 2-3 681,502 5,929,674
+OAT 2-2 681,501 5,929,634
+OAT 2-1 681,523 5,929,552
+OAT 1-18 681,368 5,929,241
+OAT 1-17 681,092 5,929,093
+OAT 1-16 680,935 5,929,125
+OAT 1-15 680,841 5,929,248
+OAT 1-14 680,736 5,929,268
+OAT 1-11 680198 5,929,182
+OAT 1-8 680,454 5,929,082
+OAT 1-6 680,495 5,928,930
+OAT 38-1 681,483 5,929,744
+OAT 22-9 681,464 5,930,925
+OAT 22-8 681,472 5,930,845
+OAT 22-5 681,961 5,930,557
+OAT 11-3 681,524 5,929,374
+OAT 7-6 680,980 5,928,677
+Source: Own elaboration, 2024.
+Annex 10.12
+Page 13 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 15
+==================================================================================
+For the modification of the Pipeline, and as mentioned above,
+2 points of interest, which correspond entirely to pipeline crossings
+designed with natural channels. The description of the mentioned points is presented
+in Table 2-3.
+Table 2-3. Description of the analysis points.
+UTM WGS 84/ H18S
+Point Description
+E N
+Basin 1 680,004 5,928,378 Crossing Projected pipeline with IGM channels.
+Basin 2 680,415 5,928,055 Crossing Projected pipeline with IGM channels.
+Source: Own elaboration, 2024.
+Annex 10.12
+Page 14 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 16
+==================================================================================
+2.1.3. Description of the General Characteristics of the Channel
+100 meters before and after modification
+In relation to the general hydrological characteristics of the basins, according to
+antecedents present in the Hydrogeological Study of the Bío Bío Basin (DGA, 2012),
+could observe that, due to its coastal location, the regime is purely rainfall. The
+Drainage patterns are of the dendritic type, which warn that these are soils
+with a fine, clayey texture or with a superficial rocky layer, which causes a low
+permeability, facilitating the runoff of precipitation and with it the erosion of the
+pedological profile, with subsequent formation of channels that shape the structure
+of taxpayers to the main basin. The roads will cross ravines with
+presence of both permanent and sporadic runoff (caused purely by
+storms). The latter correspond to the general drainage network of the basins.
+There is no built infrastructure or singularities located within a radius of 300 (m)
+regarding the future location of the sewers or caissons contemplated in the
+Project. The basins associated with the extraction and disposal areas have channels
+with permanent flows of low load in the low areas, and channels without flows
+permanent in the upper areas of their basins, being mostly streams
+where rainwater drains in the rainy season.
+The areas are found with extensive cover of quila bushes and some shrubs,
+reducing access in certain sectors. Beyond the banks, the slopes
+increase and the vegetation is of introduced origin, which closes the visual field with
+extensive forest plantations of eucalyptus and radiata pine.
+For the disposal and extraction areas there are no natural singularities or
+built infrastructure that conditions the hydraulic axis in the intervention area
+of the project.
+Annex 10.12
+Page 15 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 17
+==================================================================================
+2.2. Description of
+the Work and its Phases
+2.2.1. Detail type of work, function, characteristics
+construction and basic dimensions
+The scope of this PAS is intervention in natural channels and streams,
+where the Extraction Zones, Disposal Zone and Storage Zone are projected.
+Vegetable soil involving ravines, in addition to road crossing works
+at various points on the planned roads and intersections due to the modification of the
+pipeline.
+Given that the plant extraction, disposal and storage areas are located in the parts
+highest in the basin, the impact on the normal runoff regime (in case of
+runoff) is practically nil.
+2.2.1.1. Crossings of Quebradas
+The function of the hydraulic works associated with road crossings is to preserve the
+continuity of the natural flow from the runoff generated in the events of
+storm, which will be intercepted by the projected road infrastructure. They project
+2 types of works, depending on the potential flows associated with each of the
+unique crosses. In this way, the types of stream crossing will be materialized
+by:
+Sewers: They correspond to the location of one or more galvanized steel pipes
+corrugated (or High Density Polyethylene technically similar to corrugated steel) by
+under the carriageway of the road to be enabled. These are located at a
+defined depth so as not to be affected by the live loads of the trucks that
+will travel through the project area. The entrance to the sewer will be lined
+with lean concrete structures in order to conduct the water inside the tube(s) and
+serve as structural support.
+The entrance to the sewer will include works that channel the water in order to minimize the
+load loss. The length of the culverts will be similar to the width of the roads to
+cross The transverse dimensions of the sewers, heights associated with the
+runoff in operation and other parameters related to the hydraulic design are
+found in Table 2-4.
+Annex 10.12
+Page 16 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 18
+==================================================================================
+Table 2-4. Basic dimensions of culverts at road crossings.
+total Q
+h
+T=100 Sewers Unitary Q Diameter Velocity
+hydraulic ID
+years
+(m3/s) # (m3/s) (m) (m) (m/s)
+OAT 11-1 0.019 1 0.019 0.60 0.05 1.86
+OAT 7-7 0.172 1 0.172 0.60 0.13 3.75
+OAT 7-2 0.079 1 0.079 0.60 0.10 2.41
+OAT 5-11 0.126 1 0.126 0.60 0.13 2.76
+OAT 5-10 2.515 3 0.838 1.20 0.27 4.44
+OAT 2-3 0.083 1 0.083 0.60 0.10 2.53
+OAT 2-2 0.038 1 0.038 0.80 0.06 2.40
+OAT 2-1 0.556 1 0.556 1.00 0.18 5.75
+OAT 1-18 0.069 1 0.069 0.60 0.08 2.96
+OAT 1-17 0.132 2 0.066 0.60 0.07 4.00
+OAT 1-16 0.188 1 0.188 0.60 0.20 2.31
+OAT 1-11 0.073 1 0.073 0.60 0.07 3.90
+OAT 1-8 0.270 2 0.135 0.80 0.09 4.21
+OAT 38-1 0.224 1 0.224 0.60 0.16 3.83
+OAT 22-5 0.297 1 0.297 0.60 0.20 3.65
+OAT 11-3 0.024 2 0.012 0.60 0.04 1.30
+OAT 1-14 5.280 3 1.760 1.20 0.33 7.04
+OAT 7-6 4,900 3 1,633 1.20 0.31 7.12
+Source: Own elaboration, 2024.
+Annex 10.12
+Page 17 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 19
+==================================================================================
+On the other hand, the culvert type work scheme is shown in Figure 2-6, Figure
+2-7 and Figure 2-8.
+Figure 2-6. 3-duct sewer type crossing scheme.
+Source: Highway Manual, Volume 4.
+Annex 10.12
+Page 18 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 20
+==================================================================================
+Figure 2-7. Longitudinal section of creek crossing with culvert.
+Source: Highway Manual, Volume 4
+Figure 2-8. Cross section of creek crossing with culvert.
+Source: Highway Manual, Volume 4.
+Annex 10.12
+Page 19 of 34
+Sectoral Environmental Permit No. 156
+Extr Mining Development Project
+action of Clays for the Production of Rare Earth Concentrates
+==================================================================================
+PAGE 21
+==================================================================================
+Drawers: They correspond to reinforced concrete works with a rectangular section, and may
+prefabricated elements may be used as long as they comply with the dimensions
+associated with the defined carrying flow. These works will be installed below
+of the roadway, at a defined depth so as not to be affected by the live loads of
+the trucks that will transit through the project area. The entrance to the box is
+covered with a reinforced concrete structure, as well as wing walls on both
+extremes, in order to improve the conduction of water towards the box, reduce the
+erosion on the sides of the channel and reduce the energy of water entering the work.
+Figure 2-9. Example diagram of crossing using boxes.
+Source: Highway Manual, Volume 4
+The dimensions of the cross section of the caissons, the hydraulic height associated with
+the runoff that crosses them and other parameters related to the design
+hydraulic, are presented in Table 2-5. The methodology for obtaining the
+Design flow rates and flow characteristics can be found in the Appendix
+10-13.3- Hydraulic Works:
+Annex 10.12
+Page 20 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 22
+==================================================================================
+Table 2-5. Design of box-type traverses.
+Q total Height
+Unitary Q Drawers Width Height Speed
+ID T=100 years Hydraulics
+(m3/s) # (m3/s) (m) (m) (m) (m/s)
+OAT 1-15 4.736 2 2.37 2.5 2 0.15 6.22
+OAT 1-6 11.689 3 3.90 2.5 2 0.18 8.68
+OAT 22-9 9.807 3 3.27 2.5 2 0.21 6.17
+OAT 22-8 46.668 3 15.56 3.0 2 0.61 10.20
+Source: Own elaboration, 2024.
+It should be noted that none of the planned works (boxes and sewers) will require
+of channel regularization works additional to what has already been stated above.
+Finally, Figure 2-10 shows the location on the map of each type crossing.
+manhole and box.
+Figure 2-10. Location of the Alcantarilla and Cajón type crossings, UTM WGS 84/
+H18S.
+Source: Own elaboration, 2024
+Annex 10.12
+Page 21 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 23
+==================================================================================
+2.2.1.2. Plant Extraction, Disposition and Storage Areas
+Extraction Zones: The extraction zones or “ZE” from now on, correspond to
+sectors within the Project area where the mineral will be obtained that will be taken to the
+Processing plant, transporting the remaining material to the disposal areas.
+The mineral extraction will be carried out in staggered and sequential banks of
+approximately 6 meters wide and 6 meters high, descending. Of
+In this way, the extraction will begin in the topographical heights, building the banks
+towards the lower sectors.
+Figure 2-11 shows the shape of the extraction area as a reference.
+after extracting the mineral.
+Figure 2-11. Scheme of change in topography for extraction areas.
+Source: Own elaboration, 2024
+The extraction sectors will be identified by their names; Maite, Victoria
+North and Moon. Extraction activities will correspond to earthworks
+carried out through the use of excavators, which will move through the
+running bank. On the other hand, and to extract/transport the excavated material,
+You will find trucks outside the worked banks waiting for their hoppers to be
+loaded.
+In each extraction area, limited work fronts will be maintained where it will be
+operating the machinery and, once the extraction of the mineral from a bench is completed,
+The next bank will be enabled (always in a descending direction).
+Annex 10.12
+Page 22 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==============================
+==================================================================
+PAGE 24
+==================================================================================
+Disposal Zone: The Disposition zone or “ZD” hereinafter, corresponds to the zone
+of the project where it will be filled, for final disposal, with waste from the
+extraction areas and the washed ore from the processing plant.
+processed mineral from the processing plant that will be disposed of in the
+disposal areas does not correspond to tailings, since it does not correspond to a
+“suspension of solids in liquids forming a pulp.”
+This solid material will have a moisture content in the range of 5-25%, which
+can be compacted and will be arranged in layers that will be compacted as
+moment of its disposal, forming a stable structural fill in this area.
+Furthermore, the stability of the deposit will be given by the design in terms of slopes that
+will be formed, and to the arrangement and compaction in layers of the material to be disposed.
+Vegetable Collection Zone: The Vegetable Collection Zone or “ZAV” from now on, corresponds
+to the project area where the natural soil extracted from the escarpment of the
+soil layer to be made in the extraction areas and disposal areas.
+Annex 10.12
+Page 23 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 25
+==================================================================================
+2.2.1.3. San Fernando-Hualpén Pipeline
+Given that there are 2 channels that superficially cross the pipeline route, it is
+seeks to prevent the pipeline from generating any impact on natural channels. For
+the above, it is necessary that the general scour effects do not reach the
+depth of the pipe key.
+Figure 2-12 shows, schematically, a transverse profile with the
+arrangement of the pipe, where it is important to highlight that the key to this will be at the
+least 1.5 m below ground level.
+Figure 2-12. Cross-sectional profile of pipeline layout.
+Source: Aclara, 2024
+Since the results of the hydraulic modeling, present in Annex B - Report
+Hydraulic Pipeline, they showed scour values less than 50 cm for the point
+basin 1 and 0 cm for basin 2, it is concluded that the natural channels will not be seen
+affected by the pipeline. Furthermore, the operation will not be affected.
+normal of the pipeline and it will not be necessary to design mitigation works at said points.
+Annex 10.12
+Page 24 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 26
+==================================================================================
+2.2.2. Description of the Construction, Operation and
+Abandonment if applicable
+2.2.2.1. Crossings of Quebradas
+The construction of road crossing works over ravines corresponds to a
+activity that will be carried out both in the construction phase and in the operation phase
+of the Project, constructing a crossing work at the time of enabling the roads that
+lead to one area or another (extraction area or disposal area). The enabling of
+The crossings will be generated once the respective sector comes into operation.
+Below is a general schedule with the start of operations of
+each area contemplated by the Project:
+Table 2-6 Schedule for the start of operations for the project areas.
+years
+Activity Area
+1 2 3 4 5 6
+Extraction of
+ZE Moon
+material
+ZE Victory Extraction
+Material North
+Extraction of
+ZE Maite
+material
+ZD Layout
+material neptune
+Source: Own elaboration, 2024.
+Annex 10.12
+Page 25 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 27
+==================================================================================
+The construction of the crossing works involves carrying out the following activities:
+Sewers and drawers:
+• Location of the land and cleaning of the area of influence.
+• Topographical layout using stakes.
+•
+Earth movement. Trench excavation, according to the design depth
+• Stabilization of the terrain and filling of the support.
+• Construction of inlet/outlet concrete support and fill bed
+compacted.
+• Installation of the prefabricated culvert and verification of design slopes.
+• Closing the ends of the culvert/box with concrete. Materialization of works
+input.
+• Road coverage using superstructure material.
+• Quality control and verification. Issuance of quality report.
+Regarding the entry into operation of the crossing works, the work will be left enabled
+for the free passage of runoff that may be generated from the streams,
+crossing the Project's vehicular traffic road. Supervision is contemplated
+periodically of the crossing works, considering the review by the personnel of the
+Project. For specific cases such as seismic events or floods caused by
+important rainfall events, an exhaustive review will be carried out by the
+team in charge, in order to verify normal operation of each crossing work
+and, if necessary, carry out the required repairs.
+It is not considered a closure stage associated with road crossing works in ravines,
+because, considering that forestry activities are carried out in the area that
+involve the transit of trucks in the place, both the internal roads of the Project
+such as the crossing works that are enabled throughout the development of the Project
+They will remain installed for your use.
+Annex 10.12
+Page 26 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 28
+==================================================================================
+23. Estimation of Construction Terms and Periods
+the works
+The culverts and caissons will be built according to the need to enable roads for
+the extraction zones (ZE), disposal zone (ZD) and the modification of the pipeline.
+This will be carried out on the basis of the Mining Plan for the exploitation of the project.
+To enable stream crossings through culverts and works of art
+Prefabricated box type is considered a total execution time of the order of 17 days.
+The specific deadlines for each of the tasks to be carried out in the execution of the works
+are detailed in the Gantt charts presented in Table 2-7.
+Table 2-7. Gantt chart construction of culvert and box type crossings.
+Days since start of tasks
+Task 1 1 1 1 1 1 1
+1 2 3 4 5 6 7 8 9 17
+0 1 2 3 4 5 6
+Location of the land and cleaning of the
+area
+Topographical layout by means of
+stakes
+Earthworks, Excavation
+trenches according to the design depth
+Ground stabilization and filling
+support
+Concrete support construction
+entry/exit and filling bed
+compacted
+Installation of the manhole or box
+precast and slope verification
+design
+Closure of manhole/box ends
+with concrete. Materialization of works
+input.
+Road coverage using material
+of the superstructure
+Quality control and verification. Broadcast
+quality report
+Source: Own elaboration, 2024.
+Annex 10.12
+Page 27 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 29
+==================================================================================
+2.4. Measures to Minimize the Effects on the
+Water Quality, Downstream of the Place of
+Construction of the Works
+2.4.1. About the crossing works in channels and streams
+The crossing works arranged in the Project correspond to works of art of the type
+sewer and drawers. These works will be implemented at the crossing points of the
+internal roads of the Project with the ravines present in the sector. The works of
+crossings will allow the free flow of runoff that is generated. Not contemplated
+in construction and operation activities of these crossings, the discharge of some type
+of substance to the streams.
+For streams that have channels with intermittent flows and in which it is contemplated
+the construction and/or installation of any crossing work, will be considered as rest
+riction
+of work that there is no runoff, the above with the objective of preserving the
+quantity and quality of water in the sector.
+The beginning of the work necessary to enable the pipes and works of art
+It will only be carried out once the permits granted by the DGA and RCA are obtained.
+approved of the Project.
+Additionally, a river pollution prevention plan will be established.
+where general measures are provided, detailed below:
+• Training of Workers regarding the importance of water resources
+and contaminants. In this same sense, the
+elimination of waste inside the channels.
+• The personnel in charge of the works will be trained with the objective of preserving the
+conditions of the streams and avoid disturbance by elements, materials
+or substances other than those in the streams. A record will be kept of this
+activity in the work facility.
+• The access roads to the work fronts will be moistened in order to limit
+the lifting of land. In addition, traffic will be limited to low speeds.
+(maximum speed 35 km/h).
+Annex 10.12
+Page 28 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 30
+==================================================================================
+• Management of contaminating elements or materials in the installation of tasks in
+the place determined for this.
+• It will be prohibited to carry out any type of repair or maintenance of vehicles or
+machinery in places adjacent to the channels.
+• The placement of collections of debris and garbage that could
+remain in the channel (preferential runoff routes) and that may affect
+the quality of the waters.
+• In order to avoid possible spills of oils, lubricants, fuels or
+any liquid waste coming from machinery or equipment, it will be preferred
+operation on the outer side of the channels.
+The Project will use vehicles in good condition and with up-to-date technical inspections,
+considering carrying out maintenance, thus avoiding any accidental spill of
+fuel or hydrocarbons in streams.
+It should also be noted that the Project will manage its waste in accordance with the
+current regulations, enabling temporary collection places for the storage of
+waste, either in the installation of works during the construction phase and in the
+sector of the processing plant during the operation phase, from where the
+waste will be removed by authorized companies to a final disposal site
+authorized.
+Annex 10.12
+Page 29 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 31
+==================================================================================
+2.4.2. Plant Extraction, Disposition and Storage Areas
+Regarding the characteristics of the material to be disposed in the disposal areas, and
+measures aimed at minimizing the effects on water quality,
+Particularly referring to water quality monitoring, there is the following:
+2.4.2.1. About the mineral present in the place
+Considering the lithological units found in the Project area and the
+mineralogy present in these, it can be concluded that the rocks and clays of Penco are not
+acidity generators since they do not contain sulfide minerals. In relation to what
+above, it should be noted that the acidic waters common in other types of mining originate
+through the chemical and biological oxidation of pyrite. This phenomenon occurs when
+Rocks containing these sulfides come into contact with oxygen (air or water) in
+suitable conditions.
+The units found in the Project development zones correspond to
+2 types; intrusive rocks of the coastal batholith, which are locally grouped in the
+Penco Plutonic Complex, and metamorphic rocks, called Metapelites. During
+studies of the materials present in the project area, the
+current “in situ” natural conditions and processes of the saprolite that will be exploited,
+concluding that it does not present any type of water or drainage formation.
+to
+acids in the project area or surrounding areas. The mineralogical composition of the material
+which will be extracted from the mine, processed in the plant and subsequently taken to the areas
+disposition, it is quite homogeneous and is composed mainly of clays
+(40%), quartz (30%), micas (10%) and iron oxides (9%), and does not present any type of
+sulfides. In Annex 1-9 of Chapter 1 of the EIA, the details of the geochemistry are presented.
+of the clays to be processed (material from the extraction areas).
+.
+Annex 10.12
+Page 30 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 32
+==================================================================================
+2.4.2.2. Characteristics of the processed material (clays
+processed) coming from the Plant (Material from Zone of
+Disposition)
+For the purposes of characterizing the processed material, the SPLP test has been executed.
+“Synthetic Precipitation Leaching Procedure” (EPA, 1994), referred to in Article 23
+of D.S N°148/2003, MINSAL, and recommended in the Methodological Guide for the
+Chemical Stability of Mining Sites and Facilities, (SNG et al., 2015). The test
+is designed to simulate the mobility of organic and inorganic compounds from
+of a waste exposed to acid rainwater, for which it is shaken for 18 hours, a
+portion of the material with an acidic solvent at pH 4.2, the solution is analyzed by
+cations, anions and trace metals, including Sulfates and Ammonium. The results of the
+SPLP test, were compared with the maximum permissible limits of the standards of
+water quality D.S N°90/2000, SEGPRES, and NCH 1333 (INN, 1987), concluding that
+is in the same order of magnitude as the norms indicated for Sulfate and
+Ammonium (Annex 10.3 PSAM 136, Appendix 10-3.3 of this EIA), as summarized in
+the following table.
+Table 2-8. Comparison of SPLP results with D.S N°90 (Table N°1) and NCh 1.333.
+LMP (mg/l)
+SPLP (mg/l) D.S N°90 LMP (mg/l)
+Element Average concentration) Table 1 NCh1333
+Sulfates (mg/l) 210 1000 250
+Ammonium (mg/l) 17 64* -
+*Equivalent to 50 mg/l of total Kjeldahl N
+Source: D.S N°90 and NCh 1333.
+Since the SPLP Test simulates the interaction of sprayed material with acid rainwater
+in agitation for 18 hours, completely extreme or unfavorable condition from the
+environmental point of view, which is far from reality on the ground, where the interaction of
+material will be with normal rainwater (water close to neutrality pH 5.5), therefore
+surface runoff and poor infiltration (due to the level of compaction that will have
+waste in the disposal areas), the concentrations will be lower than the
+obtained in the tests, limited to the limits referred to in NCh 1,333
+and D.S N°90/2000, MINSEGPRES.
+Annex 10.12
+Page 31 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 33
+==================================================================================
+2.5. Water Quality Monitoring Plan during
+the Construction Phase
+The Project considers maintaining periodic observation of the crossing works, and in
+particular, observation of these works after a seismic event has occurred and/or
+pluviometric of importance, considering the supervision of these works by the
+Project personnel, in order to verify the normal functioning of each work
+crossing, and carry out the required repairs if necessary. However,
+It should be noted that this monitoring is related to verifying the conditions of
+traffic safety of personnel in vehicles.
+Additionally, water quality monitoring is contemplated. In
+effect, then in Figure 2-11 the monitoring points of the
+water quality during the construction phase, proposed for channels
+individualized within the area of influence of the Project. These points are found
+classified according to the type of element they monitor, having for purposes of
+this PAS, three (3) elements to control; Basins in which the Project is located, Works
+of the Project (extraction, storage and disposal areas) and road crossings with channels
+in any of its forms (box or sewers).
+Table 2-8 details the location of the monitoring points during the
+construction. It should be noted that the points where the monitoring of
+water quality parameters, no work is considered to carry out said
+monitoring.
+Below are the proposed monitoring points, the majority being 1
+point upstream and 1 point downstream of each crossing, being at
+approximately 100 m of these. It should be noted that the points where the
+monitoring of water quality parameters (Temperature, pH, Dissolved Oxygen,
+Electrical conductivity, Total Dissolved Solids, Oils and Fats), from which
+will extract the samples to be analyzed, it does not consider any work to be built within
+the channel section.
+Annex 10.12
+Page 32 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 34
+==================================================================================
+Figure 2-13. Crossing Type Control Points, UTM WGS 84/ H18S.
+Source: Own elaboration, 2024
+Annex 10.12
+Page 33 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+==================================================================================
+PAGE 35
+==================================================================================
+Table 2-9. Crossing type Control Points.
+WGS 84 UTM 18S Coordinates Location respect
+Traversal ID
+This North of crossing
+Control Point OAT 1-8(1) OAT 1-8 680,516 5,929,163 Upstream
+Control Point OAT 1-8(2) OAT 1-8 680,361 5,929,088 Downstream
+Control Point OAT 1-6(1) OAT 1-6 680,451 5,929,006 Downstream
+Control Point OAT 1-6(2) OAT 1-6 680,606 5,928,837 Upstream
+Control Point OAT 5-10(1) OAT 5-10 679,864 5,929,938 Upstream
+Control Point OAT 5-10(2) OAT 5-10 679,932 5,930,054 Downstream
+Control Point OAT 5-11(1) OAT 5-11 679,976 5,929,963 Upstream
+Control Point OAT 5-11(2) OAT 5-11 679,945 5,930,059 Downstream
+Control Point OAT 1-11(1) OAT 1-11 680,173 5,929,075 Downstream
+Control Point OAT 22-9(1) OAT 22-9 681,483 5,930,988 Downstream
+Control Point OAT 22-8(1) OAT 22-8 681,408 5,930,846 Upstream
+Control Point OAT 22-8(2) OAT 22-8 681,518 5,930,825 Upstream
+Control Point OAT 22-5(1) OAT 22-5 681,939 5,930,491 Upstream
+Control Point OAT 22-5(2) OAT 22-5 681,954 5,930,613 Downstream
+Control Point OAT 7-7(1) OAT 7-7 680,927 5,928,462 Upstream
+Control Point OAT 7-7(2) OAT 7-7 680,914 5,928,590 Downstream
+Control Point OAT 1-14(1) OAT 1-14 680,806 5,929,234 Downstream
+Control Point OAT 1-15(1) OAT 1-15 680,806 5,929,197 Upstream
+Control Point OAT 1-15(2) OAT 1-15 680,898 5,929,255 Upstream
+Control Point OAT 1-16(1) OAT 1-16 680,966 5,929,087 Upstream
+Control Point OAT 1-16(2) OAT 1-16 680,934 5,929,176 Downstream
+Control Point OAT 1-17(1) OAT 1-17 681,086 5,929,152 Downstream
+Control Point OAT 1-18(1) OAT 1-18 681,349 5,929,307 Downstream
+Control Point OAT 11-1;11-3 OAT 11-1;11-3 681,443 5,929,398 Downstream
+Control Point OAT 2-1(1) OAT 2-1 681,580 5,929,501 Upstream
+Control Point OAT 2-1(2) OAT 2-1 681,442 5,929,608 Downstream
+Control Point OAT 38-1(1) OAT 38-1 681,548 5,929,774 Upstream
+Control Point OAT 38-1(2) OAT 38-1 681,486 5,929,699 Downstream
+Control Point OAT 2-2;2-3 OAT 2-2;2-3 681.386 5.9296.27 Downstream
+Control Point OAT 2-3(1) OAT 2-3 681,553 5,929,690 Upstream
+Control Point OAT 7-6(1) OAT 7-6 681,027 5,928,712 Upstream
+Control Point OAT 7-6(2) OAT 7-6 680,925 5,928,659 Downstream
+Source: Own elaboration, 2024.
+Based on the background presented in this document, it is confirmed that
+The measures adopted for the execution of the works do not affect the life and/or health of the
+inhabitants, through the non-pollution of waters.
+Annex 10.12
+Page 34 of 34
+Sectoral Environmental Permit No. 156
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate

@@ -1,0 +1,3997 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-13.2
+Informe hidrológico
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+APÉNDICE 10-13.2A
+INFORME DE HIDROLOGÍA
+PROYECTO DE DESARROLLO MINERO DE
+EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE
+TIERRAS RARAS
+Fecha: Junio, 2024
+================================================================================
+PAGE 3
+================================================================================
+Apéndice 10.13.2A
+Informe de Hidrología
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Tierras Raras
+FMR GCB AVF
+1 27/05/2024 Jefe de Proyecto
+Ing. de Proyectos Ing. Senior
+Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Apéndice 10.13-2
+Página 2 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 4
+================================================================================
+Índice
+1. Antecedentes generales ..................................................................................... 7
+1.1. Zona de Estudio ................................................................................................... 7
+1.2. Hidrografía ........................................................................................................... 8
+2. Estudio hidrológico ............................................................................................ 9
+2.1. Red Hidrográfica .................................................................................................. 9
+2.2. Puntos de análisis .............................................................................................. 11
+2.3. Delimitación de las cuencas .............................................................................. 13
+2.3.1. Parámetros Geomorfológicos de las cuencas .......................................... 13
+2.4. Información pluviométrica ................................................................................ 17
+2.4.1. Estaciones Pluviométricas ........................................................................ 17
+2.5. Estimación de caudales – Métodos indirectos .................................................. 23
+2.5.1. Análisis de frecuencia ............................................................................... 23
+2.5.2. Precipitación Media ................................................................................. 24
+2.5.3. Estimación de caudales ............................................................................ 27
+2.6. Caudales adoptados .......................................................................................... 47
+Anexo 1: Relleno de datos ....................................................................................... 48
+Anexo 2: Análisis de Frecuencias – Pluviometría ...................................................... 49
+Anexo 2.1: Resultados de test estadísticos Chi- cuadrado y Kolmogorov Smirnov. .... 49
+Anexo 2.2: Análisis gráfico de frecuencias para cada estación, ................................... 52
+Anexo 3: Tablas resumen de Caudales para cada punto de interés. .......................... 57
+Apéndice 10.13-2
+Página 3 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 5
+================================================================================
+Índice de Tablas
+Tabla 1: Descripción de los puntos de análisis. ............................................................... 11
+Tabla 2: Parámetros morfométricos de las cuencas. ...................................................... 14
+Tabla 3: Estaciones pluviométricas en la zona. ............................................................... 17
+Tabla 4: Resumen de precipitación diaria en (mm) por estación para distintos períodos
+de retorno (T
+R
+). ............................................................................................................... 23
+Tabla 5: Resumen cálculo de precipitación máxima diaria ponderada por cuenca, para
+un periodo de retorno de 10 años. ................................................................................. 26
+Tabla 6: Tiempos de concentración calculados por cuenca. .......................................... 31
+Tabla 7: Coeficientes de duración, estación Concepción ............................................... 32
+Tabla 8: Coeficientes de frecuencia, estación Concepción ............................................. 32
+Tabla 9: Intensidad de diseño Cuenca ponderada. ......................................................... 34
+Tabla 10: Caudales obtenidos mediante Método Racional (m3/s) ................................ 36
+Tabla 11: Resumen de Caudales (m3/s) Método Racional hasta T
+R
+=150. ....................... 38
+Tabla 12.Valores del factor de frecuencia C(T)/C (10) para la Región del Biobío y los
+distintos períodos de retorno. ........................................................................................ 40
+Tabla 13: Caudales obtenidos mediante Método Verni & King modificado, en m3/s. ... 41
+Tabla 14. Factores 𝑸(𝑻)/𝑸(𝟏𝟎) para cuencas tipo Up y los distintos periodos de
+retorno. ........................................................................................................................... 43
+Tabla 15. Caudales instantáneos obtenidos por el método DGA-AC en m3/s, para los
+distintos períodos de retorno. ........................................................................................ 45
+Tabla 16: Resumen de caudales de diseño (T =100 años) y verificación (T =150 años)
+R R
+para los 3 métodos utilizados. ........................................................................................ 47
+Tabla 17: Catastro de relleno de datos para las estaciones escogidas. .......................... 48
+Tabla 18: Resumen de test estadísticos y distribución adoptada por estación .............. 49
+Tabla 19: Resumen para estación Andalién .................................................................... 49
+Tabla 20: Resumen para estación Bíobio Desembocadura. ........................................... 50
+Tabla 21: Resumen Estación Carriel Sur. ........................................................................ 50
+Tabla 22: Resumen Estación Concepción DGA. .............................................................. 51
+Tabla 23: Resumen estación Rafael. ............................................................................... 51
+Tabla 24: Tabla resumen de Caudales para cuenca OAT-22-5. ...................................... 57
+Tabla 25: Tabla resumen de Caudales para cuenca OAT-11-3. ...................................... 57
+Tabla 26: Tabla resumen de Caudales para cuenca OAT-11-1. ...................................... 58
+Tabla 27: Tabla resumen de Caudales para cuenca OAT-7-7. ........................................ 58
+Tabla 28: Tabla resumen de Caudales para cuenca OAT-7-6. ........................................ 59
+Tabla 29: Tabla resumen de Caudales para cuenca OAT-7-2. ........................................ 59
+Tabla 30: Tabla resumen de Caudales para cuenca OAT-5-11. ...................................... 60
+Tabla 31: Tabla resumen de Caudales para cuenca OAT-5-10. ...................................... 60
+Apéndice 10.13-2
+Página 4 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 6
+================================================================================
+Tabla 32: Tabla resumen de Caudales para cuenca OAT-2-3. ......................................... 61
+Tabla 33: Tabla resumen de Caudales para cuenca OAT-2-2. ......................................... 61
+Tabla 34: Tabla resumen de Caudales para cuenca OAT-2-1. ......................................... 62
+Tabla 35: Tabla resumen de Caudales para cuenca OAT-1-18. ....................................... 62
+Tabla 36: Tabla resumen de Caudales para cuenca OAT-1-17. ....................................... 63
+Tabla 37: Tabla resumen de Caudales para cuenca OAT-1-16. ....................................... 63
+Tabla 38: Tabla resumen de Caudales para cuenca OAT-1-15. ....................................... 64
+Tabla 39: Tabla resumen de Caudales para cuenca OAT-1-14. ....................................... 64
+Tabla 40: Tabla resumen de Caudales para cuenca OAT-1-11. ....................................... 65
+Tabla 41: Tabla resumen de Caudales para cuenca OAT-1-8. ......................................... 65
+Tabla 42: Tabla resumen de Caudales para cuenca OAT-1-6. ......................................... 66
+Tabla 43: Tabla resumen de Caudales para cuenca OAT-38-1. ....................................... 66
+Tabla 44: Tabla resumen de Caudales para cuenca OAT-22-9. ....................................... 67
+Tabla 45: Tabla resumen de Caudales para cuenca OAT-22-8. ....................................... 67
+Apéndice 10.13-2
+Página 5 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 7
+================================================================================
+Índice de figuras
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S. ..................................... 8
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S. ................................. 10
+Figura 3: Puntos de interés, UTM WGS 84/ H18S ........................................................... 12
+Figura 4: Cuencas zona de estudio, UTM WGS 84/ H18S. .............................................. 13
+Figura 5: Mapa Hipsométrico, UTM WGS 84/ H18S ....................................................... 15
+Figura 6: Curva hipsométricas de la cuenca OAT-22-9. .................................................. 16
+Figura 7: Estaciones pluviométricas utilizadas, UTM WGS 84/ H18S. ............................ 18
+Figura 8: Curva de doble acumulada estación Carriel Sur. ............................................. 19
+Figura 9: Curva de doble acumulada estación Concepción DGA. ................................... 20
+Figura 10: Curva de doble acumulada estación Andalién ............................................... 20
+Figura 11: Curva de doble acumulada estación Biobío Desembocadura. ....................... 21
+Figura 12: Isoyetas en la zona de estudio, en mm. (UTM WGS 84/ H18S) ..................... 24
+Figura 13: Valores para el cálculo del coeficiente de escorrentía recomendados por el
+Estado de California. ....................................................................................................... 28
+Figura 14: Curvas IDF, Cuenca ponderada. ..................................................................... 35
+Figura 15: Curva de Caudales – Método Racional. ......................................................... 37
+Figura 16. Curva de caudales – Método de Verni King modificado. ............................... 42
+Figura 17. Curva de caudales – Método DGA-AC. .......................................................... 46
+Figura 18: Análisis de Frecuencia, distribución Log-Normal – Estación Andalién .......... 52
+Figura 19: Análisis de Frecuencia, distribución Log-Normal – Bío Bío Desembocadura.53
+Figura 20: Análisis de Frecuencia, distribución Log-Normal – Carriel Sur. ..................... 54
+Figura 21: Análisis de Frecuencia, distribución Log-Pearson –Concepción DGA. ........... 55
+Figura 22: Análisis de Frecuencia, distribución Log-Normal –Rafael. ............................. 56
+Apéndice 10.13-2
+Página 6 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 8
+================================================================================
+1. Antecedentes generales
+Este estudio se realiza en el marco del proyecto denominado Proyecto de Desarrollo
+Minero de Extracción de Arcillas para la Producción de Tierras Raras de la empresa REE
+UNO SpA, en adelante El Proyecto, el cual consiste en la construcción y operación de
+una faena minera junto con una planta de procesamiento de material meteorizado de
+origen granítico con presencia de Lantánidos, conocidos ampliamente como Tierras
+Raras. Para el desarrollo de este estudio se considera la caracterización hidrológica
+asociada al área de influencia del Proyecto, disponiendo para ello de antecedentes
+públicos y bibliográficos.
+Cabe destacar que el proyecto no requerirá de la explotación del recurso natural hídrico
+(tanto subterráneo como superficial) de algún curso, cuerpo o reservorio adyacente a
+las obras del proyecto para ejecución de sus procesos industriales, contando dichas
+actividades con fuentes externas de aprovechamiento. En efecto, la única interacción
+entre el proyecto y los cursos superficiales del área de influencia radica en la
+construcción de una serie de atraviesos de índole subterráneo, superficial o aéreo
+vinculados con la implementación de tuberías de conducción y habilitación de rutas de
+transporte.
+Para estudiar las condiciones hidrológicas de la zona del proyecto, se toma en
+consideración las fuentes de información disponible de la Dirección General de Aguas
+(DGA) en cuanto a hidrografía, pluviometría y metodologías de análisis.
+1.1. Zona de Estudio
+La zona en la que se realiza el estudio hidrológico corresponde al futuro emplazamiento
+del Proyecto el cual se ubica al este de la ciudad de Penco, Región del Biobío. Su
+localización general respecto de la región se presenta gráficamente en la Figura 1.
+Apéndice 10.13-2
+Página 7 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 9
+================================================================================
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+1.2. Hidrografía
+La zona de estudio se encuentra aledaña al Estero Penco, el cual bordea una de las zonas
+de Extracción del Proyecto.
+Apéndice 10.13-2
+Página 8 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 10
+================================================================================
+2. Estudio hidrológico
+Para el diseño de los atraviesos, primero es necesario delimitar las cuencas aportantes
+a los puntos de interés y sus respectivos parámetros morfológicos, para luego poder
+realizar un análisis hidrológico que permita identificar los caudales asociados a los
+distintos periodos de retorno.
+La obtención de los caudales se realizará únicamente mediante métodos indirectos, esto
+es debido a que no se cuenta con estaciones fluviométricas representativas en las
+cercanías de la zona de proyecto.
+2.1. Red Hidrográfica
+La red hidrográfica de la zona de estudio se obtuvo a partir de un modelo de elevación
+digital (DEM) junto con el procesamiento de los datos mediante algoritmos en software
+QGIS. El DEM fue generado a partir de la topografía del proyecto, la cual cuenta con
+curvas de nivel con 1 m de precisión.
+En la Figura 2, se puede apreciar la red hidrográfica obtenida a partir del DEM, se observa
+que esta es consistente con los cauces IGM, manteniendo la ubicación de los cauces en
+las cercanías de la zona de proyecto.
+Apéndice 10.13-2
+Página 9 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 11
+================================================================================
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 10 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 12
+================================================================================
+2.2. Puntos de análisis
+A partir de la red hidrográfica se detectaron 24 puntos de interés, los cuales
+corresponden en su totalidad a cruces de la infraestructura del proyecto con cauces
+naturales. La descripción de los puntos mencionados se presenta en la Tabla 1, y la
+ubicación de estos se muestra gráficamente en la Figura 3
+Tabla 1: Descripción de los puntos de análisis.
+UTM WGS 84/
+Punto H18S Descripción
+E N
+OAT 22-5 681961 5930557 Intersección de caminos internos con red hidrográfica.
+OAT 11-3 681524 5929374 Intersección de caminos internos con red hidrográfica.
+OAT 11-1 681552 5929350 Intersección de caminos internos con red hidrográfica.
+OAT 1-15 680841 5929248 Intersección de caminos internos con red hidrográfica.
+OAT 1-14 680736 5929268 Intersección de caminos internos con red hidrográfica.
+OAT 1-11 680198 5929182 Intersección de caminos internos con red hidrográfica.
+OAT 1-8 680454 5929082 Intersección de caminos internos con red hidrográfica.
+OAT 7-7 680892 5928521 Intersección de caminos internos con red hidrográfica.
+OAT 1-6 680495 5928930 Intersección de caminos internos con red hidrográfica.
+OAT 7-2 680866 5928888 Intersección de caminos internos con red hidrográfica.
+OAT 5-11 679976 5930014 Intersección de caminos internos con red hidrográfica.
+OAT 5-10 679874 5930015 Intersección de caminos internos con red hidrográfica.
+OAT 2-3 681502 5929674 Intersección de caminos internos con red hidrográfica.
+OAT 2-2 681501 5929634 Intersección de caminos internos con red hidrográfica.
+OAT 2-1 681523 5929552 Intersección de caminos internos con red hidrográfica.
+OAT 1-18 681368 5929241 Intersección de caminos internos con red hidrográfica.
+OAT 1-17 681092 5929093 Intersección de caminos internos con red hidrográfica.
+OAT 1-16 680935 5929125 Intersección de caminos internos con red hidrográfica.
+OAT 38-1 681483 5929744 Intersección de caminos internos con red hidrográfica.
+OAT 22-9 681464 5930925 Intersección de caminos internos con red hidrográfica.
+OAT 22-8 681472 5930845 Intersección de caminos internos con red hidrográfica.
+OAT 7-6 680980 5928677 Intersección de caminos internos con red hidrográfica.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 11 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 13
+================================================================================
+Figura 3: Puntos de interés, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 12 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 14
+================================================================================
+2.3. Delimitación de las cuencas
+Las cuencas aportantes a los puntos de interés se delimitaron a partir del DEM
+mencionado en 2.1
+2.3.1. Parámetros Geomorfológicos de las cuencas
+Los parámetros geomorfológicos de la cuenca en estudio se determinan a partir de las
+cuencas delimitadas en la Figura 4.
+Figura 4: Cuencas zona de estudio, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 13 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 15
+================================================================================
+Los parámetros morfométricos considerados se describen a continuación:
+1. Longitud del Cauce principal (𝐿 ): Se obtiene de la medición directa de la longitud
+𝑐
+del cauce principal de la cuenca a lo largo de su trayectoria.
+2. Elevación mínima de la cuenca (𝐻 ): Corresponde a la mínima cota dentro de
+𝑚í𝑛
+la cuenca.
+3. Elevación máxima de la cuenca (𝐻 ): Corresponde a la máxima cota dentro de
+𝑚á𝑥
+la cuenca.
+4. Elevación media de la cuenca (𝐻 ): Corresponde a la cota media dentro de la
+𝑚𝑒𝑑
+cuenca.
+5. Desnivel Máximo de la cuenca (∆𝐻 ): Corresponde a la diferencia entre la cota
+𝑚á𝑥
+del punto de la divisoria de las aguas de la cuenca más alto y alejado de su salida
+y la cota del punto de término del cauce principal.
+6. Desnivel Medio de la cuenca (∆𝐻 ): Corresponde al mayor valor entre: La
+𝑚𝑒𝑑
+diferencia de cotas entre la elevación máxima y media; la diferencia de cotas
+entre la elevación mínima y media.
+7. Pendiente media de la cuenca (S): Corresponde a la pendiente media de la
+cuenca, obtenida del software QGIS.
+Los valores de los parámetros morfométricos obtenidos para las cuencas se presentan
+en la siguiente tabla:
+Tabla 2: Parámetros morfométricos de las cuencas.
+N
+C
+o
+u
+m
+en
+b
+c
+r
+a
+e
+UTM WGS 84/ H18S
+(
+Á
+k
+r
+m
+ea
+²) (m
+H
+s.
+m
+n
+i
+.
+n
+m ) (m
+H
+s.
+m
+n
+e
+.
+d
+m ) (m
+H
+s.
+m
+n
+á
+.
+x
+m )
+∆
+(
+H
+m
+m
+)
+e d ∆H
+máx
+(m) L
+c
+(m)
+(m
+S
+/m )
+E N
+OAT 22-5 681961 5930557 0,0391 172,2 214,2 250,4 41,9 78,2 296 0,264
+OAT 11-3 681524 5929374 0,0032 261,3 272,7 285,9 13,2 24,6 53 0,465
+OAT 11-1 681552 5929350 0,0026 266,5 274,6 285,9 11,4 19,5 28 0,696
+OAT 1-15 680841 5929248 0,6570 220,0 258,2 305,0 46,8 85,0 1562 0,054
+OAT 1-14 680736 5929268 0,7500 255,0 272,0 306,0 34,0 51,0 1596 0,032
+OAT 1-11 680198 5929182 0,0098 179,1 197,2 215,0 18,1 35,9 80 0,449
+OAT 1-8 680454 5929082 0,0361 180,0 222,3 245,0 42,3 65,0 209 0,311
+OAT 7-7 680892 5928521 0,0231 235,7 268,9 285,0 33,2 49,3 110 0,448
+OAT 1-6 680495 5928930 1,6498 184,1 264,3 355,0 90,7 170,9 2186 0,078
+OAT 7-2 680866 5928888 0,0105 245,0 262,5 275,0 17,5 30,0 91 0,330
+OAT 5-11 679976 5930014 0,0170 126,2 147,1 165,0 21,0 38,8 127 0,306
+OAT 5-10 679874 5930015 0,3424 125,0 166,2 210,0 43,8 85,0 910 0,093
+OAT 2-3 681502 5929674 0,0109 247,5 262,1 270,0 14,7 22,5 100 0,225
+OAT 2-2 681501 5929634 0,0050 259,8 286,1 302,6 26,4 42,8 45 0,951
+OAT 2-1 681523 5929552 0,0735 250,0 287,2 305,0 37,2 55,0 410 0,134
+OAT 1-18 681368 5929241 0,0092 256,2 265,2 275,8 10,6 19,5 97 0,201
+OAT 1-17 681092 5929093 0,0175 250,0 266,9 275,0 16,9 25,0 143 0,175
+Apéndice 10.13-2
+Página 14 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 16
+================================================================================
+N
+C
+o
+u
+m
+en
+b
+c
+r
+a
+e
+UTM WGS 84/ H18S
+(
+Á
+k
+r
+m
+ea
+²) (m
+H
+s.
+m
+n
+i
+.
+n
+m ) (m
+H
+s.
+m
+n
+e
+.
+d
+m ) (m
+H
+s.
+m
+n
+á
+.
+x
+m )
+∆
+(
+H
+m
+m
+)
+e d ∆H
+máx
+(m) L
+c
+(m)
+(m
+S
+/m )
+E N
+OAT 1-16 680935 5929125 0,0250 247,2 264,2 275,0 17,0 27,8 96 0,289
+OAT 38-1 681483 5929744 0,0296 240,0 256,7 270,0 16,7 30,0 192 0,156
+OAT 22-9 681464 5930925 7,3090 139,0 298,0 401,0 159,0 262,0 4039 0,065
+OAT 22-8 681472 5930845 6,6794 139,0 304,0 401,0 165,0 262,0 3300 0,079
+OAT 7-6 680980 5928677 0,6500 240,0 278,0 319,0 41,0 79,0 707,0 0,1117
+Fuente: Elaboración propia, 2024.
+Adicionalmente, en la Figura 5 se presenta el mapa hipsométrico de las cuencas en
+estudio. La elevación del terreno se obtuvo a partir de un modelo de elevación digital
+(DEM) generado a partir de la topografía del proyecto.
+Figura 5: Mapa Hipsométrico, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+A partir de la información de la Figura 5, se extraen las curvas hipsométricas de las
+cuencas en estudio, cuyo objetivo es indicar el porcentaje de superficie que está por
+debajo de cierta cota. A continuación, a modo de referencia, se muestra la curva
+hipsométrica de la cuenca más grande (OAT-22-9), ver Figura 6.
+Apéndice 10.13-2
+Página 15 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 17
+================================================================================
+Figura 6: Curva hipsométricas de la cuenca OAT-22-9.
+450
+400
+350
+)m 300
+.n
+.s
+.m
+250
+a
+( 200
+t
+o 150
+C
+100
+50
+0
+0 20 40 60 80 100
+% Área bajo cota
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 16 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 18
+================================================================================
+2.4. Información pluviométrica
+Para el análisis hidrológico se recopila información pluviométrica desde las estaciones
+cercanas a la zona de proyecto disponibles en el explorador del Centro de Ciencia del
+Clima y la Resiliencia (CR2), se realiza un análisis de consistencia y relleno de los datos
+proporcionados en la plataforma.
+2.4.1. Estaciones Pluviométricas
+2.4.1.1. Estaciones Utilizadas
+Cercano a la zona del proyecto, se identifican 5 estaciones meteorológicas
+pertenecientes a la Dirección General de Aguas (DGA) que cuentan con series de datos
+con un orden de magnitud y continuidad consistente para realizar análisis de
+homogeneidad y densidad de probabilidad. En la Tabla 3, se presentan las estaciones
+meteorológicas mencionadas, y en la Figura 7 se observa la ubicación de estas en
+relación con las cuencas en estudio.
+Tabla 3: Estaciones pluviométricas en la zona.
+Altitud UTM WGS 84/ H18S
+Estación
+(ms.n.m.) N E
+Andalién 37 5923879 683821
+Carriel Sur 12 5927883 672298
+Concepción DGA 28 5921935 669432
+Rafael 294 5943307 692317
+Biobío Desembocadura 16 5921279 672818
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 17 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 19
+================================================================================
+Figura 7: Estaciones pluviométricas utilizadas, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 18 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 20
+================================================================================
+2.4.1.2. Verificación de Homogeneidad
+Los datos obtenidos a partir de las estaciones pluviométricas deben ser revisados y
+comparados entre sí, con la finalidad de verificar su consistencia y evitar errores que
+puedan contener producto de omisiones de medición o transcripción. Para verificar la
+homogeneidad entre estaciones, se realiza un análisis de consistencia mediante el
+método de curvas doble acumuladas.
+El método de las curvas doble acumulada consiste en graficar la precipitación acumulada
+de la estación de análisis versus el valor acumulado de una estación patrón, construida
+con el promedio de las estaciones vecinas. Este método se basa en la hipótesis de que,
+si la zona es pluviométricamente homogénea, la precipitación entre la estación de
+análisis y la estación patrón, debe ser estadísticamente proporcional. La estación
+analizada se considera homogénea si el coeficiente de determinación (R2) resulta en un
+valor mayor a 0,7 (Stowhas B, 2016).
+A continuación, en las Figura 8 a Figura 11 se presentan las curvas dobles acumuladas
+utilizando como periodo de tiempo los años hidrológicos 1993 al 2019.
+Figura 8: Curva de doble acumulada estación Carriel Sur.
+35000
+)m
+m 30000
+a
+(
+d
+ar 25000
+lu
+m
+u
+le
+u
+S
+20000
+cir y = 0,9323 x + 863,94
+n
+la
+u
+n
+a
+a
+n
+ó
+ic
+a
+r
+a C
+1
+1
+5
+0
+0
+0
+0
+0
+0
+0
+R² = 0,9969
+ó
+ic
+t
+s E
+a
+t 5000
+ip
+ci
+e r 0
+P
+0 5000 10000 15000 20000 25000 30000 35000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 19 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 21
+================================================================================
+Figura 9: Curva de doble acumulada estación Concepción DGA.
+35000
+)m
+m 30000
+a
+(
+A
+dG
+aD25000
+lu
+m
+n
+ó
+uic20000
+cp
+n
+la
+u
+n
+a
+a
+n
+ó
+e
+c
+n o
+C
+1
+1
+5
+0
+0
+0
+0
+0
+0
+0
+y = 1
+R
+,0
+²
+2
+=
+3
+0
+6
+,
+x
+9 9
+-
+5
+2
+7
+8 0,8 8
+ó
+ic
+ic
+a
+a t t s 5000
+ipE
+ic
+e r 0
+P
+0 5000 10000 15000 20000 25000 30000 35000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Figura 10: Curva de doble acumulada estación Andalién.
+25000
+)m
+m
+a ( 20000
+d
+a
+lu
+m
+u
+n
+é ila 15000
+c
+a
+d
+n y = 1,1808x - 1792,2
+la
+u n n ó
+A
+10000 R² = 0,9818
+n ó
+a ic
+a t s
+icE
+5000
+a
+t
+ip
+ic
+e r 0
+P
+0 5000 10000 15000 20000 25000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 20 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 22
+================================================================================
+Figura 11: Curva de doble acumulada estación Biobío Desembocadura.
+25000
+)m
+ma
+a (
+r
+u d20000
+da
+a lu c o
+b
+mm15000
+ue
+c
+a
+s
+e
+la
+u n o íb
+D
+10000 y = 0,8556x + 1450,8
+n
+ó
+ic
+a
+a
+n
+ó
+o
+iB
+5000
+R² = 0,9752
+t
+ip
+ic
+a
+ic t s
+e r E 0
+P
+0 5000 10000 15000 20000 25000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Para las estaciones analizadas se obtuvieron valores cercanos a 1, siendo el menor de
+estos el correspondiente a la estación Biobío Desembocadura, con un valor de
+R2=0,9752. Con lo anterior, se verifica la homogeneidad entre las estaciones
+meteorológicas utilizadas en el estudio.
+Apéndice 10.13-2
+Página 21 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 23
+================================================================================
+2.4.1.3. Relleno de datos
+Es frecuente que en una estadística pluviométrica falten datos sobre la precipitación
+caída en algunos días, meses o años completos, por lo que es conveniente disponer de
+métodos que permitan rellenar estadísticas en estas condiciones. Para ello se utiliza el
+método de los módulos pluviométricos, el cual completa los datos faltantes
+relacionando la precipitación diaria y anual de la estaciona a rellenar con el conjunto de
+las estaciones que cuentan con datos disponibles como se define en la siguiente
+expresión:
+𝑛
+𝑃 1 𝑃
+𝑥 𝑖
+= ∑
+𝑀 𝑛 𝑀
+𝑥 𝑖
+𝑖=1
+Donde:
+• 𝑃 : Precipitación diaria de la estación a rellenar en (mm).
+𝑥
+• 𝑀 : Precipitación media anual de la estación a rellenar en (mm).
+𝑥
+• 𝑛: Número de estaciones con registro disponible.
+• 𝑃: Precipitación diaria de una estación disponible en (mm).
+𝑖
+• 𝑀: Precipitación media anual de una estación con registro disponible en (mm).
+𝑖
+Apéndice 10.13-2
+Página 22 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 24
+================================================================================
+2.5. Estimación de caudales – Métodos indirectos
+2.5.1. Análisis de frecuencia
+En base a la serie de precipitaciones obtenida de las estaciones presentadas en la
+sección 2.4, se ajustaron funciones de densidad de probabilidad para estimar las
+precipitaciones máximas anuales con diferentes periodos de retorno. Los ajustes de
+distribución se realizaron para cada estación mediante el método de máxima
+verosimilitud.
+Las distribuciones ajustadas para las series de máximos anuales para cada estación son:
+Normal, Log-normal, Pearson, Log-Pearson y Gumbel. Luego se selecciona la distribución
+con mejor ajuste considerando los resultados de los test Chi-cuadrado y Kolmogorov-
+Smirnov. Con la distribución adoptada, se obtienen las precipitaciones diarias para
+distintos periodos de retorno, para cada una de las estaciones, las cuales se presentan
+en la Tabla 4.
+Tabla 4: Resumen de precipitación diaria en (mm) por estación para distintos
+períodos de retorno (T
+R
+).
+Concepción Biobío
+T
+R
+(años) Andalién Carriel Sur Rafael
+DGA Desembocadura
+2 68,3 64,3 63,0 88,4 54,1
+5 101,0 91,3 89,9 119,8 74,3
+10 123,9 109,7 111,0 140,4 87,8
+20 146,7 127,7 133,9 160,0 100,7
+25 154,1 133,4 141,8 166,2 104,8
+50 177,4 151,4 168,0 185,4 117,5
+100 201,4 169,6 197,4 204,5 130,3
+200 226,1 188,2 230,2 223,8 143,1
+Dist. Escogida Log Normal Log Normal Log Pearson Log Normal Log Normal
+Fuente: Elaboración propia, 2024.
+Para mayor detalle del análisis de frecuencia, en el Anexo 2: Análisis de Frecuencias –
+Pluviometría, presentado al final del presente informe, donde se presentan tablas
+resumen con los resultados de los test estadísticos realizados y el análisis gráfico para la
+distribución escogida en cada estación.
+Apéndice 10.13-2
+Página 23 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 25
+================================================================================
+2.5.2. Precipitación Media
+La estimación del caudal aportante de la cuenca mediante los métodos indirectos, se
+obtiene a partir de la comparación entre los resultados de tres metodologías propuestas
+en el manual de cálculo de crecidas y caudales mínimos en cuencas sin información
+hidrométrica (DGA, Manual de cálculo de crecidas y caudales minimos en cuencas sin
+información hidrometrica, 1995): Método DGA-AC, Verni y King modificado y Fórmula
+Racional.
+Para la correcta aplicación de las metodologías mencionadas, es importante conocer la
+precipitación media de las cuencas, es por ello que se elaboró un mapa campo de
+isoyetas a partir de los resultados obtenidos en la Tabla 4, considerando un periodo de
+retorno T = 10 años. El campo de isoyetas contiene información de las líneas de igual
+R
+precipitación. En la Figura 12 se presenta el campo de isoyetas generado con los datos
+de la Tabla 4.
+Figura 12: Isoyetas en la zona de estudio, en mm. (UTM WGS 84/ H18S)
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 24 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 26
+================================================================================
+Para determinar la precipitación media de cada cuenca se realiza un promedio
+ponderado del área entre isoyetas respecto del área total de la cuenca según la siguiente
+fórmula:
+∑𝑁 𝑃̅ 𝐴
+𝑖 𝑖
+𝑃𝑃 𝑗 = 𝑖=1
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜 𝐴
+𝑇
+Donde:
+• 𝑃𝑃 𝑗: Precipitación ponderada para la 𝑗-ésima cuenca en (mm).
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜
+• 𝑁: Es el total de pares de isoyetas contiguas que atraviesan la cuenca 𝑗.
+• 𝑃̅ : Corresponde al promedio en (mm) entre 2 isoyetas contiguas. Como ejemplo,
+𝑖
+el promedio 122,5 (mm) corresponde al área entre las isoyetas 122 y 123 (mm).
+• 𝐴: El área de la cuenca entre 2 isoyetas (Km2).
+𝑖
+• 𝐴 : El área total de la cuenca en (Km2).
+𝑇
+Apéndice 10.13-2
+Página 25 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 27
+================================================================================
+Los resultados obtenidos se muestran en siguiente tabla:
+Tabla 5: Resumen cálculo de precipitación máxima diaria ponderada por cuenca,
+para un periodo de retorno de 10 años.
+Área (m2) entre isoyetas con P (mm)
+PP
+Cuenca ponderada
+120,5 121,5 122,5 123,5 124,5 125,5 126,5
+mm
+OAT 22-5 0 0 0 39143 0 0 0 123,5
+OAT 11-3 0 0 3199 0 0 0 0 122,5
+OAT 11-1 0 0 2564 0 0 0 0 122,5
+OAT 1-15 0 0 466000 191000 0 0 0 122,8
+OAT 1-14 0 0 500000 250000 0 0 0 122,8
+OAT 1-11 0 9836 0 0 0 0 0 121,5
+OAT 1-8 0 36140 0 0 0 0 0 121,5
+OAT 7-7 0 22060 1000 0 0 0 0 121,5
+OAT 1-6 0 300000 883000 466781 0 0 0 122,6
+OAT 7-2 0 9000 1529 0 0 0 0 121,6
+OAT 5-11 0 16962 0 0 0 0 0 121,5
+OAT 5-10 298000 44429 0 0 0 0 0 120,6
+OAT 2-3 0 0 0 10927 0 0 0 123,5
+OAT 2-2 0 0 0 4951 0 0 0 123,5
+OAT 2-1 0 0 14000 59469 0 0 0 123,3
+OAT 1-18 0 0 9241 0 0 0 0 122,5
+OAT 1-17 0 0 17549 0 0 0 0 122,5
+OAT 1-16 0 0 25041 0 0 0 0 122,5
+OAT 38-1 0 0 1000 28599 0 0 0 123,5
+OAT 22-9 0 0 381000 1313000 2078000 1997000 1540000 124,9
+OAT 22-8 0 0 0 1313000 2078000 1997000 1291445 125,0
+OAT 7-6 0 0 650000 0 0 0 0 122,5
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 26 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 28
+================================================================================
+2.5.3. Estimación de caudales
+2.5.3.1. Método racional
+La fórmula racional es un método ampliamente conocido en la hidrología y que tiene
+como supuesto que el escurrimiento máximo proveniente de una tormenta es
+proporcional a la lluvia caída. Este método posee como limitación su uso para cuencas
+con una superficie menor a 25 (Km2), en el caso de estudio, la suma de las cuencas
+resulta en una superficie de 17,79 (Km2) por lo que aplica esta metodología. El caudal
+máximo para un determinado período de retorno se calcula mediante la siguiente
+expresión:
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3,6
+Donde:
+• 𝑄: Caudal en (m3⁄s).
+• 𝐶: Coeficiente de escurrimiento de la cuenca.
+• 𝐴: Área aportante en (Km2).
+• 𝑖: Intensidad de la lluvia de diseño en (mm⁄h).
+El coeficiente de escorrentía depende de las condiciones del terreno, uso y manejo del
+suelo, condiciones de infiltración y otros factores. Se recurre al uso de las disposiciones
+del ítem 3.702.5 del volumen 3 del manual de carreteras, que entrega rangos de valores
+y criterios para la estimación del coeficiente de escorrentía, lo cual se presenta en la
+Figura 13.
+Apéndice 10.13-2
+Página 27 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 29
+================================================================================
+Figura 13: Valores para el cálculo del coeficiente de escorrentía recomendados por el
+Estado de California.
+Fuente: Manual de Carreteras, Volumen 3. Ed. 2018.
+Se adopta por utilizar los coeficientes de escorrentía que corresponden a la siguiente
+clasificación y valores:
+• Relieve: Normal, valor 0,25.
+• Infiltración: Alto, valor 0,12.
+• Cobertura vegetal: Normal, valor 0,07.
+• Almacenamiento superficial: Alto, valor 0,08.
+La estimación del coeficiente de escorrentía consiste en examinar los 4 factores,
+seleccionando el valor correspondiente para el área de estudio, y sumar las
+contribuciones de estos. El coeficiente resultante es representativo de tormentas con
+periodos de retorno de 10 años o inferiores, por lo que, si se necesitan coeficientes de
+escorrentía de tormentas de períodos de retorno mayores, se recomienda amplificar los
+resultados por 1,1, 1,2 y 1,25 para períodos de retorno de 25, 50 y 100 años,
+respectivamente. El coeficiente de escorrentía para la zona de interés es el que se
+presenta a continuación.
+𝐶(𝑇 = 10) = 0,52
+Apéndice 10.13-2
+Página 28 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 30
+================================================================================
+2.5.3.1.1. Tiempos de concentración
+Para obtener la intensidad de la lluvia, se necesita el tiempo de concentración, el cual
+corresponde al tiempo necesario para que la partícula de agua hidráulicamente más
+alejada de la cuenca alcance la salida o punto de control de la cuenca. Este valor es
+estimado utilizando las fórmulas presentadas en el manual de Carreteras - Volumen 3.
+Además, dicha norma menciona que el valor para el tiempo de concentración no debe
+ser inferior a 10 minutos salvo que se tengan mediciones en terreno que justifiquen
+adoptar valores menores.
+• California Culverts Practice (1942)
+Esta fórmula es básicamente una adaptación de la fórmula de Kirpich para cuencas
+pequeñas de montaña en California.
+𝐿 3 0,385
+𝑐
+𝑇 = 57( )
+𝑐 𝐻
+𝑚á𝑥
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝐻 : Desnivel máximo de la cuenca en (m).
+𝑚á𝑥
+• Giandotti
+Esta fórmula se utiliza para cuencas pequeñas con pendiente, mediante la correlación
+entre la longitud del cauce, el área aportante de la cuenca y la diferencia de nivel se
+obtiene el tiempo de concentración:
+4 ∙ 𝐴0,5 + 1,5 ∙ 𝐿
+𝑐
+𝑇
+𝑐
+= 60
+0,8 ∙ 𝐻0,5
+𝑚á𝑥
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝐻 : Desnivel máximo de la cuenca (m).
+𝑚á𝑥
+• 𝐴: Área de la cuenca en (Km2).
+La fórmula es aplicable en cuencas con A < 200 (Ha) y si L
+c
+/5,4 < T
+c
+(Hr) < L
+c
+/3,6.
+Apéndice 10.13-2
+Página 29 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 31
+================================================================================
+• Normas Españolas
+La fórmula citada en el Manual de Carreteras corresponde a la propuesta por Témez en
+1978 para cuencas naturales de España. La ecuación es la siguiente:
+𝐿 0,76
+𝑐
+𝑇
+𝑐
+= 18
+0,19
+𝑆
+𝑐
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝑆 : Pendiente media del cauce principal (m/m).
+𝑐
+Apéndice 10.13-2
+Página 30 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 32
+================================================================================
+2.5.3.1.2. Tiempos de concentración adoptados
+Los tiempos de concentración adoptados para cada cuenca corresponden al promedio
+entre los métodos de California y Normas Españolas, dado que la fórmula de Giandotti
+no cumple las restricciones para ninguna de las cuencas estudiadas. En la Tabla 6 se
+presenta el tiempo de concentración adoptado.
+Tabla 6: Tiempos de concentración calculados por cuenca.
+T
+c
+(minutos)
+Cuenca
+California Normas españolas Valor adoptado
+OAT 22-5 2,6 9,2 10,0
+OAT 11-3 0,6 2,2 10,0
+OAT 11-1 0,3 1,3 10,0
+OAT 1-15 17,2 43,9 30,6
+OAT 1-14 21,5 49,4 35,5
+OAT 1-11 0,8 3,1 10,0
+OAT 1-8 1,9 6,8 10,0
+OAT 7-7 1,0 3,9 10,0
+OAT 1-6 19,4 52,9 36,2
+OAT 7-2 1,0 3,6 10,0
+OAT 5-11 1,3 4,7 10,0
+OAT 5-10 9,2 26,3 17,8
+OAT 2-3 1,2 4,2 10,0
+OAT 2-2 0,4 1,7 10,0
+OAT 2-1 4,4 13,4 10,0
+OAT 1-18 1,2 4,1 10,0
+OAT 1-17 1,7 5,7 10,0
+OAT 1-16 1,1 3,8 10,0
+OAT 38-1 2,3 7,3 10,0
+OAT 22-9 33,5 87,4 60,5
+OAT 22-8 26,5 72,2 49,4
+OAT 7-6 7,1 21,0 14,0
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 31 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 33
+================================================================================
+2.5.3.1.3. Curvas IDF
+Para estimar la lluvia asociada a duraciones menores a 24 horas para un periodo de
+retorno dado se utilizan los coeficientes de duración generalizados propuestos en el
+Manual de Carreteras.
+La ecuación que relaciona la precipitación de período de retorno T y duración 24 horas,
+con aquella del mismo período de retorno, pero de duración t horas es:
+𝑃𝑇 =K⋅𝐶D𝑇⋅𝐶F𝑇⋅𝑃 10
+𝑡 24
+Donde:
+• 𝑃𝑇: Precipitación de período de retorno 𝑇, asociada a una duración de 𝑡 horas,
+𝑡
+en 𝑚𝑚.
+• 𝐶𝐷𝑡: Coeficiente de duración para 𝑡 horas.
+• 𝐶𝐹𝑇: Coeficiente de frecuencia para período de retorno 𝑇.
+• 𝐾: Coeficiente de corrección para la lluvia máxima 𝑃 10 medida entre 8 AM y 8
+24
+AM respecto de las 24 horas más lluviosas de la tormenta, para el que se ha
+adoptado un valor de 1,1.
+Para determinar los coeficientes de duración se adoptan los valores presentados en la
+tabla 3.702.403.A del Manual de carreteras, se utilizan los de la estación Concepción,
+debido a que está estación corresponde a la más cercana a la zona del proyecto. Los
+coeficientes de duración para un periodo de retorno de 10 años se presentan en la Tabla
+7. Adicionalmente, de la tabla 3.702.403.B del Manual de carreteras se obtienen los
+coeficientes de frecuencia para duraciones mayores a 1 horas, ver Tabla 8.
+Tabla 7: Coeficientes de duración, estación Concepción.
+Coeficientes de duración T = 10 años
+Estación/ Duración (horas) 1 2 4 6 8 10 12 14 18 24
+Concepción 0,19 0,30 0,39 0,48 0,56 0,64 0,70 0,746 0,90 1,00
+Fuente: Elaboración propia, a partir de Manual de Carreteras Vol. 3. Ed. 2018.
+Tabla 8: Coeficientes de frecuencia, estación Concepción.
+Coeficientes de frecuencia
+Estación/ Periodo de retorno (años) 2 5 10 20 25 50 100 200
+Concepción 0,68 0,87 1,00 1,12 1,16 1,28 1,40 1,52
+Fuente: Elaboración propia, a partir de Manual de Carreteras Vol. 3 Ed. 2018.
+Apéndice 10.13-2
+Página 32 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 34
+================================================================================
+Para lluvias de duración menor a 1 horas se utiliza la fórmula de Bell, la expresión de
+cálculo es la siguiente:
+𝑃𝑇 = (0,54𝑡0,25 − 0.50) CF𝑇 𝑃10
+𝑡 1
+Donde:
+• 𝑃𝑇: Precipitación (mm) con Período de Retorno T años y Duración t minutos.
+𝑡
+• CF𝑇: Coeficiente de frecuencia para un Período de Retorno T.
+• 𝑃10: Precipitación (mm) con T=10 años y Duración de 1 hora.
+1
+Finalmente, la intensidad correspondiente a dicha precipitación queda dada por:
+𝑃 𝑇
+𝐼𝑇 = 𝑡
+𝑡
+𝑡
+Donde:
+• 𝐼𝑇: Intensidad, en (mm/h), para un período de retorno T y asociada a una
+𝑡
+duración de t horas.
+Con la finalidad de presentar la familia de curvas IDF se construye un gráfico que
+considera la precipitación promedio ponderada de todas cuencas de estudio.
+El grafico de las curvas IDF para la cuenca promedio ponderada se muestra en la Figura
+14 y se construyó con los resultados mostrados en la Tabla 9.
+Apéndice 10.13-2
+Página 33 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 35
+================================================================================
+Tabla 9: Intensidad de diseño Cuenca ponderada.
+Intensidad (mm/hr)
+Horas Minutos T
+R
+= 2 T
+R
+= 5 T
+R
+= 10 T
+R
+= 20 T
+R
+= 25 T
+R
+= 50 T
+R
+= 100 T
+R
+= 200
+años años años años años años años años
+0,08 5 63,6 82,0 96,0 109,9 114,4 128,3 142,2 156,1
+0,17 10 47,6 61,4 71,8 82,2 85,6 96,0 106,4 116,8
+0,33 20 33,2 42,8 50,1 57,4 59,7 67,0 74,2 81,5
+0,50 30 26,3 34,0 39,7 45,5 47,3 53,1 58,9 64,6
+0,67 40 22,2 28,6 33,5 38,3 39,9 44,7 49,6 54,5
+0,83 50 19,4 25,0 29,2 33,4 34,8 39,0 43,3 47,5
+1,00 60 17,6 22,5 25,9 29,0 30,1 33,2 36,3 39,4
+2,00 120 13,9 17,8 20,5 22,9 23,7 26,2 28,6 31,1
+4,00 240 9,0 11,6 13,3 14,9 15,4 17,0 18,6 20,2
+6,00 360 7,4 9,5 10,9 12,2 12,7 14,0 15,3 16,6
+8,00 480 6,5 8,3 9,5 10,7 11,1 12,2 13,4 14,5
+10,00 600 5,9 7,6 8,7 9,8 10,1 11,2 12,2 13,3
+12,00 720 5,4 6,9 8,0 8,9 9,2 10,2 11,1 12,1
+14,00 840 5,0 6,4 7,4 8,3 8,6 9,5 10,4 11,3
+18,00 1080 4,6 5,9 6,8 7,6 7,9 8,7 9,5 10,4
+24,00 1440 3,9 4,9 5,7 6,4 6,6 7,3 8,0 8,6
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 34 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 36
+================================================================================
+Figura 14: Curvas IDF, Cuenca ponderada.
+180,0
+T = 2 años
+160,0
+T = 5 años
+140,0
+)s
+T = 10 años
+a
+r120,0 T = 20 años
+o
+h
+/ m100,0 T = 25 años
+m
+d
+(
+80,0
+T = 50 años
+a
+d
+is
+T = 100 años
+n 60,0
+e T = 200 años
+t
+n
+I
+40,0
+20,0
+0,0
+0,00 4,00 8,00 12,00 16,00 20,00 24,00
+Tiempo (Horas)
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 35 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 37
+================================================================================
+2.5.3.1.4. Caudales obtenidos método racional
+Con la información anterior, se obtienen los caudales de diseño para los distintos
+periodos de retorno. Los resultados se muestran en la siguiente tabla:
+Tabla 10: Caudales obtenidos mediante Método Racional (m3/s).
+Periodo de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100
+OAT 22-5 0,136 0,160 0,183 0,210 0,257 0,297
+OAT 11-3 0,011 0,013 0,015 0,017 0,021 0,024
+OAT 11-1 0,009 0,010 0,012 0,014 0,017 0,019
+OAT 1-15 2,175 2,548 2,922 3,346 4,098 4,736
+OAT 1-14 2,425 2,841 3,257 3,730 4,569 5,280
+OAT 1-11 0,034 0,039 0,045 0,052 0,063 0,073
+OAT 1-8 0,124 0,145 0,166 0,190 0,233 0,270
+OAT 7-7 0,079 0,093 0,106 0,122 0,149 0,172
+OAT 1-6 5,369 6,290 7,212 8,259 10,116 11,689
+OAT 7-2 0,036 0,042 0,048 0,056 0,068 0,079
+OAT 5-11 0,058 0,068 0,078 0,089 0,109 0,126
+OAT 5-10 1,155 1,353 1,552 1,777 2,177 2,515
+OAT 2-3 0,038 0,045 0,051 0,059 0,072 0,083
+OAT 2-2 0,017 0,020 0,023 0,027 0,032 0,038
+OAT 2-1 0,255 0,299 0,343 0,393 0,481 0,556
+OAT 1-18 0,032 0,037 0,043 0,049 0,060 0,069
+OAT 1-17 0,061 0,071 0,081 0,093 0,114 0,132
+OAT 1-16 0,086 0,101 0,116 0,133 0,163 0,188
+OAT 38-1 0,103 0,121 0,138 0,158 0,194 0,224
+OAT 22-9 4,875 5,604 6,276 7,150 8,607 9,807
+OAT 22-8 21,433 25,113 28,792 32,974 40,386 46,668
+OAT 7-6 2,251 2,638 3,024 3,464 4,242 4,902
+Fuente: Elaboración propia, 2024.
+La metodología no establece coeficientes de escorrentía para valores mayores a 100
+años, por lo que se realiza un ajuste logarítmico para extrapolar caudales mayores. El
+ajuste se presenta en la Figura 15.
+Apéndice 10.13-2
+Página 36 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 38
+================================================================================
+Figura 15: Curva de Caudales – Método Racional.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 37 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 39
+================================================================================
+Finalmente, los caudales obtenidos para cada cuenca son los siguientes:
+Tabla 11: Resumen de Caudales (m3/s) Método Racional hasta T
+R
+=150.
+Período de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100 T
+R
+=150
+OAT 22-5 0,136 0,160 0,183 0,210 0,257 0,297 0,313
+OAT 11-3 0,011 0,013 0,015 0,017 0,021 0,024 0,025
+OAT 11-1 0,009 0,010 0,012 0,014 0,017 0,019 0,020
+OAT 1-15 2,175 2,548 2,922 3,346 4,098 4,736 4,997
+OAT 1-14 2,425 2,841 3,257 3,730 4,569 5,280 5,571
+OAT 1-11 0,034 0,039 0,045 0,052 0,063 0,073 0,077
+OAT 1-8 0,124 0,145 0,166 0,190 0,233 0,270 0,284
+OAT 7-7 0,079 0,093 0,106 0,122 0,149 0,172 0,182
+OAT 1-6 5,369 6,290 7,212 8,259 10,116 11,689 12,335
+OAT 7-2 0,036 0,042 0,048 0,056 0,068 0,079 0,083
+OAT 5-11 0,058 0,068 0,078 0,089 0,109 0,126 0,133
+OAT 5-10 1,155 1,353 1,552 1,777 2,177 2,515 2,654
+OAT 2-3 0,038 0,045 0,051 0,059 0,072 0,083 0,087
+OAT 2-2 0,017 0,020 0,023 0,027 0,032 0,038 0,040
+OAT 2-1 0,255 0,299 0,343 0,393 0,481 0,556 0,587
+OAT 1-18 0,032 0,037 0,043 0,049 0,060 0,069 0,073
+OAT 1-17 0,061 0,071 0,081 0,093 0,114 0,132 0,139
+OAT 1-16 0,086 0,101 0,116 0,133 0,163 0,188 0,199
+OAT 38-1 0,103 0,121 0,138 0,158 0,194 0,224 0,237
+OAT 22-9 4,875 5,604 6,276 7,150 8,607 9,807 10,235
+OAT 22-8 21,433 25,113 28,792 32,974 40,386 46,668 49,243
+OAT 7-6 2,251 2,638 3,024 3,464 4,242 4,902 5,173
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 38 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 40
+================================================================================
+2.5.3.2. Método Verni & King modificado
+El método Verni & King modificado está basado en la fórmula de Verni y King, la cual
+relaciona el caudal instantáneo máximo de una crecida con la precipitación diaria
+máxima y el área pluvial a través de una relación de potencias.
+A la fórmula original, establecida para periodos de retorno mayores que 30 años, se le
+agrega un coeficiente empírico variable con el periodo de retorno, el cual es producto
+de un proceso de ajuste y calibración a los resultados de los análisis de frecuencias
+realizados a un total de 130 estaciones limnigráficas ubicadas entre las regiones de
+Atacama y de la Araucanía del país.
+El Manual de Cálculo de crecidas y caudales mínimos en cuencas sin información
+fluviométrica establece que el método Verni & King modificado tiene validez para
+cuencas con áreas comprendidas entre los 20 y 10000 (Km2).
+Debido a que las cuencas del presente estudio no superan los 2 Km2 de superficie, se
+incluyen los resultados de esta metodología únicamente a modo de comparación.
+La ecuación asociada al método Verni & King modificado es la siguiente:
+𝑄 = 𝐶(𝑇)∙0,00618∙(𝑃 )1,24∙𝐴0,88
+24
+Donde:
+• 𝑄: Caudal en (m3⁄s).
+• 𝐶(𝑇): Coeficiente empírico de periodo de retorno T años.
+• 𝐴: Área aportante en (Km2).
+• 𝑃 : Precipitación diaria máxima asociada al periodo de retorno de T años,
+24
+expresado en (mm).
+El coeficiente 𝐶(𝑇 = 10) es variable de acuerdo con la región en que se encuentre la
+cuenca analizada. La zona de estudio pertenece a la región del Biobío, por lo que se
+utiliza un coeficiente 𝐶(𝑇 = 10) = 0,79.
+Apéndice 10.13-2
+Página 39 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 41
+================================================================================
+El coeficiente empírico 𝐶(𝑇) es función del periodo de retorno, para su determinación
+se debe calcular primeramente el valor del factor de frecuencia 𝐶(𝑇)/𝐶(𝑇 = 10). Los
+valores del factor de frecuencia para la región de estudio se pueden observar en la
+siguiente tabla:
+Tabla 12.Valores del factor de frecuencia C(T)/C (10) para la Región del Biobío y los
+distintos períodos de retorno.
+C(T)/C(10)
+T R =2 años T R =5 años T R =10 años T R =25 años T R =50 años T R =100 años
+1,04 1,04 0,91 1,00 1,01 1,02
+Fuente: Elaboración propia, en base a manual de cálculo de crecidas y caudales mínimos en cuencas sin
+información fluviométricas, MOP, 1995.
+Con la información anterior, se obtienen los caudales de diseño para los distintos
+periodos de retorno, los cuales se presentan en la Tabla 13.
+Apéndice 10.13-2
+Página 40 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 42
+================================================================================
+Tabla 13: Caudales obtenidos mediante Método Verni & King modificado, en m3/s.
+Periodo de Retorno
+Cuenca
+T
+R
+=2 años T
+R
+=5 años T
+R
+=10 años T
+R
+=20 años T
+R
+=25 años T
+R
+=50 años T
+R
+=100 años
+OAT 22-5 0,071 0,097 0,101 0,126 0,133 0,152 0,171
+OAT 11-3 0,008 0,011 0,011 0,014 0,015 0,017 0,019
+OAT 11-1 0,006 0,009 0,009 0,011 0,012 0,014 0,015
+OAT 1-15 0,847 1,150 1,196 1,497 1,580 1,803 2,034
+OAT 1-14 0,940 1,276 1,327 1,661 1,753 2,000 2,257
+OAT 1-11 0,021 0,028 0,029 0,037 0,039 0,044 0,050
+OAT 1-8 0,065 0,088 0,092 0,115 0,121 0,139 0,156
+OAT 7-7 0,044 0,060 0,062 0,078 0,082 0,093 0,105
+OAT 1-6 1,901 2,581 2,684 3,360 3,545 4,045 4,565
+OAT 7-2 0,022 0,030 0,031 0,039 0,041 0,047 0,053
+OAT 5-11 0,033 0,045 0,047 0,059 0,062 0,071 0,080
+OAT 5-10 0,467 0,634 0,659 0,825 0,871 0,994 1,122
+OAT 2-3 0,023 0,031 0,033 0,041 0,043 0,049 0,056
+OAT 2-2 0,012 0,016 0,016 0,020 0,022 0,025 0,028
+OAT 2-1 0,124 0,168 0,175 0,219 0,231 0,264 0,297
+OAT 1-18 0,020 0,027 0,028 0,035 0,037 0,042 0,048
+OAT 1-17 0,035 0,047 0,049 0,062 0,065 0,074 0,084
+OAT 1-16 0,048 0,065 0,067 0,084 0,089 0,101 0,114
+OAT 38-1 0,056 0,076 0,079 0,099 0,104 0,119 0,134
+OAT 22-9 7,210 9,787 10,177 12,743 13,444 15,341 17,314
+OAT 22-8 6,666 9,048 9,409 11,781 12,429 14,183 16,007
+OAT 7-6 0,840 1,140 1,186 1,485 1,567 1,788 2,018
+Fuente: Elaboración propia, 2024.
+El método Verni & King Modificado, no establece coeficientes para periodos de retorno
+mayores a 100 años, por lo que se realiza un ajuste logarítmico para extrapolar a
+caudales mayores. El ajuste se observa en la Figura 16.
+Apéndice 10.13-2
+Página 41 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 43
+================================================================================
+Figura 16. Curva de caudales – Método de Verni King modificado.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 42 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 44
+================================================================================
+2.5.3.3. Método DGA-AC
+El método DGA-AC para crecidas pluviales, corresponde a un análisis regional de crecidas
+de origen pluvial, basado en series de máximos anuales generadas a partir de la
+información de caudales medios diarios máximos e instantáneos máximos del periodo
+pluvial, de 234 estaciones de control fluviométrico.
+Este método abarca estaciones desde las regiones de Atacama a la Araucanía, es válido
+para cuencas pluviales o pluvionivales sin información fluviométrica y con áreas
+comprendidas entre 20 y 10.000 Km2. Su uso está restringido a períodos de retorno
+inferiores a 100 años.
+Debido a que las cuencas del presente estudio no superan los 2 Km2 de superficie, se
+incluyen los resultados de esta metodología únicamente a modo de comparación.
+El método consiste básicamente en determinar una curva de frecuencias para el caudal
+instantáneo máximo de la cuenca. Para esto se debe definir la zona homogénea a la que
+pertenece la cuenca en estudio, luego determinar la curva de frecuencias de la cuenca
+para la variable caudal medio diario máximo. Finalmente, dicha curva se convierte a
+caudales instantáneos máximos a través de la determinación de un factor de conversión
+apropiado.
+Dado que la zona de estudio se encuentra al sur de la latitud 35 y las respectivas cuencas
+no pertenecen ni al río Biobío ni Itata, se concluye la zona homogénea correspondiente
+es U
+p
+, y los factores 𝑄(𝑇)/𝑄(10) son los siguientes:
+Tabla 14. Factores 𝑸(𝑻)/𝑸(𝟏𝟎) para cuencas tipo Up y los distintos periodos de
+retorno.
+Periodo de retorno 𝑸(𝑻)/𝑸(𝟏𝟎)
+(años) Media Máx Mín
+5 0,83 0,85 0,80
+10 1,00 1,00 1,00
+25 1,22 1,25 1,19
+50 1,38 1,44 1,33
+100 1,54 1,63 1,46
+Fuente: Elaboración propia, en base a manual de cálculo de crecidas y caudales mínimos en cuencas sin
+información fluviométrica, MOP, 1995.
+Apéndice 10.13-2
+Página 43 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 45
+================================================================================
+Luego, el caudal medio diario máximo de período de retorno de 10 años para región del
+Biobío está dado por la siguiente ecuación:
+𝑄 = 2∙10−3∙𝐴0,973∙(𝑃10)1,224
+10 24
+Donde:
+• Q : Caudal medio diario máximo de periodo de retorno 10 años en (m3⁄s).
+10
+• 𝐴: Área aportante en (Km2).
+• P10: Precipitación diaria máxima asociada al periodo de retorno de 10 años,
+24
+expresado en (mm).
+Con lo anterior, y considerando el factor de conversión de la zona homogénea, se
+obtienen los resultados de caudales mostrados en la Tabla 15.
+Apéndice 10.13-2
+Página 44 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 46
+================================================================================
+Tabla 15. Caudales instantáneos obtenidos por el método DGA-AC en m3/s, para los
+distintos períodos de retorno.
+Periodo de retorno (años)
+Cuenca
+T
+R
+=2 T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100
+OAT 22-5 0,024 0,035 0,042 0,049 0,051 0,058 0,065
+OAT 11-3 0,002 0,003 0,004 0,004 0,004 0,005 0,006
+OAT 11-1 0,002 0,002 0,003 0,003 0,004 0,004 0,005
+OAT 1-15 0,369 0,537 0,647 0,751 0,790 0,893 0,997
+OAT 1-14 0,458 0,618 0,727 0,865 0,909 1,047 1,185
+OAT 1-11 0,006 0,009 0,011 0,012 0,013 0,015 0,016
+OAT 1-8 0,022 0,032 0,038 0,044 0,046 0,052 0,059
+OAT 7-7 0,015 0,021 0,025 0,029 0,031 0,035 0,040
+OAT 1-6 0,902 1,313 1,582 1,835 1,930 2,183 2,436
+OAT 7-2 0,007 0,010 0,011 0,013 0,014 0,016 0,018
+OAT 5-11 0,010 0,015 0,018 0,021 0,022 0,025 0,028
+OAT 5-10 0,191 0,279 0,336 0,390 0,410 0,464 0,517
+OAT 2-3 0,007 0,010 0,012 0,014 0,015 0,017 0,019
+OAT 2-2 0,003 0,005 0,006 0,007 0,007 0,008 0,009
+OAT 2-1 0,044 0,064 0,077 0,090 0,094 0,106 0,119
+OAT 1-18 0,006 0,008 0,010 0,012 0,012 0,014 0,016
+OAT 1-17 0,011 0,016 0,019 0,022 0,023 0,026 0,029
+OAT 1-16 0,015 0,022 0,027 0,031 0,033 0,037 0,041
+OAT 38-1 0,018 0,026 0,032 0,037 0,039 0,044 0,049
+OAT 22-9 3,927 5,718 6,889 7,991 8,404 9,506 10,609
+OAT 22-8 3,600 5,242 6,315 7,326 7,705 8,715 9,726
+OAT 7-6 0,404 0,545 0,641 0,763 0,801 0,923 1,045
+Fuente: Elaboración propia, 2024.
+El método DGA-AC, no establece coeficientes para periodos de retorno mayores a 100
+años, por lo que se realiza un ajuste logarítmico para extrapolar a caudales mayores. El
+ajuste se observa en la Figura 17
+Apéndice 10.13-2
+Página 45 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 47
+================================================================================
+Figura 17. Curva de caudales – Método DGA-AC.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 46 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 48
+================================================================================
+2.6. Caudales adoptados
+Como fue mencionado anteriormente, la aplicación de los métodos Verni & King
+modificado y DGA-AC se limitan a cuencas con superficie superior a 20 (Km2), la cuenca
+de mayor tamaño tiene un área de 7,31 (Km2), por lo que los métodos Verni & King y
+DGA-AC se consideran solo de una forma comparativa con el Método Racional.
+Finalmente, como caudal adoptado se consideran los obtenidos por el método racional.
+A continuación, la Tabla 16 muestra un resumen con los caudales para los 3 métodos
+para los períodos de retorno de 100 años (diseño) y 150 años (verificación). El detalle de
+los caudales para todos los períodos de retorno se encuentra en el Anexo 3: Tablas
+resumen de Caudales para cada punto de interés.
+Tabla 16: Resumen de caudales de diseño (T =100 años) y verificación (T =150 años)
+R R
+para los 3 métodos utilizados.
+Q m3/s T
+R
+=100 años Q m3/s T
+R
+=150 años
+ID Verni King Verni King
+Racional DGA-AC Racional DGA-AC
+modificado modificado
+OAT 22-5 0,297 0,171 0,065 0,313 0,191 0,071
+OAT 11-3 0,024 0,019 0,006 0,025 0,021 0,006
+OAT 11-1 0,019 0,015 0,005 0,020 0,017 0,005
+OAT 1-15 4,736 2,034 0,997 4,997 2,266 1,100
+OAT 1-14 5,280 2,257 1,185 5,571 2,514 1,323
+OAT 1-11 0,073 0,050 0,016 0,077 0,055 0,018
+OAT 1-8 0,270 0,156 0,059 0,284 0,174 0,065
+OAT 7-7 0,172 0,105 0,038 0,182 0,117 0,042
+OAT 1-6 11,689 4,565 2,436 12,335 5,086 2,690
+OAT 7-2 0,079 0,053 0,018 0,083 0,059 0,019
+OAT 5-11 0,126 0,080 0,028 0,133 0,090 0,031
+OAT 5-10 2,515 1,122 0,517 2,654 1,249 0,571
+OAT 2-3 0,083 0,056 0,019 0,087 0,062 0,021
+OAT 2-2 0,038 0,028 0,009 0,040 0,031 0,010
+OAT 2-1 0,556 0,297 0,119 0,587 0,331 0,131
+OAT 1-18 0,069 0,048 0,016 0,073 0,053 0,017
+OAT 1-17 0,132 0,084 0,029 0,139 0,093 0,032
+OAT 1-16 0,188 0,114 0,041 0,199 0,127 0,046
+OAT 38-1 0,224 0,134 0,049 0,237 0,149 0,054
+OAT 22-9 9,807 17,314 10,609 10,235 19,287 11,711
+OAT 22-8 46,668 16,007 9,726 49,243 17,831 10,736
+OAT 7-6 4,900 2,020 1,045 5,173 2,240 1,667
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 47 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 49
+================================================================================
+Anexo 1: Relleno de datos
+Tabla 17: Catastro de relleno de datos para las estaciones escogidas.
+Precipitaciones máximas anuales (mm)
+Año
+Concepción Biobío
+Andalién Carriel Sur Rafael
+DGA Desembocadura
+1GG3 877 1126 1180 1418 739
+1GG4 703 844 947 1287 592
+1GG5 865 953 1164 1386 729
+1GG6 529 631 774 766 445
+1GG7 1097 1565 1664 1930 924
+1GG8 466 599 678 891 392
+1GGG 797 1091 1193 1345 671
+2000 981 1406 1400 1843 830
+2001 1646 1359 1542 1941 1076
+2002 1422 1363 1534 1215 1188
+2003 988 872 1011 1443 683
+2004 1181 1127 1206 1710 957
+2005 1445 1383 1501 1544 980
+2006 1414 1316 1476 1520 958
+2007 731 779 920 803 695
+2008 1140 1137 1218 1365 865
+200G 1144 935 1107 1323 890
+2010 972 760 973 1107 864
+2011 1053 762 1046 1215 999
+2012 854 742 964 1140 920
+2013 868 600 806 1254 823
+2014 1422 981 1309 2055 1383
+2015 1152 715 1082 1438 1113
+2016 757 616 575 1175 626
+2017 1178 930 1009 1809 1219
+2018 1078 781 868 1679 876
+201G 942 716 676 1247 801
+Datos anuales rellenados≥50%
+25%< Datos anuales rellenados<50%
+Datos anuales rellenados≤25%
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 48 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 50
+================================================================================
+Anexo 2: Análisis de Frecuencias – Pluviometría
+Anexo 2.1: Resultados de test estadísticos Chi- cuadrado y
+Kolmogorov Smirnov.
+Tabla 18: Resumen de test estadísticos y distribución adoptada por estación.
+Kolmogorov - Smirnov Chi cuadrado (χ²)
+Distribución
+Estación Valor crítico Valor crítico
+Adoptada Resultado Resultado
+(α=0,05) (α=0,05)
+Andalién Log Normal 0,06 0,26 1,88 5,99
+Bío Bío
+Log Normal 0,10 0,26 0,9 5,99
+Desembocadura
+Carriel Sur Log Normal 0,09 0,26 2,17 5,99
+Concepción DGA Log Pearson 0,06 0,26 1,92 3,84
+Rafael Log Normal 0,12 0,26 2,86 5,99
+Fuente: Elaboración propia, 2024.
+Tabla 19: Resumen para estación Andalién.
+Resumen resultados Análisis Frecuencia Andalién
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 75,6 68,3 70,4 68,8 70,2
+5 105,3 101,0 102,6 101,2 106,7
+10 120,8 123,9 122,7 123,3 130,8
+20 133,7 146,7 141,2 145,0 153,9
+25 137,4 154,1 146,9 151,9 161,2
+50 148,1 177,4 164,1 173,5 183,8
+100 157,7 201,4 180,6 195,3 206,2
+200 166,5 226,1 196,7 217,5 228,6
+2(calculado) 4,65 1,88 2,42 4,79 2,43
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,11 0,06 0,08 0,06 0,10
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 49 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 51
+================================================================================
+Tabla 20: Resumen para estación Bíobio Desembocadura.
+Resumen resultados Análisis Frecuencia Biobio Desembocadura
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 57,6 54,1 56,9 56,5 54,6
+5 74,3 74,3 74,0 74,7 75,0
+10 83,0 87,8 83,4 84,5 88,6
+20 90,2 100,7 91,4 92,5 101,5
+25 92,3 104,8 93,7 94,8 105,6
+50 98,3 117,5 100,6 101,3 118,3
+100 103,7 130,3 106,9 107,0 130,9
+200 108,6 143,1 112,7 112,0 143,4
+2(calculado) 0,59 0,90 0,54 1,37 0,67
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,06 0,10 0,06 0,06 0,09
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Tabla 21: Resumen Estación Carriel Sur.
+Resumen resultados Análisis Frecuencia Carriel Sur
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 70,3 64,3 62,7 61,7 65,3
+5 98,2 91,3 93,2 89,6 99,5
+10 112,9 109,7 114,2 111,8 122,2
+20 124,9 127,7 134,6 136,1 143,9
+25 128,4 133,4 141,0 144,4 150,8
+50 138,5 151,4 160,9 172,4 172,1
+100 147,5 169,6 180,6 203,7 193,2
+200 155,8 188,2 200,3 238,9 214,2
+2(calculado) 6,38 2,17 1,10 4,33 1,39
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,09 0,08 0,07 0,13
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 50 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 52
+================================================================================
+Tabla 22: Resumen Estación Concepción DGA.
+Resumen resultados Análisis Frecuencia Concepción DGA
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 71,2 65,7 64,2 63,0 66,4
+5 97,8 91,6 93,2 89,9 99,0
+10 111,7 108,9 113,1 111,0 120,6
+20 123,2 125,7 132,2 133,9 141,3
+25 126,5 131,1 138,2 141,8 147,9
+50 136,1 147,7 156,8 168,0 168,1
+100 144,7 164,4 175,1 197,4 188,2
+200 152,6 181,4 193,4 230,2 208,2
+2(calculado) 4,70 1,51 0,79 1,92 0,77
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,08 0,08 0,06 0,12
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Tabla 23: Resumen estación Rafael.
+Resumen resultados Análisis Frecuencia Rafael
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 94,5 88,5 84,6 86,3 88,7
+5 126,2 119,8 119,0 118,6 127,7
+10 142,8 140,4 143,8 142,2 153,5
+20 156,6 160,0 168,3 166,5 178,2
+25 160,6 166,2 176,2 174,6 186,1
+50 172,0 185,4 200,6 200,7 210,3
+100 182,3 204,5 225,1 228,5 234,3
+200 191,7 223,8 249,7 258,3 258,2
+2(calculado) 7,65 2,86 3,97 4,73 4,11
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,12 0,16 0,14 0,13
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 51 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 53
+================================================================================
+Anexo 2.2: Análisis gráfico de frecuencias para cada
+estación,
+Figura 18: Análisis de Frecuencia, distribución Log-Normal – Estación Andalién.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 52 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 54
+================================================================================
+Figura 19: Análisis de Frecuencia, distribución Log-Normal – Bío Bío Desembocadura.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 53 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 55
+================================================================================
+Figura 20: Análisis de Frecuencia, distribución Log-Normal – Carriel Sur.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 54 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 56
+================================================================================
+Figura 21: Análisis de Frecuencia, distribución Log-Pearson –Concepción DGA.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 55 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 57
+================================================================================
+Figura 22: Análisis de Frecuencia, distribución Log-Normal –Rafael.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 56 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 58
+================================================================================
+Anexo 3: Tablas resumen de Caudales para cada punto de
+interés.
+Tabla 24: Tabla resumen de Caudales para cuenca OAT-22-5.
+OAT 22-5
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,1363 0,0968 0,0348
+10 0,1597 0,1007 0,0419
+20 0,1831 0,1260 0,0486
+25 0,2096 0,1330 0,0511
+50 0,2568 0,1517 0,0578
+100 0,2967 0,1712 0,0645
+150 0,3131 0,1908 0,0712
+200 0,3259 0,2103 0,0809
+Fuente: Elaboración propia, 2024.
+Tabla 25: Tabla resumen de Caudales para cuenca OAT-11-3.
+OAT 11-3
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0110 0,0106 0,0030
+10 0,0129 0,0110 0,0036
+20 0,0148 0,0138 0,0042
+25 0,0170 0,0145 0,0044
+50 0,0208 0,0166 0,0050
+100 0,0241 0,0187 0,0056
+150 0,0254 0,0208 0,0062
+200 0,0264 0,0230 0,0070
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 57 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 59
+================================================================================
+Tabla 26: Tabla resumen de Caudales para cuenca OAT-11-1.
+OAT 11-1
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0089 0,0087 0,0024
+10 0,0104 0,0091 0,0029
+20 0,0119 0,0113 0,0034
+25 0,0136 0,0120 0,0036
+50 0,0167 0,0136 0,0040
+100 0,0193 0,0154 0,0045
+150 0,0203 0,0172 0,0050
+200 0,0212 0,0189 0,0056
+Fuente: Elaboración propia, 2024.
+Tabla 27: Tabla resumen de Caudales para cuenca OAT-7-7.
+OAT 7-7
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0790 0,0596 0,0204
+10 0,0926 0,0619 0,0246
+20 0,1061 0,0776 0,0285
+25 0,1215 0,0818 0,0300
+50 0,1489 0,0934 0,0339
+100 0,1720 0,1054 0,0378
+150 0,1815 0,1174 0,0417
+200 0,1890 0,1294 0,0474
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 58 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 60
+================================================================================
+Tabla 28: Tabla resumen de Caudales para cuenca OAT-7-6.
+OAT 7-6
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 2,251 1,140 0,545
+10 2,638 1,186 0,641
+20 3,024 1,485 0,763
+25 3,464 1,567 0,801
+50 4,242 1,788 0,923
+100 4,902 2,018 1,045
+150 5,173 2,247 1,167
+200 5,385 2,477 1,289
+Fuente: Elaboración propia, 2024.
+Tabla 29: Tabla resumen de Caudales para cuenca OAT-7-2.
+OAT 7-2
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0361 0,0299 0,0095
+10 0,0423 0,0311 0,0115
+20 0,0485 0,0389 0,0133
+25 0,0555 0,0411 0,0140
+50 0,0680 0,0469 0,0158
+100 0,0786 0,0529 0,0177
+150 0,0829 0,0590 0,0195
+200 0,0864 0,0650 0,0221
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 59 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 61
+================================================================================
+Tabla 30: Tabla resumen de Caudales para cuenca OAT-5-11.
+OAT 5-11
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0581 0,0454 0,0151
+10 0,0681 0,0473 0,0182
+20 0,0780 0,0592 0,0211
+25 0,0894 0,0624 0,0222
+50 0,1095 0,0712 0,0251
+100 0,1265 0,0804 0,0280
+150 0,1335 0,0896 0,0309
+200 0,1390 0,0987 0,0351
+Fuente: Elaboración propia, 2024.
+Tabla 31: Tabla resumen de Caudales para cuenca OAT-5-10.
+OAT 5-10
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 1,1552 0,6340 0,2788
+10 1,3535 0,6593 0,3359
+20 1,5518 0,8255 0,3896
+25 1,7772 0,8709 0,4098
+50 2,1767 0,9938 0,4635
+100 2,5152 1,1216 0,5173
+150 2,6540 1,2494 0,5710
+200 2,7631 1,3772 0,6483
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 60 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 62
+================================================================================
+Tabla 32: Tabla resumen de Caudales para cuenca OAT-2-3.
+OAT 2-3
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0380 0,0315 0,0100
+10 0,0446 0,0327 0,0121
+20 0,0511 0,0410 0,0140
+25 0,0585 0,0433 0,0148
+50 0,0717 0,0494 0,0167
+100 0,0828 0,0557 0,0186
+150 0,0874 0,0621 0,0206
+200 0,0910 0,0684 0,0234
+Fuente: Elaboración propia, 2024.
+Tabla 33: Tabla resumen de Caudales para cuenca OAT-2-2.
+OAT 2-2
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0172 0,0157 0,0047
+10 0,0202 0,0163 0,0056
+20 0,0232 0,0204 0,0065
+25 0,0265 0,0216 0,0068
+50 0,0325 0,0246 0,0077
+100 0,0375 0,0278 0,0086
+150 0,0396 0,0309 0,0095
+200 0,0412 0,0341 0,0108
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 61 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 63
+================================================================================
+Tabla 34: Tabla resumen de Caudales para cuenca OAT-2-1.
+OAT 2-1
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,2554 0,1681 0,0641
+10 0,2992 0,1748 0,0772
+20 0,3430 0,2189 0,0895
+25 0,3929 0,2310 0,0941
+50 0,4812 0,2636 0,1065
+100 0,5560 0,2975 0,1188
+150 0,5867 0,3313 0,1312
+200 0,6108 0,3652 0,1489
+Fuente: Elaboración propia, 2024.
+Tabla 35: Tabla resumen de Caudales para cuenca OAT-1-18.
+OAT 1-18
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0319 0,0269 0,0085
+10 0,0374 0,0280 0,0102
+20 0,0429 0,0350 0,0118
+25 0,0491 0,0370 0,0124
+50 0,0601 0,0422 0,0141
+100 0,0695 0,0476 0,0157
+150 0,0733 0,0530 0,0173
+200 0,0763 0,0584 0,0197
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 62 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 64
+================================================================================
+Tabla 36: Tabla resumen de Caudales para cuenca OAT-1-17.
+OAT 1-17
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0606 0,0473 0,0158
+10 0,0710 0,0492 0,0190
+20 0,0814 0,0616 0,0220
+25 0,0932 0,0650 0,0232
+50 0,1142 0,0741 0,0262
+100 0,1319 0,0837 0,0293
+150 0,1392 0,0932 0,0323
+200 0,1449 0,1028 0,0367
+Fuente: Elaboración propia, 2024.
+Tabla 37: Tabla resumen de Caudales para cuenca OAT-1-16.
+OAT 1-16
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0865 0,0647 0,0223
+10 0,1013 0,0673 0,0269
+20 0,1162 0,0842 0,0312
+25 0,1330 0,0888 0,0328
+50 0,1629 0,1014 0,0371
+100 0,1883 0,1144 0,0414
+150 0,1987 0,1275 0,0457
+200 0,2068 0,1405 0,0518
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 63 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 65
+================================================================================
+Tabla 38: Tabla resumen de Caudales para cuenca OAT-1-15.
+OAT 1-15
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 2,1751 1,1499 0,5371
+10 2,5484 1,1959 0,6471
+20 2,9218 1,4973 0,7507
+25 3,3462 1,5797 0,7895
+50 4,0984 1,8026 0,8930
+100 4,7359 2,0344 0,9966
+150 4,9972 2,2662 1,1001
+200 5,2026 2,4980 1,2490
+Fuente: Elaboración propia, 2024.
+Tabla 39: Tabla resumen de Caudales para cuenca OAT-1-14.
+OAT 1-14
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 2,425 1,276 0,618
+10 2,841 1,327 0,727
+20 3,257 1,661 0,865
+25 3,730 1,753 0,909
+50 4,569 2,000 1,047
+100 5,280 2,257 1,185
+150 5,571 2,514 1,323
+200 5,800 2,771 1,461
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 64 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 66
+================================================================================
+Tabla 40: Tabla resumen de Caudales para cuenca OAT-1-11.
+OAT 1-11
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,0337 0,0281 0,0089
+10 0,0395 0,0293 0,0107
+20 0,0453 0,0366 0,0124
+25 0,0518 0,0386 0,0131
+50 0,0635 0,0441 0,0148
+100 0,0733 0,0498 0,0165
+150 0,0774 0,0554 0,0182
+200 0,0806 0,0611 0,0207
+Fuente: Elaboración propia, 2024.
+Tabla 41: Tabla resumen de Caudales para cuenca OAT-1-8.
+OAT 1-8
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,1238 0,0884 0,0315
+10 0,1450 0,0920 0,0380
+20 0,1663 0,1151 0,0441
+25 0,1904 0,1215 0,0464
+50 0,2332 0,1386 0,0524
+100 0,2695 0,1564 0,0585
+150 0,2844 0,1743 0,0646
+200 0,2961 0,1921 0,0733
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 65 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 67
+================================================================================
+Tabla 42: Tabla resumen de Caudales para cuenca OAT-1-6.
+OAT 1-6
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 5,3687 2,5806 1,3132
+10 6,2902 2,6836 1,5821
+20 7,2118 3,3601 1,8352
+25 8,2593 3,5450 1,9302
+50 10,1160 4,0453 2,1833
+100 11,6895 4,5654 2,4364
+150 12,3345 5,0856 2,6896
+200 12,8414 5,6058 3,0535
+Fuente: Elaboración propia, 2024.
+Tabla 43: Tabla resumen de Caudales para cuenca OAT-38-1.
+OAT 38-1
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,1030 0,0757 0,0265
+10 0,1207 0,0787 0,0319
+20 0,1384 0,0985 0,0370
+25 0,1585 0,1039 0,0389
+50 0,1941 0,1186 0,0440
+100 0,2243 0,1339 0,0491
+150 0,2367 0,1491 0,0543
+200 0,2464 0,1644 0,0616
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 66 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 68
+================================================================================
+Tabla 44: Tabla resumen de Caudales para cuenca OAT-22-9.
+OAT 22-9
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 4,8753 9,7866 9,7866
+10 5,6038 10,1774 10,1774
+20 6,2763 12,7427 12,7427
+25 7,1505 13,4438 13,4438
+50 8,6075 15,3411 15,3411
+100 9,8067 17,3138 17,3138
+150 10,2355 19,2866 19,2866
+200 10,6473 21,2593 21,2593
+Fuente: Elaboración propia, 2024.
+Tabla 45: Tabla resumen de Caudales para cuenca OAT-22-8.
+OAT 22-8
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 21,4334 9,0479 5,2419
+10 25,1126 9,4091 6,3155
+20 28,7917 11,7808 7,3260
+25 32,9738 12,4290 7,7049
+50 40,3864 14,1831 8,7154
+100 46,6681 16,0069 9,7259
+150 49,2434 17,8307 10,7363
+200 51,2671 19,6546 12,1889
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13-2
+Página 67 de 67
+Informe Hidrológico
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Tierras Raras
+================================================================================
+PAGE 69
+================================================================================
+APÉNDICE 10.13-2B
+INFORME DE HIDROLOGÍA
+ATRAVIESO OLEODUCTO ZONA DE EXTRACCIÓN
+MAITE
+Fecha: Junio, 2024
+================================================================================
+PAGE 70
+================================================================================
+Apéndice 10.13.2B
+Informe de Hidrología
+Atravieso Oleoducto Zona de Extracción
+Maite
+FMR GCB AVF
+0 27/05/2024 Jefe de Proyecto
+Ing. de Proyectos Ing. Senior
+Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Apéndice 10.13.2
+Página 2 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 71
+================================================================================
+Índice
+1. Antecedentes generales ..................................................................................... 6
+1.1. Zona de Estudio ................................................................................................... 6
+1.2. Hidrografía ........................................................................................................... 7
+2. Estudio hidrológico ............................................................................................ 8
+2.1. Red Hidrográfica .................................................................................................. 8
+2.2. Puntos de análisis .............................................................................................. 10
+2.3. Delimitación de las cuencas .............................................................................. 11
+2.3.1. Parámetros Geomorfológicos de las cuencas .......................................... 11
+2.4. Información pluviométrica ................................................................................ 15
+2.4.1. Estaciones Pluviométricas ........................................................................ 15
+2.5. Estimación de caudales – Métodos indirectos .................................................. 21
+2.5.1. Análisis de frecuencia ............................................................................... 21
+2.5.2. Precipitación Media ................................................................................. 23
+2.5.3. Estimación de caudales ............................................................................ 26
+2.6. Caudales adoptados .......................................................................................... 40
+Anexo 1: Relleno de datos ....................................................................................... 41
+Anexo 2: Análisis de Frecuencias – Pluviometría ...................................................... 42
+Anexo 2.1: Resultados de test estadísticos Chi- cuadrado y Kolmogorov Smirnov. .... 42
+Anexo 2.2: Análisis gráfico de frecuencias para cada estación .................................... 45
+Anexo 3: Tablas resumen de Caudales para cada punto de interés. .......................... 50
+Apéndice 10.13.2
+Página 3 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 72
+================================================================================
+Índice de Tablas
+Tabla 1: Descripción de los puntos de análisis. ............................................................... 10
+Tabla 2: Parámetros morfométricos de las cuencas. ...................................................... 12
+Tabla 3: Estaciones pluviométricas en la zona. ............................................................... 15
+Tabla 4: Resumen de precipitación diaria en (mm) por estación para distintos períodos
+de retorno (T
+R
+). ............................................................................................................... 21
+Tabla 5: Resumen cálculo de precipitación máxima diaria ponderada por cuenca, para
+un periodo de retorno de 10 años. ................................................................................. 25
+Tabla 6: Tiempos de concentración calculados por cuenca. .......................................... 29
+Tabla 7: Coeficientes de duración, estación Concepción ............................................... 30
+Tabla 8: Coeficientes de frecuencia, estación Concepción ............................................. 30
+Tabla 9: Intensidad de diseño para precipitación promedio entre las 2 cuencas. ......... 31
+Tabla 10: Caudales obtenidos mediante Método Racional (m3/s) ................................ 33
+Tabla 11: Resumen de Caudales (m3/s) Método Racional hasta TR=200. ..................... 33
+Tabla 12.Valores del factor de frecuencia C(T)/C (10) para la Región del Biobío y los
+distintos períodos de retorno. ........................................................................................ 35
+Tabla 13: Caudales obtenidos mediante Método Verni & King modificado, en m3/s. .. 35
+Tabla 14: Resumen de Caudales (m3/s) Método Verni King hasta TR=200. ................... 36
+Tabla 15. Factores 𝑸(𝑻)/𝑸(𝟏𝟎) para cuencas tipo Up y los distintos periodos de
+retorno. ........................................................................................................................... 37
+Tabla 16. Caudales instantáneos obtenidos por el método DGA-AC en m3/s, para los
+distintos períodos de retorno. ........................................................................................ 38
+Tabla 17: Resumen de Caudales (m3/s) Método DGA-AC hasta T
+R
+=200. ....................... 39
+Tabla 18: Resumen de caudales de diseño (T
+R
+=100 años) para los 3 métodos utilizados.
+. ....................................................................................................................................... 40
+Tabla 19: Catastro de relleno de datos para las estaciones escogidas. .......................... 41
+Tabla 20: Resumen de test estadísticos y distribución adoptada por estación .............. 42
+Tabla 21: Resumen para estación Andalién .................................................................... 42
+Tabla 22: Resumen para estación Bíobio Desembocadura. ........................................... 43
+Tabla 23: Resumen Estación Carriel Sur ......................................................................... 43
+Tabla 24: Resumen Estación Concepción DGA. .............................................................. 44
+Tabla 25: Resumen estación Rafael. ............................................................................... 44
+Tabla 26: Tabla resumen de Caudales para Cuenca 1. ................................................... 50
+Tabla 27: Tabla resumen de Caudales para Cuenca 2. ................................................... 50
+Apéndice 10.13.2
+Página 4 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 73
+================================================================================
+Índice de figuras
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S. ..................................... 7
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S. ................................... 9
+Figura 3: Puntos de interés, UTM WGS 84/ H18S ........................................................... 10
+Figura 4: Cuencas zona de estudio, UTM WGS 84/ H18S. .............................................. 11
+Figura 5: Mapa Hipsométrico, UTM WGS 84/ H18S ....................................................... 13
+Figura 6: Curvas hipsométricas de las cuencas de estudio. ............................................ 14
+Figura 7: Estaciones pluviométricas utilizadas, UTM WGS 84/ H18S. ............................ 16
+Figura 8: Curva de doble acumulada estación Carriel Sur. ............................................. 17
+Figura 9: Curva de doble acumulada estación Concepción DGA. ................................... 18
+Figura 10: Curva de doble acumulada estación Andalién ............................................... 18
+Figura 11: Curva de doble acumulada estación Biobío Desembocadura. ....................... 19
+Figura 12: Isoyetas en la zona de estudio, en mm. (UTM WGS 84/ H18S) ..................... 23
+Figura 13: Valores para el cálculo del coeficiente de escorrentía recomendados por el
+Estado de California. ....................................................................................................... 27
+Figura 14: Curvas IDF para precipitación promedio entre las 2 cuencas. ....................... 32
+Figura 15: Curva de Caudales – Método Racional. ......................................................... 33
+Figura 16. Curva de caudales – Método de Verni King modificado. ............................... 36
+Figura 17. Curva de caudales – Método DGA-AC. .......................................................... 39
+Figura 18: Análisis de Frecuencia, distribución Log-Normal – Estación Andalién .......... 45
+Figura 19: Análisis de Frecuencia, distribución Log-Normal – Bío Bío Desembocadura 46
+Figura 20: Análisis de Frecuencia, distribución Log-Normal – Carriel Sur. ..................... 47
+Figura 21: Análisis de Frecuencia, distribución Log-Pearson –Concepción DGA. ........... 48
+Figura 22: Análisis de Frecuencia, distribución Log-Normal –Rafael. ............................. 49
+Apéndice 10.13.2
+Página 5 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 74
+================================================================================
+1. Antecedentes generales
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras, ubicado administrativamente en la Comuna de Penco y
+Concepción, Provincia de Concepción, Región del Biobío, consiste en la construcción y
+operación de una faena minera junto con una planta de procesamiento de material
+granítico meteorizado, con presencia de arcillas. El regolito, en adelante llamado
+“Arcillas por procesar”, se forma como resultado de una alta meteorización de las rocas
+y contiene lantánidos adsorbidos en los minerales de arcilla. Los lantánidos, o Tierras
+Raras, son 15 elementos cuyo número atómico aumenta desde el Lantano (57) al lutecio
+(71). Por su comportamiento químico similar se les suma el itrio (Y). En adelante serán
+llamados “tierras raras”.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y
+producir aproximadamente 3.100 toneladas anuales de concentrado de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas,
+donde en el costado sur de una de ellas (ZE Maite) hay proyectado un oleoducto
+soterrado de ENAP. El desarrollo de este estudio tiene como objetivo principal
+cuantificar la escorrentía en 2 nuevos puntos de atravieso de cauces naturales con el
+oleoducto, para luego poder realizar la modelación hidráulica y evaluar la socavación
+general.
+Para estudiar las condiciones hidrológicas de la zona del proyecto, se toma en
+consideración las fuentes de información disponible de la Dirección General de Aguas
+(DGA) en cuanto a hidrografía, pluviometría y metodologías de análisis.
+1.1. Zona de Estudio
+La zona en la que se realiza este estudio hidrológico corresponde al futuro
+emplazamiento de la zona de extracción Maite, ubicada al costado sur del
+emplazamiento general del Proyecto, el cual se ubica al este de la ciudad de Penco,
+Región del Biobío. Su localización general respecto de la región se presenta gráficamente
+en la Figura 1.
+Apéndice 10.13.2
+Página 6 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 75
+================================================================================
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+1.2. Hidrografía
+La zona de estudio se encuentra aledaña al estero Penco, el cual bordea una de las zonas
+de Extracción del Proyecto. Se utilizan, como referencia, las cartas IGM 1:50.000 F-106
+Hualqui para conocer los cauces permanentes aledaños al trazado del by pass del
+oleoducto en la zona de extracción Maite.
+Apéndice 10.13.2
+Página 7 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 76
+================================================================================
+2. Estudio hidrológico
+Para poder efectuar la modelación hidráulica, primero es necesario delimitar las cuencas
+aportantes en los puntos de interés y sus respectivos parámetros morfológicos, para
+luego poder realizar un análisis hidrológico que permita identificar los caudales
+asociados a los distintos periodos de retorno.
+La obtención de los caudales se realizará únicamente mediante métodos indirectos, esto
+es debido a que no se cuenta con estaciones fluviométricas representativas en las
+cercanías de la zona de proyecto.
+2.1. Red Hidrográfica
+La red hidrográfica de la zona de estudio se obtuvo a partir de un modelo de elevación
+digital (DEM) junto con el procesamiento de los datos mediante algoritmos en software
+QGIS. El DEM fue generado a partir de la topografía del proyecto, la cual cuenta con
+curvas de nivel con 1 m de precisión.
+En la Figura 2, se puede apreciar la red hidrográfica obtenida a partir del DEM, se observa
+que esta es consistente con los cauces IGM, manteniendo la ubicación de los cauces en
+las cercanías de la zona de proyecto.
+Apéndice 10.13.2
+Página 8 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 77
+================================================================================
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 9 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 78
+================================================================================
+2.2. Puntos de análisis
+A partir de la red hidrográfica se detectaron 2 puntos de interés, los cuales corresponden
+en su totalidad a cruces de la infraestructura del proyecto con cauces naturales. La
+descripción de los puntos mencionados se presenta en la Tabla 1, y la ubicación de estos
+se muestra gráficamente en la Figura 3.
+Tabla 1: Descripción de los puntos de análisis.
+UTM WGS 84/
+Punto H18S Descripción
+E N
+Cuenca 1 680004 5928378 Cruce Oleoducto proyectado con cauces IGM.
+Cuenca 2 680415 5928055 Cruce Oleoducto proyectado con cauces IGM.
+Fuente: Elaboración propia, 2024.
+Figura 3: Puntos de interés, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 10 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 79
+================================================================================
+2.3. Delimitación de las cuencas
+Las cuencas aportantes a los puntos de interés se delimitaron a partir del DEM
+mencionado en 2.1
+2.3.1. Parámetros Geomorfológicos de las cuencas
+Los parámetros geomorfológicos de la cuenca en estudio se determinan a partir de las
+cuencas delimitadas en la Figura 4.
+Figura 4: Cuencas zona de estudio, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 11 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 80
+================================================================================
+Los parámetros morfométricos considerados se describen a continuación:
+1. Longitud del Cauce principal (𝐿 ): Se obtiene de la medición directa de la longitud
+𝑐
+del cauce principal de la cuenca a lo largo de su trayectoria.
+2. Elevación mínima de la cuenca (𝐻 ): Corresponde a la mínima cota dentro de
+𝑚í𝑛
+la cuenca.
+3. Elevación máxima de la cuenca (𝐻 ): Corresponde a la máxima cota dentro de
+𝑚á𝑥
+la cuenca.
+4. Elevación media de la cuenca (𝐻 ): Corresponde a la cota media dentro de la
+𝑚𝑒𝑑
+cuenca.
+5. Desnivel Máximo de la cuenca (∆𝐻 ): Corresponde a la diferencia entre la cota
+𝑚á𝑥
+del punto de la divisoria de las aguas de la cuenca más alto y alejado de su salida
+y la cota del punto de término del cauce principal.
+6. Desnivel Medio de la cuenca (∆𝐻 ): Corresponde al mayor valor entre: La
+𝑚𝑒𝑑
+diferencia de cotas entre la elevación máxima y media; la diferencia de cotas
+entre la elevación mínima y media.
+7. Pendiente media de la cuenca (S): Corresponde a la pendiente media de la
+cuenca, obtenida del software QGIS.
+Los valores de los parámetros morfométricos obtenidos para las cuencas se presentan
+en la siguiente tabla:
+Tabla 2: Parámetros morfométricos de las cuencas.
+N
+C
+o
+u
+m
+en
+b
+c
+r
+a
+e
+UTM WGS 84/ H18S
+Área (km²)
+(m
+H
+s.
+m
+n
+i
+.
+n
+m ) (m
+H
+s.
+m
+n
+e
+.
+d
+m ) (m
+H
+s.
+m
+n
+á
+.
+x
+m )
+∆
+(
+H
+m
+m
+)
+e d ∆H
+máx
+(m)
+(m
+L c
+) (m/
+S
+m )
+E N
+Cuenca 1 680004 5928378 0,039 138,7 163,7 214,8 51,1 76,1 285 0,27
+Cuenca 2 680415 5928055 0,099 150,0 214,6 285,0 70,4 135,0 616 0,22
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 12 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 81
+================================================================================
+Adicionalmente, en la Figura 5 se presenta el mapa hipsométrico de las cuencas en
+estudio. La elevación del terreno se obtuvo a partir de un modelo de elevación digital
+(DEM) generado a partir de la topografía del proyecto.
+Figura 5: Mapa Hipsométrico, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+A partir de la información de la Figura 5, se extraen las curvas hipsométricas de las
+cuencas en estudio, cuyo objetivo es indicar el porcentaje de superficie que está por
+debajo de cierta cota. A continuación, se muestran las curvas hipsométricas de ambas
+cuencas (ver Figura 6)
+Apéndice 10.13.2
+Página 13 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 82
+================================================================================
+Figura 6: Curvas hipsométricas de las cuencas de estudio.
+300
+250
+)m
+200
+.n
+.s
+.m150
+a
+(
+t
+o
+C100
+50
+0
+0 10 20 30 40 50 60 70 80 90 100
+% Área bajo cota
+Cuenca 1 Cuenca 2 H = 215 (m.s.n.m)
+Fuente: Elaboración propia, 2024.
+De esta figura se puede desprender que la Cuenca 2 posee aproximadamente un 50%
+más de superficie a cotas iguales o superiores a la cota máxima de la Cuenca 1.
+Apéndice 10.13.2
+Página 14 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 83
+================================================================================
+2.4. Información pluviométrica
+Para el análisis hidrológico se recopila información pluviométrica desde las estaciones
+cercanas a la zona de proyecto disponibles en el explorador del Centro de Ciencia del
+Clima y la Resiliencia (CR2), se realiza un análisis de consistencia y relleno de los datos
+proporcionados en la plataforma.
+2.4.1. Estaciones Pluviométricas
+2.4.1.1. Estaciones Utilizadas
+Cercano a la zona del proyecto, se identifican 5 estaciones meteorológicas
+pertenecientes a la Dirección General de Aguas (DGA) que cuentan con series de datos
+con un orden de magnitud y continuidad consistente para realizar análisis de
+homogeneidad y densidad de probabilidad. En la Tabla 3, se presentan las estaciones
+meteorológicas mencionadas, y en la Figura 7 se observa la ubicación de estas en
+relación con las cuencas en estudio.
+Tabla 3: Estaciones pluviométricas en la zona.
+Altitud UTM WGS 84/ H18S
+Estación
+(ms.n.m.) N E
+Andalién 37 5923879 683821
+Carriel Sur 12 5927883 672298
+Concepción DGA 28 5921935 669432
+Rafael 294 5943307 692317
+Biobío Desembocadura 16 5921279 672818
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 15 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 84
+================================================================================
+Figura 7: Estaciones pluviométricas utilizadas, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 16 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 85
+================================================================================
+2.4.1.2. Verificación de Homogeneidad
+Los datos obtenidos a partir de las estaciones pluviométricas deben ser revisados y
+comparados entre sí, con la finalidad de verificar su consistencia y evitar errores que
+puedan contener producto de omisiones de medición o transcripción. Para verificar la
+homogeneidad entre estaciones, se realiza un análisis de consistencia mediante el
+método de curvas doble acumuladas.
+El método de las curvas doble acumulada consiste en graficar la precipitación acumulada
+de la estación de análisis versus el valor acumulado de una estación patrón, construida
+con el promedio de las estaciones vecinas. Este método se basa en la hipótesis de que,
+si la zona es pluviométricamente homogénea, la precipitación entre la estación de
+análisis y la estación patrón, debe ser estadísticamente proporcional. La estación
+analizada se considera homogénea si el coeficiente de determinación (R2) resulta en un
+valor mayor a 0,7 (Stowhas B, 2016).
+A continuación, en las Figura 8 a Figura 11 se presentan las curvas dobles acumuladas
+utilizando como periodo de tiempo los años hidrológicos 1993 al 2019.
+Figura 8: Curva de doble acumulada estación Carriel Sur.
+35000
+)m
+m 30000
+a
+(
+d
+ar 25000
+lu
+m
+u
+le
+u
+S
+20000
+cir y = 0,9323 x + 863,94
+n
+la
+u
+n
+a
+a
+n
+ó
+ic
+a
+r
+a C
+1
+1
+5
+0
+0
+0
+0
+0
+0
+0
+R² = 0,9969
+ó
+ic
+t
+s E
+a
+t 5000
+ip
+ic
+e r 0
+P
+0 5000 10000 15000 20000 25000 30000 35000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 17 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 86
+================================================================================
+Figura 9: Curva de doble acumulada estación Concepción DGA.
+35000
+)m
+m 30000
+a
+(
+A
+dG
+aD25000
+lu
+m
+n
+ó
+uic20000
+cp
+n
+la
+u
+n
+a
+a
+n
+ó
+e
+c
+n o
+C
+1
+1
+5
+0
+0
+0
+0
+0
+0
+0
+y = 1
+R
+,0
+²
+2
+=
+3
+0
+6
+,
+x
+9 9
+-
+5
+2
+7
+8 0,8 8
+ó
+ic
+ic
+a
+a t t s 5000
+ipE
+ic
+e r 0
+P
+0 5000 10000 15000 20000 25000 30000 35000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Figura 10: Curva de doble acumulada estación Andalién.
+25000
+)m
+m
+a ( 20000
+d
+a
+lu
+m
+u
+n
+é ila 15000
+c
+a
+d
+n y = 1,1808x - 1792,2
+la
+u n n ó
+A
+10000 R² = 0,9818
+n ó
+a ic
+a t s
+icE
+5000
+a
+t
+ip
+ic
+e r 0
+P
+0 5000 10000 15000 20000 25000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 18 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 87
+================================================================================
+Figura 11: Curva de doble acumulada estación Biobío Desembocadura.
+25000
+)m
+ma
+a (
+r
+u d20000
+da
+a lu c o
+b
+mm15000
+ue
+c
+a
+s
+e
+la
+u n o íb
+D
+10000 y = 0,8556x + 1450,8
+n
+ó
+ic
+a
+a
+n
+ó
+o
+iB
+5000
+R² = 0,9752
+t
+ip
+ic
+a
+ic t s
+e r E 0
+P
+0 5000 10000 15000 20000 25000
+Precipitación anual acumulada (mm)
+Estación Patrón
+Fuente: Elaboración propia, 2024.
+Para las estaciones analizadas se obtuvieron valores cercanos a 1, siendo el menor de
+estos el correspondiente a la estación Biobío Desembocadura, con un valor de
+R2=0,9752. Con lo anterior, se verifica la homogeneidad entre las estaciones
+meteorológicas utilizadas en el estudio.
+Apéndice 10.13.2
+Página 19 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 88
+================================================================================
+2.4.1.3. Relleno de datos
+Es frecuente que en una estadística pluviométrica falten datos sobre la precipitación
+caída en algunos días, meses o años completos, por lo que es conveniente disponer de
+métodos que permitan rellenar estadísticas en estas condiciones. Para ello se utiliza el
+método de los módulos pluviométricos, el cual completa los datos faltantes
+relacionando la precipitación diaria y anual de la estaciona a rellenar con el conjunto de
+las estaciones que cuentan con datos disponibles como se define en la siguiente
+expresión:
+𝑛
+𝑃 1 𝑃
+𝑥 𝑖
+= ∑
+𝑀 𝑛 𝑀
+𝑥 𝑖
+𝑖=1
+Donde:
+• 𝑃 : Precipitación diaria de la estación a rellenar en (mm).
+𝑥
+• 𝑀 : Precipitación media anual de la estación a rellenar en (mm).
+𝑥
+• 𝑛: Número de estaciones con registro disponible.
+• 𝑃: Precipitación diaria de una estación disponible en (mm).
+𝑖
+• 𝑀: Precipitación media anual de una estación con registro disponible en (mm).
+𝑖
+De esta forma se rellenó la serie de datos para las 5 estaciones con 27 años hidrológicos
+desde el 01/04/1993 hasta el 31/03/2019. Mayor detalle del relleno de datos puede
+encontrarse en el Anexo 1: Relleno de datos, presentado al final de este informe.
+Apéndice 10.13.2
+Página 20 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 89
+================================================================================
+2.5. Estimación de caudales – Métodos indirectos
+2.5.1. Análisis de frecuencia
+En base a la serie de precipitaciones obtenida de las estaciones presentadas en la
+sección 2.4, se ajustaron funciones de densidad de probabilidad para estimar las
+precipitaciones máximas anuales con diferentes periodos de retorno. Los ajustes de
+distribución se realizaron para cada estación mediante el método de máxima
+verosimilitud.
+Las distribuciones ajustadas para las series de máximos anuales para cada estación son:
+Normal, Log-normal, Pearson, Log-Pearson y Gumbel. Luego se selecciona la distribución
+con mejor ajuste considerando los resultados de los test Chi-cuadrado y Kolmogorov-
+Smirnov. En el Anexo 2, presentado al final de este informe, donde se presentan las
+distribuciones adoptadas para la serie de datos de cada estación y una tabla resumen
+con los resultados de cada test.
+Con la distribución adoptada, se obtienen las precipitaciones diarias para distintos
+periodos de retorno, para cada una de las estaciones, las cuales se presentan en la Tabla
+4.
+Tabla 4: Resumen de precipitación diaria en (mm) por estación para distintos
+períodos de retorno (T
+R
+).
+Concepción Biobío
+Andalién Carriel Sur Rafael
+T R (años) DGA Desembocadura
+(Log Normal) (Log Normal) (Log Normal)
+(Log Pearson) (Log Normal)
+2 68,3 64,3 63,0 88,4 54,1
+5 101,0 91,3 89,9 119,8 74,3
+10 123,9 109,7 111,0 140,4 87,8
+20 146,7 127,7 133,9 160,0 100,7
+25 154,1 133,4 141,8 166,2 104,8
+50 177,4 151,4 168,0 185,4 117,5
+100 201,4 169,6 197,4 204,5 130,3
+200 226,1 188,2 230,2 223,8 143,1
+Dist. Escogida Log Normal Log Normal Log Pearson Log Normal Log Normal
+Fuente: Elaboración propia, 2024.
+Para mayor detalle del análisis de frecuencia, en el Anexo 2: Análisis de Frecuencias –
+Pluviometría, presentado al final del presente informe, donde se presentan tablas
+resumen con los resultados de los test estadísticos realizados y el análisis gráfico para la
+distribución escogida en cada estación.
+Apéndice 10.13.2
+Página 21 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 90
+================================================================================
+2.5.2. Precipitación Media
+La estimación del caudal aportante de la cuenca mediante los métodos indirectos, se
+obtiene a partir de la comparación entre los resultados de tres metodologías propuestas
+en el manual de cálculo de crecidas y caudales mínimos en cuencas sin información
+hidrométrica (DGA, Manual de cálculo de crecidas y caudales minimos en cuencas sin
+información hidrometrica, 1995): Método DGA-AC, Verni y King modificado y Fórmula
+Racional.
+Para la correcta aplicación de las metodologías mencionadas, es importante conocer la
+precipitación media de las cuencas, es por ello que se elaboró un mapa campo de
+isoyetas a partir de los resultados obtenidos en la Tabla 4, considerando un periodo de
+retorno T = 10 años. El campo de isoyetas contiene información de las líneas de igual
+R
+precipitación. Además, con el fin de contrastar resultados se incluye en el grafico el
+mapa de isoyetas de precipitaciones máximas de 24 horas para 10 años de periodo de
+retorno (DGA, 1986), el cual contiene información con resolución de 20 (mm) y se
+encuentra en estado de descarga libre, en la Figura 12 se presenta el campo de isoyetas
+generado con los datos de la Tabla 4.
+Figura 12: Isoyetas en la zona de estudio, en mm. (UTM WGS 84/ H18S)
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 22 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 91
+================================================================================
+Para determinar la precipitación media de cada cuenca se realiza un promedio
+ponderado del área entre isoyetas respecto del área total de la cuenca según la siguiente
+fórmula:
+∑𝑁 𝑃̅ 𝐴
+𝑖 𝑖
+𝑃𝑃 𝑗 = 𝑖=1
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜 𝐴
+𝑇
+Donde:
+• 𝑃𝑃 𝑗: Precipitación ponderada para la 𝑗-ésima cuenca en (mm).
+𝑝𝑜𝑛𝑑𝑒𝑟𝑎𝑑𝑜
+• 𝑁: Es el total de pares de isoyetas contiguas que atraviesan la cuenca 𝑗.
+• 𝑃̅ : Corresponde al promedio en (mm) entre 2 isoyetas contiguas. Como ejemplo,
+𝑖
+el promedio 120,5 (mm) corresponde al área entre las isoyetas 120 y 121 (mm).
+• 𝐴: El área de la cuenca entre 2 isoyetas (Km2).
+𝑖
+• 𝐴 : El área total de la cuenca en (Km2).
+𝑇
+Apéndice 10.13.2
+Página 23 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 92
+================================================================================
+Los resultados obtenidos se muestran en siguiente tabla:
+Tabla 5: Resumen cálculo de precipitación máxima diaria ponderada por cuenca,
+para un periodo de retorno de 10 años.
+Área (m2) entre isoyetas con P (mm)
+PP
+Cuenca ponderada
+120,5 121,5 122,5 123,5 124,5 125,5 126,5
+mm
+Cuenca 1 39000 0 0 0 0 0 0 120,5
+Cuenca 2 1200 97800 0 0 0 0 0 121,5
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 24 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 93
+================================================================================
+2.5.3. Estimación de caudales
+2.5.3.1. Método racional
+La fórmula racional es un método ampliamente conocido en la hidrología y que tiene
+como supuesto que el escurrimiento máximo proveniente de una tormenta es
+proporcional a la lluvia caída. Este método posee como limitación su uso para cuencas
+con una superficie menor a 25 (Km2), en el caso de estudio, la suma de las cuencas
+resulta en una superficie de 17,79 (Km2) por lo que aplica esta metodología. El caudal
+máximo para un determinado período de retorno se calcula mediante la siguiente
+expresión:
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3,6
+Donde:
+• 𝑄: Caudal en (m³⁄s).
+• 𝐶: Coeficiente de escurrimiento de la cuenca.
+• 𝐴: Área aportante en (Km2).
+• 𝑖: Intensidad de la lluvia de diseño en (mm⁄h).
+El coeficiente de escorrentía depende de las condiciones del terreno, uso y manejo del
+suelo, condiciones de infiltración y otros factores. Se recurre al uso de las disposiciones
+del ítem 3.702.5 del volumen 3 del manual de carreteras, que entrega rangos de valores
+y criterios para la estimación del coeficiente de escorrentía, lo cual se presenta en la
+Figura 13.
+Apéndice 10.13.2
+Página 25 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 94
+================================================================================
+Figura 13: Valores para el cálculo del coeficiente de escorrentía recomendados por el
+Estado de California.
+Fuente: Manual de Carreteras, Volumen 3. Ed. 2018.
+Se adopta por utilizar los coeficientes de escorrentía que corresponden a la siguiente
+clasificación y valores:
+• Relieve: Alto, valor 0,25.
+• Infiltración: Alto, valor 0,12.
+• Cobertura vegetal: Normal, valor 0,07.
+• Almacenamiento superficial: Alto, valor 0,08.
+La estimación del coeficiente de escorrentía consiste en examinar los 4 factores,
+seleccionando el valor correspondiente para el área de estudio, y sumar las
+contribuciones de estos. El coeficiente resultante es representativo de tormentas con
+periodos de retorno de 10 años o inferiores, por lo que, si se necesitan coeficientes de
+escorrentía de tormentas de períodos de retorno mayores, se recomienda amplificar los
+resultados por 1,1, 1,2 y 1,25 para períodos de retorno de 25, 50 y 100 años,
+respectivamente. El coeficiente de escorrentía para la zona de interés es el que se
+presenta a continuación.
+𝐶(𝑇 = 10) = 0,52
+Apéndice 10.13.2
+Página 26 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 95
+================================================================================
+2.5.3.1.1. Tiempos de concentración
+Para obtener la intensidad de la lluvia, se necesita el tiempo de concentración, el cual
+corresponde al tiempo necesario para que la partícula de agua hidráulicamente más
+alejada de la cuenca alcance la salida o punto de control de la cuenca. Este valor es
+estimado utilizando las fórmulas presentadas en el manual de Carreteras - Volumen 3.
+Además, dicha norma menciona que el valor para el tiempo de concentración no debe
+ser inferior a 10 minutos salvo que se tengan mediciones en terreno que justifiquen
+adoptar valores menores.
+• California Culverts Practice (1942)
+Esta fórmula es básicamente una adaptación de la fórmula de Kirpich para cuencas
+pequeñas de montaña en California.
+𝐿 3 0,385
+𝑐
+𝑇 = 57 ( )
+𝑐
+𝐻
+𝑚á𝑥
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝐻 : Desnivel máximo de la cuenca en (m).
+𝑚á𝑥
+• Giandotti
+Esta fórmula se utiliza para cuencas pequeñas con pendiente, mediante la correlación
+entre la longitud del cauce, el área aportante de la cuenca y la diferencia de nivel se
+obtiene el tiempo de concentración:
+4 ∙ 𝐴0,5 + 1,5 ∙ 𝐿
+𝑐
+𝑇
+𝑐
+= 60
+0,8 ∙ 𝐻0,5
+𝑚á𝑥
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝐻 : Desnivel máximo de la cuenca (m).
+𝑚á𝑥
+• 𝐴: Área de la cuenca en (Km2).
+La fórmula es aplicable en cuencas con A < 200 (Ha) y si L
+c
+/5,4 < T
+c
+(Hr) < L
+c
+/3,6.
+Apéndice 10.13.2
+Página 27 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 96
+================================================================================
+• Normas Españolas
+La fórmula citada en el Manual de Carreteras corresponde a la propuesta por Témez en
+1978 para cuencas naturales de España. La ecuación es la siguiente:
+𝐿 0,76
+𝑐
+𝑇
+𝑐
+= 18
+0,19
+𝑆
+𝑐
+Donde:
+• 𝑇 : Tiempo de concentración en minutos.
+𝑐
+• 𝐿 : Longitud del Cauce principal en (Km).
+𝑐
+• 𝑆 : Pendiente media del cauce principal (m/m).
+𝑐
+2.5.3.1.2. Tiempos de concentración adoptados
+Los tiempos de concentración adoptados para cada cuenca corresponden al promedio
+entre los métodos de California y Normas Españolas (siempre y cuando este sea mayor
+a 10 min según lo mencionado en 2.5.3.1.1), dado que la fórmula de Giandotti no cumple
+las restricciones para ninguna de las cuencas estudiadas. En la Tabla 6 se presenta el
+tiempo de concentración adoptado.
+Tabla 6: Tiempos de concentración calculados por cuenca.
+T
+c
+(minutos)
+Cuenca
+California Normas españolas Valor adoptado
+Cuenca 1 2,5 8,9 10,0
+Cuenca 2 4,9 16,6 10,8
+Fuente: Elaboración propia, 2024.
+2.5.3.1.3. Curvas IDF
+Para estimar la lluvia asociada a duraciones menores a 24 horas para un periodo de
+retorno dado se utilizan los coeficientes de duración generalizados propuestos en el
+Manual de Carreteras.
+La ecuación que relaciona la precipitación de período de retorno T y duración 24 horas,
+con aquella del mismo período de retorno, pero de duración t horas es:
+𝑃𝑇 =K⋅𝐶D𝑇⋅𝐶F𝑇⋅𝑃 10
+𝑡 24
+Donde:
+• 𝑃𝑇: Precipitación de período de retorno 𝑇, asociada a una duración de 𝑡 horas,
+𝑡
+en 𝑚𝑚.
+Apéndice 10.13.2
+Página 28 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 97
+================================================================================
+• 𝐶𝐷𝑡: Coeficiente de duración para 𝑡 horas.
+• 𝐶𝐹𝑇: Coeficiente de frecuencia para período de retorno 𝑇.
+• 𝐾: Coeficiente de corrección para la lluvia máxima 𝑃 10 medida entre 8 AM y 8
+24
+AM respecto de las 24 horas más lluviosas de la tormenta, para el que se ha
+adoptado un valor de 1,1.
+Para determinar los coeficientes de duración se adoptan los valores presentados en la
+tabla 3.702.403.A del Manual de carreteras, se utilizan los de la estación Concepción,
+debido a que está estación corresponde a la más cercana a la zona del proyecto. Los
+coeficientes de duración para un periodo de retorno de 10 años se presentan en la Tabla
+7. Adicionalmente, de la tabla 3.702.403.B del Manual de carreteras se obtienen los
+coeficientes de frecuencia para duraciones mayores a 1 horas, ver Tabla 8.
+Tabla 7: Coeficientes de duración, estación Concepción.
+Coeficientes de duración T = 10 años
+Estación/ Duración (horas) 1 2 4 6 8 10 12 14 18 24
+Concepción 0,19 0,30 0,39 0,48 0,56 0,64 0,70 0,746 0,90 1,00
+Fuente: Elaboración propia, a partir de Manual de Carreteras Vol. 3. Ed. 2018.
+Tabla 8: Coeficientes de frecuencia, estación Concepción.
+Coeficientes de frecuencia
+Estación/ Periodo de retorno (años) 2 5 10 20 25 50 100 200
+Concepción 0,68 0,87 1,00 1,12 1,16 1,28 1,40 1,52
+Fuente: Elaboración propia, a partir de Manual de Carreteras Vol. 3 Ed. 2018.
+Para lluvias de duración menor a 1 horas se utiliza la fórmula de Bell, la expresión de
+cálculo es la siguiente:
+𝑃𝑇 = (0,54𝑡0,25−0.50) CF𝑇 𝑃10
+𝑡 1
+Donde:
+• 𝑃𝑇: Precipitación (mm) con Período de Retorno T años y Duración t minutos.
+𝑡
+• CF𝑇: Coeficiente de frecuencia para un Período de Retorno T.
+• 𝑃10: Precipitación (mm) con T=10 años y Duración de 1 hora.
+1
+Finalmente, la intensidad correspondiente a dicha precipitación queda dada por:
+𝑃 𝑇
+𝐼𝑇 = 𝑡
+𝑡
+𝑡
+Apéndice 10.13.2
+Página 29 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 98
+================================================================================
+Donde:
+• 𝐼𝑇: Intensidad, en (mm/h), para un período de retorno T y asociada a una
+𝑡
+duración de t horas.
+Con la finalidad de presentar la familia de curvas IDF se construye un gráfico que
+considera la precipitación para ambas cuencas en estudio, el cual se muestra en la Figura
+144 y se construyó con los resultados mostrados en la Tabla 9.
+Tabla 9: Intensidad de diseño para precipitación promedio entre las 2 cuencas.
+Intensidad (mm/hr)
+Horas Minutos T
+R
+= 2 T
+R
+= 5 T
+R
+= 10 T
+R
+= 20 T
+R
+= 25 T
+R
+= 50 T
+R
+= 100 T
+R
+= 200
+años años años años años años años años
+0,08 5 62,1 80,1 93,6 107,2 111,6 125,2 138,8 152,3
+0,17 10 46,5 59,9 70,1 80,3 83,5 93,7 103,9 114,0
+0,33 20 32,4 41,8 48,9 56,0 58,2 65,3 72,4 79,5
+0,50 30 25,7 33,1 38,8 44,4 46,2 51,8 57,4 63,1
+0,67 40 21,7 27,9 32,7 37,4 38,9 43,7 48,4 53,1
+0,83 50 18,9 24,4 28,5 32,6 34,0 38,1 42,2 46,4
+1,00 60 17,2 22,0 25,3 28,3 29,3 32,4 35,4 38,4
+2,00 120 13,6 17,4 20,0 22,4 23,2 25,6 28,0 30,3
+4,00 240 8,8 11,3 13,0 14,5 15,1 16,6 18,2 19,7
+6,00 360 7,2 9,3 10,6 11,9 12,4 13,6 14,9 16,2
+8,00 480 6,3 8,1 9,3 10,4 10,8 11,9 13,0 14,2
+10,00 600 5,8 7,4 8,5 9,5 9,9 10,9 11,9 12,9
+12,00 720 5,3 6,8 7,8 8,7 9,0 9,9 10,9 11,8
+14,00 840 4,9 6,3 7,2 8,1 8,4 9,2 10,1 11,0
+18,00 1080 4,5 5,8 6,7 7,5 7,7 8,5 9,3 10,1
+24,00 1440 3,8 4,8 5,5 6,2 6,4 7,1 7,8 8,4
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 30 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 99
+================================================================================
+Figura 14: Curvas IDF para precipitación promedio entre las 2 cuencas.
+160,0
+T = 2 años
+140,0
+T = 5 años
+)s
+a
+1 20,0 T = 10 años
+r o T = 20 años
+h100,0
+/
+m T = 25 años
+m
+d
+( 80,0 T = 50 años
+a
+d
+is 60,0
+T = 100 años
+n
+e T = 200 años
+t
+n
+I 40,0
+20,0
+0,0
+0,00 4,00 8,00 12,00 16,00 20,00 24,00
+Tiempo (Horas)
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 31 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 100
+================================================================================
+2.5.3.1.4. Caudales obtenidos método racional
+Con la información anterior, se obtienen los caudales de diseño para los distintos
+periodos de retorno. Los resultados se muestran en la siguiente tabla:
+Tabla 10: Caudales obtenidos mediante Método Racional (m3/s).
+Periodo de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100
+Cuenca 1 0,13 0,16 0,18 0,20 0,25 0,29
+Cuenca 2 0,34 0,40 0,46 0,52 0,64 0,74
+Fuente: Elaboración propia, 2024.
+La metodología no establece coeficientes de escorrentía para valores mayores a 100
+años, por lo que se realiza una extrapolación logarítmica para caudales asociados a
+períodos de retorno mayores. El ajuste se presenta en la Figura 15.
+Figura 15: Curva de Caudales – Método Racional.
+Fuente: Elaboración propia, 2024.
+Finalmente, los caudales obtenidos para cada cuenca son los siguientes:
+Tabla 11: Resumen de Caudales (m3/s) Método Racional hasta T
+R
+=200.
+Período de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100 T
+R
+=150 T
+R
+=200
+Cuenca 1 0,13 0,16 0,18 0,20 0,25 0,29 0,30 0,32
+Cuenca 2 0,34 0,40 0,46 0,52 0,64 0,74 0,78 0,82
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 32 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 101
+================================================================================
+2.5.3.2. Método Verni & King modificado
+El método Verni & King modificado está basado en la fórmula de Verni y King, la cual
+relaciona el caudal instantáneo máximo de una crecida con la precipitación diaria
+máxima y el área pluvial a través de una relación de potencias.
+A la fórmula original, establecida para periodos de retorno mayores que 30 años, se le
+agrega un coeficiente empírico variable con el periodo de retorno, el cual es producto
+de un proceso de ajuste y calibración a los resultados de los análisis de frecuencias
+realizados a un total de 130 estaciones limnigráficas ubicadas entre las regiones de
+Atacama y de la Araucanía del país.
+El Manual de Cálculo de crecidas y caudales mínimos en cuencas sin información
+fluviométrica establece que el método Verni & King modificado tiene validez para
+cuencas con áreas comprendidas entre los 20 y 10000 (Km2).
+Debido a que las cuencas del presente estudio no superan los 2 Km2 de superficie, se
+incluyen los resultados de esta metodología únicamente a modo de comparación.
+La ecuación asociada al método Verni & King modificado es la siguiente:
+𝑄 = 𝐶(𝑇)∙0,00618∙(𝑃 )1,24∙𝐴0,88
+24
+Donde:
+• 𝑄: Caudal en (m3⁄s).
+• 𝐶(𝑇): Coeficiente empírico de periodo de retorno T años.
+• 𝐴: Área aportante en (Km2).
+• 𝑃 : Precipitación diaria máxima asociada al periodo de retorno de T años,
+24
+expresado en (mm).
+El coeficiente 𝐶(𝑇 = 10) es variable de acuerdo con la región en que se encuentre la
+cuenca analizada. La zona de estudio pertenece a la región del Biobío, por lo que se
+utiliza un coeficiente 𝐶(𝑇 = 10) = 0,79.
+Apéndice 10.13.2
+Página 33 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 102
+================================================================================
+El coeficiente empírico 𝐶(𝑇) es función del periodo de retorno, para su determinación
+se debe calcular primeramente el valor del factor de frecuencia 𝐶(𝑇)/𝐶(𝑇 = 10). Los
+valores del factor de frecuencia para la región de estudio se pueden observar en la
+siguiente tabla:
+Tabla 12.Valores del factor de frecuencia C(T)/C (10) para la Región del Biobío y los
+distintos períodos de retorno.
+C(T)/C(10)
+T R =2 años T R =5 años T R =10 años T R =25 años T R =50 años T R =100 años
+1,04 1,04 0,91 1,00 1,01 1,02
+Fuente: Elaboración propia, en base a manual de cálculo de crecidas y caudales mínimos en cuencas sin
+información fluviométricas, MOP, 1995.
+Con la información anterior, se obtienen los caudales de diseño para los distintos
+periodos de retorno, los cuales se presentan en la Tabla 13.
+Tabla 13: Caudales obtenidos mediante Método Verni & King modificado, en m3/s.
+Periodo de Retorno
+Cuenca
+T
+R
+=2 años T
+R
+=5 años T
+R
+=10 años T
+R
+=20 años T
+R
+=25 años T
+R
+=50 años T
+R
+=100 años
+Cuenca 1 0,08 0,11 0,14 0,15 0,19 0,23 0,08
+Cuenca 2 0,18 0,25 0,32 0,34 0,43 0,52 0,18
+Fuente: Elaboración propia, 2024.
+El método Verni & King Modificado, no establece coeficientes para periodos de retorno
+mayores a 100 años, por lo que se realiza un ajuste logarítmico para extrapolar a
+caudales mayores. El ajuste se observa en la Figura 16.
+Apéndice 10.13.2
+Página 34 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 103
+================================================================================
+Figura 16. Curva de caudales – Método de Verni King modificado.
+Fuente: Elaboración propia, 2024.
+Finalmente, los caudales obtenidos para cada cuenca son los siguientes:
+Tabla 14: Resumen de Caudales (m3/s) Método Verni King hasta TR=200.
+Período de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100 T
+R
+=150 T
+R
+=200
+Cuenca 1 0,08 0,11 0,14 0,15 0,19 0,23 0,26 0,27
+Cuenca 2 0,18 0,25 0,32 0,34 0,43 0,52 0,55 0,59
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 35 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 104
+================================================================================
+2.5.3.3. Método DGA-AC
+El método DGA-AC para crecidas pluviales, corresponde a un análisis regional de crecidas
+de origen pluvial, basado en series de máximos anuales generadas a partir de la
+información de caudales medios diarios máximos e instantáneos máximos del periodo
+pluvial, de 234 estaciones de control fluviométrico.
+Este método abarca estaciones desde las regiones de Atacama a la Araucanía, es válido
+para cuencas pluviales o pluvionivales sin información fluviométrica y con áreas
+comprendidas entre 20 y 10.000 Km2. Su uso está restringido a períodos de retorno
+inferiores a 100 años.
+Debido a que las cuencas del presente estudio no superan los 2 Km2 de superficie, se
+incluyen los resultados de esta metodología únicamente a modo de comparación.
+El método consiste básicamente en determinar una curva de frecuencias para el caudal
+instantáneo máximo de la cuenca. Para esto se debe definir la zona homogénea a la que
+pertenece la cuenca en estudio, luego determinar la curva de frecuencias de la cuenca
+para la variable caudal medio diario máximo. Finalmente, dicha curva se convierte a
+caudales instantáneos máximos a través de la determinación de un factor de conversión
+apropiado.
+Dado que la zona de estudio se encuentra al sur de la latitud 35 y las respectivas cuencas
+no pertenecen ni al río Biobío ni Itata, se concluye la zona homogénea correspondiente
+es U
+p
+, y los factores 𝑄(𝑇)/𝑄(10) son los siguientes:
+Tabla 15. Factores 𝑸(𝑻)/𝑸(𝟏𝟎) para cuencas tipo Up y los distintos periodos de
+retorno.
+Periodo de retorno 𝑸(𝑻)/𝑸(𝟏𝟎)
+(años) Media Máx Mín
+5 0,83 0,85 0,80
+10 1,00 1,00 1,00
+25 1,22 1,25 1,19
+50 1,38 1,44 1,33
+100 1,54 1,63 1,46
+Fuente: Elaboración propia, en base a manual de cálculo de crecidas y caudales mínimos en cuencas sin
+información fluviométrica, MOP, 1995.
+Apéndice 10.13.2
+Página 36 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 105
+================================================================================
+Luego, el caudal medio diario máximo de período de retorno de 10 años para región del
+Biobío está dado por la siguiente ecuación:
+𝑄 = 2∙10−3∙𝐴0,973∙(𝑃10)1,224
+10 24
+Donde:
+• Q : Caudal medio diario máximo de periodo de retorno 10 años en (m3⁄s).
+10
+• 𝐴: Área aportante en (Km2).
+• P10: Precipitación diaria máxima asociada al periodo de retorno de 10 años,
+24
+expresado en (mm).
+Con lo anterior, y considerando el factor de conversión de la zona homogénea, se
+obtienen los resultados de caudales mostrados en la Tabla 166.
+Tabla 16. Caudales instantáneos obtenidos por el método DGA-AC en m3/s, para los
+distintos períodos de retorno.
+Periodo de retorno (años)
+Cuenca
+T
+R
+=2 T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100
+Cuenca 1 0,04 0,05 0,05 0,06 0,06 0,07 0,04
+Cuenca 2 0,10 0,11 0,13 0,14 0,16 0,18 0,10
+Fuente: Elaboración propia, 2024.
+El método DGA-AC, no establece coeficientes para periodos de retorno mayores a 100
+años, por lo que se realiza un ajuste logarítmico para extrapolar a caudales mayores. El
+ajuste se observa en la Figura 17.
+Apéndice 10.13.2
+Página 37 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 106
+================================================================================
+Figura 17. Curva de caudales – Método DGA-AC.
+Fuente: Elaboración propia, 2024.
+Finalmente, los caudales obtenidos para cada cuenca son los siguientes:
+Tabla 17: Resumen de Caudales (m3/s) Método DGA-AC hasta T
+R
+=200.
+Período de Retorno
+Cuenca
+T
+R
+=5 T
+R
+=10 T
+R
+=20 T
+R
+=25 T
+R
+=50 T
+R
+=100 T
+R
+=150 T
+R
+=200
+Cuenca 1 0,04 0,05 0,05 0,06 0,06 0,07 0,08 0,08
+Cuenca 2 0,10 0,11 0,13 0,14 0,16 0,18 0,19 0,20
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 38 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 107
+================================================================================
+2.6. Caudales adoptados
+Como fue mencionado anteriormente, la aplicación de los métodos Verni & King
+modificado y DGA-AC se limitan a cuencas con superficie superior a 20 (Km2), la cuenca
+de mayor tamaño tiene un área de 0,099 (Km2), por lo que los métodos Verni & King y
+DGA-AC se consideran solo de una forma comparativa con el Método Racional.
+Finalmente, como caudal adoptado se consideran los obtenidos por el método racional.
+A continuación, la Tabla 18 muestra un resumen con los caudales para los 3 métodos
+para el período de retorno de 100 años (diseño). El detalle de los caudales para todos
+los períodos de retorno se encuentra en el Anexo 3: Tablas resumen de Caudales para
+cada punto de interés, presentado al final del presente informe.
+Tabla 18: Resumen de caudales de diseño (T =100 años) para los 3 métodos
+R
+utilizados.
+Q m3/s T
+R
+=100 años
+ID Verni King
+Racional DGA-AC
+modificado
+Cuenca 1 0,288 0,227 0,073
+Cuenca 2 0,739 0,521 0,183
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 39 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 108
+================================================================================
+Anexo 1: Relleno de datos
+Tabla 19: Catastro de relleno de datos para las estaciones escogidas.
+Precipitaciones máximas anuales (mm)
+Año
+Concepción Biobío
+Andalién Carriel Sur Rafael
+DGA Desembocadura
+1GG3 877 1126 1180 1418 739
+1GG4 703 844 947 1287 592
+1GG5 865 953 1164 1386 729
+1GG6 529 631 774 766 445
+1GG7 1097 1565 1664 1930 924
+1GG8 466 599 678 891 392
+1GGG 797 1091 1193 1345 671
+2000 981 1406 1400 1843 830
+2001 1646 1359 1542 1941 1076
+2002 1422 1363 1534 1215 1188
+2003 988 872 1011 1443 683
+2004 1181 1127 1206 1710 957
+2005 1445 1383 1501 1544 980
+2006 1414 1316 1476 1520 958
+2007 731 779 920 803 695
+2008 1140 1137 1218 1365 865
+200G 1144 935 1107 1323 890
+2010 972 760 973 1107 864
+2011 1053 762 1046 1215 999
+2012 854 742 964 1140 920
+2013 868 600 806 1254 823
+2014 1422 981 1309 2055 1383
+2015 1152 715 1082 1438 1113
+2016 757 616 575 1175 626
+2017 1178 930 1009 1809 1219
+2018 1078 781 868 1679 876
+201G 942 716 676 1247 801
+Datos anuales rellenados≥50%
+25%< Datos anuales rellenados<50%
+Datos anuales rellenados≤25%
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 40 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 109
+================================================================================
+Anexo 2: Análisis de Frecuencias – Pluviometría
+Anexo 2.1: Resultados de test estadísticos Chi- cuadrado y
+Kolmogorov Smirnov.
+Tabla 20: Resumen de test estadísticos y distribución adoptada por estación.
+Kolmogorov - Smirnov Chi cuadrado (χ²)
+Estación Distribución Adoptada
+Resultado Valor crítico (α=0.05) Resultado Valor crítico (α=0,05)
+Andalién Log Normal 0,06 0,26 1,88 5,99
+Bío Bío Desembocadura Log Normal 0,10 0,26 0,9 5,99
+Carriel Sur Log Normal 0,09 0,26 2,17 5,99
+Concepción DGA Log Pearson 0,06 0,26 1,92 3,84
+Rafael Log Normal 0,12 0,26 2,86 5,99
+Fuente: Elaboración propia, 2024.
+Tabla 21: Resumen para estación Andalién.
+Resumen resultados Análisis Frecuencia Andalién
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 75,6 68,3 70,4 68,8 70,2
+5 105,3 101,0 102,6 101,2 106,7
+10 120,8 123,9 122,7 123,3 130,8
+20 133,7 146,7 141,2 145,0 153,9
+25 137,4 154,1 146,9 151,9 161,2
+50 148,1 177,4 164,1 173,5 183,8
+100 157,7 201,4 180,6 195,3 206,2
+200 166,5 226,1 196,7 217,5 228,6
+2(calculado) 4,65 1,88 2,42 4,79 2,43
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,11 0,06 0,08 0,06 0,10
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 41 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 110
+================================================================================
+Tabla 22: Resumen para estación Bíobio Desembocadura.
+Resumen resultados Análisis Frecuencia Biobio Desembocadura
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 57,6 54,1 56,9 56,5 54,6
+5 74,3 74,3 74,0 74,7 75,0
+10 83,0 87,8 83,4 84,5 88,6
+20 90,2 100,7 91,4 92,5 101,5
+25 92,3 104,8 93,7 94,8 105,6
+50 98,3 117,5 100,6 101,3 118,3
+100 103,7 130,3 106,9 107,0 130,9
+200 108,6 143,1 112,7 112,0 143,4
+2(calculado) 0,59 0,90 0,54 1,37 0,67
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,06 0,10 0,06 0,06 0,09
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Tabla 23: Resumen Estación Carriel Sur
+Resumen resultados Análisis Frecuencia Carriel Sur
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 70,3 64,3 62,7 61,7 65,3
+5 98,2 91,3 93,2 89,6 99,5
+10 112,9 109,7 114,2 111,8 122,2
+20 124,9 127,7 134,6 136,1 143,9
+25 128,4 133,4 141,0 144,4 150,8
+50 138,5 151,4 160,9 172,4 172,1
+100 147,5 169,6 180,6 203,7 193,2
+200 155,8 188,2 200,3 238,9 214,2
+2(calculado) 6,38 2,17 1,10 4,33 1,39
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,09 0,08 0,07 0,13
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 42 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 111
+================================================================================
+Tabla 24: Resumen Estación Concepción DGA.
+Resumen resultados Análisis Frecuencia Concepción DGA
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 71,2 65,7 64,2 63,0 66,4
+5 97,8 91,6 93,2 89,9 99,0
+10 111,7 108,9 113,1 111,0 120,6
+20 123,2 125,7 132,2 133,9 141,3
+25 126,5 131,1 138,2 141,8 147,9
+50 136,1 147,7 156,8 168,0 168,1
+100 144,7 164,4 175,1 197,4 188,2
+200 152,6 181,4 193,4 230,2 208,2
+2(calculado) 4,70 1,51 0,79 1,92 0,77
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,08 0,08 0,06 0,12
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Tabla 25: Resumen estación Rafael.
+Resumen resultados Análisis Frecuencia Rafael
+Precipitación Anual (mm)
+TR
+Normal Log-Normal Pearson Log-Pearson Gumbel
+2 94,5 88,5 84,6 86,3 88,7
+5 126,2 119,8 119,0 118,6 127,7
+10 142,8 140,4 143,8 142,2 153,5
+20 156,6 160,0 168,3 166,5 178,2
+25 160,6 166,2 176,2 174,6 186,1
+50 172,0 185,4 200,6 200,7 210,3
+100 182,3 204,5 225,1 228,5 234,3
+200 191,7 223,8 249,7 258,3 258,2
+2(calculado) 7,65 2,86 3,97 4,73 4,11
+2(0,05) 5,99 5,99 3,84 3,84 5,99
+KS (calculado) 0,16 0,12 0,16 0,14 0,13
+KS valor crítico 0,26 0,26 0,26 0,26 0,26
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 43 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 112
+================================================================================
+Anexo 2.2: Análisis gráfico de frecuencias para cada
+estación.
+Figura 18: Análisis de Frecuencia, distribución Log-Normal – Estación Andalién.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 44 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 113
+================================================================================
+Figura 19: Análisis de Frecuencia, distribución Log-Normal – Bío Bío Desembocadura
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 45 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 114
+================================================================================
+Figura 20: Análisis de Frecuencia, distribución Log-Normal – Carriel Sur.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 46 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 115
+================================================================================
+Figura 21: Análisis de Frecuencia, distribución Log-Pearson –Concepción DGA.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 47 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 116
+================================================================================
+Figura 22: Análisis de Frecuencia, distribución Log-Normal –Rafael.
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 48 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite
+================================================================================
+PAGE 117
+================================================================================
+Anexo 3: Tablas resumen de Caudales para cada punto de
+interés.
+Tabla 26: Tabla resumen de Caudales para Cuenca 1.
+Cuenca 1
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,132 0,078 0,038
+10 0,155 0,107 0,045
+20 0,178 0,138 0,054
+25 0,204 0,149 0,056
+50 0,250 0,186 0,065
+100 0,288 0,227 0,073
+150 0,304 0,255 0,078
+200 0,319 0,269 0,081
+Fuente: Elaboración propia, 2024.
+Tabla 27: Tabla resumen de Caudales para Cuenca 2.
+Cuenca 2
+Periodo Caudal (m3/s)
+retorno Verni King
+Racional DGA-AC
+(años) modificado
+5 0,339 0,180 0,096
+10 0,398 0,245 0,113
+20 0,456 0,316 0,134
+25 0,522 0,342 0,141
+50 0,640 0,426 0,162
+100 0,739 0,521 0,183
+150 0,778 0,555 0,194
+200 0,818 0,588 0,203
+Fuente: Elaboración propia, 2024.
+Apéndice 10.13.2
+Página 49 de 49
+Informe Hidrológico
+Atravieso Oleoducto Zona de Extracción Maite

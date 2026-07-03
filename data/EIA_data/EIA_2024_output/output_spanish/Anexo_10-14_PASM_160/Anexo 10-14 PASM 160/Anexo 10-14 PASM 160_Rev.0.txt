@@ -1,0 +1,1034 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-14
+Permiso Ambiental Sectorial Mixto
+N°160
+Permiso para construcciones fuera de
+los límites urbanos
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región de Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Contenidos técnicos y formales ................................................................................................... 3
+2.1 Destino de las edificaciones (literal b.1)........................................................................................ 3
+2.2 Plano de ubicación, que señale la posición relativa del predio respecto de los terrenos
+colindantes y del espacio público (literal b.2) ........................................................................................... 5
+2.3 Plano de emplazamiento de las edificaciones (literal b.3) ............................................................ 5
+2.4 Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren los puntos más
+salientes, su altura, número de pisos y la línea correspondiente al suelo natural (literal b.4) .............. 12
+2.5 Caracterización del suelo (literal b.5) .......................................................................................... 14
+2.5.1 Descripción física y morfológica de suelos .......................................................................... 16
+2.5.2 Resultados de laboratorio ................................................................................................... 19
+3 Conclusiones ............................................................................................................................. 22
+4 Indicadores de cumplimiento .................................................................................................... 23
+INDICE DE TABLAS
+Tabla 2-1. Destino de las obras y edificaciones afectas a PASM 160 ............................................................ 4
+Tabla 2-2. Instalación de faenas .................................................................................................................... 5
+Tabla 2-3. Planta de procesamiento .............................................................................................................. 7
+Tabla 2-4. Resumen de superficies afectas a PAS 160 ................................................................................ 11
+Tabla 2-5. Suelos asociados a las obras e instalaciones sujetas al PASM 160............................................. 15
+Tabla 2-6. Descripción física y morfológica de la Calicata MP-04 ............................................................... 16
+Tabla 2-7. Descripción física y morfológica de la Calicata CA-10 ................................................................ 17
+Tabla 2-8. Cálculo de Agua Aprovechable ................................................................................................... 22
+INDICE DE FIGURAS
+Figura 2-1. Ubicación del Proyecto................................................................................................................ 3
+Figura 2-2. Obras sujetas a PASM 160 de la IIFF ......................................................................................... 14
+Figura 2-3. Obras sujetas a PASM 160 de la Planta de Procesamiento....................................................... 15
+INDICE DE APENDICES
+Apéndice 14-1 Plano de ubicación del predio respecto de los terrenos colindantes y del espacio público
+Apéndice 14-2 Plano de emplazamiento de las edificaciones
+Apéndice 14-3 Plantas de arquitectura esquemática y siluetas de las elevaciones
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto.
+Para las construcciones fuera de los límites urbanos, se requiere el Permiso Ambiental Sectorial Mixto a
+que se refiere el artículo N° 160 del Reglamento del Sistema de Evaluación de Impacto Ambiental. Este
+permiso autoriza proyectos que contemplan instalar y/o edificar nuevas construcciones, ajenas a la
+actividad agrícola, en el sector rural, según lo señalado en el Art. 55 de la Ley General de Urbanismo y
+Construcciones.
+El artículo 160 del Reglamento del SEIA corresponde al permiso para subdividir y urbanizar terrenos rurales
+para complementar alguna actividad industrial con viviendas, dotar de equipamiento algún sector rural o
+habilitar un balneario o campamento turístico o para la construcción de conjuntos habitacionales de
+viviendas sociales o de viviendas de hasta un valor de 1.000 Unidades de Fomento que cuenten con los
+requisitos para obtener un subsidio del Estado, así como para las construcciones industriales, de
+equipamiento, turismo y poblaciones fuera de los límites urbanos, corresponderá a la autorización e
+informes favorables que se establecen respectivamente en los incisos 3° y 4° del artículo 55 del Decreto
+con Fuerza de Ley Nº 458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo
+y Construcciones (énfasis agregado). Igualmente, de acuerdo con lo indicado en la Resolución N°
+202299101774, Actualiza Observancia de la Guía PAS 160, en Virtud de la Transferencia de Competencia
+de los Incisos 3° y 4° del Artículo 55 de la LGUC a los Gobiernos Regionales, las solicitudes de subdivisión y
+1
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+construcción ubicados al interior de un área rural normada por la planificación urbana intercomunal, sea
+este un Plan regulador Intercomunal o Metropolitano, es el Gobierno Regional respectivo el competente
+para elaborar los informes previos.
+El presente documento contiene los antecedentes asociados a las instalaciones, edificaciones de
+infraestructura o construcciones de equipamiento asociados al Proyecto que se ubicarán en el área rural,
+con un objetivo distinto al agrícola. Para su otorgamiento, entre otros antecedentes, el presente EIA
+incluye un estudio agrológico para cada obra.
+Los requisitos para el otorgamiento de este permiso consisten en no originar nuevos núcleos urbanos al
+margen de la planificación urbana y no generar pérdida o degradación del recurso natural suelo.
+Los contenidos técnicos y formales que resultan aplicables al presente Proyecto corresponden a aquellos
+indicados en la letra b) del Artículo 160 del Reglamento del Sistema de Evaluación de Impacto Ambiental;
+esto es:
+b) De tratarse de construcciones:
+• b.1. Destino de la edificación.
+• b.2. Plano de ubicación, que señale la posición relativa del predio respecto de los terrenos
+colindantes y del espacio público.
+• b.3. Plano de emplazamiento de las edificaciones.
+• b.4. Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren los
+puntos más salientes, su altura, número de pisos y la línea correspondiente al suelo natural.
+• b.5. Caracterización del suelo.
+2
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 CONTENIDOS TÉCNICOS Y FORMALES
+Las obras afectas al PASM 160 del Proyecto corresponden a aquellas que se encuentran proyectadas en el
+área rural de la comuna de Penco, según se presenta en la siguiente figura:
+Figura 2-1. Ubicación del Proyecto
+Fuente: GAC
+2.1 Destino de las edificaciones (literal b.1)
+De acuerdo con los antecedentes del Proyecto, a continuación, se presentan los contenidos técnicos y
+formales que son requeridos para el otorgamiento de este permiso, indicados en la letra b) del Artículo
+160 del Reglamento del Sistema de Evaluación de Impacto Ambiental. Las obras y edificaciones para las
+cuales se identifica aplicabilidad del presente PASM 160 y el destino de cada una, se encuentran resumidas
+en la Tabla 2-1.
+3
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-1. Destino de las obras y edificaciones afectas a PASM 160
+Área Temporalidad Obras Objeto Destino
+Son construcciones de tipo
+temporales que en la fase
+de construcción sirven para
+Residuos no peligrosos, Residuos
+complementar funciones
+sólidos domiciliarios, Residuos
+básicas y de apoyo para la
+Peligrosos; Primeros
+construcción del Proyecto.
+auxilios/Brigada de emergencia;
+En ellas se habilitarán
+Instalación de Comedor; Baños y sala de cambio;
+Temporal oficinas e instalaciones Equipamiento
+Faenas Oficinas; Taller de trabajo; Bodega
+sanitarias y, en paralelo, se
+de almacenamiento de materiales y
+almacenarán y/o guardarán
+equipos mayores; Estación de
+insumos, equipos,
+combustible, PTAS y Garita de
+herramientas y
+Acceso.
+maquinarias que se
+necesiten para la
+construcción del Proyecto.
+Edificio administrativo y sala de
+control, Área Residuos
+domiciliarios, Laboratorio,
+Almacenamiento y preparación
+muestras laboratorio, Cilindro
+lavador, Harneros, Filtros prensa,
+Área filtro tratamiento de agua,
+Área de filtros, Sala compresores,
+Sala eléctrica y generadores, Baños
+planta, Almacenamiento respuesta
+planta, Área Residuos no
+peligrosos, Área Residuos
+peligrosos, Área Filtros vela y
+decanter, Edificio Filtros de presión Instalaciones que permiten
+Planta de Actividad
+Permanente tubulares, Bodega de producto el funcionamiento (fase de
+procesamiento productiva
+terminado, Baños planta, Bodega operación) del Proyecto
+sustancias peligrosas, Área de
+almacenamiento de reactivos, Área
+de Preparación de reactivos, Área
+sistema de recuperación de agua,
+Área brigada de emergencia, Área
+casino, Área sala de cambio, Área
+oficinas, Área lavado de equipos,
+Área reparación de camionetas,
+Área almacenamiento de insumos,
+Área reparación de equipos, Área
+garita estación de combustible,
+Estación de Combustible, Garita de
+acceso, PTAS.
+Fuente: GAC
+4
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.2 Plano de ubicación, que señale la posición relativa del predio respecto de los
+terrenos colindantes y del espacio público (literal b.2)
+El Plano de Ubicación se adjunta en el Apéndice 1. que señala la posición relativa del predio respecto a los
+terrenos colindantes y del espacio público.
+- A2 - PAS160 Plano Predial_V1
+2.3 Plano de emplazamiento de las edificaciones (literal b.3)
+Los planos de emplazamiento de las edificaciones se adjuntan en el Apéndice 2. de acuerdo con la siguiente
+denominación:
+- A2 - PAS160 Instalación de Faenas 1 de 2
+- A2 - PAS160 Instalación de Faenas 2 de 2
+- A2 - PAS160 Planta de Procesamiento 1 de 2_V2
+- A2 - PAS160 Planta de Procesamiento 2 de 2_V2
+En las siguientes tablas se presentan las coordenadas de ubicación de las obras que conforman el Proyecto
+y sus respectivas superficies.
+Tabla 2-2. Instalación de faenas
+Nombre ID Temporalidad Superficie m² vértices Norte Este
+Temporal fase
+1 5.930.035 681.856
+de
+Área Residuos construcción,
+A 100 2 5.930.035 681.866
+No Peligrosos Permanente
+fase de 3 5.930.025 681.866
+operación 4 5.930.025 681.856
+5 5.930.062 681.850
+Área Residuos Temporal,
+6 5.930.062 681.855
+Sólidos B Fase de 40
+7 5.930.054 681.855
+Domiciliarios construcción
+8 5.930.054 681.850
+Temporal
+9 5.930.075 681.850
+Fase de
+Área Residuos construcción
+C 70 10 5.930.075 681.857
+Peligrosos Permanente
+fase de 11 5.930.065 681.857
+operación 12 5.930.065 681.850
+13 5.930.094 681.718
+Temporal,
+Primeros
+D Fase de 41,5 14 5.930.100 681.718
+Auxilios
+construcción
+15 5.930.100 681.728
+5
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² vértices Norte Este
+16 5.930.094 681.728
+17 5.930.088 681.695
+Temporal,
+18 5.930.100 681.695
+Área Comedor E Fase de 207,7
+19 5.930.100 681.713
+construcción
+20 5.930.088 681.713
+21 5.930.118 681.645
+Temporal,
+Área Baños y 22 5.930.132 681.665
+F Fase de 270
+Sala de Cambio 23 5.930.122 681.672
+construcción
+24 5.930.108 681.653
+25 5.930.130 681.626
+Temporal,
+26 5.930.144 681.646
+Área Oficinas G Fase de 408
+27 5.930.129 681.657
+construcción
+28 5.930.115 681.637
+29 5.930.142 681.624
+Temporal,
+Área Taller de 30 5.930.150 681.618
+H Fase de 120
+Trabajo 31 5.930.157 681.627
+construcción
+32 5.930.149 681.633
+33 5.930.160 681.610
+Bodega de Temporal,
+34 5.930.167 681.620
+Almacenamiento I Fase de 125
+35 5.930.159 681.626
+de Materiales construcción
+36 5.930.152 681.616
+Oficina Patio de 37 5.930.165 681.607
+Acopio de Temporal,
+38 5.930.172 681.617
+Materiales y J Fase de 30
+Equipos construcción 39 5.930.170 681.619
+Mayores 40 5.930.163 681.609
+41 5.930.181 681.662
+Temporal,
+Estación de 42 5.930.176 681.675
+K Fase de 58,5
+Combustible 43 5.930.167 681.671
+construcción
+44 5.930.172 681.659
+45 5.930.103 681.763
+46 5.930.103 681.769
+Temporal,
+47 5.930.092 681.769
+Fase de
+Planta
+construcción 48 5.930.093 681.767
+Tratamiento L 74,52
+Permanente 49 5.930.089 681.767
+Aguas Servidas 1
+fase de
+50 5.930.089 681.765
+operación
+51 5.930.091 681.765
+52 5.930.091 681.763
+61 5.930.035 681.856
+Garita de Acceso M 16
+62 5.930.035 681.866
+6
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² vértices Norte Este
+Temporal, 63 5.930.025 681.866
+Fase de
+64 5.930.025 681.856
+construcción
+Total, PAS 160 1561,22
+Fuente: GAC
+Tabla 2-3. Planta de procesamiento
+Nombre ID Temporalidad Superficie m² Vértices Norte Este
+1 5.929.813 681.885
+Permanente,
+2 5.929.809 681.884
+Garita de Acceso A Fase de 16
+3 5.929.811 681.880
+operación
+4 5.929.815 681.882
+5 5.929.870 681.815
+Almacenamiento
+Permanente,
+y Preparación 6 5.929.865 681.829
+B Fase de 450
+Muestras
+operación 7 5.929.837 681.820
+Laboratorio
+8 5.929.841 681.805
+9 5.929.875 681.799
+Permanente,
+10 5.929.872 681.810
+Laboratorio C Fase de 360
+11 5.929.843 681.801
+operación
+12 5.929.847 681.790
+13 5.929.881 681.787
+Permanente,
+Área Residuos 14 5.929.880 681.792
+D Fase de 40
+Domiciliarios 15 5.929.872 681.790
+operación
+16 5.929.873 681.785
+17 5.929.875 681.743
+559,5 18 5.929.867 681.777
+Edificio
+Permanente,
+Administrativo y 19 5.929.853 681.774
+E Fase de
+Sala de Control 20 5.929.862 681.734
+operación
+Piso 1-2
+509 21 5.929.875 681.737
+22 5.929.873 681.743
+23 5.929.913 681.863
+Permanente,
+24 5.929.916 681.870
+Cilindro Lavador F Fase de 204
+25 5.929.901 681.878
+operación
+26 5.929.897 681.871
+27 5.929.921 681.862
+Permanente,
+Harneros G Fase de 144 28 5.929.921 681.870
+operación
+29 5.929.909 681.870
+7
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² Vértices Norte Este
+30 5.929.909 681.862
+31 5.929.924 681.865
+Permanente,
+32 5.929.924 681.871
+H Fase de 51,3
+33 5.929.918 681.871
+operación
+34 5.929.918 681.865
+35 5.929.919 681.945
+Permanente,
+Planta de 36 5.929.927 681.940
+I Fase de 90
+Tratamiento 1 37 5.929.932 681.948
+operación
+38 5.929.923 681.953
+39 5.929.901 681.766
+Permanente,
+40 5.929.901 681.772
+Baños Planta J Fase de 18
+41 5.929.898 681.772
+operación
+42 5.929.898 681.766
+43 5.929.902 681.754
+Área Sistema de Permanente,
+44 5.929.976 681.754
+Recuperación de K Fase de 1.776,00
+45 5.929.976 681.778
+Agua operación
+46 5.929.902 681.778
+47 5.929.944 681.808
+Permanente,
+48 5.929.944 681.816
+Área de Filtros L Fase de 120
+49 5.929.934 681.816
+operación
+50 5.929.934 681.808
+51 5.929.962 681.794
+Permanente,
+Sala 52 5.929.962 681.819
+M Fase de 275
+Compresores 53 5.929.951 681.819
+operación
+54 5.929.951 681.794
+55 5.929.978 681.795
+Permanente,
+Sala Eléctrica y 56 5.929.978 681.825
+N Fase de 299,89
+Generadores 57 5.929.968 681.825
+operación
+58 5.929.968 681.795
+59 5.929.990 681.876
+Permanente,
+Área Filtros 60 5.929.933 681.876
+O Fase de 2.337,00
+Prensa 61 5.929.933 681.835
+operación
+62 5.929.990 681.835
+63 5.929.998 681.856
+Área Filtro Permanente,
+64 5.929.998 681.870
+Tratamiento de P Fase de 225
+65 5.929.991 681.870
+Agua operación
+66 5.929.991 681.856
+8
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² Vértices Norte Este
+67 5.929.990 681.820
+Permanente,
+68 5.929.990 681.832
+Baños Planta Q Fase de 36
+69 5.929.987 681.832
+operación
+70 5.929.987 681.820
+71 5.930.023 681.851
+Área
+Permanente,
+Almacenamiento 72 5.930.023 681.866
+R Fase de 180
+Repuestos 73 5.930.011 681.866
+operación
+Planta
+74 5.930.011 681.851
+75 5.930.034 681.855
+Permanente,
+Área Residuos 76 5.930.034 681.865
+S Fase de 100
+No Peligrosos 77 5.930.024 681.865
+operación
+78 5.930.024 681.855
+79 5.930.035 681.817
+Permanente,
+Área Filtros Vela 80 5.930.035 681.824
+T Fase de 262,5
+y Decanter 81 5.930.010 681.824
+operación
+82 5.930.010 681.817
+83 5.930.038 681.747
+Área de Permanente,
+84 5.930.038 681.768
+Preparación de U Fase de 798
+85 5.930.000 681.768
+Reactivos operación
+86 5.930.000 681.747
+87 5.930.040 681.770
+Permanente,
+88 5.930.040 681.776
+Baños Planta V Fase de 18
+89 5.930.037 681.776
+operación
+90 5.930.037 681.770
+91 5.930.048 681.799
+Edificio Filtros Permanente,
+92 5.930.048 681.814
+de Presión W Fase de 78,75
+93 5.930.044 681.814
+Tubulares operación
+94 5.930.044 681.799
+95 5.930.063 681.738
+Área de Permanente,
+96 5.930.063 681.778
+Almacenamiento X Fase de 920
+97 5.930.040 681.778
+de Reactivos operación
+98 5.930.040 681.738
+99 5.930.069 681.762
+Bodega de Permanente,
+100 5.930.069 681.777
+Sustancias Y Fase de 75
+101 5.930.064 681.777
+Peligrosas operación
+102 5.930.064 681.762
+Z 720 103 5.930.071 681.797
+9
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² Vértices Norte Este
+104 5.930.071 681.833
+Bodega de Permanente,
+Producto Fase de 105 5.930.051 681.833
+Terminado operación
+106 5.930.051 681.797
+107 5.930.063 681.835
+Permanente,
+108 5.930.063 681.838
+Baños Planta AA Fase de 36
+109 5.930.051 681.838
+operación
+110 5.930.051 681.835
+111 5.930.075 681.850
+Permanente,
+Área Residuos 112 5.930.075 681.857
+BB Fase de 70
+Peligrosos 113 5.930.065 681.857
+operación
+114 5.930.065 681.850
+115 5.930.102 681.763
+116 5.930.103 681.769
+117 5.930.092 681.769
+Permanente,
+Planta de 118 5.930.092 681.767
+CC Fase de 74,52
+Tratamiento 1 119 5.930.089 681.767
+operación
+120 5.930.089 681.765
+121 5.930.092 681.765
+122 5.930.092 681.763
+123 5.930.100 681.718
+Permanente,
+Área Brigada de 124 5.930.100 681.728
+DD Fase de 41,5
+Emergencias 125 5.930.094 681.728
+operación
+126 5.930.094 681.718
+127 5.930.100 681.713
+Permanente,
+128 5.930.088 681.713
+Área Casino EE Fase de 207,7
+129 5.930.088 681.695
+operación
+130 5.930.100 681.695
+131 5.930.100 681.684
+Permanente,
+Área Sala de 132 5.930.100 681.690
+FF Fase de 72
+Cambio 133 5.930.088 681.690
+operación
+134 5.930.088 681.684
+135 5.930.100 681.672
+Permanente,
+136 5.930.100 681.678
+Área Oficinas GG Fase de 54
+137 5.930.091 681.678
+operación
+138 5.930.091 681.672
+Área Estación de 139 5.930.181 681.662
+HH 58,5
+Combustible 140 5.930.176 681.674
+10
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre ID Temporalidad Superficie m² Vértices Norte Este
+Permanente, 141 5.930.167 681.671
+Fase de
+142 5.930.172 681.659
+operación
+143 5.930.175 681.654
+Área Garita Permanente,
+144 5.930.173 681.658
+Estación de II Fase de 16
+145 5.930.169 681.656
+Combustible operación
+146 5.930.171 681.653
+147 5.930.157 681.571
+Permanente,
+Área Lavado de 148 5.930.166 681.585
+JJ Fase de 238
+Equipos 149 5.930.143 681.601
+operación
+150 5.930.134 681.587
+151 5.930.173 681.565
+152 5.930.179 681.573
+Permanente,
+Área Reparación 153 5.930.166 681.582
+KK Fase de 126
+de Camionetas 154 5.930.163 681.577
+operación
+155 5.930.163 681.572
+156 5.930.165 681.575
+157 5.930.180 681.558
+Área Permanente,
+158 5.930.187 681.568
+Almacenamiento LL Fase de 84
+159 5.930.181 681.572
+de Insumos operación
+160 5.930.174 681.562
+161 5.930.203 681.538
+Permanente,
+Área Reparación 162 5.930.217 681.557
+MM Fase de 667
+de equipos 163 5.930.193 681.573
+operación
+164 5.930.180 681.555
+Total, PAS 160 12.408,16
+Fuente: GAC
+Tabla 2-4. Resumen de superficies afectas a PAS 160
+Área Temporalidad Superficie m² Superficie ha
+Instalación de faenas Temporal 1.051,5 0,10
+Instalación de faenas Permanente 493,72 0,05
+Planta de procesamiento Permanente 12.408,16 1,2
+Total, PAS 160 13.953,38 1,3
+Fuente: GAC
+Es importante destacar que se considera la utilización de las instalaciones de faenas de la fase de
+construcción para la fase de cierre del Proyecto.
+11
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.4 Plantas de arquitectura esquemáticas y siluetas de las elevaciones que
+ilustren los puntos más salientes, su altura, número de pisos y la línea
+correspondiente al suelo natural (literal b.4)
+Las plantas de arquitectura esquemática y siluetas de las elevaciones que ilustren los puntos más salientes,
+su altura, número de pisos y la línea correspondiente al suelo natural, se adjuntan en el Apéndice 3. de
+acuerdo con la siguiente denominación:
+Instalación de Faenas
+Apéndice Plano Contenido
+PL-EIA-IF-0001 Planta general Instalación de Faenas
+PL-EIA-IF-ARQ-0001 Área de residuos no peligrosos
+PL-EIA-IF-ARQ-0002 Área de residuos sólidos domiciliarios
+PL-EIA-IF-ARQ-0003 Área de residuos peligrosos
+PL-EIA-IF-ARQ-0004 Área de primeros auxilios / Brigada de emergencia
+PL-EIA-IF-ARQ-0005 Área comedor
+Apéndice 3. Planos
+de elevación. PL-EIA-IF-ARQ-0006 Área baños y sala de cambio
+3.1 Instalación de PL-EIA-IF-ARQ-0007 Área oficinas
+faenas
+PL-EIA-IF-ARQ-0008 Área Taller de trabajo
+PL-EIA-IF-ARQ-0009 Área Bodega almacenamiento de materiales
+PL-EIA-IF-ARQ-0010 Área Oficina patio de acopio de materiales y equipos Mayores
+PL-EIA-IF-ARQ-0011 Área Garita estación de combustible
+PL-EIA-IF-ARQ-0012 Planta de Tratamiento de Aguas Servidas
+PL-EIA-IF-ARQ-0013 Área Garita de Acceso
+Fuente: GAC
+Planta de procesamiento
+Apéndice Plano Contenido
+PL-EIA-ARQ-0001 Edificio administrativo y Sala de control
+PL-EIA-ARQ-0002 Área residuos domiciliarios
+PL-EIA-ARQ-0003 Área Laboratorio
+PL-EIA-ARQ-0004 Área almacenamientos y preparación de muestras laboratorio
+Apéndice 3. PL-EIA-ARQ-0005 Área cilindro lavador
+Planos de
+PL-EIA-ARQ-0006 Área Harneros
+elevación
+PL-EIA-ARQ-0007 Área filtros de prensa y vela
+3.2 Planta de
+procesamiento PL-EIA-ARQ-0008 Área filtro tratamiento de agua
+PL-EIA-ARQ-0009 Área de Filtros
+PL-EIA-ARQ-0010 Sala compresores
+PL-EIA-ARQ-0011 Sala eléctrica
+PL-EIA-ARQ-0012 Área baños Planta
+12
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Planta de procesamiento
+Apéndice Plano Contenido
+PL-EIA-ARQ-0013 Área almacenamiento repuestos planta
+PL-EIA-ARQ-0014 Área residuos no peligrosos
+PL-EIA-ARQ-0015 Área residuos peligrosos
+PL-EIA-ARQ-0016 Área filtros vela y decanter
+PL-EIA-ARQ-0017 Edificio Filtros de Presión Tubulares
+PL-EIA-ARQ-0018 Bodega de Producto Terminado
+PL-EIA-ARQ-0019 Área baños Planta
+PL-EIA-ARQ-0020 Área bodega sustancias peligrosas
+PL-EIA-ARQ-0021 Área almacenamiento de reactivos
+PL-EIA-ARQ-0022 Área baños Planta
+PL-EIA-ARQ-0023 Área preparación de reactivos
+PL-EIA-ARQ-0024 Área recuperación de agua
+PL-EIA-ARQ-0025 Área baños Planta
+PL-EIA-ARQ-0026 Área brigada de emergencia
+PL-EIA-ARQ-0027 Área casino
+PL-EIA-ARQ-0028 Área sala de cambio
+PL-EIA-ARQ-0029 Área oficinas
+PL-EIA-ARQ-0030 Área lavado de equipos
+PL-EIA-ARQ-0031 Área baños Planta
+PL-EIA-ARQ-0032 Área reparación de camionetas
+PL-EIA-ARQ-0033 Área almacenamiento de insumos
+PL-EIA-ARQ-0034 Área reparación de equipos
+PL-EIA-ARQ-0035 Área garita estación de combustible
+PL-EIA-ARQ-0036 Área estación de combustible
+PL-EIA-ARQ-0037 Área garita acceso planta
+PL-EIA-GE-0001 Planta general Planta de procesamiento
+Fuente: GAC
+13
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5 Caracterización del suelo (literal b.5)
+En el capítulo de caracterización ambiental (línea de base) del EIA, se ha descrito pormenorizadamente el
+componente suelo del área de influencia del Proyecto, a través de un estudio morfológico y la evaluación
+de las propiedades fisicoquímicas en calicatas, caracterizadas por especialistas en suelo, conformándose
+el estudio agrológico que permite una completa caracterización del suelo. Se realizaron dos campañas: la
+primera, entre los días 1 al 5 de agosto 2023, y la segunda el 14 y 15 de diciembre de 2023. Con esta
+información se interpretaron las Clases de Capacidad de Uso de Suelo (CCUS) teniendo como guía los
+criterios definidos en la Pauta para Estudios de Suelo del SAG (2011, rectificada 2016).
+Las obras e instalaciones sujetas al Permiso Ambiental Sectorial (PASM 160), planta de procesamiento e
+instalación de faenas, se emplazarán dentro de la Unidad Homogénea identificada como “Cerros” (CCUS
+VI). En la Figura 2-2 y Figura 2-3 se presentan las obras sujetas a PASM 160 y la distribución de las calicatas
+representativas. En la Tabla 2-5 se identifican la unidad de suelo, las obras sujetas al Permiso y su
+correspondiente superficie.
+Figura 2-2. Obras sujetas a PASM 160 de la IIFF
+Fuente: GAC, 2024.
+14
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-3. Obras sujetas a PASM 160 de la Planta de Procesamiento
+Fuente: GAC, 2024
+Tabla 2-5. Suelos asociados a las obras e instalaciones sujetas al PASM 160
+Unidad
+Caracterización Área total
+Homogénea CCUS Obras Área (m2)
+del Suelo (m2)
+(UH)
+Suelos de uso actual forestal; en Instalación de
+1.300,18
+su mayoría son Faenas
+moderadamente profundos a
+profundos; con pendiente que
+varía entre fuertemente
+ondulada y de cerros, pero en
+su mayoría la pendiente
+Cerros VI 13.842,31
+predominante es fuertemente Planta de
+10.963,67
+ondulada (15 a <30%); la Procesamiento
+pedregosidad superficial varía
+entre sin y moderada; bien
+drenados. De texturas finas
+(franco arcillosa) en el horizonte
+superficial; condición de agua
+15
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Unidad
+Caracterización Área total
+Homogénea CCUS Obras Área (m2)
+del Suelo (m2)
+(UH)
+aprovechable buena; sin
+pedregosidad subsuperficial a
+moderada (30%); erosión no
+aparente. Los criterios
+especiales clasifican el suelo
+como no salino, no sódico, y no
+calcáreo. La CCUS es VI por los
+criterios de clasificación
+pendiente “s2”. Esta está
+caracterizada por los puntos de
+muestreo MP-04 y CA-10.
+Instalación de
+581,62
+faenas
+Intervenido N.C. Áreas intervenidas, sin suelo.
+Planta de
+996,85
+Procesamiento
+Fuente: GAC, 2024.
+2.5.1 Descripción física y morfológica de suelos
+En las siguientes tablas se presentan las descripciones físicas y morfológicas de los perfiles de suelo
+representativos de las obras e instalaciones sujetas al presente PASM 160.
+Tabla 2-6. Descripción física y morfológica de la Calicata MP-04
+MP-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.663 E / 5.930.011 N / 268 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición de ladera de cerro; uso forestal. Clasificado
+como muy profundo (100 cm); pendiente compleja, fuertemente ondulada (15%); sin
+Características pedregosidad superficial; drenaje moderado; de textura superficial franco arcillosa; condición
+Generales buena de agua aprovechable (12,04 cm c.a.); sin pedregosidad subsuperficial; erosión no
+aparente; tiene un promedio de 345 días consecutivos libres de heladas. Los criterios especiales
+clasifican el suelo como no salino (0,23 dS m-1), no sódico (0,45%) y no calcáreo. La Clase de
+Capacidad de Uso es VIs2 por el atributo crítico pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Pardo oscuro (7.5YR 3/3) en húmedo; franco arcillosa; estructura de bloques subangulares
+medios y gruesos, moderados; friable en húmedo; moderado plástico y moderado adhesivo;
+0-23 raíces finas y medias abundantes; poros finos abundantes, y medios, pocos. Sin pedregosidad.
+Sin reacción al HCl. Moteados rojo amarillento (5YR 5/8), medios, pocos. Concreciones medias,
+pocas. Límite ondulado, claro.
+16
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+MP-04 Coordenadas: Datum WGS 1984 HUSO 18S 681.663 E / 5.930.011 N / 268 m.s.n.m.
+Rojo amarillento (5YR 4/6) en húmedo; franco arcillosa; estructura de bloques subangulares
+medios, moderados; friable en húmedo; moderado plástico y moderado adhesivo; raíces finas,
+23-61
+pocas; poros finos y medios abundantes, gruesos pocos; Sin pedregosidad. Sin reacción al HCl.
+Cutanes medios, abundantes. Límite lineal, claro.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; estructura de bloques angulares gruesos,
+61-100 débiles; firme en húmedo; muy plástico y moderado adhesivo; raíces medias, pocas; poros finos
+y medianos abundantes. Sin pedregosidad. Sin reacción al HCl.
+Fotografías
+Fuente: GAC
+Tabla 2-7. Descripción física y morfológica de la Calicata CA-10
+CA-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.783 E / 5.929.927 N / 264 m.s.n.m.
+Unidad homogénea: Cerros
+Suelos de origen aluvial que ocupan una posición ladera de cerro; uso forestal y actualmente se
+Características encuentra intervenido y escarpado. Clasificado como moderadamente profundo (80 cm);
+Generales pendiente compleja, fuertemente ondulada (15%); Sin pedregosidad superficial; pobremente
+drenado; textura superficial arcillosa; condición regular de agua aprovechable (10 cm c.a.); sin
+pedregosidad subsuperficial; erosión no aparente; tiene un promedio de 345 días consecutivos
+17
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+CA-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.783 E / 5.929.927 N / 264 m.s.n.m.
+libres de heladas. Los criterios especiales clasifican el suelo como no salino (0,59 dS m-1), no
+sódico (0,55%) y no calcáreo. La Clase de Capacidad de Uso es VIs2 por el atributo crítico
+pendiente fuertemente ondulada.
+Profundidad
+Características
+(cm)
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; estructura de bloques subangulares medios
+moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas y finas pocas;
+0-6
+poros muy finos y finos abundantes, medios y gruesos. Sin pedregosidad. Sin reacción al HCl.
+Moteados rojo amarillento (5YR 5/8) gruesos pocos. Límite irregular, abrupto.
+Pardo oscuro (7.5YR 3/4) en húmedo; franco arcillosa; estructura de bloques subangulares
+gruesos moderados; friable en húmedo; muy plástico y muy adhesivo; raíces muy finas, finas y
+6-31 gruesas pocas; poros muy finos y finos abundantes, medios pocos. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 5/8) medios comunes. Concreciones medias y
+gruesas abundantes. Límite irregular, abrupto.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo; muy
+plástico y muy adhesivo; raíces finas y medias pocas; poros muy finos y finos comunes. Sin
+31-80
+pedregosidad. Sin reacción al HCl. Moteados rojo amarillento (5YR 5/8) finos pocos. Límite lineal,
+abrupto.
+Rojo amarillento (5YR 4/6) en húmedo; arcillosa; sin estructura, masivo; firme en húmedo; muy
+80-100 plástico y muy adhesivo; sin raíces; poros muy finos a medios pocos. Sin pedregosidad. Sin
+reacción al HCl. Moteados rojo amarillento (5YR 4/8) medios pocos.
+Fotografías
+18
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+CA-10 Coordenadas: Datum WGS 1984 HUSO 18S 681.783 E / 5.929.927 N / 264 m.s.n.m.
+Fuente: GAC
+2.5.2 Resultados de laboratorio
+A continuación, se presentan los resultados de laboratorio respecto de la caracterización de las calicatas
+realizadas en terreno asociadas al PASM 160.
+19
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: Agroanálisis UC.2023.
+20
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: Agroanálisis UC.2023.
+21
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5.2.1 Agua Aprovechable
+Los resultados de laboratorio y la caracterización física del suelo permitieron determinar la columna de
+agua aprovechable, utilizando la metodología de la guía “Métodos de análisis físicos de suelos” (Sandoval
+et al. 2011). La condición según la pauta SAG se presenta en la siguiente tabla.
+Tabla 2-8. Cálculo de Agua Aprovechable
+HA
+Profundidad HA
+Calicata Horizonte CC (%) PMP (%) Da Total Condición SAG
+(cm) (cm c.a)
+(cm c.a)
+H1 23 30,77 20,54 1,17 2,75
+MP-04 H2 38 31,63 20,31 1,16 4,99 12,04 Buena
+H3 39 39,07 29,49 1,15 4,30
+H1 6 31,83 21,76 1,18 6
+CA-10 H2 25 28,40 17,33 1,17 25 10 Regular
+H3 49 27,83 17,46 1,19 49
+Fuente: GAC
+3 CONCLUSIONES
+Las instalaciones temporales y permanentes se ubican en el área rural de la comuna de Penco, región de
+Biobío, fuera del límite urbano consolidado y poseen una superficie de 1,38 ha (13.842,31 m2).
+La caracterización ambiental del suelo define que la superficie afecta al Permiso Ambiental Sectorial Mixto
+N°160 se emplaza en la unidad homogénea denominada “Cerros” con Clase de Capacidad de Uso de Suelo
+VIs2 por el criterio de definición pendiente fuertemente ondulada (15 a <30%). De acuerdo con el SAG
+2011 (rectificada), estos suelos no son arables.
+Considerando la superficie a afectar, las características de suelo y sitio, su disponibilidad en el territorio en
+la cual se inserta, su uso actual destinado principalmente a la actividad forestal, y la construcción y
+posterior operación de las obras indicadas en el presente estudio, se señala que las instalaciones y obras
+del Proyecto no generarán una pérdida ni degradación significativa del recurso natural suelo.
+Por otro lado, y de acuerdo con la naturaleza de las construcciones, se concluye que, no se generarán
+núcleos urbanos al margen de la planificación urbana regional, debido a que su propósito es únicamente
+de equipamiento e industrial, para fines de extracción de arcillas para procesamiento.
+22
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-14
+PASM N°160 Permiso para construcciones fuera de los límites urbanos
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4 INDICADORES DE CUMPLIMIENTO
+Obtención del permiso para construcciones fuera de los límites urbanos, en virtud de la autorización e
+informes favorables que se establecen respectivamente en los incisos 3° y 4° del artículo 55 del Decreto
+con Fuerza de Ley Nº 458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo
+y Construcciones, y sus modificaciones.
+23

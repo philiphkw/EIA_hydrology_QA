@@ -1,0 +1,382 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 4-4
+Erosion risk map
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ................................................................................................................................... 1
+2 Objective ....................................................................................................................................... 1
+3 Area of influence ....................................................................................................................... 1
+4 Methodology ................................................................................................................................ 3
+4.1 Risk of activation of erosive processes ................................................................................... 3
+4.1.1 Erodability.............................................................................................................................. 4
+4.1.2 Slope ................................................................................................................................... 5
+4.1.3 Vegetation deprotection ........................................................................................................... 5
+4.1.4 Climate Aggressiveness ........................................................................................................... 6
+5 Results ................................................................................................................................ 7
+5.1 Current erosion risk ................................................................................................................ 7
+5.2 Potential erosion risk ........................................................................................................... 9
+6 Conclusions ........................................................................................................................... 11
+7 References ................................................................................................................................... 11
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+TABLE INDEX
+Table 4-1. Soil depth assessment ........................................................................................... 4
+Table 4-2. Assessment of surface textural classes ................................................................................ 4
+Table 4-3. Assessment of soil erodibility classes ........................................................................... 5
+Table 4-4. Assessment of soil slope ........................................................................................................... 5
+Table 4-5. Assessment for edaphotopographic risk model (erodability – slope)................................. 5
+Table 4-6. Assessment for vulnerability model ........................................................................................... 6
+Table 4-7. Assessment for the Risk of activation of erosive processes ................................................................... 6
+Table 5-1. Current erosion risk ................................................................................................................... 7
+Table 5-2. Potential erosion risk ........................................................................................................... 9
+INDEX OF FIGURES
+Figure 3-1. Area of ​​influence ................................................................................
+....................................... 2
+Figure 4-1. General diagram of the methodology for erosion risk mapping ................................... 3
+Figure 5-1. Current risk map ................................................................................................................ 8
+Figure 5-2. Potential erosion risk map with project ........................................................................... 10
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+1 INTRODUCTION
+This report provides the results of a modeling of the potential erosion risk of the area of
+influence of the Mining Development Project for the Extraction of Clays for the Production of Concentrate
+Rare Earths, considering the current state without intervention and the future state with project. The
+Risk modeling was carried out based on the guide “Evaluation of impacts of activation risks
+of erosive processes” of the Agricultural and Livestock Service (2016).
+2 OBJECTIVE
+Identify the risk of potential erosion of the area of influence of the Project, considering the current state
+without intervention and the future state with Project.
+3 AREA OF INFLUENCE
+Figure 3-1 shows the area of influence for the soil component, which has a surface
+of 235.69 ha and which is used in the modeling of the Erosion Risk Map.
+1
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+Figure 3-1. Influence area
+Source: GAC
+2
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+4 METHODOLOGY
+4.1 Risk of activation of erosive processes
+The preparation of risk maps for activating erosive processes was carried out in accordance with the
+methodology proposed by SAG (2016) in the guide “Evaluation of impacts of activation risks
+erosive process”. In this methodology, the construction of the erosion risk cartography is carried out
+based on the use of climate data, digital terrain models, soil and vegetation studies. In the
+Figure 4-1 shows a summary diagram of the methodology.
+Figure 4-1. General diagram of the methodology for erosion risk mapping
+Source: SAG, 2016
+The risk of activation of erosive processes varies longitudinally and transversally in the country, for
+what the SAG guide (2016) defines 6 zones:
+- Zone I: high Andean peaks without soil development.
+- Zone II: corresponds to soils located in the foothills and Andean mountain range from the
+Arica and Parinacota Region to the Magallanes and Chilean Antarctic Region.
+- Zone III: considers soils located in plains and undulating areas of salt flats, areas
+desert, areas with low presence of vegetation, from the Arica and Parinacota Region
+to the Atacama Region.
+- Zone IV: made up of agricultural valleys, the intermediate depression of Central Chile, hills
+soft areas of the Araucanía Region and the Aisén Region of General Carlos Ibañez of the
+Field, including ñadi soils of the Lakes Region.
+3
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+- Zone V: integrates the soils of the mountain ranges of the Coastal Mountains, edge sectors
+of coast and archipelagos, extending from the Region of Arica and Parinacota to the Region
+of Magellan and Chilean Antarctica.
+- Zone VI: includes the soils of plains and undulating sectors with a low climate.
+precipitation and strong winds, located between Punta Arenas and Puerto Natales, including
+Land of Fire.
+In each of these areas, the risk of
+Erosion can be estimated from specific models, which
+represent the singularities of each area. For the case of this study, the proposed model was used
+for Zone V, coastal and littoral sector. Below is a description of the different variables.
+used for the general erosion determination model:
+4.1.1 Erodibility
+For its determination, field studies were carried out, where the texture variables were determined.
+surface and depth of the soil according to the categories described in the guide. Where 1= low, 2=
+medium, 3= high and 4= very high. The valuation ranges are presented in Table 4-1 and Table 4-2.
+Table 4-1. Soil depth assessment
+Soil depth
+Class Depth (cm)
+1 > 90
+2 70 < 90
+3 40 < 70
+4 < 40
+Source: SAG, 2016
+Table 4-2. Assessment of surface textural classes
+Texture
+Class Textural classes
+1 Clayey, Silty Clay, Sandy Clay
+2 Silty clay loam, Clay loam, Sandy clay loam, Loamy sand, Sandy
+3 Sandy loam, Loam, Silty loam, Silty. Dispersive clays
+4 Sandy loam, Loamy
+Source: SAG, 2016
+Subsequently, and considering the texture and depth information, values were assigned in the form
+matrix to the erodibility of the soil. In Table 4-3 presented below, the values are observed
+assigned.
+4
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+Table 4-3. Assessment of soil erodibility classes
+Texture class
+depth class
+Low Medium High Very high
+Low 1 1 2 3
+Average 1 2 3 3
+High 2 3 3 4
+Very high 2 3 4 4
+Source: SAG, 2016
+4.1.2 Slope
+For its estimation, the topographic information collected by Digimapas Chile was used, for which
+semi-automatically obtained the altimetry for a working scale of 1:2,000, with equidistance between
+1 m curves and index curve every 5 m. Subsequently, this variable was classified into 4 classes according to the
+assigned values for each zone. Zone V presents the ranges of values ​​detailed in Table 4-4.
+Table 4-4. Assessment of soil slope
+Soil slope
+Pending Class (%)
+1 0 to 15
+2 15 to 45
+3 45 to 75
+4 75 to 100 or more
+Source: SAG, 2016
+With this information and in addition to the erodibility classes, the risk model was built.
+edaphotopographic (erodability – slope), where values from 1 to 4 were assigned (Table 4-5).
+Table 4-5. Assessment for edaphotopographic risk model (erodability – pending)
+Slope class
+Erodibility class
+Low Medium High Very high
+Low 1 1 2 3
+Average 1 2 3 3
+High 2 3 3 4
+Very high 3 3 4 4
+Source: SAG, 2016
+4.1.3 Vegetation lack of protection
+Information on coverage and type of vegetation collected on the ground and described in the Line was used.
+of Flora and Vegetation Base of this EIA, which was classified into 4 classes of lack of protection,
+according to the SAG guide (2016). Based on the lack of vegetation protection and the risk model
+5
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+edaphotopographic vulnerability model was built, where values from 1 to 4 were assigned.
+Table 4-6, the vulnerability classes are presented.
+Table 4-6. Assessment for vulnerability model
+Checkout class
+Edaphotopographic risk
+Low Medium High Very high
+Low 1 2 2 3
+Average 2 2 3 3
+High 2 3 3 4
+Very high 3 4 4 4
+Source: SAG, 2016
+4.1.4 Climate Aggressiveness
+This variable was estimated through the modified Fournier index, calculated from data obtained
+from the meteorological stations of the Ministry of Public Works (MOP): Andalién, Concepción DGA,
+Estero Nonguén Front U of the Biobío and Río Biobío in Desembocadura, with historical data available between
+the years 2014 to 2023. This index was classified within 4 classes of climatic aggressiveness, according to
+with the guidance of SAG (2016).
+Finally, with the assessment of climatic aggressiveness and the vulnerability model, it was determined
+the risk classes of
+activation of erosive processes with which the risk maps of
+erosion (Table 4-7), classifying the risk of erosion into 4 classes: Low (1), Medium (2), High (3) and Very high
+(4).
+Table 4-7. Assessment for the Risk of activation of erosive processes
+Climate Aggression Class
+Vulnerability Class
+Low Medium High Very high
+Low 1 1 2 3
+Average 2 2 2 3
+High 3 3 3 4
+Very high 3 4 4 4
+Source: SAG, 2016
+The resulting Erosion Risk classes are as follows:
+• Class 1. Low Risk. Corresponds to sites with low vulnerability and low or low climatic aggressiveness.
+medium aggressiveness and low soil vulnerability. In this situation, if the vegetation cover is
+high, with good structure and composition which favors high protection to the soil, from getting lost
+or be intervened the soil losses would be low.
+6
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+• Class 2. Medium Risk. Sites with low or medium climatic aggressiveness and soil vulnerability
+medium or high climatic aggressiveness with low or medium soil vulnerability. They are sites that
+lose vegetation protection they are prone to erosion. Consequently,
+require environmental measures or management of the vegetation cover that allows maintaining
+soil protection.
+• Class 3. High Risk. In this case the aggressiveness is very high and the vulnerability of the soil is medium or
+low or low, medium or high aggressiveness and high soil vulnerability or may have aggressiveness
+low and very high soil vulnerability. These sites require environmental measures in the
+topicality and being unprotected increase the probability of eroding.
+• Class 4. Very High Risk. The climatic aggressiveness is medium, high or very high and vulnerability of the
+very high soil or very high aggressiveness and high vulnerability. In these places the soils are highly
+prone to erosion and if the vegetation is intervened, necessarily requires measures
+environmental
+5 RESULTS
+5.1 Current erosion risk
+The results show that, under the current condition without a project, the largest proportion (81%) of the
+surface of the AI presents a low risk of erosion, equivalent to 190.71 ha, while a surface
+minor (7.8%) is classified as medium risk (18.36 ha). With less representation is the High risk with
+only 1.2 ha (0.5%). There is also the “Other Uses” class that represents 10.8% (25.41 ha) since it is
+is associated with the sector identified as “Intervened area” in the baseline. The factors of
+The greatest impact on these results is the texture, depth and coverage or lack of protection.
+vegetation. Table 5-1 and Figure 5-1 present the results and surfaces associated with the
+different kinds of risks.
+Table 5-1. Current erosion risk
+Erosion risk Current Surface Proportion (%)
+Low 190.71 80.9
+Medium 18.36 7.8
+High 1.20 0.5
+Other uses (N.A.) 25.41 10.8
+Total 235.69 100
+Source: GAC
+7
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+Figure 5-1. Current risk map
+Source: GAC
+8
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+5.2 Potential erosion risk
+For the construction of the potential erosion risk map, all the
+modifications made by the Project through works and actions. Regarding the activities
+contemplated in the construction, it is identified that, in all areas of the process plant, IIFF,
+widening of roads, and new roads, cutting and clearing of vegetation will be carried out, as well as an escarpment
+30 cm. This implies that the factors of slope, lack of vegetation protection and
+soil erodibility (mainly depth). On the other hand, the extraction areas (M
+Aite, Moon,
+Victoria North), storage area (Neptune), Pool of uncontacted waters, you will also have a
+deep excavation where the soil resource will be completely lost, which is why in such cases it does not apply.
+indicate ranges of factors to estimate potential erosion. In the vegetal soil collection area, such as
+pipeline belt it is considered that, although there is removal of the vegetation cover, there will be no change in
+depth of the soil, and that in the case of the collection sector it will be covered by the soil that will be
+deposited.
+According to the above, the potential erosion risk (with project) varies widely with respect to its
+original condition or without project, as can be seen in Table 5-2 and Figure 5-2.
+Table 5-2. Potential erosion risk
+Erosion Risk Surface Proportion (%)
+Low 67.75 28.7
+Medium 15.92 6.8
+High 16.83 7.1
+Other Uses 135.19 57.4
+Total 235.69 100.0
+Source: GAC
+From the above, it can be seen that the high risk increases until reaching 16.83 ha due to the
+modifications that will be carried out mainly in the processing plant sector. The average risk
+and low decrease with 2.45 and 122.95 ha, respectively. The above is due to the fact that a large part of the
+surfaces become part of the sector that will not have soil on the surface, which is classified with
+“Other uses”. The buffer assigned to the area of influence remains unchanged in the risk of erosion
+potential, that is, mainly a low risk.
+9
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+Figure 5-2. Potential erosion risk map with project
+Source: GAC
+10
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+6 CONCLUSIONS
+The area of influence of the Clay Extraction Mining Development Project for the Production of
+Rare Earth Concentrate for the soil component, covers an approximate surface area of 236.6
+hectares, and is located in the commune of Penco, and Concepción province of Concepción, Biobío Region.
+The Current Erosion Risk and Potential Erosion Risk Maps were developed from the
+methodology established by the guide “Assessment of impacts of process activation risks
+erosive” of the Agricultural and Livestock Service (2016), for the entire Area of Influence of the Project.
+Regarding the current risk of erosion, it is possible to point out that the majority of the soil (81%) has a risk
+“low” with 191.71 ha, followed by “medium” risk with 18.36 ha (7.8%), in the condition without project. The
+10.8% of the surfaces (25.41 ha) are classified as “other uses”, that is, sectors that have already been
+intervened and that are not considered land.
+On the other hand, the risk of potential erosion or “with project” presents an important variation with respect to
+to the current condition, since the actions and works of the project modify the vegetation coverage indices
+(lack of protection), slope and soil depth (scarp), causing the “High” risk to increase to
+16.83 ha (7.1% of the surface). The low erosion risk decreases in area to 67.75 ha, due to
+mainly because the extraction and deposit areas that grow in the “other uses” classification with
+135.19 ha (57.4%) of the project because there will be a total extraction of the soil and subsoil.
+It is considered that there is an increase in risk when comparing the situations “without project” and “with
+project”, since there is an increase of 15.62 ha in the high range. It is considered that the project will affect
+in favorable conditions to activate soil erosion processes, since it will modify the coverage
+vegetation and will also carry out a sectorized escarpment in the Processing Plant and IIFF sector.
+7 REFERENCES
+Agricultural and Livestock Service (SAG). 2019. Environmental assessment guide: soil natural resource. Santiago,
+Chile. MINAGRI. 14 p.m.
+Agricultural and Livestock Service (SAG). 2011. Guidelines for soil studies (Rectified). Santiago, Chile.
+MINAGRI. 26 p.
+Agricultural and Livestock Service (SAG). 2016. Risk Impact Assessment
+and activation of processes
+erosive. Santiago, Chile. 88 p.
+11
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 4-4 Erosion risk map
+EIA Mining Development Project for Clay Extraction for Production
+of Rare Earth Concentrate
+Environmental Assessment Service (SEA). 2015. Guide for the description of the area of ​​influence. Description
+of the soil, flora and fauna components of terrestrial ecosystems in the SEIA. Santiago, Chile. service
+Environmental Assessment. 98 p.
+12

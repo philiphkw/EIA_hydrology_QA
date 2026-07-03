@@ -1,0 +1,719 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-10
+Sectoral Environmental Permit
+No. 146
+Invertebrate Fauna
+EIA "Mining Development Project
+of Clay Extraction for Production
+of Rare Earth Concentrates"
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Mixed Sectoral Environmental Permit 146 ....................................................................................... 3
+1.1 Introduction ................................................................................................................................... 3
+1.2 Authority that grants it ................................................................................................................ 4
+1.3 Phase of the Project to which it corresponds ........................................................................................... 4
+1.4 Part, work or action to which it applies ................................................................................................... 4
+1.5 Indicator that certifies compliance ................................................................................................... 4
+1.6 Specific conditions or requirements for its granting ........................................................... 4
+2 Technical and formal contents that must be presented to prove compliance with the permit
+associated with Letter A) of Article 146 of the Regulation of the Environmental Impact Assessment System
+(D.S. No. 40/2012 of the MMA). ................................................................................................................ 5
+2.1 Letter a) If it involves hunting or capturing specimens of animals of protected species for
+research purposes ................................................................................................................................ 5
+2.1.1 [a.1] Project Description ................................................................................................... 5
+2.1.2 [a.2] Species, sex and number of specimens estimated to be hunted or captured ....................................... 5
+2.1.3 [a.3] Status of the populations to be intervened ........................................................................... 7
+2.1.4 [a.4] Hunting, capture and management methodologies ....................................................................... 9
+2.1.5 [a.5] Place of hunting, capture and destination of animals ................................................... 11
+2.1.6 [a.6] Conditions of transport and captivity facilities ........................................... 15
+2.1.7 [a.7] Detailed schedule of the activities to be carried out and the period for which they will be carried out
+requests permission ................................................................................................................................... 16
+3 Monitoring plan ................................................................................................................... 17
+3.1 Parameter used to characterize evolution of the variable ........................................................... 17
+3.2 Measurement method or procedure ....................................................................................... 18
+3.3 Location of control points ................................................................................................... 19
+3.4 Duration and frequency of the monitoring plan ................................................................................... 19
+3.5 Permitted or committed limits ........................................................................................... 20
+3.6 Deadline and frequency of delivery of reports with the evaluation of results ................................... 20
+4 Bibliographic references ........................................................................................................... 20
+i
+==================================================================================
+PAGE 3
+===================
+==============================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 2-1. Target species of the Rescue and Relocation Plan registered in the Project area ........ 6
+Table 2-2. Estimated number of individuals to capture according to the specific density per environment
+and intervention surface. ........................................................................................................................... 6
+Table 2-3. Schedule of wildlife rescue and relocation plan activities ........................................... 16
+Table 2-4. Surface intervention schedule that includes areas considered for rescue and
+vertebrate relocation. ................................................................................................................... 17
+Table 3-1. Procedure for measuring parameters used to monitor the measurement of
+rescue and relocation ........................................................................................................................... 18
+Table 3-2. Duration and frequency of the monitoring plan and/or monitoring campaigns ........................................... 19
+INDEX OF FIGURES
+Figure 2-1. Location of rescue areas ................................................................................................... 12
+Figure 2-2. Location of the relocation area ....................................................................................... 14
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 MIXED SECTORAL ENVIRONMENTAL PERMIT 146
+1.1 Introduction
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Raras, hereinafter the Project, administratively located in the Commune of Penco and Concepción,
+Province of Concepción, Biobío Region, consists of the construction and operation of a mining site
+along with a processing plant for weathered granitic material, with the presence of clays. The
+Regolith, hereinafter called “Clays to be processed”, is formed as a result of high weathering
+from rocks and contains lanthanides adsorbed on clay minerals. Lanthanides, or Rare Earths,
+There are 15 elements whose atomic number increases from Lanthanum (57) to Lutetium (71). For your
+Similar chemical behavior is added to them by yttrium (Y). From now on they will be called “rare earths”.
+The plant has a capacity to process up to 320 tons/hour of material and produce concentrate
+of Rare Earths.
+In addition to the above, the Project considers three (3) clay extraction zones (ZE Victoria Norte, ZE
+Luna, ZE Maite), one (1) disposal zone for waste and processed clays (ZD Neptuno), one (1) zone
+soil collection plant (ZAV), a clay processing plant (the Plant) and a stockpile for the
+temporary stockpile of material prior to processing, an electrical line and its connection to an existing line and
+the construction of internal roads to access the different areas. Furthermore, it is considered the
+implementation of temporary works corresponding to work facilities, for the construction and
+authorization of the Project works.
+During its operation phase, the Project considers a sequential closure of the extraction areas. It is
+That is, these areas will not come into operation simultaneously, so, once exploitation is completed
+In each of these areas, revegetation begins.
+For its part, upon completion of the disposal of the processed clays in the disposal areas,
+will execute the closure of these through revegetation, using the vegetal soil available in the areas of
+vegetable collection.
+Within the framework of the implementation of the Project, environmental management measures have been proposed aimed at
+to reduce the effects of the Project on the fauna component, among which is the execution of
+a Rescue and Relocation Plan for specimens belonging to threatened species. Since this
+measure requires the capture of
+e copies for subsequent release, the execution is regulated by the
+Hunting Law (Law No. 19,473/1996) and, therefore, Sectoral Environmental Permit No. 146 is applicable
+(PASM 146) referred to in article 146 of the SEIA Regulations.
+3
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+This Rescue and Relocation Plan incorporates the technical and formal contents detailed in the
+article No. 146 of the Regulation of the Environmental Impact Assessment System (D.S. No. 40/2012
+modified by D.S. No. 30/2023, both of the MMA), which together allow the implementation of
+the measure. Likewise, this Plan, specific for Invertebrate fauna, is based on the guidelines
+indicated in the Technical Guide to Implement Rescue/Relocation and Disturbance Measures
+Controlled Agricultural and Livestock Service (Torres-Mura et al., 2015) and Technical Criteria for the
+Application of the Rescue and Relocation Measure (SEIA, 2021).
+1.2 Authority that grants it
+Agricultural and Livestock Service.
+1.3 Phase of the Project to which it corresponds
+The permit is requested for the construction and operation phase of the Project.
+1.4 Part, work or action to which it applies
+In the construction and operation phase of the Project, the rescue and relocation of specimens is considered.
+of invertebrate fauna belonging to threatened species in order to minimize effects on
+the fauna component (mitigation measure proposed in this EIA, Chapter 7).
+1.5 Indicator that certifies compliance
+As an indicator of compliance for this mixed sectoral environmental permit, the following are considered:
+a) Obtaining the permit in its environmental and sectoral processing.
+b) Report that accounts for the execution of the Plan according to its approved contents.
+1.6 Specific conditions or requirements for its granting
+In this document, the technical and formal content referred to in Article No.
+146 of the SEIA Regulations. Said contents (because they are considered hunting or capture for purposes of
+research, within the framework of the SEIA), include: the state of the populations to be intervened and the description
+detailed “Rescue and Relocation Plan” of the Project.
+4
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2 TECHNICAL AND FORMAL CONTENTS THAT MUST BE SUBMITTED FOR
+CREDIT COMPLIANCE WITH THE PERMIT ASSOCIATED WITH LETTER A) OF THE
+ARTICLE 146 OF THE REGULATION OF THE IMPACT EVALUATION SYSTEM
+ENVIRONMENTAL (D.S. N°40/2012 OF THE MMA).
+2.1 Letter a) If it involves hunting or capturing specimens of animals of specific species
+protected for research purposes
+2.1.1 [a.1] Project Description
+The rescue and relocation plan for invertebrate fauna consists of the liberation of areas, during the
+construction and operation phases, prior to generating the intervention and execution of works, which involve
+directly sectors where the presence of protected species of invertebrate fauna was detected.
+The general objective is to free the intervention area of protected species of invertebrate fauna, prior to
+to the execution of construction works of the Project and during them. While the objectives
+specific point to the following:
+• Identify the Project intervention areas where the presence of the species is detected.
+• Rescue at least 90% of the specimens of the target species found in the area
+intended for rescue measure.
+• Relocate the captured specimens in environments similar to those intervened, located
+ideally in the immediate environment.
+• Monitor the success of the rescue of relocated individuals.
+2.1.2 [a.2] Species, sex and number of specimens estimated to be hunted or captured
+2.1.2.1 Species
+According to the characterization of the Terrestrial Invertebrate Fauna, presented in Chapter 3 of the
+EIA, the presence of four (4) species of invertebrate fauna that present
+so category of
+threat, and present special features that make them particularly susceptible to being affected by
+following the intervention of their habitats (microhabitats). These species are: Ceroglossus chilensis cyanicollis
+(peorro), Acanthogonathus pissi (Golden Zebra), Euathlus manicata (Chick Spider) and Phrixotrichus scrofa
+(Coastal fox tarantula).
+5
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 2-1. Target species of the Rescue and Relocation Plan registered in the Project area
+Common Name Conservation Status
+Class Family Scientific name
+Category Legal Document
+Worst Worry
+Insecta Carabidae Ceroglossus chilensis cyanicollis DS 06/2017 MMA
+Minor
+Chick Spider Worry
+Acanthogonathus pissi DS 44/2021 MMA
+Minor
+Arachnia Theraphosidae Fox Tarantula
+Euathlus manicata Near Threatened DS 96/2017 MMA
+coast
+Phrixotrichus scrofa Mother snake Endangered DS 44/2021 MMA
+Origin: E: Endemic, N: Native; Mobility: B: Low; Category: EN: Endangered; LC: Least Concern; VU: Vulnerable; CR: In
+critical danger
+Source. GAC
+2.1.2.2 Sex
+The measure considers the capture of specimens of both sexes.
+2.1.2.3 Estimated number of specimens to capture
+Based on the requirements formulated by the Agricultural and Livestock Service in similar projects,
+It has been established that the capture of 90% of the specimens present in the areas to be intervened is sufficient
+to ensure the protection of local populations. To determine the above, prior to the
+capture activities, estimates of the abundance of each species in the area will be made, and then
+perform post-measurement estimates in this same area, and in this way generate comparisons
+representative.
+Table 2-2. Estimated number of individuals to capture according to the specific density by environment and
+intervention surface.
+Abundance Intervention area (ha)
+Scientific Name
+Bo Ma Mo Pl Bo Ma Mo Pl
+Ceroglossus chilensis cyanicollis 125 29 - 101 25.94 14.53 12.75 87.68
+Acanthogonathus pissi - - - 1 25.94 14.53 12.75 87.68
+Euathlus manicata - 1 1 - 25.94 14.53 12.75 87.68
+Phrixotrichus scrofa - - 2 1 25.94 14.53 12.75 87.68
+Environments: Bo= Forest, Ma= Thicket, Mo= Modified, Pl= Plantation
+Source: GAC
+6
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.3 [a.3] Status of the populations to be intervened
+In the baseline surveys for this component, fauna sampling points were carried out
+invertebrate (PME) in the different recorded environments, in which the counting of individuals was carried out.
+and recognition of the species present in the area. Likewise, their densities were calculated,
+which are detailed in Table 2-2, which shows the status of the populations to be intervened.
+Below, the existing biological background of the target species registered in the
+Project area:
+2.1.3.1 Ceroglossus chilensis cyanicollis
+Ceroglossus Chilensis or Peroglossus corresponds to a native species present in the Maule Regions,
+Biobío, La Araucanía, Los Ríos, Los Lagos and Aysén. It is associated with native and exotic forest formations in
+coastal, pre-Andean and coastal mountain range sectors. There is no information about its size.
+population but it has been noted that it is a dominant species, with its relative abundance being greater in
+plantations of 6-7 and 10 years than in older plantations. It is distinguished by its elongated shape and
+dorso-ventrally flattened, with strongly sclerosed segments and great variety of colors; your
+head, thorax and elytra are greenish or bluish black, ventrally they are black, the same
+than its legs, maxillary and labial palps. Its head and pronotum are bluish in color and its elytra are a
+dark and bright red color. They do not have metathoracic wings. The head contains 6 ocelli, the antennae
+has
+n four short segments and the jaws are strongly curved. The thorax has a reduced
+number of setae, well developed and functional legs. And finally; the abdomen takes a couple of lengths
+caudal appendages articulated in the last segment on each side of the anal tube. In the case of the female,
+It can be differentiated by the shape of the pronotum, which is wider and longer, with a longitudinal line in
+the midline, a larger abdomen and elytra more pointed at the apex. While males have
+keels or carinae on antennal segments 6, 7 and 8, their tarsi of the first pair of legs are widened
+and the apex of its elytra is rounded.
+It is classified as Least Concern according to the RCE (DS N°06/2017 MMA).
+2.1.3.2 Acanthogonathys pissi
+The golden zebra has a beautiful coloration on the abdomen, golden with light brindle stripes not very
+noticeable, on the femurs it has a dark greenish coloration. It has a beautiful, metallic and shiny
+golden color on the cephalothorax, it measures approximately 8cm maximum, the males are larger
+small. It creates large burrows of very thick fabric which protects it from the elements and improves its
+percentage of life. It is distributed in the region of Ñuble and Maule.
+It is classified as Least Concern according to the RCE (DS N°44/2021 MMA).
+7
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.3.3 Euathlus manicata
+Euathlus manicata, tarantula or chick spider is a native species in Chile that is distributed in the
+Regions of O'Higgins, Maule and Biobío. It has no quantitative background regarding its population, however
+However, it is severely affected by the loss and fragmentation of its habitat due to its low
+mobility, limited dispersal mechanisms and sedentary habits; and for its extraction for trade
+like exotic pets. There is also no qualitative data available to estimate the real state of the
+population. Adults of this species are characterized by having black spiniform setae on the coxa.
+prolateroventral and retrolateroventral in the maxilla. In juvenile specimens sexual dimorphism is almost
+non-existent, while in adults the females are identified by the shape of the spermathecae, the
+which are unilobed, forming a semicircle with a wide base. From its middle portion to the area
+apical has a rough texture. On the other hand, the male is distinguished by the morphology of the palpal organ and
+which has a width with accessory keels at the apex. Its legs are proportionally longer than the
+of females and their abdomen is smaller. Females are greenish brown.
+predominant, black abdomen with gray and white setae and at its base a reddish plume in addition to a
+patch of stinging setae on the dorsal area of the abdomen. The cephalothorax and femurs are of one tone
+yellowish green, the rest of the legs are black with gray setae. The males have the same
+coloration than females, unlike the tone of the cephalothorax is much brighter. Its size
+It is a maximum of 11-12 cm in females and males are proportionally smaller. Your
+It is carnivorous in its diet and in terms of habitat, it prefers to make its burrow underground, although
+It can also be found under rocks, logs or natural holes in the ground.
+It is classified as Near Threatened according to the RCE (DS N°06/2017 MMA).
+2.1.3.4 Phrixotrichus scrofa
+Phrixotrichus scrofa or coastal fox tarantula is a species native to Chile known only in some
+localities in the Biobío Region, therefore, its real distribution is unknown. Its size
+population, relative abundance, population structure, and current population trends are also
+unknown. Morphologically, males are distinguished from P. jara by not having the lower prolateral keel.
+serrated and P. vulpinus due to its prolateral keels being more separated and its embolus thinner,
+while females differ from P. vulpinus because they lack a digitiform projection on their
+spermatic receptacles and have absence of lobes on the spheroidal lateral chambers of the
+spermatic receptacles. In copies j
+uveniles sexual dimorphism is almost non-existent, while
+that in adults the female has a black cephalothorax with pinkish pubescence, abdomen with setae
+reddish with 2 dorsolateral patches of stinging hairs and the males have a slightly darker tone
+shiny and proportionally longer legs and smaller abdomen, in addition to having dewclaws
+tibialis in the first pair of legs and copulatory bulbs in the pedipalps. Maximum size in females
+It is 10-13 cm, with the males being smaller. This species is generally associated with forest
+8
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+native, mainly Nothofagus and its diet is based mainly on other arthropods,
+including members of the same species.
+It is classified as Endangered according to the RCE (DS N°44/2021 MMA).
+2.1.4 [a.4] Hunting, capture and management methodologies
+2.1.4.1 Measurement effort
+The captures will be carried out by teams with experience in the management of invertebrate fauna, being
+each one led by a professional specialist in the subject. The activities will be executed after the
+obtaining the capture permit granted by the competent authority and in accordance with the
+requirements established by it.
+Capture activities will be planned according to the progress of the works, with the aim of
+There must be a maximum of 5 days between the end of the rescue and the beginning of the construction stage, to
+prevent recolonization of the area. Therefore, the number of specialists and effort will depend on the
+surface of the works to be released.
+2.1.4.2 Technical specifications for capture and marking/identification
+i. Capture
+To carry out the captures, the field personnel (wildlife specialists) must have
+experience and/or be trained in the management of the target species.
+Capture activities should be carried out during times when temperatures allow conditions
+favorable for the relocation of individuals. This is during the spring and/or summer season, and in
+the days and times in which the climatic characteristics allow it, adjusting the start schedule
+from construction to what is indicated.
+Specifically for captures carried out on arachnids, these must be carried out after the
+summer season (March-April) so as not to interfere with their ecdysis process or their period of
+oothecal hatching. Time differences should be considered for females and males; during the day to
+females and during the night for males.
+To record the above, daily records associated with the application of the catches will be implemented,
+indicating the area, professionals in charge, date, temperature and wind and cloud conditions,
+efforts applied and/or rate of progress, and also time of capture and relocation of individuals.
+9
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Below are the considerations associated with the capture of invertebrate fauna:
+The characterization of invertebrates will be carried out using two main methods, an active collection and a
+passive collection, distributed in each of the prospected sites. In each PME the surface will be covered
+on foot with the help of an odometer and an active collection will be carried out under different rocks and
+pieces of logs available in the project area, in the case of bushes and trees that are
+prospecting, an entomological umbrella will be used, whose function mainly consists of tapping
+available branches and woody structures, generating the fall and subsequent collection with a vacuum cleaner
+entomological of the different species that can be observed in the white cloth blanket that makes up
+the entomological umbrella used, whose surface area was one square meter. For passive collection
+They will use Barber and pitfall traps, where sig was installed
+following the recommendations to avoid errors
+typical that can affect the data obtained with the auto-correlation between the samples according to Lafranco
+et al (2010). For this purpose, pitfall traps (pitfall and barber traps) will be placed every 40 meters along the
+of the transect, the pitfall traps will be made up of a 360 ml plastic cup buried
+The surface and Barber traps were also arranged like the pitfall traps, where
+It will fill a third of its capacity with aromatic liquid bait based on apple cider vinegar and red grapes.
+that will be installed randomly in each PME.
+ii. Marking
+The spider group must be marked in order to achieve correct tracking. For the above,
+It will require a non-toxic fluorescent marker. The handling and marking procedure must be
+detailed in the capture permit, considering all environmental factors at the time of carrying out
+the activity and location as well as the position of the marking for its correct function in subsequent monitoring.
+iii. Identification
+All captured specimens will be individualized, and then the following information will be recorded:
+• Registration point (UTM coordinates)
+• Species
+• Obtaining photographic record
+• Evaluate the health condition of the individuals: presence of ectoparasites and/or lesions.
+Additional background such as: registration of marks or scars of the specimens to favor
+its subsequent identification.
+10
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.5 [a.5] Place of hunting, capture and destination of animals
+2.1.5.1 Capture location
+The captures will focus on the environments (forest, modified, scrubland, plantation) where they will be installed
+the areal works of the Project and where the presence of the target species was recorded.
+Figure 2-1 presents a general graphical representation of the sectors where it will be carried out.
+the rescue of invertebrate fauna species with conservation categories. It should be noted that the
+This figure contemplates the rescue of areas of extraction zones, disposal zone,
+vegetable collection, processing plant and stockpile.
+11
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-1. Location of rescue areas
+Source: GAC
+12
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.5.2 Place of destination or relocation
+The captured specimens will be released in a relocation area that must comply with the
+following features:
+• Surface greater than or equal to the surface of the capture area.
+• Ideally at a minimum distance of 1 km from the capture area.
+• Habitat characteristics similar to the capture area (this is partly the vegetation characteristics,
+height or m.a.s.l., among others).
+• Not be intervened and/or influenced by the Project, guaranteeing its protection in the medium to long term.
+term.
+The destination or relocation area contemplated for this Plan is a system of streams where
+It is possible to identify the presence of native forest with specimens of queules and a buffer surrounded by
+forest plantation.
+It should also be noted that the characterization of both the rescue areas and the
+relocation of the target species of this plan, with methodologies for the detection of animals
+associated with transects, Sherman traps, camera traps and directed search.
+Specifically, the relocation area intended for the transfer of specimens of the focus species of
+The measure corresponds to a preservation area inside the Nonguén National Park, located towards
+the
+southeast of the Project Area of Influence, in the Communes of Hualqui, Chiguayante and Concepción,
+an approximate distance of 20 kilometers.
+13
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 2-2. Location of the relocation area
+Source: GAC
+14
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.6 [a.6] Conditions of transport and captivity facilities
+2.1.6.1 Transport conditions
+For the transfer of specimens from the capture areas to the release or relocation sites,
+Individuals will be transported in containers. For transportation by vehicle, it will be ensured that the
+containers are fixed and that the travel speed is not greater than 20 km/hr in the case
+if there are unpaved roads and/or with events (for example, potholes).
+2.1.6.2 Facilities and captivity
+• Facilities and captivity
+The specimens will be placed in plastic containers specially adapted for captivity.
+specimens of the species already mentioned, and will be located in such a way as to be protected from the
+extreme temperatures, wind, among other threats.
+Each container will be divided into two compartments, and will have holes that will allow adequate
+ventilation. Inside, substrate and shelters will be incorporated that emulate the capture area of each taxa.
+(e.g.: earth, stones, water, algae).
+With the aim of avoiding negative interactions between specimens, such as aggression and predation, in
+Each compartment will house a single individual.
+The captivity will last for a period of no more than 2 hours. The release of the specimens will take place
+during the same day in which they were captured, considering that the weather conditions
+(temperature, luminosity, etc.) are appropriate for the proper reintegration of the specimens into the environment.
+Likewise, according to what is indicated in the Technical Guide to Implement Rescue Measures/
+Relocation and Controlled Disturbance (Torres-Mura et al., 2014) of the Agricultural and Livestock Service,
+will consider the following:
+• Release few individuals in each place (achieves adequate spacing of the organisms and avoids
+aggressions between individuals of the same species) so as not to exceed the carrying capacity of the
+site.
+• Release adult individuals separated from children and juveniles.
+• Release a proportion of males and females in accordance with the structure of the species (territorial,
+polygamous, etc.).
+15
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2.1.7 [a.7] Detailed schedule of activities to be carried out and period for which
+permission is requested
+Once the capture permit is obtained, and to comply with the authorization that it allows,
+prior to the beginning of the activity, notice of the beginning of the captures will be given to the Regional SAG, with 5 or
+10 business days in advance or as established in the respective permit.
+After the measure is applied, a first monitoring will be carried out in the capture area the next day or 2.
+days after the rescue (immediate monitoring) focused on verifying that there are no individuals left
+rescue, this will last four days and eventually more if necessary. The activities associated with
+construction process may begin once the first monitoring of the capture area in
+a maximum period of 5 days.
+The following monitoring, corresponding to the second campaign, will be carried out 14 days after the
+rescue in the relocation area, focused on determining the early survival of the individuals
+relocated, since the paint marking should resist this period
+do of time. The third, fourth and
+Fifth monitoring will be carried out 90, 180 and 360 days after the rescue, the objective of said
+monitoring to evaluate the behavior of the receiving population once new ones have been added.
+individuals. The duration of the monitoring will last three days. The monitoring covers a
+full year to be able to include a reproductive cycle of the target species
+Table 2-3 below indicates the schedule that must be considered to carry out the implementation plan.
+rescue and relocation of fauna.
+Table 2-3. Schedule of wildlife rescue and relocation plan activities
+First
+Period Activities
+monitoring: to the Second Third Quarter Fifth
+rescue and between
+Obtaining 10 business days Estimates next day or monitoring: monitoring: monitoring: monitoring:
+relocation; term of
+notice permit, 2 days post 14 days post 90 days post 180 days 360 days
+1st monitoring duration
+of capture prior to the start abundance rescue in area rescue in rescue in post rescue post rescue
+variable depending on and beginning of the
+and notice of rescue and prior to capture and area of area of area of area of area of
+type and rate of works
+capture. relocation. extent. relocation, relocation relocation relocation relocation relocation
+construction progress:
+during n. n. n. n.
+works. 5 days.
+3 days.
+Source: GAC
+16
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Regarding the period in which the permit will be requested, this will be for a minimum of 12 months, given that
+In this way it is possible to consider the possibility of executing campaigns at different times of the year and/or
+respond to requests from the authority, and consider the needs of possible capture during the
+monitoring of the first to fifth campaign.
+In addition to the rescue contemplated for the construction phase, information is provided about the
+sequentiality of Project intervention on the rescue areas (Table 2-4) during the
+operation, information that must be reviewed for the renewal of the capture permit in the event that
+apply.
+Table 2-4. Surface intervention schedule that includes areas considered for rescue and
+vertebrate relocation.
+years
+Activity Area
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Processing Plant
+ZE Victoria South Extraction
+ZE Luna Extraction
+ZE Victoria North Extraction
+ZE Maite Extraction
+ZE Alexandra Poniente Extraction
+ZE Alexandra East Extraction
+ZD Jupiter Layout
+ZD Neptune Disposition
+Source: GAC
+3 FOLLOW-UP PLAN
+Below, the monitoring plan for the proposed measure is presented in detail, which seeks
+observe the behavior of the variable abundance of the target and non-target species, in the sector
+of capture (sector to intervene) and in those of relocation, in such a way as to focus the monitoring not only
+in the relocated individuals, but also in all the individuals present in the rescue areas
+and relocation.
+The factors to consider to monitor the measure, and thus estimate its success, are the
+following:
+3.1 Parameter used to characterize evolution of the variable
+The parameter used to measure the evolution of the measurement corresponds:
+17
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+▪ Presence/absence of target species
+The first monitoring focuses on determining if there are individuals left in the intervention area, targeting
+at 0% abundance of the target species. This monitoring will take place one or two days after the rescue.
+The parameter that will be used in the presence/absence of the target species, aiming at 100% rescue
+of individuals. This monitoring and parameters to be measured will be carried out only in the capture area.
+▪ Percentage of relocated individuals resighted
+The second monitoring will be carried out in the relocation area and is focused on determining
+r the
+early permanence of rescued individuals in the relocation area, through identification
+of marked individuals. The parameter that will be used corresponds to the resighting percentage of
+relocated individuals. The second monitoring will be carried out 14 days after the rescue only in the area
+of relocation.
+▪ Behavior of the receiving population
+The third, fourth and fifth monitoring will be carried out in the relocation area and is focused on
+determine how the receiving population behaves once new individuals are inserted. The
+Parameters to evaluate will be the richness, average density and relative abundance of species present. The
+third, fourth and fifth monitoring will be carried out at 90, 180 and 360 days after the rescue,
+respectively.
+3.2 Measurement method or procedure
+Approximately two months before the start of capture activities, for each area of
+rescue, a baseline campaign in order to corroborate and adjust the estimate of the number of individuals
+to be rescued, considering the natural variation that the density of this species may suffer in relation to
+the availability of food, shelter and/or water bodies or courses.
+The area to be intervened will be walked on foot, trying to carry out a complete sweep, with
+particular emphasis on those microenvironments favorable for the presence of the target species.
+The parameter will be measured in the capture and relocation area, through sampling to be carried out
+after the application of the measure, considering the procedures to be applied according to each taxa.
+Table 3-1. Procedure for measuring parameters used to monitor the rescue measure and
+relocation
+Area where the Moment is applied
+Sampling days parameter
+sampling applies sampling
+Subsequently to the
+Presence/absence Species Target Capture area Five days
+rescue measure and
+18
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Area where the Moment is applied
+Sampling days parameter
+sampling applies sampling
+relocation, in 1st
+monitoring
+2nd monitoring, 14 days
+Percentage of individuals
+Relocation area after rescue completed Five days
+relocated re-sighted
+3rd, 4th and 5th monitoring, 90,
+Population behavior
+Relocation area 180 and 360 days completed Five days
+recipient
+the rescue
+Source: GAC.
+3.3 Location of control points
+The control or sampling points where the different activities are carried out will be located in the areas
+of capture and in the relocation areas, before and after the application of the security measure.
+rescue and relocation.
+3.4 Duration and frequency of the monitoring plan
+The parameters will be evaluated in various campaigns, for which a certain moment is considered,
+duration and area, as indicated below:
+Table 3-2. Duration and frequency of the monitoring plan and/or monitoring campaigns
+campaign
+Timing and duration Area where it is applied
+monitoring
+The next day or 2 days after the rescue,
+First campaign Capture area
+for 5 days.
+Second campaign 14 days after the rescue, for 5 days. Relocation area
+Third campaign 90 days after the rescue, for 5 days. Relocation area
+180 days after the rescue, for 5
+Fourth campaign Relocation area
+days.
+360 days after the rescue, for 5
+Fifth campaign Relocation area
+days.
+Source: GAC
+19
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3.5 Limits allowed or committed
+The permitted limits or thresholds are the following:
+● 0% abundance of the target species is allowed in the capture area, that is, if during
+During the first monitoring, more individuals of the target species are identified and these will be rescued.
+● In the relocation area
+will aim at the early permanence of relocated individuals in
+10%.
+● In the relocation area, the aim will be to maintain and/or increase the average density
+(absolute abundance) of the target species.
+3.6 Deadline and frequency of delivery of reports with the evaluation of the
+results
+The report regarding the results of the implementation of the “Rescue and relocation” measure in the
+framework of PASM146, will be delivered to the competent authorities within a maximum period of 30 days
+business hours after the completion of the measure's monitoring activities. However, it will proceed to issue
+the required reports within the deadlines indicated in the Exempt Resolution that authorizes the captures.
+4 BIBLIOGRAPHICAL REFERENCES
+Supreme Decree No. 50/2008. Chili. Approves and formalizes classification of species according to state of
+conservation, second process. Ministry General Secretariat of the Presidency. Santiago, Chile. Diary
+Official, June 30, 2008.
+Supreme Decree No. 38/2015. Chili. Approves and formalizes classification of species according to state of
+conservation, eleventh process. Ministry of the Environment. Santiago, Chile. Official Gazette, 4
+December 2015.
+Supreme Decree No. 16/2016. Chili. Approves and formalizes classification of species according to state of
+conservation, twelfth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 16
+September 2016.
+Supreme Decree No. 23/2019. Chili. Approves and formalizes classification of species according to state of
+conservation, fifteenth process. Ministry of the Environment. Santiago, Chile. Official Gazette, 16
+September 2016.
+Law No. 4,601. 1929. About Hunting. Text was replaced by Law No. 19,473. 1996 (D.O.27.09.96).
+Law No. 19,300. 1994. General Law of Environmental Bases. Modified by Law No. 20,417 of 2010.
+20
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 10-10
+Mixed Sectoral Environmental Permit No. 146 (invertebrates)
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Reyes, M.A. and L. Arias-Bernal. 2020. Review: Clinical management of arthropods of the Theraphodidae family.
+Remevet Fauna, Mexico. 28 pp.
+Agricultural and Livestock Service (SAG). 2016. Environmental Assessment Guide. Fauna Component. Address
+of Protection of Renewable Natural Resources. 28 pp.
+Torres-Mura, J.C., E. Riveros-Riffo and V. Escobar-Gimpel. 2014. Technical guide to implement safety measures
+rescue/relocation and controlled disturbance. Agricultural and Livestock Service. 45 pp.
+Torres-Mura, J., G. González and D. Martínez. 2011. Fauna of Chile: Vertebrates of the Mediterranean area.
+Naturalista Editions. 188 pp.
+21

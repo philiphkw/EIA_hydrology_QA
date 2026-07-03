@@ -1,0 +1,1131 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3A-14
+Línea de Base de Hidrogeología
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras"
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+INFORME
+Línea de Base Hidrogeológica
+Proyecto de Extracción de Arcillas para producción de
+Concentrado de Tierras Raras.
+Cliente:
+Rev. 0
+CLIENTE: REE UNO SpA
+Nombre Contrato: ESTUDIO DE IMPACTO AMBIENTAL
+PROYECTO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE Asesoría, Proyectos,
+CONCENTRADO DE TIERRAS RARAS. Medioambiente SpA
+Titulo documento: Informe Hidrogeológica -EIA
+Rev. Fecha Preparó Revisó Aprobó
+0 23/02/2024 F. Saldías C. Salazar F. Aguirre
+II
+================================================================================
+PAGE 3
+================================================================================
+ÍNDICE DE CONTENIDOS
+1 INTRODUCCIÓN ..................................................................................................................................... 4
+1.1 UBICACIÓN DEL PROYECTO ................................................................................................................. 5
+2 OBJETIVOS ............................................................................................................................................. 5
+2.1 OBJETIVOS ESPECÍFICOS ..................................................................................................................... 6
+3 METODOLOGÍA ...................................................................................................................................... 6
+3.1 REVISIÓN DE INFORMACIÓN SECUNDARIA ............................................................................................. 6
+3.2 TRABAJO DE GABINETE ....................................................................................................................... 6
+4 RESULTADOS ......................................................................................................................................... 7
+4.1 ÁREA DE INFLUENCIA .................................................................................................................... 7
+4.1.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA ...................................................................... 7
+4.1.2 DEFINICIÓN DEL ÁREA DE INFLUENCIA ............................................................................... 7
+4.2 HIDROGEOLOGÍA ........................................................................................................................... 9
+4.2.1 HIDROGEOLOGÍA REGIONAL ................................................................................................ 9
+4.2.2 SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN ................................. 10
+4.2.3 HIDROGEOLOGÍA LOCAL ..................................................................................................... 11
+a) Perforaciones Geológicas ............................................................................................................. 11
+b) Perforaciones Geotécnicas ........................................................................................................... 12
+c) Propiedades hidráulicas ................................................................................................................ 15
+d) Pozos Hidrogeológicos .................................................................................................................. 19
+e) Descripción de unidades hidrogeológicas ..................................................................................... 20
+4.3 PIEZOMETRIA .............................................................................................................................. 23
+4.3.1 ISOLINEAS PIEZOMETRICAS Y PERFILES ............................................................................ 26
+4.4 RENDIMIENTO POZOS ................................................................................................................. 38
+4.5 HIDROMETEOROLOGÍA Y RIESGO CLIMÁTICO .......................................................................... 41
+5 CONCLUSIONES ................................................................................................................................... 45
+6 REFERENCIAS ....................................................................................................................................... 46
+III
+================================================================================
+PAGE 4
+================================================================================
+1 INTRODUCCIÓN
+El presente informe da cuenta de los resultados de la caracterización ambiental del componente
+hidrogeología desarrollada en el marco del Estudio de Impacto Ambiental del “Proyecto de
+Extracción de Arcillas para Producción de Concentrado de Tierras Raras” (en adelante, el
+“Proyecto”), cuyo Titular es REE Uno SpA (en adelante el “Titular”), de acuerdo con lo dispuesto en
+el artículo 18, letra e.5) del D.S. N°40/2012 del Ministerio del Medio Ambiente, que establece el
+Reglamento del Sistema de Evaluación de Impacto Ambiental.
+El Proyecto, ubicado administrativamente en la Comuna de Penco y Concepción, Provincia de
+Concepción, Región del Biobío, consiste en la construcción y operación de una faena minera junto
+con una planta de procesamiento de material granítico meteorizado, con presencia de arcillas. El
+regolito, en adelante llamado “Arcillas por procesar”, se forma como resultado de una alta
+meteorización de las rocas y contiene lantánidos adsorbidos en los minerales de arcilla. Los
+lantánidos, o Tierras Raras, son 15 elementos cuyo número atómico aumenta desde el Lantano (57)
+al lutecio (71). Por su comportamiento químico similar se les suma el itrio (Y). En adelante serán
+llamados “tierras raras”.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y producir
+concentrado de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas (ZE Victoria
+Norte, ZE Luna, ZE Maite), una (1) zona de disposición para estériles y arcillas procesadas (ZD
+Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de arcillas
+(la Planta) y un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las
+distintas áreas. Además, se considera la implementación de obras temporales correspondiente a
+instalaciones de faenas, para la construcción y habilitación de las obras del Proyecto.
+El Proyecto considera durante su fase de operación un cierre secuencial de las zonas de extracción.
+Es decir, estas zonas no entrarán en operación simultáneamente, por lo que, una vez finalizada la
+explotación de cada una de estas zonas, se comienza con la revegetación.
+Por su parte, al finalizar la disposición de las arcillas procesadas en las zonas de disposición también
+se ejecutará el cierre de estas mediante revegetación, utilizando el suelo vegetal disponible en las
+zonas de acopio vegetal.
+Para el desarrollo de este estudio se considera la caracterización hidrogeológica asociada al área
+de influencia del Proyecto, disponiendo para ello de antecedentes públicos y bibliográficos.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 4
+ENERO 2024
+================================================================================
+PAGE 5
+================================================================================
+1.1 UBICACIÓN DEL PROYECTO
+El emplazamiento del proyecto se sitúa en la comuna de Penco y Concepción, Provincia de
+Concepción, Región del Biobío, tal como lo indica la Figura 1. Al proyecto se accede desde la ruta
+150 km 5 Ruta Penco – Lirquén y Ruta 152 km71 Ruta del Itata (acceso Norte y Sur del paso superior
+El Cabrito).
+Figura 1-1: Ubicación Obras del Proyecto
+Fuente: Elaborado por APM Consultores. 2023
+2 OBJETIVOS
+El presente capitulo tiene por finalidad elaborar la línea base de la componente hidrogeológica
+para el área de influencia del Proyecto, teniendo en cuenta la caracterización y descripción de este
+recurso por medio de la disponibilidad de información pública, bibliográfica existente y
+antecedentes de terreno. Siguiendo los lineamientos planteados en el documento Criterio de
+Evaluación en el SEIA: Contenido Técnico para la Evaluación Ambiental del Recurso Hídrico (SEIA,
+2022), se desarrolla el presente documento dando cuenta de los requerimientos de información
+necesarios para la caracterización del componente en estudio.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 5
+ENERO 2024
+================================================================================
+PAGE 6
+================================================================================
+2.1 OBJETIVOS ESPECÍFICOS
+- Definir el área de influencia de la componente hidrogeológica.
+- Caracterizar la componente hidrogeológica existente a escala regional.
+- Caracterizar la componente hidrogeológica existente a escala local.
+3 METODOLOGÍA
+Para la elaboración del presente informe, se consideraron principalmente las siguientes
+actividades:
+3.1 REVISIÓN DE INFORMACIÓN SECUNDARIA
+Para recopilar los antecedentes necesarios para caracterizar la componente hidrogeológica, se
+consultaron los siguientes documentos y bases de datos:
+- Guía para la Descripción del Área de Influencia, Servicio de Evaluación de Impacto
+Ambiental, 2017.
+- Criterio de Evaluación en el SEIA: Contenido Técnicos para la Evaluación Ambiental del
+Recurso Hídrico, 2022.
+- Base de datos mapoteca digital de la Dirección General de Aguas (DGA).
+- Base de datos de estadística estaciones de pozo de la Dirección General de Aguas (DGA).
+- Cartas IGM escala 1:50.000. Instituto Geográfico Militar (IGM).
+- Guía de Evaluación de Impactos Ambientales, Servicio de Evaluación Ambiental, 2015.
+- Informe P007-Io7-Rev0 (Tandem, 2014).
+- Estimación preliminar de las recargas de agua subterránea y determinación de sectores
+hidrogeológicos de aprovechamiento común en las cuencas de las regiones del Maule,
+Bío-Bío; La Araucanía, Los Ríos y Los lagos. SDT N° 359. DGA-2014
+3.2 TRABAJO DE GABINETE
+El trabajo de gabinete para el análisis hidrogeológico consideró la ejecución de las
+siguientes actividades:
+- Caracterización regional sobre la base de los antecedentes disponibles tales como el Mapa
+Hidrogeológico de Chile en escala 1:1.000.000 en versión digital (DGA, 1989); así como el
+informe Mapa Hidrogeológico Nacional (DGA,1986).
+- Descripción de los Sectores Hidrogeológicos de Aprovechamiento Común, establecidos en
+el área, sobre la base de los antecedentes disponibles en la DGA.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 6
+ENERO 2024
+================================================================================
+PAGE 7
+================================================================================
+- Caracterización hidrogeológica local relacionada con el área del Proyecto, en base a
+informes públicos disponibles, reportes internos y mediciones realizadas.
+4 RESULTADOS
+4.1 ÁREA DE INFLUENCIA
+4.1.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA
+De acuerdo con lo indicado en la Guía para la Descripción del Área de Influencia (SEIA, 2017), se
+definió el área de influencia, la que considera el espacio geográfico comprendido por el
+emplazamiento de las obras del proyecto: Zonas de Extracción (Maite, Victoria Norte y Luna), Zona
+de Disposición (Neptuno), zona de acopio vegetal, Planta de Procesamiento, Stockpile, y obras
+anexas necesarias para las distintas fases del proyecto.
+4.1.2 DEFINICIÓN DEL ÁREA DE INFLUENCIA
+Según lo establecido por el Artículo 19º letra b.1. del Reglamento del Sistema de Evaluación de
+Impacto Ambiental (RSEIA), a continuación, se define el área de influencia para la componente
+hidrogeológica, considerando los potenciales impactos ambientales al recurso hídrico.
+Los criterios y consideraciones para su definición corresponden a los siguientes:
+- El sistema hidrogeológico presenta tres unidades principales, unidad que se extiende
+mayoritariamente por el área donde se ubican y emplazan las obras y que corresponde a una
+unidad de muy baja permeabilidad, conformada por saprolito; la unidad basal conformado por
+roca (basamento) sana de carácter impermeable; y una zona de transición entre el saprolito y el
+basamento con una permeabilidad mayor; la ocurrencia de agua se produce en la zona de
+transición, entre saprolito y basamento.
+- La unidad conformada por saprolito presenta condiciones de permeabilidad muy baja que no
+permite una conexión hidrogeológica entre la superficie y la unidad semifracturada. En este
+sentido, el saprolito establece una condición de confinamiento que implica que el agua existente
+se encuentre en presión
+- El saprolito presenta localmente zonas saturadas que le confieren una muy alta plasticidad, al
+punto de perder cohesión y presentarse como horizontes acotados de comportamiento plástico
+(evidenciando la concentración de humedad por sobre la conducción de la misma).
+- La zona de transición presenta permeabilidades mayores, sin embargo, la cuantía de agua es
+pobre, acorde con las mediciones de terreno. Se constató en terreno que mayoritariamente no
+es posible sostener en el tiempo bombeos entre 0,44 y 0,2 l/s; lo que indica que la capacidad de
+transporte permanente es inferior a este valor. Estos escasos flujos subterráneos se mueven
+siguiendo esencialmente las condiciones topográficas aportando su flujo a los puntos bajos que
+corresponden a las pequeñas quebradas
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 7
+ENERO 2024
+================================================================================
+PAGE 8
+================================================================================
+- Para los fines de definir el área de análisis para la componente hidrogeología, se estableció en
+primer lugar la relación espacial, con respecto de la hidrografía, tramos de cauce que están
+directamente asociados a las obras del proyecto. Lo anterior en consideración que la
+hidrogeología en términos de las direcciones de flujo se correlaciona directamente con la
+hidrografía local.
+Aun cuando, como se verá más adelante, está establecida la escasa o nula interacción de la
+escorrentía superficial con el flujo subterráneo, limitado por la presencia de saprolito de muy baja
+permeabilidad. Sobre la base de lo anterior, se define esta área como la zona sobre la cual pueden
+establecerse los potenciales efectos sobre la componente hidrogeológica. En este contexto resulta
+de relevancia considerar para esto las obras no lineales del proyecto; lo anterior dado que las obras
+lineales (caminos, LAT, etc.) por su naturaleza no tienen incidencia sobre la componente
+subterránea.
+Figura 4-1: Ubicación geográfica del área de influencia
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 8
+ENERO 2024
+================================================================================
+PAGE 9
+================================================================================
+4.2 HIDROGEOLOGÍA
+4.2.1 HIDROGEOLOGÍA REGIONAL
+De acuerdo con el Mapa Hidrogeológico de Chile, escala 1:2.500.000 (1986) tal como se muestra en
+la siguiente figura, la zona de estudio se sitúa en una unidad de rocas plutónicas e hipabisales y
+rocas metamórficas de la Cordillera de la Costa que conforman el Basamento, y que tienen
+permeabilidad de muy baja a ausente, con una importancia hidrogeológica relativamente nula.
+Figura 4-2: Extracto de Mapa Hidrogeológico de Chile
+Fuente: APM Consultores, a partir de Mapa Hidrogeológico de Chile
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 9
+ENERO 2024
+================================================================================
+PAGE 10
+================================================================================
+4.2.2 SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN
+En el área del proyecto se identifica el sector hidrogeológico de aprovechamiento común (SHAC)
+denominado Andalién, colindante por el norte se ubica el SHAC denominado Pingueral, los cuales
+cubren un área de 800 y 606 km2, respectivamente. Ambos SHAC se emplazan en el sector costero
+con características geológicas e hidrogeológicas e hidrológicas similares. Acorde con el Mapa
+Hidrogeológico de Chile, previamente referido, hidrogeológicamente el sector Andalién presenta
+una potencialidad muy baja a nula
+Dichos sectores hidrogeológicos se encuentran abiertos desde el punto de vista de la
+disponibilidad1.
+En la figura siguiente se presenta los sectores SHAC referidos:
+Figura 4-3: Sectores hidrogeológicos de aprovechamiento común.
+Fuente: Adaptado de (DGA-2022)2
+1 https://snia.mop.gob.cl/observatorio/
+2 Plan estratégico de gestión hídrica en cuencas costeras e islas entre el río Itata y río Biobío. SIT N°510. DGA-
+2022
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 10
+ENERO 2024
+================================================================================
+PAGE 11
+================================================================================
+4.2.3 HIDROGEOLOGÍA LOCAL
+La hidrogeología local se ha caracterizado con la información obtenida de la descripción geológica
+de las unidades, sondajes, observaciones de terreno, ensayos de permeabilidad y mediciones de
+nivel freático, como se indica más adelante.
+4.2.3.1 UNIDADES HIDROGEOLOGICAS
+Se han identificado 3 unidades hidrogeológicas: Saprolito (con una subunidad menor en su techo
+correspondiente a desarrollo de suelo), Interfaz Saprolito/Roca y Basamento o Roca Sana.
+Estás unidades hidrogeológicas principalmente se han determinado en función de datos
+provenientes de:
+- Perforaciones de exploración y caracterización geológica/mineralógica que sustentan el
+modelo geológico y minero del Proyecto.
+- Perforaciones geotécnicas con ensayos de penetración y permeabilidad.
+- Perforaciones de carácter hidrogeológico y ambiental.
+- Múltiples trabajos, reinterpretados, que han dado sustento técnico a los procesos de
+calificación ambiental anteriores.
+Los estudios e investigaciones desarrolladas permitieron la obtención de información de diversa
+índole, parte de la cual es de utilidad para la caracterización hidrogeológica. Estas investigaciones
+se realizaron en distintos sectores dentro del área del proyecto; la denominación de los sectores
+que se mencionan en adelante corresponde a la efectuada para los fines del desarrollo de dichas
+actividades prospectivas, no todos los sectores identificados corresponden a emplazamiento de las
+obras que integran el Proyecto, por cuanto esto último es el resultado de las evaluaciones y análisis
+técnico, económico, ambiental entre otros.
+a) Perforaciones Geológicas
+Las perforaciones geológicas están homogéneamente distribuidas en toda el área del proyecto y
+fueron realizadas bajo el criterio de, en lo posible, caracterizar todo el saprolito atravesándolo
+completamente hasta alcanzar la roca sana, siendo esta información la que define el techo de la
+unidad hidrogeológica de Basamento o Roca Sana.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 11
+ENERO 2024
+================================================================================
+PAGE 12
+================================================================================
+Figura 4-4: Perforaciones Geológicas que definen el techo de la unidad hidrogeológica
+Fuente: APM Consultores
+La geología compuesta por metapelitas y unidades magmáticas producto de fusión parcial y
+metamorfismo de contacto (Tonalita de Biotitas, Tonalita de Granate y Diorita) se entrelazan y
+cruzan en los sondajes debido al ambiente plástico de generación.
+b) Perforaciones Geotécnicas
+Las perforaciones geotécnicas se fueron desarrollando con el propósito de complementar el
+conocimiento sobre las características geotécnicas y geomecánicas dentro del área de influencia
+del Proyecto.
+Junto con hacer una buena correlación material, las perforaciones realizadas durante las campañas
+de 2021 y 2022 tuvieron los objetivos adicionales de registrar la presencia de humedad y niveles
+saturados, obtener datos de niveles freáticos, realizar ensayos que permitiesen obtener una
+primera aproximación de la conductividad hidráulica de los materiales y habilitar los pozos de
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 12
+ENERO 2024
+================================================================================
+PAGE 13
+================================================================================
+manera de poder aportar al registro y control piezométrico en el tiempo.
+Los pozos perforados en 2022, tenían como objetivo llegar hasta el techo de roca inalterada. Varios
+de ellos dieron cuenta de la presencia, de una interfaz compuesta por una mezcla de roca fracturada
+en una matriz arcillosa de roca descompuesta sin alcanzar la condición de saprolito.
+Esta interfaz fue caracterizada hidráulicamente mostrando un fuerte contraste entre los valores
+obtenidos de conductividad hidráulica asociada a los distintos tipos de materiales perforados. Así,
+para todos los materiales perforados en el horizonte de suelo vegetal y mayormente en el saprolito,
+la conductividad hidráulica osciló entre los 10E-05 y 10E-06 (m/s) valores correspondientes y típicos
+de los suelos arcillosos, caracterizados como entre arenas limosas y arcillas
+Este rango de valores para la conductividad hidráulica del saprolito había sido reportados
+anteriormente en sitios aledaños mediante ensayos tipo LeFranc (Caracterización Hidrogeológica
+del Fundo El Cabrito, Asesorías Tandem Ltda., 2014) lo que fue corroborado también por ProAqua
+Consultores tras realizar ensayos tipo Slug Test (Exploración De Recursos Hídricos Para Proyecto
+Aclara: Ensayos Hidráulicos, 2022). Estos trabajos concluyeron que, dada la existencia de agua en
+ciertos pozos, era muy escasa y no conformaban un acuífero desde el que se pudiese conseguir
+ningún caudal prolongado en el tiempo.
+Sin embargo, desde los ensayos hidráulicos de los pozos geotécnicos que perforaron desde el
+saprolito en superficie, hasta la roca inalterada a (Informe de Caracterización Geotécnica Ingeniería
+de Factibilidad Zonas de Extracción N° 01 0122-MS-GE, PANGEA Geotecnia, 2022), se obtuvo
+valores de 10E-02 (m/s) y hasta 10E-01 (m/s), lo cual no es solo 4 o 5 órdenes de magnitud mayor,
+si no que se pone en el rango de los valores de conductividad hidráulica para suelos tipo arenas y
+gravas. Esto puede apreciarse en 4 de 5 pozos en el sector denominado Victoria Sur; en 2 de 3 pozos
+en sector Maite; en 2 de 5 pozos en el sector denominado Victoria Norte; no se apreció esta
+característica en el sector denominado Luna ni tampoco en el llamado Alexandra, posiblemente
+asociado a la poca profundidad alcanzada no permitió alcanzarla (ver figura 4-5).
+Este horizonte de transición no fue encontrado en todos los pozos y en algunos casos se pasó
+directamente del saprolito a la roca inalterada, donde se alcanzó valores de conductividad
+hidráulica del orden de 10E-09 (m/s).
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 13
+ENERO 2024
+================================================================================
+PAGE 14
+================================================================================
+Figura 4-5: Perforaciones Goetécnicas
+Fuente: APM Consultores
+Cabe mencionar que también se detectó en sondajes en el sector Victoria Sur, en el sector Maite;
+en sector Victoria Norte y en sector Alexandra.) zonas de alta conductividad hidráulica en tramos
+previos al llegar a la roca sana. Este estrato corresponde a una interfaz o transición compuesta por
+una mezcla de roca fracturada en una matriz arcillosa de roca descompuesta sin alcanzar la
+condición de saprolito; y muestra un fuerte contraste en términos de conductividad hidráulica
+respecto del relleno superior (saprolito). Esta condición no se encuentra asociada a ningún tipo de
+aporte de recursos hídrico específico (Tablas 4-1 a 4-6).
+Las tablas siguientes muestran los resultados de la campaña geotécnica del año 2022, la cual tuvo
+como criterio de detención de la perforación el hallazgo de 2 metros seguidos con RQD >70%”,
+asegurando con este parámetro el encontrarse con una roca con muy bajo grado de fracturamiento
+o roca sana (basamento).
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 14
+ENERO 2024
+================================================================================
+PAGE 15
+================================================================================
+c) Propiedades hidráulicas
+Sobre la base de lo anterior, se presenta a continuación las características referidas a conductividad
+hidráulica para los distintos sectores del área del proyecto.
+Tabla 4-1: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Victoria Sur
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+CL 7,5 8,30E-06
+ML 32,6 1,63E-05
+VIS2201 SM 35,6 1,23E-05
+ML 38,6 1,15E-05
+GM 46,1 1,35E-02
+ML 14,0 3,23E-06
+VIS2202 SM 24,0 1,35E-05
+ML 29,0 1,03E-05
+CL 2,5 4,10E-06
+SM 8,5 1,71E-05
+ML 15,5 1,50E-05
+VIS2203
+SM 21,3 1,31E-05
+ML 31,3 1,10E-05
+GM 33,0 3,50E-01
+ML 8,0 1,16E-05
+SM 11,0 1,09E-05
+ML 18,0 6,12E-06
+SM 21,0 6,30E-06
+VIS2204 ML 24,0 5,42E-06
+SM 28,0 5,76E-06
+ML 31,0 4,51E-06
+SM 33,0 4,53E-06
+GM 49,8 1,64E-02
+GM 1,7 2,71E-02
+SM 5,0 1,91E-05
+VIS2205
+GP-GM 17,3 3,31E-01
+GW-GM 27,2 4,19E-01
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 15
+ENERO 2024
+================================================================================
+PAGE 16
+================================================================================
+Tabla 4-2: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Maite
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+GM 4,6 4,58E-01
+ML 6,5 1,42Е-05
+МАI 2201
+GM 10,5 8,62Е-01
+ML 21,0 6,11Е-06
+CL 1,2 5,20Е-0б
+ML 46,1 4,50Е-06
+МАI2202
+ML 57,0 1,5ЗЕ-05
+GW 59,6 7,48E-01
+CL 5,5 8,81Е-06
+ML 9,5 4,78E-06
+ML 24,0 7,58Е-06
+МАI2203 ML 32,6 7,75Е-06
+GM 34,1 1,51Е-0З
+ML 38,6 6,34Е 06
+SM 40,6 6,22Е-0б
+ML 24,0 4,59Е-06
+МАI2204 ML 50,1 5,31Е-06
+CL 55,0 2,26Е-06
+Fuente: APM Consultores
+Tabla 4-3: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Luna.
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+CH 0,0 1,12E-04
+ML 3,0 2,35E-05
+SM 6,0 1,11E-06
+ML 9,0 1,42E-05
+LUN 2201 ML 12,0 4,91E-06
+SM 15,0 1,36E-05
+SM 18,0 5,86E-07
+SM 21,0 1,18E-06
+ML 28,0 2,17E-06
+ML 0,0 1,26E-06
+ML 3,0 1,37E-06
+LUN 2202 ML 6,0 7,67E-07
+ML 9,0 1,12E-06
+ML 12,0 1,30E-06
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 16
+ENERO 2024
+================================================================================
+PAGE 17
+================================================================================
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+ML 15,0 1,37E-06
+ML 18,0 1,13E-06
+ML 21,0 5,48E-07
+ML 24,0 8,34E-07
+Fuente: APM Consultores
+Tabla 4-4: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Victoria Norte.
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+CL 12,6 1,07E-06
+VIN2201
+ML 36,9 5,36E-06
+CL 2,6 2,83E-06
+CL-ML 8,0 6,60E-06
+ML 10,4 1,22E-05
+VIN2202
+SM 20,6 1,55E-05
+ML 22,1 1,64E-05
+SM 49,0 1,71E-05
+CL 2,0 8,06E-06
+ML 23,6 3,63E-05
+GM 28,1 3,85E-01
+VIN2203
+ML 41,0 2,47E-05
+GM 43,0 1,45E-01
+SM 45,5 2,25E-05
+CL 4,0 2,69E-06
+ML 40,1 3,90E-06
+VIN2204 CL 47,8 4,72E-06
+ML 55,1 1,48E-05
+SM 68,6 1,29E-05
+CL 1,5 5,00E-06
+ML 11,0 4,38E-06
+CL 14,5 4,87E-06
+VIN2205
+ML 21,0 1,74E-05
+GM 22,4 9,02E-02
+ML 33,8 1,44E-05
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 17
+ENERO 2024
+================================================================================
+PAGE 18
+================================================================================
+Tabla 4-5: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Alexandra Oriente
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+ML 14,6 3,92E-05
+SM 17,6 3,41E-05
+ALXO2201 ML 21,0 3,19E-05
+MH 23,6 2,13E-06
+ML 30,0 2,71E-05
+ALXO2202 ML 28,1 7,77E-06
+ML 8,0 1,30E-05
+SM 17,7 6,10E-06
+ALXO2203 ML 23,6 1,17E-05
+CL 27,1 3,24E-06
+SC 32,0 3,04E-06
+CL 2,0 5,87E-05
+ALXO2204 ML 24,1 2,75E-05
+CL 30,0 8,646-06
+ML 7,3 2,05E-07
+ALX2205 ML 28,1 6,046-08
+SM 30,0 2,61E-07
+Fuente: APM Consultores
+Tabla 4-6: Resumen valores de conductividad hidráulica registrados en pozos geotécnicos en
+sector Alexandra Poniente
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+CH 0,0 1,32Е-05
+MH 3,0 2,72Е-05
+ML 6,0 3,62Е-05
+ML 9,0 3,55Е-05
+ML 12,0 2,76E-05
+ML 15,0 1,87Е-05
+ALXP 2204
+ML 18,0 1,86Е-05
+ML 20,0 1,84Е-05
+ML 24,0 1,99Е-05
+ML 27,0 4,08Е-05
+ML 30,0 9,02Е-06
+ML 33,0 1,49Е-05
+ML 0,0 1,08Е-05
+ML 3,0 1,79E-05
+ALXP 2205
+ML 6,0 9,67Е-06
+ML 9,0 1,47Е-05
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 18
+ENERO 2024
+================================================================================
+PAGE 19
+================================================================================
+ID Sondaje Clasif. USCS Prof. (m) k (m/s)
+ML 12,0 1,З0Е-05
+ML 15,0 5,96Е-06
+ML 18,0 8,64Е-06
+ML 21,0 7,68Е-06
+ML 24,0 1,З0Е-05
+ML 27,0 9,54Е-06
+ML 30,0 9,69Е-06
+ML 33,0 8,47Е-06
+ML 36,0 2,06Е-06
+ML 39,0 1,00Е-05
+ML 42,0 1,21Е-05
+ML 0,0 8,09Е-06
+ALXP 2206 ML 3,0 2,42Е-06
+ML 6,0 3,51Е-06
+Fuente: APM Consultores
+d) Pozos Hidrogeológicos
+Con el objeto de complementar información sobre niveles y características hidráulicas de los
+dominios que contienen agua, durante noviembre de 2022 y abril de 2023, se ejecutó la perforación
+y habilitación de un total 8 pozos con características constructivas de estándar hidrogeológico para
+caracterización litológica detallada, ensayos hidráulicos, monitoreo de niveles y control ambiental.
+La perforación contempló una cuidadosa ejecución durante perforación sin la adición de lodos de
+perforación ni agua para poder reconocer los aportes de agua hacia al pozo y la posterior medición
+y correcta interpretación de los niveles piezométricos medidos.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 19
+ENERO 2024
+================================================================================
+PAGE 20
+================================================================================
+Figura 4-6: Pozos Hidrogeológicos
+. Fuente: APM Consultores
+La ubicación de los pozos hidrogeológicos fue elegida para las zonas de cabeceras de cuencas
+intentando seguir el posible flujo subterránea asociado a la topografía del proyecto, junto con
+complementar de manera más precisa los datos de nivel para la generación de piezometrías.
+La construcción de estos pozos entregó información relevante respecto de la distribución de la
+interfaz Saprolito/Roca en cuanto a su potencia (espesor) altamente variable y respecto del
+confinamiento hidráulico observado que sobre ella ocurre, con distintos grados de presión, en
+todos los casos.
+e) Descripción de unidades hidrogeológicas
+Sobre la base de los antecedentes presentados se efectúa la caracterización de las unidades
+hidrogeológicas.
+I. Unidad Hidrogeológica Superior (UH1 – Saprolito)
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 20
+ENERO 2024
+================================================================================
+PAGE 21
+================================================================================
+Esta es la unidad hidrogeológica que más profusamente se desarrolla en el área del proyecto.
+Presenta potencias variables que va, por ejemplo, desde los 14m (Pozo AXWHG22-2) e incluso
+menos, y hasta los 60m (Pozo VISMIN23-1). Corresponde a la alteración de las distintas rocas
+presentes, desde la cual se ha desarrollado una importante presencia de filosilicatos de tipo arcillas
+(esméctitas y montmorillonitas, junto a caolines y micas en distintas proporciones) las que
+imprimen a esta unidad características hidráulicas particulares de muy baja conductividad
+hidráulica.
+Su conductividad hidráulica ha sido probada por distintos ensayos siendo su registro acotado en el
+rango de los 10E-05 (m/s) y hasta 10E-08 (m/s), con un valor predominante y característico de 10E-
+06 (m/s).
+Usualmente esta unidad puede alojar zonas saturadas acotadas producto de infiltración
+subsuperficial y diferencias relativas de conductividad hidráulica en su interior. Estos dominios
+saturados “colgados” dan forma a los reconocidas como niveles plásticos antes mencionados, esta
+condición de sobresaturación y aumento de la plasticidad es acotada en el subsuelo, no es
+permanente y tiende a producirse en los niveles más próximos a la superficie producto en el período
+pluvial para restablecer su condición en época de estiaje
+Esta unidad y su muy baja permeabilidad controla y limita fuertemente la infiltración profunda y
+canaliza la mayor parte del agua de las precipitaciones como escorrentía superficial, generando en
+zonas más bajas o de poca pendiente pequeños dominios saturados, por ejemplo, el fondo de las
+quebradas. Las condiciones de permeabilidad muy baja no permiten el desarrollo de una conexión
+hidrogeológica entre la superficie y la unidad semifracturada; por el contrario, el saprolito establece
+una condición de confinamiento sobre la unidad inferior.
+ii. Unidad Hidrogeológica Principal (UH2 – Interfaz Saprolito/Roca)
+La Unidad Hidrogeológica Principal o UH2 corresponde al dominio hidrogeológico saturado y se
+define como el tramo del subsuelo que va desde el nivel freático saturado confinado, con techo
+compuesto por un saprolito menos desarrollado, junto a roca fracturada en transición, hasta la roca
+inalterada como base. El nivel de confinamiento correspondiente al techo de esta unidad
+hidrogeológica se encuentra definido por el grado pervasivo de la mineralogía de alteración, la que
+imprime un carácter hidráulico con mucho menor conductividad hidráulica en la base de UH1,
+diferenciándose de esta unidad, por la diferencia en los órdenes de magnitud de la conductividad
+hidráulica.
+Los valores de conductividad hidráulica para esta unidad (UH2) se encuentran el rango de 10E-01
+(m/s) y 10E-02 (m/s).
+Su espesor o potencia es variable observándose su desarrollo en valores que van desde los 4m
+(Pozos AXWHG22-2; VINMIN23-1) hasta los 20m (Pozos NEPHG22-2; MAIGH22-2; AXEHG22-4)
+como se aprecia en la Tabla 8. Su extensión heterogénea parece no permitir su desarrollo en toda
+el área del proyecto, como dan cuenta algunas de las perforaciones geotécnicas (tablas 8 a 9.
+El confinamiento hidroestático al que esta unidad se encuentra sometida, por la presencia del
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 21
+ENERO 2024
+================================================================================
+PAGE 22
+================================================================================
+saprolito en la unidad superior, es altamente variable en términos de la presión que establece,
+pudiendo ser tan bajo como 0,95 m de columna de agua de presión confinante (Pozo AXWHG22-2)
+o casi alcanzar los 30 m de columna de agua de presión confinante (Pozos VISMIN23-1 con 29,89m;
+AXEHG22-3 con 28,25m (ver tabla 4-7).
+Tabla 4-7: Características de los pozos hidrogeológicos construidos en el proyecto.
+Nota: La columna TRAMO SATURADO INICIAL define la potencia de la UH2 en el pozo.
+iii. Unidad Hidrogeológica Inferior (UH3 – Basamento o Roca Sana)
+Esta unidad responde a la presencia de roca inalterada bajo la UH2 o subyacente a la unidad UH1
+cuando el dominio hidrogeológico saturado no se desarrolla.
+Su profundidad es altamente variable y si bien se encuentra levemente influenciada por la
+topografía, suele ocurrir más profunda o somera de lo que la morfología del terreno sugiere. Se ha
+definido el techo de esta unidad en función de la superficie definida como el techo de la roca desde
+el modelo geológico asociado al proyecto el cual está basado en puntos de control obtenidos de las
+perforaciones geológicas, geotécnicas e hidrogeológicas.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 22
+ENERO 2024
+P O Z
+M A IH G
+N E P H G
+A X W H G
+JU P H G
+A X E H G
+A X E H G
+V IS M IN
+V IN M IN
+O
+2 2 -2
+2 2 -2
+2 2 -2
+2 2 -2
+2 2 -4
+2 2 -3
+2 3 -1
+2 3 -1
+P R O F U N D
+P O Z O
+[m ]
+6 6
+7 0
+3 0
+6 3
+4 8
+8 0
+7 4
+7 2
+ID A D P R O F U N D ID
+R O C A
+[m b n s]
+6 0
+5 4
+1 8
+5 6
+4 4
+6 0
+6 8
+5 8
+A D
+C O N
+N IV E L D E
+F IN A M IE N
+[m b n s]
+4 1
+3 4
+1 4
+5 0
+2 6
+5 4
+6 0
+5 4
+T O
+T R A M O S A T
+IN IC IA
+[m ]
+1 9
+2 0461
+8684
+UL R A D O N IV E L E S T A B IL
+L IB R E
+[m b n s]
+2 5 ,7 6
+1 9 ,5 6
+1 3 ,0 5
+2 8 ,2 2
+2 0 ,4 4
+2 5 ,7 5
+3 0 ,1 1
+4 8 ,3 1
+IZ A D O
+C
+C O L U M N
+P R E S IO N
+O N F IN A N
+1 5 ,2 4
+1 4 ,4 4
+0 ,9 5
+2 1 ,7 8
+5 ,5 6
+2 8 ,2 5
+2 9 ,8 9
+5 ,6 9
+A
+T E c
+%
+o n
+c o lu m n a
+to ta l v s
+fin a m ie n to
+4 5 %
+4 2 %
+1 9 %
+7 8 %
+2 4 %
+8 2 %
+7 9 %
+5 9 %
+================================================================================
+PAGE 23
+================================================================================
+4.3 PIEZOMETRIA
+La primera condición piezométrica relevante corresponde al grado de confinamiento existente
+sobre la unidad hidrogeológica con presencia de agua UH2. Se puede apreciar que el grado de
+confinamiento es variable como se mostró en la tabla 4-11, anterior.
+Luego del rápido desconfinamiento producido por la construcción de los pozos se puede apreciar
+variaciones en el nivel de los pozos a lo largo del año. Los próximos gráficos dan cuenta del nivel de
+confinamiento presente en cada pozo y de la evolución de sus niveles medidos según los datos de
+la Tabla 4.8. Los datos incluyen la ocurrencia del nivel saturado respecto de la profundidad del techo
+de roca. Luego se ve el aumento del nivel hasta su estabilización (indicando su grado de
+confinamiento). Se han incluido gráficos de pozos representativos, que mantienen un registro
+continuo por casi un año completo (entre enero y noviembre de 2023).
+Tabla 4-8: Datos de niveles medidos en pozos hidrogeológicos
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 23
+ENERO 2024
+================================================================================
+PAGE 24
+================================================================================
+Figura 4-7: Niveles de aguas subterráneos representativos
+. Fuente: APM Consultores
+Nota: Eje de ordenadas indica profundidad (m) para ubicación roca basal, nivel confinado y altura piezométrica medida
+(puntos azules)
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 24
+ENERO 2024
+================================================================================
+PAGE 25
+================================================================================
+Figura 4-8: Niveles subterráneos integrados
+. Fuente: APM Consultores
+El comportamiento del nivel en los pozos, una vez estabilizado del confinamiento, es relativamente
+constante durante el año.
+Considerando la cantidad de pozos hidrogeológicos construidos específicamente para el control
+medioambiental y de niveles, se efectúo una búsqueda e identificación de pozos adicionales, de
+exploración geológica y geotécnica, con información piezométrica relevante que permiten
+aumentar la cantidad de datos respecto de la ocurrencia de agua y niveles piezométricos válidos.
+Así se identificaron 19 puntos adicionales con información válida de nivel, los que se consignan en
+la Tabla 4-9
+De los datos validados, la mayor variación se aprecia en los pozos hidrogeológicos VISMIN23_1 y
+VINMIN23_1. Sin embargo, su última medición data de meses atrás y muy cerca de su construcción,
+por lo que el anterior registro de nivel podría reflejar un valor en proceso de lograr el equilibrio y la
+estabilización final del nivel desconfinado. No obstante lo anterior se mantuvo esta información ya
+que permite contar con ella con fines referenciales y de complemento,
+La validación del dato incluyó los siguientes aspectos:
+▪ Tener un nivel de agua superior a 1m.
+▪ Tener un fondo similar al fondo original alcanzado en la construcción
+▪ De tener una alta variación en su fondo (sobre 10m) no mostrar gran variación en el nivel
+(menor al 20% de la variación del fondo) y mantener una columna de agua superior a 5m.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 25
+ENERO 2024
+================================================================================
+PAGE 26
+================================================================================
+▪ Validar la medición en cuanto a su contexto hidrogeológico local y pozos cercanos de
+similares profundidades.
+Tabla 4-9: Puntos con información piezométrica adicional validada
+Estos puntos serán utilizados posteriormente para la construcción de superficies piezométricas
+4.3.1 ISOLINEAS PIEZOMETRICAS Y PERFILES
+La construcción de las isopiezas del proyecto se basó en los datos mencionados a continuación en
+orden según su grado de confianza o calidad del registro:
+Puntos rectores:
+- 8 pozos hidrogeológicos 2022 (círculos amarillos).
+- 27 pozos geotécnicos de la campaña 2022 (rombos amarillos),
+- 17 pozo de distintos tipos de perforaciones de años anteriores al 2022, que fueron
+validados en las campañas de terreno anteriormente mencionadas (círculos verdes)
+Puntos auxiliares:
+- 180 datos de mediciones y observaciones indirectas desde perforaciones de campañas
+anteriores (rombos y círculos azules).
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 26
+ENERO 2024
+================================================================================
+PAGE 27
+================================================================================
+Figura 4-9: Distribución de puntos utilizados en la construcción de las isopiezas.
+. Fuente: APM Consultores
+Nota: Pozos Hidrogeológicos (círculos amarillos), Pozo Geotécnicos 2022 (rombos amarillos). Otros pozos
+validados (círculos verdes), datos auxiliares de observación indirecta (círculos azules).
+Para los efectos de la elaboración de la piezometría se consideró conjuntamente los puntos rectores
+con los puntos auxiliares; cabe señalar que los puntos rectores y auxiliares tienden a estar
+concentrados en las áreas de mayor interés del proyecto y no se encuentran necesariamente
+distribuidos homogéneamente por toda el área del proyecto, sin embargo, la información recabada
+permite contar con elementos de juicio para la confección de las isopiezas.
+Se mantuvo los puntos rectores como base y se apoyó el desarrollo de las curvas de igual nivel
+piezométrico en los puntos auxiliares y en la conceptualización de que la piezometría debiese estar
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 27
+ENERO 2024
+================================================================================
+PAGE 28
+================================================================================
+modulada por la topografía, construyéndose piezometrías ajustadas con la información disponible
+y las consideraciones ya mencionadas para cada uno de los sitios Victoria Norte, Luna y Maite.
+La figura siguiente presenta una visión general de la ubicación de los perfiles considerados para los
+efectos de la caracterización indicada.
+Figura 4-10: Ubicación general de perfiles hidrogeológicos
+Nota: Pozos se identifican en fig. 4-9
+Fuente: Elaboración propia APM
+Posteriormente mediante el uso de herramientas geoestadísticas se generó una piezometría
+conjunta del área
+En el caso del sector Victoria Norte, los pozos muestran distintos niveles de confinamiento y
+distintas potencias en cuanto al desarrollo del nivel confinado-saturado (desarrollo de la interfaz
+saprolito roca sana o UH2). En la parte baja del perfil el pozo VINMIN23-1, alcanza la roca inalterada
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 28
+ENERO 2024
+================================================================================
+PAGE 29
+================================================================================
+a los 58m, con un nivel saturado a los 54m y un nivel piezométrico desconfinado a los 48m (6m de
+presión confinante). En la cabecera alta del perfil el pozo JUPHG22-2 encuentra roca inalterada los
+58m, con un nivel saturado a los 52m y un nivel piezométrico desconfinado a los 28m (26m de
+presión confinante). En la zona intermedia del perfil, el pozo auxiliar, pozo de caracterización
+geotécnica, no identificó una capa importante de nivel saturado al ser perforado, sin embargo,
+encontró la roca a los 70m de profundidad y mostró un nivel piezométrico desconfinado de 32m
+(casi 40m de presión confinante). Esto da cuenta de las heterogeneidades existentes respecto del
+dominio saturado y como se manifiesta en esta zona. Las figuras siguientes presentan la
+piezometría y perfil del sector.
+Figura 4-11: Isopiezas sector Victoria Norte.
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 29
+ENERO 2024
+================================================================================
+PAGE 30
+================================================================================
+Figura 4-12: Perfil y piezometría sector Victoria Norte
+Fuente APM Consultores
+Al NE de las obras del Proyecto, los pozos AXEHG22-2, AXEHG22-3 y AXEHG22-4 muestran distintos
+niveles de confinamiento y distintas potencias en cuanto al desarrollo del nivel confinado-saturado
+(desarrollo de la interfaz saprolito roca sana o UH2). En la parte baja del perfil el pozo AXEHG22-2,
+perforado en roca intrusiva, muestra un dominio saturado confinado de 4m y un nivel de
+confinamiento de solo 0,95m. En la parte media, el pozo AXEHG22-4, perforado en roca intrusiva,
+muestra un dominio saturado confinado de 18m y un nivel de confinamiento de 5,56m. En la parte
+alta del perfil, el pozo AXEHG22-4, perforado en metapelitas, muestra un dominio saturado
+confinado de 6m y un nivel de confinamiento de 28,25m. Los pozos geotécnicos que terminan por
+completar el perfil permiten establecer la superficie piezométrica demostrando su desconexión en
+casi 26m de algunas zonas o dominios saturados. Esto indica que el saprolito puede evidenciar
+cierto contenido de humedad, más en su mayor parte, este se encuentra seco o bien con algún
+grado de humedad muy por debajo de su saturación.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 30
+ENERO 2024
+================================================================================
+PAGE 31
+================================================================================
+Figura 4-13: Isopiezas sectores Alexandra Oriente y Poniente
+Nota: En rojo traza de perfil que ejemplifica nivel piezométrico y dominio saturado-confinado.
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 31
+ENERO 2024
+================================================================================
+PAGE 32
+================================================================================
+Figura 4-14: Perfil y piezometría sectores Alexandra Oriente y Poniente.
+Fuente APM Consultores
+Para el sector Victoria Sur, el confinamiento se muestra más marcado hacia los extremos del perfil
+reduciéndose en la parte central de esto, pero como se ha indicado mantiene el comportamiento
+general ya descrito; es decir, las isopiezas muestran en general una buena concordancia con rasgos
+morfológicos y topográficos sugiriendo direcciones de flujo desde las zonas topográficamente más
+altas hacia las quebradas. Para el sector de Luna la ubicación estimada del nivel piezométrico
+muestra una altura piezométrica respecto del techo del basamento menor en términos relativos,
+no obstante lo anterior, se mantiene las condiciones generales ya mencionadas. Respecto del sector
+Maite el desarrollo de la piezometría no muestra condiciones de confinamiento tan marcadas y se
+desarrolla en concordancia con la orografía del sector.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 32
+ENERO 2024
+================================================================================
+PAGE 33
+================================================================================
+Figura 4-15: Isopiezas sector Victoria Sur
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 33
+ENERO 2024
+================================================================================
+PAGE 34
+================================================================================
+Figura 4-16: Perfil y piezometría sector Victoria Sur
+Fuente APM Consultores
+Figura 4-17: Isopiezas sector Luna
+Fuente APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 34
+ENERO 2024
+================================================================================
+PAGE 35
+================================================================================
+Figura 4-18: Perfil y piezometría sector Luna
+Fuente APM Consultores
+Figura 4-18: Isopiezas sector Maite
+Fuente: APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 35
+ENERO 2024
+================================================================================
+PAGE 36
+================================================================================
+Figura 4-19: Perfil y piezometría sector Maite.
+Fuente APM Consultores
+En síntesis y de forma integrada para el área de influencia cabe señalar que, en general la
+profundidad observada del nivel piezométrico ronda los 20 m.b.n.s. haciéndose más someras en
+algunos puntos cercanos a las quebradas, sin llegar a quedar en sobreposición a ellas.
+La piezometría y líneas de flujo ajustan de buena manera en cada uno de los sectores donde fueron
+construidas. Al construir una piezometría general del área del proyecto (
+Figura 4-20: Líneas de flujos generales área del proyecto) el resultado sigue la tendencia
+topográfica/hidrográfica, debiendo tenerse presente que, atendida una escala más detallada, es
+esperable que existan direcciones locales acorde al relieve local. Las direcciones principales son las
+que entregan el comportamiento del sistema, correlacionado con la hidrografía, considerando que
+la descarga de los escasos flujos pasantes por la UH2 se podría materializar en algunos puntos bajos
+de las quebradas hacia los cauces.
+Las piezometrías generadas para cada sector se apoyan en el nivel piezométrico encontrado en
+aquellos pozos rectores (aquellos con información más completa y mejor representatividad), los
+cuales en todos los casos cuya altura de presión supera el techo del o de los dominios
+hidrogeológicos saturados alojados en la interfaz saprolito-roca sana. Esta superficie piezométrica
+representa la cota a la cual se encontraría el agua de forma libre en el saprolito al no existir la
+condición de confinamiento descrita previamente. La superficie que delimita los niveles saturados
+difiere de la superficie piezométrica encontrándose más profunda. Esta superficie que define el
+techo del dominio confinado saturado se desarrolla con distintas potencias y extensiones bajo
+aspectos que responde a múltiples factores (litología del protolito, alteración, etc.). La información
+disponible en pozos perforados en etapas tempranas de reconocimiento y caracterización del
+proyecto, con pozos menos profundos que no alcanzaban niveles cercanos al techo de interfaz
+saprolito-roca sana, y que en la mayoría de los casos no evidenciaban la presencia alguna de agua,
+permitieron establecer un índice de la profundidad del techo de la referida interfase. Los pozos
+que alcanzan el basamento y los pozos perforados con fines exclusivamente hidrogeológicos
+permiten generar la información base para estos fines.
+Este efecto de confinamiento se ha evidenciado en los sondajes profundos que han alcanzado
+efectivamente el dominio saturado y la roca sana.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 36
+ENERO 2024
+================================================================================
+PAGE 37
+================================================================================
+En la unidad UH2 la piezometría muestra condición de confinamiento impuesta por la unidad UH1
+(saprolito) con distinto grado de intensidad, dependiendo de las características morfológicas. La
+presencia de agua en la unidad UH2 es bastante exigua, como se señala en el punto siguiente,
+mostrando una pobre capacidad de almacenamiento o rendimiento para sostener flujos de cierta
+significancia.
+Las piezometrías construidas cubren todos los sectores de intervención directa del proyecto sobre
+el terreno, cubriendo un área que resulta representativa para cada una de ellas y en su conjunto
+para toda el área de influencia.
+Figura 4-20: Líneas de flujos generales área del proyecto
+Fuente APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 37
+ENERO 2024
+================================================================================
+PAGE 38
+================================================================================
+4.4 RENDIMIENTO POZOS
+Se realizaron pruebas de bombeo distribuidas dentro del área del proyecto, con la intención de
+obtener un mejor conocimiento de la respuesta hidráulica de los pozos y de sus materiales
+constituyentes, de ellas como se verá a continuación, se puede apreciar que el rendimiento resulta
+muy bajo.
+Todas las pruebas fueron realizadas con caudales de 0,2 l/s y 0,44 l/s. Los niveles siguieron una línea
+de tendencia decreciente hasta llegar mayoritariamente al agotamiento del pozo en tiempos
+variables de entre 3 min y 540 min. (figuras 4-21, 4-22, 4-23 y 4-24); en dos casos se alcanzo
+estabilidad. Los caudales de bombeo son Ede muy baja cuantía, y en concordancia con lo anterior
+se puede concluir que en estrato donde existe agua existe una muy baja o casi nula productividad
+hidrogeológica.
+Más allá de obtener un parámetro numérico, las pruebas dieron a conocer una condición de muy
+bajo o casi nulo flujo a través de la unidad con presencia de agua. La condición de confinamiento le
+otorga presión al agua existente, sin embargo, el alto de la columna piezométrica desconfinada no
+se sostiene en el tiempo y se reduce hasta secar el pozo en minutos bajo extracciones de caudales
+del orden señalado; Esto indica que el medio no es capaz de proveer o sustentar flujos incluso con
+magnitudes tan pequeñas como las mencionadas.
+Figura 4-21: Prueba de bombeo sondaje NEPHG 022-2 y MAIHG 22-2
+Fuente APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 38
+ENERO 2024
+================================================================================
+PAGE 39
+================================================================================
+Figura 4-22: Prueba de bombeo sondaje AXE HG 22-2 a 22-4
+Fuente APM Consultores
+Figura 4-23: Prueba de bombeo sondaje JUP HG 22-2 y VISMIN 23-1
+Fuente APM Consultores
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 39
+ENERO 2024
+================================================================================
+PAGE 40
+================================================================================
+En la figura 4-24 siguiente se presenta la ubicación de las pruebas de bombeo
+Figura 4-24. Pruebas de bombeo
+Fuente: APM Consultores
+Los resultados de pruebas de bombeo muestran que mayoritariamente en el nivel donde la
+ocurrencia de agua existe, no sostiene en forma permanente o constante caudales entre 0,2 y 0,44
+l/s. Además, se observa que en distintos puntos dentro del área del proyecto mayoritariamente se
+observa que bombeos de esta cuantía se agotan en un corto tiempo; mostrando una muy escasa
+productividad, en la práctica casi nula, teniendo en consideración la pluviosidad del sector.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 40
+ENERO 2024
+================================================================================
+PAGE 41
+================================================================================
+4.5 HIDROMETEOROLOGÍA Y RIESGO CLIMÁTICO
+Para la definición de la sinergia negativa que el factor climático pueda ejercer sobre la componente
+hídrica del área de influencia, se consideró la evaluación de los parámetros hidrometereológicos
+comprendiendo su evolución en el tiempo sumado a este factor de amenaza. Cabe hacer presente
+que parte de los indicadores analizados corresponden a los que tienen alguna incidencia respecto
+del equilibrio hidrológico a nivel de cuenca, considerando la ubicación del proyecto y las
+características hidrogeológicas analizadas en el presente capítulo.
+En este sentido, se evaluó la proyección (simulación) de parámetros climáticos que influyen en la
+disponibilidad y características del recurso hídrico, las que fueron escogidas desde la base de datos
+del portal arclimb.mma.gob.cl del Ministerio de Medioambiente:
+- Temperatura
+- Frecuencia de sequía (%)
+- Días Secos consecutivos
+- Evapotranspiración potencial
+- Precipitación máxima diaria
+- Intensidad de precipitaciones
+La Figura 4-26 muestra a través de distintos parámetros la progresión de dichas amenazas
+climáticas vinculadas en el tiempo para la comuna de Penco.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 41
+ENERO 2024
+================================================================================
+PAGE 42
+================================================================================
+Figura 4-26: Amenazas Climáticas vinculadas a la componente hídrica para la Comuna de
+Penco.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 42
+ENERO 2024
+================================================================================
+PAGE 43
+================================================================================
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 43
+ENERO 2024
+================================================================================
+PAGE 44
+================================================================================
+Fuente: Desarrollado en base a información de www.arclimb.mma.gob.cl
+La simulación (Valor medio) derivada de los datos de ArClimb (MMA) predice un aumento de las
+temperaturas máximas diarias en promedio de 1°C para el año 2060, y junto con ello el aumento
+de la probabilidad de sequía y días secos; y consecuentemente una aceleración sobre la tasa de
+evapotranspiración producto de los cambios climáticos. Para el caso de las precipitaciones máximas
+diarias, ésta se proyecta por debajo de los máximos históricos por lo que corresponde a una
+condición que afectaría las entradas al sistema hídrico de la cuenca; sin embargo, la proyección de
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 44
+ENERO 2024
+================================================================================
+PAGE 45
+================================================================================
+la intensidad de precipitaciones pronostica un aumento de la frecuencia de un 10% en intensidades
+de 2 mm/día.
+5 CONCLUSIONES
+El área de emplazamiento del Proyecto de caracterización se sitúa en la Cordillera de La Costa, en
+la cual afloran rocas cristalinas intrusivas y metamórficas de muy baja a nula permeabilidad
+primaria. En escala regional esta zona se define como un área de importancia hidrogeológica nula
+(referencia).
+A escala del proyecto, cabe mencionar que producto del clima de la zona, templado con periodos
+de lluvias bien marcados, además de la cobertura vegetal importante, se producen procesos
+intensos de meteorización química y física en las rocas del batolito, ocasionando la alteración de la
+mineralogía primaria a arcillas y la disgregación de los granos de minerales más resistentes.
+El resultado de esto se traduce en un suelo residual denominado como Saprolito, el cual se extiende
+de manera semi horizontal, en gran parte del área del proyecto, y es donde se encuentran los
+recursos de Tierras Raras. El saprolito se desarrolla en forma extensiva y preponderante,
+confiriendo además un nivel con características que condicionan fuertemente la infiltración y
+movimiento de las aguas subterráneas.
+La permeabilidad en el Saprolito está condicionada por el importante contenido de arcillas, lo que
+motiva que este horizonte tiende a actuar como un acuitardo, incluso mas restrictivo ya que no
+presenta en vertical presencia de agua; aunque en las partes más superficiales puede observarse
+la ocurrencia de humectación de este suelo, asociado a las condiciones climáticas, pero sin
+establecer una condición de saturación y flujo de agua. Esta situación se constriñe a sectores
+someros y localmente situados.
+La unidad conformada por saprolito, presenta condiciones de permeabilidad muy baja que no
+permite una conexión hidrogeológica entre la superficie y la unidad semifracturada. En este
+sentido, el saprolito establece una condición de confinamiento que implica que el agua existente
+se encuentre en presión.
+En la transición entre el Saprolito y la roca basal (UH2), corresponde a una unidad compuesta por
+un saprolito menos desarrollado mezcla de una roca semi desintegrada químicamente y fracturada,
+lo cual le infiere características hidráulicas distintivas del resto de las unidades, con mayor
+permeabilidad relativa respecto de la unidad suprayacente. De hecho, la ocurrencia de agua se
+detecta en esta zona de transición profunda entre saprolito y roca sana, donde las permeabilidades
+son mayores en varios ordenes de magnitud, sin embargo, de muy baja productividad.
+Las pruebas de bombeo realizadas muestran que para caudales extremadamente bajos (0,2 a 0,4
+l/s) se produce mayoritariamente agotamiento en tiempos muy cortos (entre minutos y algunas
+horas); lo que indica que es un sistema de muy pobre productividad hídrica, consistente con lo ya
+indicado.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 45
+ENERO 2024
+================================================================================
+PAGE 46
+================================================================================
+De hecho, el nivel conformado por el saprolito le confiere condiciones de confinamiento que
+establecen condiciones de presión; la piezometría, con caudales pasantes muy bajos o exiguos,
+presenta grados de confinamiento variables. No obstante, lo anterior, la escasa cuantía del
+rendimiento de la unidad UH2 no permite considerar otorgarle una asignación de valoración
+hidrogeológica con alguna relevancia, en términos de almacenamiento o flujo permanente.
+En síntesis y en concordancia con los estudios hidrogeológicos de carácter general no se conforman
+acuíferos de importancia hidrogeológica de la zona del proyecto, más bien se caracteriza con
+importancia hidrogeológica nula, en concordancia con lo que señala el Mapa Hidrogeológico de
+Chile; es decir permeabilidades muy bajas, escaso potencial de almacenamiento y exigua
+productividad. De hecho, este sector hidrogeológico no se utiliza como recurso subterráneo de
+importancia para fuente de abastecimiento de agua potable o de riego.
+6 REFERENCIAS
+Instituto de Investigaciones Tecnológicas, Laboratorio de Mecánica de Suelos Universidad de
+Concepción. (2016) Informe 2016-101. Proyecto BioLantánidos.
+Inerco (2018). Estudio de Impacto Ambiental, Proyecto BioLantánidos. Capítulo 4: Línea Base
+Inerco. (2018). Geología Áreas de Interés de Penco, Proyecto BioLantánidos.
+TANDEM (2014). Caracterización Hidrogeológica Fundo El Cabrito, Informe Final.
+Dirección General de Aguas (1986) . Estudio del mapa hidrogeológico nacional. Escalas
+1:1.000.000 y 1:2.500.000
+Dirección General de Aguas (1989). Mapa Hidrogeológico escala 1:1.000.000.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 46
+ENERO 2024

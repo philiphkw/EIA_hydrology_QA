@@ -1,0 +1,294 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial
+N°119
+Permiso para realizar pesca de
+investigación – Ecosistemas Acuáticos
+Continentales
+EIA Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Contenidos técnicos y formales del permiso ambiental sectorial N°119 ........................................ 2
+2.1 (a) Identificación de las especies hidrobiológicas que se pretende extraer como especies
+principales y secundarias. ......................................................................................................................... 2
+2.2 (b) Indicación del área en el cual se pretende desarrollar las actividades de investigación. ....... 3
+2.3 (c) Especificación de los objetivos generales y específicos que el proyecto de pesca persigue ... 4
+2.3.1 Objetivos generales y específicos .......................................................................................... 4
+2.4 (d) Identificación y características específicas del arte, aparejo o sistema de pesca a utilizar en la
+ejecución de la investigación ..................................................................................................................... 4
+2.5 (e) Especificación de la metodología a emplear, indicándose además su correspondiente soporte
+estadístico debidamente fundamentado .................................................................................................. 5
+2.5.1 Muestreo de fauna íctica y crustáceos nativos ..................................................................... 5
+2.6 (f) Resultados esperados ............................................................................................................... 5
+2.7 (g) Duración del estudio y cronograma de actividades ................................................................. 6
+INDICE DE TABLAS
+Tabla 2-1. Composición y abundancia (CPUE-individuos capturados en 30 minutos de pesca) de la
+ictiofauna presentes en el área de influencia para las campañas de invierno 2022, verano 2023 y primavera
+2023 ............................................................................................................................................................... 3
+Tabla 2-2. Composición y abundancia (CPUE-individuos capturados en 30 minutos de pesca) de crustáceos
+Aeglidae presentes en el área de influencia para las campañas de invierno 2022, verano 2023 y primavera
+2023 ............................................................................................................................................................... 3
+Tabla 2-3. Coordenadas de las estaciones de muestreo para seguimiento de la ictiofauna ........................ 4
+Tabla 2-4. Sistema de muestreo para realizar el seguimiento de la ictiofauna ............................................ 4
+Tabla 2-5. Cronograma de actividades .......................................................................................................... 6
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto
+En lo relativo al presente documento, el Proyecto contempla como compromiso ambiental voluntario la
+ejecución de un “Plan de seguimiento de la fauna íctica continental”, el cual comprende el muestreo de
+especies de fauna íctica nativa y crustáceos nativos en categoría de conservación registrados en la línea
+de base. Esta actividad se realizará en los cuerpos de agua en los cuales se proyectan actividades de
+intervención directa, debido a las obras de construcción y atraviesos de esteros y quebradas permanentes
+del Proyecto.
+A continuación, se presentan los antecedentes técnicos y formales necesarios que permiten acreditar el
+cumplimiento del Permiso Ambiental Sectorial N°119 (PAS 119), a que se refiere el artículo 119 del
+Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA), D.S. N°40/2012 modificado por el
+D.S. N° 23/2023, ambos del Ministerio del Medio Ambiente.
+El permiso para realizar pesca de investigación, necesaria para el seguimiento de las poblaciones de
+especies hidrobiológicas, corresponde al establecido en el Artículo 99 del Decreto Supremo N°430, de
+1991, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y
+sistematizado de la Ley N°18.892, de 1989 y sus modificaciones, Ley de Pesca y Acuicultura.
+1
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El requisito para su otorgamiento consiste en preservar los recursos hidrobiológicos con motivo de la
+realización de la pesca de investigación.
+En este sentido, el Proyecto requiere realizar pesca de investigación, con la finalidad de realizar el
+seguimiento de los ecosistemas acuáticos continentales del área del Proyecto. De esta manera, conforme
+indica el artículo 119 del RSEIA, los contenidos técnicos y formales para acreditar su cumplimiento
+corresponden a los siguientes:
+a) Identificación de las especies hidrobiológicas que se pretende extraer como especies
+principales y secundarias.
+b) Indicación del área en la cual se pretende desarrollar las actividades de investigación.
+c) Especificación de los objetivos generales y específicos que el proyecto de pesca de
+investigación persigue.
+d) Identificación y características específicas del arte, aparejo o sistema de pesca a utilizar en la
+ejecución de la investigación.
+e) Especificaciones de la metodología a emplear, indicándose además su correspondiente
+soporte estadístico debidamente fundamentado.
+f) Resultados esperados.
+g) Duración del estudio y cronograma de actividades.
+2 CONTENIDOS TÉCNICOS Y FORMALES DEL PERMISO AMBIENTAL SECTORIAL
+N°119
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los
+siguientes:
+2.1 (a) Identificación de las especies hidrobiológicas que se pretende extraer
+como especies principales y secundarias.
+El presente Permiso Ambiental Sectorial se relaciona con el Plan de seguimiento ambiental que se propone
+y que se detalla en el Capítulo 13 del EIA, como parte de los Compromisos Ambientales Voluntarios del
+Proyecto, el cual tiene como objetivo monitorear la fauna íctica y crustáceos nativos en estado de
+conservación que habitan y ocurren en los ecosistemas acuáticos continentales del área de influencia del
+Proyecto durante su fase de construcción, en particular en los atraviesos de cauces proyectados en el
+Estero Penco y quebradas permanentes identificados en el área de influencia del Proyecto. Se aclara que,
+durante las campañas de línea de base del componente acuático continental, solo se reportó la presencia
+de una especie íctica nativa en estado de conservación Vulnerable (Trichomycterus areolatus) y una
+introducida en el área de influencia del Proyecto (ver Capítulo 03-Sección II de la Línea de Base del EIA),
+cuya composición y abundancia se presenta en la Tabla 2-1.
+2
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-1. Composición y abundancia (CPUE-individuos capturados en 30 minutos de pesca) de la ictiofauna
+presentes en el área de influencia para las campañas de invierno 2022, verano 2023 y primavera 2023
+Campañas Especie PE P1 P7 P9 P10 P14 P17 P23 Total
+O. mykiss 2 0 0 1 4 0 0 0 7
+Invierno 2022
+T. areolatus 3 0 0 9 0 0 0 0 12
+O. mykiss 3 0 0 2 3 0 0 0 8
+Verano 2023
+T. areolatus 2 0 2 4 0 0 0 0 8
+O. mykiss 2 0 0 1 0 0 0 0 3
+Primavera 2023
+T. areolatus 0 0 3 7 2 0 0 0 12
+Fuente: GAC
+A su vez, se identificaron crustáceos nativos en categoría de conservación (en peligro) del género Aegla
+sp. y Samastacus, tal como se detalla a continuación en la Tabla 2-2.
+Tabla 2-2. Composición y abundancia (CPUE-individuos capturados en 30 minutos de pesca) de crustáceos
+Aeglidae presentes en el área de influencia para las campañas de invierno 2022, verano 2023 y primavera 2023
+Campaña Especie PE P1 P7 P9 P10 P14 P17 P23 Total
+Aegla cf expansa 2 0 10 19 0 0 0 0 31
+Aegla concepcionensis 0 0 5 2 0 0 0 0 7
+Invierno 2022 Aegla sp. 0 0 10 0 0 0 0 0 10
+Aegla cf laevis
+0 0 1 59 0 0 0 0 60
+talcahuano
+Aegla cf expansa 0 0 0 8 0 0 0 0 8
+Aegla concepcionensis 0 0 0 3 0 1 0 6 10
+Verano 2023
+Aegla cf laevis
+0 0 4 0 0 0 0 0 4
+talcahuano
+Aegla cf expansa 0 0 8 8 1 0 0 4 16
+Primavera 2023 Aegla concepcionensis 1 0 5 5 1 0 0 0 7
+Samastacus spinifrons 0 0 0 0 2 0 0 0 2
+Fuente: GAC
+2.2 (b) Indicación del área en el cual se pretende desarrollar las actividades de
+investigación.
+Se propone el monitoreo de las comunidades de peces, específicamente en los puntos de muestreo
+ubicados en los cruces proyectados en el Estero Penco y quebradas de escurrimiento permanente,
+afluentes del estero adyacentes ubicados en y/o descritos como parte del área de influencia del Proyecto.
+Dichas estaciones de muestreo concuerdan con las descritas en la línea de base del Proyecto (Capítulo 03-
+Sección II del EIA) y son las que se listan en Tabla 2-3.
+3
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-3. Coordenadas de las estaciones de muestreo para seguimiento de la ictiofauna
+Estación Coordenada E Coordenada S Observación
+PE 683.050 5.930.154 Estero Penco
+P1 680.648 5.928.966 Quebrada permanente
+P7 681.233 5.931.476 Estero Penco
+P9 679.895 5.931.431 Estero Penco
+P10 681.840 5.930.622 Estero Penco
+P14 679.521 5.927.734 Quebrada permanente
+P17 679.989 5.930.206 Quebrada permanente
+P23 680.382 5.928.027 Quebrada permanente
+Fuente: GAC
+2.3 (c) Especificación de los objetivos generales y específicos que el proyecto de
+pesca persigue
+2.3.1 Objetivos generales y específicos
+El objetivo general de la pesca de investigación será el seguimiento de las comunidades de especies de
+peces y crustáceos nativos en estado de conservación que habitan en el área donde se contemplan los
+atraviesos de cauces.
+Tal objetivo general será desarrollado a través de los siguientes objetivos específicos:
+• Estimación de la composición, abundancia y factor de condición (Kc) de las especies de fauna íctica
+nativa en el Estero Penco y quebradas de escurrimientos permanentes afluentes del citado Estero,
+durante la fase de construcción del Proyecto.
+• Estimación de la composición y abundancia de las especies de crustáceos nativos en el Estero
+Penco y quebradas de escurrimientos permanentes afluentes del citado Estero, durante la fase de
+construcción del Proyecto.
+2.4 (d) Identificación y características específicas del arte, aparejo o sistema de
+pesca a utilizar en la ejecución de la investigación
+El muestreo de la fauna íctica se realizará mediante técnicas habituales de muestreo sistemático simple,
+mediante el uso de pesca eléctrica portátil (Tabla 2-4).
+Tabla 2-4. Sistema de muestreo para realizar el seguimiento de la ictiofauna
+Comunidades Sistema de muestreo Características
+Pesca eléctrica marca SAMUS o similar Modelo de ajuste de voltaje, potencia
+Fauna íctica y crustáceos nativos
+y uso de redes de mano y tipo de ciclos
+Fuente: GAC
+4
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5 (e) Especificación de la metodología a emplear, indicándose además su
+correspondiente soporte estadístico debidamente fundamentado
+Las metodologías que se emplearán para la prospección y el análisis de los subcomponentes bióticos en el
+marco de los seguimientos ambientales detallado en el Capítulo 13. Compromisos Voluntarios del EIA, se
+basan en las directrices establecidas en la “Guía metodológica y protocolos de muestreo de flora y fauna
+acuática en aguas continentales de Chile" (FIPA 2016-46).
+Además, con el objetivo de establecer comparaciones temporales y determinar cambios en la estructura
+comunitaria de dichas comunidades, se utilizarán herramientas estadísticas paramétricas entre las que
+destacará el análisis de varianza (ANDEVA) y sus respectivas pruebas a posteriori. En el caso de no
+cumplirse los supuestos para la ejecución de esta prueba paramétrica (homogeneidad de varianza y
+normalidad), la comparación estadística se realizará mediante su equivalente no paramétrico (Kruskal-
+Wallis).
+2.5.1 Muestreo de fauna íctica y crustáceos nativos
+El muestreo se llevará a cabo mediante un equipo de pesca eléctrica portátil, con regulador de voltaje. En
+cada estación de muestreo se recolectarán y retendrán vivos todos los individuos presentes en transectos
+de 100 m de recorrido por un tiempo de 30 minutos, dependiendo de las condiciones morfológicas de
+cada estación, tales como profundidad, cubierta vegetacional y velocidad del agua en el cauce, entre otros.
+Todos los ejemplares recolectados y retenidos vivos, se identificarán in situ hasta el nivel taxonómico de
+especie, siguiendo las referencias indicadas por Habit et al. 2006. Además, se procederá a determinar la
+longitud total (LT) y peso total (PT) de los individuos capturados, lo que permitirá la estimación del Factor
+de Condición (Kc) o robustez de los peces. Luego de examinarlos y realizar las mediciones, los peces
+(retenidos en agua fresca de recambio) serán liberados en la misma estación donde fueron capturados.
+Por su parte, los crustáceos (Aegla sp.) se recolectarán manualmente mediante el uso de redes de mano,
+considerando el mismo recorrido y esfuerzo de la pesca eléctrica (100 m de recorrido por 30 min),
+removiendo hojarascas, troncos y bolones para capturar y retener hasta la identificación y conteo de los
+ejemplares, los que serán devueltos vivos en los mismos sitios donde se capturaron.
+2.6 (f) Resultados esperados
+Con los resultados obtenidos del muestreo de las comunidades evaluadas se pretende determinar la
+evolución de parámetros ecológicos comprometidos durante la construcción de obras asociadas al
+Proyecto en cada atravieso proyectado, considerado su comparación con los registros obtenidos de las
+estaciones descritas en la línea de base, que se obtuvieron previo al inicio de la fase de construcción.
+5
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-1
+Permiso Ambiental Sectorial del Artículo N°119
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.7 (g) Duración del estudio y cronograma de actividades
+Se realizarán 4 campañas para el monitoreo de fauna íctica. La primera se realizará de forma previa a la
+construcción de la obra de cruce de cada estero o quebrada y se denominará campaña 0. La campaña 1 se
+efectuará en un plazo máximo de una semana posterior al término de dichas obras. Luego, se ejecutará
+una campaña 2 después de un mes de la campaña 0 y finalmente una campaña 3 (de cierre) después de
+un mes contado desde la campaña 2. Cada campaña tendrá una duración de 1-2 días, dependiendo de las
+condiciones climáticas del sector y de la disponibilidad hídrica superficial en cada una de las estaciones de
+muestreos propuestas.
+Tabla 2-5. Cronograma de actividades
+Días
+Actividad
+1 7 14 37 74 104
+Aviso inicio actividades x
+Preparación / Coordinación campaña terreno x
+Campaña 0 x
+Campaña 1 x
+Campaña 2 x
+Campaña 3 x
+Elaboración del informe x x x x x
+Entrega informe SMA x
+Fuente: GAC.
+6

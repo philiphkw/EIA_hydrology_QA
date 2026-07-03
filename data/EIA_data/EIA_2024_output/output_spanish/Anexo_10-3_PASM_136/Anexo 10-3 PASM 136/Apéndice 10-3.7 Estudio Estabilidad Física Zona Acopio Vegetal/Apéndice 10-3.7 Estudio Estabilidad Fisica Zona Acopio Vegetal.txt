@@ -1,0 +1,348 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-3.7
+Estudio de Estabilidad Física Zona de
+Acopio Vegetal
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado de
+Tierras Raras"
+Región del Biobío
+Junio, 2024
+Elaborado para :
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+ACLARA
+ESTUDIO DE ESTABILIDAD FISICA
+ZONA DE ACOPIO VEGETAL
+N° 60 0723-INF-GE-002
+PANGEA Geotecnia
+Cochrane 635, Of. 1503, A APROB. CLIENTE: ____________
+Concepción, Chile FECHA: ____________
+Preparado para ACLARA.
+REV. FECHA POR REV. APROB. DESCRIPCION
+A 25-08-2023 GT CA RM Revisión Interna
+B 28-08-2023 GT CA RM Aprobación interna
+C 28-08-2023 GT CA RM Revisión cliente
+D 27-11-2023 GT CA RM Aprobación cliente
+================================================================================
+PAGE 3
+================================================================================
+ÍNDICE
+1. INTRODUCCIÓN ............................................................................................................ 1
+2. REFERENCIAS ............................................................................................................... 2
+3. ANTECEDENTES GENERALES ................................................................................... 2
+4. VOLUMENES DE ALMACENAMIENTO .................................................................... 3
+5. CARACTERIZACION SUELOS .................................................................................... 4
+5.1. CARATERIZACION SUELO VEGETAL .............................................................. 4
+5.2. CARATERIZACION SUELO DE FUNDACIÓN ................................................... 4
+6. ESTABILIDAD GEOMECÁNICA ................................................................................. 6
+6.1. METODOLOGÍA ..................................................................................................... 7
+6.2. RESULTADOS ......................................................................................................... 9
+7. CONCLUSIONES .......................................................................................................... 15
+_________________________________________________________________________
+Estabilidad Física – Zona de Acopio Vegetal
+================================================================================
+PAGE 4
+================================================================================
+1. INTRODUCCIÓN
+El presente informe ha sido solicitado a Pangea Geotecnia con el objeto de determinar la
+estabilidad física de la zona de acopio vegetal contemplada en el proyecto minero de Tierras
+Raras que será operado por Aclara, ubicado en las comunas de Penco y Concepción, Región
+del Biobío. En la Figura 1, se muestra la ubicación de las principales instalaciones
+consideradas en el proyecto. La zona de acopio vegetal 1 se destaca en color verde.
+ZAV1
+Figura 1. Ubicación de zona de acopio vegetal (ZAV1).
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 1
+================================================================================
+PAGE 5
+================================================================================
+2. REFERENCIAS
+Los documentos utilizados para el desarrollo del estudio fueron los siguientes:
+INFORME DE MECÁNICA DE SUELOS N°130 1220-MS-GE-NEP. LANCUYEN
+Referencia N°1
+INGENIERÍA.
+INFORME DE CARACTERIZACIÓN GEOTÉCNICA INGENIERÍA
+Referencia N°2 FACTIBILIDAD ZONAS DE EXTRACCÓN. N°01 0122-MS-GE. PANGEA
+GEOTECNIA
+INFORME GEOTECNICO TERRAPLENES DE PRUEBA Y ÁNALISIS DE
+Referencia N°3 ESTABILIDAD DE TALUDES ZD JÚPITER Y NEPTUNO. N°62 102-INF-GE-001.
+PANGEA GEOTECNIA.
+INFORME TÉCNICO G0017-23. “PELIGRO SÍSMICO EN PROYECTO ACLARA,
+ACTUALIZADO A NCH 2369:2023, ZONAS DE EXTRACCIÓN Y DISPOSICIÓN,
+Referencia N°4
+COMUNA DE PENCO, REGIÓN DEL BÍO-BÍO”.GENSIS INGENIERÍA
+GEOTÉCNICA SÍSMICA-AGOSTO 2023.
+INFORME “INGENIERÍA CONCEPTUAL DE ZONAS DE ACOPIO VEGETAL”
+Referencia N°5
+BMINING -16 FEBRERO 2023
+KRAMER, S.L (1996). GEOTECHNICAL EARTHQUAKE ENGINEERING.
+Referencia N°6
+PRENTICE HALL, UPPER SADDLE RIVER, N.J
+NORMA CHILENA, NCh1508-2014 “GEOTECNIA-ESTUDIO DE MECÁNICA DE
+Referencia N°7
+SUELOS”.
+NORMA CHILENA, NCh2369 OF.2003 “DISEÑO SÍSMICO DE ESTRUCTURAS E
+Referencia N°8
+INSTALACIONES INDUSTRIALES”
+NORMA CHILENA, NCh2369 OF.2023 “DISEÑO SÍSMICO DE ESTRUCTURAS E
+Referencia N°9
+INSTALACIONES INDUSTRIALES”
+SARAGONI, G.R. (1993). ANÁLISIS DEL RIESGO SÍSMICO PARA LA
+RECONSTRUCCIÓN DEL PUERTO DE VALPARAÍSO. 6TAS JORNADAS
+Referencia N°10
+CHILENAS DE SISMOLOGÍA E INGENIERÍA ANTISÍSMICA, UNIVERSIDAD DE
+CHILE Y ACHISINA, SANTIAGO, CHILE, VOL. 2, 165-178
+3. ANTECEDENTES GENERALES
+La capa vegetal a acopiar corresponde a la capa superior del suelo que posee un gran contenido
+de materia orgánica. Esta capa será retirada de las áreas a intervenir en el proyecto,
+específicamente, de las zonas de extracción, zona de disposición Neptuno, zona de acopio
+vegetal y área destinada a la planta de procesamiento, para ser trasladada y almacenada
+temporalmente en la zona de acopio vegetal.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 2
+================================================================================
+PAGE 6
+================================================================================
+El proyecto considera una zona de acopio vegetal temporal, llamada de ahora en adelante
+ZAV1, la ubicación de ella se muestra en la Figura 1.
+Esta área permitirá acopiar el suelo vegetal hasta que llegue el momento de su traslado
+definitivo a las zonas de extracción y a la zona de disposición Neptuno, una vez definido el
+cierre del proceso productivo conforme al cronograma del proyecto. Extender nuevamente el
+suelo vegetal en las zonas de extracción cerradas y en la zona de disposición tiene el objetivo
+de proporcionar propiedades que faciliten y fomenten el crecimiento de vegetación.
+En este documento, se realizará un análisis de estabilidad geomecánica de la geometría
+propuesta de la zona de acopio vegetal, la que se detalla en los numerales siguientes del
+presente informe.
+4. VOLUMENES DE ALMACENAMIENTO
+Para el cálculo del volumen total de suelo vegetal a almacenar en la zona de acopio vegetal,
+se consideran las siguientes instalaciones y obras del proyecto:
+- Zonas de extracción Luna, Victoria Norte y Maite
+- Zona de disposición Neptuno
+- Área planta procesamiento
+- Zona acopio vegetal
+Se considerará que existe una capa de suelo vegetal de 30 cm en las zonas de extracción y una
+capa de 50 cm en la zona de disposición, planta de procesamiento y zona de acopio vegetal,
+lo anterior, según lo señalado por el equipo de Aclara. Considerando los espesores de capa
+señalados, se realizó la cubicación del volumen de suelo vegetal existente en cada zona a
+intervenir, obteniéndose los resultados presentados en la Tabla 1.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 3
+================================================================================
+PAGE 7
+================================================================================
+Tabla 1 Volúmenes a acopiar por zona
+Zonas a intervenir Volumen suelo vegetal (m3)
+ZE: Luna, Victoria Norte y Maite 192.000
+Zona disposición Neptuno 184.000
+Planta Procesamiento 66.000
+Zona acopio vegetal 19.000
+TOTAL 461.000
+Según los resultados, se requiere almacenar un volumen de 461.000 m3 en el depósito de
+acopio vegetal.
+5. CARACTERIZACION SUELOS
+5.1.CARATERIZACION SUELO VEGETAL
+Los parámetros geotécnicos asociados al suelo vegetal que conformará el depósito de la zona
+de acopio, se señalan en la Tabla 2, y fueron asignados en base a la información existente en
+los estudios previos de mecánica de suelos ejecutados por Pangea Geotecnia (Referencias
+N°1, N°2 y N°3), literatura y experiencia del autor de este estudio, además, se considera que
+el material de acopio deberá ser ligeramente compactado por el paso de camiones a medida
+que va siendo dispuesto.
+Tabla 2. Propiedades del suelo vegetal
+Angulo de fricción 29°
+Cohesión 3 kPa
+Resistencia no drenada – no consolidado 80 kPa
+Resistencia no drenada - consolidado 125 kPa
+Peso unitario 18 kN/m3
+5.2. CARATERIZACION SUELO DE FUNDACIÓN
+Con respecto a la caracterización del suelo de fundación de la zona de acopio vegetal, se
+considerará la información obtenida de las campañas de exploraciones geotécnicas previas
+ejecutadas por Pangea Geotecnia (Referencias N°1, N°2 y N°3), en especial, a los resultados
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 4
+================================================================================
+PAGE 8
+================================================================================
+obtenidos en la caracterización de la zona de disposición Neptuno, debido a que el acopio se
+encuentra cercano a dicha zona.
+En la Tabla 3, se presenta la estratigrafía representativa del suelo de fundación que se utilizará
+en el análisis de estabilidad del acopio vegetal.
+Tabla 3. Propiedades del suelo de fundación
+Estrato Espesor (m) Descripción del material
+Capa vegetal con raíces y raicillas de arcilla limosa
+1 0.00 – 0.50 color rojo. Humedad media. Consistencia media a baja.
+Arena limosa, de color café claro, con tonalidades
+2 0.50 – 2.00 amarillas, plasticidad baja y compacidad media,
+humedad media y estructura homogénea. Según el
+sistema USCS, este suelo clasifica como SM.
+2.00 - 10.00 Arena gruesa con finos de tipo limoso de origen
+3 granodiorítico, características de suelo residual,
+compacidad alta, humedad media baja, estructura
+heredadas de roca madre. Según el sistema USCS, este
+suelo clasifica como SM.
+4 10.00 – 20.00 Suelo residual cuya roca de origen se encuentra
+moderadamente meteorizada, de compacidad alta,
+humedad media a baja. Según el sistema USCS, este
+suelo clasifica como SM, GM, GW.
+5 ≥ 20.00 Basamento rocoso.
+Los parámetros geotécnicos asignados a cada estrato señalado anteriormente, se indican en la
+Tabla 4.
+Tabla 4. Propiedades del suelo de fundación
+Espesor (m) Angulo de Cohesión (kPa) Su (kPa) Peso unitario
+fricción (°) kN/m3
+0.00 – 0.50 - - - -
+0.50 - 2.00 32 20 150 17
+2.00 – 10.00 36 20 200 19
+10.00 – 20.00 38 45 260 20
+≥ 20.00 45 5000 - 22
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 5
+================================================================================
+PAGE 9
+================================================================================
+6. ESTABILIDAD GEOMECÁNICA
+La evaluación de estabilidad geomecánica se realizará utilizando métodos de equilibrio límite
+sobre secciones de análisis (2D), evaluando escenarios estáticos y pseudo estáticos. La sección
+longitudinal crítica a evaluar en el acopio vegetal, se representa mediante una línea roja en la
+Figura 2.
+Figura 2. Secciones de análisis
+Complementariamente, en la Figura 3, se observa la sección de análisis crítica que se modelará
+en la zona de acopio vegetal.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 6
+================================================================================
+PAGE 10
+================================================================================
+Figura 3. Zona de Acopio 1 – Sección análisis
+Como se puede observar de la sección de análisis mostrada, la altura máxima del depósito
+corresponde a la indicada en la Tabla 5.
+Tabla 5. Inclinación máxima global para zona de acopio vegetal.
+Altura máxima (m)
+Zona de acopio
+ZAV 1 36
+6.1. METODOLOGÍA
+En primer lugar, se deben definir los escenarios a ser evaluados para el análisis de estabilidad
+del acopio vegetal 1, los que se señalan en la Figura 6.
+Figura 4. Escenarios evaluados en análisis de estabilidad del depósito.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 7
+================================================================================
+PAGE 11
+================================================================================
+Conforme a las recomendaciones de la FHWA (Administración Federal de Carreteras, por sus
+siglas en inglés) los factores de seguridad recomendados para estabilidad de taludes son
+presentados en la Tabla 6.
+Tabla 6. Factores de seguridad recomendados según FHWA.
+Escenario de Análisis F.S.
+Estático ≥ 1.50
+Temporal 1.25 – 1.35
+Sísmico ≥ 1.10
+Para el análisis de estabilidad sísmico se incorporó la demanda estipulada por el estudio de
+peligro sísmico (Referencia N°4) para el escenario de diseño (periodo de retorno 475 años)
+considerada en la zona de disposición Neptuno, ésta corresponde a una aceleración de 0.685g.
+El coeficiente sísmico horizontal utilizado corresponde al recomendado por Saragoni (1993),
+siendo este:
+Por lo que, el coeficiente sísmico horizontal a utilizar corresponde a 0.194. Finalmente, el
+análisis de estabilidad, tanto estático como pseudo estático, es realizado utilizando el método
+de Bishop, mediante el software GGU-Stability®.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 8
+================================================================================
+PAGE 12
+================================================================================
+6.2. RESULTADOS
+En base a los parámetros de resistencia mencionados en el numeral 5.0 del presente informe,
+se evaluaron los escenarios indicados en la metodología, modificando la pendiente del
+depósito con el fin de cumplir con los factores de seguridad indicados en la Tabla 5.
+De esta manera, el análisis de la zona de acopio vegetal 1, considerando la geometría de este
+con elevación máxima de +220.45 (según topografía), define la inclinación máxima de diseño
+del depósito, señalada en la Tabla 7.
+Tabla 7. Inclinación máxima global para ZAV1.
+Altura máxima (m)
+Zona de acopio Inclinación máxima (°)
+ZAV 1 18° 36
+De acuerdo a lo anterior, los factores de seguridad estimados para cada escenario y condición
+son los presentados en la Tabla 8.
+Tabla 8. Factores de seguridad obtenidos en análisis de estabilidad.
+FS
+Zona Escenario Situación Condición FS Modelo
+Requerido
+Temporal No Drenada 1.25 1.31
+Estático Drenada 1.87
+Permanente 1.50
+ZAV1 No Drenada 2.05
+Drenada 1.11
+Sísmico Permanente 1.10
+No Drenada 1.11
+En las Figura 7 a la Figura 11, se muestra la salida del software para los casos de estudio.
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 9
+================================================================================
+PAGE 13
+================================================================================
+Figura 5. Zona Acopio Vegetal 1, condición Estática No Drenado (temporal) F.S. 1.31; pendiente
+18°
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 10
+================================================================================
+PAGE 14
+================================================================================
+Figura 6. Zona Acopio Vegetal 1, condición Estática Drenada F.S. 1.87; pendiente 18°
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 11
+================================================================================
+PAGE 15
+================================================================================
+Figura 7. Zona Acopio Vegetal 1, condición Estática No Drenada (permanente) F.S. 2.05; pendiente
+18°
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 12
+================================================================================
+PAGE 16
+================================================================================
+Figura 8. Zona Acopio Vegetal 1, condición Sísmica Drenada F.S. 1.11; pendiente 18°
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 13
+================================================================================
+PAGE 17
+================================================================================
+Figura 9. Zona Acopio Vegetal 1, condición Sísmica No Drenada F.S. 1.11; pendiente 18°
+En consecuencia, el depósito se diseñará con una inclinación máxima de 18° y la altura
+máxima señalada en la Tabla 9.
+Tabla 9. Inclinación máxima global para zona de acopio.
+Altura máxima (m)
+Zona de acopio Inclinación máxima (°)
+ZAV 1 18° 36
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 14
+================================================================================
+PAGE 18
+================================================================================
+Según lo informado por el equipo de Aclara, la capacidad de almacenamiento de la Zona de
+Acopio Vegetal 1 es la señalada en la Tabla 10.
+Tabla 10. Capacidad de Zona de Acopio (Equipo Aclara)
+Zona de acopio Capacidad (m3)
+ZAV 1 491.000
+De acuerdo a lo anterior y a los volúmenes de suelo vegetal a almacenar indicados en el
+numeral 4 del presente informe, se puede concluir que la zona de acopio vegetal 1 tiene la
+capacidad de almacenamiento para las cantidades de material demandadas.
+7. CONCLUSIONES
+Los resultados indican que considerando una inclinación de 18° del material en el acopio de
+suelo vegetal, estos son estables y cumplen con los criterios de aceptabilidad conforme a las
+recomendaciones de la FHWA (Administración Federal de Carreteras, por sus ingles en
+inglés). Finalmente, bajo el análisis actual, la condición sísmica (drenada y no drenada) es la
+que controla el diseño de la geometría del depósito de acopio vegetal.
+Rafael Martínez
+Gerente Técnico
+Máster en Mecánica de Suelos
+Imperial College London
+_________________________________________________________________________
+Estabilidad física – Zona de Acopio Vegetal 15

@@ -1,0 +1,1476 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3D-62
+Caracterización Antropológica
+EIA Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Región de Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Informe de Caracterización
+Antropológica
+Asociación Mapuche Koñintu Lafken-Mapu Penco
+Agrupación Cultural Mapuche Lawen Mawida
+EIA Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Región Biobío
+Mayo, 2024
+================================================================================
+PAGE 3
+================================================================================
+Índice
+1. Introducción ................................................................................................................................ 4
+2. Objetivos ..................................................................................................................................... 6
+3. Metodología y criterios éticos de la investigación social .......................................................... 7
+3.1. Levantamiento con fuentes secundarias .......................................................................... 7
+3.2. Levantamiento con fuentes primarias.............................................................................. 8
+3.2.2. Apuntes etnográficos ......................................................................................................... 10
+3.4. Definiciones conceptuales .............................................................................................. 12
+4. Resultados ................................................................................................................................. 14
+4.1 Antecedentes históricos, contexto, cultura, territorio .................................................. 14
+4.2. Tierras y territorios para el pueblo Mapuche ....................................................................... 15
+4.3. Presentación de las organizaciones mapuche en Penco................................................ 16
+4.4. Asociación Indígena Koñintu Lafken Mapu – Penco ............................................................ 17
+4.4.1. Uso y valorización de los recursos naturales ................................................................. 18
+4.4.1.1. Playa La Cata ................................................................................................................ 20
+4.4.1.2. Los menoko .................................................................................................................. 23
+4.4.1.3. El Pozón ........................................................................................................................ 25
+4.4.1.4. Pozo Jinolu ................................................................................................................... 27
+4.4.1.5. La Escuela ..................................................................................................................... 28
+4.4.1.6. Los Queules .................................................................................................................. 30
+4.4.2. Prácticas culturales ..................................................................................................... 33
+4.4.3. Estructura organizacional ................................................................................................... 38
+4.4.4. Apropiación del medio ambiente ...................................................................................... 38
+4.4.5. Patrimonio cultural indígena ...................................................................................... 39
+4.4.6. Identidad grupal a través de los elementos culturales ............................................. 40
+4.4.7. Sistema de valores y creencias ................................................................................... 40
+4.4.8. Ritos comunitarios ...................................................................................................... 41
+4.5. Agrupación Cultural Mapuche Lawen Mawida .............................................................. 42
+4.5.1. Uso y valorización de los recursos naturales ..................................................................... 43
+2
+================================================================================
+PAGE 4
+================================================================================
+4.5.2. Prácticas culturales ............................................................................................................. 45
+4.5.3. Estructura organizacional ................................................................................................... 46
+4.5.4. Apropiación del medio ambiente ...................................................................................... 47
+4.5.5. Patrimonio cultural indígena ...................................................................................... 48
+4.5.6. Identidad grupal a través de elementos culturales ................................................... 48
+4.5.7. Sistemas de valores y creencias ................................................................................. 48
+4.5.8. Ritos comunitarios.............................................................................................................. 49
+4.5.9. Símbolos de pertenencia grupal ................................................................................. 49
+5. Conclusiones ............................................................................................................................. 49
+6. Bibliografía ................................................................................................................................ 50
+7. Apéndice ................................................................................................................................... 52
+7.1 Pauta de Entrevista ......................................................................................................... 52
+7.2 Consentimiento Informado ............................................................................................. 53
+7.3. Anexo 3. Declaración simple de entrevista realizada a socia de Agrupación Cultural
+Mapuche Lawen Mawida ............................................................................................................. 54
+7.4. Anexo 4. Entrevista a Lawentuchefe .................................................................................... 55
+3
+================================================================================
+PAGE 5
+================================================================================
+1. Introducción
+En el marco de la tramitación ambiental del Proyecto de Desarrollo Minero de Extracción de Arcillas
+para Producción de Concentrado de Tierras Raras, se presenta a continuación la caracterización de
+las organizaciones: Asociación Indígena Koñintu Lafken Mapu – Penco y Agrupación Cultural
+Mapuche Lawen Mawida, ambas de carácter funcional urbanas de la comuna de Penco.
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de concentrado de
+Tierras Raras, ubicado en la región del Biobío, comuna de Penco y Concepción, se trata de una faena
+minera, junto con una planta de procesamiento de Material con marcada presencia de arcillas, en
+adelante llamada “arcillas por procesar”, el cual se caracteriza por tener presencia de Tierras Raras.
+Cabe destacar, que la planta tiene una capacidad para procesar hasta 320 toneladas/hora de
+material y producir aproximadamente 3.100 toneladas anuales de concentrado de Tierras Raras.
+El Proyecto considera desarrollar tres (3) zonas de extracción: ZE Luna, ZE Victoria Norte, ZE Maite.
+Además, considera una (1) zona de disposición para estériles y arcillas procesadas ZD Neptuno;
+también contempla una planta de procesamiento (la Planta), una (1) zonas de acopio de suelo
+vegetal (ZAV), línea de transmisión eléctrica y la construcción y mejoramiento de caminos para
+acceder a las distintas áreas. Además, se contempla la implementación de obras temporales
+correspondientes a instalaciones de faenas, para la construcción y habilitación de las obras del
+Proyecto.
+Por otra parte, a partir del año 2009 en la comuna de Penco se comenzó a visibilizar la presencia de
+organizaciones mapuche. Una de las primeras en solicitar y tramitar la personalidad jurídica en
+CONADI es la Asociación Indígena Koñintu Lafken Mapu – Penco y la otra es la Agrupación Cultural
+Mapuche Lawen Mawida que se formó en el año 2006, bajo la Ley N°19.418, que establece normas
+sobre Juntas de Vecinos y demás organizaciones comunitarias.
+Este informe caracterizará los sistemas de vida y costumbres de los GHPPI vinculadas a ambas
+asociaciones, dando cuenta de información recopilada mediante técnicas primarias de investigación
+social, aportando también información secundaria derivada de otros estudios ambientales en la
+zona. Los contenidos de esta caracterización se basan en lo dispuesto en el Artículo 18 letra e.10
+4
+================================================================================
+PAGE 6
+================================================================================
+del RSEIA, el que señala los criterios a considerar para la caracterización de grupos humanos
+pertenecientes a pueblos indígenas (GHPPI).
+• Uso y valorización de los recursos naturales;
+• Prácticas culturales;
+• Estructura organizacional;
+• Apropiación del medio ambiente (uso medicinal, preparación de alimentos, entre otros);
+• Patrimonio cultural indígena, incluyendo los lugares o sitios en que se llevan a cabo
+manifestaciones propias de su cultura o folklore;
+• Identidad grupal a través de los elementos culturales;
+• Sistema de valores;
+• Ritos comunitarios (significancia social del rito); y
+• Símbolos de pertenencia grupal.
+Las dimensiones señaladas anteriormente, serán complementadas con las directrices indicadas en
+la “Guía de Descripción de Área de Influencia de Sistemas de Vida y Costumbres de Grupos Humanos
+en el SEIA” (SEA, 2020).
+5
+================================================================================
+PAGE 7
+================================================================================
+2. Objetivos
+Objetivo General:
+El informe antropológico tiene como objetivo general caracterizar en profundidad los sistemas de
+vida y costumbres de las organizaciones Indígenas localizadas en el área de influencia del proyecto,
+conforme a lo estipulado en el Reglamento del Sistema de Impacto Evaluación Ambiental, en su
+artículo 18 literal e.10 del Decreto Supremo 40/2012 del Ministerio de Medio Ambiente y su
+normativa asociada.
+Objetivos Específicos:
+• Identificar y caracterizar las prácticas sociales de uso del territorio, además de la
+apropiación de recursos naturales.
+• Caracterizar los modos de apropiación del medio ambiente y las formas de producción
+asociadas con fines alimenticios, medicinales, religiosos, entre otros.
+• Describir las formas de organización de las organizaciones mapuche.
+• Identificar y describir el sistema de creencias, elementos culturales y patrimonio cultural
+indígena, tangible o intangible de ambas organizaciones.
+• Identificar y caracterizar las prácticas culturales de la comunidad, celebraciones, sitios de
+interés y símbolos de pertenencia grupal.
+6
+================================================================================
+PAGE 8
+================================================================================
+3. Metodología y criterios éticos de la investigación social
+El estudio realizado corresponde a una investigación de carácter cualitativo y de tipo descriptivo. El
+enfoque cualitativo se refiere al uso de fuentes primarias de información provenientes de trabajo
+de campo, donde se busca conocer los “significados subjetivos y el entendimiento del contexto
+donde ocurre el fenómeno” (Vega et al, 2014, p. 524).
+El método descriptivo, por su parte, es el procedimiento usado en las ciencias sociales para describir
+las características del fenómeno, sujeto o población a estudiar (Martínez, 2019). Este tipo de
+investigación no comprende el empleo de hipótesis ni predicciones, sino la búsqueda de las
+características del fenómeno estudiado que le interesan al investigador; en este caso, los contenidos
+señalados en el Artículo 18 letra e.10 del RSEIA. Las investigaciones descriptivas, a diferencia de otro
+tipo de investigaciones, realizan su estudio sin alterar o manipular ninguna de las variables del
+fenómeno, limitándose únicamente a la medición y descripción de estas (Cazau, 2006).
+La elaboración del presente informe considera fuentes primarias y secundarias de información. Con
+relación a las fuentes primarias, la principal información se obtuvo las campañas en terreno, a partir
+de las visitas con dirigentas, socias/os y lawentuchefe de la Asociación Indígena Koñintu Lafken
+Mapu – Penco y Agrupación Cultural Mapuche Lawen Mawida. Por otra parte, se empleó el método
+etnográfico, centrándose en identificar los espacios de significación cultural tanto en el perímetro
+urbano de Penco, como en la periferia rural de la comuna. De esta manera, se realizó observación
+no participante, apuntes etnográficos, fotografías de contexto y georreferenciación de sitios de
+interés.
+3.1. Levantamiento con fuentes secundarias
+De acuerdo con la guía de “Área de Influencia de los Sistemas de Vida y Costumbre de Grupos
+Humanos (SVCGH) en el SEIA (2020)”, fuentes secundarias están definidas como:
+“Información empírica que no ha sido generada de forma directa por el/la investigador/a
+sino que ha sido recogida de otros estudios sociales, y que informan el análisis a desarrollar.
+Típicamente refiere a antecedentes de tipo bibliográficos, bases de datos, documentales y
+7
+================================================================================
+PAGE 9
+================================================================================
+material audiovisual, por ejemplo, datos oficiales de censos o estudios públicos, entre otros”.
+(p. 76).
+En este sentido, la búsqueda bibliográfica se recopiló en base a fuentes documentales adecuadas al
+alcance territorial del estudio.
+Se utilizó información pertinente, como la publicación del libro “El habitar mapuche de Penco” (Vera
+y Fuentealba, 2021); un estudio histórico antropológico que da cuenta de la presencia mapuche en
+la comuna, considerando su devenir histórico y el reconocimiento e identificación de sitios de
+significación y/o resignificación cultural mapuche de las organizaciones. Complementario a ello, se
+consideró el informe antropológico presentado en el EIA Anexo 3D-28, del Proyecto Módulo Penco
+(2023). Esto permitió contar con un contexto actualizado del estado de la información de ambos
+GHPPI y sus actividades.
+3.2. Levantamiento con fuentes primarias
+Para este estudio, los instrumentos de recopilación de información utilizados durante las campañas
+en terreno son parte de la metodología cualitativa, las cuales constan de entrevistas
+semiestructuradas y observación no participante, tal como se manifiestan a continuación.
+3.2.1. Entrevista semiestructurada
+Consiste en desarrollar una conversación guiada por una pauta ordenada de temas relevantes a
+tratar, pero de respuesta abierta. Los diferentes tópicos se pueden abordar en la frecuencia,
+continuidad y profundidad que vaya permitiendo la conversación (Canales, 2006).
+Estas fueron realizadas durante las actividades en terreno, siendo aplicada principalmente al actor
+clave, como lo es la lawentuchefe o persona que realiza remedios a partir de plantas medicinales. La
+lawentuchefe es socia de la Asociación Indígena Koñintu Lafken Mapu – Penco, de sexo mujer. Por
+otra parte, se sostuvieron conversaciones con dos socias de la Agrupación Cultural Mapuche Lawen
+Mawida, de sexo mujer.
+8
+================================================================================
+PAGE 10
+================================================================================
+Las entrevistas permitieron caracterizar en cierta medida la condición estructural de las
+organizaciones mapuche, tanto sus actividades económicas, prácticas socioculturales, organización
+política, entre otras.
+3.1.2. Observación directa no participante
+Esta técnica de recopilación de información cualitativa consiste en ubicarse en un punto y situación
+distante o no intrusiva, respecto del sujeto o grupo donde se focaliza la atención, no generando
+ningún intercambio de información con directa con él. Es importante señalar al respecto, que la
+ventaja de este tipo de información es que se circunscribe en el paradigma de la objetividad
+defendido y mantenido por el positivismo y las Ciencias Naturales (Riba, 2013 p. 26-27)”.
+Para estos propósitos, se realizaron cinco visitas en terreno en la comuna de Penco entre noviembre
+de 2023 y enero de 2024: 1) 16 al 18 de noviembre de 2023; 2) 23 al 25 de noviembre de 2023; 3)
+30 de noviembre al 01 de diciembre de 2023; 4) 15 al 17 de diciembre de 2023 y; 5) 22 al 23 de
+enero de 2024. En estos días, se realizaron diversas visitas a las dirigentes de las organizaciones,
+además se realizó un exhaustivo recorrido por el área correspondiente a los sitios de significación
+cultural, sectores de recolección, estado de caminos, edificaciones, entre otros elementos del
+territorio; identificados de forma previa mediante análisis de datos secundarios y trabajo de
+gabinete.
+A continuación, se expondrán los métodos, técnicas y criterios empleados durante el trabajo en
+terreno.
+3.2 Método etnográfico
+El método etnográfico es aquel mediante el cual el investigador produce datos que constituyen la
+evidencia de un tipo particular de texto, la etnografía (Guber, 2001). Es la "instancia empírica", un
+ámbito de donde se obtiene información y los procedimientos para obtenerla. En este caso,
+considera la observación etnográfica pasiva. Esto implica que el/la investigador no se desempeña
+necesariamente en las actividades de la población, más bien concentra sus esfuerzos en la
+9
+================================================================================
+PAGE 11
+================================================================================
+observación en términos exteriores, desarrollando un registro detallado de lo que ve y escucha en
+base a los objetivos que convocan su estudio (Guber, 2001).
+No obstante, a lo anterior, la reflexividad como ejercicio de la práctica etnográfica es un factor
+crucial para desarrollar el método etnográfico. Todos los datos del trabajo de campo se construyen
+entre la relación del investigador y los sujetos de estudio. En este marco, surgen tres tipos de
+reflexividades que están en juego durante el trabajo de campo: 1) la reflexividad del investigador en
+tanto que miembro de una sociedad o cultura; 2) la reflexividad del investigador en tanto que
+investigador, con su perspectiva teórica, sus interlocutores académicos, sus habitus disciplinarios y
+su epistemocentrismo; y 3) las reflexividades de la población en estudio (Guber, 2001). En esta línea,
+desarrollar la observación etnográfica pasiva implica tener en cuenta los siguientes insumos para el
+estudio:
+3.2.1. Registro fotográfico y georreferenciación
+Como parte de la contextualización geográfica, se realizó un registro fotográfico de los principales
+sitios de significación de los integrantes de las organizaciones mapuche con el territorio, así como
+de los elementos de interés cultural identificados en el lugar. Este apoyo permite determinar y
+justificar los usos del territorio y su interacción con el Proyecto.
+Por otra parte, se registraron las coordenadas (UTM – Huso 18 – Datum WGS 84 Sur) de los
+principales espacios territoriales con acceso a recursos naturales utilizados por los GHPPI y
+elementos culturales identificados, dando así cumplimiento a lo dispuesto en la Res. Ext. 701/2016
+de la CONADI.
+3.2.2. Apuntes etnográficos
+En el contexto del registro de sitios y elementos de interés y/o significación cultural, la escritura se
+circunscribe en la tradición clásica de la antropología del diario de campo, el cual puede ser definido
+como:
+10
+================================================================================
+PAGE 12
+================================================================================
+“(…) un instrumento que permite sistematizar nuestras prácticas investigativas; además, nos
+permite mejorarlas, enriquecerlas y transformarlas (…) haciendo posible una nutrida
+relación teoría-práctica” (Martínez, L 2006. p. 77).
+Al respecto, es posible identificar variadas formas de estructuración o presentación del diario de
+campo. Esta tipificación se realiza de acuerdo con el contenido y organización de los registros. Así,
+se pueden representar como: cuadernos de campo; diarios personales; agenda personal; y cuaderno
+de reflexiones.
+Con relación al trabajo de campo desarrollado, en el marco de la caracterización antropológica, se
+emplea un cuaderno de campo para registrar in situ la información entregada por los integrantes de
+la organización, durante las visitas en terreno.
+3.3 Criterios éticos considerados en el trabajo de campo
+El trabajo de campo se desarrolló bajo los criterios de “Ética de Trabajo de Campo”, expuestos en la
+Guía “Área de influencia de los Sistemas de Vida y Costumbres de los Grupos Humanos en el SEIA
+(2020)” y en la “Guía para la Participación Ciudadana Temprana en Proyectos que se presentan al
+SEIA, 2023”. Los criterios que fueron considerados en la realización del presente estudio fueron:
+Criterio N°1: Deber de informar de manera clara y transparente a las personas contactadas, respecto
+de la investigación en curso en forma previa.
+Criterio N°2: Deber de gestionar el consentimiento informado de las personas contactadas que
+aporten datos relevantes para la DIA o EIA.
+En el Anexo 7.2. se adjunta el consentimiento informado.
+Criterio N° 3: En forma previa al empleo de mecanismos de registro tales como audio, fotografía o
+video, se debe solicitar el permiso de la persona contactada.
+Este criterio forma parte de lo indicado en el consentimiento informado.
+11
+================================================================================
+PAGE 13
+================================================================================
+Criterio N° 4: Necesidad de transparentar las consideraciones metodológicas que sustentan los
+resultados y conclusiones que se presentan en la DIA o EIA, según corresponda.
+Específicamente, la revisión bibliográfica permitió inicialmente identificar aspectos o supuestos
+relacionados con la caracterización de los grupos humanos indígenas, que fueron profundizados en
+las entrevistas, a partir de la triangulación de la información y así, obtener puntos de saturación.
+Criterio N° 5: Protección de la vida privada, todo reporte de investigación omitirá datos de carácter
+personal o sensible de las personas cuyos sistemas de vida y costumbres han sido estudiados.
+Este criterio fue considerado en el consentimiento informado.
+Criterio N° 6: Incorporación de una declaración jurada simple del/de la investigador/a responsable,
+dando fe del cumplimiento de los criterios éticos utilizados e información contenida en el EIA, DIA o
+Adenda, según corresponda.
+3.4. Definiciones conceptuales
+Con el objetivo de clarificar conceptos empleados por las/los integrantes de las organizaciones, se
+presentan definiciones utilizadas durante la narrativa en el cuerpo del documento. De esta manera,
+la caracterización de la Asociación Indígena Koñintu Lafken Mapu - Penco y Agrupación Cultural
+Mapuche Lawen Mawida, será descriptiva, analítica e interpretativa, considerando tanto la
+información obtenida del trabajo en terreno, a partir de las fuentes primarias y secundarias.
+Küni: Enramadas de árboles o arbustos en disposición hacia el este o salida del sol, agrupadas de
+manera circular en torno al rewe.
+Lawen: En algunos casos es interpretado como remedios en base a plantas medicinales y en otros
+casos, se refiere directamente a las plantas medicinales.
+Llellipun: Acción de espiritualidad individual, realizada generalmente al amanecer y antes del
+comienzo de cada actividad trascedente. Se realiza también de manera colectiva (ya sea familiar o
+comunitaria) y su propósito es pedir por el buen resultado de lo que se emprende (Marimán. 2006).
+12
+================================================================================
+PAGE 14
+================================================================================
+Machi: Autoridad socioespiritual mapuche. Principal poseedor o poseedora de los conocimientos
+tradicionales de la salud y medicina mapuche (Marimán. 2006).
+Menoko: Fuente de agua, asociada a la presencia de diversos seres materiales e inmateriales que lo
+habitan.
+Ngen: En la cosmovisión mapuche, corresponde al ser o la fuerza que habita, cuida y protege la todo
+ser viviente: plantas, ríos, bosques, personas, cerros, etc. (Marimán. 2006).
+Nguillatun: Ceremonia tradicional de agradecimiento del pueblo Mapuche.
+Nguillatuwe: Espacio abierto, de manera semicircular utilizado para realizar ceremonias como el
+Nguillatun.
+Purapurawe: Árbol o tronco descortezado de árbol nativo, plantado en el suelo. El tronco tallado
+solo, con el tallado en madera es conocido con este nombre.
+Rewe: Sitio ceremonial mapuche, que puede tener un tallado de madera con forma de escalera,
+acompañado de ramas de foye (canelo), maqui o wawan (laurel), según los territorios. Su nombre
+significa lugar puro (re: puro; we: lugar), el punto de conexión con lo sagrado. Es un espacio
+medicinal, espiritual y ceremonial.
+Txawun: Reuniones de carácter político, con el objetivo de tomar decisiones o llegar a acuerdos.
+Txayenko: Agua que corre, que puede ser alguna vertiente, cascada o chorrillo.
+We Txipantü o Wüñol Txipantü: El concepto en lengua mapuche txipantü, significa "salida de sol",
+que se entiende como el solsticio de invierno. Se celebra entre el 21 y 24 de junio de cada año.
+13
+================================================================================
+PAGE 15
+================================================================================
+4. Resultados
+En esta sección se presentarán los resultados obtenidos, de manera general a lo particular, iniciando
+con los antecedentes históricos del pueblo Mapuche, aproximaciones a definiciones de territorio y
+cultura, para adentrarse a la caracterización de las dimensiones, Uso y valorización de los recursos
+naturales; Prácticas culturales; Estructura organizacional; Apropiación del medio ambiente (uso
+medicinal, preparación de alimentos, entre otros); Patrimonio cultural indígena, incluyendo los
+lugares o sitios en que se llevan a cabo manifestaciones propias de su cultura o folklore; Identidad
+grupal a través de los elementos culturales; Sistema de valores; Ritos comunitarios (significancia
+social del rito); y Símbolos de pertenencia grupal, de la Asociación Indígena Koñintu Lafken Mapu -
+Penco y Agrupación Cultural Mapuche Lawen Mawida.
+4.1 Antecedentes históricos, contexto, cultura, territorio
+Para circunscribir la historia de los primeros mapuche al sur del Biobío, se incorporó la mirada de
+José Bengoa en su libro, “Historia de los antiguos mapuches del Sur” (2007), en la que el escritor
+esboza e ilustra acerca de los acontecimientos que dieron vida a los habitantes de la época, sus usos,
+costumbres, formas de vida y cultura.
+El pueblo Mapuche está estrechamente ligado a los sistemas lacustres y cursos fluviales que bajan
+desde los faldeos andinos para desembocar en la inmensidad del océano Pacífico: los ríos, de ser
+tradicionalmente concebidos como hitos fronterizos, pasan a ser reconocidos como vías de
+comunicación expeditas gracias al desarrollo de eficientes sistemas de navegación, como fue el caso
+de la piragua o wampo (bote hecho de un solo tronco, que servía tanto para el mar como para los
+ríos y lagos).
+Al revisar diversas bibliografías sobre la historia de Concepción, se visualiza que el origen del reino
+de Chile se identifica, en buena medida, con la larga lucha sostenida por el pueblo Mapuche contra
+la ocupación española, en torno a la llamada Frontera del Biobío. La presencia hispana, en efecto,
+tras algunas vicisitudes iniciales, se consolida en el Mapocho y la guerra se concentra en el sur. Lo
+anterior, explica el protagonismo historiográfico de esta región en los tiempos coloniales y, sobre
+todo, en la temprana Conquista. Los más aguerridos héroes mapuche y capitanes españoles vivieron
+14
+================================================================================
+PAGE 16
+================================================================================
+sus proezas o su martirio en la provincia penquista. Varios gobernadores llegaron directo a la guerra,
+sin pasar por Santiago, como García Hurtado de Mendoza, o están enterrados bajo las ruinas del
+antiguo Penco, como Francisco de Villagra o Alonso de Ribera.
+Los gobernadores, en los primeros tiempos, estaban obligados a residir seis meses en la capital
+militar del país, que fue Penco. La misma Real Audiencia, que reunía en sí la potestad ejecutiva,
+militar y judicial, fue establecida allí primero y por cortos años, durante los cuales fue la capital del
+reino (Montory 2014:103).
+En los dos siglos que siguieron a la ocupación y conquista, la provincia de Concepción que se
+extendía del Maule al sur y se sujetaba a la jurisdicción o términos del antiguo Penco, fue un
+territorio semiautónomo. Desarrolló una vocación productiva y una identidad colectiva propias,
+marcadas por la mezcla étnica, la actividad ganadera y la vocación militar de sus elites. Es la llamada
+sociedad fronteriza, que operaba en ese entonces.
+En la actualidad, la presencia mapuche en la región del Biobío se manifiesta a través de diversas
+expresiones socioculturales de las organizaciones, publicaciones y uso de espacios ceremoniales.
+4.2. Tierras y territorios para el pueblo Mapuche
+Existen diversas lecturas e interpretaciones sobre la noción de tierras y territorios para el pueblo
+Mapuche, que van desde la perspectiva jurídica, política, económica y cultural. Sin embargo, este
+informe destacará aquellas que relevan las miradas propias o nativas del pueblo Mapuche.
+Entre las lecturas que buscan comprender el sentido que las ideas de territorio y tierra adquieren
+como categorías nativas, se puede identificar a los antropólogos/a chilenos María Ester Grebe,
+Sergio Pacheco y José Segura. En “Cosmovisión mapuche” Grebe, Pacheco y Segura (1972), se
+acercan a las categorías nativas de territorios y tierras. Así, desde el punto de vista de estos autores,
+la noción de “tierra posee un carácter sagrado”, y el mapuche se ubica en su centro. De esta idea se
+desprende un concepto etnocéntrico del cosmos y de la posición del mapuche en él. Ellos son los
+hombres [sic] destinados por “los dioses a vivir en un territorio determinado” (1972:71). Identifican
+un “sistema coherente tradicional” de división de tierras, que es parte de una sabiduría antigua y
+15
+================================================================================
+PAGE 17
+================================================================================
+que Grebe, Pacheco y Segura describen como “El Kultrún mapuche: un microcosmo simbólico”
+(1973).
+Así, el kultxung resume los componentes cósmicos y terrestres, materiales e inmateriales,
+representando una síntesis dialéctica del universo; un límite topográfico que separa al mundo
+natural terrestre de las seis plataformas del mundo sobrenatural (Grebe, 1973). Particularmente,
+Grebe, Pacheco y Segura sentaron un gran precedente para las/los futuros intelectuales mapuche y
+no mapuche, ya que tomaron categorías nativas para analizar las espacialidades.
+En este marco, el concepto de tierras y territorios se relaciona con el proceso de construcción
+identitaria del grupo, donde ambos elementos se encuentran relacionados intrínsecamente y son
+percibidos y vividos desde una perspectiva holística por las organizaciones
+4.3. Presentación de las organizaciones mapuche en Penco
+En la comuna de Penco, a partir del año 2009 se comenzó a visibilizar la presencia de la organización
+mapuche. La Asociación Indígena Koñintu Lafken Mapu – Penco fue una de las primeras en solicitar
+y tramitar la personalidad jurídica en CONADI. No obstante, el desarrollo de prácticas culturales
+como los txawun y los encuentro de palin, comenzaron a desarrollarse desde antaño.
+Posteriormente, el año 2015 se crea la Agrupación Cultural Mapuche Lawen Mawida, con el objetivo
+de revitalizar la cultura mapuche, en un contexto urbano, a partir de un grupo de socias y socios que
+se escindieron de la Asociación Indígena Koñintu Lafken Mapu – Penco.
+Actualmente, las dos organizaciones se encuentran en funcionamiento en la comuna de Penco.
+Ambas son reconocidas y destacadas por su trayectoria en el ámbito cultural y particularmente de
+recolección de lawen, participando de actividades y eventos como ferias.
+A continuación, se presentan los resultados de las actividades a partir del levantamiento de
+información primaria y secundaria, realizada a las organizaciones mapuche en el área de influencia
+del Proyecto.
+16
+================================================================================
+PAGE 18
+================================================================================
+4.4. Asociación Indígena Koñintu Lafken Mapu – Penco
+Koñintu Lafken Mapu – Penco, corresponde a una Asociación indígena urbana cuyo domicilio se
+encuentra en la comuna de Penco, 12 km al norte de la ciudad de Concepción, en la Región del
+Biobío.
+Se encuentra legalmente constituida y tiene su personalidad jurídica vigente, inscrita con el N°184
+en el Registro de Comunidades y Asociaciones Indígenas de CONADI Región del Biobío, en Cañete.
+En su historia, se constituye formalmente el 01 de diciembre del año 2009 al amparo de la Ley
+Nº19.253 (Ley Indígena). La Asociación está conformada por 57 mujeres y 15 hombres, que son
+socios/as. Esto significa que el 79,2% del total de las/los socios, son mujeres. La composición del
+rango etario oscila entre los 78 y 31 años de edad, con un rango promedio de edad de 55 años.
+Según el informe de caracterización antropológica para el EIA del Proyecto “Modulo Penco” (2023),
+señala respecto de los objetivos de esta Asociación y el uso de recursos naturales, lo siguiente:
+“(…) la Asociación multiétnica perteneciente al sector urbano de Penco denominada Koñintu
+Lafken – Mapu. Constituida en 2009, esta asociación cuenta actualmente con más de 75
+miembros y no poseen espacio territorial. Muchos de sus integrantes son inmigrantes de la
+zona sur del país que se han asentado en la comuna de Penco. Los objetivos que se ha
+planteado la organización son la recuperación y revalorización de la cultura indígena. Para
+ello realizan múltiples actividades que tienen que ver con la cultura material e inmaterial,
+tales como talleres de lengua Mapuche, cultivos, telares, cerámica y salud tradicional. Con
+esta misma orientación, Koñintu Lafken – Mapu se ha propuesto el rescate de ceremonias
+tradicionales como el wetripantu, nguillatun y llellipun” (p.17).
+Las prácticas culturales son realizadas principalmente por las mujeres de la organización, oriundas
+de Arauco, Puerto Saavedra y Temuco1, que migraron a la ciudad y en ese espacio, han buscado
+recrear y revitalizar la práctica de recolección de plantas medicinales o lawen. En este proceso, se
+1 Informe de caracterización antropológica para el EIA del Proyecto “Módulo Penco” (2023). Disponible en la
+plataforma virtual del SEA, ítem “Buscar y revisar proyectos” https://www.sea.gob.cl/
+17
+================================================================================
+PAGE 19
+================================================================================
+ha construido una identidad en torno a la recolección de plantas medicinales, lo que ha implicado
+un relacionamiento con las ofertas institucionales, principalmente el Programa Especial de Salud y
+Pueblos Indígenas (en adelante, PESPI). Desde entonces ha existido un vínculo con este programa,
+a través de la participación de esta Asociación en la Mesa de Trabajo Provincial Küme Mongen,
+dependiente del Servicio de Salud Talcahuano. Durante la pandemia, la Mesa cesó parte de sus
+actividades, sin embargo, actualmente, esta instancia se está reactivando.
+El trabajo interinstitucional de la Koñintu Lafken Mapu – Penco está signado por el vínculo PESPI y
+municipalidad, que buscan colaborar en las acciones de revitalización cultural mapuche, realizado
+por la Asociación. En esa línea, la identidad colectiva está marcado por la condición de urbano y por
+el esfuerzo que desarrollan por preservar y proyectar su cultura en torno a los elementos de su
+cosmovisión, así como por poseer un discurso resignificado que plantea otras maneras de
+relacionarse con su medio natural y social. Las expresiones identitarias radican sobre la recreación
+de rituales propios mapuche lavkenche, como el Wüñol Txipantü, el nguilllatun, palin, txawün, así
+como otras acciones en la línea del rescate y práctica cultural mapuche como la realización de
+talleres de uso de hierbas medicinales y elaboración de cestería mapuche en espacios públicos como
+establecimientos educacionales y organizaciones vecinales.
+4.4.1. Uso y valorización de los recursos naturales
+En cuanto a los principales recursos naturales valorados por las socias y socios de la Asociación, no
+reconocen un sector específico o elemento puntual, sino que se reconoce a todo el entorno natural
+de la comuna de Penco. Esto incluye el territorio marítimo, borde costero y la montaña, incluidos
+los cerros. En estos espacios identifican sitios de carácter sagrado relacionados con las prácticas
+rituales y culturales de alta significación para el grupo. (Fuentealba, P., Vera, K. CONADI. 2020), en
+concordancia con la perspectiva de la tierra, con carácter sagrado para el pueblo Mapuche.
+Se señala que el mismo nombre de la Asociación, da cuenta de esta visión integral del territorio
+mapuche: Koñintu Lafken Mapu – Penco en su traducción literal al castellano, significa “hijo/a del
+mar y la tierra en o de Penco”.
+18
+================================================================================
+PAGE 20
+================================================================================
+4.4.2 Sitios de significancia cultural
+Los miembros de la Asociación tienen como espacios de significación cultural los cursos de agua
+presentes junto a la ciudad, especialmente en el mar. Dado aquello, es que celebran el We Txipantü
+o Wüñol Txipantü en la playa. El otro espacio significativo está constituido por cerros y quebradas
+en torno a la cuenca del estero Penco, que utilizan para la recolección de hierbas medicinales
+utilizadas para la medicina tradicional mapuche.
+En el borde costero, destacan Playa La Cata, el nguillatuwe y los menoko. En la zona montañosa
+destacan los sitios de recolección El Pozón, Pozo Jinolu, La Escuela y Los Queules, circundantes al
+antiguo trazado del camino forestal. En estos sectores de bosques y áreas actualmente forestales,
+se realiza recolección de hierbas medicinales y materia primas como el boqui (Cissus striata), para
+la elaboración de cestería mapuche.
+A continuación, la siguiente Tabla 1 presenta una síntesis de las principales características de los
+sitios, las actividades desarrolladas en cada uno de ellos y su relación con el Proyecto.
+Tabla 1: Ubicación de los sitios, actividades y relación con el Proyecto
+Emplazamiento Nombre Nombre Actividades Coordenadas UTM (WGS Distancia Relación
+sector sitio realizadas 84 S) Proyecto con el
+Este Norte Proyecto
+Borde Costero Playa La Nguillatu Nguillatun y otras 681.045 5.936.883 6.841 mts ZE
+Cata we ceremonias de Victoria
+características Norte2
+espirituales
+Borde Costero Playa La Menoko 1 Recolección de 680.884 5.936.436 6.660 mts ZE
+Cata hierbas Victoria
+medicinales Norte
+Borde Costero Playa La Menoko 2 Recolección de 680.949 5.936.500 6.344 mts ZE
+Cata hierbas Victoria
+medicinales Norte
+Recolección de
+Borde Costero Playa La Menoko 3 hierbas 681.057 5936747 6.271 mts ZE
+Cata medicinales Victoria
+Norte
+Montaña y cerros Estero El Pozón 680.705 5.931.422 529 mts ZE
+Penco Victoria
+2 Se refiere a la zona de extracción del proyecto
+19
+================================================================================
+PAGE 21
+================================================================================
+Emplazamiento Nombre Nombre Actividades Coordenadas UTM (WGS Distancia Relación
+sector sitio realizadas 84 S) Proyecto con el
+Este Norte Proyecto
+Norte
+Montaña y cerros Estero Pozo Recolección de 680.815 5.931.351 396 mts ZE
+Penco Jinolu hierbas Victoria
+medicinales Norte
+Montaña y cerros Estero La Escuela Recolección de 681.103 5.931.461 120 mts ZE
+Penco hierbas Victoria
+medicinales Norte
+Montaña y cerros Estero Los Recolección de 681.464 5.931.667 286 mts ZE
+Penco Queules hierbas Victoria
+medicinales Norte
+Fuente: Elaboración propia, Likankabur. 2024
+4.4.1.1. Playa La Cata
+La Figura N°1 muestra los sitios de significación georreferenciados en el sector Playa La Cata, ubicada
+al borde costero de la zona norte de Penco, en el contexto comunal.
+20
+================================================================================
+PAGE 22
+================================================================================
+Figura N°1. Emplazamiento espacial de los menoko y el nguillatuwe en Playa La Cata.
+Fuente: Likankabur. 2024.
+El sector La Cata, ubicada a un costado de la playa del mismo nombre en Lirquén, es uno de los sitios
+de significación cultural, que goza de un alto valor cultural y espiritual para la Asociación Koñintu
+Lafken Mapu – Penco.
+Se accede por un sendero, aledaño al borde costero de la playa. A 460 metros desde el ingreso a
+Playa La Cata (681.045 E, 5.936.899 N y 8 metros SNM), se ubica el rewe, que se trata de un
+purapurawe tallado en madera de guayacán (Tabebuia chrysotricha), posicionado frente al mar,
+ubicado a 681.049 E, 5.936.881 N a 7 metros SNM. Cobra el significado de este rewe, dado que se
+encuentra rodeado de vegetación nativa y exótica, además de plantas medicinales, utilizadas por
+las autoridades ancestrales o machi, en nguillatun o ceremonias de carácter espiritual.
+21
+================================================================================
+PAGE 23
+================================================================================
+En la Ilustración N°1 de la izquierda, muestra la señalización que identifica al sitio ceremonial
+nguillatuwe. En la ilustración de la derecha, se aprecia el rewe mirando hacia el mar.
+Ilustración 1. Sitio de significación Cultural Playa La Cata
+Fuente: Likankabur 2024
+Este sitio comenzó a ser utilizado desde el momento que se inició la plantación del rewe, el año
+2014, en el marco del desarrollo del Proyecto “GNL Penco – Lirquén”. Desde entonces, todos los
+años es utilizado para celebrar la llegada del solsticio de invierno, We Txipantü o Wüñol Txipantü,
+que sucede entre el 21 y 24 de junio de cada año. Por otra parte, las socias señalan que acceden al
+sitio durante todo el año, de manera recreacional.
+En la ilustración de la izquierda, se visualiza el rewe en dirección al oeste. El círculo del rewe se
+encuentra demarcado por piedras de cuarzo blanco. A mano izquierda aparece un círculo más
+pequeño de cuarzo blanco, destinado para las ofrendas de agradecimiento durante el llellipun.
+También se encuentra acompañado de una planta de hinojo (Foeniculum vulgare), un árbol de
+níspero (Eriobotrya japonicauna) y una planta de suculenta. La ilustración de la derecha,
+corresponde al símil de los küni o ramadas, que son los lugares destinados para compartir los
+alimentos, durante las ceremonias tradicionales mapuche.
+22
+================================================================================
+PAGE 24
+================================================================================
+Ilustración 2. Rewe y sitio de ceremonia ancestral en Playa La Cata
+Fuente: Likankabur. 2024
+4.4.1.2. Los menoko
+Desde el mirador de la Playa La Cata, a unos 20 minutos de caminata se puede llegar al primer
+menoko, el cual posee un puente de madera, para su acceso. Posteriormente, a menos de 500
+metros de distancia se puede acceder al Menoko 1, Menoko 2 y Menoko 3.
+23
+================================================================================
+PAGE 25
+================================================================================
+Ilustración 3. Sitios de significación cultural Playa La Cata
+Fuente: Likankabur. 2024.
+En la Ilustración N°3 de la izquierda, se aprecia el acceso peatonal circundante al sendero para llegar
+al menoko 1. A la derecha se visualiza la señalética del Menoko 2 o siguiente al 1, que da cuenta de
+la relevancia del sitio, desde la cosmovisión para el pueblo Mapuche, incorporando el uso de la
+lengua para denominar el sitio.
+Para el pueblo Mapuche en la ciudad, los sitios de significación cultural representan la cosmovisión
+de la cultura. Desde esa perspectiva, el menoko es un lugar donde emerge la vida o el mongen. En
+la cosmovisión mapuche, estos lugares son habitados y resguardados por un ngen o cuidador. La
+naturaleza siempre está resguardada por estos seres, que habitan y hacen uso del lugar. El pueblo
+Mapuche tiene especial respeto y cuidado con estos lugares. Al ingresar, siempre se pide permiso
+al ngen, a través de alguna rogativa u oración. Los menoko constituyen un lugar donde existe una
+amplia diversidad de flora y fauna.
+En el mismo trayecto donde se ubican los menoko, se puede apreciar la abundancia de chilko
+(Fuchsia magellanica), limpiaplata (Equisetum bogotense), dientes de león (Taraxacum officinale),
+llantén (Llantén mayor), aromos (Acacia dealbata), hinojo (Foeniculum vulgare), entre otras
+especies. La misma presencia de señalética durante todo el trayecto, da cuenta de los modos de
+apropiación del espacio en términos materiales y simbólicos, mediante un proceso de
+reconocimiento y de clasificación de la naturaleza y del paisaje, en la ciudad.
+24
+================================================================================
+PAGE 26
+================================================================================
+4.4.1.3. El Pozón
+El inicio de la ruta y también acceso, se encuentra ubicado a 12 kilómetros de la ciudad de
+Concepción, por la Ruta 150. Posteriormente, se debe llegar al Servicio de Atención Primaria de
+Urgencia de Alta Resolutividad (SAR) de Penco y pasar debajo del Baipás, para adentrarse en el valle,
+después del Club de Huasos Penco Lirquén, a unos 460 metros de distancia.
+A medida que se avanza desde el SAR (679.507 E, 5.931.728 N y 6 metros SNM), se encuentra el
+primer valle. Al lado derecho se aprecian las plantaciones forestales de pino radiata, propiedad de
+Forestal Arauco. Hacia la izquierda, se visualiza el Estero de Penco. La principal característica es el
+suelo arcilloso, color rojizo mezclado con arena.
+El Pozón se ubica al interior del Fundo Coihueco a 870 metros del SAR, lugar colindante al límite
+urbano de la ciudad de Penco. Se encuentra abierto a la población local para realizar actividades
+recreativas y lúdicas, como paseos, caminatas por el sendero central, recolección de plantas y frutos
+silvestres, además de las visitas al Estero Penco.
+La próxima Figura N°2 detalla la ubicación georreferenciada de los sitios de recolección, así como el
+área de las actividades realizadas por los integrantes de la Asociación en los sectores El Pozón, Pozo
+Jinolu, La Escuela y Los Queules.
+25
+================================================================================
+PAGE 27
+================================================================================
+Figura N°2. Emplazamiento de los sitios de recolección
+Fuente: Likankabur 2024
+Este sitio se caracteriza por contar con un acceso directo a un pozón, en el Estero Penco. Al
+descender al lugar, se aprecia la presencia de dos tipos de helecho: costilla de vaca (Blechnum
+cordatum) y helecho ampe (Lophosoria quadripinnata), utilizado en las ceremonias tradicionales de
+la Asociación3 y por las familias de la misma organización. Además, se visualiza la presencia de otras
+especies utilizadas en la recolección, como chilco (Fuchsia magellanica), culén (Psoralea
+glandulosa), maqui (Aristotelia chilensis), entre otras.
+3 El uso del helecho costilla de vaca fue utilizado por la machi Herminda Nahuelpi de Los Ángeles, para la
+plantación del rewe en 2014. La lawentuchefe Carmen Sáez Liencura señala que fue utilizado para limpiar el
+espacios y a las/los participantes del nguillatun, dada la situación compleja que estaba viviendo la Asociación
+Koñintu Lafken Mapu – Penco, en el marco del desarrollo del Proyecto “GNL Penco – Lirquén”.
+26
+================================================================================
+PAGE 28
+================================================================================
+En la Ilustración N°4 se aprecia la señalética a la entrada del sitio, que está instalada en un árbol de
+boldo (Peumus boldus).
+Ilustración N°4. Pozo Jinolu Fundo Coihueco
+Fuente: Likankabur.2023.
+4.4.1.4. Pozo Jinolu
+Este sitio es de data reciente, circunscribiendo su existencia de forma evidente a enero de 2024. Se
+caracteriza por estar señalizado, al igual que El Pozón, La Escuela y Los Queules. La señalética se
+encuentra instalada sobre un pino y cuenta con un sendero de acceso al Estero Penco. En el lugar
+del estero, se observa un tranque realizado de manera artesanal, con troncos y maderas del mismo
+lugar.
+En la Ilustración N°5 se aprecia el sitio en su contexto, con las señaléticas instaladas en el pino. En
+la ilustración derecha, se visualiza un acercamiento de las imágenes.
+27
+================================================================================
+PAGE 29
+================================================================================
+Ilustración N°5. Nuevos accesos en estero Penco en Fundo Coihueco
+Fuente: Likankabur 2024
+4.4.1.5. La Escuela
+A 2,60 kilómetros aproximadamente desde el SAR de Penco, se encuentra ubicado el tercer sitio de
+recolección de plantas medicinales o lawen, conocido como Sitio el sector La Escuela, ubicado en
+Fundo Coihueco.
+Este lugar se caracteriza por su gran diversidad de especies, algunas endémicas como arrayan (Luma
+Apiculata) que está a orilla del estero de Penco. Al igual que El Pozón, se observan dos tipos de
+helechos: costilla de vaca (Blechnum cordatum) y helecho ampe (Lophosoria quadripinnata),
+utilizado para las ceremonias tradicionales y para preparar medicina (cataplasmas), por las familias
+de la asociación. Con relación a las especies nativas, se visualiza boldo (Peumus boldus), peumo
+(Cryptocarya alba), Quila (Chusquea quila) y especies foráneas como el matico (Buddleja globosa),
+aromo (Acacia farnesiana), espino (Crataegus monogyna) y Guayacán o Palo Santo (Tabebuia
+chrysotricha). Este último, es recolectado frecuentemente por la lawentuchefe, para la preparación
+de medicina tradicional mapuche.
+28
+================================================================================
+PAGE 30
+================================================================================
+El sitio es conocido como La Escuela, dado que antiguamente existía un establecimiento educacional
+en el lugar, donde asistían los hijos e hijas de los agricultores del lugar.
+En la Ilustración N°6 se aprecia el sitio La Escuela, cuya área se caracteriza por estar hecho con
+piedras, a un costado del sitio. La ilustración a la derecha, se visualiza un árbol de peumo
+(Cryptocarya alba), en proceso de crecimiento. Se caracteriza a distancia la presencia del peumo,
+debido a su olor.
+Ilustración N°3.- Sitio La Escuela, de alto valor cultural en Fundo Coihueco
+Fuente propia: Likankabur 2024.
+Cabe destacar que el lugar, se aprecia un espacio abierto que está demarcado por señaléticas que
+hacen el llamado a las/los visitantes a cuidar de él. De esta forma, se visualiza una sinergia entre los
+discursos de la población local con el de las organizaciones mapuche de la comuna: el llamado a
+cuidar de la naturaleza, en tanto que la persona es parte de ella.
+Este sitio fue visitado en tres oportunidades entre noviembre de 2023 y enero de 2024: el 25 de
+noviembre, el 15 de diciembre de 2023 y 23 de enero de 2024. En las tres visitas, se evidenciaron
+29
+================================================================================
+PAGE 31
+================================================================================
+cambios e intervenciones en el lugar, sobre la señalética y la misma limpieza, roza de maleza para
+abrir el acceso. Ello indica que se trata de un lugar con alta afluencia de público de la comuna.
+En la ilustración N°7, se visualizan especies nativas al interior del sitio. En la ilustración de la derecha,
+se aprecian dos arrayanes ubicados de manera contigua al sitio La Escuela.
+Ilustración N°4. Vegetación sitio La Escuela. Fundo Coihueco.
+Fuente: Likankabur. 2023.
+4.4.1.6. Los Queules
+El cuarto sitio identificado, es conocido como Sector Los Queules. Se encuentra ubicado a 3,73
+kilómetros desde el ingreso por el SAR de Penco y a más de una hora de camino, desde el
+mencionado punto. Su acceso se encuentra a un costado del camino forestal adyacente al Estero
+Penco. Se puede caracterizar como un sector de alto valor de conservación con presencia de
+especies nativas, el que se encuentra circundado por plantaciones forestales de pino. Este sector es
+uno de los espacios en que la Asociación realiza actividades culturales como la recolección de
+30
+================================================================================
+PAGE 32
+================================================================================
+hierbas medicinales, recolección de materias primas como el boqui (Cissus striata), para la
+elaboración de cestería tradicional mapuche y ceremonias como llellipun y txawün.
+En la Figura N°3 se aprecia en contexto, el emplazamiento de cada sitio y la distancia visual con la
+Zona de Extracción Victoria Norte del Proyecto.
+Figura N°3. Ubicación espacial de cada sitio de recolección en el Estero Penco
+Fuente: Likankabur 2024.
+Este sitio es el más lejano, desde el ingreso inicial. Se encuentra rodeado de rocas medianas y al
+visitarlo, se aprecia la humedad propia del lugar, que, en el marco de la cosmovisión mapuche, se
+suele interpretar como los espacios habitados por los ngen. Los cursos de agua, como los ríos,
+esteros y particularmente las vertientes, tienen un significado especial, en tanto espacio habitado y
+usado por los ngen.
+31
+================================================================================
+PAGE 33
+================================================================================
+A su vez, relatos de las organizaciones indígenas presentes en la zona, dan cuenta del alto valor y
+los significados que le asignan a este lugar, dado que también hay un txayenko (cascada o vertiente),
+además de encontrarse el bosque de queules. Como indica el relato “(..) Con el tiempo nosotros
+hemos ido reconociendo ese l’ewfü que antes pa’ nosotros era más cotidiano visitarlo porque había
+gente viviendo ahí, había animales, se sembraba, había vida, ahora están las forestales” (Anónimo,
+agosto de 2020, en Fuentealba y Vera Op. cit).
+En la Ilustración N°8 de la derecha, se aprecia el curso de agua del Estero Penco, notándose la
+humedad en el lugar. En la ilustración de la izquierda, se visualizan el tamaño de las rocas existentes
+en el lugar.
+Ilustración N°8. Sitio de alto valor cultural. Sector Los Queules en Fundo Coihueco
+Fuente: Likankabur, 2023.
+La relevancia de este sitio de recolección de lawen a diferencia de los anteriores, radica en que
+también las/los integrantes de las organizaciones suelen recolectar el fruto del queule (Gomortega
+keule). Por ello, este lugar que es más distante desde el punto de acceso del SAR de Penco, tiene un
+significado distinto al de los otros sitios.
+En el caso de los tres sitios de recolección de lawen, en torno al Estero Penco, una socia de la
+Agrupación Cultural Mapuche Lawen Mawida indica que:
+“(…) hemos recolectado lawen en Coihueco, hemos ido hacia el mar. Hemos recopilado en
+Coihueco, maqui, nativos, boldo, hemos recuperado el colihue, hemos recopilado varias
+cosas (…) Lo hacíamos cuando teníamos reunión, tomábamos agüita de hierba, porque igual
+32
+================================================================================
+PAGE 34
+================================================================================
+nosotros hemos recolectado canelo, tengo mático en mi casa, hemos recolectado varias
+plantas” (entrevista, 2023).
+Sobre los usos del Fundo Coihueco, señala que: “(…) Allí respiramos aire puro, estamos
+constantemente recolectando remedios que nos faltan, nos recreamos un rato, en el grupo, con
+todos. De repente salimos de paseo y vamos, no sólo para ceremonias, vamos caminando, del SAR
+hacia atrás…” (entrevista, 2023).
+En esta misma línea y con relación a los sitios del Pozón, La Escuela y Los Queules, la lawentuchefe
+Carmen Sáez Liencura señala: “(…) Yo iba a recolectar plantas a estos sitios, pero por la enfermedad
+de mi esposo ahora no he ido. Este año he dejado de hacerlo, pero otros lamuen me lo traen, los
+que me conocen me los traen. Unas lamuen antiguas, la Silvia, u otros me lo traen (..) (2024).
+4.4.2. Prácticas culturales
+De acuerdo con la información levantada en las entrevistas, las prácticas culturales de las familias e
+integrantes de la Asociación se centran en la realización de charlas y talleres sobre conocimiento
+mapuche y prácticas ancestrales de la cultura, realizadas en instituciones y establecimientos
+educacionales dentro y fuera de la comuna. Los temas de las charlas y talleres tienen que ver con la
+revitalización de la cosmovisión, elaboración de artesanías, uso y manejo de hierbas medicinales.
+Para ello, organizan los temas en torno al emplazamiento de los sitios del Estero Penco, que están
+relacionados con la recolección de plantas medicinales principalmente y; por otra parte, en el sector
+Playa La Cata se realizan txawün y txafkintu.
+En cuanto a la recolección de hierbas medicinales o lawen, esta se realiza como una práctica que se
+desarrolla particularmente en su uso cultural, espiritual, medicinal, gastronómico y económico. El
+uso cultural dice relación con la implementación de talleres de formación en estos conocimientos
+para los miembros de su organización y externos a ella. En relación con su uso espiritual, en la
+realización de los preparativos para algún ritual como nguillatun, We Txipantü o Wüñol Txipantü y
+estas son solicitadas por alguna autoridad como la machi o lawentuchefe. En su aspecto medicinal,
+la recolección de recursos naturales es utilizada para el tratamiento de infusiones, remedios,
+cataplasmas y cremas que se preparan y consumen entre sus integrantes. En la dimensión
+33
+================================================================================
+PAGE 35
+================================================================================
+gastronómica, se emplean los recursos naturales en la elaboración de comidas, tanto para la
+asociación o el grupo familiar. En el ámbito económico, los productos elaborados por las socias y la
+lawentuchefe son comercializados en distintas ferias y espacios institucionales.
+Estas prácticas y usos representan un sistema de conocimientos que se revitaliza de manera
+permanente, por quienes lo realizan. De esta forma, existe un traspaso de conocimientos y prácticas
+tradicionales mapuche de manera intergeneracional hasta el día de hoy.
+En la Ilustración N°9 de la izquierda, se observa a la distancia un grupo de personas retornando de
+la jornada de recolección en el Fundo Coihueco, por el camino de acceso del SAR a unos 800 metros
+de distancia de este punto. En la ilustración de la derecha, se visualizan las quilas (Chusquea quila)
+que se encuentran de manera adyacente al camino Forestal, adyacente al sitio Los Queules.
+Ilustración N°5. Grupo de personas retornan de jornada de recolección de Quilas en acceso Fundo
+Coihueco
+Fuente: Likankabur 2024.
+En el caso de la quila ( Chusquea quila), posee un valor simbólico relevante para la cultura mapuche,
+dado que cuando florece, se asocia a señales de eventos socio naturales o catástrofes a suceder en
+un devenir a futuro, según el relato de la lawentuchefe de la Asociación.
+El proceso de recolección de plantas medicinales o lawen es realizado durante todo el año: en
+primavera, otoño, invierno y verano, sujeto a las condiciones climáticas. En el trabajo de campo, las
+personas de la agrupación señalaron que las actividades son realizadas principalmente por familias,
+34
+================================================================================
+PAGE 36
+================================================================================
+en tanto personas adultas y adultas mayores, que son las que mantienen los conocimientos sobre
+este tipo de práctica. También es un proceso realizado por la autoridad tradicional, como lo es la
+figura lawentuchefe: “Nosotras íbamos casi 1 o 2 veces al mes, pero luego con el programa PESPI,
+CONAF nos entregaba plantas en Concepción, en la localidad de Nonguén” (Carmen Sáez Liencura,
+2024).
+La recolección es realizada en jornada diurna por un grupo de personas organizadas para realizar la
+actividad. Se trasladan caminando por el camino forestal adyacente al estero Penco, a partir de las
+07.00 am, dado que el lawen debe ser recolectado con el rocío de la mañana. La planta no se puede
+recolectar sin rocío, ya que pierde sus propiedades curativas y su newen (fuerza).
+Durante el recorrido, es posible reconocer e identificar la especie requerida, la cual es seleccionada
+para la extracción. Antes de sacar las plantas, se pide permiso al ngen del lugar y después, se solicita
+autorización al ngen de la planta.
+“Yo cuando voy a un lugar, ya sea una reserva, no puedo ingresar sin permiso. Primero pido
+respeto al ngen de ahí, si quiero sacar una planta, pido permiso y le digo para que la quiero.
+Yo le pido al ngen, a la entrada, además pido por todo los ngen que estén ahí, pido que me
+den permiso, que me faciliten. A cada plantita que quiero sacar. Ellas tienen su propio ngen”
+(Lawentuchefe Carmen Sáez Liencura, 2024).
+Es importante destacar que tanto los socios de la agrupación y la lawentuchefe, indican en sus
+relatos que la práctica de recolección de recursos naturales ha sido mantenida por generaciones,
+aunque circunscrita a la cultura familiar-doméstica en el espacio privado. Desde la creación de la
+Asociación y su visibilización en el espacio urbano, desde el año 2009 este conocimiento ha sido
+difundido al ámbito público. En este marco, uno de los primeros proyectos desarrollados en torno
+a la recolección, datan del año 2013, presentado a la Unidad de Cultura y Educación de CONADI
+Región del Biobío. Posteriormente, el estudio de la CONADI “El habitar mapuche en Penco” (2020)
+de la antropóloga sociocultural Paula Fuentealba y el historiador Kevin Vera, así como también el
+“Estudio histórico antropológico de proyecto 'sitios de significación y/o resignificación cultural
+mapuche en la Región del Bíobío”, de los mismos autores, dan cuenta de la importancia de la
+práctica de recolección para la Asociación y sus familias. Esta situación manifiesta un sentimiento
+35
+================================================================================
+PAGE 37
+================================================================================
+de revalorización y reconocimiento de la cultura mapuche y sus prácticas tradicionales, en un
+contexto del proceso de revitalización cultural que han experimentado los últimos años en la ciudad.
+En consideración a lo anterior, se pueden identificar, en la siguiente Tabla N°2 las principales hierbas
+o plantas medicinales posibles de encontrar en el territorio antes descrito (sitios El Pozón, Pozo
+Jinolu, La Escuela y Los Queules) y su principal uso medicinal y gastronómico.
+Tabla N°2. Plantas recolectadas por las integrantes de Asociación Koñintu Lafken Mapu y su uso medicinal
+Nombre Principal uso medicinal
+Uso en infusión, para tratamiento de limpieza del hígado
+Palo Negro (Leptocarpha rivularis)
+y prevención del cáncer
+Uso en infusión para tratamiento de dolores menstruales,
+Chilco (Fuchsia coccinea)
+renales y para bajar la fiebre.
+Uso en infusión con propiedades antisépticas y
+Salvia (Sphacele campanulata/ Sphacele lindleyi)
+antiinflamatorias
+Uso para curar manchas en cremas y aceites, además de
+Quila (Chusquea quila)
+prevenir las úlceras.
+Nalca (Gunnera tinctoria) Uso del tronco con fines gastronómicos.
+Uso en las ceremonias tradicionales para limpiar el
+Costilla de Vaca (Blechnum chilense)
+espacio de energías negativas.
+Uso para la fiebre, para la boquera y para los enfermos
+Maqui (hojas y frutos) (Aristotelia chilensis) que han sufrido accidente cardiovascular. El fruto se usa
+para elaborar café, dado las propiedades antioxidantes.
+Boqui (Cissus striata) Uso para trabajar en cestería
+Uso en infusiones para evitar la pérdida de memoria y las
+Quintral de maqui (Tristerix corymbosus)
+jaquecas.
+Uso en infusiones y cremas para reducir la psoriasis y
+Zarzaparrilla (Smilax aspera)
+eccema de la piel.
+Huiro (Macrocystis pyfera / Macrocytis anstifolia) Alga- sin información de uso.
+Yayi Sin Información
+Fuente: Likankabur 2024.
+A continuación, en la Figura N°4 se identifican los sitios de recolección de hierbas en Playa La Cata y
+el Estero Penco, siendo toda la cuenca el espacio que cuenta con disponibilidad de recursos
+naturales identificados anteriormente en la Tabla N°2.
+36
+================================================================================
+PAGE 38
+================================================================================
+Figura N°4. Sitios de recolección de hierbas en Playa La Cata y el Estero Penco
+Fuente: Likankabur 2024.
+Para la obtención de materias primas, tales como el boqui (Cissus striata) para la cestería o greda
+para la elaboración de utensilios, se debe tener en cuenta que estos procesos extractivos, implican
+un importante proceso de resignificación cultural. La recolección se realiza en un marco de respeto,
+para lo cual se solicita permiso al ngen del lawen. Posteriormente se agradece a la ñuke mapu
+(madre tierra) y a los ngen que habitan el espacio, por la disponibilidad y posibilidad de utilizar los
+recursos naturales (Carmen Sáez Liencura, Lawentuchefe, 2024).
+En este sentido, estas prácticas culturales se reproducen a través de la realización de txawun, charlas
+y talleres de formación y capacitación para sus integrantes, en donde una parte de los productos
+elaborados son comercializados. Algunas socias de la Asociación Koñintu Lafken Mapu – Penco
+comercializan estos productos, en la Feria Campesina de Penco, el Hospital de Talcahuano, el
+37
+================================================================================
+PAGE 39
+================================================================================
+Hospital de Lirquén, en el Hospital de Concepción y entre los participantes del programa PESPI de la
+Red.
+4.4.3. Estructura organizacional
+La Asociación mapuche posee una estructura directiva de carácter mixto en la que conviven
+estructuras funcionales (presidenta, secretaria y tesorera), con autoridades tradicionales dentro de
+la cultura mapuche, como lo es la lawentuchefe de la Asociación.
+Los representantes de la Asociación son elegidos por sus socios/as, en procesos eleccionarios
+internos, que mantienen y gestionan una estructura orgánica principalmente familiar y de amistad.
+Antes de la pandemia, se reunían semanalmente ocasión donde coordinaban sus actividades.
+Actualmente la Asociación se encuentra en un receso, post pandemia. Sin embargo, la comunicación
+entre las integrantes de la directiva es habitual en el transcurso de la semana. Las decisiones
+también son consultadas en la directiva e informadas a las socias y socios.
+En relación con las actividades como txawun, charlas, talleres y capacitaciones, estos se realizan a
+petición de alguna parte. Por ejemplo, se suelen realizar en los establecimientos educacionales
+principalmente durante junio, para el We Txipantü o Wüñol Txipantü. Sumado a ello, se puede
+observar la habitualidad en la misma recolección de lawen (plantas medicinales) por parte de las
+socias, dada la participación en diversas ferias de la comuna.
+Por otra parte, la Asociación Koñintu Lafken Mapu – Penco, se relacionaba con otras organizaciones
+mapuche de la región, participando en diferentes actividades en otras comunas de la región. Sin
+embargo, en la actualidad ya no participa de la Red Provincial de Asociaciones Mapuche, ni de la
+Mesa de Trabajo de Cultura, dado que está focalizada en el fortalecimiento del trabajo interno en
+la comuna.
+4.4.4. Apropiación del medio ambiente
+El medio ambiente inmediato que ocupan los integrantes de la Asociación es el territorio urbano
+costero y el Estero Penco correspondiente a la comuna. Si bien los socios y socias están domiciliados
+38
+================================================================================
+PAGE 40
+================================================================================
+en el área urbana de la ciudad de Penco, en los entornos rurales desarrollan a su vez prácticas que
+son parte de su sistema de vida y costumbres de la cultura mapuche.
+El área urbana de Penco ha sido el lugar en que los miembros de la Asociación han levantado sus
+demandas por espacios para poder practicar la cultura, situación que implica el acceso y uso hacia
+sectores de la comuna que presentan recursos naturales y simbólicos significativos para la cultura
+mapuche, todo lo cual a su vez está relacionado con el proceso de resignificación y reconocimiento
+cultural.
+En este sentido, destacan algunos sectores costeros y en la periferia de la ciudad, donde realizan
+algunas ceremonias, tal como el nguillatun, desarrollado en Playa La Cata, así como sectores que
+presentan una rica biodiversidad, empleados para la extracción de hierbas medicinales y materias
+primas necesarias para la confección de artesanías.
+Principalmente, la apropiación del medio ambiente, del mismo modo, se encuentra determinada
+por las prácticas culturales de recolección de hierbas medicinales o lawen, la extracción de recursos
+como el boqui (Cissus striata), extracción de greda para trabajos de artesanía, otorgándole una
+identidad relacionada con la naturaleza.
+4.4.5. Patrimonio cultural indígena
+De acuerdo con la información recopilada, el patrimonio perteneciente a la Asociación Indígena
+Koñintu Lafken Mapu – Penco radica en torno a los sitios de significación cultural de Playa La Cata y
+Estero Penco, dado que en la cosmovisión mapuche el territorio es percibido y vivido desde una
+mirada integral.
+Desde el punto de vista material se puede constatar el valor patrimonial que esta Asociación asigna
+a su territorio y a los hitos naturales de este (borde costero, cursos de agua y sectores de la montaña
+o bosque del Fundo Coihueco), los que son utilizados ampliamente por los miembros de esta
+Asociación, como espacios significativos para sus prácticas culturales. Se puede mencionar aquí el
+valor patrimonial asignado a Playa La Cata, donde se encuentra el rewe, los menoko y los sectores
+39
+================================================================================
+PAGE 41
+================================================================================
+interiores de naturaleza forestal del Fundo Coihueco, utilizados para la recolección de plantas
+medicinales o lawen.
+Desde el punto de vista de su patrimonio inmaterial, es posible reconocer el valor de su proceso de
+revitalización cultural mapuche reciente sustentado en aspectos inmateriales de su cultura como la
+recuperación de un pensamiento indígena mapuche o cosmovisión que se ha resignificado en la
+ciudad. El valor asignado a sus prácticas y a su cosmovisión, todos elementos propios que están
+generando pertenencia y distinción cultural en un contexto urbano.
+4.4.6. Identidad grupal a través de los elementos culturales
+La identidad de la Asociación está basada por la autoafirmación de ser mapuche en la ciudad. Este
+proceso se expresa en dos escalas: familiar y organizacional. En el discurso, toman conceptos como
+pueblo y nación, que son elementos fundantes para visibilizarse como mapuche urbanas en Penco.
+Para ello, los elementos como la Wenufoye constituye un símbolo emblemático del pueblo Mapuche
+en Penco, que se encuentra presente en los hogares de las familias, pero además es apropiado y
+usado en la vestimenta de la vida cotidiana, como poleras y jockey.
+4.4.7. Sistema de valores y creencias
+El sistema de valores se encuentra fundamentalmente representado en el auto reconocimiento de
+su identidad mapuche lafkenche a pesar de ser migrantes de distintos territorios. Esto se manifiesta
+en sus prácticas sociales, culturales y usos territoriales (mar y tierra). En estos ámbitos es en los que
+se expresan elementos como su identidad étnica, sus creencias espirituales y sus prácticas de vida
+cotidiana, las que se superponen de acuerdo con las situaciones que como mapuche van afrontando.
+En este contexto, una de las dimensiones más visibles de este sistema de valores hace referencia a
+un discurso de auto representación como mapuche, que pone en el centro su identidad étnica y sus
+prácticas culturales en relación directa con el territorio que habitan.
+40
+================================================================================
+PAGE 42
+================================================================================
+4.4.8. Ritos comunitarios
+Los ritos comunitarios hacen referencia a sus actividades en torno al sistema de creencias mapuche.
+La Asociación destaca la realización del nguillatun y la plantación del rewe, las celebraciones y
+llellipun en torno al We Txipantü o Wüñol Txipantü. txawun y txafkintu, así como otras actividades
+que están reforzando su identidad étnica como mapuche en espacios públicos tanto comunales
+como intercomunales. Estas actividades se ven reforzadas por su participación en un circuito de
+actividades intercomunales junto a otras organizaciones, asociaciones mapuche e instituciones de
+la región.
+4.4.9. Símbolos de pertenencia grupal
+El principal símbolo de pertenencia grupal que pone en valor la Asociación Koñintu Lafken Mapu -
+Penco es el nombre de la misma, que expresa la cultura ancestral y presente mapuche en la comuna,
+la cual está generando pertenencia identitaria y actividades de congregación ritual en torno a la
+misma.
+Por otra parte, la Wenufoye como bandera mapuche constituye un símbolo que identifica a la
+Asociación. A ello se suma el uso de elementos distintivos en torno su cultura mapuche, los que se
+representan en la utilización del tukuluwun o vestimenta mapuche y las joyas como txarilongko y
+txapelakucha, principalmente en el caso de las mujeres.
+También se suma la representación de Leftxaru, como un símbolo de pertenencia grupal. Una
+representación de él, se encuentra en la Plaza de Penco. En la Ilustración N°10, se aprecia el tallado
+de Leftxaru, junto al txaro (águila) y su caballo.
+41
+================================================================================
+PAGE 43
+================================================================================
+Ilustración N°10. Tallado en madera del Toqui Lefxaru en Plaza de Armas, comuna de Penco
+Fuente: Likankabur 2024.
+4.5. Agrupación Cultural Mapuche Lawen Mawida
+La Agrupación Cultural Mapuche Lawen Mawida (en adelante la “Agrupación”) es una organización
+comunitaria funcional constituida bajo la Ley N°19.418, con Registro Municipal de Personalidad
+Jurídica N°765. Se trata de una organización urbana con personalidad jurídica conformada el 10 de
+abril del año 2015, por integrantes tanto indígenas como no indígenas.
+La Agrupación es una organización funcional que surge a partir de un proceso de desvinculación de
+algunos de los miembros de la Asociación Indígena Koñintu Lafken Mapu – Penco.
+Se trata de una organización que se auto identifica con el pueblo Mapuche – Lafkenche y que una
+proporción importante de sus integrantes se autoidentifican como mapuche.
+42
+================================================================================
+PAGE 44
+================================================================================
+4.5.1. Uso y valorización de los recursos naturales
+La valoración de recursos naturales es parte de la identidad y valoración cultural que reconoce la
+Agrupación. La tierra y todos sus atributos son valorados como parte de su identidad cultural y
+espiritual. Principalmente realizan actividades de recolección de hierbas medicinales y de otros
+productos para el desarrollo de prácticas culturales.
+4.5.2 Sitios de significancia cultural
+Para la agrupación uno de los sectores importantes en su vinculación con el territorio es el primer
+tramo del camino forestal contiguo al Estero Penco, donde están los sitios El Pozón, Pozo Jinolu, La
+Escuela y Los Queules.
+En la Figura N°5 se aprecian en contexto los sitios mencionados anteriormente, dando cuenta de la
+distribución espacial de estos, en torno al Estero Penco.
+43
+================================================================================
+PAGE 45
+================================================================================
+Figura 5: Sectores de significancia cultural Agrupación Cultural Mapuche Lawen Mawida
+Fuente: Likankabur 2024.
+Los sitios que aparecen georreferenciados en la Figura N°5, están ubicados de manera contigua al
+camino forestal adyacente al Estero Penco que se menciona en la caracterización de la Asociación
+Indígena Koñintu Lafken-Mapu Penco y donde existen sectores que también son utilizados por los
+integrantes de la Agrupación como lugar de recolección de hierbas medicinales y materias primas
+para sus talleres culturales. Acceden a este sector de manera recurrente, todos los meses. Señalan
+que la recolección está signada por la especificidad del lawen a recolectar. Cabe destacar que no se
+recolecta las plantas medicinales o lawen de manera indiscriminada, sino que el proceso de
+recolección se realiza de manera específica, donde se extraen las plantas necesarias para el uso
+requerido por la Agrupación.
+La siguiente Tabla N°3 agrupa y describe las actividades desarrolladas por la agrupación, así como
+su relación con el Proyecto.
+44
+================================================================================
+PAGE 46
+================================================================================
+Tabla 3: Ubicación los sitios, las actividades desarrolladas cada uno de ellos y la relación con el Proyecto.
+Emplazamiento Nombre Nombre Actividades Coordenadas UTM (WGS 84 S) Distancia Relación
+sector sitio realizadas Este Norte del con el
+Proyecto Proyecto
+Montaña y Estero El Recolección de 680.705 5.931.422 529 mts ZE
+cerros Penco Pozón hierbas Victoria
+medicinales Norte
+Montaña y Estero Pozo Recolección de 680.815 5.931.351 396 mts ZE
+cerros Penco Jinolu hierbas Victoria
+medicinales Norte
+Montaña y Estero La Recolección de 681.103 5.931.461 120 mts ZE
+cerros Penco Escuela hierbas Victoria
+medicinales Norte
+Montaña y Estero Los Recolección de 681.464 5.931.667 286 mts ZE
+cerros Penco Queules hierbas Victoria
+medicinales Norte
+Fuente: Elaboración propia, Likankabur 2024.
+4.5.2. Prácticas culturales
+Entre las más recurrentes se encuentran las juntas y reuniones entre las familias de la Agrupación.
+En las campañas y visitas en terreno, se puede visualizar que la comunicación suele ser bastante
+fluida entre las y los integrantes de la organización. Indican que realizan talleres para revitalizar la
+lengua mapuche, usos de las hierbas medicinales o lawen, celebración del We Txipantü o Wüñol
+Txipantü, así como su participación activa en actividades como la conmemoración de Día
+Internacional de la Mujer Indígena. Los eventos son realizados principalmente en el Fundo Coihueco,
+específicamente en los sitios señalados anteriormente, donde realizan actividades de recolección
+de materias primas para talleres de cestería mapuche y hierbas medicinales realizadas en los
+sectores identificados en la Tabla N°3 del camino forestal contiguo al Estero Penco.
+La recolección de hierbas medicinales o lawen, es realizada para fines medicinales, y ejecutada por
+los propios miembros y familias de la agrupación. A través de este sistema de conocimientos se
+mantiene el acervo cultural mapuche en manos de quienes hacen uso de este, permitiendo la
+perduración de estos conocimientos y prácticas hasta el día de hoy.
+Como se señaló anteriormente, el proceso de recolección se realiza durante todo el año. Señalan
+que las personas más antiguas de la organización mantienen los conocimientos sobre este tipo de
+práctica. A diferencia de la Asociación Koñintu Lafken Mapu – Penco, no poseen autoridades
+tradicionales del ámbito de la medicina mapuche, como lawentuchefe.
+45
+================================================================================
+PAGE 47
+================================================================================
+La Ilustración N°11 muestra una zona aledaña al Estero Penco, cercana al sitio La Escuela, el cual las
+y los integrantes de la Agrupación acceden para la recolección de hierbas.
+Ilustración N°11. Sector La Escuela, sitio de alta vegetación y de recolección de lawen.
+Fuente: Likankabur 2024.
+La recolección de hierbas medicinales o lawen, así como la extracción de materia primas como el
+boqui, utilizado para la elaboración de cestería mapuche, ha sido una actividad que se ha
+transmitido de manera intergeneracional. Las técnicas para la práctica de recolección y del
+conocimiento asociado a esta se suelen traspasar en el mismo lugar. El inventario de plantas, hierbas
+y sus usos ha sido un conocimiento que se ha mantenido en el ámbito doméstico permitiendo con
+esto su mantención y reproducción a nuevas generaciones, al mismo tiempo que es puesto en valor
+como medio de difusión cultural en espacios interculturales.
+4.5.3. Estructura organizacional
+La Agrupación Cultural Mapuche Lawen Mawida posee aproximadamente 80 miembros, entre
+socias, socios y sus familias. Su composición está principalmente dada por mujeres de entre 18 y 65
+años, quienes son las participantes más activas. Estas se solían reunir mensualmente como directiva
+en la sede que poseen en la Villa Mahuidawe, antes de la pandemia. Posterior a ella, no se han
+46
+================================================================================
+PAGE 48
+================================================================================
+vuelto a reunir físicamente. No obstante, se aprecia una fluida comunicación entre sus integrantes,
+motivada por la directiva.
+Desde el 02 de enero de 2022, la Personalidad Jurídica se encuentra expirada. No obstante,
+continúan en conversaciones entre las familias, con el objetivo de reactivar la Agrupación. Aún así,
+destacan que las actividades culturales persisten entre las familias integrantes de la organización.
+4.5.4. Apropiación del medio ambiente
+El medio ambiente inmediato en el que se desenvuelve esta agrupación cultural es el territorio rural
+del Fundo Coihueco, haciendo uso además del borde costero como Playa La Cata, en la comuna.
+Utilizan principalmente los sectores de fondos de quebrada aledañas al Estero Penco, que son
+visitado regularmente para la recolección de hierbas medicinales. La mayor parte de sus miembros
+vive en la comuna de Penco, realizando sus principales actividades en este lugar.
+La Ilustración N°12 muestra parte del trazado del camino forestal adyacente al Estero Penco, en
+algunos de cuyos sectores integrantes de la Agrupación realizan recolección de hierbas medicinales
+o lawen.
+Ilustración N°6. Camino forestal de acceso, en Fundo Coihueco
+Fuente: Likankabur 2024.
+47
+================================================================================
+PAGE 49
+================================================================================
+4.5.5. Patrimonio cultural indígena
+De acuerdo con la información obtenida en las entrevistas, el patrimonio perteneciente a la
+Agrupación Cultural Mapuche Lawen Mawida se circunscribe en torno a los sitios de significación
+cultural del Estero Penco. Desde la perspectiva material, estos lugares son utilizados ampliamente
+para la recolección de lawen y plantas para fines medicinales.
+Desde el punto de vista de su patrimonio inmaterial, se puede reconocer el valor de su proceso de
+revitalización cultural mapuche reciente sustentado en las prácticas culturales mapuche en torno a
+la recolección, que están realizando y visibilizando en el espacio comunal.
+4.5.6. Identidad grupal a través de elementos culturales
+La identidad de la Agrupación está basada en dos elementos: el auto reconocimiento de ser
+mapuche y el factor de ser mujeres mapuche. Para ello, han tomado como elementos de
+autoidentificación la bandera mapuche o Wenufoye y contar con la presencia de lawen en sus
+hogares. Al visitar las casas de las socias, se identifica claramente la existencia de diversos tipos de
+plantas medicinales en el jardín y dentro del hogar de las socias, lo que da cuenta de cómo la
+construcción identitaria el grupo es parte de la vida cotidiana de ellas.
+4.5.7. Sistemas de valores y creencias
+El sistema de valores y creencias de la Agrupación está signado por su identidad como mapuche
+lafkenche. Esto se expresa en sus prácticas sociales, culturales y territoriales, como la misma
+recolección de lawen.
+En este contexto, uno de los elementos más visibles de este sistema de valores, hace alusión sobre
+el ser mapuche en la ciudad, donde la identidad se construye a partir de la apropiación material y
+simbólica que hacen de los espacios, resignificándolos.
+48
+================================================================================
+PAGE 50
+================================================================================
+4.5.8. Ritos comunitarios
+Como ritos o prácticas culturales, se puede mencionar la celebración de We Txipantü o Wüñol
+Txipantü, y la conmemoración del Día Internacional de la Mujer Indígena. Ambas actividades son de
+carácter anual, las que, en conjunto con las expresiones cotidianas de la cultura como la recolección
+del lawen, están generando la práctica ritual comunitaria en torno a estos.
+4.5.9. Símbolos de pertenencia grupal
+El principal símbolo de pertenencia grupal que pone en valor la Agrupación es su nombre. En una
+traducción literal del mapudungun al castellano es:
+- lawen: plantas o hierbas medicinales y;
+- mawida: montaña
+En ese marco, el nombre de la Agrupación constituye el símbolo, como elemento identitario más
+importante para las socias y socios. Ello se relaciona con el hecho de que las prácticas más
+significativas, se encuentran relacionadas en torno a la recolección de plantas medicinales.
+Por otra parte, la Wenufoye como símbolo identitario, es ampliamente utilizado por la Agrupación
+en el marco del desarrollo de sus prácticas.
+5. Conclusiones
+El presente informe de caracterización antropológica de los GHPPI de la Asociación Indígena Koñintu
+Lafken-Mapu Penco y Agrupación Cultural Mapuche Lawen Mawida, presenta las principales
+actividades realizadas por dichos GHPPI que están relacionadas con el uso del territorio, es decir, la
+utilización de recursos naturales y manifestaciones culturales en el área de influencia del Proyecto.
+En este marco, se georreferencian los sitios principales de recolección de plantas medicinales y la
+ubicación de espacios o sectores donde se desarrollan estas actividades, junto con fotografías
+(denominadas ilustraciones en este informe) que contextualizan el territorio.
+49
+================================================================================
+PAGE 51
+================================================================================
+Es importante para las familias de la Asociación y la Agrupación, utilizar los caminos destinados para
+sus actividades de recolección de hierbas medicinales. Dentro del área de influencia del proyecto,
+se identificaron sitios de significación cultural, uno de los cuales se encuentra a una distancia de 120
+metros aproximadamente de dicho sitio de recolección (La Escuela), por lo que es posible concluir
+que se produce una interacción entre las distintas obras y actividades del proyecto con actividades
+culturales de las Asociaciones.
+En virtud de los antecedentes aportados en este informe y al revisar las posibles interacciones entre
+las actividades culturales de ambos GHPPI y las obras, partes y acciones contempladas en el
+Proyecto, es posible reiterar que existe susceptibilidad de afectación directa en los elementos
+culturales y simbólicos de las prácticas de recolección en torno a los sitios de significación cultural
+contiguos al Estero Penco debido a las restricción al tránsito de personas que plantea el Proyecto
+en dicha zona.
+6. Bibliografía
+Canales, M. (2006). Metodologías de investigación social. Introducción a los oficios. Ediciones LOM.
+Cazau, P. (2006). Introducción a la investigación en Ciencias Sociales. Retrieved from
+alcazaba.unex.es
+Bengoa, J. (2007). Historia de los antiguos mapuches del sur. Editorial Catalonia.
+Bengoa, J. (2008). Historia del Pueblo Mapuche. Siglos XIX y XX. Ediciones LOM. Santiago, Chile.
+Fuentealba, P y Vera, K. (2020). El habitar mapuche en Penco. Proyecto CONADI. Disponible en
+https://www.academia.edu/48753276/El_habitar_mapuche_en_Penco
+Grebe, M. E., Pacheco, S. y Segura, J. (1972). Cosmovisión mapuche. Cuadernos de la realidad
+nacional, N° 14: 46-73.
+Grebe, M. E. (1973). El kultrún mapuche: un microcosmo simbólico. Revista Musical Chilena, N° 27:
+3-42.
+Guber, R. (2001). La Etnografía: Método, campo y reflexividad. Bogotá: Grupo Editorial Norma.
+Marimán, P; Caniuqueo, S; Millalén, J y Levil, R. (2006). ¡…Escucha, winka…! Cuatro ensayos de
+Historia Nacional Mapuche y un epílogo sobre el futuro. Ediciones LOM. Chile.
+Martínez, C. (2019) “Investigación Descriptiva: Tipos y Características”
+50
+================================================================================
+PAGE 52
+================================================================================
+Martínez, M. (2006). Ciencia y arte en la metodología cualitativa. Editorial Trillas.
+Riba, C. (2013). La observación participante y no participante en perspectiva cualitativa. Universitat
+Oberta de Catalunya, España. Disponible en
+https://openaccess.uoc.edu/bitstream/10609/69986/5/M%C3%A9todos%20cualitativos%20de%2
+0investigaci%C3%B3n%20en%20criminolog%C3%ADa_M%C3%B3dulo%202_%20La%20observaci%
+C3%B3n%20participante%20y%20no%20participante%20en%20perspectiva%20cualitativa.pdf
+Vega, G., Morales, J., Malagón, A., Calderón, N. C., Santos, A. y Amador, G. L. (2014). Paradigmas en
+la investigación. Enfoque cuantitativo y cualitativo. European Scientific Journal, 10(15), 523-528.
+https://eujournal.org/index.php/esj/article/download/3477/3240
+Informes
+GAC Consultores. (2023). Informe antropológico presentado en el EIA Anexo 3D-2B, Proyecto
+Módulo Penco.
+51
+================================================================================
+PAGE 53
+================================================================================
+LIKANKABUR
+7 .
+Apéndice 7.1 Pauta de Entrevista
+LIKANKABUR
+PAUTA DE ENTREVISTA Fecha: 23 & Mned d 224. Entrevistadx: Organización: asowo cú Iujgmu Kmunk bojLi fmopu Lugar: Suol Va8guo} Don& Nota: Se transcriben los antecedentes que permiten descartar potenciales impactos significativos Ylo interacción entre las obras , partes Y/o acciones del   proyecto con los sistemas de vida Y costumbre de las organizaciones indígenas urbanas Koñintu Lafken Mapu Penco y Lawen Mawida (Se presenta el proyecto al entrevistado detallando las actividades, obras Y plazos, junto con una cartografía de emplazamiento)
+1 éCuáles son las actividades tradicionales mapuche de su organización? 2. éDesde hace cuanto tiempo las realizan y en qué lugar? 3. iCuáles son los sitios de significación cultural para el pueblo Mapuche en Penco? 4. CRealizan recolección de lawen, frutos silvestres 0 recursos naturales Y en que épocas del año Y lugares? (Se podría   pedir la descripción de un día de recolección) 5. De ser así 2Qué tipo de plantas, cortezas, frutos u hojas recolectan? 6. &Existen reclamaciones 0 recuperaciones territoriales en la comuna? 7. éCelebran el Wetxipantü , txawün, encuentros de palin u otras actividades? 8. 2Qué organizaciones 0 familias participan de estas actividades? 9. QCuál es su vínculo con otras   organizaciones   mapuche de la Provincia Y la región? 10 éDesde que año se están reuniendo como organización? Y écada cuanto tiempo realizan reuniones? 11 . éCuál ha sido el impacto de los proyectos anteriores en la comuna? 12 . iCuáles son los principales símbolos de la organización? 13 . éTienen algún trabajo con las instituciones en la comuna 0 región? 14. QCuál es su percepción en torno al Proyecto?
+52
+================================================================================
+PAGE 54
+================================================================================
+LIKANKABUR
+7.2
+Consentimiento Informado
+LIKANKABUR
+CARTA DE CONSENTIMIENTO INFORMADO
+Asesorías, consultorías Y capacitaciones Likankabur Limitada, RUT: 76.708.608-3, se encuentra dedicada proyectos de gestión ambiental, en el marco de la Ley N'19.300, sobre Bases Generales del Medio Ambiente. En este marco, se encuentra desarrollando el estudio sobre el "Proyecto de Extracción de Arcillas para Producción de Tierras Raras" en la comuna de Penco. Este proyecto se trata de una faena minera, junto con una planta de procesamiento de Material   tipo Regolito, con marcada presencia de arcillas. El Regolito   proviene de una roca meteorizada, el cual se caracteriza por tener presencia de lantánidos absorbidos en los minerales de arcilla. Los lantánidos presentes en las arcillas son 15 en total: lantano (La), Cerio (Ce), Praseodimio (Pr), Neodimio (Nd), Samario (Sm), Europio (Eu), Gadolinio (Gd), Terbio (Tr)  Disprosio (Dy), Holmio (Ho) Erbio (Er), Tulio (Tm), Iterbio (Yb) Y; Lutecio (Lu) Estos son los elementos conocidos tradicionalmente como Tierras Raras ello, se le suma el Itrio (I) Y el Escandio (Sc), dado su comportamiento  similar. Cabe destacar, que la planta tiene una capacidad para procesar hasta 320 toneladas/hora de material Y producir aproximadamente 1.700 toneladas anuales de concentrado de Tierras Raras. Por los antecedentes expuestos anteriormente, la empresa debe realizar una caracterización del medio humano indígena, con el objetivo de evaluar e identificar/descartar potenciales efectos en los modos de vida costumbres , con énfasis específicos en el ámbito de los pueblos originarios. La entrevista tiene un carácter confidencial Y la información será utilizada exclusivamente para la elaboración del   estudio, en el marco del   proyecto actual. En este sentido, su participación es voluntaria Y puede finalizar la entrevista en el momento que Io desee. La modalidad de registro de la entrevista será mediante grabación de audio Y libreta de notas, en caso de ser necesario. Sin perjuicio de lo anterior, podrá indicarnos si desea 0 no ser grabado. En ambos casos, indique con una x; a) Acepto ser registrado mediante grabación_ b) No acepto ser registrado mediante grabación Declaración del firmante Tras haber leído esta declaración 0 se me ha leído la misma, estoy de acuerdo en participar en esta entrevista:
+NOMBRE ORGANIZACIÓN: Ascuahóv In Jlonnt Laqlen Map díqena Carmen Suc< FIRMA: Lud Lawveniuchefe Mapuche 6.473,966 :2 FECHA: 23 de pnQiu de 2024 lu Guhnle4 Sanlana NOMBRE ENTREVISTADORA: Ans "
+53
+================================================================================
+PAGE 55
+================================================================================
+7.3. Anexo 3. Declaración simple de entrevista realizada a socia de Agrupación Cultural
+Mapuche Lawen Mawida
+54
+================================================================================
+PAGE 56
+================================================================================
+7.4. Anexo 4. Entrevista a Lawentuchefe
+Fecha: 23-01-2024
+Entrevistado: Lawentuchefe perteneciente a la A.I Koñintu Lafken Mapu – Penco (no activa como
+socia)
+Lugar: General Velásquez N°7, Penco.
+Nota: Se transcriben los antecedentes que permiten descartar potenciales impactos significativos
+y/o interacción entre las obras, partes y/o acciones del proyecto con los sistemas de vida y
+costumbre de la A. Koñintu Lafken Mapu – Penco
+Entrevistadora lee y explica el objetivo de consentimiento informado
+¿A qué se dedica y cuál es su profesión u oficio?
+Yo soy Arsenalera Quirúrgica, que hoy día es materia de la carrera de enfermería. Por lo tanto,
+aprendí desde ese conocimiento a perfeccionarme en esta área. Después empecé a relacionar la
+salud con lo espiritual.
+Usted ha logrado esa visión de manejarse culturalmente los dos mundos.
+Si. He transitado en ambos mundos.
+Desde esa mirada intercultural, ¿Cuál es su percepción de este Proyecto?
+Desde el punto de vista del futuro para el país, es bueno, por ejemplo, si pensamos en el litio. Eso
+sería como darle una nueva entrada de dinero al país, porque nos puede ayudar en todas las cosas
+que nos faltan como país. Pero si lo veo desde mi localidad, lo encuentro malo, porque nos está
+contaminando, a su vez, la explotación de esto traerá consecuencias para la salud de las personas,
+y no sólo mapuche, sino en general. Porque van a romper nuestras capas terrestres y van a pasar a
+destruir nuestro lawen, nuestros menoko, nuestra flora y fauna, que es la que nos sirven porque
+hasta la presencia de un pájaro nos sirve, porque nos abona el terreno para el lawen. Como ese
+55
+================================================================================
+PAGE 57
+================================================================================
+circulo la gente lo separa. Esta nuestro newen, nuestro ngen que lo van a pasar a llevar, que es lo
+más importante. Porque van y cortan. Estas nuestros cerros que es nuestro Txeng Txeng, para
+nosotros nos representa las culebras como el Kai Kai. El Txeng Txeng son los cerros y el Kai Kai son
+las aguas.
+Los hemos visto y meditado con ciertas personas cuando cortan un cerro, siempre hay un accidente
+y muerte de personas. Por ejemplo, recordando a las niñas del norte que se desbarrancaron porque
+se les estaba cortando al Txeng Txeng, sus partes, sus manos, sus cosas, se está llevando su newen
+y lo están botando, entonces le están haciendo daño a nuestro Txeng Txeng que es nuestra
+protectora. Nosotros también creemos que existió el diluvio (biblia). Hay otra parte. ¿Dónde estaban
+los mapuches en el diluvio? Los mapuche estaban antes.
+Los cerros son los Treng Treng. Ellos pelearon. De dónde aparecieron los mapuche, del cerro, todos
+embarrados, apareció el matrimonio antiguo y el joven. Los mapuche no somos descendientes de
+David, Adán y Noé.
+Txeng Txeng fue la serpiente que nos protegió, los cerros que nos dio a los mapuches la nueva vida.
+Ellos nos protegieron.
+En el estero Penco, vamos a varias partes a buscar lawen, al lado del mar también. Por el estero.
+¿Qué plantas recolectan en el fundo Coihueco?
+Está la Quila, es otra señal muy buena, cuando florece la Quila, más arriba del cerro también hay
+nalcas, boqui que se usaba para hacer la ruka, es como una enredadera muy buena, como el hilo
+mapuche. Eso también es bueno para los dolores, y muchos lo usaban para la lepra.
+En Chile no se vio mucho, pero había lawen que servía antiguamente para las várices con género
+quemado. Se quemaban esa bolsa antigua, y con el jugo del boqui se humedecía y se hacía
+cataplasma y eso se ponía en la herida y se cicatrizaba.
+Además, se encuentra la hierba de la aguja que la confunden con la hierba del clavo. Es bueno para
+la próstata.
+56
+================================================================================
+PAGE 58
+================================================================================
+Desde el estero encontramos chilco, que es bueno para la menstruación y también se usaba para
+abortar cuando los bebés eran muy pequeños.
+La partera era la que decía cuando usar. Antes no era tan libre como ahora, en caso de una violación.
+Muchas familias no querían que tuvieran el bebé.
+Existía el tronco de nalca, el chilco. estos eran secretos antiguos.
+También maqui que se usaba para la fiebre, para la boquera, a los enfermos que les daba accidente
+cardiovascular. Se usaba la hoja que se refregaba, ahora la ponen en el mortero y hasta en la
+batidora.
+También sacábamos el fruto que se usaba como café. Se secaba y se usaba chancado. El café de
+maqui con el de trigo queda de maravilla.
+La última vez que fuimos en grupos, fue el año 2018. Pueden que hoy existan más plantas o menos.
+Nosotros recolectábamos una planta parecida el aloe vera, era una lawen muy grande y muy dura,
+estaba muy arriba del cerro. Es bueno para la gota y fibromialgia, y la otra es la costilla de la vaca,
+que ocupaba la machi en las ceremonias. Es decir, plantas para ceremonias y otras para las
+actividades religiosas.
+Entrevistador.
+¿Cada cuánto tiempo iban a recolectar?
+Nosotros íbamos casi 1 o 2 veces al mes, pero luego con el programa PESPI, CONAF nos entregaba
+plantas en Concepción, en la localidad de Nonguén.
+Entrevistador
+¿Cómo se organizaban para ir a recolectar?
+Salíamos temprano. Antes de las 10 de la mañana, después que el rocío había pasado. Esa es una
+ley de la medicina, que las plantas no se pueden sacar antes que se seque el rocío. Y de ahí pasado
+57
+================================================================================
+PAGE 59
+================================================================================
+el rocío, sequitas, sobre todo las flores. A mi me gustaba ir donde había palo negro. Yo tengo siempre
+medicina. No trabajo con todas. Cuando necesite ese remedio yo lo busco, muy puntual Yo tengo
+mis plantas con las que trabajo. Algunas usan un tipo de planta y otras otro tipo. Y en eso los
+mapuche somos muy respetuosos. Cada uno trabaja sus plantas.
+La medicina mapuche es personalizada. La machi no hace su machitún con más personas.
+La base de quitar la enfermedad es una, pero las personas pueden tener otros problemas, por eso
+no se le puede dar el mismo remedio a todos.
+Por eso es que a veces no sanamos. Las hierbas fuertes no se pueden usar juntas preparar con las
+hierbas suaves. Por ejemplo el cedrón es suave, todas las limonadas son suaves, la menta, el toronjil
+la malva rosa, el palo negro, cedrón, el hinojo, son hierbas suaves y limonadas.
+Las fuertes altamisa, el natre, la ruda. Si usted junta todas esas hierbas se comen alas hierbas suaves,
+las anula y usted puede necesitar de un tipo y consume de ambas, por lo tanto no le sirve.
+Las hierbas se las tiene que tomar separadas cada cierto tiempo.
+Entrevistador.
+¿Usted ocupa lawen para la cocina?
+Si, para todo tipo de cocina. Para la comida del almuerzo, por ejemplo.
+Hay dos tipos de laurel que se pueden usar, el silvestre y el de cocina, pero el mejor es el silvestre.
+También se usa el romero chascuo que es un remedio, orégano verde en el tiempo que florece. La
+menta, por ejemplo, la canela igual sirve mucho.
+Hay plantas o árboles, de medicina introducida y nativo. Por ejemplo, nativo tenemos el palo negro,
+el quintral de maqui, el maqui. Por acá tenemos la Aloe Vera, la zarzaparrilla, que son extraídos de
+otros lados. El eucaliptus también es medicinal y es introducido. Entonces uno tiene que aprender
+a manejar las medicinas, el respeto por las plantas. Hay que sacar lo justo, con el respeto necesario.
+Yo cuando voy a un lugar, ya sea una reserva, no puedo ingresar sin permiso. Primero pido respeto
+58
+================================================================================
+PAGE 60
+================================================================================
+al ngen de ahí, si quiero sacar una planta, pido permiso y le digo para que la quiero. Yo le pido al
+ngen, a la entrada, además pido por todo los ngen que estén ahí, pido que me den permiso, que me
+faciliten. A cada plantita que quiero sacar. Ellas tienen su propio ngen.
+Entrevistador.
+¿En el estero habrá un solo Ngen?
+No, ahí hay varios ngen. Está el ngen del estero, hay como 3 o 4 menoko, y cada menoko tiene su
+ngen. Son 3 ngen más y cada planta tiene su ngen. Las piedras tienen sus ngen, la tierra del estero
+tiene. El ngen es todo. Antiguamente el ngen del mundo y todo ese ngen era el Wallmapu. Pero el
+Wallmapu es el espacio, es todo. También hay que pedirle al Wenumapu que está arriba, hacia el
+lado y arriba. Arriba está las estrellas, el sola y la luna que aportan a la vida. Sin sol no habría flores,
+maduración de los frutos, sin luna no habría refrescamiento de la noche donde la planta debe
+regenerar y tomar fuerzas para el otro día. Sin las estrellas no tendrían un ngen de las estrellas que
+le da las fuerzas a cada cosita. La estrella está siempre como saltando y una hierba no es como cortar
+el palo, tiene como cierto sonido y ese sonido se lo dan las estrellas, por ende, esa estrella produjo
+cierta energía para esa planta. El sol produjo energía para esa planta. El agua y eso la luna se la da
+la noche porque hay un rocío, por eso ese rocío le da toda la vida a la planta, a la tierra.
+Entrevista
+¿La Asociación Koñintu Lafken Mapu cada cuanto tiempo se reúne?
+A fines del año pasado me encontré con una lamngen y me preguntó donde estaba. Me dice que
+ahora producto de los problemas con su presidenta se había ido. Están en receso al parecer.
+Entrevistador
+¿Y vienen autoridades tradicionales a la comuna?
+59
+================================================================================
+PAGE 61
+================================================================================
+No, no he visto aquí. No veo que vengan. Para algunas actividades invitan desde los Angeles a la
+machi Erminda. También vienen de San Pedro. Desde Coronel y Talcahuano invitan a la machi
+Marcela Millanao.
+La última vez que vino fue el 2018. Había tenido su bebé y después no sé.
+Entrevistador
+¿Hace cuánto tiempo no se realizan actividades tradicionales?
+Hace tiempo no se realizan. Este año vi un video donde Patricia se veía caminar cerca y hablando de
+Wüñol Txipantü.
+Entrevistador
+¿Acá en la plaza hay figuras de madera, tuvieron que ver con eso?
+No, me dicen que la machi es igualita a mí, la que toca el kultrung.
+Entrevistador
+¿Los símbolos importantes para Ud. como mapuche de Penco?
+Para mí, es la bandera, después admiro mucho a Lavtraro y como a gente aquí, en este minuto no.
+Lo admiro por su valentía.
+Entrevistador
+¿Parece que las organizaciones las valoran harto?
+Si. Me molesta que para tanta protesta pongan banderas mapuche, porque llevan y hablan de
+mapuche y no saben nada.
+¿Cómo piensa que se podría reactivar la actividad mapuche en Penco?
+60
+================================================================================
+PAGE 62
+================================================================================
+Aquí lo que hay que hacer, es volver a renovarse con el programa PESPI en Talcahuano. Toda la
+rivera del estero Penco, está entorno al newen. Había un programa bien bueno, teníamos reuniones
+mensuales, en las 4 comunas, Talcahuano, Penco y Tomé, y en Hualpén, en cada asociación,
+hablábamos de lo que se iba a hacer.
+Creemos que si se reactivara el PESPI vamos a tener mayor recolección de los lawen. Acá
+luchábamos por la tierra, luego recolección del borde costero.
+¿Qué es para usted el territorio Penco como mujer mapuche?
+Para mí como territorio, Penco es todo porque tenemos mar y cordillera. Porque tenemos las dos
+partes acá, mawida para el cerro, es privilegiado. Considero que a Penco le falta una reactivación.
+Tenemos todo para obtenerlo, las wasalinas para hacer las cosas, los cochayuyos, algunas plantas
+del mar que podemos usar para la salud y lo estamos perdiendo por incapacidad de nosotros
+mismos, por ser desunidos, porque queremos ser todos iguales. No por ser mapuche somos todos
+iguales.
+Yo me crie con machi, y hago el trabajo de una lawentechefe, püñeñelchefe y ngutamchefe.
+Yo empecé el año 1999, cuando me enfermé. Yo llegué acá a estudiar, fui una niña igual que todas,
+me casé y de un día para otro caí enferma, me detectaron un cáncer. Desde ese entonces empecé
+a estudiar sobre los remedios y existía el temor de dejar a mi hijo chico, y cuando fui a la machi me
+dijo no es lo que te dijeron, mientras tu no aceptes lo que sabes que debes hacer, no vas a mejorar
+y que por lo tanto no me dio ningún remedio.
+Ahí empecé con esto, sin que nadie me enseñara. Yo tengo el espíritu machi de mi abuela, porque
+ella me lo heredó. Hay personas que me quieren tocar en la calle, y ese espíritu sólo alguno lo
+tenemos.
+Entrevistador
+¿Su percepción al proyecto de tierras raras?
+61
+================================================================================
+PAGE 63
+================================================================================
+LIKANKABUR
+Mi percepción es sí para un lado del mundo, que sea bueno para el país, pero desde el otro lado del mundo es malo, estoy en los dos mundos.
+Con un proceso de consulta sería un equilibrio, que no nos pasemos a llevar, que el mapuche pueda dar su opinión. Desde pedir permiso, que pueda dar su opinión: Donde podamos trabajar ambos, respetando Y aprendiendo de su cultura. Poder entender sobre su tecnología Y ellos la nuestra, del mundo mapuche.
+Llegar a conversar con la empresa a través de una consulta, 0 del SEA y llegar a un consenso Y que no se nos tire a nosotros la tierra y ellos se lleven las riquezas.
+Ángela Catrilef Santana
+Antropóloga Sociocultural
+Ana Millanao Contreras
+Periodista
+LXNKBUR
+62

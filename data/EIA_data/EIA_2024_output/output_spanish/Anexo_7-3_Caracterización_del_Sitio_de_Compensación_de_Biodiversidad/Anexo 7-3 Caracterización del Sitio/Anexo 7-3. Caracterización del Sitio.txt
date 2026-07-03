@@ -1,0 +1,1555 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 7-3
+Caracterización del Sitio de
+Compensación de Biodiversidad
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................ 1-4
+2 Objetivos ................................................................................................................................. 2-5
+3 Justificación de las medidas de compensación y sitio de compensación propuesto .................... 3-5
+4 Metodología de Caracterización ............................................................................................... 4-8
+4.1 Puntos de muestreo del componente de Fauna ........................................................................ 4-9
+4.2 Puntos de muestreo del componente de Flora y vegetación .................................................... 4-9
+5 Resultados ............................................................................................................................. 5-10
+5.1 Animales Vertebrados (fauna silvestre) ................................................................................... 5-10
+5.1.1 Especies de interés y/o sensibles en el área del proyecto ............................................... 5-13
+5.2 Vegetación ................................................................................................................................ 5-18
+5.3 Flora .......................................................................................................................................... 5-20
+5.3.1 Origen Fitogeográfico y Hábito de Crecimiento ............................................................... 5-33
+5.3.2 Estado de Conservación de la Flora .................................................................................. 5-34
+5.3.3 Especies Arbóreas o arbustivas originarias del país ......................................................... 5-34
+6 Conclusiones .......................................................................................................................... 6-35
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE DE TABLAS
+Tabla 4-1. Síntesis de las técnicas de muestreo aplicadas por ambiente y sus esfuerzos totales durante el
+total de campañas en el área de influencia del proyecto .......................................................................... 4-9
+Tabla 4-2. Número de puntos de muestreo de flora y vegetación por campaña .................................... 4-10
+Tabla 5-3. Especies de fauna silvestre registradas en área de compensación ...................................... 5-11
+Tabla 5-4. Resumen de las especies de interés y/o sensibles para el área de influencia del proyecto ... 5-14
+Tabla 5-1. Uso de suelo y superficie (ha) en el sitio de compensación .................................................... 5-18
+Tabla 5-2. Formaciones vegetacionales y superficie (ha) del sitio de compensación .............................. 5-19
+Tabla 5-5. Catálogo florístico presente en el Sitio de Compensación .................................................... 5-21
+Tabla 5-6. Número de especies por División y Clase taxonómica en el Sitio de Compensación ............. 5-31
+Tabla 5-7. Familias en el área de influencia ............................................................................................. 5-31
+Tabla 5-8. Origen fitogeográfico de la flora vascular registrada en el sitio de compensación ............. 5-33
+Tabla 5-9. Hábito de crecimiento de la flora vascular registrada en el sitio de compensación ............ 5-33
+Tabla 5-10. Especies en categoría de conservación registrada en el Área de Influencia ...................... 5-34
+Tabla 5-11. Especies arbóreas o arbustivas originarias presentes en el Área de Influencia ................. 5-35
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE DE FIGURAS
+Figura 3-1. Ubicación de los sitios de compensación y las obras del Proyecto .......................................... 3-8
+Figura 5-1 Formaciones vegetacionales del sitio de compensación de biodiversidad ............................ 5-19
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1 INTRODUCCIÓN
+Según los resultados de la evaluación de impactos (Capitulo 4 del EIA) se reconoce como impacto
+significativo en objetos de protección asociados a la biodiversidad, específicamente en el componente
+flora y vegetación, fauna vertebrada y fauna invertebrada (artrópodos).
+En el capítulo 7 se detallan las medidas de mitigación, reparación y compensación propuestas. Respecto a
+estas últimas, las medidas de compensación están asociadas al “impacto residual” el cual se reconoce
+como el que no puede ser ni mitigado ni compensado. En el caso del componente de flora la medida de
+mitigación propuesta solo responde al impacto de pérdida de Citronella mucronata, por tanto, como
+impacto residual se considera la pérdida de Asplenium trilobum, Gardoquia multiflora y Vestia foetida
+(búsqueda y rescate de individuos antes de la intervención, 51 y 248 ejemplares, de Gardoquia multiflora
+y Vestia foetida y lo que sea posible registrar de Asplenium trilobum, entendiendo que los registros de la
+ldb es probable que no estén en el momento de realizar la medida).
+Respecto a la pérdida de hábitat para la fauna terrestre, resultó significativo para las especies Eupsophus
+roseus (Anfibio), Liolaemus schroederi (Reptil), Dromiciops gliroides (Micromamífero) Pudu puda
+(mesomamíferos), Puma concolor (mesomamíferos), Leopardus guigna (mesomamíferos). Si bien la
+superficie a intervenir por el Proyecto es 150,17 hectáreas, de estas 103,02 hectáreas corresponden a
+plantaciones forestales, la cual está sujeta a ciclos de tala rasa y, por tanto, existirá esa pérdida de hábitat
+en un futuro con o sin proyecto. Considerando lo anterior solo 47,15 hectáreas corresponden al impacto
+residual de pérdida de hábitat para la fauna. Respecto a la fauna invertebrada y su impacto significativo,
+se indica que se aplicaran medidas de mitigación, por tanto, no resulta pertinente presentar medidas de
+compensación.
+Las medidas de compensación deben cumplir con un estándar de compensación de biodiversidad
+apropiada, considerando:
+• Requisito de equivalencia: Se refiere al objetivo fundamental de la compensación apropiada, que
+busca que los elementos de la biodiversidad afectados por un proyecto o actividad sean
+compensados en terreno por elementos de similares características, clase, naturaleza, calidad y
+función.
+• Adicionalidad: Se refiere a la ganancia de biodiversidad que se obtiene en el escenario con
+compensación, en comparación al escenario sin compensación. Esto implica comprobar que la
+ganancia en biodiversidad producida por la medida de compensación no se habría producido en
+ausencia de la medida, así como verificar que la implementación de la medida de compensación
+no provoca impactos adversos, tales como el desplazamiento de actividades que generan pérdida
+de biodiversidad hacia otros sectores.
+1-4
+================================================================================
+PAGE 6
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Para cumplir con los dos conceptos anteriores se presentan 2 medidas, las cuales están detalladas en el
+capítulo 7 del EIA y se indican brevemente a continuación
+MC-03: Colecta de Germoplasma, Viverización y Replante de Individuos de Vestia foetida, Gardoquia
+multiflora y Asplenium trilobum. Esta medida tiene por objetivo compensar pérdida de flora en categoría
+de conservación producto de la implementación de las partes, obras y acciones del proyecto. Las especies
+por considerar en esta medida corresponden a las que cuya pérdida resultó ser un impacto significativo.
+La medida buscar compensar la intervención de las tres (3) especies en categoría de conservación (Vestia
+foetida, Gardoquia multiflora y Asplenium trilobum), replantando una cantidad diez veces mayor a la
+cortada a causa del desarrollo del Proyecto, contribuyendo al aumento en número de individuos de
+especies en categoría de conservación (ECC). Esta plantación se realizará en los sitios de enriquecimiento
+descrito para la medida, específicamente en el sector de una quebrada ubicada al noreste del área de
+influencia, los cuales pretenden generar una nueva superficie de bosque nativo (BN) y/o bosque nativo de
+preservación (BNP).
+MC-05 Protección de áreas aledañas al proyecto. El objetivo de la medida es asegurar la existencia de
+parches de vegetación nativa y exótica, que en su conjunto y con una distribución espacial determinada,
+permitan la persistencia de las poblaciones de las especies objetivo. La medida se enfoca principalmente
+en las especies: Pudu puda (pudú), Leopardus guigna (güiña) y Puma concolor (puma). No obstante, se
+considera que la medida beneficiará a un conjunto mayor de especies al permitir la permanencia de hábitat
+para éstas. Esta medida se hará efectiva en 90,66 hectáreas.
+El sitio de la medida de compensación de flora y vegetación se encuentra inmersa dentro del sitio de
+compensación de protección de hábitat de fauna. En el documento, a continuación, se presenta una breve
+descripción del sitio de compensación, centrado en los objetos de protección que se busca compensar, es
+decir flora y fauna vertebrada. La caracterización de los sitios de compensación se considerando el
+estándar que pide la Guía Metodológica para la Compensación de Biodiversidad en Ecosistemas Terrestres
+y Acuáticos Continentales (SEA, 2023).
+2 OBJETIVOS
+El objetivo de este informe es identificar la presencia de singularidades ambientales que representen
+variables críticas para el componente flora y vegetación y fauna en relación con el sitio de compensación
+en biodiversidad propuesto.
+3 JUSTIFICACIÓN DE LAS MEDIDAS DE COMPENSACIÓN Y SITIO DE
+COMPENSACIÓN PROPUESTO
+Desde un punto de vista de flora y vegetación, la justificación de la medida refiere a compensar las especies
+en categoría de conservación cuya afectación corresponde a un impacto significativo, replantando una
+3-5
+================================================================================
+PAGE 7
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+cantidad diez veces mayor a la cortada a causa del desarrollo del Proyecto, contribuyendo al aumento en
+número de individuos de ECC.
+Adicionalmente a través de la medida se protegerán ambientes con presencia de especies en categoría de
+conservación, específicamente bosque nativo de preservación con la presencia de Gomortega keule,
+Pitavia punctata y Citronella mucronata. Estas unidades vegetales se encuentran altamente fragmentados
+por la intervención histórica del sector (plantaciones forestales, industrias, incendios, entre otros),
+además, por el bajo porcentaje de protección que presentan a nivel local y regional, por eso su
+conservación resulta de vital importancia para asegurar su continuidad.
+Adicionalmente, esta medida está en línea con el Plan de Recuperación, Conservación y Gestión del Queule
+(Gomortega keule), el cual ha sido promulgado por el Ministerio del Medio Ambiente (MMA), a través de
+la Resolución Exenta N° 1.367 del 9 de diciembre de 2020. Dentro del plan se consideran las siguientes
+líneas de acción que se condicen con la medida propuesta:
+• Fortalecimiento de la evaluación y protección de la especie en el SEIA
+• Diseño e implementación de un programa de restauración y protección del Queule
+• Aumento de áreas protegidas públicas o privadas e incorporación en regulaciones territoriales
+• Promoción y desarrollo de investigación para el monitoreo de la especie y sus hábitats
+Respecto a la medida de fauna, esta se sustenta en que aquellas plantaciones forestales poseedoras de
+determinadas características – como presencia de sotobosque – son capaces de constituirse en hábitat de
+especies de mamíferos nativos como Pudu puda, Leopardus guigna, Galictis cuja, entre otros (Simonetti
+et al 20131). Esta propuesta sigue la idea de diseñar políticas que promuevan prácticas amigables con la
+biodiversidad en tierras productivas (Fisher et al 20082), en línea con las Metas Aichi señaladas por la
+Convención sobre Diversidad Biológica el año 2010.
+El uso que diversos grupos de vertebrados terrestres hacen de plantaciones forestales ha sido
+ampliamente documentado (Simonetti et al 2013, Estades et al 20123, Acosta-Jamett y Simonetti 20044,
+Estades 19995), y su persistencia en este hábitat dependería, entre otros factores, en la composición a
+escala de paisaje, por ejemplo, la distancia entre parches de hábitat, la existencia de corredores biológicos
+y ausencia de elementos que limiten la conectividad (e.g. Acuña y Estades, 20116).
+1 Simonetti, J., Grez, A. y Estades, C. 2013. Providing habitat for native mammals through understory enhancemente in forestry
+plantations. Cons Biol 27(5):1117-1121
+2 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J y Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+3 Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. En: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. Editorial Universitaria, Santiago; 2012. pp.
+77–98
+4 Acosta-Jamett y Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+5 Estades, C. 1999. Nidificación de aves en un rodal maduro de Pinus radiata. Bol Chil Ornit 6:35-38
+6 Acuña, P. y Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+3-6
+================================================================================
+PAGE 8
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+De esta manera, en base a la vasta literatura disponible sobre esta temática, se entiende que hay
+determinadas características clave para la existencia de un hábitat de buena calidad – a escala de paisaje
+– para las especies de bosque. Estas características se resumen según Arroyo-Rodríguez et al (2020)7, a
+grandes rasgos, en la mantención de ≥ 40% de cobertura de bosque, organizado en al menos un 10% en
+un gran parche y el 30% restante en diversos parches dispersos y corredores, además estar rodeados de
+una matriz antropogénica amigable con la biodiversidad.
+Es este marco teórico-práctico el que da justificación a esta medida, la que busca aproximarse a estos
+estándares para diseñar un paisaje que permita la persistencia de las especies objetivo en el área.
+Por otro lado, la presencia de las especies de meso y macromamíferos distribuidos a lo largo del área de
+influencia del Proyecto enfatiza la necesidad de incluir este enfoque a nivel de paisaje por sobre uno
+dirigido a sitios en particular.
+Resulta necesario precisar que el hábitat de fauna está dominado por plantaciones forestales, por tanto,
+es un hábitat que está sujeta a ciclos de tala rasa y que, dentro de un periodo de tiempo, existirá una
+pérdida de ese hábitat por la cosecha de la plantación forestal.
+Sumado a todo lo expuesto la presente medida le entrega continuidad a corredores biológicos presentes
+en el área de influencia, los que corresponden principalmente a quebradas de bosque nativo, parches de
+plantaciones forestales, cursos de agua o inundaciones presentes en el área.
+El sitio de compensación propuesto tiene una superficie de 90, 80 hectáreas, el cual se muestra en la
+siguiente figura.
+7 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation. Ecology Letters
+23:1404-1420
+3-7
+================================================================================
+PAGE 9
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Figura 3-1. Ubicación de los sitios de compensación y las obras del Proyecto
+Fuente: GAC
+4 METODOLOGÍA DE CARACTERIZACIÓN
+La metodología de caracterización de los sitios de compensación corresponde a la misma metodología de
+caracterización de fauna, flora y vegetación realizada para las campañas de línea de base. Específicamente
+se realizaron las mencionadas a continuación, en caso de necesitar ver el detalle de la metodología revisar
+el capítulo 3 del EIA.
+Fauna terrestre
+• Transectos
+• Puntos de observación
+• Trampas cámara
+Flora y vegetación
+• Parcelas de inventario forestal
+4-8
+================================================================================
+PAGE 10
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+• Método de Braun Blanquet
+• Puntos de observación
+Es preciso aclarar que los límites del sitio de compensación propuestos están relacionado a quebradas con
+vegetación natural y superficie de plantaciones forestales no cosechadas aledañas. En algunos casos los
+puntos de muestreo utilizados no se encuentran dentro del sitio de compensación propiamente tal, pero
+si se encuentran dentro de la misma formación vegetacional que será destinada para compensación,
+siendo igualmente representativos.
+4.1 Puntos de muestreo del componente de Fauna
+Se realizaron 10 puntos de muestreo de fauna (PMF) en total. En cada uno de estos se ejecutaron
+diferentes metodologías, tales como: transectos, estaciones puntuales para aves y búsqueda dirigida para
+la detección de anfibios, reptiles, aves y mamíferos (PMF Tipo 1: puntos en que se aplicaron las técnicas
+estándar para los distintos taxones). Los métodos de trampas cámaras, trampas Sherman, playback y
+detector de ultrasonido se implementaron en siete de los PMF (PMF Tipo 2: puntos en los que se realizaron
+a parte de las técnicas estándar, técnicas complementarias). También se obtuvo información de cámaras
+trampa instaladas en un sitio entre febrero a julio del 2023.
+Tabla 4-1. Síntesis de las técnicas de muestreo aplicadas por ambiente y sus esfuerzos totales durante el total de
+campañas en el área de influencia del proyecto
+Metodología
+Ambiente TA TR TM EA PBav Pban CT TS BD BuD
+Bosque - - - - - - 1 -- - -
+Matorral - - - - - - - - - -
+Modificado 5 5 5 5 5 5 6 5 5 5
+Plantación 5 5 5 5 - - - - - 5
+TA: Transecto de anfibios, TR: Transecto reptiles, TM: Transecto mamíferos, EA: Estación de aves, PBav: Playback aves rapaces nocturnas, PBan:
+Playback anfibios, CT: Cámara trampa, TS: Trampa Sherman, BD: Bat detector, BuD: Búsqueda dirigida.
+Fuente: GAC
+4.2 Puntos de muestreo del componente de Flora y vegetación
+En el sitio de compensación y sus sectores aledaños se realizaron un total de 56 puntos de muestreo de
+flora y vegetación, tal como indica la Tabla 4-2. Las caracterizaciones se realizaron durante el año 2022 y
+2023. En el Apéndice 7.3-2 se incluyen las bases de datos de los muestreos realizados en el área del sitio
+en donde se incluyen las coordenadas geográficas de estos puntos.
+4-9
+================================================================================
+PAGE 11
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 4-2. Número de puntos de muestreo de flora y vegetación por campaña
+N° de puntos
+Campaña Fecha de la campaña
+realizados
+Otoño 2022 30 de mayo y 4 de junio 9
+Invierno 2022 22 y 27 de agosto 9
+Primavera 2022 21 al 25 de noviembre 17
+9 y 13 de enero 9
+Verano 2023
+23 de enero 2
+Primavera 2023 25 al 29 de septiembre 11
+Fuente: GAC
+5 RESULTADOS
+5.1 Animales Vertebrados (fauna silvestre)
+En la siguiente tabla se presentan las especies de fauna silvestre registraros en la caracterización del área
+de compensación. Se identificaron 33 especies de fauna silvestre: un (1) reptil, veintisiete (27) aves y tres
+(3) mamíferos.
+5-10
+================================================================================
+PAGE 12
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 5-1. Especies de fauna silvestre registradas en área de compensación
+Clase Orden Familia Nombre científico Nombre común EC RCE Decreto OB M EM B S E
+Liolaemus Lagartija de D.S.
+Reptilia Squamata Liolaemidae VU 12° E B R - S E
+schroederi Schröeder 16/2016
+Geranoaetus
+Aves Accipitriformes Accipitridae Aguilucho - - - N A R B - E
+polyosoma
+Aves Passeriformes Tyrannidae Anairetes parulus Cachudito - - - N A R B - E
+Aves Piciformes Picidae Picoides lignarus Carpinterito - - - N A R B S -
+Aves Passeriformes Troglodytidae Troglodytes aedon Chercán - - - N A R B - E
+Zonotrichia
+Aves Passeriformes Emberizidae Chincol - - - N A R B - -
+capensis
+Scelorchilus D.S.
+Aves Passeriformes Rhinocryptidae Chucao LC 14° N A R B - -
+rubecola N°79/2018
+Aves Strigiformes Strigidae Glaudicium nana Chuncho - - - N A R B - E
+Churrín de la
+Aves Passeriformes Rhinocryptidae Eugralla paradoxa - - - N A R B - -
+mocha
+Aves Passeriformes Rhinocryptidae Scytalopus fuscus Churrín del norte - - - E A R B - -
+Scytalopus
+Aves Passeriformes Rhinocryptidae Churrín del sur - - - N A R B - -
+magellanicus
+Pygarrhichas
+Aves Passeriformes Furnariidae Comesebo grande - - - N A R B - -
+albogularis
+Phrygilus Cometocino
+Aves Passeriformes Thraupidae - - - N A R - - E
+patagonicus patagónico
+Aves Passeriformes Tyrannidae Xolmis pyrope Diucón - - - N A MDTN B - E
+Aves Passeriformes Tyrannidae Elaenia albiceps Fío fío - - - N A MFTN B - E
+Gaviota
+Aves Charadriiformes Laridae Larus dominicanus - - - N A R - - E
+dominicana
+Golondrina R y
+Aves Passeriformes Hirundinidae Tachycineta meyeni - - - N A B - E
+chilena MDTN
+Pygochelidon Golondrina de R y
+Aves Passeriformes Hirundinidae - - - N A B - E
+cyanoleuca dorso negro MDTN
+Pteroptochos Hued hued
+Aves Passeriformes Rhinocryptidae - - - N A R B S -
+castaneus castaño
+D.S.
+Aves Passeriformes Rhinocryptidae Pteroptochos tarnii Hued hued del sur LC 14° N A R B - -
+N°79/2018
+Aves Passeriformes Fringillinae Spinus barbata Jilguero - - - N A R - - -
+5-11
+================================================================================
+PAGE 13
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Clase Orden Familia Nombre científico Nombre común EC RCE Decreto OB M EM B S E
+Jote de cabeza
+Aves Cathartiformes Cathartidae Cathartes aura - - - N A R B - -
+colorada
+Jote de cabeza
+Aves Cathartiformes Cathartidae Coragyps atratus - - - N A R B - -
+negra
+Aphrastura
+Aves Passeriformes Furnariidae Rayadito - - - N A R B - -
+spinicauda
+Patagioenas D.S.
+Aves Columbiformes Columbidae Torcaza LC 12° N A R - S -
+araucana N°16/2016
+Aves Passeriformes Icteridae Curaeus curaeus Tordo - - - N A R - - -
+Colorhamphus
+Aves Passeriformes Tyrannidae Viudita - - - N A MDTN B - E
+parvirostris
+Aves Passeriformes Turdidae Turdus flacklandii Zorzal - - - N A R - - -
+Mammalia Rodentia Cricetidae Abrothrix olivaceus Ratón oliváceo - - - N B R - - E
+D.S.
+Mammalia Artiodactyla Cervidae Pudu pudu Pudú VU 1° N A R - S -
+N°151/2007
+D.S.
+Mammalia Carnivora Felidae Leopardus guigna Güiña VU 7° N A R B S E
+N°42/2011
+Dromiciops Monito del D.S.
+Mammalia Microbiotheria Microbiotheridae NT 7° N B R B S -
+gliroides Monte N°42/2011
+Tadarida Murciélago cola D.S.
+Mammalia Chiroptera Molossidae LC 13° N A M B - -
+brasiliensis de ratón N°06/2017
+EC: Estado de conservación, RCE: Reglamento para la clasificación de especies silvestres, NT: Casi amenazada, DD: Datos insuficientes, LC: Preocupación menor, VU: Vulnerable.
+OB: Origen biogeográfico, M: Movilidad, A: Alta movilidad, B: Baja movilidad. EM: Estatus migratorios, R: Residente; MDTN: Migratoria dentro del territorio nacional; MFTN: Migratoria
+fuera del territorio nacional; M: Migratoria.BSE= B: especie catalogada como beneficiosa para la actividad silvoagropecuaria, S: especie catalogada con densidades poblacionales
+reducidas, E: especie catalogada como benéfica para la mantención del equilibrio de los ecosistemas naturales.
+Fuente: GAC
+5-12
+================================================================================
+PAGE 14
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+5.1.1 Especies de interés y/o sensibles en el área del proyecto
+Del total de especies registradas en los 10 sitios de muestreo en total, 12 han sido consideradas como
+especies de interés y/o sensibles en la línea de base de fauna vertebrada terrestre. De estas, cuatro
+corresponden a especies de interés (un reptil y tres mamíferos) y 12 son especies sensibles: un (1) reptil,
+siete (7) aves y cuatro (4) mamíferos. A continuación, se detallan las especies que se incluyen dentro de
+estas categorías:
+Se registraron cuatro (4) especies de interés, es decir, aquellas que están en categoría de conservación
+según la legislación nacional, considerándose en categoría de amenaza incluyendo aquellas casi
+amenazadas. A continuación, se indica el detalle de las especies de interés registradas para cada clase:
+• En el grupo de los reptiles, se encuentra L. schroderi (Lagartija de Schröeder), clasificada como
+“Vulnerable” según el décimo segundo proceso del reglamento de clasificación de especies (D.S.
+Nº16/2016 MMA.
+• En el grupo de los mamíferos, se encuentra P. puda (pudú), especie catalogada como “Vulnerable”
+según el primer proceso de clasificación de especies (D.S. Nº151/2007 MINSEGPRES). En el caso
+de la güiña (L. guigna) y monito del monte (D. gliroides) se encuentran en el estado de
+conservación Vulnerable y Casi amenazada de acuerdo con el 7° proceso de clasificación de
+especies (D.S: N°42/2011 del MMA).
+Por otro lado, se registraron 12 especies sensibles, que corresponden a aquellas que, pudiendo ser o no
+de interés, pueden verse afectadas debido a la relación existente entre el tipo de Proyecto y sus
+características específicas de construcción y operación. A continuación, se indica el detalle de las especies
+sensibles registradas para cada clase:
+• En el grupo de los reptiles la especie L. schroederi, debido a su baja movilidad y, por lo tanto, una
+baja capacidad de escape natural ante actividades de intervención en sus hábitats.
+• Se incluyeron como sensibles en el grupo de las aves a las especies que se consideran especies de
+mediana a gran envergadura debido al riesgo de colisión y principalmente electrocución con la
+línea de media tensión considerada dentro de las obras del Proyecto. Se encuentran en esta
+categoría: C. aura, C. atratus, G. nana, G polyosoma, L. dominicanus, P. araucana y V. lignarius.
+• El grupo de los mamíferos, se consideran dos micromamíferos, el ratón oliváceo (A. olivaceus) y
+monito del monte (D. gliroides), debido a su baja movilidad y, por lo tanto, una baja capacidad
+efectiva de escape natural ante perturbaciones en sus hábitats. Con respecto a mesomamíferos,
+pudú (P. puda) y güiña (L. guigna) son consideradas especies potencialmente susceptibles a
+atropellos.
+A continuación, en la Tabla 5-2 se indican los detalles de las especies de interés y/o sensibles:
+5-13
+================================================================================
+PAGE 15
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 5-2. Resumen de las especies de interés y/o sensibles para el área de influencia del proyecto
+Especie de interés Especies sensibles
+En categoría Riesgo de
+Clase En categoría Baja Especialista Riesgo de
+de no Total electrocución con
+de amenaza movilidad de hábitat atropello
+amenaza LTE
+Amphibia 0 0 0 0 0 0 0
+Reptilia 1 0 1 1 0 0 0
+Aves 0 3 3 0 0 7 0
+Mammalia 1 2 3 2 2 0 2
+TOTAL 3 5 8 3 2 7 2
+*LTE: línea de transmisión eléctrica
+Fuente: GAC
+5.1.1.1 Descripción de las especies de interés y/o sensibles registradas
+A continuación, se indica para cada especie de interés y/o sensible, una descripción, en base a la
+bibliografía disponible para cada una, que permite ponderar la relevancia de los hallazgos efectuados.
+a) Liolaemus schroederi
+La lagartija de Schröeder (Liolaemus schroederi) es una especie de reptil de la familia Liolamidae
+considerada como endémica del país. Su distribución va desde la región Metropolitana hasta la región de
+la Araucanía, entre los 200 y los 2.600 m.s.n.m. Habita principalmente bosques y matorrales, muy tímida
+a la presencia humana. De hábitos insectívoros y de reproducción vivípara (Demangel 2016, Mella 2017).
+A nivel local se encuentra clasificado como “Vulnerable” según D.S. N°16/2016 del Ministerio del Medio
+Ambiente. Según la clasificación de la IUCN no presenta categoría de amenaza al estar clasificada como
+“Preocupación menor” (Avilés 2016b).
+Su estado de conservación internacional es de “Preocupación menor” según IUCN (BirdLife International
+2023). En Chile no se encuentra clasificado según los criterios de Ley de Caza o RCE, por lo que no presenta
+categoría de conservación según la normativa nacional vigente.
+b) Cathartes aura
+El jote de cabeza colorada (Cathartes aura) es una especie de ave perteneciente al orden Cathartiformes
+y familia Cathartidae. Se distribuye desde Arica a Magallanes, desde el nivel del mar hasta los 2.500
+m.s.n.m. Se alimenta de carroña y en pocas ocasiones puede matar a sus presas. Se reproduce entre los
+meses de septiembre y octubre, con una postura de 1-2 huevos de tonalidad blanca con pintas rojas.
+A nivel global es considerado en categoría “Preocupación Menor” (BirdLife International 2018a), en Chile
+no se encuentra clasificado según los criterios de Ley de caza o RCE.
+5-14
+================================================================================
+PAGE 16
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+c) Coragyps atratus
+El jote de cabeza negra (Coragyps atratus), es una especie de ave perteneciente al orden Cathartiformes
+y familia Cathartidae. Se distribuye desde Arica a Aysén, desde el nivel del mar hasta los 2.000 m s.n.m. Se
+alimenta de carroña y en grupos. Se reproduce entre los meses de septiembre y octubre, con una postura
+de 2 huevos de tonalidad blanca con pintas rojas.
+A nivel global es considerado en categoría “Preocupación menor” (BirdLife International 2016b), en Chile
+no se encuentra clasificado según los criterios de Ley de caza o RCE.
+d) Geranoaetus polyosoma
+El aguilucho (Geranoaetus polyosoma), es una especie de ave perteneciente al orden Accipitriformes y
+familia Accipitridae. Se distribuye desde Venezuela hasta Chile y Argentina. En Chile desde la región de
+Arica y Parinacota hasta la región de Magallanes (Tierra del Fuego) desde el nivel del mar hasta los 4.500
+m.s.n.m. (Muñoz et al. 2004). Su alimentación es adaptable y oportunista, capturando principalmente
+roedores, también pequeños conejos y aves. Comienza a reproducirse a los 4 o 5 años, su periodo de
+reproducción es muy variable según su locación, construye nidos sobre árboles, arbustos, cactus o en
+riscos, poniendo uno a tres huevos. La incubación se prolonga por 28 días, incubando el macho y la hembra
+(Muñoz et al. 2004).
+A nivel local no se encuentra evaluada por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie beneficiosa para la actividad
+silvoagropecuaria (B) y como benéfica para la mantención del equilibrio de los ecosistemas naturales (E).
+A nivel global está catalogada como “Preocupación menor” (BirdLife International 2016c).
+e) Glaucidium nana
+El chuncho (Glaucidium nana) es una especie de ave nativa perteneciente al orden Strigiformes y familia
+Strigidae. En Chile se distribuye desde la región de Atacama hasta la región de Magallanes (Tierra del
+Fuego) desde el nivel del mar hasta los 2.000 m.s.n.m. (Martínez y González 2017). Amplio rango de
+ambientes, incluyendo matorrales, costa, bosques, espinos, parques y jardines. Es un ave rapaz, capaz de
+cazar presas pequeñas como aves, mamíferos y reptiles, e incluso insectos (Martínez y González 2017).
+A nivel local no se encuentra evaluada por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie beneficiosa para la actividad
+silvoagropecuaria (B) y como benéfica para la mantención del equilibrio de los ecosistemas naturales (E).
+A nivel global está catalogada como “Preocupación menor” (BirdLife International 2016d).
+f) Larus dominicanus
+La gaviota dominicana (Larus dominicanus) es un ave nativa de Chile perteneciente al orden
+Charadriiformes y a la familia Laridae. Es un ave de amplia distribución a lo largo de Chile, abarcando desde
+5-15
+================================================================================
+PAGE 17
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+la región de Arica - Parinacota hasta Cabo de Hornos. Habita a lo largo de toda la costa chilena y hacia el
+interior de ríos. Su alimentación se basa en peces, mariscos y crustáceos; en lugares donde las gaviotas
+dominicanas cohabitan con los humanos se ha convertido en omnívora, alimentándose de desperdicios de
+alimentos, además de esto hay veces que los polluelos y los huevos descuidados por sus padres pasan a
+formar parte de la dieta de esta ave. Su sitio de preferencia para la nidificación son zonas planas en islas
+rocosas o en acantilados costeros, también hay veces que anidan en techos de edificaciones costeras. Por
+nidada ponen de 2 a 3 huevos de color crema verdoso con manchas negras.
+Su estado de conservación internacional es de “Preocupación menor” según IUCN (BirdLife International
+2018b) y en Chile no se encuentra clasificado según los criterios de Ley de caza o RCE.
+g) Patagioenas araucana
+La torcaza (Patagioenas araucana) es una especie de ave nativa perteneciente al orden Columbiformes y
+familia Columbidae. En Chile se distribuye desde la región de Atacama hasta la región de Magallanes
+(Couve et al; 2016). Su ambiente se asocia a zonas boscosas o arboladas, también en bordes de bosques y
+zonas cultivadas. Es un ave muy ligada a la historia de Chile y precolombina, esta ave se vio muy afectada
+por una enfermedad emergente que la tuvo al borde de la extinción. Se alimenta de frutos y bayas, suele
+anidar entre diciembre y mayo, la postura sólo consiste en un huevo de color blanco (consulta online en
+Aves de Chile).
+A nivel local no se encuentra evaluada por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie beneficiosa para la actividad
+silvoagropecuaria (B) y como benéfica para la mantención del equilibrio de los ecosistemas naturales (E).
+A nivel global está catalogada como “Preocupación menor” (BirdLife International 2016f).
+h) Veniliornis lignarius
+El carpinterito (Veniliornis lignarius) es una especie de ave nativa, perteneciente al orden Piciforme y a la
+familia Picidae. En Chile se distribuye desde la Región de Coquimbo hasta la Región de Magallanes. Suele
+encontrarse en árboles dispersos, en prados, faldeos de cerros, huertos, plantaciones y zonas boscosas.
+Su dieta se basa principalmente de gusanos, larvas e insectos que busca entre grietas de troncos o
+taladrando árboles podridos. Comienza a nidificar en octubre en las provincias centrales y hacia el verano
+en las zonas lluviosas del sur, sus nidos los realizan haciendo agujeros en árboles o ramas gruesas los que
+rellenan con aserrín y ramas pequeñas poniendo por nidada de 3 a 4 huevos blancos, brillantes y alargados.
+Su estado de conservación internacional es de “Preocupación menor” según IUCN (BirdLife International
+2016i.). En Chile no se encuentra clasificado por el RCE, sin embargo, es considerada con densidades
+poblacionales reducidas (S) de acuerdo con los criterios de protección del SAG.
+5-16
+================================================================================
+PAGE 18
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+i) Abrothrix olivaceus
+El ratón oliváceo (Abrothrix olivaceus) es una especie de mamífero perteneciente al orden Rodentia y
+familia Cricetidae. En Chile se distribuye desde la región de Arica y Parinacota (límite norte con Perú) hasta
+la región de Magallanes (Tierra del Fuego), desde el nivel del mar hasta los 2.500 m.s.n.m. (Iriarte 2008).
+Habita diversos ambientes, desde zonas de pastizales y matorrales hasta bosques y matorrales húmedos.
+Su actividad es preferentemente crepuscular nocturna (Muñoz y Yáñez 2009). Se reproduce entre
+septiembre y abril, produce 3 camadas de 4 a 6 crías, usualmente construye galerías simples para su
+reproducción. Su alimentación es omnívora y consume gran variedad de alimentos (Iriarte 2008).
+A nivel local no se encuentra evaluada, por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie benéfica para la mantención
+del equilibrio de los ecosistemas naturales (E). A nivel global está catalogada como “Preocupación menor”
+(Patterson 2017).
+j) Dromiciops bozinovici
+El monito del monte de Pancho (Dromiciops bozinovici), es una especie de marsupial nativo del país del
+orden Microbiotheria y de la familia Microbiotheriidae. Se distribuye desde la región del Biobío hasta la
+región de la Araucanía. Habita principalmente bosques con dominancia de coihues con matorral de quila,
+además de árboles como el boldo, lingue y olivillo (D’Elia et al. 2018).
+Debido a la reciente separación de esta especie de su par D. gliroides, la especie D. bozinovici no ha sido
+clasificada por los últimos procesos de clasificación de especies del Ministerio del Medio Ambiente, por
+ello y para este informe, se considera la clasificación para D. gliroides, el que a nivel local se encuentra
+evaluada como “Casi amenazada” según D.S. N°42/2011 del MMA. A nivel global está catalogada como
+“Casi amenazada” (Martin et al. 2015).
+k) Leopardus guigna
+La güiña (Leopardus guigna) es una especie del orden Carnivora y de la familia Felidae. Su distribución en
+Chile se especifica entre las regiones de Coquimbo a Aysén, se describe como una especie solitaria o en
+parejas durante época de celo, de comportamientos diurnos y nocturnos y hábitos trepadores. Se le
+encuentra en ambientes cordilleranos, bosques húmedos y templados, matorral, sabana y cerca de
+asentamientos humanos, desde el nivel del mar hasta los límites de la vegetación entre 1.900 y 2.500
+m.s.n.m. Es carnívora y se alimenta de presas vivas, pequeños mamíferos, aves y especies domésticas.
+Construye nidos sobre árboles, tiene de 1 a 5 crías que deposita sobre estos. A nivel global se clasifica
+como “Vulnerable (VU)” por la IUCN y en Chile se clasifica por la RCE como “Vulnerable (VU)” de Los Ríos
+al norte y como “Casi amenazado (NT)” de Los Lagos al sur.
+5-17
+================================================================================
+PAGE 19
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+l) Pudu puda
+El pudú (Pudu puda) es una especie nativa del orden Artiodactyla y de la familia Cervidae, el cérvido más
+pequeño de Chile. Su distribución en el país se especifica entre las regiones de Maule y Aysén, se describe
+como una especie solitaria o formando grupos de hasta 3 individuos. Se encuentra en zonas cordilleranas
+de los Andes y de la Costa, asociados a bosques húmedos y templados y zonas sombrías desde el nivel del
+mar hasta los 1.700 m.s.n.m. Es herbívoro y se alimenta preferentemente de helechos, arbustos y frutos.
+Presenta un periodo de celo entre abril y junio y durante septiembre nace una cría por hembra.
+A nivel global se encuentra clasificado como “Casi amenazado” por la IUCN (Silva-Rodríguez et al. 2016) y
+en Chile se clasifica como “Vulnerable” por el RCE (D.S. N°151/2007).
+5.2 Vegetación
+El sitio de compensación tiene una superficie de 90,66 hectáreas. Dicha superficie fue recorrida y
+prospectada en terreno logrando definir el uso actual del suelo, tal como se muestra Tabla 5-3 y siguiendo
+el mismo tipo de clasificación que la línea de base de flora y vegetación.
+Tabla 5-3. Uso de suelo y superficie (ha) en el sitio de compensación
+Ambiente Uso actual Sub-Uso Ley N° 20.283 Superficie (ha)
+Plantación
+Intervenido Plantación Plantación forestal 76,92
+forestal
+Bosque
+Bosque Bosque de preservación nativo de 4,9
+preservación
+Natural
+Herbazal Herbazal No aplica 4,21
+Matorral No aplica 2,95
+Matorral
+Matorral arborescente No aplica 1,68
+Total 90,66
+Fuente: GAC
+De los ambientes intervenidos, la gran mayoría corresponde a plantaciones de Pinus radiata y en menor
+medida a plantaciones de Eucalyptus globulus. Las quebradas con bosque nativo son de preservación
+debido a la presencia de Gomortega keule, Pitavia punctata y Citronella mucronata. Las especies
+dominantes en las quebradas son Aextoxicon punctatum y Laurelia sempervirens. El herbazal corresponde
+a una formación dominada por Chusquea quila, que corresponde a un sector altamente intervenido donde
+la especie a colonizado por sobre otras especies nativas y/o introducidas. Finalmente, los matorrales están
+dominamos por Teline monspessulana, Fuchsia magellanica y Rubus ulmifolius. El detalle de las superficies
+en la siguiente tabla.
+5-18
+================================================================================
+PAGE 20
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 5-4. Formaciones vegetacionales y superficie (ha) del sitio de compensación
+Uso de Superficie AI Participación
+Sub-uso Formación
+Suelo (ha) (%)
+Plantación de Eucalyptus globulus 16,37 11,5
+Plantación Plantación forestal
+Plantación de Pinus radiata 60,55 42,4
+Total Plantación 76,92 53,9
+Bosque de Bosque nativo de preservación de Aextoxicon
+Bosque 4,9 3,4
+preservación punctatum
+Total Bosque 4,9 3,4
+Herbazal Herbazal Herbazal de Chusquea quila 4,21 3
+Total Herbazal 4,21 3
+Matorral Matorral Matorral de Teline monspessulana 2,95 2,1
+Matorral
+Matorral arborescente de Fuchsia magellanica 0,36 0,3
+arborescente
+Matorral arborescente de Rubus ulmifolius 1,32 0,9
+Total Matorral 4,63 3,3
+TOTAL 90,66 63,5
+Fuente: GAC
+Figura 5-1 Formaciones vegetacionales del sitio de compensación de biodiversidad
+Fuente: GAC
+5-19
+================================================================================
+PAGE 21
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+5.3 Flora
+Según los 56 puntos de muestreo realizados para caracterizar el sector, fue posible registrar un total de
+137 especies. El catálogo florístico del Sitio de compensación se presenta en la Tabla 5-5, junto con su
+clasificación taxonómica, origen fitogeográfico, hábito de crecimiento y pertenencia al D.S. N° 68/2009 del
+MINAGRI.
+5-20
+================================================================================
+PAGE 22
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 5-5. Catálogo florístico presente en el Sitio de Compensación
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Bomarea salsilla (L.) VAL- RME- LBO- MAU- NUB- BIO-
+Alstroemeriaceae N HP - -
+Mirb. ARA
+Amaryllidaceae Miersia minor Kunth E HP RME- LBO- NUB- BIO- ARA - -
+Herreria stellata Ruiz &
+Asparagaceae E HP MAU- BIO- LLA - -
+Pav.
+Greigia sphacelata (Ruiz
+Bromeliaceae E HP MAU- NUB- BIO- ARA- LLA - -
+& Pav.) Regel
+ATA- COQ- VAL- RME- LBO- MAU-
+Cyperaceae Cyperus eragrostis Lam. N HP - -
+NUB- BIO- ARA- LRI- LLA- JFE- IPA
+Uncinia phleoides (Cav.) COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+Pers. BIO- ARA- LRI- LLA- AIS- JFE
+Dioscorea brachybotrya
+N HP LBO- MAU- NUB- BIO- ARA- LRI- LLA - -
+Poepp.
+a
+t Dioscorea humifusa ATA- COQ- VAL- RME- LBO- MAU-
+y h p a d Dioscoreaceae Poepp. E HP NUB- BIO- ARA - -
+o is
+ilo p
+o
+Dioscorea saxatilis
+E HP
+COQ- VAL- RME- LBO- MAU- NUB-
+- -
+n
+g
+a
+iliL Poepp. BIO
+M Crocosmia
+crocosmiiflora (Lemoine
+I HP VAL- ARA- LLA- JFE - -
+ex Burbidge & Dean)
+N.E. Br.
+Libertia sessiliflora VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Iridaceae E HP - -
+(Poepp.) Skottsb. LLA
+Sisyrinchium arenarium COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+Poepp. BIO- ARA- AIS- MAG
+Sisyrinchium striatum ATA- COQ- VAL- RME- LBO- MAU-
+N HP - -
+Sm. NUB- BIO- ARA
+LBO-MAU- NUB- BIO- ARA- LRI- LLA-
+Juncaceae Juncus procerus E. Mey. N HP - -
+AIS- MAG- JFE
+Luzuriaga radicans Ruiz LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Luzuriagaceae N Ar - -
+& Pav. AIS
+5-21
+================================================================================
+PAGE 23
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Lapageria rosea Ruiz & COQ- VAL- LBO- MAU- NUB- BIO-
+Philesiaceae E Ar - -
+Pav. ARA- LRI- LLA
+COQ- VAL- RME- MAU- NUB- BIO-
+Agrostis capillaris L. I HP - -
+ARA- LRI- LLA- AIS- MAG
+LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Chusquea quila Kunth E HP - -
+AIS
+Chusquea valdiviensis E.
+N HP NUB- BIO- ARA- LRI- LLA - -
+Desv.
+Poaceae COQ- VAL- RME- LBO- MAU- NUB-
+Holcus lanatus L. I HA - -
+BIO- ARA- LRI- LLA- AIS- MAG
+Nassella chilensis (Trin.) AYP- ANT- COQ- VAL- RME- LBO-
+N HP - -
+E. Desv. MAU- NUB- BIO- ARA- LRI
+TAR- ANT- COQ- VAL- RME- LBO-
+Poa annua L. I HA MAU- NUB- BIO- ARA- LRI- LLA- AIS- - -
+MAG- JFE- IPA
+LC
+Aextoxicon punctatum COQ- VAL- LBO- MAU- NUB- BIO-
+Aextoxicaceae N A X D.S. N°
+Ruiz & Pav. ARA- LRI- LLA
+79/2018
+Lithrea caustica ATA- COQ- VAL- RME- LBO- MAU-
+Anacardiaceae E A X -
+(Molina) Hook. & Arn. NUB- BIO- ARA- LRI
+a
+d Centella 5-22rgéntea (L.) MAU- BIO- ARA- LRI- LLA- AIS- MAG-
+is N HP - -
+p Urb. JFE
+o
+ilo
+VAL- RME- LBO- MAU- NUB- BIO-
+n Daucus carota L. I HP - -
+g Apiaceae ARA- LRI- LLA- IPA
+a
+M
+Eryngium paniculatum
+COQ- VAL- RME- LBO- MAU- NUB-
+Cav. & Dombey ex F. N HP - -
+BIO- ARA- LRI- LLA
+Delaroche
+Acrisione
+COQ- VAL- RME- LBO- MAU- NUB-
+5-22rgéntea5-22te N Ar - -
+BIO- ARA- LRI- LLA
+Asteraceae (Hook. & Arn.) B. Nord.
+Baccharis racemosa VAL- RME- LBO- MAU- NUB- BIO-
+N Ar - -
+(Ruiz & Pav.) DC. ARA- LRI- LLA
+5-22
+================================================================================
+PAGE 24
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Carduus pycnocephalus COQ- VAL- RME- LBO- MAU- NUB-
+I HP - -
+L. BIO- ARA- LRI- LLA- JFE
+COQ- VAL- RME- LBO- MAU- NUB-
+Cynara cardunculus L. I HP - -
+BIO- JFE- IPA
+Eupatorium salvium COQ- VAL- RME- LBO- MAU- NUB-
+E Ar - -
+Colla BIO
+AYP- COQ- VAL- RME- LBO- MAU-
+Gamochaeta americana
+N HP NUB- BIO- ARA- LRI- LLA- AIS- MAG- - -
+(Mill.) Wedd.
+JFE- IPA
+ANT- ATA- COQ- VAL- RME- LBO-
+Lactuca serriola L. I HP - -
+MAU- NUB- BIO- ARA
+Leontodon hirtus L. I HP VAL- NUB- BIO- LRI- LLA - -
+Podanthus mitiqui Lindl. E Ar COQ- VAL- RME- LBO- MAU- NUB X -
+COQ- VAL- RME- LBO- MAU- NUB-
+Proustia pyrifolia DC. E Ar - -
+BIO- ARA- LRI- LLA
+Pseudognaphalium AYP- TAR- ATA- COQ- VAL- RME-
+viravira (Molina) N HP LBO- MAU- NUB- BIO- ARA- LLA- AIS- - -
+Anderb. MAG
+Senecio otites Kunze ex
+N HP MAU- NUB- BIO- ARA- LRI- LLA- AIS - -
+DC.
+ANT- ATA- COQ- VAL- RME- LBO-
+Senecio vulgaris L. I HA MAU- NUB- BIO- ARA- LRI- LLA- MAG- - -
+JFE
+Silybum marianum (L.) COQ- VAL- RME- LBO- MAU- NUB-
+I HP - -
+Gaertn. BIO- ARA- LRI- LLA- JFE
+Laurelia sempervirens
+E A LBO- MAU- NUB- BIO- ARA- LRI- LLA X -
+(Ruiz & Pav.) Tul.
+Atherospermataceae
+Laureliopsis philippiana
+N A MAU- NUB- BIO- ARA- LRI- LLA- AIS X -
+(Looser) Schodde
+Campsidium
+MAU- NUB- BIO- ARA- LRI- LLA- AIS-
+Bignoniaceae valdivianum (Phil.) N Ar - -
+MAG
+Skottsb.
+Raphanus raphanistrum ANT- ATA- COQ- VAL- RME- LBO-
+Brassicaceae I HP - -
+L. MAU- NUB- BIO- ARA- LLA
+5-23
+================================================================================
+PAGE 25
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Calceolaria dentata Ruiz VAL- RME- LBO- MAU- NUB- BIO-
+N Ar - -
+& Pav. ARA- LRI- LLA
+Calceolaria integrifolia COQ- VAL- RME- LBO- MAU- NUB-
+N Ar - -
+L. BIO- ARA- LRI- LLA
+Calceolariaceae
+Jovellana punctata Ruiz
+E Ar VAL- RME- MAU- NUB- BIO- ARA- LRI - -
+& Pav.
+Jovellana 5-24rgéntea
+E Ar MAU- NUB- BIO- ARA- LRI - -
+(Cav.) G. Don
+AYP- TAR- ANT- ATA- COQ- VAL-
+Lobelia oligophylla
+N HP RME- LBO- MAU- NUB- BIO- ARA- - -
+(Wedd.) Lammers
+Campanulaceae LLA- AIS- MAG
+VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Lobelia tupa L. E HP X -
+LLA- JFE
+VU
+Citronella mucronata COQ- VAL- RME- LBO- MAU- NUB-
+Cardiopteridaceae E A X D.S. N°
+(Ruiz & Pav.) D. Don BIO- ARA- LLA
+16/2016
+Dichondra 5-24rgénte ANT- ATA- COQ- VAL- RME- LBO-
+Convolvulaceae N HP - -
+Sw. MAU- NUB- BIO- ARA- LLA- JFE
+Aristotelia chilensis COQ- VAL- RME- LBO- MAU- NUB-
+Elaeocarpaceae N A X -
+(Molina) Stuntz BIO- ARA- LRI- LLA- AIS- JFE
+Gaultheria insana ANT- MAU- NUB- BIO- ARA- LRI- LLA-
+Ericaceae N Ar - -
+(Molina) D.J. Middleton AIS- MAG
+Escallonia pulverulenta COQ- VAL- RME- LBO- MAU- NUB-
+Escalloniaceae E Ar X -
+(Ruiz & Pav.) Pers. BIO- ARA
+VAL- RME- LBO- MAU- NUB- BIO-
+Acacia dealbata Link I A - -
+ARA- LRI- LLA- JFE
+Senna stipulacea (Aiton) COQ- VAL- LBO- MAU- NUB- BIO-
+E Ar - -
+H.S. Irwin & Barneby ARA- LRI- LLA
+Fabaceae
+Sophora macrocarpa COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+Sm. BIO- ARA
+Teline monspessulana VAL- RME- LBO- MAU- NUB- BIO-
+I Ar - -
+(L.) K. Koch ARA- LRI- LLA- JFE
+Francoa appendiculata VAL- RME- LBO- MAU- NUB- BIO-
+Francoaceae E HP - -
+Cav. ARA- LRI- LLA
+5-24
+================================================================================
+PAGE 26
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+AYP- TAR- ANT- ATA- COQ- VAL-
+Erodium cicutarium (L.)
+I HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+L’Hér. Ex Aiton
+LLA- AIS- MAG- JFE
+Geraniaceae
+AYP- TAR- ANT- ATA- COQ- VAL-
+Geranium core-core
+N HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+Steud.
+LLA- AIS- MAG- JFE
+Sarmienta scandens
+COQ- MAU- NUB- BIO- ARA- LRI- LLA-
+Gesneriaceae (J.D. Brandis ex Molina) E Ar - -
+AIS
+Pers.
+EN
+Gomortega keule
+Gomortegaceae E A MAU- NUB- BIO X D.S. N°
+(Molina) Baill.
+151/2007
+Ribes punctatum Ruiz & COQ- VAL- RME- LBO- MAU- NUB-
+Grossulariaceae N Ar - -
+Pav. BIO- ARA- LLA
+Gunnera tinctoria COQ- VAL- LBO- MAU- NUB- BIO-
+Gunneraceae N HP - -
+(Molina) Mirb. ARA- LLA- AIS- MAG- JFE
+Hypericum perforatum VAL- RME- LBO- MAU- NUB- BIO-
+Hypericaceae I HP - -
+L. ARA- LRI- LLA- JFE
+Lepechinia chilensis COQ- VAL- LBO- MAU- NUB- BIO-
+E Ar - -
+(Molina) R. Morales ARA- LRI- LLA
+COQ- VAL- RME- LBO- MAU- NUB-
+Mentha pulegium L. I HP - -
+BIO- ARA- LRI- LLA- JFE
+Lamiaceae
+COQ- VAL- RME- LBO- MAU- NUB-
+Stachys macraei Benth. E HP - -
+BIO- ARA- LRI- LLA- AIS
+COQ- VAL- RME- LBO- MAU- NUB-
+Teucrium bicolor Sm. E Ar - -
+BIO- ARA- LRI- LLA
+Boquila trifoliolata (DC.)
+N Ar MAU- NUB- BIO- ARA- LRI- LLA - -
+Decne.
+Lardizabalaceae
+Lardizabala biternata VAL- RME- LBO- MAU- NUB- BIO-
+E Ar - -
+Ruiz & Pav. ARA- LRI- JFE
+Cryptocarya alba COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+(Molina) Looser BIO- ARA
+Lauraceae LC
+Persea lingue (Ruiz & VAL- RME- LBO- MAU- NUB- BIO-
+N A X D.S. N°
+Pav.) Nees ARA- LRI- LLA
+42/2011
+5-25
+================================================================================
+PAGE 27
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Loasa acanthifolia Desr. N HP MAU- NUB- BIO- ARA- LRI- LLA - -
+Loasaceae
+Loasa tricolor Ker Gawl. N HA ATA- COQ- VAL- RME- MAU - -
+Modiola caroliniana (L.) ATA- COQ- VAL- RME- LBO- MAU-
+Malvaceae I HP - -
+G. Don NUB- BIO- ARA- LRI- LLA- JFE
+COQ- VAL- RME- LBO- MAU- NUB-
+Monimiaceae Peumus boldus Molina E A X -
+BIO- ARA- LRI- LLA
+Amomyrtus luma
+(Molina) D. Legrand & N A MAU- NUB- BIO- ARA- LRI- LLA- AIS X -
+Kausel
+Amomyrtus meli (Phil.)
+E A BIO- ARA- LRI- LLA X -
+D. Legrand & Kausel
+Eucalyptus globulus VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+I A - -
+Labill. JFE- IPA
+Luma apiculata (DC.) COQ- VAL- RME- LBO- MAU- NUB-
+N A X -
+Burret BIO- ARA- LRI- LLA- AIS
+LC
+Myrtaceae Luma chequen (Molina) COQ- VAL- RME- LBO- MAU- NUB-
+E A X D.S. N°
+A. Gray BIO- ARA- LRI- LLA
+10/2023
+Myrceugenia exsucca COQ- VAL- RME- LBO- MAU- NUB-
+N A X -
+(DC.) O. Berg BIO- ARA- LRI- LLA- AIS
+Myrceugenia obtusa COQ- VAL- RME- LBO- MAU- NUB-
+E A X -
+(DC.) O. Berg BIO- ARA
+Myrceugenia planipes
+N A NUB- BIO- ARA- LRI- LLA- AIS X -
+(Hook. & Arn.) O. Berg
+LBO- MAU- NUB- BIO- ARA- LRI- LLA-
+Ugni molinae Turcz. N Ar X -
+AIS- JFE
+Nothofagus obliqua VAL- RME- LBO- MAU- NUB- BIO-
+Nothofagaceae N A X -
+(Mirb.) Oerst. ARA- LRI- LLA
+Fuchsia magellanica VAL- RME- LBO- MAU- NUB- BIO-
+Onagraceae N Ar X -
+Lam. ARA- LRI- LLA- AIS- MAG- JFE
+ANT- ATA- COQ- VAL- RME- LBO-
+Oxalis laxa Hook. & Arn. N HA - -
+MAU- BIO
+Oxalidaceae
+COQ- VAL- RME- LBO- MAU- NUB-
+Oxalis rosea Jacq. E HA - -
+BIO- ARA- LRI- LLA- AIS
+5-26
+================================================================================
+PAGE 28
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Oxalis sp. In HA - - -
+ANT- ATA- COQ- VAL- RME- LBO-
+Papaveraceae Fumaria agraria Lag. I HA - -
+MAU- NUB- BIO- ARA- LRI- LLA
+ATA- VAL- MAU- NUB- BIO- ARA- LRI-
+Plantaginaceae Digitalis purpurea L. I HP - -
+LLA- AIS- MAG- JFE
+Muehlenbeckia AYP- TAR- ATA- COQ- VAL- RME-
+hastulata (Sm.) I.M. N Ar LBO- MAU- NUB- BIO- ARA- LRI- LLA- - -
+Johnst. AIS- MAG
+Polygonaceae
+AYP- TAR- ANT- COQ- VAL- RME-
+Rumex acetosella L. I HP LBO- MAU- NUB- BIO- ARA- LRI- LLA- - -
+AIS- MAG- JFE
+ANT- ATA- COQ- VAL- RME- LBO-
+Rumex crispus L. I HP MAU- NUB- BIO- ARA- LRI- LLA- AIS- - -
+MAG- JFE- IPA
+AYP- TAR- ATA- COQ- VAL- RME-
+Anagallis arvensis L. I HA LBO- MAU- NUB- BIO- ARA- LLA- JFE- - -
+Primulaceae IPA
+Lysimachia arvensis (L.)
+I HA - - -
+U.Manns & Anderb.
+Gevuina avellana
+N A MAU- NUB- BIO- ARA- LRI- LLA X -
+Molina
+Proteaceae
+Lomatia dentata (Ruiz & COQ- VAL- LBO- MAU- NUB- BIO-
+N A X -
+Pav.) R. Br. ARA- LRI- LLA
+ATA- COQ- VAL- RME- LBO- MAU-
+Ranunculaceae Ranunculus repens L. I HP - -
+NUB- BIO- ARA- LRI- LLA- AIS- MAG
+Rhamnaceae Rhamnus diffusus Clos E Ar MAU- NUB- BIO- ARA- LRI X -
+Acaena 5-27rgéntea
+N HP LBO- MAU- NUB- BIO- ARA- LLA- JFE - -
+Ruiz & Pav.
+Prunus domestica L. I A - - -
+Rosaceae VAL- RME- LBO- MAU- NUB- BIO-
+Rosa rubiginosa L. I Ar - -
+ARA- LLA- AIS- MAG
+Rubus constrictus P.J.
+I Ar COQ- BIO- ARA- LRI- LLA - -
+Müll. & Lefèvre
+5-27
+================================================================================
+PAGE 29
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+COQ- VAL- RME- LBO- MAU- NUB-
+Rubus ulmifolius Schott I Ar - -
+BIO- ARA- LLA- JFE
+AYP- TAR- ANT- ATA- COQ- VAL-
+Galium aparine L. I HA RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+LLA- AIS- MAG- JFE
+Galium fuegianum
+N HA LBO- MAU- NUB- BIO- ARA- AIS- MAG - -
+Rubiaceae Hook.f.
+Galium hypocarpium (L.) ANT- COQ- VAL- RME- LBO- MAU-
+N HP - -
+Endl. Ex Griseb. NUB- BIO- ARA- LRI- LLA- AIS
+Nertera granadensis COQ- VAL- MAU- NUB- BIO- ARA- LRI-
+N HP - -
+(Mutis ex L.f.) Druce LLA- AIS- MAG- JFE
+EN
+Pitavia punctata (Ruiz &
+Rutaceae E A MAU- NUB- BIO- ARA X D.S. N°
+Pav.) Molina
+151/2007
+Azara integrifolia Ruiz & VAL- RME- LBO- MAU- NUB- BIO-
+E Ar X -
+Salicaceae Pav. ARA- LRI
+Azara sp. N Ar - - -
+Alonsoa meridionalis COQ- VAL- RME- LBO- MAU- NUB-
+N HP - -
+(L.f.) Kuntze BIO
+AYP- COQ- VAL- RME- LBO- MAU-
+Scrophulariaceae Buddleja globosa Hope N Ar X -
+NUB- BIO- ARA- LRI- LLA
+Verbascum virgatum ATA- COQ- VAL- RME- LBO- MAU-
+I HP - -
+Stokes NUB- BIO- ARA- LLA- JFE- IPA
+AYP- TAR- ANT- ATA- COQ- VAL-
+Solanum furcatum
+N HP RME- LBO- MAU- NUB- BIO- ARA- - -
+Dunal
+LLA- AIS- JFE
+AYP- TAR- ANT- ATA- COQ- VAL-
+Solanaceae Solanum nigrum L. I HA RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+LLA- AIS
+EN
+Vestia foetida
+E Ar VAL- LBO- NUB- BIO- ARA- LRI - D.S. N°
+Hoffmanns.
+10/2023
+Tropaeolum ciliatum
+Tropaeolaceae E HP VAL- RME- MAU- NUB- BIO- ARA - -
+Ruiz & Pav.
+5-28
+================================================================================
+PAGE 30
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Rhaphithamnus
+COQ- VAL- RME- LBO- MAU- NUB-
+Verbenaceae spinosus (Juss.) N Ar X -
+BIO- ARA- LRI- LLA- AIS
+Moldenke
+Viola capillaris Pers. N Ar LBO- MAU- NUB- BIO- ARA- LRI- LLA - -
+Violaceae VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+Viola portalesia Gay E Ar - -
+LLA
+Cissus striata Ruiz & COQ- VAL- RME- LBO- MAU- NUB-
+Vitaceae N Ar - -
+Pav. BIO- ARA- LRI- LLA- AIS- MAG
+a a
+t d
+y h is VAL- LBO- MAU- NUB- BIO- ARA- LRI-
+p o n p o n Pinaceae Pinus radiata D. Don I A LLA- JFE - -
+iP iP
+a
+d
+is AYP- TAR- ANT- ATA- COQ- VAL-
+p Equisetum bogotense
+o t Equisetaceae N HP RME- LBO- MAU- NUB- BIO- ARA- LRI- - -
+e Kunth
+s iu LLA- AIS
+q
+E
+LC
+Blechnum chilense COQ- VAL- RME- LBO- MAU- NUB-
+N Ar - D.S. N°
+a t
+(Kaulf.) Mett. BIO- ARA- LRI- LLA- AIS- MAG- JFE
+19/2012
+y
+h p Blechnaceae
+o d ir e t P a d is p o id Blechnu K m au h lf a . statum N HP COQ- B V I A O L - - A R R M A- E - L R LB I- O L - L A M - A JF U E - NUB- -
+1
+D
+9
+.
+/
+S L
+2
+. C
+0
+N
+1
+°
+2
+o
+p
+y Blechnum sp. N HP - - -
+lo
+P LC
+Hypolepis poeppigii COQ- VAL- RME- LBO- MAU- NUB-
+Dennstaedtiaceae N HP - D.S. N°
+(Kunze) R.A. Rodr. BIO- ARA- LRI- LLA- AIS- MAG- JFE
+52/2014
+Lophosoria LC
+MAU- NUB- BIO- ARA- LRI- LLA- AIS-
+Dicksoniaceae quadripinnata (J.F. N Ar - D.S. N°
+JFE
+Gmel.) C. Chr. 19/2012
+5-29
+================================================================================
+PAGE 31
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Hábito de D.S. N°
+División Clase Familia Especie Origen1 Distribución en Chile Continental3 RCE4
+crecimiento2 68/2009
+Polystichum NT
+Dryopteridaceae subintegerrimum (Hook. E HP NUB- BIO- ARA- LRI- LLA- AIS- MAG - D.S. N°
+& Arn.) R.A. Rodr. 13/2013
+TAR- ATA- COQ- VAL- RME- LBO- LC
+Pteridaceae Adiantum chilense Kaulf. N HP MAU- NUB- BIO- ARA- LRI- LLA- AIS- - D.S. N°
+MAG- JFE 19/2012
+1E: Endémico, N: Nativo, I: Introducida.
+2HP: Hierba perenne, HA: Hierba anual, S: Suculenta; A: Árbol,
+Ar: Arbusto, Indeterminado: In
+3AYP: Arica y Parinacota, TAR: Tarapacá, ANT: Antofagasta, ATA: Atacama; COQ: Coquimbo, VAL: Valparaíso, RME: Metropolitana de Santiago, LBO: Libertador
+Bernardo O’Higgins, MAU: Maule, NUB: Ñuble, BIO: Biobío, ARA: Araucanía, LRI: Los Ríos, LLA: Los Lagos, AIS: Aisén, MAG: Magallanes.
+4LC: Preocupación menor, NT: Casi amenazada, VU: Vulnerable,
+EN: En Peligro
+5-30
+================================================================================
+PAGE 32
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+En la Tabla 5-6 se puede observar que, del total de especies registradas en el área de influencia el 93%
+corresponde a la División Magnoliophyta (128 especies), dentro de las cuales la Clase Magnoliopsida
+agrupa la mayoría de los taxa con el 77,4% (106 especies) y el 16,1% restante corresponden a la Clase
+Liliopsida (22 especies). Luego continua la División Pteridophyta con 8 especies (5,8%), distribuidas
+mayoritariamente en Clase Polypodiopsida (7 especies). Finalmente, para la División Pinophyta se registró
+una especie (0,7%) clasificada dentro de la Clase Pinopsida. La totalidad de la flora identificada en el área
+de influencia del Proyecto representa el 2,5% de la flora de Chile, de acuerdo con el catálogo de Rodríguez
+y Marticorena (2019).
+Tabla 5-6. Número de especies por División y Clase taxonómica en el Sitio de Compensación
+N° de Participación N° de especies en Participación
+División Clase
+especies (%) Chile (%)
+Liliopsida 22 16,1 1.191 1,8
+Magnoliophyta
+Magnoliopsida 106 77,4 4.051 2,6
+Gnetopsida - - 6 -
+Pinophyta
+Pinopsida 1 0,7 12 8,3
+Equisetopsida 1 0,7 3 33,3
+Pteridophyta Lycopodiopsida - - 12 -
+Polypodiopsida 7 5,1 150 4,7
+Total 137 100 5.425 2,5
+Fuente: GAC
+De acuerdo con el catálogo florístico del área de influencia, se registraron 67 familias en el área de
+influencia, siendo la dominante Asteraceae con 14 especies, lo que equivale al 10,2% del registro total
+(137 especies). Le siguen las familias Myrtaceae y Poaceae, con el 6,6%; 4,4% respectivamente (9 y 6
+especies cada una) y finalmente Rosaceae con el 3,6% (cinco especies). El 74,4% restante corresponden a
+63 familias que tienen menos de 5 especies (Tabla 5-7).
+Tabla 5-7. Familias en el área de influencia
+N° de % de
+Familia
+especies participación
+Asteraceae 14 10,2
+Myrtaceae 9 6,6
+Poaceae 6 4,4
+Rosaceae 5 3,6
+Calceolariaceae 4 2,9
+Fabaceae 4 2,9
+Iridaceae 4 2,9
+Lamiaceae 4 2,9
+Rubiaceae 4 2,9
+Apiaceae 3 2,2
+Blechnaceae 3 2,2
+Dioscoreaceae 3 2,2
+Oxalidaceae 3 2,2
+Polygonaceae 3 2,2
+5-31
+================================================================================
+PAGE 33
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+N° de % de
+Familia
+especies participación
+Scrophulariaceae 3 2,2
+Solanaceae 3 2,2
+Atherospermataceae 2 1,5
+Campanulaceae 2 1,5
+Cyperaceae 2 1,5
+Geraniaceae 2 1,5
+Lardizabalaceae 2 1,5
+Lauraceae 2 1,5
+Loasaceae 2 1,5
+Primulaceae 2 1,5
+Proteaceae 2 1,5
+Salicaceae 2 1,5
+Violaceae 2 1,5
+Aextoxicaceae 1 0,7
+Alstroemeriaceae 1 0,7
+Amaryllidaceae 1 0,7
+Anacardiaceae 1 0,7
+Asparagaceae 1 0,7
+Bignoniaceae 1 0,7
+Brassicaceae 1 0,7
+Bromeliaceae 1 0,7
+Cardiopteridaceae 1 0,7
+Convolvulaceae 1 0,7
+Dennstaedtiaceae 1 0,7
+Dicksoniaceae 1 0,7
+Dryopteridaceae 1 0,7
+Elaeocarpaceae 1 0,7
+Equisetaceae 1 0,7
+Ericaceae 1 0,7
+Escalloniaceae 1 0,7
+Francoaceae 1 0,7
+Gesneriaceae 1 0,7
+Gomortegaceae 1 0,7
+Grossulariaceae 1 0,7
+Gunneraceae 1 0,7
+Hypericaceae 1 0,7
+Juncaceae 1 0,7
+Luzuriagaceae 1 0,7
+Malvaceae 1 0,7
+Monimiaceae 1 0,7
+Nothofagaceae 1 0,7
+Onagraceae 1 0,7
+Papaveraceae 1 0,7
+5-32
+================================================================================
+PAGE 34
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+N° de % de
+Familia
+especies participación
+Philesiaceae 1 0,7
+Pinaceae 1 0,7
+Plantaginaceae 1 0,7
+Pteridaceae 1 0,7
+Ranunculaceae 1 0,7
+Rhamnaceae 1 0,7
+Rutaceae 1 0,7
+Tropaeolaceae 1 0,7
+Verbenaceae 1 0,7
+Vitaceae 1 0,7
+Total 137 100
+Fuente: GAC
+5.3.1 Origen Fitogeográfico y Hábito de Crecimiento
+El análisis de la flora según el origen fitogeográfico da cuenta que dominan las especies de origen nativo
+con el 45,3% (62 especies), seguido por las endémicas (27,6%) y en tercer lugar las especies introducidas
+del país (24,7%) (Tabla 5-8).
+Tabla 5-8. Origen fitogeográfico de la flora vascular registrada en el sitio de compensación
+Origen N° de Especie % de participación
+Nativa 62 45,3
+Endémica 40 29,2
+Introducida 34 24,8
+Indeterminado 1 0,7
+Total 137 100
+Fuente: GAC
+Es importante mencionar que, el Catálogo de Plantas Vasculares de Chile de Rodríguez y Marticorena del
+año 2019 indica que el 15,1% de las especies existentes en Chile corresponden a especies de origen
+exótico. En este caso el porcentaje de presencia de especies de origen alóctono dentro del área de
+influencia es del 25,2%, lo que permite aseverar que hay una importante presencia de intervención
+antrópica en el sector. Respecto a las 40 especies endémicas registradas, ninguna es endémica regional.
+Por otra parte, en la Tabla 5-9 se presenta el número de especies por hábito de crecimiento. En ella se
+observa que, de la flora registrada dominan las hierbas (anual y perenne) con el 52,6% (72 especies),
+seguido por los arbustos con el 28,5% (39 especies) y los árboles con el 19,0% (26 especies).
+Tabla 5-9. Hábito de crecimiento de la flora vascular registrada en el sitio de compensación
+Habito de crecimiento N° de Especie % de participación
+Hierba Perenne 59 43,1
+Hierba Anual 13 9,5
+Arbusto 39 28,5
+5-33
+================================================================================
+PAGE 35
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Habito de crecimiento N° de Especie % de participación
+Árbol 26 19,0
+Total 137 100
+Fuente: GAC
+5.3.2 Estado de Conservación de la Flora
+Considerando los 19 procesos de RCE vigentes, se registraron 13 taxa bajo categoría de conservación en
+el sitio de compensación del Proyecto, las que se muestran en la Tabla 5-10.
+Del total de especies registradas, cuatro se encuentran en grado de amenaza, correspondiente a
+Gomortega keule, Pitavia punctata y Vestia foetida en categoría En Peligro y Citronella mucronata en
+categoría Vulnerable. Los 10 taxa restantes corresponden a especies no consideradas en grado de
+amenaza (Casi Amenazada y Preocupación Menor) según los criterios de la UICN 3.18.
+Tabla 5-10. Especies en categoría de conservación registrada en el Área de Influencia
+RCE Fuente Especie Nombre común
+D.S. N° 10/2023 Vestia foetida Chuplín, echuelcúb, huevil.
+En Peligro D.S. N° 151/2007 Gomortega keule Queule, keule.
+D.S. N° 151/2007 Pitavia punctata Pitao.
+Vulnerable D.S. N° 16/2016 Citronella mucronata Huillipatagua, naranjillo.
+Casi Amenazada D.S. N° 13/2013 Polystichum subintegerrimum -
+D.S. N° 10/2023 Luma chequen Chequén, arrayán blanco.
+Doradilla, helecho de palo negro, palito negro,
+D.S. N° 19/2012 Adiantum chilense
+culantrillo.
+D.S. N° 19/2012 Blechnum chilense Costilla de vaca, palmilla, quilquil, iquide.
+Preocupación
+D.S. N° 19/2012 Blechnum hastatum Palmilla, quilquil, arriquilquil.
+Menor
+D.S. N° 19/2012 Lophosoria quadripinnata Palmita, palmilla, helecho o palmita de Valdivia, ampe.
+D.S. N° 42/2011 Persea lingue Lingue.
+D.S. N° 52/2014 Hypolepis poeppigii Wilel-lawen, pesebre.
+D.S. N° 79/2018 Aextoxicon punctatum Olivillo, palo muerto, tique, teque, aceitunillo.
+Fuente: GAC
+5.3.3 Especies Arbóreas o arbustivas originarias del país
+De acuerdo con el D.S. N° 68/2009 del MINAGRI, en el área de influencia se registraron 31 especies
+consideradas como originarias del país, lo que representa el 22,6% de los taxa registrados en el sitio de
+5-34ompensación. En la Tabla 5-11 se presentan las especies y su distribución.
+8 UICN 3.1 corresponde a la versión 3.1. La primera edición de las Categorías y Criterios de la Lista Roja de la UICN: Versión 3.1 fue
+publicada en 2001, tras su adopción formal por el Consejo de la UICN en febrero de 2000. Desde entonces ha sido usada como el
+estándar para las evaluaciones globales de la Lista Roja publicadas en la Lista Roja de Especies Amenazadas de la UICN™. También
+ha sido utilizada junto con las Directrices para el uso de los Criterios de la Lista Roja de la UICN a nivel regional y nacional (UICN
+2003, 2012) por muchos países del mundo como el sistema estándar para las evaluaciones nacionales de la Lista Roja.
+5-34
+================================================================================
+PAGE 36
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Tabla 5-11. Especies arbóreas o arbustivas originarias presentes en el Área de Influencia
+Especie Distribución en Chile*
+Aextoxicon punctatum COQ- VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Amomyrtus luma MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Amomyrtus meli BIO- ARA- LRI- LLA
+Aristotelia chilensis COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- JFE
+Azara integrifolia VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI
+Buddleja globosa AYP- COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Citronella mucronata COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LLA
+Cryptocarya alba COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Escallonia pulverulenta COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Fuchsia magellanica VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- MAG- JFE
+Gevuina avellana MAU- NUB- BIO- ARA- LRI- LLA
+Gomortega keule MAU- NUB- BIO
+Laurelia sempervirens LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Laureliopsis philippiana MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Lithrea caustica ATA- COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI
+Lobelia tupa VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA- JFE
+Lomatia dentata COQ- VAL- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Luma apiculata COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Luma chequen COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Myrceugenia exsucca COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Myrceugenia obtusa COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Myrceugenia planipes NUB- BIO- ARA- LRI- LLA- AIS
+Nothofagus obliqua VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Persea lingue VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Peumus boldus COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA
+Pitavia punctata MAU- NUB- BIO- ARA
+Podanthus mitiqui COQ- VAL- RME- LBO- MAU- NUB
+Rhamnus diffusus MAU- NUB- BIO- ARA- LRI
+Rhaphithamnus spinosus COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS
+Sophora macrocarpa COQ- VAL- RME- LBO- MAU- NUB- BIO- ARA
+Ugni molinae LBO- MAU- NUB- BIO- ARA- LRI- LLA- AIS- JFE
+(*): ATA: Atacama; COQ: Coquimbo, VAL: Valparaíso, RME: Metropolitana, LBO: Libertador Bernardo O’Higgins, MAU: Maule, NUB:
+Ñuble, BIO: Biobío, ARA: Araucanía, LRI: Los Ríos, LLA: Los Lagos, AIS: Aisén, MAG: Magallanes, JFE: Juan Fernández
+Fuente: GAC, en base a Rodríguez y Marticorena, 2019
+6 CONCLUSIONES
+Se identificaron 33 especies de fauna silvestre: un (1) reptil, 27 aves y cinco (5) mamíferos. En relación con
+la línea de base de fauna vertebrada, se identificaron 45,2% especies del inventario total de especies
+identificadas en el área de influencia del Proyecto. Del registro de especies, 12 han sido consideradas como
+especies de interés y/o sensibles en la línea de base de fauna vertebrada terrestre. De estas, cuatro
+6-35
+================================================================================
+PAGE 37
+================================================================================
+Anexo 7-3. Caracterización del Sitio de Compensación de Biodiversidad
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+corresponden a especies de interés (un reptil y tres mamíferos) y 17 son especies sensibles: un (1) reptil,
+nueve (9) aves y siete (7) mamíferos. Fueron registradas cuatro (4) especies de interés, es decir aquellas
+que están en categoría de conservación de amenaza incluyendo las casi amenazadas según la legislación
+nacional, tres (3) de ellas son Vulnerables y una (1) Casi amenazada. Por otro lado, se registraron 12
+especies sensibles, que corresponden a aquellas que, pudiendo ser o no de interés, pueden verse
+afectadas debido a la relación existente entre el tipo de Proyecto y sus características específicas de
+construcción y operación.
+Respecto a la vegetación, se indica que la matriz vegetacional existente en el sitio de compensación es
+equivalente al área de influencia del Proyecto, debido a que las formaciones vegetacionales son similares
+en ambas áreas, dominadas por plantaciones forestales y en zonas de quebradas presencia de formaciones
+naturales como bosque y matorral.
+Respecto a las especies en categoría de conservación, en el sitio de compensación se registraron 13
+especies, mientras que en el área de influencia fueron 19 las registradas. La totalidad de las especies del
+sitio de compensación están presente en el área de influencia del Proyecto. Las 4 especies en categoría de
+conservación en grado de amenaza del sitio de compensación están registradas están registradas en el
+área de influencia.
+Considerando lo anterior, es posible indicar que el sitio propuesto tiene similares características que el
+área de influencia del Proyecto, por lo tanto, su conservación significará proteger un ambiente similar al
+afectado.
+6-36

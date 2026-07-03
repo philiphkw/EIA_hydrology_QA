@@ -1,0 +1,1651 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 1-10
+Análisis de escenarios climáticos del
+proyecto CCG UC
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Análisis de escenarios climáticos para Evaluación de Impacto Ambiental Proyecto Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras' Abril 2024"
+Informe final
+Preparado para:
+aclara
+Preparado por: Centro UC Cambio Global Centro de Cambio Global UC Pontificia Universidad Católica de Chile Av. Vicuña Mackenna 4860 Santiago - Chile Fono: 56-22- 354 4137 E-mail cambioglobal@uc.cl
+================================================================================
+PAGE 3
+================================================================================
+"Análisis de escenarios climáticos para Evaluación de Impacto Ambiental
+Elabora
+Rol
+Sebastián Vicuña
+Especialista en Clima Analista senior en Clima
+David Morales
+Rosario Chubretovic
+Apoyo en Clima
+Fecha 07-02-2023
+Elaborado por DM/RC
+Revisado por SVD
+Versión
+================================================================================
+PAGE 4
+================================================================================
+INDICE
+RESUMEN EJECUTIVO GLOSARIO DE TÉRMINOS Y ABREVIATURAS 1 . INTRODUCCIÓN 2 METODOLOGHA DE TRABAJO
+7
+9 11
+15
+2.1 .
+Evaluación crítica de estudios previos e información disponible 15 2.2. Análisis crítico de condiciones hidrometeorológicos históricas en cuenca Costeras e Islas entre Río Itata y Río Biobío (Comuna de Penco) 19 2.3. Evaluación de escenarios de cambio climático futuros. 24 2.4. Análisis de indicadores extremos en escenarios de CC. 29
+3
+RESULTADOS
+31
+3.1. Análisis crítico de condiciones hidrometeorológicos históricas en cuenca Costeras e Islas entre Río Itata y Río Biobío (Comuna de Penco) 31 3.2. Evaluación de escenarios de cambio climático futuros . 33
+3.3.
+Análisis de indicadores extremos en escenarios de CC. 4 CONCLUSIONES
+38
+51
+REFERENCIAS
+53
+ANEXOS
+55
+Anexo I. Resultados tendencias observaciones 55 Anexo Il. Resultados tendencias indicadores extremos 60 Anexo IlI. Resultados tendencias observaciones en ventanas móviles de 35 años 82
+Anexo IV. Resultados tendencias eventos extremos en ventanas móviles de 35 años 94
+================================================================================
+PAGE 5
+================================================================================
+INDICE DE FIGURAS Figura 1. Área de estudio definida en base a las subcuencas (límites en amarillo) que forman parte de la comuna de Penco (límite en rojo) . 13 Figura 2. Cuencas DARH-CIREN que inscriben a la comuna de Penco y que delimitan el área de estudio del presente. 16 Figura 3. Cuencas CAMELS-CL que forman parte de la comuna de Penco. 17 Figura 4. Área expuesta (achurada en rojo) bajo los 10 m.sn.m. en el borde costero de la comuna de Penco y Alrededores . 9 Figura 5. Ubicación; nombre Y tipo de estación de medición de datos. Elaboración propia. 20 Figura 6. Cascada de incertidumbre asociada la generación de modelos de Cambio Global (GCM) . 24 Figura 7. Cambios porcentuales en precipitación para el promedio de las proyecciones. 26 Figura 8. Cambios en temperatura para los escenarios CMIPS y CMIP6. 27 Figura 9. Cambios en temperatura media ('C) y precipitación %) para el periodo 2015-2044 respecto de 1985-2014 para modelos CMIPS en escenario RCP-8.5. .33 Figura 10. Dispersión de los 35 modelos CMIPS analizados según sesgos SPA y SCV respecto de las observaciones de las estaciones analizadas . 34 Figura 11. Comparación de 33 modelos ARClim coincidentes con aquellos CMIPS respecto de sus cambios en temperaturas extremas (PC) y precipitación (%) para el periodo 2015-2044 respecto del periodo 1985-2014. 36 Figura 12. Sesgos mensuales entre las observaciones de la estación Carriel Sur, el producto CRZMet y los tres modelos CMIPS seleccionados en base a ARClim, para temperatura mínima (a. Tmín) , temperatura máxima (b. Tmáx) y precipitación (c. Pp). 37 Figura 13. Pendientes decadales de temperatura mínima, máxima y precipitación en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados. En rojo se destacan aquellos valores estadísticamente significativos (a-0,1). 42 Figura 14. Pendientes decadales de la Temperatura Máxima de las Temperaturas Máximas (MaxTmax) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados . 44 Figura 15. Pendientes decadales de la Temperatura Mínima de las Temperaturas Máximas (MaxTmax) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados. .45 Figura 16. Pendientes decadales de las Noches Cálidas (WarmNights) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados. 46 Figura 17. Pendientes decadales de los Días Cálidas (WarmDays) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados. .47 Figura 18. Pendientes decadales de los Días de Verano (SummerDays) en ventanas móviles de 35 años desde 985, para cada uno de los tres modelos ARClim seleccionados. 48
+================================================================================
+PAGE 6
+================================================================================
+Figura 19. Pendientes decadales de los Días sin Lluvia (TDD) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados . 49 Figura 20. Pendientes decadales de los Días en que precipitación es mayor que P5 (R95%) en ventanas móviles de 35 años desde 1985, para cada uno de los tres modelos ARClim seleccionados . 50
+================================================================================
+PAGE 7
+================================================================================
+INDICE DE TABLAS
+Tabla 1 Atributos de las subcuencas DARH-CIREN que caracterizan Ia zona de estudio. 15 Tabla 2 Atributos de las subcuencas CAMELS-CL que caracterizan la zona de estudio. 18 Tabla 3. Indicadores hidroclimáticos extremos adaptados de Vicuña et al, 2013. 23 Tabla 4. Tendencias decadales para las variables de precipitación (Pp) caudal (Q) y temperatura mínima (Tn) . 31 Tabla 5. Tendencias decadales para los indicadores de eventos extremos . 32 Tabla 6. Listado de los 10 primeros modelos (de 35) con mejor ajuste las observaciones en la zona de estudio. 35 Tabla 7. Tendencias decadales para los indicadores de eventos extremos. 38
+================================================================================
+PAGE 8
+================================================================================
+RESUMEN EJECUTIVO
+En el Isiguiente informe se presenta el Análisis de escenarios de cambio climático con base en tendencias de variables hidrometeorológicas y eventos extremos derivados, realizado para Aclara; con el motivo de la evaluación de impacto ambiental del   proyecto Desarrollo Minero de Extracción de arcillas para Producción de Concentrado de Tierras Raras" . Para ello, se realizó una caracterización histórica de la hidrometeorología de una zona de estudio que contiene la comuna de Penco, en particular para las cuencas Costeras Islas entre Río Itata Y Río Biobío Y se generaron proyecciones de tendencias indicadores de eventos extremos, con base en distintos modelos de cambio climático Y escenarios de emisión, de las condiciones hidrometeorológicas futuras que podrían incidir en las faenas.
+Se analizaron 9 estaciones de medición con un registro del 709 0 más de las observaciones para el periodo de estudio, entre 1985 Y 2019. De las 9 estaciones seleccionadas, sólo una mide precipitación (pp) Y temperatura (Carriel Sur); otras siete miden solo precipitación (Dichato, Rafael, Cancha los Litres, Andalien; Concepción DGA, Cerro Caracol Y Nonguén Essbio) Y una mide caudal (Rio Andalien camino a Penco) .
+EI análisis histórico indica que existe una tendencia   significativa a Ia disminución en la precipitación en abril   (Carriel Sur) Y mayo (Cancha Los Litres) , Y también a escala anual para Dichato. El caudal también presenta una disminución estadística en julio y a escala anual. Asimismo, se muestra Un aumento de la   temperatura mínima en época estival   (diciembre a febrero) . Otros indicadores; como TDD (días con precipitación menor a mm) Y Qmax (caudales   máximos) , muestran una tendencia   significativa a la disminución. Asimismo, indicadores como WarmNights (días en que Ia temperatura mínima sobrepasa el percentil 90 del registro) y SummerDays (número de días en que la temperatura máxima   sobrepasa los 25 C)  muestran una tendencia significativa al aumento en ciertas estaciones. Por el contrario , indicadores como R95 (días con precipitación con percentil mayor 0 igual a 95) , MinTmax (temperatura mínima de las temperaturas máximas)  presentan evidencia de aumento y disminución en algunas estaciones.
+Con base en los lineamientos de la Guía metodológica para la consideración del Cambio Climático en el SEIA se analizaron modelos de proyección climática del CMIPS a través del   producto reportado en el proyecto ARClim, en la proyección RCP8.5 para analizar el periodo futuro entre los años 2020 Y 2054. Se seleccionaron 3 modelos que mejor representaban la zona de estudio al comparar los datos históricos de las proyecciones con los datos observados en las estaciones de medición: Los modelos seleccionados fueron NorESMI-M
+================================================================================
+PAGE 9
+================================================================================
+(seco), CESMI-CAMS (intermedio) y HadGEM2-ES (húmedo)  De ellos se obtuvo evidencia significativa de aumento en indicadores como TDD; WarmDays (días en que la temperatura máxima   sobrepasa el percentil 90 del registro) Y WarmNights. Asimismo; muestra evidencia de que, a futuro, R95 podría refrenar SU caída a escala anual pero aumentaría en verano_ En otras palabras, en algunos casos (modelos Y en ciertas estaciones) a futuro los indicadores se vuelven menos intensos de lo que viene siendo la tendencia histórica. Los indicadores TDD, WarmNights Y WarmDays   presentan al menos un caso (modelo y estación) en que los indicadores a futuro se vuelven mas intensos, es decir, empeora la situación en relación con la tendencia histórica.
+Finalmente, los   patrones móviles de tendencias en periodos de 35 años muestran incrementos significativos de los indicadores vinculados al aumento de temperaturas (WarmDays, WarmNights, SummerDays) con miras hacia 2070, Y disminuciones de precipitaciones a escala anual conforme se acerca el año 2050 , aunque este último resultado no presenta concordancia absoluta en significancia en todos los modelos.
+================================================================================
+PAGE 10
+================================================================================
+GLOSARIO DE TÉRMINOS Y ABREVIATURAS
+AR: Por sus siglas en inglés, reporte de evaluación del Panel Intergubernamental para el Cambio Climático (IPCC). Elsexto es el último informe publicado a partir de 2021 (para el WGI) .
+Cambio climático: Variación del estado del clima de acuerdo con el cambio en el valor ylo variabilidad de SUS medias propiedades, verificadas estadísticamente. Se identifica por ser persistente en el tiempo; como decenios períodos mayores.
+CMIP: Por Sus siglas en inglés Proyecto asociado de Intercomparación de Modelos Acoplados de proyección climática.
+Corrección de sesgo: Método por el cual los valores de un modelo se corrigen mediante el uso de observaciones; de forma de que a nivel promedio tengan la misma media.
+Downscaling: Metodología para reducir la escala de representación espacial de GCM's Y atribuirlas a un contexto de observaciones históricas en una zona de estudio; preservando la señal original del modelo.
+Ensamble:   Conjunto de simulaciones de modelos que caracterizan una proyección climática en base a sus condiciones iniciales y forzamiento.
+Forzamiento radiativo: Cambio en el flujo energético causado por un elemento impulsor y cuantificado en la parte superior de la atmósfera en WIm?.
+Forzantes: Corresponde a una serie de elementos que condicionan el comportamiento de un sistema; dadas sus propiedades.
+GCM: Por sus siglas en inglés, Modelos de Circulación General de la atmósfera. Utilizados para realizar simulaciones climáticas globales bajo distintos escenarios de emisiones.
+GHG: Por SUS   siglas en inglés, Gases de Efecto Invernadero   (GEI) , gases atmosféricos que absorben y emiten radiación en el espectro del infrarrojo. Los principales GEI son el vapor de agua (H20), el dióxido de carbono (CO2), el metano (CH4) , el Óxido nitroso (N2O) y el Ozono (03) .
+IPCC: Por SUS   siglas en inglés, Panel   Intergubernamental para el Cambio Climático (Intergovernmental Panel on Climate Change) .
+================================================================================
+PAGE 11
+================================================================================
+Modelo climático: Representación numérica del sistema climático basada en las   propiedades físicas, químicas Y biológicas de sus componentes, en SUS interacciones y en sus procesos de retroalimentación, Y que recoge todas algunas de sus propiedades conocidas. Los GCM corresponden a un tipo de modelo climático.
+Proyección climática: Respuesta del sistema climático basada en simulaciones en diversos escenarios de emisiones de GEI.
+P-valor: Probabilidad de que la conclusión atribuida al resultado observado se deba al azar. Si este valor es menor que aquel definido como alfa () , se asume que existe evidencia para rechazar la hipótesis de que no existe la diferencia observada.
+RCP: Por sus siglas en inglés, Escenarios Representativos de Concentración de emisiones GEI (Representative Concentration Pathways) para CMIPS.
+SSP: Por SUS   siglas en inglés, Escenarios Socioeconómicos Compartidos de evolución de emisiones GEl (Shared Socio-economics Pathways) para CMIP6.
+================================================================================
+PAGE 12
+================================================================================
+1 . INTRODUCCIÓN
+Se conoce como tierras raras (0 Elementos de Tierras Raras (REEs por sus siglas en inglés) a un conjunto de 17 elementos químicos puntuales: Escandio (Sc) Itrio (Y) y 15 elementos del grupo de los lántanidos (lantano (La) cerio (Ce) praseodimio (Pr)' neodimio (Nd)' prometio (Pm)' samario (Sm)' europio (Eu)' gadolinio (Gd), terbio (Tb) , disprosio (Dy), holmio (Ho) , erbio (Er) , tulio TM iterbio (Yb) y lutecio (Lu)), que junto con los actínidos (que no están considerados dentro de las tierras   raras) conforman los elementos conocidos como de 'transición interna'
+Estas tierras raras no necesariamente implican que sean elementos escasos en disponibilidad, sino más bien a que es poco común hallarlos en estado puro, por lo que su minería suele ser localizada (Mariano, 2018). En ese sentido, los yacimientos de estas tierras raras están asociados principalmente a 4 tipos de rocas:
+Carbonatitas: Rocas ígneas con Un contenido mayor a 50% de carbonatos . Rocas ígneas alcalinas. Arcillas   lateríticas: Que resultan de la alteración in situ de los   sitios anteriores . De tipo placer: Depósitos sedimentarios   superficiales de extensión considerable (oro, platino; estaño; detritos) .
+Eluso de estas tierras raras se vincula a aplicaciones industriales, asociadas por ejemplo a motores   eléctricos (samario) almacenamiento de información informática (iterbio terbio)  televisores (europio, itrio)  Y otros como refrigeración; baterías, microondas; etc. (Regueiro; 2008) .
+Aclara; es una empresa dedicada ala extracción Tierras Raras con un proyecto de desarrollo en Chile, que ha elaborado un proceso de extracción sostenible y novedoso; el cual no utiliza explosivos, ni trituración ni molienda; ni tampoco produce residuos sólidos ni líquidos, además de reciclar el 95% del agua que utiliza. Junto con ello, las arcilla que se extraen en las fosas son repuestas para luego reforestar el terreno con especies nativas/autóctonas. En Penco, región del Biobío, Aclara desarrolla un módulo de proyecto para la extracción de tierras raras de forma sostenible, en una iniciativa de baja escala que evitará la generación de polvo Y ruido dado que no requiere ni de explosivos, ni de chanchado ni de molienda, que utilizará aguas servidas tratadas, que hará recirculación de aguas mediante tratamiento de la misma y que se encargará de reforestar la zona con especies endémicas protegidas.
+================================================================================
+PAGE 13
+================================================================================
+Es en el marco de este proyecto que la empresa preparará su evaluación de impacto ambiental; y en cuyo contexto ha solicitado los servicios del Centro de Cambio Global UC para la realización de una asesoría que   permita caracterizar el sector de intervención desde el punto de vista hidrometeorológico; tanto a escala histórica; así como considerando distintas proyecciones vinculadas a escenarios de Cambio Climático. En este contexto, el Servicio de Evaluación Ambiental ha publicado en enero de 2023 la Guía Metodológica para la Consideración del Cambio Climático en el SEIA' sobre la cualla presente toma los lineamientos para abordar las temáticas expuestas, de cumplir los requerimientos de la autoridad del país ambiental  del país respecto de las condiciones hidrometeorológicas que   pueden tener Un impacto ambientales en los elementos que considera el proyecto respectivo a evaluar, Y sus riesgos.
+Para ello, se ha realizado un trabajo que permitió hacer una caracterización hidrometeorológica de las subcuencas de río Andalien y las costeras entre río Pingueral y rio Andalien; las cuales circunscriben a la comuna de Penco, y que a Su vez forman parte de la cuenca Costeras e islas entre Rio Itata Y rio Biobío (Figura 1), analizando patrones de tendencia históricos por década de las variables de   precipitación; caudal Y temperaturas extremas, a partir de observaciones obtenidas de estaciones hidrometeorológicas seleccionadas de forma específica en el área de estudio. A SU vez, con base en esta información se obtuvieron distintos indicadores de eventos extremos hidrometeorológicos históricos registrados en estaciones mencionadas (Vicuña et al, 2013). Esto, permite tener una visión de las condiciones de base desde el punto de vista atmosférico e hidrológico sobre las cuales el proyecto de Tierras Raras se desarrollará.
+Siguiendo los lineamientos de la Guía metodológica para la consideración del Cambio Climático en el SEIA' , la cual sugiere la incorporación de factores de localización Y temporalidad Y el USO de las herramientas brindadas por el proyecto ARClim para la identificación de los riesgos, se hicieron proyecciones de las condiciones  hidrometeorológicas futuras que podrían incidir en las faenas, con miras al año 2035, con base en tres modelos de cambio climático divergentes previamente seleccionados para el escenario de emisión RCP-8.52, prevenientes de la base de datos del Atlas de Riesgo Climático (ARCLIM) (Pica- Tellez; 2020) . Estas proyecciones se basan en la cuantificación futura esperada
+https:l Isea.gob. cl/sitesIdefault /files limcelarchivos/2023/13/MET-Guia-Cambio - Climatico_2023.pdf RCP8.5 (Representative Concentration Pathways) hace referencia una trayectoria representativa de la concentración atmosférica de GEI hacia el año 2100, como consecuencia de no tomar medidas para la mitigación del Cambio Climático. Este escenario es elmás adverso.
+================================================================================
+PAGE 14
+================================================================================
+de los eventos extremos mencionados con anterioridad, de modo de identificar potenciales riesgos vinculados a cambios en las condiciones del clima sobre las faenas en el futuro.
+-73.15
+-73.05
+72.95
+-72.85
+-72.75
+-72.65
+72.55
+8
+8
+Costeras entre Río Pingueral Río Andalien
+8
+8
+Penco
+8
+8
+Río Andalien
+8
+JKilómetros 16
+2 4
+-73.15
+-73.05
+-72.95
+-72.85
+-72.75
+-72.65
+72.55
+Figura 1. Área de estudio definida en base a las subcuencas (límites en amarillo) que forman parte de la comuna de Penco (límite en rojo) .
+Los objetivos específicos del trabajo fueron:
+Obtener información hidrometeorológica de la Región del Biobío, con énfasis en la comuna de Penco y las Subcuencas de río Andalien y las costeras entre río Pingueral y rio Andalien. Las estaciones Rio Andalien Camino a Penco (Caudal) Y Dichato, Cancha los  Litres   Carriel Sur, Concepción DGA, Cerro Caracol y Rafael (Precipitación) que poseen la mayor cantidad de registros desde 1985, fueron utilizadas para la caracterización la zona de estudio.
+Realizar análisis de tendencias Y de eventos extremos históricos en la zona de estudio, concluyendo como los resultados se vinculan con las faenas planificadas por Aclara. Se consideraron los eventos extremos en tendencias decadales para distintas agregaciones temporales: por mes
+================================================================================
+PAGE 15
+================================================================================
+Ypor estación del año.
+Identificar modelos de clima global (GCM) , a partir de los Proyectos de Intercomparación de Modelos Acoplados (CMIP por sus siglas en inglés) en su versión 5 y provenientes del Proyecto ARClim, que presenten menor sesgo y variabilidad con las observaciones, de modo de utilizarlos para hacer proyecciones de cambios en patrones de eventos extremos vinculados con temperatura y precipitación hacia un futuro cercano (2015-2044) en base al escenario de emisión RCP-8.5.
+Proyectar, a nivel de cambio respecto del periodo de referencia 1985- 2014, el número esperado de eventos extremos seleccionados, en el área de estudio para un futuro cercano. El análisis se realiza con base a los modelos del proyecto ARCLIM previamente seleccionados, los presentan una resolución espacial de ~5 km; yse encuentran disponibles para el escenario RCP8.5.
+================================================================================
+PAGE 16
+================================================================================
+2. METODOLOGíA DE TRABAJO
+Con el fin de entregar respuestas sobre potenciales riesgos hidrometeorológicos vinculados al desarrollo de minería de tierras raras en la comuna de Penco en un periodo cercano; vinculados a los cambios en los patrones de tendencia de las   variables de temperaturas   extremas,   precipitación Y caudal Y distintos indicadores de eventos extremos; es que el trabajo se realizó en cuatro etapas.
+2.1.Evaluación crítica de estudios previos e información disponible
+Ubicada en la provincia de Concepción; región del Biobío, la comuna de Penco (Figura 1) forma parte del área metropolitana del gran Concepción, colindando con las comunas de Tomé (norte) Florida   (este) Talcahuano (oeste) y Concepción (Norte). A 20173 la población en la comuna era 47.367 habitantes, siendo el 82,4% de residente en localidades urbanas.
+nivel hidrológico, la comuna de Penco se inserta de forma completa en dos subcuencas definidas por DARH-CIREN (DGA, 2014) (Figura 2Figura 1), ambas ubicadas en la región del Biobío, de tipo exorreica y con vertiente en el océano pacífico. Su descripción en detalle se muestra en la Tabla 1.
+Tabla 1 . Atributos de las subcuencas DARH-CIREN que caracterizan la zona de estudio. Atributo Subcuenca Costeras entre Rio Rio Andalien Pingueral y Rio Andalien
+Codigo BNA Superficie (Km?) Perímetro (Km) Temperatura media (PC)4 Temperatura máxima (PC) Temperatura mínima (PC) Precipitación anual (mm) Pendiente media %) Elevación media '%)
+080201
+080202
+234,1
+797,4
+105,9
+190,3
+11,9
+12,7
+22,1
+23,8
+4,4
+3,8
+1.230,
+1.369,4
+19,1
+15,7
+211,0
+211,7
+Porcentaje Bosque %)5
+79,4
+69,7
+http:/ Iresultados.censo2017.cl/download/1_1 POBLACION.xls En base a observaciones de estaciones en la zona hasta 2014. Con base en Zhao (2014) para clases de uso de suelo 'Bosque nativo" y "Plantaciones'
+================================================================================
+PAGE 17
+================================================================================
+73.15
+-73.05
+-72.95
+-72.85
+-72.75
+-72.65
+72.55
+8
+8
+Costeras entre Río Pingueral yRío Andalien
+8
+8
+Penco
+8
+;
+Río Andalien
+8
+8
+JKilómetros 16
+2 4
+12
+-73.15
+-73.05
+-72.95
+-72.85
+-72.75
+-72.65
+72.55
+Figura 2. Cuencas DARH-CIREN que inscriben a la comuna de Penco y que delimitan el área de estudio del presente.
+Por SU parte, el proyecto CAMMELS-CL (Alvaréz Garretón; 2018) busca integrar información física e hidrometeorológica de cuencas de todo Chile delimitadas con base en la información aportante de 516 estaciones fluviométricas con registros  de caudal   diario. En la zona de estudio existen dos subcuencas delimitadas por este proyecto que pueden ser usadas para caracterización; aunque no inscriben en su conjunto totalmente a la comuna de Penco (Figura 3) .
+================================================================================
+PAGE 18
+================================================================================
+73.16
+73.06
+72.96
+72.86
+-72.76
+-72.66
+72.56
+Leyenda Fluviométricas Cammels-CL Catchments Cammels-CL Penco
+8
+8
+8210003
+8
+8
+Penco
+8
+8
+8220001
+8
+8
+NUL 01.75.5
+JKilómetros 10.5
+73.16
+73.06
+72.96
+-72.86
+-72.76
+-72,66
+-72.56
+Figura 3. Cuencas CAMELS-CL que forman parte de la comuna de Penco.
+Cabe mencionar que la cuenca 8220001 reportada en la Figura 3 corresponde al área aportante a la estación Rio Andalien Camino a Penco; que a SU vez contiene a otras subcuencaslcatchments que se inscriben en ella. Se toma, para efectos de caracterización en este caso, el área aportante de mayor superficie. La Tabla 2 detalla los   principales atributos que describen a las subcuencas expuestas.
+================================================================================
+PAGE 19
+================================================================================
+Tabla 2. Atributos de las subcuencas CAMELS-CL que caracterizan la zona de estudio. Atributo Subcuenca 8210003 8220001
+Estación vinculada
+Estero Bellavista en Tomé
+Rio Andalien Camino a
+Penco
+Superficie (Km?) Perímetro (Km) Temperatura media ('C)6 Temperatura máxima ('C) Temperatura mínima (PC) Precipitación anual (mm) Pendiente media %) Elevación media (%) Porcentaje Bosque %)
+83,6
+752,9
+69,5
+232,0
+12,4
+12,7
+18,3
+18,8
+6,9
+7,1
+1.220,7
+1.163,1
+20,3
+20,4
+260,7
+210,0
+81,2
+70,8
+En un marco general de la región del Biobío, existe según CONAF una condición de alto estrés hídrico vegetal en los meses más cálidos, con contenidos de humedad en combustible muerto (principalmente pastizales) de menos del 5% ya hacia fines de enero, lo que puede resultar propicio para la generación de tormentas de fuego. Esto se ve propiciado por la condición recurrentes de déficit hídrico desde el comienzo de la mega sequía. Según datos de la DMC, en 20187 en la región del Biobío se registró el segundo invierno más seco en 69 años atribuido a un déficit de 52% en precipitaciones respecto de un año normal; siendo este un fenómeno que ha aparecido con mayor recurrencia en los últimos años. No obstante, esto último solo representa una impresión de un momento puntual del tiempo, aunque si bien parece haber un patrón de cambio hacia periodos secos más prolongados, aún falta información para dar certera robustez estadística a esta afirmación.
+Del punto de vista de las amenazas costeras, Y comparativamente con el resto de las regiones, la región del Biobío presenta la mayor cantidad de infraestructuras sanitarias e instalaciones de educación en comunas costeras bajo los 10 ms.nm. (MMA, 2019), lo que representa un riesgo en función de la amenaza del   incremento del nivel del mar en Un contexto de Cambio Climático. En la comuna de Penco, en específico  buena parte del casco
+En base a CRZMet https:l Iblog.meteochile. gob.cl/2018/09/~ 4/biobio-epicentro-de-la-sequia-meteorologica-este- invierno/
+================================================================================
+PAGE 20
+================================================================================
+urbano se encuentra en zona de exposición al estar en zonas bajo los 10 ms.m.n. (Figura 4). No obstante, los cambios esperados para el periodo 2026- 2046 respecto de la línea de costa histórica referencial no se aprecian significativos, lo que si ocurre en zonas más planas del área.
+{
+8
+LoMarju
+Villa Alegre
+Penco PlayaNegra
+Coihueco
+Figura 4. Área expuesta (achurada en rojo) bajo los 10 m.s.n.m. en el borde costero de la comuna de Penco y Alrededores . Fuente: Elaboración propia en base a MMA (2019).
+2.2. Análisis crítico de condiciones hidrometeorológicos históricas en cuenca Costeras e Islas entre Río Itata y Río Biobío (Comuna de Penco)
+Se realizó un análisis de patrones de tendencia de variables de precipitación, temperatura Y caudal con base en observaciones de nueve estaciones hisdrometeorológicas pertenecientes a la Dirección General de Aguas (DGA) para el periodo 1985-2019 con disponibilidad de datos igual 0 mayor al 70% en periodo de referencia mencionado. De esta forma, de las nueve estaciones que cumplen con aquella calidad en sus registros, sól0 una mide precipitación (pp) y temperatura (Carriel Sur); otras siete miden solo precipitación (Dichato Rafael, Cancha los Litres, Andalien, Concepción DGA, Cerro Caracol Y Nonguén Essbio) Y una mide caudal (Rio Andalien camino a Penco) . A estas observaciones se les realizó un análisis de tendencias y de eventos extremos a partir del ajuste de la pendiente de la curva de regresión según el tipo de agregación correspondiente (mensual; estacional 0 anual) , combinándolo con la obtención del valor p proveniente de la prueba de Mann-Kendall. Se ha definido como pendiente de cambio estadísticamente significativa aquellas
+================================================================================
+PAGE 21
+================================================================================
+cuya tendencia estuviera asociado a un valor p < 0,1. La selección de este alfa 0,1 radica en que, dependiendo de la temporalidad analizada (por mes, por año, 0 por estación del año) se tienen 30 datos para detectar el patrón de tendencias, de modo que una prueba más estricta (a = 0,05) detectaría solo aquellos   patrones de cambio altamente significativos, omitiendo aquellos cambios de carácter incipiente  y que son necesarios de reportar .
+En la Figura 5 se muestra un mapa con el nombre y la ubicación de cada estación, diferenciadas por el tipo de información que se obtiene desde ellas (precipitación (pp) caudal (Q) ylo temperatura (Temp)).
+-73.16
+-73.06
+72.96
+-72.86
+-72.76
+-72.66
+-72.56
+Dichato
+Leyenda Clase estación Pp
+Rafgel
+Temp Temp y Pp
+Cancha los Litres
+8
+Carriel Sur
+Rio Andalien camino a PencoAndalien Concepción DGA
+8
+Cerro Caracol Nonguén Essbio
+JKilómetros 14
+0 1.753.5
+10.5
+-73.16
+473.06
+72.96
+-72.86
+-72.76
+-72.66
+-72.56
+Figura 5. Ubicación, nombre Y tipo de estación de medición de datos. Elaboración propia.
+Para la obtención de las tendencias tanto de las variables de origen como de los indicadores que de deriven de ellas, las series de datos a paso diario deben de estar   completas para el periodo estudiado. Así,   aquellas estaciones seleccionadas con una calidad igual 0 mayor al 70% deben pasar por uUn proceso de relleno de información que complete los registros faltantes de forma consistente, con objeto de no perder la señal temporal de la serie.
+================================================================================
+PAGE 22
+================================================================================
+Para este relleno de información climática, se consideró el algoritmo desarrollado por el equipo consultor junto con la Universidad de Chile en el contexto del proyecto de actualización de balance hídrico nacional (DGA, 2018) . En este, el relleno se realiza estimando correlaciones cruzadas entre las estaciones aledañas para los datos de cada mes. Es decir, se comparan todos los días asociados a los eneros, febreros, Y restantes meses hasta diciembre en el periodo histórico  respectivamente. Si desde esta  relación lineal, el coeficiente de determinación (R2) resultante es mayor a 0,7, se completa la serie candidata por medio de una regresión lineal simple, para luego incorporar un factor de ruido estocástico (8) que añada variabilidad natural al resultado pero que preserve la señal original de la serie. esto según la fórmula:
+T1 = a + bT2 + 1 ~R2 . 6 . S1
+Donde T' es la estimación de la variable en la estación (candidata) y T2 el valor concurrente medido en la estación 2 regresora/rellenadora; en el mes respectivo. a es un valor único correspondiente al intercepto de la regresión lineal simple, mientras que b corresponde a la pendiente de la regresión. Por otra parte, R2 es el coeficiente de determinación de la relación lineal, 6 es un número aleatorio preveniente de la distribución Normal estándar (u=0,0=1) y S1 es la desviación estándar de los registros de la estación 1.
+Este proceso se realiza de forma iterativa en las estaciones a ser rellenadas hasta converger   bajo tres condiciones: 1) Se han completado todos   los registros; 2) Una estación regresora no puede rellenar una misma estación más de una vez y 3) el valor de los R2 es inferior que el umbral definido (0,7). En este sentido, si luego de este paso aún quedan registros sin completar, se utilizan los datos del CRZMet (Boisier et al. 2018) para completar los gaps faltantes con base en la relación estadística con las observaciones. Por último, si aún con esto quedan vacíos de información; se completan con la mediana de la serie para aquel día del año. Con estos resultados, Ya es posible analizar los patrones de tendencia en los datos.
+Para este análisis de tendencia; los datos se agrupan de cuatro formas: a escala mensual, a escala anual Y escala estacional, obteniéndose las tendencias y el valor p proveniente de la prueba de Mann-Kendall (McLeod, 2005) siempre para una serie de 30 datos. Por ejemplo, la obtención de la tendencia de temperaturas máximas en enero, se toma el promedio de los eneros en el periodo analizado y se usan estos datos para obtener la pendiente de regresión: Lo mismo aplica si se hiciera para los otoños; se agregan todos los valores por año de cada otoño astronómico y se obtiene la señal de tendencia para estos datos . Finalmente, a escala anual; se agrega la información por año
+================================================================================
+PAGE 23
+================================================================================
+(promedio en temperaturas y caudal y suma en precipitación) y se obtiene el patrón de tendencias sobre estos datos.
+El análisis del comportamiento de eventos extremos para las observaciones en el área de estudio se realizó considerando los indicadores vinculados a cada variable (Vicuña et al. 2013)   (Tabla 3). Para efectos de rescatar aquellos indicadores que pueden considerarse relevantes en el área de estudio dadas con condiciones hidroclimáticas de base, se seleccionaron ciertos indicadores preferentes del total disponible para reportarlos en el cuerpo de este informe. No obstante, el detalle de todos los resultados se presenta en los Anexos .
+================================================================================
+PAGE 24
+================================================================================
+Iabla 3_Indicadores_hidroclimáticos_ extremos adaptados de_VicuñaetgL 2013 Indice Descripción Unidades Max Tmax Temperatura máxima de las temperaturas máximas Min Tmax Temperatura mínima de las temperaturas máximas Max Tmin Temperatura máxima de las temperaturas mínimas Min Tmin Temperatura mínima de las temperaturas mínimas Warm Nights N' días Tmin sobre percentil 90 del registro días Cold Nights N' días Tmin bajo percentil 10 del registro días Warm Days N' días Tmax sobre percentil 90 del registro días Cold Days N' días Tmax bajo percentil 10 del registro días Summer Days N' días Tmax 25 %C días Frost Days N' días Tmin días Rango Rango Temperatura Diaria Desviación Desviación Estándar de la precipitación mm RIOmm Precipitación (P) mayor a 10 mm días R2Omm Precipitación mayor a 20 mm días TDD Precipitación menor a mm (días sin Iluvia) días RXIc day Precipitación máxima mm R95% Días en que P percentil 95 de P en el registro días R75% Días en que P > percentil 75 de P en el registro días P> R95% Suma de P > percentil 95 de P en el registro mm P> R75% Suma de P > percentil 75 de P en el registro mm Qmin Caudal mínimo de los caudales medios m?/s
+Qmax
+Caudal máximo de los caudales medios
+m'/s
+En Negrita aquellos que se han evaluado en el cuerpo del informe.
+En el caso de las temperaturas, los indicadores más relevantes calculados corresponden al máximo de las temperaturas máximas (Max Tmax) a la temperatura mínima de las temperaturas máximas (Min Tmax), al número de días en que las temperaturas diarias mínimas y máximas rebasan el percentil 90 del registro de datos (Warm Nights y Warm Days respectivamente) así como número de días en que la temperatura máxima rebasa los 25C (Summer Days) . Respecto de los indicadores vinculados a las precipitaciones, se reportan el s conteo de los días en que la precipitación es menor a mm (sin lluvia) (TDD) y
+En Anexos se reportan los valores para todos los indicadores de la tabla
+================================================================================
+PAGE 25
+================================================================================
+los días en que la precipitación sobrepasa el percentil 95 del registro (R959) . Finalmente, en cuanto a caudales, se calcularon los mínimos Y máximos de los caudales medios (Qmin y Qmax respectivamente) .
+2.3.Evaluación de escenarios de cambio climático futuros.
+Se realizó un análisis de los escenarios de cambio climático en el área de estudio, el que incluye la evaluación de la incertidumbre asociada a los escenarios de emisión y GCM, disponibles en los distintos informes del Panel Intergubernamental de Cambio Climático (IPCC por sus siglas en inglés) (IPCC, 2021).
+Fuura 4c12y
+GHG emissions
+Climate model
+1 6 Regional scenarlo 1 Imoaet g Local impacts
+Adaptation responses
+The envelope of uncertainty
+Figura 6. Cascada de incertidumbre asociada a la generación de modelos de Cambio Global (GCM) .
+Tal como se presenta en la Figura 6, la incertidumbre es inherente al desarrollo de los modelos de Cambio Global y tiene su origen en los múltiples aspectos a representar, como la cantidad de escenarios de emisiones de Gases de Efecto Invernadero (GHG, por sus siglas en Inglés) , el modelo climático utilizado, los diferentes escenarios regionales que se dan en elmundo, ylas distintas medidas que se toman a nivel regional 0 de país para enfrentar el CC, entre otras. Por ello, es importante escoger aquellos modelos que representen la zona de estudio con mayor precisión.
+En la Figura 7 se pueden observar los cambios esperados incertidumbre para
+================================================================================
+PAGE 26
+================================================================================
+precipitación en dos escenarios de emisiones para los proyectos CMIPS Y CMIP6. Asimismo, en la Figura 8 se muestran los cambios esperados para temperatura media e incertidumbre de los modelos en dos escenarios de emisiones para los proyectos CMIPS y CMIP6. Es posible notar, que existe una mayor incertidumbre en el escenario de emisiones menos seco (RCP-2.6y SSPI - 2.6) y que esta es menor para el más adverso (RCP-8.5 y SSP5-8.5). Vale decir, en el escenario menos severo existe mayor discrepancia entre los modelos respecto de la señal general reportada, mientras que, en el escenario de mayores emisiones  los modelos presentan alta concordancia en la proyección que hacen del aumento en las temperaturas . A Su vez; es posible notar que entre los modelos RCP y SSP que las proyecciones de estos últimos son más intensas respecto del periodo de referencia histórico (CCG, 2022).
+================================================================================
+PAGE 27
+================================================================================
+1
+1 ; ? 3
+% { 9 1 2 ! 1 | 4 0 " [ 7 8 , 8 8 0 | : { 8 , 1 8 ; 8 1 8 K :
+;
+1 ; ;
+================================================================================
+PAGE 28
+================================================================================
+:
+1 : :
+f 9 , 9 9 | ~ 5 2 9 9 9 8 , | 1 [ 8 ; 1 8 ; g 1 8 1 o ,
+1
+1 : :
+================================================================================
+PAGE 29
+================================================================================
+Dada la cantidad de modelos disponibles y la variabilidad que existe entre ellos, conlleva a la necesidad de seleccionar aquellos que representen de mejor manera una zona de interés. Para resolver este propósito  se utiliza una metodología de selección de modelos climáticos que se basa en la asociación de los datos obtenidos desde las observaciones (estaciones) con aquellos provenientes para cada modelo en un periodo histórico coincidente (en el presente1985-2019). Esta relación se mide en base a dos estadígrafos: a) El Sesgo de Promedio Anual  (SCA)' calculado como el cociente entre la media anual de precipitación 0 temperatura del modelo 1 interpolada en la estación i, y el mismo valor calculado en la estación i,
+7ij SPA = 'i
+yb) el Sesgo de Coeficiente de Variación (SCV) que corresponde al radio entre los coeficientes de variación de la serie anual del modelo j en la coordenada de la estación Y el coeficiente de variación en la misma agregación temporal en la estación meteorológica 1 para Ia variable correspondiente.
+Sij/ ij SCV = Silxi
+Aquellos modelos con un valor SPA más cercano a muestran un mayor grado de ajuste histórico entre las observaciones y las estimaciones del modelo así como  aquellos con Un SCV cercano a muestran una dispersión similar con las observaciones. Dado que se busca seleccionar aquellos modelos que mejor acoplen con un conjunto de estaciones en una zona de estudio, se utiliza un indicador que considera la diferencia absoluta entre los valores SPA y SCV con respecto al valor 1, que representa el ajuste perfecto en ambos casos. Este estimador puede ser ordenado para generar un de Ranking de Modelos (MR)  Y se expresa como:
+MR = /1 _ APIjk| + 11 _ CVIjkl)/2 j=1k=1 j=1k=1
+Este valor por sí solo no resulta suficiente para la selección final de un modelo de proyección. Por ello es que, junto con lo anterior, se obtienen los cambios esperados de cada modelo para temperaturas Y precipitación respecto del periodo de referencia histórico, hacia el periodo futuro 2015- 2044, considerando el escenario de emisión RCP-8.5.
+Con esta información se generaron gráficas comparativas y una matriz de
+================================================================================
+PAGE 30
+================================================================================
+puntajes basada en los   indicadores previamente mencionados que permitieron identificar cuáles son los modelos que presentaron mayores contrastes entre sí (vale decir, diferencias entre los cambios esperados a futuro, considerando el escenario seleccionado) y que a su vez presentaron mejor 0 peor concordancia con las observaciones. Luego, se seleccionaron modelos que responden a escenarios contrastantes Y que presentan Un buen ajuste a los datos observados .
+Con los modelos seleccionados fue posible establecer, previa revisión de concordancia con los modelos ARClim (que fueron los finalmente utilizados para utilizar las proyecciones ya que presentan mayor variabilidad provenientes desde el formato nativo de cada modelo)  trayectorias de cambio en los patrones hidrometeorológicos en la zona de estudio, dado el escenario de emisión mencionado. Esto permitió inferir las potenciales amenazas que las faenas pueden tener en este ámbito.
+2.4.Análisis de indicadores extremos en escenarios de CC.
+De modo de analizar los patrones de cambio tanto de las tendencias meteorológicas como de los eventos extremos derivados, a partir de los modelos seleccionados y utilizando resultados del proyecto ARCLIM, se realizó Un análisis   proyecciones   probabilísticas de los distintos eventos extremos, el cual buscó hallar, para intervalos móviles de 35 años desde 1985 hasta 2069, la tendencia Y significancia tanto de las variables de temperaturas extremas Y precipitación como de los indicadores de eventos extremos considerados, con el propósito de anticipar posibles condiciones secas (menos precipitación Y mayores temperaturas) en el ámbito meteorológico; SU magnitud Y potenciales cambios en los patrones de tendencia.
+5 proceso descrito, se realizó solo para la estación Carriel Sur dado que satisface dos condiciones: 1) Posee datos históricos tanto de temperatura cómo de precipitación 2) Posee una alta calidad de observaciones en ambas variables para el periodo histórico. Es por ello, que se utiliza como un punto de guía para las proyecciones futuras de tendencias Y eventos extremos, en condiciones en que, dado que la señal espacial de los GCM es gruesa, hacer representaciones para varios puntos dentro de una zona con una señal futura similar para distintos modelos puede ser redundante.
+No obstante, antes de realizar el análisis , se debe verificar tanto Ia concordancia de los modelos ARClim Seleccionados con aquellos modelos CMIPS de base con los cuales se hace la selección; así como los sesgos de
+================================================================================
+PAGE 31
+================================================================================
+estos modelos del Atlas de   Riesgo Climático con las observaciones tomando como referencia también el producto CR2Met, ya que los modelos ARClim se basan en la corrección de sesgo por método de downscaling estadístico del modelo nativo original mediante el USO de CR2Met. De modo que, si este producto posee un sesgo de base con las observaciones, estas diferencias se arrastrarán al modelo.
+Para corregir estas diferencias, se hace una corrección de sesgo simple por mes para que la media mensual en el periodo historio 1985-2019 sea similar la de la estación Carriel Sur como en cada uno de los modelos ARClim seleccionado, sin perturbar ni su variabilidad ni su señal de cambio futuro.
+================================================================================
+PAGE 32
+================================================================================
+3. RESULTADOS
+3.1.Análisis crítico de condiciones hidrometeorológicos históricas en cuenca Costeras e Islas entre Río Itata Y Río Biobío (Comuna de Penco)
+Enla Tabla 4 y la Tabla 5, se reportan los resultados del análisis de tendencia Y eventos extremos de los datos históricos a partir de la prueba de Mann- Kendall. Se reporta la pendiente de la curva de regresión y el valor p de la prueba solo para aquellas estaciones con tendencias significativas para un valor alfa 0,1. Los colores de los números indican si el valor reportado indica tendencia de sequedad (en rojo) 0 de humedad (en azul)? .
+Tabla 4. Tendencias decadales para las variables de precipitación (Pp), caudal [@Lytemperatura mínimg [In) Varl Estación Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic Anual Dichato -51,5 Cancha los Pp -15,8 litres Carriel Sur 112,9 -98,9 Rio Andalien -4,2 -1,0 camino a Penco Tn Carriel Sur +0,4 +0,4 +0,1 Nota: Se muestran solo aquellos valores Y variables con significancia estadística (a=0,1).
+Tal como muestra la Tabla 4, la precipitación presenta una disminución estadísticamente significativa en los meses abril (en Carriel Sur, de -12,9 mmIdécada) Y mayo (en Cancha Los Litres; de -15,8 mmldécada) Y a escala anual para las estaciones Dichato (-51,5 mmIdécada) y Carriel Sur (-98,9 mmIdécada). Asimismo, en la estación Carriel Sur, se presenta un aumento de las temperaturas mínimas en los meses de verano (diciembre a febrero) de entre +0,1 y +0,4 grados por década. Respecto a los caudales, existe una disminución estadísticamente significativa en la estación Río Andalien camino a Penco en el mes de Julio de -4,2 m'/s por década, Y a escala anual de m? /s por década. Considerando que el periodo de estudio es de 35 años (1985-2019), estos cambios implican una disminución
+Con "condición" favorable se refiere que la tendencia del valor reportado no sea contraintuitiva respecto de lo esperado Por ejemplo, se espera que la precipitación no disminuya hacía el futuro que las noches cálidas no aumenten, en ese sentido si la tendencia de precipitación es positiva se marcará en azul, lo mismo en el caso de que la tendencia de las noches cálidas sea negativa. En caso opuesto se marcarán en color rojo.
+================================================================================
+PAGE 33
+================================================================================
+de 3,5 m3/s en el caudal anual.
+Jabla 5 Iendencias decadales parg los indicadores de eventos extremos Primave Indicador Estación Verano Otoño Invierno Anual ra Concepción -3,8 -6,7 DGA Dichato +4,] +3,9 Rafael +2,9 +5,08 +8,2 TDD Cancha los +3,2 litres Carriel Sur +2,9 Cerro caracol +3,6 Rafael -1,3 +1,4 +0,8 +2,6 R95 Carriel Sur -1,9 -2,3 MinTmax Carriel Sur +0,4 -0,2 WarmNights Carriel Sur +3,4 +0,2 SummerDays Carriel Sur +1,9 Rio Andalien Qmax Camino a -15,3 -24,8 -28,4 Penco Nota: Se muestran solo aquellos valores Y variables con significancia estadística (a=0,1).
+En la Tabla 5, se muestra que el indicador de días sin Iluvia aumenta de manera general en 6 de las 10 estaciones analizadas que miden precipitación; en el orden de 3 a 5 días por década aproximadamente, en particular en la   temporada de otoño. Es una excepción la   estación Concepción DGA en la que disminuyen los días continuos sin lluvia tanto para invierno (-3,8 días/década) como a nivel anual (-6,7 días/década) .
+La cantidad de días en que la precipitación se encuentra en el percentil 95 (P95) 0 mayor del registro; tienen tendencia variable. Para la estación Rafael, disminuye la cantidad de días con lluvias de P95 0 mayor en -1,3 días/década para el otoño, pero aumentan en invierno y primavera, Y a escala anual en +2,6 días/década. Para Carriel Sur, sucede que disminuyen los días seguidos con precipitación P95 0 mayor en casi -2 díasIdécada; Y también lo hacen en -2,3 días/década a escala anual.
+aumento de la temperatura mínima de las   temperaturas máximas (MinTmax) en la estación Carriel Sur es estadísticamente significativo en verano, lo que implica que los días se han vuelto más calurosos en +0,4PC/década en esa temporada, mientras que en primavera se presenta una disminución de -0,16 Cldécada para este indicador, por lo que los días se han vuelto más fríos en esa temporada. Asimismo, se evidencia un
+================================================================================
+PAGE 34
+================================================================================
+aumento en el número de días en que la temperatura mínima sobrepasa el percentil 90 del registro  tanto en verano (+3,55 días/década) como a escala anual (+0,2 díasldécada) , lo que implica que las temperaturas más bajas están siendo más altas que antes. También; se tiene un aumento en +1,9 díasldécada en la cantidad de días en que la temperatura máxima sobrepasa los 25 C, a nivel anual; implicando temperaturas máximas cada vez mayores.
+Finalmente, en la estación Río Andalien camino a Penco, hay evidencia estadística de la disminución de los caudales máximos en invierno (en -15,3 m'Is por década) , primavera (en -24,8 m'Is por década) y a escala anual (en -28,4 m3 /s por década). En general; se hallan incrementos de las temperaturas mínimas en los meses de veranos Y disminuciones marcadas de precipitación a escala anual. Por otro lado, en los meses de otoño se concentran las condiciones más secas para los eventos extremos vinculados a precipitación Y a escala anual para aquellos asociados a temperatura 0 caudal.
+3.2. Evaluación de escenarios de cambio climático futuros .
+continuación, se presentan los resultados de la selección de modelos realizada de acuerdo con la metodología descrita. La Figura 9 muestra los cambios en temperatura Y precipitación de los modelos CMIPS para el periodo 2015-2044 respecto del periodo 1985-2014 en el escenario RCP-8.5. Es   posible  apreciar que todos los modelos   prevén aumentos de las temperaturas medias, mientras que en precipitaciones la mayoría proyecta disminuciones de estas , aunque algunos de ellos (Ia minoría)   prevé aumentos.
+Cambios periodo 2015-2044 escenario RCP8.5
+Modelos bcc-csm1-1-m bcc-csm1-1 BNU-ESM CanESM2 CCSM4 CESMI-CAMS CESMI-WACCM CNRM-CMS CSIRO-Mk3-6-0 FGOALS-g2 FIO-ESM GFDL-CM3 GFDL-ESMZG GFDL-ESMZM
+10
+GISS-E2-H GISS-E2-R HadGEM2-AO HadGEM2-ES IPSL-CMSA-LR IPSL-CMSA-MR MIROC-ESM-CHEM MIROC-ESM MIROCS MPI-ESM-LR MPI-ESM-MR MRI-CGCM3 NorESMI-M NorESM1-ME
+& 2 8 10
+-20
+0,5
+1.0
+2.0
+Cambio Temp (PC)
+Figura 9. Cambios en temperatura media (PC) y precipitación '%) para el periodo 2015-2044 respecto de 1985-2014 para modelos CMIPS en escenario RCP-8.5.
+================================================================================
+PAGE 35
+================================================================================
+Fuente: elaboración propia.
+En la Figura 10, se observa la dispersión de los modelos considerando los coeficientes SPA y SCV de cada uno. Aquellos modelos se ajustan mejor a los datos observados históricamente en la zona son aquellos que tienen coeficientes cercanos al valor 1- Es por ello, que se selecciona los modelos que están más cerca; con valores de sesgos entre 0.75 y 1.25.
+1.50
+Modelos ACCESS1-0 ACCESS1-3 bcc-csm1-1 bcc-csm1-1-m BNU-ESM CanESM2 CCSM4 CESMI-BGC CESMI-CAMS CMCC-CESM CMCC-CM CMCC-CMS CNRM-CMS CSIRO-Mk3-6-0 EC-EARTH FGOALS-g2 GFDL-CM3
+GFDL-ESMZG GFDL-ESMZM HadGEM2-AO HadGEM2-CC HadGEM2-ES inmcm4 IPSL-CMSA-LR IPSL-CMSB-LR MIROC-ESM MIROC-ESM-CHEM MIROCS MPI-ESM-LR MPI-ESM-MR MRI-CGCM3 MRI-ESM1 NorESMI-M
+8 1.25- 1 1.00- ; 8 ; 0.75
+0.50- 0.50
+0.75 1.00 1.25 Sesgo Pp media anual GCMIObs
+1.50
+Figura 10. Dispersión de los 35 modelos CMIPS analizados según sesgos SPA Y SCV respecto de las observaciones de las estaciones analizadas. Fuente: elaboración propia.
+Para seleccionar los modelos con menor sesgo, se calcula un promedio entre el SPA y SCV, con el que se obtiene un valor (MR) según el cual se puede ordenar los modelos según el nivel de representatividad de la zona de interés. En la Tabla 6, se reporta el listado de los 10 primeros modelos (de un total de 35) ordenados en orden creciente de MR. De entre los diez primeros  se eligen aquellos tres que presenten cambios más contrastantes es decir, que los cambios proyectados sean uno neutro, otro muy seco, Y otro seco. En este caso HadGEM2 corresponde al modelo neutro, pues el cambio en precipitación es positivo con tendencia al neutro (aumenta la precipitación a futuro en una magnitud baja) y la temperatura máxima aumenta poco en comparación; NorESMI-M es el caso muy seco en precipitación pues disminuye en gran medida a futuro; por último; CESMI -
+================================================================================
+PAGE 36
+================================================================================
+CAMS se toma como el caso seco, con disminución moderada de la precipitación a futuro.
+Tabla 6. Listado de los 10  primeros modelos   (de 35) con mejor   ajuste las observaciones en la zona de estudio. Cambio Cambio Cambio Ranking Modelo pP (%) tmin (PC) tmax ('C) SPA SCV MR CESMI-CAMS -3,59 0,56 0,74 1,86 3,27 2,57 2 CSIRO-Mk3-6-0 -5,47 0,63 0,72 1,73 3,70 2,71 3 NorESMI-M -14,07 0,57 0,71 2,65 2,95 2,80 HadGEM2-ES 0,07 0,64 0,67 3,17 3,09 3,13 5 CCSM4 -3,90 0,69 0,97 3,55 2,78 3,16 6 GFDL-ESMZM -17,02 0,37 0,76 2,27 4,21 3,24 7 CESMI-BGC 2,64 0,87 0,90 3,91 2,86 3,39 8 HadGEM2-AO 6,05 0,39 0,45 2,80 4,16 3,48 MPI-ESM-LR -12,93 0,60 0,72 3,93 3,07 3,50 10 CNRM-CMS 4,46 0,71 0,70 3,85 3,85 3,85 *Se resaltan en negrita y cursiva aquellos seleccionados para el análisis.
+Cabe mencionar que el análisis de modelos se hizo con base en CMIPS, pero las   proyecciones se hicieron en base a ARClim,   que hace una adecuación de los modelos CMIPS para tener mejor   representación espacial sin cambiar la señal del modelo. En ese sentido; ARClim corrige los sesgos de CMIPS a partir información histórica observacional (estaciones) a nivel país, de modo de establecer una correcta concordancia con aquellos usados como base del análisis, tal como es posible notar en la Figura 11, en donde se observa que, para el centroide del área de estudio, los valores promedio para ambas fuentes de información (considerando los mismos modelos) se mantienen, mientras que la dispersión de los datos varía muy ligeramente entre ambos. De esta forma, se puede establecer que los
+================================================================================
+PAGE 37
+================================================================================
+Modelos ARClim preservan la señal de los modelos CMIP5 originales para las variables de temperaturas extremas y precipitación.
+10
+1.4
+5
+5.2
+4.5
+1.2
+0
+1.0
+1.0 0.8 g 0.6 p 0.4
+0.9
+0.9
+2 ~5 -6.6 : 10 -15
+-6.6
+0.7
+0.7
+0.6
+0.6
+0.3
+0.3
+-20 -19.7 422.0 -25 Arclim CMIPS
+0.2
+0.2
+0.2
+0.0
+Arclim
+CMIPS
+Arclim
+CMIPS
+Pp
+Tmin
+Imax
+Figura 11. Comparación de 33 modelos ARClim coincidentes con aquellos CMIPS respecto de sus cambios en temperaturas extremas ('C) y precipitación (%) para el periodo 2015-2044 respecto del periodo 985-2014.
+Establecida Ia relación concordante de los modelos ARClim con los modelos nativos CMIPS, se debe analizar ahora la asociación para el periodo histórico de los modelos ARClim con las observaciones en un punto específico. Este punto corresponde a la estación Carriel Sur , y los resultados muestran, para los tres modelos RCP8.5 seleccionados Y el   producto CR2Met aceptables concordancias con los datos de la estación (Figura 12). Existen unos sesgos negativos en meses de verano (modelos sobreestiman las observaciones) y viceversa en invierno para las temperaturas mínimas. Mientras que en las máximas hay una sobrestimación generalizada en casi todo el año excepto en los meses de otoño. En el caso de las precipitaciones  los modelos tienden a sobreestimar las Iluvias en otoño, teniendo un comportamiento similar a las observaciones el resto de los meses del año.
+Dadas estas discrepancias, se hizo una corrección de las series, añadiendo por mes el sesgo señalado a cada modelo; de modo que sus series fueran insesgadas con las observaciones de la estación Carriel Sur, sin alterar la
+================================================================================
+PAGE 38
+================================================================================
+variabilidad ni la señal de las series proyectadas en sí, dado que lo que se busca caracterizar son eventos extremos.
+14
+a Tmín
+12
+10
+8 9
+4
+2
+0
+Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic
+30
+b. Tmáx
+25
+20
+0 15
+10
+5
+Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic
+250
+c. pp
+200
+150 E 100
+50
+Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic
+Obs
+CRZMet
+CESM1CAMS
+HadGEMZ ES
+NorESM1M
+Figura 12. Sesgos mensuales entre las observaciones de la estación Carriel Sur, el producto CR2Met y los tres modelos CMIPS seleccionados en base a ARClim, para temperatura mínima (a. Tmín), temperatura máxima (b. Tmáx) Y precipitación (c. Pp).
+================================================================================
+PAGE 39
+================================================================================
+3.3.Análisis de indicadores extremos en escenarios de CC.
+Luego de aplicar las correcciones a los datos de precipitación Y temperatura para los modelos ARClim seleccionados, se obtienen los valores de los indicadores para los periodos estudiados (histórico y futuro) . A continuación; se presentan los resultados de aquellos indicadores con significancia estadística tanto para el análisis histórico como para el análisis futuro. En el anexo se presenta las tablas con todos los resultados junto con valor p que permite evaluar significancia estadística.
+En la Tabla 7 se presenta la tendencia de cambio de los indicadores estudiados con significancia estadística. Vale decir, se entrega el valor de la pendiente de la curva de regresión lineal aplicada sobre los datos de precipitación y temperatura; tanto en el periodo histórico (de 1985 a 2019) como en el periodo futuro 2020-2054. Los indicadores presentados son R95 (número de días con precipitación sobre el percentil 95 del registro)  TDD (número de días con precipitación menor 0 igual a Imm)  WarmDays (número de días con temperatura máxima sobre el percentil 90 del registro) Y WarmNights (número de días con temperatura mínima sobre el percentil 90 del registro) en unidades de días/década. Se muestran solo aquellos valores y variables con significancia estadística (a-0,1).
+Tabla 7.Tendencias decadales para los indicadores de eventos extremos . Indicador Unidad Modelo Estación Histórico Futuro Cambio Invierno -1,47 0,27 1,74 días/déc NorESMI.M Otoño -1,08 -0,02 1,06 R95 ada Anual -2,83 0,06 2,89 HadGEMZ.ES Otoño -1,33 0,10 1,43 Invierno 2,96 0,06 -2,90 NorESMI.M Otoño 2,34 0,93 -1,41 díasIdéc TDD Anual 5,24 2,13 -3,11 ada CESMI.CAMS Verano 1,50 4,02 2,52 HadGEM2.ES Verano 1,09 5,02 3,93 Otoño 0,48 0,20 -0,28 Primaver CESMI.CAMS 1,66 1,70 0,04 díasIdéc WarmDays ada Anual 2,98 6,91 3,93 Primaver HadGEM2.ES 0,98 1,75 0,77
+Primaver díasIdéc CESMI.CAMS WarmNights ada HadGEMZ.ES Verano
+1,24
+1,21
+-0,03
+3,11
+6,69
+3,58
+================================================================================
+PAGE 40
+================================================================================
+La leyenda de colores en la Tabla 7 se asocia con el valor del indicador (en las columnas "Histórico" Y "Futuro"): rojo si el impacto implica mayor sequedad y/o aumento de temperaturas Y azul si el valor implica más humedad 0 disminución de las temperaturas . Para la columna "Cambio" que corresponde a la diferencia entre el valor del indicador a Futuro y en el Histórico, el color de la celda indica si el indicador se vuelve menos intenso (en azul) 0 bien más intenso (en rojo) en el periodo futuro analizado respecto del periodo de referencia histórico. Que sea menos intenso no implica que mejora completamente respecto del histórico, si no que la velocidad de cambio no es tan aguda como antes es decir, hay una desaceleración en la tendencia del indicador, solo aplicable en el periodo futuro analizado. Sólo en el caso de R95, para los valores futuros en azul, se presenta una mejora en el indicador, teniendo una pendiente que implica un aumento de precipitaciones.
+En el caso de R95, se tiene que para los modelos NorESMI.M y HadGEM2.ES, históricamente se tiene por década, disminuyen los días en que el percentil de la precipitación se encuentra por sobre el P95 del registro. En otras palabras, la tendencia futura en Iluvias de mayor intensidad  podría favorecer la aparición de eventos de Iluvias de alta intensidad concentradas en uno 0 pocos días. Esto implica entonces que aumentan los días con lluvias P95 0 mayor, en ambos modelos (aunque sin llegar a revertir el cambio negativo que se dio en el histórico), excepto para el periodo de otoño en el modelo NorESMI.M, que siguen disminuyendo los días con P95 0 mayor; aunque en menos magnitud que en el histórico. Como se explicó anteriormente; esto se puede interpretan como un cambio relativamente favorable, aunque no implica que la situación mejore a futuro, pues si bien pueden esperarse eventos de mayores precipitaciones en invierno, lo que es positivo en cuencas de régimen pluvial; si estos eventos se concentran en periodos cortos, como justamente lo señala este indicador R95, puede traer consigo potencialmente problemas vinculados que se vinculan con la acumulación de aguas lluvias, como inundaciones remociones de masa.
+En el caso de TDD, se tiene que para los modelos NorESMI .M, CESMI.CAMS y HadGEMZ.ES, en al menos una estación disminuye la cantidad de días con precipitación menor a Imm, es decir, aumentan los días sin precipitación. A futuro, en el caso NorESMI.M, las   pendientes   implican una mayor sequedad a futuro; pero disminuyen la magnitud; lo que corresponde Un cambio menos intenso en la tendencia; mientras que, en los otros modelos, Ia situación a futuro se vuelve estadísticamente más intensa en SU tendencia. Para tener una idea; tomando como ejemplo CESMI.CAMS, en
+================================================================================
+PAGE 41
+================================================================================
+verano para el periodo histórico ha aumentado la cantidad de días secos en 1,5 por década; es decir, 5,3 días en 35 años. Luego, en el periodo futuro analizado; se espera que aumente en más del doble (4 díasldécada), es decir, existe un aumento de 14 días en 35 años. En total, el cambio es de casi 20 días menos con precipitación sobre Imm para ambos periodos en conjunto. Cabe mencionar, que estos cambios se encuentran asociados a meses de verano; lo que implica; en términos de R95 y TDD; que hacia el periodo 2020-2054 respecto de lo acaecido entre 1985 y 2019 los veranos sean más secos y que en invierno exista mayor frecuencia de eventos de precipitación de alta magnitud, concentrados en periodos cortos de tiempo  pese a que en tendencia general el monto total de precipitaciones sea menor.
+Asimismo, para CESMI.CAMS, se tiene aumento en el número de días en que ocurren temperaturas máximas extremas (WarmDays) tanto para otoño como en primavera, así como a escala anual. Además, aumenta en el número de días en que las temperaturas mínimas son extremas hacia lo cálido (WarmNights) para primavera; tanto en el histórico como a futuro. Sin embargo, WarmDays en otoño, Y WarmNights a futuro,  presentan un escenario menos seco comparado con el histórico  teniendo cambios negativos. Esto implica que en los meses distintos a donde históricamente ocurren los extremos de temperatura (verano) se esperan aumentos significativos en la frecuencia de día de eventos vinculados a temperaturas cálidas . Esto puede tener potenciales repercusiones   principalmente en ciertos ciclos vegetativos  que podrían ya sea retrasar la inducción de dormancia 0 favorecer la brotación anticipada, con los cambios en productividad primaria que esto podría aparejar, teniendo en cuenta que el proyecto se ubica en inmediaciones forestales.
+Para el modelo HadGEM2-ES , aumenta WarmDays en primavera aproximadamente díaldécada en el histórico Y 1.75 díaldécada en el futuro, Y WarmNights en verano, aproximadamente 3.1 díaldécada en el histórico Y aumentando a 6.7 díasldécada en el futuro. Esto implica, en términos prácticos, que, en el periodo futuro analizado; se esperan mayores ocurrencias de días cálidos por sobre un umbral ya bastante alto (percentil 90) respecto de lo que ha ocurrido históricamente. No obstante, hay que tener presente que estos cambios tienen mayor probabilidad de tener lugar en meses más templados de primavera y otoño, lo que podría extender los meses asociados a las estaciones más cálidas .
+Finalmente; se debe tener en cuenta que los cambios en los patrones de tendencia dependen del periodo en el cual se analizan; lo que puede determinar la pendiente de la curva de regresión que se obtiene Y si esta es
+================================================================================
+PAGE 42
+================================================================================
+estadísticamente significativa 0 no. De esta forma; se podría plantear que en la media que avanzamos hacia el futuro los valores de las tendencias pueden aumentar 0 disminuir dependiendo de la variable e indicador, Y su significancia preservarse en el tiempo, 0, por otro lado; puede ser que exista Un patrón tendencial que no resulte significativo en algún momento del tiempo. En ese sentido, la Figura 13 muestra las tendencias anuales en distintos periodos móviles de 35 años desde el año 1985 hasta el último periodo que concluye en 2069, para las variables de temperaturas extremas Y precipitación Esto quiere decir que cada valor reportado corresponde a la tendencia decadal respectiva en distintos  periodos de 35 años, en secuencia: 1985-2019 , 1986-2020, Y así hasta el periodo 2035-2069 , reportándose aquellos valores que son estadísticamente significativos por cada modelo de clima futuro ARClim.
+Se observa   que, en todos los modelos, los   pendientes decadales de temperatura máxima en los periodos son significativas, Y en el modelo CESMI-CAMS se vuelven crecientes desde los   periodos que cierran aproximadamente en 2025 (1991-2025)- Esto implica que significativa Y tendencialmente las temperaturas máximas irán incrementándose hacía 2070 a escala anual. En el caso de las temperaturas mínimas; ocurre algo similar , Y aunque la gran mayoría de las tendencias móviles son significativas, estas se mantienen oscilantes en los periodos, dando ciertos momentos de "descanso" en donde los incrementos en temperatura no parecen ser tan marcados. En el caso de las precipitaciones  existe un patrón mixto en el modelo CESMI-CAMS, con tendencias decadales positivas Y negativas a escala anual de la precipitación, aunque ninguna de ellas significativa.
+En el caso del modelo HadGEM2-ES , estos cambios en la tendencia parecen ser neutros no significativos hasta periodos que terminan por concluir en 2050, sin embargo, luego las diminuciones en precipitación año a año vuelven significativo el patrón de cambio con tendencias que bordean los -100 mmIdécada hacia el periodo 2035-2069 . Finalmente, el modelo NorESMI-M muestra descensos en la precipitación hacia 2030 (recordar que el periodo 2015-2044se utilizó en el presente para la selección de los modelos) muy negativos y en algunos casos significativos, para luego cambiar el patrón Y hacia 2050 incluso presentar aumentos en las precipitaciones  para luego bajar drásticamente a condiciones severas de déficit de precipitaciones.
+En el material Anexo se reportan las mismas gráficas separadas por mes del año
+================================================================================
+PAGE 43
+================================================================================
+g 8 2 ; ; ; ; 1 ; 33 1 1 1 8 ; ; 1 ; ; 8 +0 {0 zo |'0 v0 €0 Zo 4'0 00L OS OS- 00L - 8 ; ; 81 8 4 > 1 1 1 ; 1: 1 g [ " ; ; 8 { ; vo {0 zo |'0 v0 80 Zo 40 00L 0s 0S- 0OL - 1 ; 1 ; 8 9 1 1 11 1 2 1 ; ; 1 8 8 ; 2 g v0 80 Z0 4'0 v0 80 Zo 4'0 00L 0S OS- 00L - (dd epejapjuu 'XL / ul epejapljo) eijuapual g;
+================================================================================
+PAGE 44
+================================================================================
+Por otra parte, respecto de los indicadores de eventos extremos, se realizó mismo análisis, pero segmentando la temporalidad en estaciones del año. Para el caso de las Temperaturas Máximas de las Temperaturas máximas (MaxTmax) (Figura 14) , tanto el modelo más severo (NorESMI-M) Y el intermedio (CESMI-CAMS) , prevén aumentos secuenciales de este indicador, a escala anual, lo que implica valores de temperaturas máximas tendencialmente significativas más altas cada año, esto es más latente en los meses de verano para los tres modelos, pero no así en los otoños para el modelo más severo. En el caso de las Mínimas de las Temperaturas Máximas (MinTmax) (Figura 15), el modelo menos severo (HadGEMZ.ES) e intermedio (CESMI-CAMS) poseen patrones de incremento tendencial a escala anual que son significativos aproximadamente con año final en 2040, Y esto se reportó en modelo menos severo para periodo de invierno en ambos modelos, vale decir meses   históricamente "fríos" que se vuelven más "cálidos"- Las noches cálidas (WarmNights) aunque no se vuelven cada vez más frecuentes en las distintas ventanas móviles a escala anual, si proyectan aumentos decadales que son significativos en casi toda la serie, independiente del modelo analizado, teniendo la época de verano un patrón muy similar también (Figura 16). Los días cálidos (WarmDays) siguen Un comportamiento similar a las noches calidad (Figura 17), al igual que los días en que la temperatura sobrepasa los 15PC (SummerDays)  añadiéndose al patrón el periodo de primavera, que se vuelve más calida en torno a 1950 como año de término de la serie, y hasta el final del periodo de análisis en prácticamente los tres modelos (Figura 18). Los días sin lluvia (TDD) presentan comportamiento variado y poco significativo en todos los periodos  con excepción del modelo menos severo (HadGEM2-ES) que hacia el final del periodo analizado presenta significancia marcada, vale decir certezas de que el número de días en que no Ilueve aumentará, a escala anual. Por su parte, el modelo menos seco se mantiene en torno al cero en este indicador (esperable) sin ser significativo (Figura 19). Los días que en la precipitación sobrepasa el P95 del registro (R959) tiene condiciones variadas de aumento Y disminución dependiendo de la ventana analizada, pero nada significativo para detectar un patrón: No obstante, hay periodos en los modelos menos severos en verano en que existe significancia de un aumento de estos días, lo que puede sugerir, como anteriormente se mencionó, que pueda haber mayor frecuencia de eventos de lluvia extrema en meses estivales (Figura 20). En rojo se destacan aquellos valores estadísticamente significativos (a-0,1).
+================================================================================
+PAGE 45
+================================================================================
+; ; {3 8 ; , ; ; 1 4 ; 1 9 1 7 1 1 ; 8 ; 1 ; 0'| $0 0'0 0'/ 500'0 0'1 500'0 0'/5*00*0 0*/500'0 ; 9 ; 1 ; 1 8 ; 1 : 1 4 8 ; 1 38 8 0 8 1 ; : ; 9 0'4 $0 0'0 0'/ 9000 0' 4 $00'0 0'1500'0 0'/900'0 ; 8 ; g ; 8 ; 8 ; 8 8 ; 1 : 1 1 1 1 g ; g ; 1 g ; Y ; 0'4 $0 0'0 0*/ $00*0 0'1 500'0 0'1500'0 0*1500'0 (epejap 3) eisuapuaL g;
+================================================================================
+PAGE 46
+================================================================================
+; ; {3 8 ; , ; 8 1 4 g 1 8 1 1 1 9 ; 8 ; 1 ; v0 0*0 80/'04'0- v0 0'0 v0 0*0 v0 0'0 ; 8 ; 1 8 1 8 9 1 ; 1 7 1 ; 1 378 8 8 8 1 ; : ; 9 v0 0'0 80 /'04'0- vo 0'0 v0 0'0 v0 0*0 ; 8 ; @ ; 8 š ; 8 9 1 1 I; 1 ; 1 1 1 1 g ; ; ; 1 g ; 42 ; v0 0*0 €04'04'0- v0 0'0 v0 0'0 v0 0'0 (epejap 3) eijuapuaL g;
+================================================================================
+PAGE 47
+================================================================================
+8 g ; g ; g ; 8 9 1  ; 1 : 1 1 1 ; 8 ; ; 33 ; 8 018 9 v z 0 0z 0'/  0'0 0' 00 50'0 50'0- {oz'01'00'0 , ; ; 8 ; 8 1 8 ; 1 : 1 1 1 ;  378 # [ ; ; ; 018 9 + z 0 0z 0'/  0'0 0|  0*0 S0*0 S0'0- {oz'0l'00'0 ; p ; : 8 I [ 1 8 g 1 : 1 7 9 1 9 ; 1 ; p 2 018 9 + z 0 0z 0* | 0'0 0*/ 0*0 50'0 S0'0- coz0/'00*0 : ; (epejap seip) eijuapual 8
+================================================================================
+PAGE 48
+================================================================================
+8 8 ; g ; ; ; ; 9 1 4 9 1 : 1 7 1 ; ; 8 ; ; ; 33 8 9 + z 0 Z ) 0 /- 0'L 0'0 70 0'0 Zi 8 9+z 8 ; ; ; 8 ; 378 1 ; 1 9 1 : 1 7 1 9 8 | 1 ; ; 9 8 9 + z 0 z ) 0 / 0' L 0*0 70 0'0 Zi 8 9+z ; p 8 ; 8 I 9 1 1 9 1 : 1 7 1 1 ; 84 ; 7TTT 2 9 8 9 V z 0 Z | 0 1 0'/ 0*0 70 0*0 Zi 8 9+z (epejap seip) eijuapual g ;
+================================================================================
+PAGE 49
+================================================================================
+8 g ; g ; g ; ; [ 1 4 9 1 : 1 7 1 ; 8 ; ; '3 ; 8 8 9 + z 0 51 5050- 0'L $0 0*0 80 4'0 4'0- 018 9 V Z 0 , ; ; 8 ; 8 1 : 1 9 8 : 1 [ 1 ! 1 378 g 1 ; ; ; 8 9 V z 0 51 $050- 0' | $0 0'0 8*0 4'0 4'0- 018 9 v Z 0 8 ; ; ; p 8 I 9 1 8 9 9 : 1 7 1 1 9 ; 1 ; p % 8 9 v z 0 | $050- 0| $0 0'0 8'0 4'0 4'0- 018 9 # 2 0 , ; (epejap seip) eijuapual 8
+================================================================================
+PAGE 50
+================================================================================
+; 8 ; 8 g ; g ; g 9 1 4 9 1 8 1 1 1 ; 8 ; 8 ; ; V z 0 z 54 $050- { 2 | 0)- {Z| 0 z 9 V z 0 z- {3 ; 8 ; , 8 4 ; 9 8 % 1 H 9 1 ; 1 1 1 g 8 ; @ ; g Z 0 z- 51 $050- € z / 04- {Z10 z 9 V z 0 z- 9 ; p 8 ; 8 9 1 8 I: 1 8 1 1 1 1 I ; 14 ; 9 V Z 0 z 5L $050- € z / 0L - {z/ 0 z 9 V z 0 z (epejap seip) eijuapual g p
+================================================================================
+PAGE 51
+================================================================================
+8 ; 8 ; ; 33 ; 8 9 1 4 9 1 9 1 1 1 ; ; ; 1 ; 5 zo z0- v00'0 9*0- 0'0 0' / - 0'/ 0'0 $ ) - 0/-Z-€- [ ; 42 ; 8 ; ; 1 8 9 1 ; 1 1 1 ; 8 % 8 g ; 1 ; g 1 z0 z0- v00'0 9*0- 0'0 0' / - 0'| 0'0 $ ) - L 01-Z-€- 8 ; p 8 ; ; 8 Il [ 1 8 Ig 1 8 1 1 1 1 ; 8 ; 1 : ; 8 g zo Zo- +000 9'*0- 0'0 0' / - 0'/ 0'0 5 | - L 0/-2-8- (epejap seip) eijuapual g:
+================================================================================
+PAGE 52
+================================================================================
+4. CONCLUSIONES
+En el Marco del presente informe se ha realizado un análisis del área de estudio definida entre las subcuencas DARH de río Andalien y las costeras entre río Pingueral y rio Andalien; las cuales circunscriben a la comuna de Penco, y que a su vez forman parte de la cuenca Costeras islas entre Rio Itata y rio Biobío, Y que comprenden a las zonas en donde se ubicarán las faenas del proyecto Aclara.
+Luego de caracterizar especialmente esta zona en función también de otras delimitaciones afines; como Camels-CL; y luego de analizar el estado del arte respecto a lo reportado en el contexto del presente en la zona; se procedió a realizar una caracterización hidrometeorológica que arrojó como principales resultados en el periodo 1985-2019 una   disminución sostenida Y significativa a escala anual de las precipitaciones en las estaciones de la zona y un aumento de la temperatura mínima también significativa en los meses de verano. Existen disminuciones representativas de los caudales de la estación Rio Andalien camino a Penco a escala anual yen el mes de julio, más no en el resto de los meses. Lo anterior; se traducen en menos precipitaciones que pueden afectar los caudales de inviernos, que a SU vez pueden verse más presionados por mayores demandas de evapotranspiración en los meses de verano dado el incremento en las temperaturas.
+Por su parte, en el análisis de indicadores de eventos extremos existe un aumento generalizado en la zona de los días sin lluvia en los meses de otoño, el que es significativo en prácticamente en todas las estaciones analizadas lo que podría incidir a futuro en el aumento de condiciones de escasez hídrica reportado en algún indicador de sequía. Los días en que la precipitación sobrepasa Un umbral alto (percentil 959) han ido disminuyendo a escala anual; no obstante, cuando se analiza con base en los modelos de cambio climático se sugiere el aumento de eventos de precipitaciones que sobrepasen el registro en estos meses.
+Los indicadores vinculados al aumento de temperaturas máximas poseen mayor significancia en verano Y a escala anual, por lo que se prevén aumentos en los reportes de olas de calor según la historia meteorológica de la zona. Por SU parte, existe una disminución histórica significativa Y generalizada de los caudales máximos de la estación Rio Andalien camino Penco, en meses de invierno, primavera Y a escala anual, por lo que puede haber más presiones por ejemplo en diversos cultivos.
+================================================================================
+PAGE 53
+================================================================================
+En base a los modelos de cambio climático seleccionados, en algunos indicadores se reportan tendencias heterogéneas que no permiten establecer un patrón de cambio patente. No obstante, donde si existe concordancia es en el potencial aumento progresivo de los días en los que no llueve, a escala anual Y el aumento de los   eventos extremos de precipitación en meses de verano. En elcaso de las temperaturas extremas, en general se esperan días y noches más cálidas y aumentos progresivos de la temperatura sobre todo en verano; lo que puede por ejemplo aumentar las demandas de evapotranspiración de los cultivos e incrementar, por aumento potencial del combustible seco; el riesgo de incendios forestales.
+En síntesis, 1) Las condiciones climáticas están cambiando y se espera que cambien en el futuro con las siguientes características principales. Esto debe ser constatado en la Línea Base Climática del ElA_ 2) Estas condiciones climáticas afectan las condiciones hidrológicas de base en las cuencas relevantes de área de Influencia del proyecto. Sin embargo; el proyecto al usar agua proveniente de planta de tratamiento y recircular un porcentaje importante no debería verse afectado. 3) Las condiciones climáticas de menor precipitación Y mayor temperatura indican un déficit hídrico que debe ser considerado en el diseño y seguimiento de planes de restauración.
+================================================================================
+PAGE 54
+================================================================================
+REFERENCIAS
+Alvarez-Garreton, C., Mendoza; P. A., Boisier, J. P. Addor, N., Galleguillos, M. Zambrano-Bigiarini; M. Lara, A. Puelma; C., Cortes, G., Garreaud, R. McPhee, J. and Ayala, A: The CAMELS-CL dataset:  catchment attributes and meteorology for large sample studies Chile dataset, Hydrol. Earth Syst. Sci., 22, 5817-5846, https:l Idoi.org/10.5194/hess-22- 5817-2018 2018.
+Boisier, J. P Alvarez-Garretón, C., Cepeda, J.n Osses , A. Vásquez, N. & Rondanelli , R. (2018, April) . CR2MET: A high-resolution precipitation and temperature dataset for hydroclimatic research in Chile. In EGU General Assembly Conference Abstracts (p. 19739) .
+DGA (2014) . Redefinición de la clasificación red   hidrográfica a nivel nacional:. Realizado por Centro de Información de Recursos Naturales (CIREN) . S.D.T. N'536.
+DGA (2018). Aplicación de la metodología de actualización del balance hídrico nacional en las cuencas de las macrozonas norte y centro, sit no 435. Ministerio de Obras Públicas, Dirección General de Aguas, División de Estudios   Planificación; Santiago Chile. Realizado por Fundación para la Transferencia Tecnológica y Pontificia Universidad Católica de Chile. Departamento de Administración de Recursos Hídricos. (2014). Redefinición de la clasificación red hidrográfica a nivel nacional. Desarrollado por el Centro de Información de Recursos Naturales. 370 p
+Mariano, A. N. (2018) . Economic geology of rare earth elements. In Geochemistry and mineralogy of rare earth elements (pp. 309-338) . De Gruyter .
+McLeod, A. L (2005). Kendall rank correlation and Mann-Kendall trend test. R Package Kendall, 602, 1-10.
+Ministerio del Medio Ambiente, 2019. Volumen 2: Exposición, en "Determinación del riesgo de los impactos del Cambio Climático en las costas de Chile"  Documento preparado por: Winckler, P; Contreras-López; M.; Vicuña; S.; Larraguibel; C.; Mora, J.; Esparza; C.; Salcedo, J.; Gelcich; S.; Fariña, J. M:; Martínez; C.; Agredano, R.; Melo, 0 Bambach, N.; Morales , D. Marinkovic, C.; Pica, A., Santiago; Chile.
+================================================================================
+PAGE 55
+================================================================================
+Pica-Téllez; A. Garreaud, R., Meza, F. Bustos, S., Falvey, M.' Ibarra; M. & SILVA; I. (2020). Informe Proyecto ARClim: Atlas de Riesgos Climáticos para Chile .  Santiago, Chile:: Centro de Ciencia del   Clima Y la Resiliencia, Centro de Cambio Global UC y Meteodata.
+Regueiro, M. (2008) . Los minerales industriales en la vida cotidiana. Enseñanza de las Ciencias de la Tierra, 16(3), 276-286.
+Vicuña, S., Gironás, J. Meza, F. J., Cruzat, M. L. Jelinek, M. Bustos, E. & Bambach, N. (2013) . Exploring possible connections between hydrological extreme events and climate change in central south Chile. Hydrological sciences journal, 58(8), 1598-1619.
+Zhao, Y; Feng, D. Yua; L., Wang, X' Chen, Y. Hernández; H.J. Galleguillos M. Estades , C., Biging, G. Radke, J. & Gong, P 2016. Detailed dynamic land cover mapping of Chile: accuracy improvement by integrating multi-seasonal land cover data. Remote Sensing of Environment 183, 170-185. DOI:10.1016/j.rse.2016.05.016.
+================================================================================
+PAGE 56
+================================================================================
+ANEXOS
+Anexo I. Resultados tendencias observaciones Tabla /. Detalle _de_pendientes decadales por estación Ymes Variable Estación Mes/ Anual Pend década P-valor pp Concepcion_Dga 1,033 0,223 pp Concepcion Dga: 2 1,727 0,528 pp Concepcion _Dga. 3 2,732 0,693 pp Concepcion_Dga: -12,950 0,178 pp Concepcion Dga. -14,508 0,540 PP Concepcion Dga:  -2,767 0,967 pp Concepcion Dga: -14,696 0,693 pp Concepcion_Dga: 0,805 0,989 pp Concepcion_Dga: -0,058 0,817 12 pp Concepcion_Dga: 0,823 0,634 pp Concepcion_Dga: 11 9,832 0,300 pp Concepcion_Dga: 12 -4,107 0,723 pp Concepcion Dga. Anual 57.,262 0,161 pp Dichato -0,521 0,291 2 pp Dichato 1,534 0,805 pp Dichato 3 3,436 0,186 pp Dichato -13,026 0,145 5 pp Dichato -16,375 0,487 pp Dichato 1,610 0,775 pp Dichato 2 -6,924 0,744 pp Dichato -0,485 0,924 pp Dichato 5,696 0,505 19 pp Dichato 0,016 0,785 pp Dichato 1l -4,704 0,595 pp Dichato 12 -3,463 0,155 pp Dichato Anual -51,470 0,037 pp Laja -8,711 0,934 pp Laja , 1,047 0,749 pp Laja -1,527 0,282 pp Laja -12,184 0,081 5 pp Laja -24,224 0,178 pp Laja 6,940 0,796 pp Laja 9 21647 0,241 pp Laja -2,546 0,693 pp Laja -2,847 0,398 2 pp Laja 3,192 0,967 pp Laja 11 -4,179 0,723
+================================================================================
+PAGE 57
+================================================================================
+Variable pp pp pp
+Estación Laja Lgjg Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Rafael Cancha Los Litres Cancha Los Litres Cancha Los Litres Cancha Los Litres Cancha_Los_Litres Cancha Los Litres Cancha Los Litres Canchg_Los_Litres Cancha Los Litres Cancha Los Litres Cancha Los Litres Cancha Los Litres Cancha Los Litres Carriel Sur_Concepcion_AP Carriel Sur Concepcion Ap Carriel Sur, Concepcion Ap Carriel Sur_Concepcion AP Carriel Sur_Concepcion_AP Carriel Sur_Concepcion_AP Carriel Sur_Concepcion Ap Carriel Sur Concepcion Ap Carriel Sur_Concepcion Ap Carriel Sur_Concepcion _Ap Carriel Sur_Concepcion Ap Carriel Sur, Concepcion Ap Carriel Sur_Concepcion _AP Nonguén Essbio
+Mes/ Anual Pend, década p-valor 12 -3,538 0,310 Anual 70,225 0,124 5,258 0,012 6,229 0,032 1,750 967 8,179 0,549 7970 0,614 17,412 0,39 31,856 084 8 23,093 0,186 14,0OO 0,595 10 14,063 0,09 12,986 0,053 12 -2,838 0,613 Anual 107,659 0,048 2,000 0,350 2917 0,19 3,888 0,347 8,296 264 15,753 0,077 5,445 0,713 11,676 276 8,567 634 6,143 0,683 10 0,599 0,913 11 1,814 827 12 1,929 0,504 Anual 6,618 881 0,229 26 -0,428 88 3,614 0,294 12,934 0,09 22,695 0,307 -7,804 0.663 25,288 0,138 4,49 0,513 4,902 0,454 -1,586 0,673 10,033 320 12 -5,381 390 Anual 98,928 0,009 0,732 0,254
+pp pp
+pp
+pp pp
+pp
+pp pp pp pp pp
+pp pp
+pp pp
+pp
+pp pp
+pp
+pp
+2P pp
+op
+pp
+2p
+op
+pp pp pp
+pp
+pP pp
+pp
+pp
+pp pp
+pp
+pp pp
+================================================================================
+PAGE 58
+================================================================================
+Variable pp pp
+Estación Mes/ Anual Pend, década p-valor Nonguén Essbio 0,799 0,76 Nonguén Essbio 1,660 849 Nonquén Essbio -9,494 0,414 Nonguén Essbio 11,496 0,624 Nonguén Essbio 18,654 0,178 Nonguén Essbio 3,38 0,924 Nonguén Essbio 6,227 0,827 Nonguén Essbio 8,552 0,586 Nonguén Essbio 10 6,593 0,414 Nonguén Essbio 71 -5,834 1,000 Nonguén Essbio 12 5,71 0,243 Nonguén Essbio Anual 17,302 0,967 Cabrero_Essbio 2.650 0,589 Cabrero_Essbio 2 0,426 0,87 Cabrero_Essbio 6,048 0,032 Cabrero Essbio 20,292 0,029 Cabrero Essbio 35,975 0,096 Cabrero Essbio 3,967 00O Cabrero Essbio 16,945 0,340 Cabrero_Essbio 1162 605 Cabrero Essbio 18,275 0,014 Cabrero Essbio 10 -1,230 806 Cabrero_Essbio 6,998 200 Cabrero_Essbio 12 -1,648 680 Cabrero Essbio Anual -115,618 0,042 Cerro Caracol 1,71 0,104 Cerro Caracol 2 0,61 0,877 Cerro Caracol 1,027 837 Cerro Caracol 13,645 0,299 Cerro Caracol 11,417 0,795 Cerro Caracol 12,215 0,470 Cerro Caracol 23,719 0,733 Cerro Caracol 13,779 0,859 Cerro Caracol 9,193 0,530 Cerro Caracol 10 1,389 0,795 Cerro Caracol -4,905 0,967 Cerro Cargcol 12 3,443 0,518 Cerro Caracol Anual 680 859 Rio Andalien Camino Penco 0,428 892 Rio Andalien Camino Penco 0,248 540 Rio Andalien Camino Penco 0,474 0,558 Rio Andalien Camino Penco 0,097 859
+2p
+2p
+pp
+pp
+2p
+pp
+pp
+pp
+pp
+pp
+2p
+pp
+pp pp
+pp pp
+pp
+pp pp pp
+pp
+2P pp
+op
+pp
+2p pp
+pp pp pp pp
+pP pp
+pp
+pp
+9p
+================================================================================
+PAGE 59
+================================================================================
+Variable
+Estación Mes/ Anual Pend, década p-valor Rio Andalien Camino Penco -2,533 0,153 Rio Andalien Camino Penco 3,205 0,205 Rio Andalien Camino Penco -4,162 0,032 Rio_Andalien Camino Penco 2,215 0,178 Rio Andalien Camino Penco 1,280 0,138 Rio Andalien Camino Penco 10 0,242 1,000 Rio Andalien Camino Penco 11 0,189 0,775 Rio Andalien Camino A Penco 12 -0,066 0,487 Rio Andalien Camino A Penco Anual -1,006 0,055 Quilaco 1192 0,000 Quilaco 2 1,147 0,000 Quilaco 0,717 0,005 Quilaco 0,277 0,182 Quilaco 0,250 0,276 Quilaco 0,014 0,913 Quilaco 0,112 0,549 Quilaco 0,339 0,156 Quilaco 0,264 0,134 Quilaco 10 0,289 0,398 Quilaco 11 0,356 0,102 Quilaco 12 0,610 0,002 Quilaco Anual 0,459 0,000 Carriel Sur Concepcion AP 0,444 0,003 Carriel Sur_Concepcion AP 0,385 0,011 Carriel Sur, Concepcion Ap 0,223 0,169 Carriel Sur_Concepcion Ap 0,019 849 Carriel Sur_Concepcion Ap 0,105 0,496 Carriel Sur Concepcion Ap 0,215 0,383 Carriel Sur_Concepcion_AP 0,036 0,334 Carriel Sur Concepcion Ap 0,101 0,775 Carriel Sur,_Concepcion Ap 0,037 0,817 Carriel Sur_Concepcion AP 10 0,008 0,978 Carriel Sur_Concepcion_AP 0,065 0,693 Carriel Sur_Concepcion_AP 0,148 0,099 Carriel Sur Concepcion Ap Anual 0,111 0,124 Quilaco 0,601 0,008 Quilaco 2 0,140 0,398 Quilaco 0,014 0,935 Quilaco -0,098 0,673 Quilaco -0,133 0,479 Quilaco 0,455 0,021 Quilaco 0,452 004
+Tn
+In In Tn In Tn In In In Tn Tn Tn Tn Tn In Tn In In In In Tn In Tn In 1 Ix
+================================================================================
+PAGE 60
+================================================================================
+Variable Estación Mes/ Anual Pend, década p-valor Tx Quilaco 0,498 0,044 Ix Quilaco 0,057 978 Quilaco 10 0,108 0,643 Quilaco 0,07 0,849 Quilaco 0,358 0,313 Quilaco Anual 0,044 0,859 Carriel Sur_Concepcion Ap 0,190 0,134 Carriel Sur_Concepcion Ap 0,008 0,673 Carriel Sur Concepcion Ap 0,151 0,376 Carriel Sur_Concepcion AP 0,180 0,270 1 CareLgur_ConcepcionAP 5 9148 2222 Carriel Sur_Concepcion Ap 0,048 0,693 Carriel Sur_Concepcion Ap 0,02 967 Carriel Sur_Concepcion _Ap 0,042 96 Carriel Sur_Concepcion Ap 10 0,082 0,653 Carriel Sur Concepcion Ap 11 0,05 0,870 Carriel Sur_Concepcion Ap 12 0,109 0,313 Carriel Sur , Concepcion Ap Anual 0,052 0,422
+================================================================================
+PAGE 61
+================================================================================
+Anexo Il. Resultados tendencias indicadores extremos Tabla II. Detalle de pendientes decadales por estación Y estación del año. Pendien p- Estación Indicador Unidad Periodo te valor Quilaco MaxImax Idecada Anual -0,397 0,712 Quilgco MaxTmax Idecada Otoño -0,501 0,413 Quilaco Maxmax Idecada Invierno 1137 0,08 Quilaco MaxImax 'Cldecada Primavera -0,280 0,859 Quilaco MaxTmax Idecada Verano -0,388 0,671 Carriel Sur, Concepcion Ap MaxTmax 'Cldecada Anual 0,439 0,173 Carriel Sur, Concepcion Ap. MaxTmax 'Cldecada Otoño 0,197 0,567 Carriel Sur, Concepcion Ap MaxTmax 'Cldecada Invierno 0,210 0,881 Carriel Sur, Concepcion AP: MaxImgx 'Cldecada Primgverg 0,175 0,413 Carriel Sur, Concepcion Ap. MaxTmax 'Cldecada Verano 0,384 0,145 Quilaco MinTmax Idecada Anual 0,897 0,219 Quilaco MinTmax Idecada Otoño 0,676 0,235 Quilaco MinTmax Idecada Invierno 0,632 0,623 Quilaco MinTmax Idecada Primavera 1016 0,065 Quilaco MinTmax Idecada Verano 1,258 0,053 Carriel Sur, Concepcion Ap MinTmax 'Cldecada Anual 0,105 0,557 Carriel Sur, Concepcion Ap. MinTmax Cldecada Otoño 0,069 0,313 Carriel Sur, Concepcion Ap. MinTmax 'Cldecada Invierno 0,102 0,595 Carriel Sur, Concepcion Ap. MinTmax 2Cldecada Primavera -0,160 0,046 Carriel Sur, Concepcion Ap MinTmax 'Cldecada Verano 0,400 0,035 Quilaco MaxImin 'Cldecada Anual 0,026 0,06 Quilaco MaxTmin Idecada Otoño 0,555 0.671 Quilaco MaxTmin Cldecada Invierno -0,795 0,460 Quilaco MaxTmin Idecada Primavera 0,585 0,518 Quilaco MaxTmin Idecada Verano 0,267 0,024 Carriel Sur, Concepcion Ap. MaxTmin 'Cldecada Anual 0,238 0,241 Carriel Sur, Concepcion Ap. MaxTmin 'Cldecada Otoño 0,005 0,859 Carriel Sur , Concepcion Ap. MaxTmin 'Cldecada Invierno 0,023 0,935 Carriel Sur, Concepcion Ap MaxTmin 'Cldecada Primavera 0,121 0881
+================================================================================
+PAGE 62
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion Ap MaxTmin 'Cldecada Verano Quilaco MinTmin Idecada Anual Quilaco MinTmin Idecada Otoño Quilaco MinImin decada Invierno Quilaco MinTmin decada Primavera Quilaco MinTmin Idecada Verano Carriel Sur, Concepcion Ap MinTmin 'Cldecada Anual Carriel Sur, Concepcion Ap. MinTmin 'Cldecada Otoño Carriel Sur, Concepcion Ap MinTmin Idecadg Invierno Carriel Sur , Concepcion Ap. MinTmin 'Cldecada Primavera Carriel Sur, Concepcion Ap MinTmin 'Cldecada Verano WarmNigh dias/decad Quilaco Anual WarmNigh dias/decad Quilaco Otoño WarmNigh diasldecad Quilaco Invierno WarmNigh diasldecad Quilaco Primavera WarmNigh diasIdecad Quilaco Verano Carriel Sur, Concepcion WarmNigh diasldecad Ap Anual Carriel Sur, Concepcion WarmNigh diasIdecad Ap. Otoño Carriel Sur, Concepcion WarmNigh diasldecad AP: ts Invierno Carriel Sur, Concepcion WarmNigh diasIdecad AP: ts Primavera Carriel Sur, Concepcion WarmNigh dias/decad AP: Verano dias/decad Quilaco ColdNights Anual diasIdecad Quilaco ColdNights Otoño diasIdecad Quilaco ColdNights Invierno dias/decad Quilaco ColdNights Primavera dias/decad Quilaco ColdNights Verano
+0,269 0,113 0,924 0,356 1133 0,096 0,975 0,146 0,804 0,03 ,334 0,000
+0,195 0,113
+0,223 0,151
+0,169 0,209
+0,006 0,743
+0,355 0,037
+0,195 0,001
+0,304 0,847
+0,058 0,705
+0,293 0,902
+7,689 0,000
+0,195 0,023
+0,130 0,89
+0,004 0,925
+0,066 0,631
+3,546 0,000
+8,440 0,004
+2,673 0,023
+4,396 0,008
+41,167 0,037
+0,203 0,047
+================================================================================
+PAGE 63
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion dias/decad Ap ColdNights Anual Carriel Sur, Concepcion dias/decad Ap. ColdNights Otoño Carriel Sur, Concepcion dias/decad Ap ColdNights Invierno Carriel Sur, Concepcion diasIdecad Ap. ColdNights Primavera Carriel Sur, Concepcion dias/decad Ap ColdNights Verano dias/decad Quilaco WarmDays Anual dias/decad Quilaco WarmDays Otoño dias/decad Quilaco WarmDays Invierno diasIdecad Quilaco WarmDays Primavera diasldecad Quilaco WarmDays Verano Carriel Sur, Concepcion diasldecad Ap WarmDays Anual Carriel Sur, Concepcion diasldecad Ap. WarmDays Otoño Carriel Sur, Concepcion diasldecad Ap WarmDays Invierno Carriel Sur, Concepcion diasIdecad AP WarmDays Primavera Carriel Sur, Concepcion diasIdecad Ap WarmDays Verano diasIdecad Quilaco ColdDays Anual dias/decad Quilaco ColdDays Otoño diasIdecad Quilaco ColdDays Invierno diasIdecad Quilaco ColdDays Primavera dias/decad Quilaco ColdDays Verano Carriel Sur, Concepcion dias/decad Ap ColdDays Anual Carriel Sur, Concepcion dias/decad Ap. ColdDays Otoño Carriel Sur, Concepcion dias/decad Ap. ColdDays Invierno Carriel Sur, Concepcion dias/decad Ap ColdDays Primavera
+-0,613 0,88
+0,121 0,902
+0,943 0,31
+0,210 0,382
+0,000 NA
+1,009 0,723
+0,216 0,792
+0,004 0,923
+0,109 0847
+0,607 0,539
+2,389 0,195
+0,196 0,263
+0,017 0,784
+0,133 0,912
+2,089 0,098
+0,015 0,269
+0,319 0,870
+0,604 0,123
+0,251 0,119
+0,049 0,352
+0,480 0,870
+0,048 0,722
+0,363 0,935
+0,069 0,211
+================================================================================
+PAGE 64
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion dias/decad Ap ColdDays Verano SummerD dias/decad Quilaco ays Anual SummerD dias/decad Quilaco @YS Otoño SummerD diasIdecad Quilaco ays Invierno SummerD dias/decad Quilaco @Ys Primavera SummerD dias/decad Quilaco ays Verano Carriel Sur, Concepcion SummerD dias/decad Ap. @YS Anual Carriel Sur , Concepcion SummerD dias/decad Ap ays Otoño Carriel Sur, Concepcion SummerD diasIdecad Ap @Ys Invierno Carriel Sur, Concepcion SummerD diasldecad Ap. ays Primavera Carriel Sur, Concepcion SummerD diasldecad Ap ays Verano diasldecad Quilaco FrostDays Anual diasldecad Quilaco FrostDays Otoño diasIdecad Quilaco FrostDays Invierno diasIdecad Quilaco FrostDgys Primavera diasIdecad Quilaco FrostDays Verano Carriel Sur, Concepcion dias/decad AP: FrostDgys Anual Carriel Sur , Concepcion diasIdecad AP: FrostDays Otoño Carriel Sur, Concepcion dias/decad AP: FrostDays Invierno Carriel Sur, Concepcion dias/decad Ap. FrostDays Primavera Carriel Sur, Concepcion dias/decad Ap FrostDays Verano Quilaco Rango 'Cldecada Anual Quilaco Rango Idecada Otoño Quilaco Rango Idecadg Invierno Quilaco Rango Cldecada Primavera Quilaco Rango 'Cldecada Vergno
+0,000 NA
+4,189 0,046
+0,595 0,188
+0,099 0,374
+1,355 0,152
+2,586 0,186
+1,912 0,010
+0,024 0,875
+0,041 0,284
+0,196 0,204
+1,875 0,010
+-6,247 0,026
+2,328 0,031
+3,097 0,075
+0,745 0,130
+0,077 0,189
+0,005 0,648
+0,054 0,566
+0,09
+0,934
+0,032 0,248
+0,000 NA -0,503 0,006 -0,356 0,479 0,529 0,003 0,280 0,070 0,855 0,005
+================================================================================
+PAGE 65
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion Ap Rango 'Cldecada Anual Carriel Sur, Concepcion Ap. Rango 'Cldecada Otoño Carriel Sur, Concepcion Ap Rango 'Cldecada Invierno Carriel Sur, Concepcion Ap. Rango 'Cldecada Primavera Carriel Sur, Concepcion Ap Rango 'Cldecada Verano Desviacio Concepcion Dgg mm Anual Desviacio Concepcion Dga mm Otoño Desviacio Concepcion Dga mm Invierno Desviacio Concepcion Dgg mm Primavera Desviacio Concepcion Dga mm Verano Desviacio Dichato mm Anual Desviacio Dichato mm Otoño Desviacio Dichato mm Invierno Desviacio Dichato mm Primavera Desviacio Dichato mm Verano Desviacio Laja mm Anual Desviacio Laja mm Otoño Desviacio Laja mm Invierno Desviacio Laja mm Primavera Desviacio Laja mm Verano Desviacio Rafael mm Anual Desviacio Rafael mm Otoño Desviacio Rafael mm Invierno Desviacio Rafael mm Primavera
+0,059 0,438
+0,121 0,327
+0,059 0,567
+0,060 0,967
+0,245 0,004
+0,817 0,006
+0,688 0,320
+0,958 0,037
+0,808 0,406
+0,002 0,946
+0,306 0,145
+0,266 0,946
+0,349 0,422
+0,348 0,39
+0,063 0,838
+0,09
+0,796
+0,159 0,614
+-0,111 1,000
+0,236 0,39
+-0,161 0,634
+1,189 0,005
+0,547 0,270
+2,102 0,000
+1,555 0,002
+================================================================================
+PAGE 66
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Desviacio Rafael mm Desviacio Cancha Los Litres mm Desviacio Cancha Los Litres mm Desviacio Cancha Los Litres mm Desviacio Cancha Los Litres mm Desviacio Canchg_Los_Litres mm Carriel Sur , Concepcion Desviacio Ap. mm Carriel Sur, Concepcion Desviacio Ap mm Carriel Sur , Concepcion Desviacio Ap mm Carriel Sur , Concepcion Desviacio Ap. mm Carriel Sur, Concepcion Desviacio Ap mm Desviacio Nonguén Essbio mm Desviacio Nonguén Essbio mm Desviacio Nonguén Essbio mm Desviacio Nonguén Essbio mm Desviacio Nonguén Essbio mm Desviacio Cabrero Essbio mm Desviacio Cabrero Essbio mm Desviacio Cabrero Essbio mm Desviacio Cabrero Essbio mm Desviacio Cabrero Essbio mm Desviacio Cerro Caracol mm Desviacio Cerro Caracol mm Desviacio Cerro Caracol mm
+Periodo
+Verano
+0,756 0,023
+Anual
+0,268 0,470
+Otoño
+0,527 0,422
+Invierno
+0,496 0,258
+Primavera
+0,248 0,634
+Verano
+0,206 0,577
+0,836 0,009
+Anual
+Otoño
+0,835 0,070
+Invierno
+0,89
+0,089
+Primavera
+0,732 0,247
+Verano
+0,131 0,838
+0,322 0,653
+Anual
+Otoño
+0,49
+0,595
+Invierno
+0,577 0,653
+Primavera
+0,040 0,406
+Verano
+0,217 0,683
+Anual
+0,800 0,094
+Otoño
+1,406 0,060
+Invierno
+0,514 0,785
+Primavera
+0,703 0,138
+Verano
+0,490 0,064
+0,251 0,595
+Anual
+Otoño
+0,186 0,754
+0,627 0,487
+Invierno
+================================================================================
+PAGE 67
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo Desviacio mm Primavera Desviacio mm Verano dias/decad RIOmm Anual diasIdecad RIOmm Otoño dias/decad RIOmm Invierno dias/decad RIOmm Primavera dias/decad IOmm Verano dias/decad RIOmm Anual diasIdecad RIOmm Otoño diasldecad RIOmm Invierno diasldecad RIOmm Primavera diasldecad RIOmm Verano diasldecad RIOmm Anual diasIdecad RIOmm Otoño diasIdecad RIOmm Invierno diasIdecad RIOmm Primgverg diasIdecad RIOmm Verano diasIdecad RIOmm Anual diasIdecad RIOmm Otoño dias/decad RIOmm Invierno dias/decad RIOmm Primavera diasIdecad RIOmm Verano dias/decad RIOmm Anual dias/decad RIOmm Otoño
+Cerro Caracol
+0,027 1,000
+Cerro Caracol
+0,350 0,38
+Concepcion Dgg
+-1,951 0,140
+Concepcion Dgg
+-1,283 0,08
+Concepcion Dgg
+0,629 0,244
+0,093 0,740
+Concepcion_Dga
+0,069 0,765
+Concepcion Dga_
+Dichato
+806 0,037
+Dichato
+1,242 0,038
+Dichato
+0,456 0,565
+0,107 0,731
+Dichato
+Dichato
+0,032 0,661
+Laja
+2,875 0,034
+Laja
+1,238 0,070
+Laja
+0,812 0,331
+Laja
+0,398 0,284
+Laja
+0,417 0,220
+Rafael
+1,996 0,085
+Rafael
+0,869 0,108
+Rafael
+1,075 0,325
+Rafael
+1,371 0,024
+Rafael
+0,453 0,064
+Cancha Los Litres
+0,203 0,967
+Canchg Los Litres
+0,876 0,366
+================================================================================
+PAGE 68
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad Cancha Los Litres RIOmm Invierno dias/decad Cancha Los Litres RIOmm Primavera dias/decad Cancha Los Litres RIOmm Verano Carriel Sur, Concepcion diasIdecad Ap RIOmm Anual Carriel Sur, Concepcion dias/decad Ap. IOmm Otoño Carriel Sur, Concepcion dias/decad Ap. RIOmm Invierno Carriel Sur, Concepcion dias/decad Ap. RIOmm Primavera Carriel Sur , Concepcion dias/decad Ap 'IOmm Verano diasIdecad Nonquén Essbio RIOmm Anual diasldecad Nonguén_Essbio RIOmm Otoño diasldecad Nonguén Essbio RIOmm Invierno diasldecad Nonguén Essbio RIOmm Primavera diasldecad Nonguén Essbio RIOmm Verano diasIdecad Cabrero Essbio RIOmm Anual diasIdecad Cabrero Essbio RIOmm Otoño diasIdecad Cabrero Essbio RIOmm Invierno diasIdecad Cabrero Essbio RIOmm Primavera diasIdecad Cabrero_Essbio RIOmm Verano diasIdecad Cerro Caracol RIOmm Anual dias/decad Cerro Caracol RIOmm Otoño dias/decad Cerro Caracol RIOmm Invierno diasIdecad Cerro Caracol RIOmm Primavera dias/decad Cerro Caracol RIOmm Verano dias/decad Concepcion_Dgg R2Omm Anual
+0,436 0,538
+0,297 0,628
+0,035 0,831
+3,028 0,005
+1,828 0,030
+0,779 0,179
+0,234 0,522
+0,167 0,480
+0,241 0,859
+0,914 0,934
+0,601 0,603
+0,431 0,349
+0,140 0,641
+5,408 0,003
+2,647 0,017
+1,945 0,043
+0,537 0,076
+-0,269 0,096
+0,018 0,816
+-1,170 0,476
+0,400 0,651
+0,698 0,489
+0,113 0,650
+1,497 0,090
+================================================================================
+PAGE 69
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad R2Omm Otoño dias/decad R2Omm Invierno dias/decad R2Omm Primavera diasIdecad R2Omm Verano dias/decad R2Omm Anual dias/decad R2Omm Otoño dias/decad R2Omm Invierno dias/decad R2Omm Primavera diasIdecad R2Omm Verano diasldecad R2Omm Anual diasldecad R2Omm Otoño diasldecad R2Omm Invierno diasldecad R2Omm Primavera diasIdecad R2Omm Verano diasIdecad R2Omm Anual diasIdecad R2Omm Otoño dias/decad R2Omm Invierno diasIdecad R2Omm Primavera diasIdecad R2Omm Verano dias/decad R2Omm Anual dias/decad R2Omm Otoño dias/decad R2Omm Invierno dias/decad R2Omm Primavera dias decad R2Omm Verano
+Concepcion Dgg
+-0,660 0,165
+Concepcion Dga
+0,785 0,166
+Concepcion Dgg
+0,022 0,756
+Concepcion Dga.
+0,019 0,715
+Dichato
+0,337 0,403
+Dichato
+0,202 0,720
+Dichato
+0,395 0,457
+Dichato
+0,308 0,519
+Dichato
+0,032 0,777
+0,767 0,565
+Laja
+Laja
+0,118 0,978
+0,456 0,418
+Laja
+Laja
+0,118 0,368
+Laja
+0,072 0,988
+Rafael
+2,550 0,024
+Rafael
+-0,140 0,902
+Rafael
+1,700 0,022
+Rafael
+0,754 0,006
+Rafael
+0,254 0,106
+Cancha Los Litres
+0,418 0,623
+Cancha Los Litres
+0,113 0,869
+Cancha Los Litres
+0,456 0,473
+Cancha Los Litres
+0,077 0,362
+Canchg Los Litres
+0,063 0,515
+================================================================================
+PAGE 70
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion dias/decad Ap R2Omm Anual Carriel Sur, Concepcion dias/decad Ap. R2Omm Otoño Carriel Sur, Concepcion dias/decad Ap R2Omm Invierno Carriel Sur, Concepcion diasIdecad Ap. R2Omm Primavera Carriel Sur, Concepcion dias/decad Ap R2Omm Verano dias/decad Nonguén Essbio RZOmm Anual dias/decad Nonguén_Essbio R2Omm Otoño dias/decad Nonguén_Essbio R2Omm Invierno diasIdecad Nonquén Essbio R2Omm Primavera diasldecad Nonguén_Essbio R2Omm Verano diasldecad Cabrero Essbio R2Omm Anual diasldecad Cabrero Essbio R2Omm Otoño diasldecad Cabrero Essbio R2Omm Invierno diasIdecad Cabrero Essbio R2Omm Primavera diasIdecad Cabrero Essbio R2Omm Verano diasIdecad Cerro Caracol R2Omm Anual diasIdecad Cerro Caracol R2Omm Otoño diasIdecad Cerro Caracol R2Omm Invierno diasIdecad Cerro Caracol R2Omm Primavera dias/decad Cerro Caracol R2Omm Verano dias/decad Concepcion Dga TDD Anual dias/decad Concepcion_Dgg TDD Otoño dias/decad Concepcion Dgg TDD Invierno dias/decad Concepcion_Dgg TDD Primavera
+2,059 0,008
+0,965 0,09
+0,776 0,077
+0,223 0,236
+0,088 0,441
+0,582 0,902
+0,400 0,411
+0,568 0,564
+0,373 0,191
+0,057 0,653
+-2,453 0,032
+1,498 0,014
+0,604 0,29
+0,198 0,206
+0,143 0,229
+0,207 0,880
+0,583 0,499
+0,399 0,815
+0,254 0,702
+0,156 0,249
+6,654 0,033
+0,300 0,632
+3,804 0,008
+-1570 0,095
+================================================================================
+PAGE 71
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad Concepcion Dgg TDD Verano dias/decad Dichato TDD Anual dias/decad Dichato TDD Otoño diasIdecad Dichato TDD Invierno dias/decad Dichato TDD Primavera dias/decad Dichato TDD Verano dias/decad Laja TDD Anual dias/decad Laja TDD Otoño diasIdecad Laja TDD Invierno diasldecad Laja TDD Primavera diasldecad Laja TDD Verano diasldecad Rafael TDD Anual diasldecad Rafael TDD Otoño diasIdecad Rafael TDD Invierno diasIdecad Rafael TDD Primavera diasIdecad Rafael TDD Verano diasIdecad Cancha Los Litres TDD Anual diasIdecad Cancha Los Litres TDD Otoño dias/decad Cancha Los Litres TDD Invierno dias/decad Cancha Los Litres TDD Primavera dias/decad Cancha Los Litres TDD Verano Carriel Sur, Concepcion dias/decad Ap. TDD Anual Carriel Sur, Concepcion dias/decad Ap. TDD Otoño Carriel Sur, Concepcion dias/decad Ap TDD Invierno
+-0,583 0,085
+3,846 0,008
+4,102 0,000
+1,28
+0,250
+0,754 0,345
+0,672 0,690
+7,744 0,014
+3,776 0,004
+2,909 0,03
+0,794 0,306
+0,664 0,826
+'203 0,003
+2,951 0,001
+5,082 0,006
+1,771 0,218
+-0,562 0,187
+4,389 0,072
+3,216 0,001
+1,637 0,140
+0,236 0,652
+0,144 0,670
+1,754 0,293
+2,919 0,010
+0,369 0,692
+================================================================================
+PAGE 72
+================================================================================
+Pendien te valor
+Estación Indicador Unidad Periodo Carriel Sur, Concepcion dias/decad Ap TDD Primavera Carriel Sur, Concepcion dias/decad Ap TDD Verano dias/decad Nonguén Essbio TDD Anual diasIdecad Nonguén Essbio TDD Otoño dias/decad Nonguén Essbio TDD Invierno dias/decad Nonguén_Essbio TDD Primavera dias/decad Nonguén Essbio TDD Verano dias/decad Cabrero Essbio TDD Anual diasIdecad Cabrero Essbio TDD Otoño diasldecad Cabrero Essbio TDD Invierno diasldecad Cabrero Essbio TDD Primavera diasldecad Cabrero Essbio TDD Verano diasldecad Cerro Caracol TDD Anual diasIdecad Cerro Caracol TDD Otoño diasIdecad Cerro Caracol TDD Invierno diasIdecad Cerro Caracol TDD Primgverg diasIdecad Cerro Caracol TDD Verano mmIdecad Concepcion Dgg rxl Anual mmIdecad Concepcion Dgg Otoño mmIdecad Concepcion Dga Invierno mmIdecad Concepcion Dga Primavera mmIdecad Concepcion Dgg Verano mmIdecad Dichato Anual mmIdecad Dichato Otoño
+0,354 0,733
+0,005 0,457
+3,139 0,120
+3,039 0,051
+0,199 0,838
+0,356 0,428
+0,345 0,978
+3,412 0,252
+2,400 0,189
+0,394 0,849
+0,547 0,603
+0,480 0,700
+4,017 0,257
+3,611 0,033
+0,372 0,485
+0,385 0,583
+0,045 0,630
+-14,837 0,002
+5,528 0,220
+8,239 0,028
+-7,660 0,241
+0,533 0,978
+5,139 0,043
+-1,141 0,946
+================================================================================
+PAGE 73
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad Dichato Invierno mmIdecad Dichato rx Primavera mmIdecad Dichato rx] Verano mmldecad Laja mx Anual mmIdecad Laja rx] Otoño mmIdecad Laja rx Invierno mmIdecad Laja rx Primavera mmIdecad Laja rx Verano mmIdecad Rafael Anual mmdecad Rafael Otoño mmldecad Rafael rxI Invierno mmldecad Rafael rx Primavera mmldecad Rafael rx1 Verano mmldecad Cancha Los Litres Anual mmldecad Cancha Los Litres Otoño mmldecad Cancha Los Litres Invierno mmIdecad Cancha Los Litres Primavera mmIdecad Canchg_Los_Litres rx Verano Carriel Sur, Concepcion mmIdecad AP: Anual Carriel Sur, Concepcion mmIdecad Ap. rx Otoño Carriel Sur, Concepcion mmIdecad Ap Invierno Carriel Sur, Concepcion mmIdecad Ap. Primavera Carriel Sur, Concepcion mmIdecad Ap Verano mmIdecad Nonguén_Essbio Anual
+3,319 0,039
+4,739 0,307
+0,817 0,604
+0,815 0,902
+0,934 0,576
+1,149 0,723
+1,751 0,354
+0,185 0,902
+8,604 0,014
+4,238 0,141
+12,450 0,002
+10,172 0,001
+5,422 0,029
+,853 0,633
+6,267 0,074
+1,029 0,624
+2,579 0,487
+2,453 0,369
+-11,905 0,015
+5,508 0,117
+6,559 0,086
+6,748 0,313
+339 0,989
+-1,626 0,946
+================================================================================
+PAGE 74
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad Otoño mmldecad rx Invierno mmIdecad rx Primavera mmldecad rx Verano mmIdecad rx Anual mmIdecad rx Otoño mmIdecad rx Invierno mmIdecad Primavera mmldecad Verano mmdecad Anual mmldecad rxl Otoño mmldecad Invierno mmldecad Primavera mmldecad rx1 Verano diasIdecad R95 Anual diasIdecad R95 Otoño diasIdecad R95 Invierno diasIdecad R95 Primavera diasIdecad R95 Verano dias/decad R95 Anual dias/decad R95 Otoño dias/decad R95 Invierno dias/decad R95 Primavera dias decad R95 Verano
+Nonguén Essbio
+3,257 0,505
+Nonguén Essbio
+863 0,733
+Nonguén Essbio
+2,316 0,643
+Nonguén Essbio
+2,054 0,586
+Cabrero_Essbio
+10,717 0,048
+Cabrero Essbio
+6,345 0,327
+Cabrero_Essbio
+-7,094 0,313
+Cabrero Essbio
+6,073 0,145
+Cabrero Essbio
+4,379 0,045
+3,349 0,713
+Cerro Caracol
+Cerro Caracol
+0,145 0,785
+0,731 0,806
+Cerro Caracol
+Cerro Caracol
+1,618 0,753
+Cerro Caracol
+2,683 0,412
+Concepcion _Dgg
+-1,579 0,071
+Concepcion_Dgg
+-0,674 0,127
+Concepcion Dgg
+0,826 0,142
+Concepcion Dgg
+0,022 0,756
+Concepcion Dgg
+0,046 0,670
+Dichato
+-0,447 0,279
+Dichato
+0,390 0,364
+Dichato
+0,143 1,000
+Dichato
+0,138 0,887
+Dichato
+0,036 0,808
+================================================================================
+PAGE 75
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad Laja R95 Anual dias/decad Laja R95 Otoño dias/decad Lajg R95 Invierno diasIdecad Laja R95 Primavera dias/decad Laja R95 Verano dias/decad Rafael R95 Anual dias/decad Rafael R95 Otoño dias/decad Rafael R95 Invierno diasIdecad Rafael R95 Primavera dias/decad Rafael R95 Verano diasldecad Cancha Los Litres R95 Anual diasldecad Cancha Los Litres R95 Otoño diasldecad Cancha Los Litres R95 Invierno diasIdecad Cancha Los Litres R95 Primavera diasIdecad Cancha Los Litres R95 Verano Carriel Sur, Concepcion diasIdecad AP: R95 Anual Carriel Sur, Concepcion diasIdecad AP: R95 Otoño Carriel Sur, Concepcion diasIdecad AP: R95 Invierno Carriel Sur, Concepcion diasIdecad AP: R95 Primavera Carriel Sur, Concepcion dias/decad Ap R95 Verano dias/decad Nonguén Essbio R95 Anual dias/decad Nonguén_Essbio R95 Otoño dias/decad Nonguén Essbio R95 Invierno dias/decad Nonguén_Essbio R95 Primavera
+0,817 0,632
+0,332 0,501
+0,232 0,774
+0,142 0,365
+0,107 0,855
+2,598 0,004
+0,169 0,848
+432 0,026
+0,812 0,001
+0,198 0,138
+0,135 1,000
+0,533 0,468
+0,735 0,244
+0,024 0,676
+0,027 0,757
+-2,310 0,005
+1,256 0,015
+0,849 0,154
+0,098 0,436
+0,099 0,472
+0,196 0,880
+-0,459 0,357
+0,458 0,837
+0,188 0,482
+================================================================================
+PAGE 76
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad R95 Verano dias/decad R95 Anual dias/decad R95 Otoño diasIdecad R95 Invierno dias/decad R95 Primavera dias/decad R95 Verano dias/decad R95 Anual dias/decad R95 Otoño diasIdecad R95 Invierno dias/decad R95 Primavera diasldecad R95 Verano diasldecad R75 Anual diasldecad R75 Otoño diasIdecad R75 Invierno diasIdecad R75 Primavera diasIdecad R75 Verano diasIdecad R75 Anual diasIdecad R75 Otoño diasIdecad R75 Invierno dias/decad R75 Primavera dias/decad R75 Verano dias/decad R75 Anual dias/decad R75 Otoño dias/decad R75 Invierno
+Nonguén Essbio
+0,024 0,768
+Cabrero Essbio
+3,506 0,003
+Cabrero Essbio
+1,905 0,01
+Cabrero Essbio
+-1,135 0,08
+Cabrero Essbio
+0,309 0,088
+Cabrero Essbio
+0,147 0,223
+0,570 0,848
+Cerro Caracol
+0,508 0,502
+Cerro Caracol
+0,501 0,671
+Cerro Caracol
+0,315 0,715
+Cerro Caracol
+0,283 0,102
+Cerro Caracol
+12,705 0,000
+Concepcion Dga
+Concepcion_Dgg
+1,000 0,056
+Concepcion_Dgg
+0,417 0,593
+Concepcion _Dgg
+0,055 0,674
+Concepcion_Dgg
+0,032 0,687
+Dichato
+3,835 0,011
+Dichato
+-0,698 0,192
+Dichato
+0,284 0,721
+Dichato
+0,205 0,978
+Dichato
+0,041 0,711
+Laja
+8,910 0,004
+Laja
+0,615 0,412
+Laja
+0,297 0,661
+================================================================================
+PAGE 77
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad Laja R75 Primavera dias/decad Laja R75 Verano dias/decad Rafael R75 Anual diasIdecad Rafael R75 Otoño dias/decad Rafael R75 Invierno dias/decad Rafael R75 Primavera dias/decad Rafael R75 Verano dias/decad Cancha Los Litres R75 Anual diasIdecad Cancha Los Litres R75 Otoño dias/decad Cancha Los Litres R75 Invierno diasldecad Cancha Los Litres R75 Primavera diasldecad Cancha Los Litres R75 Verano Carriel Sur, Concepcion diasldecad Ap R75 Anual Carriel Sur, Concepcion diasIdecad Ap. R75 Otoño Carriel Sur, Concepcion diasIdecad Ap R75 Invierno Carriel Sur, Concepcion diasIdecad AP: R75 Primgverg Carriel Sur, Concepcion diasIdecad AP: R75 Verano diasIdecad Nonguén Essbio R75 Anual diasIdecad Nonguén Essbio R75 Otoño dias/decad Nonguén Essbio R75 Invierno dias/decad Nonguén Essbio R75 Primavera dias/decad Nonguén_Essbio R75 Verano dias/decad Cabrero Essbio R75 Anual dias/decad Cabrero Essbio R75 Otoño
+0,254 0,289
+0,197 0,469
+-12,287 0,003
+0,315 0,661
+1,574 0,055
+1,265 0,001
+0,268 0,187
+11,996 0,001
+0,356 0,602
+0,740 0,212
+0,015 0,761
+0,050 0,742
+2,686 0,168
+1,236 0,017
+0,797 0,239
+-0,192 0,276
+0,035 0,762
+5,987 0,062
+0,293 0,564
+0,615 0,511
+0,421 0,147
+0,001 0,943
+1,788 0,361
+1,909 0,027
+================================================================================
+PAGE 78
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo dias/decad R75 Invierno dias/decad R75 Primavera dias/decad R75 Verano diasIdecad R75 Anual dias/decad R75 Otoño dias/decad R75 Invierno dias/decad R75 Primavera dias/decad R75 Verano mmldecad PR95 Anual mmldecad PR95 Otoño mmldecad PR95 Invierno mmldecad PR95 Primavera mmldecad PR95 Verano mmldecad PR95 Anual mmldecad PR95 Otoño mmldecad PR95 Invierno mmIdecad PR95 Primavera mmIdecad PR95 Verano mmIdecad PR95 Anual mmIdecad PR95 Otoño mmIdecad PR95 Invierno mmIdecad PR95 Primavera mmIdecad PR95 Verano mmIdecad PR95 Anual
+Cabrero Essbio
+1,399 0,057
+Cabrero Essbio
+0,323 0,152
+Cabrero Essbio
+0,225 0,088
+Cerro Caracol
+-10,126 0,009
+Cerro Caracol
+0,508 0,502
+0,501 0,67
+Cerro Caracol
+0,315 0,715
+Cerro Caracol
+0,283 0,102
+Cerro Caracol
+-74,734 0,037
+Concepcion Dga
+-27,216 0,334
+Concepcion Dga
+37,770 0,105
+Concepcion_Dga
+Concepcion Dga.
+-7,975 0,364
+Concepcion_Dgg
+1,351 0,730
+Dichato
+-25,609 0,196
+Dichato
+12,394 0,744
+Dichato
+212,906 0,88
+Dichato
+0,650 0,812
+Dichato
+-0,500 0,822
+Laja
+-15,166 0,634
+Laja
+3,577 0,806
+Laja
+8,086 0,634
+Lajg
+,800 0,399
+Laja
+-1,597 0,964
+Rafael
+149,825 0,004
+================================================================================
+PAGE 79
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad Rafael PR95 Otoño mmIdecad Rafael PR95 Invierno mmIdecad Rafael PR95 Primavera mmIdecad Rafael PR95 Verano mmIdecad Cancha Los Litres PR95 Anual mmIdecad Cancha Los Litres PR95 Otoño mmIdecad Cancha_Los_Litres PR95 Invierno mmIdecad Cancha Los Litres PR95 Primavera mmldecad Cancha Los Litres PR95 Verano Carriel Sur, Concepcion mmldecad Ap. PR95 Anual Carriel Sur, Concepcion mmldecad Ap PR95 Otoño Carriel Sur, Concepcion mmldecad Ap. PR95 Invierno Carriel Sur, Concepcion mmldecad Ap PR95 Primavera Carriel Sur, Concepcion mmldecad Ap PR95 Verano mmldecad Nonguén Essbio PR95 Anual mmldecad Nonguén Essbio PR95 Otoño mmIdecad Nonguén Essbio PR95 Invierno mmIdecad Nonguén Essbio PR95 Primavera mmIdecad Nonguén Essbio PR95 Verano mmIdecad Cabrero Essbio PR95 Anual mmIdecad Cabrero Essbio PR95 Otoño mmIdecad Cabrero Essbio PR95 Invierno mmIdecad Cabrero Essbio PR95 Primavera mmIdecad Cabrero Essbio PR95 Verano
+18,181 0,39
+87,137 0,003
+36,827 0,001
+8,077 0,104
+23,899 0,470
+4,274 0,817
+25,444 0,236
+3,285 0,709
+2,134 0.627
+91,776 0012
+-41,789 0,058
+-37,559 0,094
+8,710 0,364
+3,362 0,436
+29,176 0,693
+2,333 0,817
+22,712 0,663
+6,617 0,511
+2,842 0,697
+97,307 0,048
+-64,035 0,027
+-18,934 0,605
+9,189 0,158
+4,775 0,227
+================================================================================
+PAGE 80
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad PR95 Anual mmIdecad PR95 Otoño mmIdecad PR95 Invierno mmIdecad PR95 Primavera mmIdecad PR95 Verano mmIdecad PR75 Anual mmIdecad PR75 Otoño mmIdecad PR75 Invierno mmIdecad PR75 Primavera mmldecad PR75 Verano mmldecad PR75 Anual mmldecad PR75 Otoño mmldecad PR75 Invierno mmldecad PR75 Primavera mmldecad PR75 Verano mmldecad PR75 Anual mmIdecad PR75 Otoño mmIdecad PR75 Invierno mmIdecad PR75 Primavera mmIdecad PR75 Verano mmIdecad PR75 Anual mmIdecad PR75 Otoño mmIdecad PR75 Invierno mmIdecad PR75 Primavera
+Cerro Caracol
+33,241 0,633
+Cerro Caracol
+6,749 1,000
+Cerro Caracol
+26,447 0,595
+Cerro Caracol
+7,079 0,869
+Cerro Caracol
+7,079 0,123
+57,262 0,161
+Concepcion Dga_
+-35,062 0,105
+Concepcion Dga
+18,839 0,422
+Concepcion Dga.
+Concepcion_Dgg
+5,972 0,881
+3,27
+0,540
+Concepcion Dga:
+-51,470 0,037
+Dichato
+-35,126 0,108
+Dichato
+Dichato
+-11,357 0,838
+Dichato
+4,226 0,558
+Dichato
+0,003 0,989
+Laja
+-70,225 0,124
+Laja
+-32,633 0,334
+Laja
+-23,968 0,406
+Laja
+5,936 0,479
+Laja
+-7,321 0,470
+Rafael
+107,659 0,048
+Rafael
+5,917 0,733
+Rafael
+60,508 0,062
+Rafael
+37,930 0,020
+================================================================================
+PAGE 81
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad Rafael PR75 Verano mmIdecad Cancha Los Litres PR75 Anual mmIdecad Cancha Los Litres PR75 Otoño mmIdecad Cancha Los Litres PR75 Invierno mmIdecad Cancha Los Litres PR75 Primavera mmIdecad Canchg_Los_Litres PR75 Verano Carriel Sur, Concepcion mmIdecad Ap. PR75 Anual Carriel Sur, Concepcion mmIdecad Ap PR75 Otoño Carriel Sur, Concepcion mmIdecad Ap PR75 Invierno Carriel Sur, Concepcion mmldecad Ap. PR75 Primavera Carriel Sur, Concepcion mmldecad Ap PR75 Verano mmldecad Nonguén Essbio PR75 Anual mmldecad Nonguén Essbio PR75 Otoño mmldecad Nonguén Essbio PR75 Invierno mmldecad Nonguén Essbio PR75 Primavera mmldecad Nonguén Essbio PR75 Verano mmIdecad Cabrero Essbio PR75 Anual mmIdecad Cabrero Essbio PR75 Otoño mmIdecad Cabrero Essbio PR75 Invierno mmIdecad Cabrero Essbio PR75 Primavera mmIdecad Cabrero Essbio PR75 Verano mmIdecad Cerro Caracol PR75 Anual mmIdecad Cerro Caracol PR75 Otoño mmIdecad Cerro Caracol PR75 Invierno
+16,021 0,010
+-6,045 0,902
+-11,247 0,653
+9,176 0,376
+2,29
+0,505
+0,986 0,88
+99,301
+0,009
+52,458 0,032
+-34,861 0,169
+-10,575 0,347
+0,805 0,764
+17,302 0,967
+-17,082 0,614
+22,386 0,653
+8,580 0,614
+4,231 0,586
+115,618 0,042
+-72,51
+0,020
+-25,91
+0,446
+-11,047 0,205
+5,598 0,196
+680 0,859
+-25,607 0,567
+21,113 0,643
+================================================================================
+PAGE 82
+================================================================================
+Pendien te valor
+Estación
+Indicador Unidad Periodo mmIdecad PR75 Primavera mmIdecad PR75 Verano m3s - MaxQ 1decada Anual m3s - MaxQ 1decada Otoño m3s - MaxQ Udecadg Invierno m3s - MaxQ 1decada Primavera m3s - MaxQ Udecada Verano m3s - Min@ Udecada Anual m3s - Min@ Udecada Otoño m3s - Min@ Udecada Invierno m3s - MinQ 1/decada Primavera m3s - MinQ 1/decada Verano
+Cerro Caracol
+8,406 0,978
+Cerro Caracol Rio Andalien Camino A Penco Rio Andalien Camino Penco Rio Andalien Camino A Penco Rio Andalien Camino Penco Rio Andalien Camino Penco Rio Andalien Camino Penco Rio Andalien Camino A Penco Rio Andalien Camino Penco Rio Andalien Camino A Penco Rio Andalien Camino Penco
+6,529 0,428
+-28,373 0,000
+-15,284 0,029
+-24,818 0,000
+5,672 0,178
+0,301 0,723
+0,145 0,145
+0,020 0,496
+0,126 0,733
+0,024 0,827
+0,167 0,320
+================================================================================
+PAGE 83
+================================================================================
+8 2 9 ; 1 ; {3 8 ; , ; 1 ; 1 ; 8 ; ; 11 : 5 8g @ g [ 1 H ; 8 9 ; 8i ; š ; 1 ; ; g ; 4 8 g,
+; 43 8 , 0 v0 Z0 0'0 z0 Ovo€ozo)'0 L0- 0 ; 1 ; 8 9 ; f 1 { vo Z0 0'0 z'0 sov0€oz'0/'0 1 1 = : 0 V0 Zo 00 z0 sov0€0201'0 (dd epej?pjuu 'XL Kul epej?pl-) eijuapua
+================================================================================
+PAGE 84
+================================================================================
+; 2 ; ; ; ; 1 ; {3 8 ; 8 1 ; ; 88 5 8 1 ; @ : 8i 8 g H ; ; 8 9 ; 8i ; ; 1 ; ; N g ; 4 ; g,
+'
+9
+$0vo€020 | 0
++0 Zo
+; ; ; 1 8   ; ; 9'0 +0 Zo
+$0v08020 | 0
+1
+3 7
+50v080z0 |*0
++0 Z0 (dd epejapiuw 'XL ( ul epej?pijs) Bijuapual
+================================================================================
+PAGE 85
+================================================================================
+8 2 ; ; ; ; 1 ; {3 8 ; 8 1 ; ; 81 0L 5 9 1 ; { @ : 8i g 8 H ; 8 9 ; ; 8i ; ; 1 8 ; 8 g ; 2 ; 0l - g,
+9
+:
+9'0 vo Zo 0'0 9*0 +o Zo 0'0
+SL 0l
+; ; ; 1 8f 9 ; ; v0 Zo 0'0 9*0 +o Zo 0'0 sL 0l
+1
+8 7
+v0 Z0 0*0 9*0 10 70 0*0 s1 0l (dd epejapjuu 'X1 K ul epejaplOo) eijuapuaL
+================================================================================
+PAGE 86
+================================================================================
+8 ; 1  ; ; 1 ; 3 3 8 9 : ; , 1 ; 1 ; 9'0 Vo z0 0 0 +0 Zo 0'0 Oz  01 0l- Oz" OS- 5 ; ; ; 8i : ; f 1 9 1 ; 8; g : ; 8 ; H '0 +o Z0 +0 Zo 0'0 01 0l- Oz" ; 8 9 ; 9 ; 8i 3 9 ' 3 ; ; 1 ; ; g ; 4 ; 9'0 v0 z0 0 0 +0 Z0 0'0 Oz  01 0l- Oz- 0S- (dd epejapjuu 'X1 K ul epejaplOo) eijuapual g,
+================================================================================
+PAGE 87
+================================================================================
+; ( ; ; ; ; 1 ; 43 3 8 9 2 ; 8 1 ; ; 87 ovoeozo| 00'0 8'0 90 v0 zo 0'0 OZ 01 ol-Oz-0€ 8 ; 9 1 ; : ; 5 1 @ : 8g ; : g g ; 1 ; H osovoe0zo) 00'0 80 90 +0 zo 00 Oz 01 0l-Oz-0€ ; 8 9 ; 9 ; 8i 3 9 9 ; [ 1 8 ; 8 5 g ; 4 8 9*050v 0€ ozo1 000 8'0 90 +0 z0 0'0 Oz 01 0 0l-OZ-0€ (dd epejapjuu 'X1 K ul epejaplOo) eijuapual 8:
+================================================================================
+PAGE 88
+================================================================================
+82 ; 9 ; ; 1 ; {3 8 ' 9 ; : 1 ; 1 ; Vo €0 Z0 /0 0'0 9'0 0 Zo 0*0 8 ; ; ; 8 : ; f 1 1 9 { 9 8; g ; 8 ; H +o €0 zo | 0 0'0 9'0 Vo Zo 0*0 ; 8 9 ; ; 8i 1 ' E ; ; 1 ; : g ; 4 8 +o €0 zo +0 0'0 9'0 +0 Zo 0'0 Oz Oz- (dd epejapjuu 'X1 K ul epejaplOo) eijuapual 8:
+================================================================================
+PAGE 89
+================================================================================
+; ; 19 ; ; 1 ; {3 3 8 9 ž ; : ; 1 1 ; otocozovooo 8'0 90 Vo zo 0'oz0- OZ Ov 8 ; ; ; 14 : ; @ 4 9 { 9 g g : g g ; 8 ; H Sovoeozovoo 0 80 90 Vo z0 0oz0- ; 8 9 ; 3 ; 8i ' q ; ; 1 ; : g ; 4 8 sov080z04'000 8'0 90 v0 z0 00z'0- Oz Oz - Ov (dd epejapjuw 'x1 ( ul epej?pl-) eijuapual ::
+================================================================================
+PAGE 90
+================================================================================
+22 ; 9 ; ; 1 ; {3 3 8 9 9 ; : 1 ; ; 81 +0 €0 2o 40 20 8 ; 9 ; 1 ; ; @ 81 1 g 8i p ; 8; ; vo €0 2o 1o 9'0 vo 20 0'0 H ; ; 8 9 ; Ii 1 8 ; š 1 ; ; g ; 4 g v0 80 20 10 9'0 +0 20 0'0 Oz OZ (dd epejapjuw 'x1 ( ul epej?pl-) eijuapual 8:
+================================================================================
+PAGE 91
+================================================================================
+; ; 1 9 ; ; ; {3 3 8 1 9 : ; : ; ; 1 ; 8 : vo 2o 0'0 9*0 vo Zo 0 0 0l OZ ; : ; 1 5 ; 1 @ 1 ; 9 g 8i ; [ ; 1 9*0 vo 2o 0'0 9*0 vo Zo 0 0 0l 1 ; 8 9 ; ; 11 1 3 E ; ; 8 8 1 ; 8 g ; 4 8 9*0 vo 20 0'0 9*0 Fo Z0 0*0 Oz   0l 0l- Oz - (dd epejapjuu 'X1 K ul epejaplOo) eijuapual Rg'
+================================================================================
+PAGE 92
+================================================================================
+: ; 1 8 ; ; ; {3 8 1 ' ' ; , ; 1f ; 'os'ovoeozo) 00'0 Sov0€0z0 / 00'0 SL 0l 4 Ol-SL- 8 9 ; 1 : ; 4 ; 4 9 L  1 9 8i ; 8 ; H 'Osovoeozo) 00'0 0v0€020 | 00'0 SL 0l 5 0l-SL ; 9 8 ; ; 1i š 1 9 ; 8 1 ; 8 9 g ; 4 ; OS'0v080z01'00'0 s0v0€020 |'00'0 SL 0l 5 0l-SL- (dd epejapjuu 'xL ( ul epej?pIO) eijuapual 8:p
+================================================================================
+PAGE 93
+================================================================================
+: ; 1 8 ; ; 2 ; {3 8 1 3 9 0 ; , ; 88 ; 5 8 9*0 vo Zo 0*0 Vo €0 z0 +'0 00 OZ 0l ; g 1 ; 4 ; 4 [ 9 1 9 1 ; 81 ; 8 ; H vo Zo 0'0 Vo €0 z0 /'0 00 Oz  0l ; 8 9 ; 8i 9 ; 7 1 ; ; 8 1 ; ; 8 2 g ; 4 ; 9 0 +0 Zo 0'0 vo €0 z0 V'0 0*0 Oz 0l 0l- OZ- (dd epejapjuu 'X K ul epejapl-) eijuapual 8:p
+================================================================================
+PAGE 94
+================================================================================
+: ; 1 8 ; ; ; {3 8 1 ; , ; 78 ; 8 9 1 ; 4 1 9 1/ 8 H ; 8 9 ; ; 1i ; ; 1 ; 8 ~ g ; 4 ; 8:p
+'
+9
+9'0 +o zo 0'0
+50 Vo €0 zo /0 0'0
+0l
+; ; ; 1 ; 1 1 ; ; 90 +o zo 00 40 +o €0 zo | 0 0 0
+0l
+1
+š 9
+9'0 +0 z0 0'0 50 V0 €0 z0 /0 0'0 0l (dd epeaapjuw 'xL (ul epej?pl-) eijuapual
+================================================================================
+PAGE 95
+================================================================================
+8 '3 8 1 ; , ; 7f 9 2 ; 8 8 97 8 9 1  ; 9 ; 4 78 ; 8 ; 1 " 1 Fo 00 20- 90 zoz0- vozo |'0- 90 zoz0- : ; 4 1 8 # 8 4 379 1 9 ; 1 9 8 1 1 1 8; ; 1 ; 8y 7o 20- 90z0z0- oz'0 90 z0z0- ; 8 ( ; 8 1 1 8 9 9 ; g 98 98 9 1 9 1 ; g 1 1 ; ;z 2 ; 28 ; Fo 00 C0 Z0- 90zoz0- vozo Lo- 90 zoz0- 1 (epej?p 3) eijuapual g;
+================================================================================
+PAGE 96
+================================================================================
+8 43 8 1 ; , ; ; 8! ' 1 1 1 g 2 5 2 9 2 9 ' ; 6 8 ; Ii ; vozo 00 vo 0*0 8'0 v0 0'*0 80 v0 0'0 8 0 0 0'0 2 " ; : 4 ; 1 ; ! ' 1 1a 1 ; ; ; ; g 9 ; 8  ; vozo 00 vo 0*0 8'0 v0 0'0 8'0 v0 0'0 80 v0 81 ; ; ; 8 1 8 9 ; ; g 1 ; 9 1 ; ' 9 ; g 1 ; :z ; g' vozooo vo 0'0 8'0 v0 0'0 80 v0 0'0 80 v0 0'0 1 (epejap 3) ejjuapuaL g,
+================================================================================
+PAGE 97
+================================================================================
+1 1 ; 43 ; 8 , 1 ; ; 9 g 9 ; 1 9 1 9 ; 8 ; ; 8 ; 8 vo 0'0 +0- S)- 0 /-z-€ 0 Z-+9-8- 1 50- ; 1 ; : " ; 4 4 4 8 : ; 2 ; 89 ' 9 & 1 ; 1 1 : ; ; g 9 ; 1 ; ; f vo 0'0 V0- 50- 5 /  0 /-z- € 0 Z-+9-8 OC 9 ; ; 2 ; p 1 8 0 8 8 ; 8 ; ; ; 9 1 9 3 9 ; 8 8 1 g ; ; ; 2 g vo 0'0 V0- 50 5 /  0 !-z-€ 0 Z+9-8- Oz- 9- 0L - (epejap seip) ejjuapuaL :ši
+================================================================================
+PAGE 98
+================================================================================
+22 g ; ; 1 ; 8 ; ; 9 ; 1 ; 1 9 1 , 9 ; 1 ; 8 ; 5 ; vo 0'0 +0- Z0- 9'0- 0 / z Z V 9 ; Ii ; 71 ; 34 1 ; 9 1 8e 9 2 2 8 g 1 f ; ; ; 1 vo 0'0 V0- 20- 9'0- V 9 à ; ; 2 9 ; 8 ; 1i ; 9 1 ; 1 8 1 ; ; 1 ; ; g ; 2 8 vo 0'0 V0- 20- 9'0- (epejap seip) ejjuapuaL 1- z V 9 0L - g:
+================================================================================
+PAGE 99
+================================================================================
+g g ; g ; 8 1 ; 8 ; 9 ; 1 ; 2 1 9 1 9 ; 8 1 {3 ; 8 ; , 1 vo 0'0 +0- Z0'0 Fo0- 0- 80 0*0 v0-80- 0040-0' ; 8 ; 5 ; 8 @ 1i 1 ; 1 9 1 2 1 ; ; 9 ; ? 9 f ; " ;: vo 0'0 V0- Z0'0 Fo0- 4o €0 00 v0-80- 0*050-0' 2 [ ; ; 2 8 H 8 8 8 8 9 f g 88 9 1 9 ; { 6 ; 4 ; 2 g vo 0'0 V0- Z0'0 Vo 0- 4o € 0 00 v0-80 0 050-0'4 - (epejap seip) ejjuapuaL 8:
+================================================================================
+PAGE 100
+================================================================================
+g ; ; g ; 82 9 ; 8 9 ; ' ; 9 1 9 ; 8 1 '3 ; 8 ; , 1 €'0 F0 40- Fo +0- Zo 00 z0 L'o /'0-€0- Sl0 Oo'oS40- ; 8 ; 8 ; ; ; ' Ef 34 1 ; ; ; g g ; ; 9 ; 1 : €0 40 4o- Fo +'0- Zo 00 z0 F'o |0-€0- Sl'0 Oo'os40- f ; g 8 I 8 ; 8 ; 9 p 9 1 4 ; { ; 8 ; 2 g €'0 4'0 10 Fo 1'0- Zo 00 z0- 4'0 /0-€0- Sl'0 oo'os1'0- (epejap 3) ejjuapuaL 8:
+================================================================================
+PAGE 101
+================================================================================
+: 2 ; ; ; 1 ; 8 9 ; ; 1 g ' ; 1 9 1 , 9 ; 1 ; 8 ; 5 ; 0 0 0 /  2 | 0 |  0' | 0'00' 0*0 5 0- ; Ii ; 9 ; 4 4 42 1 ; 1 g ; 1 89 9 2  : ; ; ; 9 g = ; 1 ; 1 0 /  0 |  0 | 0'00 + - 0*0 50 ; 8/ ; ; Ii ; 8 ; 1 g 1 ; 1 9 1 ; ; 1 ; ; ~ g ; 2 g 00 0 / - 7 ! 0 )  0' | 0'00 4 - 0*0 0' / - 50 (uw) eijuapual 50 g:
+================================================================================
+PAGE 102
+================================================================================
+g g ; ; 2 ; ; 1 9 8 g 1 ; 1 9 1 1 ; 8 ; , 1 ; vo 0'0 v0 40005 0 0 /-z Z + 0 /-z 8 ; 8 ; ; 9i ; ; 1 ; ; 2 4 1  : 1 1 8 1 ; [ " : ; f vo 0'0 v0 400050 0 /-z Z | 0 /-z ; H ; 8 ; 14 ; 8 ; 1 9 8 9 1 9 9 ; 81 ; ; ; 4 ' vo 0'0 v0 400050- 0 /-z Z | 0 |-z 0 z 8 (epejap seip) ejjuapuaL gg
+================================================================================
+PAGE 103
+================================================================================
+g g ; 2 ; ; 9 ; 1 84 g 1 ; 1 9 1 ; 9 9 ; 8 ; , 1 ; 200'0 € 0- vo'ovo- 0 0 4040-5' 8 ; 5 ; ; 1i ; 18 1 ; 1 88 9 2 : 91 ; [ " : ; 4 2000 €0- Foo'ovo- 5050-9' ; H ; 14 ; 1 ; 1 ; 8 ; 1 9 1 1 1 ; 0 ; ; 2 : 2oo0 €0 voo'ovo 00 5050-9'4  0 /-z (epejap seip) ejjuapuaL gg
+================================================================================
+PAGE 104
+================================================================================
+8 g ; ; ; g 1 ; ; 1 ; g 1 ; 9 1 8 9 9 ; 8 1 ; 43 8 ; 0 $-0L - Oks 0 0l " Sk $0 0l- 0l $ 0 0L sl 5 0 , 1 ; 8 ; 5 ; ; % 1 g4 5 1 2 9/ ; ; ; 8 ; " 0 $0L - Ols 0 0l - Sk $0 0l- 0l $ 0 0l - l 50 0l 1 ; ; 4 ; U 8 ; ; 8 ; 1 ; 1 9 1 2 9 ; 1e ; : : ; 0 $01 - ols 0 0l - 9l 50 0l- 0l $ 0 0l - sL 50 0l - g ; (epejap wu) ejjuapual 8
+================================================================================
+PAGE 105
+================================================================================
+8 g ; 8 2 ; g 9 ; 1 ; 1 ; 1 ; 1 9 1 ; 9 ; 8 ; , 1 ; 70 Z0- v0o0 9*0- 0'L 00 0' / - 0'L 0'0 5 /  Z 0z-V9 1 ; 5 ; ; 88 ; 2 % 1 ; ; 1 9 2 88 : g 8 ; 4 % 4 : ; 8 4 20 70- v0o0 9*0 0 L 00 0' | 0'L 0'0 Z 0z ; 8 ; 1 ; ; 1 ; 8 ; 8 1 ; ; 1 9 1 9 ; 8i ; = ; ; 2 : 20 70- v00'0 9*0- 0'4 00 0 4 - 0'10'0 $) C 0 z V9 (epejap seip) ejjuapuaL gg
+================================================================================
+PAGE 106
+================================================================================
+1 1 ; 43 ; 8 , 1 ; ; 1 š g 1 ; 1 9 1 9 ; 8 ; ; 8 ; 1l 50s Sk Ovoz 0 0z- OZ 0 Ov Oz OZ 09 - Os 0 O0k- ; 88 ; 0 % 8 ; : ; g4 ; ' 8 & 8 : 1 ; ; ; g 8 ; 9 1 ; OS sL Ovoz 0 0z- OZ 0 Ov OC Oz 09 OS 0 00 8 9 ; 8 ; p 1 ; ; ; 1 ; 1 g 8 ;  9 1 8 ; 1 g ; ~ ; ; 2 g sos sk Ovoz 0 0z- OZ 0 Ov Oz Oz" 09- 0S 0 00L - (epejap wu) ejjuapual :ši
+================================================================================
+PAGE 107
+================================================================================
+1 1 ; 43 ; 8 , 1 9 ; ; 1 g 1 ; 1 9 1 9 ; 8 ; ; 8 ; il 0k 0 0l - Ovoz 00z 0z 0 Ov Oz OZ 09- 0s 0 00L ; 88 ; 0 % 8 ; : ; 1 ; ; ' 8 & 8 : ; 1 1 g 12 ; 1 1 ; 0l 0l Ovoz 0oz- 0z 0 Ov OZ Oz- 09 Os 0 0O | 8 9 ; 8 ; p 1 ; ; ; 8 ; 1 1 g ; 1 9 1 8 3 ; 1 g ; 2 ; ; 2 g 0L 0 0L - Ovoz Ooz 0z 0 Ov OZ OZ- 09- 0S0 00L - (epejap wu) ejjuapual :ši

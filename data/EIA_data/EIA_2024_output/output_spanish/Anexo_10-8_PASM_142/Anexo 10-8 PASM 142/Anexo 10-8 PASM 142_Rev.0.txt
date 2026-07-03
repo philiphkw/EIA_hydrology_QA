@@ -1,0 +1,701 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-8
+Permiso Ambiental Sectorial
+N°142
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Contenidos técnicos y formales ................................................................................................... 3
+2.1 Descripción del sitio de almacenamiento ..................................................................................... 3
+2.2 Especificaciones técnicas de las características constructivas del sitio de almacenamiento y
+medidas de protección de condiciones ambientales ................................................................................ 5
+2.3 Clase de residuos, cantidades, capacidad máxima y periodo de almacenamiento ...................... 6
+2.3.1 Fase de construcción ............................................................................................................. 6
+2.3.2 Fase de operación ............................................................................................................... 10
+2.3.3 Fase de cierre ...................................................................................................................... 13
+2.4 Medidas para minimizar cualquier mecanismo que pueda afectar la calidad del agua, aire, suelo
+que ponga en riesgo la salud de la población ......................................................................................... 15
+2.5 Capacidad de retención de escurrimientos o derrames del sitio de almacenamiento............... 16
+2.6 Plan de Contingencia ................................................................................................................... 17
+2.6.1 Descripción medidas generales ........................................................................................... 17
+2.6.2 Descripción de medidas específicas .................................................................................... 18
+2.7 Plan de emergencias ................................................................................................................... 18
+2.7.1 Descripción de medidas generales ...................................................................................... 19
+2.7.2 Descripción de medidas específicas .................................................................................... 19
+3 Indicadores de cumplimiento .................................................................................................... 20
+INDICE DE APÉNDICES
+Apéndice 10-8.1 Planos de emplazamiento
+Apéndice 10-8.2 Planos de elevaciones
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1. Ubicación y superficie de Bodegas RESPEL .................................................................................. 4
+Tabla 2-2. Estimación de residuos peligrosos durante fase de construcción. .............................................. 8
+Tabla 2-3. Estimación de residuos peligrosos durante fase de operación .................................................. 11
+Tabla 2-4. Estimación de residuos peligrosos durante fase de cierre ......................................................... 14
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 2-1. Ubicación bodega RESPEL Instalación de Faenas, fase de construcción..................................... 4
+Figura 2-2. Ubicación bodega RESPEL Planta de procesamiento, fase de operación y cierre ...................... 5
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de
+Tierras Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras
+y acciones que permitirán la construcción, operación y cierre de una faena minera para la extracción
+y procesamiento de arcillas, material presente en la zona, el cual, por efectos naturales, se
+encuentra altamente meteorizado, con presencia de tierras raras en los minerales de arcilla. El
+Proyecto se desarrollará principalmente en la comuna de Penco, Provincia de Concepción, Región
+del Biobío, sin perjuicio que parte de las obras se emplazan en la comuna de Concepción, en el límite
+con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas
+de extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para
+lastre y arcillas procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta
+de procesamiento de arcillas (la “Planta”), un stockpile para el acopio temporal de material previo
+al procesamiento, una línea eléctrica y su conexión a línea existente y la construcción de caminos
+internos para acceder a las distintas áreas. La Planta de Procesamiento tendrá una capacidad para
+procesar hasta 320 toneladas/hora de material para producir concentrado de Tierras Raras.
+Además, se considera la modificación de un tramo existente de aproximadamente 1,22 kilómetros
+del oleoducto Hualpén – San Fernando, propiedad de ENAP, motivo de la explotación de la ZE Maite.
+El Proyecto a su vez cuenta con la implementación de obras temporales correspondiente a
+instalaciones de faenas para la construcción y habilitación de las obras del Proyecto.
+En cuanto al presente Permiso Ambiental Sectorial, el Proyecto requiere de áreas de
+almacenamiento temporal destinado a los residuos peligrosos que se generen durante las distintas
+fases del Proyecto. En este sentido, el Artículo 142º del Reglamento del Sistema de Evaluación de
+Impacto Ambiental (RSEIA) D.S. Nº 40/2012, señala:
+Artículo 142.- Permiso para todo sitio destinado al almacenamiento de residuos
+peligrosos.
+El permiso para los sitios de almacenamiento de residuos peligrosos, será el establecido
+en el artículo 29 del Decreto Supremo Nº 148, de 2003, del Ministerio de Salud,
+Reglamento sanitario sobre manejo de residuos peligrosos.
+El requisito para su otorgamiento consiste en que el almacenamiento de residuos en un
+sitio no afecte la calidad de las aguas, suelo y aire que pueda poner en riesgo la salud
+de la población.
+Los contenidos técnicos y formales que deben presentarse para acreditar su
+cumplimiento son los siguientes:
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Descripción del sitio de almacenamiento.
+• Especificaciones técnicas de las características constructivas del sitio de almacenamiento y
+medidas de protección de condiciones ambientales.
+• Clase de residuos, cantidades, capacidad máxima y período de almacenamiento.
+• Medidas para minimizar cualquier mecanismo que pueda afectar la calidad del agua, aire,
+suelo que ponga en riesgo la salud de la población.
+• Capacidad de retención de escurrimiento o derrames del sitio de almacenamiento.
+• Plan de contingencias.
+• Plan de emergencias.
+A continuación, se presentan los antecedentes para acreditar el cumplimiento de los requisitos para
+el otorgamiento del citado Permiso Ambiental Sectorial N° 142.
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 CONTENIDOS TÉCNICOS Y FORMALES
+2.1 Descripción del sitio de almacenamiento
+Durante la fase de construcción del Proyecto se requiere la habilitación de una (1) bodega de acopio
+temporal de residuos peligrosos (RESPEL), la cual se encontrará ubicada al interior de la instalación
+de faenas.
+Por su parte, para la fase de operación del Proyecto, se habilitará una (1) bodega RESPEL ubicada al
+interior del área de la Planta de procesamiento.
+Por último, durante la fase de cierre, se hará uso de la misma bodega implementada en la Planta de
+Procesamiento durante la fase de operación.
+Cabe señalar que la bodega de RESPEL a habilitar en la instalación de faenas durante la fase de
+construcción tendrá el carácter de temporal por el periodo de 25 meses que se proyecta la duración
+de esta fase, mientras que la bodega RESPEL de la fase de operación tendrá el carácter de
+permanente durante los 6 años de operación del Proyecto. Dicha bodega, se continuará utilizando
+durante la fase de cierre del Proyecto.
+Cabe indicar que la superficie a emplear por la instalación de faenas se encuentra contenida en la
+superficie que posteriormente ocupara la Planta de procesamiento durante la fase de operación,
+utilizando de manera eficiente la superficie en que se emplazarán las instalaciones.
+Por otra parte, se indica que la cantidad de residuos generados de los distintos frentes de trabajo
+como zonas de extracción (ZE), planta de procesamiento, zonas de disposición (ZD), zonas de acopio
+vegetal (ZAV), caminos (entre otros) están sumadas en los sectores que se especifican en las
+distintas tablas, excepto para la modificación del oleoducto, la cual se encuentra separada en la fase
+de operación del proyecto.
+La bodega de RESPEL a emplear en cada fase dará cumplimiento a las exigencias contenidas en el
+D.S. 148/2003 del Ministerio de Salud, que Aprueba Reglamento Sanitario Sobre Manejo de
+Residuos Peligrosos.
+La ubicación de estas instalaciones se detalla en la siguiente Tabla 2-1.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-1. Ubicación y superficie de Bodegas RESPEL
+Fase Sector Superficie m² ID Norte Este
+1 5.930.075 681.850
+Instalación de 2 5.930.065 681.850
+Construcción 70
+Faenas 3 5.930.065 681.857
+4 5.930.075 681.857
+1 5.930.075 681.850
+Operación- 2 5.930.065 681.850
+Planta de procesamiento 70
+Cierre 3 5.930.065 681.857
+4 5.930.075 681.857
+Fuente: Elaboración propia, 2024.
+En las Figura 2-1 y Figura 2-2 a continuación se muestra la ubicación de las bodegas de RESPEL del
+Proyecto.
+Figura 2-1. Ubicación bodega RESPEL Instalación de Faenas, fase de construcción
+Fuente: Elaboración propia, 2024.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-2. Ubicación bodega RESPEL Planta de procesamiento, fase de operación y cierre
+Fuente: Elaboración propia, 2024.
+2.2 Especificaciones técnicas de las características constructivas del sitio de
+almacenamiento y medidas de protección de condiciones ambientales
+Los residuos peligrosos serán almacenados separadamente de acuerdo con su grado de peligrosidad
+en contenedores, los cuales serán acopiados temporalmente en las bodegas RESPEL. Lo anterior se
+materializará dentro de las bodegas las que cumplirán con los requisitos del artículo 33 del D.S. N°
+148/2003; así, las principales características de las bodegas de almacenamiento temporal de
+residuos industriales peligrosos son las siguientes:
+• Base continua, impermeable y resistente estructural y químicamente a los residuos
+almacenados;
+• Cierre perimetral con mínimo 1,80 m de altura, tipo malla acma o similar destinado a
+impedir el libre acceso de personas y animales;
+• Cubierta destinada a proteger de condiciones ambientales tales como lluvia, temperatura y
+radiación solar;
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Sistema colector de derrames con capacidad no inferior al volumen del contenedor de
+mayor capacidad ni al 20% del volumen total;
+• Señalización según Norma Chilena NCh. Nº 2.190 Of. 93, versión 2003; y,
+• Extintores en función de los materiales combustibles o inflamables contenidos.
+El acceso a estas instalaciones será restringido contándose con un responsable quien registrará cada
+ingreso y egreso de residuos peligrosos desde las bodegas.
+Las medidas de protección de condiciones ambientales estarán dadas por el sistema colector de
+derrames con que contarán las bodegas RESPEL, el cual resguardará y contendrá posibles derrames
+evitando su propagación fuera del área de contención. Por otra parte, se contará con un extintor
+manual en las áreas de las bodegas de acopio temporal de residuos peligrosos.
+2.3 Clase de residuos, cantidades, capacidad máxima y periodo de
+almacenamiento
+A continuación, se entregan los antecedentes solicitados para los residuos peligrosos generados en
+la fase de construcción, operación y cierre del Proyecto.
+2.3.1 Fase de construcción
+Durante esta fase se generarán residuos sólidos peligrosos (RESPEL) correspondientes
+principalmente a aceites y filtros, envases que contienen sustancias peligrosas, absorbentes,
+lubricantes, sellantes, guaipes, cartones con grasas, entre otros. De lo anterior, se estima una
+generación del orden de 53,3 m3/mes los que serán almacenados en una Bodega de
+Almacenamiento Temporal desde donde serán trasladados a disposición final conforme a la
+normativa sanitaria vigente D.S. N° 148/2003, MINSAL, Reglamento Sanitario Sobre Manejo de
+Residuos Peligrosos. Este recinto se encontrará ubicado en la instalación de faenas y cumplirá con
+todas las exigencias del Título IV del citado D.S. N° 148/2003.
+Los residuos peligrosos se dispondrán en contenedores estancos y sellados, los que serán acopiados
+en la bodega RESPEL para su disposición temporal hasta su retiro a disposición final, siendo retirados
+por una empresa autorizada por la SEREMI de Salud (Autoridad Sanitaria), con una frecuencia según
+necesidad y no superior a seis meses, de acuerdo con lo establecido en el Artículo 31º del D.S. N°
+148/2003 del MINSAL.
+Los residuos peligrosos se dispondrán en contenedores metálicos estancos y sellados con tapa. Para
+el caso de los lodos contaminados con hidrocarburos, provenientes del lavado de equipos mineros,
+se almacenarán en bins de 1 m3 los que serán acopiados en la bodega RESPEL para su disposición
+temporal hasta su retiro a disposición final, siendo retirados por una empresa autorizada por la
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Autoridad Sanitaria, con una frecuencia según necesidad y no superior a seis meses, de acuerdo con
+lo establecido en el Artículo 31º del D.S. N° 148/2003 del MINSAL.
+En la siguiente Tabla 2-2 se presenta la estimación de los residuos peligrosos a generar.
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-2. Estimación de residuos peligrosos durante fase de construcción.
+Código
+Cantidad Cantidad Código
+Categoría Tipo
+TA TC TE R I C Estado
+Infraestructura RESPEL estimada estimada RESPEL (Lista Contenedor
+Lista A
+(m3/mes) (kg/mes) I, II, III)
+12 10.858 I.8 A3020 x Bins Líquido
+Aceites y filtros
+Contenedor
+A4130 x Sólido
+Envases que contienen sustancias peligrosas III.2
+22,0 20.680 metálico
+Contenedor
+I.9 A4060 x Sólido
+Adsorbentes
+0,22 11 1.18 metálico
+10 8.775 A3020 x Bins Líquido
+Lubricantes I.8
+Instalación de
+Contenedor
+Faenas A4130 x Sólido
+Envases vacíos de pintura III.2
+0,04 68 metálico
+Contenedor
+A4017 x Sólido
+Sellantes y otros similares I.13
+0,07 68 metálico
+Contenedor
+I.9 A4060 x Sólido
+Guaipes, EPP y cartones con grasas
+3 446 1.18 metálico
+6 6.095 I.9 A4060 x Bins 1m3 Sólido
+Lodo de lavado de carrocería
+1.18
+53,3 47.000
+Total
+Fuente: Elaboración propia, 2024.
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+De acuerdo con lo expuesto en la tabla anterior la cantidad anual supera las 12 toneladas, por lo
+tanto, una vez calificado ambientalmente el Proyecto y previo al inicio de la ejecución de las acciones
+u obras que requieran del manejo de residuos peligrosos, se presentará el respectivo Plan de
+Manejo de Residuos Peligrosos según lo indica el artículo 25 del D.S. 148/2003, MINSAL.
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3.2 Fase de operación
+Durante esta fase se generarán residuos sólidos peligrosos (RESPEL) correspondientes
+principalmente a aceites y filtros, envases que contienen sustancias peligrosas, absorbentes,
+lubricantes, sellantes, guaipes, cartones con grasas, entre otros. De lo anterior, se estima una
+generación del orden de 28,8 t/mes los que serán almacenados en una Bodega de Almacenamiento
+Temporal ubicada en la zona de Planta de procesamiento, desde donde serán trasladados a
+disposición final conforme a la normativa sanitaria vigente (D.S. N° 148/2003, MINSAL, Reglamento
+Sanitario Sobre Manejo de Residuos Peligrosos). Estos recintos cumplirán con todas las exigencias
+del Título IV del D.S. N° 148/2003.
+Los residuos peligrosos se dispondrán en contenedores metálicos estancos y sellados con tapa. Para
+el caso de los lodos contaminados con hidrocarburos producto de la actividad de lavado de
+carrocería se almacenarán en bins de 1 m3 los que serán acopiados en la bodega RESPEL para su
+disposición temporal hasta su retiro a disposición final, siendo retirados por una empresa autorizada
+por la SEREMI de Salud (Autoridad Sanitaria), con una frecuencia según necesidad y no superior a
+seis meses, de acuerdo con lo establecido en el Artículo 31º del D.S. N° 148/2003 del MINSAL.
+Adicionalmente, se incorporan los residuos peligrosos generados producto de la modificación del
+trazado de oleoducto de ENAP, con una generación aproximada de 4,1 m3/mes, lo cual se producirá
+por unos meses durante el año 2 de la fase de operación del Proyecto.
+En la siguiente Tabla 2-3 se presenta la estimación de los residuos peligrosos a generar.
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-3. Estimación de residuos peligrosos durante fase de operación
+Cantidad Cantidad Código Tipo
+Categoría Código TA TC TE R I C Estado
+Infraestructura RESPEL estimada estimada Contenedor
+RESPEL Lista A
+(m3/mes) (kg/mes)
+(Lista I, II, III)
+I.8 A3020 x Bins Líquido
+Aceites y filtros 5 4.141
+Contenedor
+I.9 A4060 x Sólido
+Residuos absorbentes 0,02 1
+1.18 metálico
+Contenedor
+Envases contaminados A3020 x Sólido
+0,24 225 I.8
+(con aceite e hidrocarburos) metálico
+A3020 x Bins Líquido
+Lubricante y grasas. 6 5.438 I.8
+Contenedor
+Planta de
+procesamiento Envases vacíos de pintura. 0,2 306 III.2 A4130 x metálico / Sólido
+Pallet
+Contenedor
+A4017 x Sólido
+Sellantes y otros lubricantes. 0,33 306 I.13
+metálico
+Contenedor
+I.9 A4060 x Sólido
+Guaipes, EPP, y cartones con grasas. 2 307
+1.18 metálico
+I.9 A4060 x Bins 1m3 Sólido
+Lodo de lavado de carrocería 15 15.750
+1.18
+Total 28,79 26.474
+A3020 x Bins Líquido
+Modificación Aceites y filtros 0,1 91 I.8
+del trazado A3020 x Bins Líquido
+Lubricantes y grasas 3 2.052 I.8
+de oleoducto
+I.9 A4060 X Contenedor Sólido
+de ENAP Guaipes, EPP, y cartones con grasas. 1 108,0
+1.18
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Cantidad Cantidad Código Tipo
+Categoría Código TA TC TE R I C Estado
+Infraestructura RESPEL estimada estimada Contenedor
+RESPEL Lista A
+(m3/mes) (kg/mes)
+(Lista I, II, III)
+metálico
+Total 4,1 2.251
+Fuente: Elaboración propia, 2024.
+De acuerdo con lo expuesto en la tabla anterior, la cantidad anual supera las 12 toneladas, por lo tanto, una vez calificado ambientalmente el
+Proyecto y previo al inicio de la ejecución de las acciones u obras que requieran del manejo de residuos peligrosos para esta fase, se presentará el
+respectivo Plan de Manejo de Residuos Peligrosos según lo indica el artículo 25 del D.S. 148/2003, MINSAL.
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3.3 Fase de cierre
+Durante esta fase se generarán residuos sólidos peligrosos (RESPEL) correspondientes
+principalmente a restos de aceites y filtros, envases que contienen sustancias peligrosas,
+absorbentes, lubricantes, sellantes, guaipes, cartones con grasas, entre otros. De lo anterior, se
+estima una generación del orden de 15,5 t/mes los que serán almacenados en una Bodega de
+Almacenamiento Temporal desde donde serán trasladados a disposición final conforme a la
+normativa sanitaria vigente D.S. N° 148/2003, MINSAL, Reglamento Sanitario Sobre Manejo de
+Residuos Peligrosos. Este recinto se encontrará ubicado en la instalación de faenas y cumplirá con
+todas las exigencias del Título IV del D.S. N° 148/2003.
+Los residuos peligrosos se dispondrán en contenedores metálicos estancos y sellados con tapa. Para
+el caso de los lodos contaminados con hidrocarburos producto de la actividad de lavado de
+carrocería, se almacenarán en bins de 1 m3 los que serán acopiados en la bodega RESPEL para su
+disposición temporal hasta su retiro a disposición final, siendo retirados por una empresa autorizada
+por la SEREMI de Salud (Autoridad Sanitaria), con una frecuencia según necesidad y no superior a
+seis meses, de acuerdo con lo establecido en el Artículo 31º del D.S. N° 148/2003 del MINSAL.
+En la siguiente Tabla 2-4 se presenta la estimación de los residuos peligrosos a generar.
+13
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-4. Estimación de residuos peligrosos durante fase de cierre
+Código
+Cantidad
+Cantidad Categoría
+estimada Código Tipo
+RESPEL TA TC TE R I C Estado
+Sector RESPEL estimada Lista A Contenedor
+(Lista I, II,
+(m3/mes) (kg/mes)
+III)
+I.8 A3020 x Bins Líquido
+Aceites y filtros 8 7.512
+Contenedor
+I.9 A4060 x Sólido
+Residuos absorbentes
+1.18 metálico
+0,2 10
+A3020 x Bins Líquido
+Lubricante y grasas. 1 889 I.8
+Contenedor
+Envases vacíos de A4130 x metálico / Sólido
+III.2
+Planta de pintura.
+procesamiento Pallet
+0,05 77
+77 Contenedor
+Sellantes y otros A4017 x Sólido
+I.13
+lubricantes. metálico
+0,08
+77 Contenedor
+Guaipes, EPP, y I.9 A4060 x Sólido
+cartones con grasas. 1.18 metálico
+0,43
+Lodos de lavado de I.9 A4060 x Bins 1m3 Sólido
+carrocería 7 6.908 1.18
+Total 16,76 15.550
+Fuente: Elaboración propia, 2024.
+De acuerdo con lo expuesto en la tabla anterior la cantidad anual supera las 12 toneladas, por lo tanto, una vez calificado ambientalmente el
+Proyecto y previo al inicio de la ejecución de las acciones u obras que requieran del manejo de residuos peligrosos para esta fase, se presentará el
+respectivo Plan de Manejo de Residuos Peligrosos según lo indica el artículo 25 del D.S. 148/2003, MINSAL.
+14
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.4 Medidas para minimizar cualquier mecanismo que pueda afectar la
+calidad del agua, aire, suelo que ponga en riesgo la salud de la población
+Las características específicas de las bodegas de almacenamiento de RESPEL estarán de acuerdo con
+lo exigido en el D.S. Nº 148/03 de MINSAL Reglamento Sanitario sobre Manejo de Residuos
+Peligrosos, lo cual permitirá prevenir tanto emergencias y accidentes como evitar efectos en
+componentes agua, suelo y/o aire.
+De esta manera, las medidas para minimizar cualquier mecanismo que pueda afectar la calidad del
+agua, aire y suelo, estarán dadas por el sistema colector de derrames, el cual resguardará y
+contendrá posibles derrames evitando su propagación fuera del área de contención. Por otra parte,
+se contará con un extintor manual en el área de las bodegas de acopio temporal de residuos
+peligrosos, y el almacenamiento de los RESPEL será en contenedores herméticos con tapa,
+debidamente rotulados e identificados.
+Por otro lado, se contará con un registro de ingreso y retiro de residuos peligrosos en la bodega de
+acopio temporal, considerando la siguiente información:
+a) Ingreso de Residuos:
+• Fecha de Ingreso a la bodega;
+• Numeración interna y tipo del RESPEL ingresado;
+• Característica de peligrosidad;
+• Cantidad o volumen del residuo ingresado; y
+• Encargado.
+b) Egreso Residuos:
+• Fecha de retiro;
+• Numeración interna y tipo del RESPEL retirado;
+• Cantidad o volumen del residuo;
+• Empresa que efectúa el retiro;
+• Identificación del transportista;
+• Destino Final; y
+• Encargado.
+Cuando se realice la disposición final del residuo, se deberá dar cumplimiento con la respectiva
+Declaración y Seguimiento de los Residuos, como se establece en el D.S. Nº 148/2004 del MINSAL
+15
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+en su Título VII, en el Sistema de Ventanilla Única del Registro de Emisiones y Transferencias de
+Contaminantes (RETC) o la plataforma informática que lo reemplace.
+Por otra parte, se realizarán inspecciones para verificar las condiciones de la bodega y de los
+contenedores.
+Además, existirá un Registro con el listado y todas las Hojas de Datos de Seguridad de los residuos
+almacenados, el que se mantendrá en la administración de la faena y en cada bodega RESPEL, los
+cuales estarán a disposición del personal encargado de la bodega y de quien transite por ella.
+Se mantendrá en buenas condiciones de orden y limpieza los lugares de almacenamiento temporal
+de residuos, con el fin de resguardar la salud y el bienestar de los trabajadores.
+La forma de control implica la consideración de aspectos de seguridad, calidad, salud y medio
+ambiente, tomando en cuenta las siguientes medidas:
+- Los lugares donde se manipularán y almacenarán residuos peligrosos contarán con
+señalización e instrucción de las características de éstos, destacando los peligros
+inherentes, las medidas de prevención y de primeros auxilios eventualmente aplicables.
+- Se prohibirán operaciones o trabajos con llama abierta y fumar o ingerir alimentos
+dentro o cerca de los lugares de almacenamiento de residuos.
+- Se exigirá el uso correcto de los elementos de protección personal que corresponda
+durante la manipulación de residuos.
+- Se informará a los trabajadores involucrados, los riesgos asociados a la operación y
+manipulación de residuos.
+La disposición final se realizará en sitios autorizados por la Autoridad Sanitaria, para lo cual se
+mantendrán registros de ingreso y disposición final de residuos, con el fin de presentarlos cuándo
+la autoridad lo requiera.
+2.5 Capacidad de retención de escurrimientos o derrames del sitio de
+almacenamiento
+Existirá un sistema colector exclusivo en cada una de las bodegas de almacenamiento temporal de
+RESPEL, para el caso de eventuales derrames. Este sistema tendrá una capacidad de retención no
+inferior al volumen del contenedor de mayor capacidad ni al 20% del volumen total de los
+contenedores almacenados.
+16
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.6 Plan de Contingencia
+En el capítulo 8 del EIA, se indican los principales riesgos asociados al Proyecto, los que a su vez son
+susceptibles de afectar el ambiente y provocar accidentes o emergencias. A continuación, se
+describe el plan de contingencia diseñado para el Proyecto, en lo que dice relación con el manejo
+de residuos peligrosos.
+Objetivo: El objetivo del Plan de Contingencias, es disponer de una herramienta administrativa,
+organizacional y operativa que permita responder ante eventualidades de orden natural u
+operativo, mediante la aplicación de guías de organización y respuesta para optimizar la eficacia y
+eficiencia de las acciones de control de la emergencia, con el fin de proteger el entorno, la
+infraestructura, los equipos y el recurso humano involucrado.
+Alcance: El presente Plan es aplicable a todo el personal que trabaje en el Proyecto, ya sea personal
+contratado por la empresa titular, subcontratos y externos.
+2.6.1 Descripción medidas generales
+En caso de cualquier contingencia, se deben tomar las siguientes medidas:
+• Cualquier trabajador que detecte la contingencia, deberá dar inmediato al jefe de
+emergencia, el cual, concurrirá al lugar de la emergencia, para evaluar la magnitud y
+propagación, y efectuará el procedimiento indicado para cada tipo de contingencia.
+• Presentar un plan de acción a la autoridad competente.
+• Equipar al personal que atenderá la contingencia con el equipo de protección personal
+correspondiente.
+• Efectuar las acciones correctivas descritas para cada tipo de contingencia. Mantener un
+registro sistematizado en el cual se detalle la fecha, hora, duración y lugar específico donde
+se produjo la contingencia, personal responsable, acciones aplicadas, duración de las obras
+ejecutadas y resultados obtenidos.
+• En el caso que la contingencia no pueda ser controlada, se dará aviso al Coordinador de
+Emergencia, el cual será responsable dar la alarma interna.
+• Informar a las autoridades, los resultados obtenidos respecto del plan presentado, causas
+de la contingencia y las actividades adicionales que hayan sido necesario efectuar.
+17
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.6.2 Descripción de medidas específicas
+Las medidas específicas se detallan a continuación:
+Para el manejo de residuos, se aplicarán algunas medidas de manejo para evitar posibles
+emergencias, las cuales se indican a continuación:
+• Todo el personal en obra estará capacitado para proceder ante situaciones de emergencia
+con sustancias peligrosas.
+• Se prohibirá botar o acopiar residuos fuera de las áreas de almacenamiento definidas. Para
+ello se mantendrán las señalizaciones correspondientes.
+• Las áreas de trabajo, así como la bodega, se mantendrán limpias y ordenadas.
+• Se mantendrán los extintores en lugares visibles y con sus mantenciones al día.
+• Cuando se programen los retiros de residuos por empresa externa autorizada, el personal
+interno supervisará que esta actividad se realice correctamente.
+• Programación de los retiros y disposición final.
+Dentro de las contingencias que se podrían producir, está el derrame accidental de algún residuo
+peligroso. Ante esta situación se procederá de la siguiente forma:
+• Se identificarán las áreas de mayor riesgo para reducir o eliminar las probabilidades de
+ocurrencia de emergencia.
+• Mantener siempre identificado el kit de contención en caso de derrame de residuos
+peligrosos.
+• Mantener en buenas condiciones los elementos de protección personal.
+2.7 Plan de emergencias
+El Proyecto contempla un Plan de Prevención de Contingencias y Emergencias (Capítulo 8 del EIA),
+cuyo propósito es establecer un programa de acciones organizadas, planificadas y coordinadas ante
+la eventualidad de un evento de contingencia o emergencia que pueda ocasionarse durante las fases
+del Proyecto.
+En situaciones de emergencia, lo más importante es la oportuna comunicación de acuerdo con el
+organigrama establecido y la evacuación de los trabajadores expuestos y/o que puedan interferir
+en el desempeño del Jefe de Turno y Comité de Emergencia.
+18
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Objetivo: El objetivo del Plan de Emergencia, es disponer de una herramienta administrativa,
+organizacional y operativa que permita responder ante situaciones de emergencia, de orden natural
+u operativo, mediante la aplicación de guías de organización y respuesta para optimizar la eficacia
+y eficiencia de las acciones de control, con el fin de proteger el entorno, la infraestructura, los
+equipos y el recurso humano involucrado.
+Alcance: El presente Plan es aplicable a todo el personal que trabaje en el Proyecto, ya sea personal
+contratado por la empresa titular, subcontratos y externos.
+2.7.1 Descripción de medidas generales
+En caso de cualquier situación de emergencia, se deben tomar las siguientes medidas:
+• Una vez declarada la emergencia, el Coordinador de Emergencias gestionará el apoyo
+logístico necesario solicitado por el Jefe de Emergencia, se comunicará en primer lugar
+con el centro asistencial más cercano, si debido a la emergencia se producen lesionas
+o daños a personas, dando aviso, de ser necesario, a los servicios externos de
+emergencia tales como bomberos, carabineros, etc.
+• Luego, el Coordinador de Emergencias, comunicará al gerente general la situación y las
+medidas que se han tomado. Será responsable de coordinar las acciones, dará la
+instrucción de interrumpir las operaciones normales, en el caso de la presencia de
+condiciones peligrosas producto de la emergencia, ordenando detener y desenergizar
+los equipos involucrados para proceder a la evacuación.
+• Finalmente, el Coordinador de emergencias será el responsable de informar a la
+Superintendencia del Medio Ambiente a través del módulo de aviso de Contingencias
+e Incidentes dentro del plazo de 24 horas de ocurrido el evento que se informa.
+2.7.2 Descripción de medidas específicas
+Las medidas específicas se detallan a continuación:
+En caso de emergencia de incendio del sitio de almacenamiento de residuos peligrosos, se
+procederá a:
+• Dar aviso de inmediato al jefe de la obra quien informará a los encargados de
+prevención de riesgos.
+• Dependiendo de la magnitud del evento, paralizar inmediatamente las obras y si es
+pertinente se evacuará todo el personal, hasta áreas seguras.
+• Activar el Plan de Comunicaciones, que especifica, según la magnitud del accidente, a
+quienes informar. Evaluar el nivel de gravedad del incendio.
+• Delimitar de forma inmediata un área de restricción, donde sólo podrán ingresar
+personal entrenado.
+19
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-8 PAS 142
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Personal entrenado, debe inspeccionar el lugar del accidente, verificando que no
+existan heridos en el área.
+• En caso de registrarse heridos por este accidente, éstos deben ser llevados a un centro
+asistencial.
+• Un especialista en prevención de riesgo debe inspeccionar el área, demarcando las
+áreas de riesgo y determinando si es conveniente relocalizar las instalaciones. Si este
+fuera el caso, se informará a las autoridades pertinentes.
+• Evitar, siempre que sea posible, que el fuego se propague a otros sectores del proyecto
+combatiendo el fuego (evitando riesgo) con los medios de extinción disponibles
+(extintores).
+• De no ser posible el control del fuego, proceder a la evacuación del recinto y confirmar
+la presencia de cuerpo de bombero más cercano, entregando los antecedentes de los
+residuos involucrados y las respectivas Hojas de Seguridad.
+En caso de derrame y / o fugas de residuos peligrosos:
+• Eliminar todas las fuentes de ignición (no fumar, no usar bengalas, chispas o llamas en
+el área de peligro).
+• No tocar ni caminar sobre el material derramado.
+• Evaluar la cantidad derramada y sus características, notificar proporcionando la mayor
+información posible.
+• Detener la fuga en el caso de poder hacerlo sin riesgo.
+• Absorber con tierra seca, arena u otro material absorbente no combustible y
+transferirlo a contenedores.
+• Usar herramientas limpias a prueba de chispas para recoger el material absorbido.
+• Luego de efectuado el control, proceder a la recolección, re envasado y rotulado del
+residuo.
+• Efectuar monitoreo a componentes ambientales afectadas si procede.
+3 INDICADORES DE CUMPLIMIENTO
+• Autorización Sanitaria (Permiso Sectorial) otorgada para sitios destinados al
+almacenamiento de residuos peligrosos, en virtud de lo establecido en el artículo 29 del
+Decreto Supremo Nº 148, de 2003, del Ministerio de Salud, Reglamento sanitario sobre
+manejo de residuos peligrosos.
+20

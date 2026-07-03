@@ -1,0 +1,461 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-6
+PASM 139
+EIA Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Región del Bío Bio
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+ÍNDICE
+1 INTRODUCCIÓN ..................................................................................................................................... 1
+2 DESCRIPCIÓN DE LOS PROCESOS EN LOS QUE SE GENERAN LOS RESIDUOS LÍQUIDOS INDUSTRIALES O
+MINEROS, ESTIMACIÓN DE SUS CAUDALES Y CARACTERIZACIÓN ................................................................ 2
+3 PLANO DE EMPLAZAMIENTO DEL SISTEMA DE TRATAMIENTO ............................................................ 8
+4 DISEÑO DEL SISTEMA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO Y DE LAS UNIDADES Y
+EQUIPAMIENTO NECESARIO PARA CONDUCIR, TRATAR Y DESCARGAR EL EFLUENTE ................................. 9
+5 PROGRAMA DE MONITOREO Y CONTROL DE PARÁMETROS OPERACIONALES, INCLUYENDO
+PARÁMETROS CRÍTICOS .............................................................................................................................. 10
+6 DESCRIPCIÓN Y GEORREFERENCIACIÓN DE LAS OBRAS O INFRAESTRUCTURA DE DESCARGA DE LOS
+RESIDUOS TRATADOS, SI CORRESPONDE .................................................................................................... 10
+7 DESCRIPCIÓN Y CARACTERIZACIÓN DEL CUERPO RECEPTOR SUPERFICIAL Y/O SUBTERRÁNEO,
+IDENTIFICANDO SUS USOS ACTUALES Y PREVISTOS ................................................................................... 10
+8 EFECTO ESPERADO DE LA DESCARGA SOBRE EL CUERPO O CURSO RECEPTOR, CONSIDERANDO LOS
+USOS IDENTIFICADOS .................................................................................................................................. 11
+9 PLAN DE MANEJO DE LODOS Y DE CUALQUIER OTRO RESIDUO GENERADO ..................................... 11
+10 PLAN DE CONTINGENCIAS ................................................................................................................... 11
+11 PLAN DE EMERGENCIAS ...................................................................................................................... 12
+ÍNDICE DE TABLAS
+Tabla 2-1. Parámetros de entrada a la planta de efluentes .......................................................................... 7
+Tabla 3-1. Coordenadas Ubicación área sistema de lavado .......................................................................... 8
+ÍNDICE DE FIGURAS
+Figura 2-1. Figura esquemática área lavado de equipos ............................................................................... 3
+Figura 2-2 Diagrama de Flujo Tratamiento efluentes ................................................................................... 5
+Figura 3-1 Área de Sistema de lavado de Camiones y Maquinaria ............................................................... 8
+ÍNDICE DE APÉNDICES
+Apéndice 10-6.1 Plano de planta disposición general
+Apéndice 10-6.2 Plano de elevación lavado de equipos
+Apéndice 10-6.3 Diagrama de bloques
+Apéndice 10-6.4 Diagrama de flujo
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto.
+El Proyecto requiere del otorgamiento del permiso a que se refiere el artículo 139 del Reglamento del SEIA,
+que corresponde a la autorización del sistema de tratamiento de residuos industriales líquidos, para la
+zona de lavado de chasis y carrocerías, y la correspondiente recolección, limpieza y reutilización del agua
+utilizada en dicho lavado.
+El sistema de tratamiento se ha diseñado para tratar los afluentes generados por el lavado de vehículos,
+con una capacidad de 177 m3/día, con una generación de aproximadamente 0,6 m3/día de lodos, los cuales
+serán dispuestos con empresas que cuenten con Autorización Sanitaria; asimismo, considera una
+recirculación aproximada de agua del orden de 159 m3/día.
+El artículo 139 del Reglamento del SEIA corresponde al permiso para la construcción, reparación,
+modificación y ampliación de cualquier obra pública o particular destinada a la evacuación, tratamiento o
+disposición final de residuos industriales o mineros, a que se refiere el artículo 71 letra b) segunda parte,
+del Decreto con Fuerza de Ley Nº725/1967 del Ministerio de Salud Pública, Código Sanitario.
+El requisito para su otorgamiento consiste en que la calidad del agua del cuerpo receptor no ponga en
+riesgo la salud de la población. Los contenidos técnicos y formales que deben presentarse para acreditar
+su cumplimiento se presentan a continuación.
+1
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+2 DESCRIPCIÓN DE LOS PROCESOS EN LOS QUE SE GENERAN LOS RESIDUOS
+LÍQUIDOS INDUSTRIALES O MINEROS, ESTIMACIÓN DE SUS CAUDALES Y
+CARACTERIZACIÓN
+El Proyecto considera una zona donde se realizarán reparaciones menores a equipos, junto con el lavado
+de chasis y carrocerías de vehículos, y la correspondiente recolección, limpieza y reutilización del agua
+utilizada en dicho lavado. Dichas instalaciones se encontrarán ubicadas al interior de la Planta de
+Procesamiento.
+2.1 Descripción detallada del sistema de tratamiento de los procesos en los que
+se generan los residuos
+Como se mencionó anteriormente, el Proyecto habilitará instalaciones permanentes al interior de la Planta
+de Procesamiento que incluyen un taller de reparaciones menores de equipos y un área para el lavado de
+equipos, maquinaria y/o vehículos. Los vehículos ingresarán al área de lavado, donde mediante el uso de
+agua a presión, proveniente de un estanque de agua, se realizará el lavado de chasis, neumáticos y partes
+principales de cada equipo mediante la utilización de detergentes biodegradables. Este sistema tiene como
+objetivo remover residuos desde ruedas, canoas, radier, pretiles, cubiertas, otros elementos y
+componentes propios de las maquinarias y vehículos.
+En la zona de lavado, se construirá una losa de hormigón, la cual contará con una canaleta central y
+también canaletas laterales en cada uno de sus extremos, con pendiente para la recolección gravitacional
+del agua de lavado.
+Posteriormente, las aguas recolectadas en las canaletas serán conducidas a una piscina de sedimentación
+que estará dividida en 2 zonas: sedimentación y agua pretratada.
+En la zona de sedimentación, debido a la diferencia de densidad de los líquidos y a la gravedad, se
+producirán naturalmente 3 fases: una fase emulsionada en la parte superior (agua con aceites y residuos
+oleosos), una fase de agua en la parte central y una fase sólida en la parte inferior.
+Por su parte, la zona de agua pretratada se comunicará directamente por medio de una abertura en el
+muro separador con la zona de sedimentación, y debido a la gravedad y al efecto “vasos comunicantes”,
+se llenará con agua sin sólidos ni emulsión (agua pretratada).
+La fase emulsionada se porteará por medio de una bomba flotante hacia un estanque secundario donde
+se encuentra un equipo oil skimmer, el que se encargará de separar el agua de los aceites presentes,
+trasvasijando los aceites a un estanque secundario para almacenamiento temporal hasta su retiro por
+terceros autorizados y posteriormente devolviendo y/o recirculando el agua a la zona de agua pretratada.
+2
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Posteriormente, el agua pretratada se trasvasija por medio de una bomba sumergible al sistema de filtrado
+de agua pretratada.
+En el sistema de filtrado el agua pretratada se hace circular por un filtro canasto, el cual separará las
+partículas en suspensión del agua clarificada. El agua resultante será recirculada al estanque de agua de
+lavado, para abastecer nuevamente al lavado de equipos en un 100%. El agua perdida por evaporación y
+por la generación de lodos será repuesta por la red de agua fresca de la planta de procesamiento.
+En cuanto a las condiciones climáticas en el área del Proyecto, se señala que, en caso de precipitaciones,
+las instalaciones contarán con una estructura techada sobre las instalaciones, lo que evita que el agua
+proveniente de las precipitaciones entre al sistema. Además, se indica que los estanques utilizados se
+encuentran cerrados y correctamente aislados por lo que no estarían en contacto con precipitaciones.
+El lodo decantado y la fracción de aceites e hidrocarburos serán recuperados y almacenados como
+residuos peligrosos, para ser enviados temporalmente a la bodega de residuos peligrosos para
+posteriormente ser retirados y llevados a disposición final en un lugar autorizado para este tipo de
+residuos.
+Figura 2-1. Figura esquemática área lavado de equipos
+Fuente: Elaboración Propia, 2024.
+3
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Para mayor detalle, ver Apéndice 10-6.1 correspondiente al plano de planta de disposición general del
+Proyecto.
+2.2 Identificación de unidades que componen cada una de las etapas del
+tratamiento
+Las unidades que componen cada una de las etapas del tratamiento se detallan a continuación:
+• Estanque agua de lavado.
+• Sistema bombeo presurizado.
+• Losa de lavado.
+• Piscina semidecantadora.
+• Bomba emulsionado.
+• Skimmer separador agua/aceite.
+• Estanque para Aceite.
+• Bomba impulsión.
+• Filtro canasto.
+2.3 Diagrama de flujo del sistema de tratamiento (en la que se visualicen los
+puntos de generación, recolección, tratamiento y eliminación
+En los Apéndice 10-6.3 y Apéndice 10-6.4, se adjuntan el plano del diagrama de bloques y diagrama de
+flujos del sistema de tratamiento de efluentes. Sin perjuicio de lo anterior, a continuación, se presenta el
+diagrama de flujo del sistema.
+4
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 2-2 Diagrama de Flujo Tratamiento efluentes
+Fuente: Aclara.
+5
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+2.4 Estimación de cantidad de efluentes y calidad esperada del afluente y del
+efluente tratado
+i. Cantidad de efluentes
+Para estimar el volumen de efluente, se ha considerado el uso durante un día con un flujo volumétrico
+instantáneo de 177 m3/día, la cual se recircula y tiene un make-up de 19 m3/día, equivalente a un 2%
+aproximadamente de la totalidad de agua industrial a suministrar al Proyecto. Se considera una
+recirculación aproximada de agua del orden de 159 m3/día.
+ii. Calidad esperada del afluente y del efluente tratado
+A modo de referencia, se presenta a continuación una caracterización típica de aguas de lavado de
+camiones. No se espera la presencia de contenido microbiológico en las aguas residuales dado el tipo de
+labor que llevarán a cabo los camiones (transporte de arcillas y productos). Cabe señalar, tal como se
+indicará más adelante, que el Proyecto no contempla obras de descarga de efluentes en cuerpos o cursos
+de aguas receptores, superficiales y/o subterráneos. El caudal resultante del sistema de tratamiento se
+reutilizará para lavado de equipos o bien para humectación de caminos y/o frentes de trabajo. No
+obstante, igualmente la calidad esperada del efluente se circunscribirá a los límites establecidos en la
+NCh1333 of78, Norma de calidad parea diferentes usos (Tabla 1 calidad de agua para riego), según se
+indica a continuación:
+6
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 2-1. Parámetros de entrada a la planta de efluentes
+Parámetro Afluente sin tratar Valores de efluente Normativa
+Fuente de
+información
+Unidad Resultado Unidad Resultado
+*Planta de D.S-90 tabla
+Aceites y Grasas (mg/L) mg/l 70 tratamiento de mg/l 50 N°2
+lavado de autos
+Nch 1333 of
+Aluminio (mg/L) mg/l 2,84 RCA N° 4/ 20071 mg/l 5
+78 tabla 1
+Nch 1333 of
+Cobre Total (mg/L) mg/l 0,74 RCA N° 4/ 2007 mg/l 0,2
+78 tabla 1
+EMPRESA D.S-90 tabla
+DBO5 (mg O2/L) mg/l 34 TRANSLOGAM mg/l 300 N°2
+S.A.S.2
+*Planta de D.S-90 tabla
+Hidrocarburos Fijos (mg/L) mg/l 52 tratamiento de mg/l 50 N°2
+lavado de autos
+*Planta de Nch 1333 of
+Manganeso (mg/L) mg/l 0,21 tratamiento de mg/l 0,.2 78 tabla 1
+lavado de autos
+*Planta de D.S-90 tabla
+Sólidos Suspendidos
+mg/l 1200 tratamiento de mg/l 300 N°2
+Totales (mg/L)
+lavado de autos
+D.S-90 tabla
+pH - 7,05 RCA N° 4/ 2007 - 6,0 - 8,5
+N°2
+Fuente: Elaboración propia, 2024.
+1 RCA N° 4/ 2007: Mejoramiento del sistema de tratamiento de riles de la estación de lavado de buses y camionetas de saladillo
+2 diseño de una planta de tratamiento de aguas, para lavado automotor, Empresa TRanslogam
+7
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+3 PLANO DE EMPLAZAMIENTO DEL SISTEMA DE TRATAMIENTO
+El sistema de lavado de camiones y maquinarias se emplazará dentro de la Planta de Procesamiento del
+Proyecto, como se aprecia en la Figura 2-1 y sus coordenadas de ubicación se presentan en la Tabla 3-1.
+Figura 3-1 Área de Sistema de lavado de Camiones y Maquinaria
+Tabla 3-1. Coordenadas Ubicación área sistema de lavado
+Coordenadas UTM (Datum WGS84, Huso 18)
+Instalación Vértice Superficie (ha)
+Este (m) Norte (m)
+1 5.930.166 681.584
+Sistema de lavado de 2 5.930.156 681.571
+0,09
+camiones 3 5.930.126 681.615
+4 5.930.116 681.601
+Fuente: GAC
+En el Apéndice 10-6.2, se adjunta los planos con el detalle de la ubicación de los componentes del sistema
+de tratamiento y la conformación de las principales unidades de tratamiento de residuos líquidos.
+8
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+4 DISEÑO DEL SISTEMA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO
+Y DE LAS UNIDADES Y EQUIPAMIENTO NECESARIO PARA CONDUCIR, TRATAR
+Y DESCARGAR EL EFLUENTE
+El diseño del sistema de tratamiento se detalla en los acápites 2.1 y 2.2 del presente documento.
+4.1 Diagrama de flujo del tratamiento, balance de masa cuando corresponda.
+Diagrama de flujo
+El detalle del diagrama de flujo se presenta en el acápite 2.3 de este documento.
+Balance de Masa
+El detalle del balance de masa se indica a continuación:
+Cálculo inicial
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑝𝑜𝑟 𝑙𝑎𝑣𝑎𝑑𝑜∗𝑁°𝑚á𝑥 𝑑𝑒 𝑙𝑎𝑣𝑎𝑑𝑜𝑠
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 14.700 𝑙∗12
+𝐶𝑜𝑛𝑠𝑢𝑚𝑜 𝑑𝑖𝑎𝑟𝑖𝑜 = 176.400 𝑙 ~ 177 𝑚3
+Cálculo Afluente=Efluente
+Afluente diario = 10% (lodos + evaporación) + 90% (recirculación)
+177 m3 = 17,7m3 (lodos + evaporación) + 159,3m3 (recirculación)
+4.2 Identificación de puntos críticos de generación de olores molestos
+Por la naturaleza de los residuos, este proceso no tiene el potencial de generar olores molestos.
+9
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5 PROGRAMA DE MONITOREO Y CONTROL DE PARÁMETROS OPERACIONALES,
+INCLUYENDO PARÁMETROS CRÍTICOS
+5.1 Descripción del programa de monitoreo, acorde al tipo de tratamiento
+contemplado (cumplimiento norma de emisión o de referencia, según
+corresponda)
+De acuerdo con las especificaciones del sistema de tratamiento de agua o efluente proveniente del lavado
+de maquinaria y vehículos, y en virtud que el caudal tratado será utilizado para recirculación y para
+humectación, su calidad se circunscribirá al cumplimiento de los límites indicados en la Norma Chilena
+NCh N°1333 Of 78, como norma de calidad para agua de riego.
+El monitoreo se realizará semestralmente durante toda la fase de operación del Proyecto.
+5.2 Vías de comunicación
+Los informes con los resultados del monitoreo serán informados a la Superintendencia de Medio Ambiente
+y la Seremi de Salud respectiva.
+6 DESCRIPCIÓN Y GEORREFERENCIACIÓN DE LAS OBRAS O INFRAESTRUCTURA
+DE DESCARGA DE LOS RESIDUOS TRATADOS, SI CORRESPONDE
+No Aplica; el Proyecto no contempla obras de descarga en cuerpos o cursos de aguas continentales, ni
+superficiales ni subterráneas.
+7 DESCRIPCIÓN Y CARACTERIZACIÓN DEL CUERPO RECEPTOR SUPERFICIAL Y/O
+SUBTERRÁNEO, IDENTIFICANDO SUS USOS ACTUALES Y PREVISTOS
+No aplica; el Proyecto no contempla obras de descarga en cuerpos o cursos de aguas receptores
+superficiales y/o subterráneos. El caudal resultante del sistema de tratamiento se reutilizará para lavado
+de equipos o bien para humectación de caminos y/o frentes de trabajo.
+10
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+8 EFECTO ESPERADO DE LA DESCARGA SOBRE EL CUERPO O CURSO RECEPTOR,
+CONSIDERANDO LOS USOS IDENTIFICADOS
+No aplica; el Proyecto no contempla obras de descarga en cuerpos o cursos de aguas receptores
+superficiales y/o subterráneos. El caudal resultante del sistema de tratamiento se reutilizará para lavado
+de equipos o bien para humectación de caminos y/o frentes de trabajo.
+9 PLAN DE MANEJO DE LODOS Y DE CUALQUIER OTRO RESIDUO GENERADO
+Los lodos no tratados serán retirados para su disposición final, directamente desde la piscina decantadora,
+por una empresa externa autorizada para tales fines; el retiro se realizará con una periodicidad aproximada
+de dos veces por mes.
+El lodo será dispuesto en sitios que cuenten con Autorización Sanitaria por parte de la SEREMI de Salud.
+10 PLAN DE CONTINGENCIAS
+El plan de contingencias considera el siguiente procedimiento:
+1. El sistema de tratamiento podría presentar alguna falla, lo cual será alertado el personal a cargo
+al momento de producirse la contingencia.
+2. Una vez alertado el personal responsable, se realizará un seguimiento a la contingencia, para
+poder determinar su causa. Las contingencias más comunes que podrían suceder son: obstrucción;
+falla mecánica; derrames.
+3. El personal responsable de turno informará por vía telefónica, correo electrónico y/o el medio
+digital que se defina como equivalente, de la situación o contingencia presente, interpretando su
+causa detectada, a la Gerencia de la contingencia.
+4. Medidas correctivas, de acuerdo con la contingencia:
+a. Obstrucción:
+• Se procederá a dar aviso al jefe de mantención para coordinar con el Jefe de
+Operaciones la reparación.
+• El Jefe de Operaciones deberá coordinar la reparación del sistema de tratamiento,
+informando el tiempo que estuvo detenido antes de reiniciar su operación.
+b. Falla mecánica:
+• Si la falla implica un cambio total de un repuesto, se solicitará al jefe de operaciones
+su reposición.
+c. Derrames:
+• Antes de proceder con las labores de control del derrame, la brigada de emergencias
+procederá a ponerse el equipo de protección personal adecuado.
+11
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+• Se detendrá el derrame regresando el recipiente a su posición vertical, cerrando una
+válvula o una manguera con fuga o colocando en el lugar un segundo recipiente para
+recuperar el agua de lavado y/o lodo que se esté fugando.
+• Se comenzará la limpieza usando materiales absorbentes sobre la losa para recoger
+los líquidos derramados.
+• Se dispersarán materiales absorbentes sueltos para derrames sobre toda el área del
+derrame, trabajando en círculos desde afuera hacia dentro. Esto disminuirá las
+posibilidades de salpicar o de esparcir el agua derramada.
+Durante los meses de lluvia, la piscina será cubierta con un polietileno de alta densidad, para evitar que el
+agua lluvia se mezcle con el agua residual acumulada en la piscina y genere un eventual derrame. Además,
+en este periodo se revisará constantemente la capacidad de llenado de los sitios de lavado, para evitar un
+potencial desbordamiento.
+Una vez que el agua derramada haya sido absorbida, en los casos de derrames pequeños, se colocará el
+agua con el material absorbente al interior de una bolsa de poliuretano con una escobilla y un recogedor,
+y en los casos de derrames grandes, en un recipiente plástico con tapa de rosca, con revestimiento de
+polietileno.
+11 PLAN DE EMERGENCIAS
+El Plan de Emergencias se enmarca en el Plan de Emergencias presentado en el capítulo 8 del presente EIA
+y está compuesto por una serie de medidas que se activarán en caso de que fallen las acciones preventivas.
+El Plan de Emergencias específico en materia de tratamiento de aguas de lavado entrega las directrices
+para hacer frente a emergencias, además de instruir a los trabajadores y todo el personal de las acciones
+necesarias para minimizar efectos.
+Objetivos
+En lo particular el plan tiene los siguientes objetivos:
+• Salvaguardar la integridad física de los trabajadores y de los habitantes.
+• Proteger el medio ambiente, propiedad, instalaciones y materiales.
+• Restablecer la normalidad en las operaciones, en el menor tiempo posible.
+• Instruir al personal respecto de sus responsabilidades, funciones y atribuciones, en caso de una
+emergencia.
+• Establecer un método de investigación de hechos que puedan generar o generen situaciones de
+emergencia, con el fin de establecer sus causas, controlarlas y eliminarlas.
+12
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Alcance del Plan
+El presente Plan de Emergencias se aplica a todas las actividades que se llevarán a cabo en las obras del
+Proyecto y sus instalaciones, para reaccionar frente a una emergencia generada por el sistema de
+tratamiento de aguas de lavado que puedan afectar a los trabajadores o al medio ambiente.
+Cobertura del Plan
+Este Plan está concebido para ser aplicado en las operaciones del sistema de tratamiento de aguas de
+lavado y las instalaciones circundantes a ellas del Proyecto.
+Responsable del Plan de Emergencias
+El responsable del presente Plan de Emergencias corresponde al encargado de la Brigada de Emergencia
+y tendrá las siguientes responsabilidades:
+• Difundir el presente plan, una vez aprobado, a todo el personal que trabaja en la Planta.
+• Efectuar las gestiones necesarias para la asignación de recursos que permitan la adquisición,
+mantención y operación del material de respuesta.
+• Efectuar las coordinaciones necesarias para lograr la cooperación en caso de algún siniestro de otras
+organizaciones con capacidad de respuesta.
+• Disponer que se ejecuten ejercicios de respuesta ante algún tipo de emergencia.
+• Definir los estándares de capacitación y entrenamientos del personal asignado para la respuesta,
+disponiendo que se lleven a efecto los cursos necesarios para lograr una capacidad eficiente y acorde
+a las políticas de la empresa.
+• Establecer la logística y los medios de la organización, con el fin de satisfacer las necesidades del
+operador del Plan.
+• Poner en ejecución el Plan de Emergencias.
+• Mantener informado al equipo de gerencia.
+En aquellos casos en que la magnitud de la emergencia ocurrida o si la situación lo amerita, se hará
+asesorar por un equipo de especialistas en diferentes áreas, conformado por personal de la misma
+empresa.
+El Plan de Emergencias considera las siguientes acciones:
+• Ante cualquier anormalidad del sistema de tratamiento, cualquier trabajador que la detecte, deberá
+dar aviso inmediato a su supervisor directo.
+13
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-6. PASM 139
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+• El supervisor directo confirmará el hecho y dará aviso inmediato al encargado de la Brigada de
+Emergencia, para que ésta actúe de acuerdo con la emergencia que esté en proceso.
+• El responsable del Plan, tomará medidas inmediatas, tales como: convocar al grupo de respuesta,
+establecer la suspensión de las operaciones, etc.
+• Se dirigirán las acciones de control con los recursos y medios que corresponda y se determinará si la
+emergencia puede afectar o alcanzar los sectores aledaños al sistema de tratamiento.
+• Antes de proceder con las labores de control de la emergencia, el personal encargado de la
+emergencia procederá a ponerse el equipo de protección personal adecuado.
+• Se deberá contener la emergencia lo más pronto posible, de acuerdo a su tipología.
+• Se elaborará el registro del incidente.
+14

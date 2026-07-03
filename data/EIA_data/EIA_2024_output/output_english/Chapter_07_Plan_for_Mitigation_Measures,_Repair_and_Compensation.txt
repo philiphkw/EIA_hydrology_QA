@@ -1,0 +1,3180 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Chapter 7
+Mitigation measures plan,
+repair and compensation
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+7 PLAN OF MITIGATION, REPAIR AND COMPENSATION MEASURES ........................................... 7-1
+7.1 Introduction ................................................................................................................................... 7-1
+7.2 Objective ................................................................................................................................... 7-3
+7.3 Significant Impacts ................................................................................................................ 7-4
+7.3.1 Measurement Plan for the Air Quality Component ........................................................... 7-5
+7.3.2 Measurement Plan for the Flora and Vegetation Component ........................................................... 7-14
+7.3.3 Measurement Plan for the Terrestrial Fauna Component ........................................................... 7-27
+7.3.4 Measurement Plan for the Invertebrate Fauna Component ........................................................... 7-47
+7.3.5 Measurement Plan for the Soil Component ........................................................................... 7-54
+7.3.6 Measurement Plan for the Human Environment Component ................................................... 7-62
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 1-1. Significant Project Impacts ........................................................................................... 7-4
+Table 1-2. Proposed measures for the air quality component ........................................................... 7-5
+Table 1-3. Compensation measure MC-01 Change of folder in 1.6 km of access to the CEMARC Project
+................................................................................................................................................................... 7-6
+Table 1-4. Compensation measure MC-02 Increase in emissions control by 3.5km for highway
+access to CEMARC ....................................................................................................................................... 7-9
+Table 1-5. Compensation measure MC-03 Replacement of heating and cooking equipment that uses
+firewood as fuel ........................................................................................................................... 7-12
+Table 1-6. Proposed measures for the plants component (flora and vegetation)................................... 7-14
+Table 1-7. Mitigation Measure MM-01: Rescue and Relocation of 20 Citronella specimens
+mucronata ........................................................................................................................................... 7-15
+Table 1-8. Specimens of Citronella mucronata to intervene ................................................................... 7-16
+Table 1-9. Compensation measure MC-04: Germplasm Collection, Nursery and Replanting of
+Individuals of Asplenium trilobum, Gardoquia multiflora and Vestia foetida ........................................... 7-19
+Table 1-10. ECC for the enrichment sector. ................................................................................... 7-23
+Table 1-11. MC-04 Activity Schedule ........................................................................................... 7-27
+Table 1-12. Proposed measures for the terrestrial fauna component ................................................... 7-28
+Table 1-13 Mitigation Measure “MM-02 Rescue and Relocation Plan for Vertebrate Fauna” .... 7-29
+Table 1-14. Target species of the rescue and relocation plan for wildlife and the environment of
+registration. ................................................................................................................................................... 7-30
+Table 1-15. General Project Schedule. ....................................................................................... 7-35
+Table 1-16. Project operation phase schedule ....................................................................................... 7-35
+Table 1-17. Mitigation Measure “MM-03 Controlled Disturbance Plan”.................................................. 7-36
+Table 1-18. Target species of the controlled disturbance plan for wildlife and the environment of
+registration ....................................................................................................................................................... 7-36
+Table 1-19. Measure MR-01 Revegetation and Conservation of intervened areas ZD and ZE with vegetation
+native ....................................................................................................................................................... 7-40
+Table 1-20. Operation Phase Schedule ........................................................................................................... 7-42
+Table 1-21. Measure MC-05 Protection of areas surrounding the Project ................................................... 7-43
+Table 1-22. Vertebrate fauna species with conservation category ........................................................... 7-43
+Table 1-23. Compliance indicator ................................................................................................... 7-47
+Table 1-24. Proposed measures for the terrestrial fauna component ................................................... 7-48
+Table 1-25. Mitigation Measure “MM-04 Rescue and Relocation Plan for invertebrate fauna”. 7-49
+Table 1-26. Proposed measures for the soil component ................................................................... 7-55
+Table 1-27. MR-02 Rescue, collection and reuse of soil in the intervened areas. ........................... 7-55
+Table 1-28. MR-03. Improvement of soil properties in the intervened areas. ....................... 7-59
+Table 1-29. Proposed measures for the Human Environment component ........................................................... 7-63
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 1-30. Controlled Access Protocol for GHPPI................................................................................... 7-63
+Table 1-31. MM-06 Information and communication plan with GHPPI ................................................................... 7-67
+Table 1-32. MM-07 Support plan for strengthening cultural practices of the GHPPI ................... 7-70
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 1-1. Asphalt layer implementation section. ............................................................................ 7-7
+Figure 1-2. Sector of implementation of the measure ................................................................................ 7-8
+Figure 1-3. Suppressor application section. ................................................................................................... 7-10
+Figure 1-4. Sector of implementation of the measure ................................................................................... 7-11
+Figure 1-5. Sector of implementation of the measure in receptors 11, 28 and 32 ....................................... 7-13
+Figure 1-6. Distribution of Citronella mucronata specimens to be intervened ...........................................
+7-17
+Figure 1-7. Relocation sector in a ravine northeast of the Area of Influence ................................... 7-18
+Figure 1-8. Distribution of individuals of Gardoquia multiflora to intervene. ............................................ 7-21
+Figure 1-9. Distribution of individuals of Vestia foetida to intervene ................................................................... 7-21
+Figure 1-10. Location of plot in which Asplenium trilobum was recorded to intervene ................................... 7-22
+Figure 1-11. Enrichment sector in a stream northeast of the Area of Influence ................................... 7-23
+Figure 1-12. Rescue areas of low mobility fauna identified in the area of influence ......... 7-32
+Figure 1-13. Relocation area of low mobility fauna in Nonguén National Park...... 7-33
+Figure 1-14. Location of ZE (left) (except ZE Luna) and ZD (right). ............................................................ 7-41
+Figure 1-15. Extraction zone type profile ................................................................................................... 7-42
+Figure 1-16. Ore disposal zone type profile ........................................................................................... 7-42
+Figure 1-17. Areas for protection ........................................................................................................... 7-46
+Figure 1-18. Environments for fauna according to vegetation formation. ....................................... 7-49
+Figure 1-19. Rescue Area (above) and Relocation (below) of low mobility fauna in the Park
+Nonguén National. ................................................................................................................................... 7-51
+Figure 1-20. Project extraction zones (green) ........................................................................... 7-57
+Figure 1-21. Project layout area (gray).................................................................................... 7-57
+Figure 1-22. Vegetable soil collection area (yellow) ................................................................................... 7-58
+Figure 1-23. Project extraction areas ................................................................................................... 7-60
+Figure 1-24. Project layout area ........................................................................................... 7-61
+Figure 1-25. Access control points near ZE Victoria Norte ................................................... 7-64
+Figure 1-26. Location of El Tranque, Los Queules and Penco estuary sectors and herb collection sites
+................................................................................................................................................................... 7-65
+Figure 1-27. Access control points near ZE Victoria Norte ................................................... 7-68
+Figure 1-28. Location of El Tranque, Los Queules and Penco estuary sectors ................................................... 7-69
+Figure 1-29. Access Control Points ................................................................................................ 7-71
+Figure 1-30. Location of El Tranque, Los Queules and Penco estuary sectors ................................................... 7-71
+iv
+==================================================================================
+PAGE 6
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ANNEXES
+Annex 7-1. Analysis of bioequivalence and additionality of compensation measures
+Annex 7-2. Modeling of compensation measures
+Annex 7-3. Biodiversity Compensation Site Characterization
+v
+==================================================================================
+PAGE 7
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7 PLAN OF MITIGATION, REPAIR AND COMPENSATION MEASURES
+7.1 Introduction
+In accordance with the provisions of Law No. 19,300 on General Bases of the Environment (modified by
+Law No. 20,417/10) and article 18 letter i) and article
+or 97 of the D.S. N°40/2012 of the Ministry of the Environment
+Environment, and its modifications, Regulation of the Environmental Impact Assessment System (in
+hereinafter RSEIA), which establish that an Environmental Impact Study must consider a Plan
+of Mitigation, Repair and Compensation Measures that will describe and justify the measures that will be
+will be adopted to eliminate, minimize, repair, restore or compensate, as appropriate and when
+appropriate, the adverse environmental effects of the Project described in Chapter 5 of this EIA.
+Without prejudice to these measures, it is necessary to point out that the Project has considered, as part of the
+design criteria and operating procedures, environmental management measures and standards
+aimed at avoiding and/or controlling non-significant adverse environmental impacts in their different phases
+of execution; The above is reflected in Chapter 1, Project Description. Likewise, in the
+Chapter 13 Voluntary Environmental Commitments of this EIA, a set of actions is presented
+voluntary environmental management, aimed at controlling effects or annoyances towards the community,
+control non-significant impacts and promote or enhance certain benefits expected from the Project.
+In this regard, the aforementioned literal i) of Article 18 of the RSEIA, states, in relation to the contents to be presented
+in preparing an EIA:
+A Mitigation, Repair and Compensation Measures Plan that will describe and justify the
+measures to be taken to eliminate, minimize, repair, restore or compensate for the effects
+adverse environmental consequences of the project or activity described in letter g) of this article. The Plan
+must comply with the provisions of Paragraph 1 of Title VI of this Regulation.
+For its part, paragraph 1 of Title VI of the RSEIA, referring to the Plan of Mitigation, Repair and Measures
+Environmental Compensation, notes:
+Article 97.- Environmental Measures Plan.
+The Plan of Environmental Mitigation, Repair and Compensation Measures of a project or
+activity must contain, where appropriate, one or more of the following plans:
+a) Plan of Environmental Mitigation Measures.
+b) Plan of Environmental Repair Measures.
+c) Environmental Compensation Measures Plan.
+7-1
+==================================================================================
+PAGE 8
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The Plan must contain for each phase of the project or activity the indication of the component
+environmental; the associated environmental impact; the type of measurement; name, objective, description and
+justification of the corresponding measure; place, form and opportunity of implementation; and the
+compliance indicator.
+The sole compliance with the applicable environmental regulations will not necessarily constitute a
+mitigation, reparation or compensation measure.
+For their part, Articles 98, 99 and 100 respectively define the mitigation, repair and
+compensation.
+Article 98.- Environmental mitigation measures.
+The purpose of mitigation measures is to avoid or reduce the adverse effects of the project.
+or activity, whatever its execution phase. They will be expressed in a Plan of Measures
+Environmental Mitigation that must consider at least one of the following measures:
+a) Those that prevent or completely avoid the significant adverse effect, by not
+execution of a work or action, or any of its parts.
+b) Those that minimize or reduce the significant adverse effect, through adequate
+limitation or reduction of the extension, magnitude or duration of the work or action, or of any
+of its parts.
+c) Those that minimize or reduce the significant adverse effect through measures
+technological and/or management considered in the design.
+Article 99.- Environmental repair measures.
+Repair measures are intended to replace one or more of the components or elements
+of the environment to a quality similar to that which it had prior to the impact on said
+component or element or, if this is not possible, restore its basic properties.
+Article 100.- Environmental compensation measures.
+Compensation measures are intended to produce or generate an alternative positive effect
+and equivalent to an effect
+identified adverse event that cannot be mitigated or repaired.
+These measures will include, among others, the replacement of natural resources or elements of the
+environment affected by others of similar characteristics, class, nature, quality and
+function.
+Regarding the places where mitigation and repair measures will be adopted, these will occur in
+areas or places in which significant impacts occur or generate on the elements of the environment
+environment. In the case of compensation measures, they will take place in areas or places where the
+7-2
+==================================================================================
+PAGE 9
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+significant impacts occur or are generated or, if this is not possible, in other areas or places where
+are effective.
+For the purposes of compliance with each measure, the following will be established for each phase of the Project: the
+environmental component, the associated environmental impact, the type of measure, name, objective, description
+and justification of the corresponding measure, place, form and opportunity of implementation, and the indicator
+of compliance.
+The information on each of the measures is presented in card format, to be delivered
+clear, orderly and organized by type of measure and impacted environmental component. This sheet includes
+the following content (as indicated in articles 97 to 100, Title VI of the RSEIA):
+• Measurement name
+• Project Phase (measure application phase)
+• Environmental component to which the measure applies
+• Associated environmental impact
+• Type of measure (mitigation, repair or compensation)
+• Measurement code
+• Objective of the measure
+• Description of the measure
+• Justification of the measure
+• Place of implementation of the measure
+• Measure implementation method
+• Implementation period of the measure
+• Measure compliance indicator.
+Below are the mitigation, repair and/or compensation measures for those
+impacts classified as significant for the Clay Extraction Mining Development Project
+for Production of Rare Earth Concentrate, in accordance with the evaluation defined in Chapter 4 of the
+present EIA: “Prediction and Evaluation of Environmental Impacts”.
+7.2 Objective
+The general objective is to describe the measures that must be adopted to mitigate, repair or compensate,
+as applicable, the adverse environmental effects of the Project evaluated as significant and that
+allow us to take charge of the effects, characteristics and circumstances of article 11 of the LBGM that give
+origin to the presentation of EIA.
+7-3
+==================================================================================
+PAGE 10
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3 Significant Impacts
+According to the detailed analysis of those effects, characteristics or circumstances of article 11 of the
+Law – presented in detail in Chapter 5 of this EIA – it was concluded that the project requires
+enter environmental evaluation by submitting an Environmental Impact Study. It
+above, is based on the fact that the Project generates the effects, characteristics and circumstances indicated
+in article 11 of the Law, specifically, in literal a) of said Law, detailed in article 5 of the
+SEIA Regulations.
+Regarding the above, the identification, prediction and evaluation of environmental impacts, concluded
+that the significant impacts that the Project will cause are presented in the following components:
+Table 7-1. Significant Project Impacts
+Phase Component Impact
+ICA-01: Affectation of human receptors due to increased
+Operation Air quality
+concentration of particulate matter and gases in receptors
+Construction
+Soil ISU-01: Loss of Soil Natural Resource (Soil IV, VI, VIII)
+Operation
+IFV-02 Loss of flora specimens - Asplenium trilobum,
+Construction
+Citronella mucronata, Gardoquia multiflora and Vestia foetida
+Flora and vegetation
+IFV-02 Loss of flora specimens - Gardoquia
+multiflora,
+Operation
+Vestia foetida
+IFA-01 Loss of specimens of fauna of interest and/or sensitive
+- Eupsophus roseus, Liolaemus schroederi, Dromiciops gliroides
+Construction and
+Vertebrate fauna IFA-02 Loss and/or modification of habitat of species of
+Operation
+interest and/or sensitive - Eupsophus roseus, Liolaemus schroederi,
+Dromiciops gliroides, Leopardus guigna, Pudu puda, Puma
+concolor
+Construction and IFI-01 Loss of specimens of fauna of interest and/or sensitive –
+invertebrate fauna
+Operation Phixotrichus scrofa.
+Construction and IFI-02 Loss and/or modification of habitat of species of
+Operation interest and/or sensitive -Phixotrichus scrofa.
+IMH-01 Affectation of the development of cultural practices and
+traditional indigenous organizations along the way
+construction,
+Forest human environment adjacent to Penco estuary due to access restriction
+Operation and Closure
+through installation of vehicle access control points,
+informative signage and surveillance patrols.
+7-4
+==================================================================================
+PAGE 11
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Phase Component Impact
+IMH-03 Restriction of access to natural resources (herbs
+medicinal) used by the GHPPI for medicinal and
+construction,
+cultural events, making it difficult to carry out activities
+Operation and Closure
+cultural and collective interests, by the installation of points of
+access control, informative signage and surveillance patrols.
+Source: GAC
+7.3.1 Measurement Plan for the Air Quality Component
+i. Significant Impacts
+Considering the impact evaluation analysis carried out in Chapter 4 of this EIA, the
+emissions of particulate matter, as a result of the execution of the Project, will generate an impact on the health of
+the population. As a result of the generation of these emissions, the following impact was established
+significant.
+a) ICA-01 Affectation of human receptors due to increased concentration of material
+particulates and gases
+This impact is manifested in an increase in annual concentrations of PM2.5 above the limits
+defined as significant in the guide “Impact of emissions in saturated areas due to particulate matter
+respirable MP10 and respirable fine particulate matter MP2.5”, from the Environmental Assessment Service. The
+contributions considered significant for the annual average of PM2.5, were estimated over three
+receivers that are close to the Project.
+ii. Definition of measurements
+Three measures were defined that allow compensating the contribution, in terms of air quality, over
+the receptors where an impact is estimated (Table 7-2).
+Table 7-2. Proposed measures for the air quality component
+Type of Measure Associated Impact Proposed Measure
+Folder change in 1.6 km shared access
+a CEMARC Project.
+ICA-01 Affectation of receptors
+Increase in emissions control by 3.5 km for
+humans due to increase in
+Compensation shared access path to CEMARC.
+material concentration
+particulates and gases Replacement of heating and kitchen equipment that
+They use firewood as fuel for zero equipment
+emissions.
+Source: GAC
+7-5
+==================================================================================
+PAGE 12
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3.1.1 Compensation Measures
+i. Change of folder in 1.6 km of access to the CEMARC Project
+Table 7-3. Compensation measure MC-01 Change of folder in 1.6 km of access to the CEMARC Project
+MC-01: Change of folder in 1.6 km of access to CEMARC Project
+Name of the
+Change of folder in 1.6 km of access to the CEMARC Project
+measure
+code
+MC-01
+Measurement
+Measurement type Compensation
+Component
+Air quality
+environmental
+Object of
+Population health
+Protection
+Impact ICA-01 Affectation of human receptors due to increased concentration of material
+particulate matter and gases
+Place of
+Operation phase
+occurrence of
+Receivers R_11, R_28 and R_32.
+impact
+Phase of
+Project
+Operation
+occurrence of
+impact
+The objective of the measure is to compensate for the contribution of particular material
+ulate associated with the execution
+Objective of the
+of the Project and that alters the air quality as an annual average of MP2.5 over the
+measure
+recipients where the impact was estimated.
+The compensation measure considers the implementation of an asphalt surface in part of the
+road that will be used by the vehicles of the “Operational Continuity Management Center” Project
+of Concepción Waste”, to access from Route 150 to the Project. The study,
+environmentally approved (CEMARC), considered that the road will be unpaved, with a
+Description of section that will have humidification and a section with application of suppressor so the
+The asphalt paving measure of the shared road will generate a reduction in emissions, for
+increased efficiency with the suppressor, in the transit of CEMARC trucks.
+Figure 7-1 presents the section where the measure will be implemented and the type of measure.
+environmental control approved for the Project “Operational Continuity Center of
+Concepción Waste Management”.
+7-6
+==================================================================================
+PAGE 13
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-01: Change of folder in 1.6 km of access to CEMARC Project
+Figure 7-1. Asphalt layer implementation section.
+Source: GAC
+The change in folder type in the indicated section will generate a reduction in emissions
+environmentally approved Project “Operational Continuity Management Center
+Justification of
+Concepción Waste”, which will reduce the estimated contributions in receptors R_11, R_28 and
+the measure
+R_30, where the impact was defined as significant in the air quality component
+for the annual average of MP2.5.
+Place of The measure will be implemented in a section of approximately 1.6 kilometers, on the road
+implementation used for entry to CEMARC. Figure 7-2 presents the implementation sector of the
+of the asphalt layer measure in the access section to CEMARC.
+7-7
+==================================================================================
+PAGE 14
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-01: Change of folder in 1.6 km of access to CEMARC Project
+Figure 7-2. Measure implementation sector
+Source: GAC
+Form of The measure will be implemented by changing the type of folder in the road section
+indicated implementation, replacing its current quality of unpaved road to a paved road
+of the asphalt measurement.
+Opportunity to
+The measure will be implemented during the construction phase of the Mining Development Project
+implementation
+of Clay Extraction for the Production of Rare Earth Concentrate.
+of the measure
+Indicator The measure will be considered fulfilled once the asphalt layer is implemented
+compliance in the section of approximately 1.6 kilometers prior to access to CEMARC.
+of the measure Measure execution report.
+Source: GAC
+7-8
+==================================================================================
+PAGE 15
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ii. Increase in emissions control by 3.5 km for access road to CEMARC
+Table 7-4. Compensation measure MC-02 Increase in emissions control by 3.5km for access road to CEMARC
+MC-02: Increase in emissions control by 3.5 km for access road to CEMARC
+Name of the
+Increase in emissions control by 3.5 km for access road to CEMARC
+measure
+code
+MC-02
+Measurement
+Measurement type Compensation
+Component
+Air quality
+environmental
+Object of
+Population health
+Protection
+Impact ICA-01 Affectation of human receptors due to increased concentration of material
+particulate matter and gases
+Place of
+Operation phase
+occurrence of
+Receivers R_11, R_28 and R_32.
+impact
+Phase of
+Project
+Operation
+occurrence of
+impact
+Objective of the The objective of the measure is to compensate the
+contribution in terms of air quality as an average
+annual measurement of PM2.5 on the receptors where the impact was estimated.
+The compensation measure considers the application of a material emissions suppressor
+particulate resuspended on part of the road that the Project vehicles will use
+“Operational Continuity of the Concepción Waste Management Center”, to access from
+Route 150 to the Project. The study, environmentally approved, considered that the road
+Description of
+It will be unpaved, with a section that will have humidification and a section with application of
+the measure
+suppressor.
+Figure 7-3 presents the section where the measure will be implemented and the type of measure.
+environmental control approved for the Project “Operational Continuity Center of
+Concepción Waste Management”.
+7-9
+==================================================================================
+PAGE 16
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-02: Increase in emissions control by 3.5 km for access road to CEMARC
+Figure 7-3. Suppressor application section.
+Source: GAC
+The application of suppressor in the indicated section will generate a reduction in emissions
+environmentally approved Project “Operational Continuity Management Center
+Justification of Design Waste” (which considers water as a control measure that which has the least
+the measure efficiency than the suppressor), which will reduce the contributions estimated in the R_11 receptors,
+R_28 and R_30, where the impact was defined as significant in the quality component of the
+air for the annual average of MP2.5.
+Place of The measure will be implemented in a section of approximately 3.5 kilometers, on the road
+implementation used for entry to CEMARC. Figure 7-4 presents the suppressor application sector
+of the measure in the access section to CEMARC.
+7-10
+==================================================================================
+PAGE 17
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-02: Increase in emissions control by 3.5 km for access road to CEMARC
+Figure 7-4. Measure implementation sector
+Source: GAC
+Form of The measure will be implemented first with the preparation of the rolling folder, to
+implementation subsequently apply the suppressor. The application of the suppressor will follow the application protocol
+of the measure indicated in Annex 1-4.
+Opportunity to
+The measure will be implemented during the construction of the Mining Development Project of
+implementation
+Extraction of Clays for the Production of Rare Earth Concentrate.
+of the measure
+Indicator
+The measure will be deemed fulfilled with the records that allow verification of the application of the
+compliance
+suppressor following the application protocol indicated in Annex 1-4.
+of the measure
+Source: GAC
+7-11
+==================================================================================
+PAGE 18
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+iii. Replacement of heating equipment and stoves that use wood as fuel
+by zero emission equipment
+Table 7-5. Compensation measure MC-03 Replacement of heating and cooking equipment that uses firewood as
+fuel
+MC-03: Replacement of heating equipment and stoves that use wood as fuel.
+Name of the
+Replacement of heating equipment and stoves that use wood as fuel.
+measure
+code
+MC-03
+Measurement
+Measurement type Compensation
+Component
+Air quality
+environmental
+Object of
+Population health
+Protection
+Impact ICA-01 Affectation of human receptors due to increased concentration of material
+particulate matter and gases
+Place of
+Operation phase
+occurrence of
+Receivers R11, R28 and R32.
+impact
+Phase of
+Project
+Operation
+occurrence of
+impact
+Objective of the The objective of the measure is to compensate the contribution in terms of air quality as an average
+annual measurement of MP2.5
+on the receptors where the impact was estimated.
+The compensation measure considers the replacement of heating and cooking equipment, which
+Description of
+They use firewood as fuel, for heaters and electric stoves. The Project will take over
+the measure
+of all costs involved during its duration.
+The replacement of heating and cooking equipment, which uses wood as fuel, will allow
+reduce emissions generated by burning wood. The combustion of wood generates
+important contributions to the concentrations of particulate matter inside homes
+(intra-domiciliary pollution) and in its immediate surroundings, a contribution that is reduced in its
+Justification of
+completely when replacing the type of heater and stove. As concluded in Annex 5-1 Evaluation
+the measure
+environmental risk to the health of the population, in a conservative scenario of reduction of
+concentrations of PM2.5 when applying the measure to replace wood-burning stoves/stoves,
+would generate a health protection effect for these receptors, since both for exposure
+Chronic as well as acute exposure reduces exposure beyond the baseline situation.
+7-12
+==================================================================================
+PAGE 19
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-03: Replacement of heating equipment and stoves that use wood as fuel.
+The measure to replace heaters and stoves that use wood as fuel will be
+implemented in homes identified as R11, R28 and R32. Which correspond to the
+receptors for which a significant impact was determined.
+Figure 7-5. Implementation sector of the measure in receptors 11, 28 and 32
+Place of
+implementation
+of the measure
+Source: GAC
+The measure will be implemented by replacing equipment that uses firewood as fuel
+Form from the three homes identified as R11, R28 and R32. The retired equipment will be
+implementation replaced by new electrical equipment of similar performance. The Owner will seek the
+of the measure access to electrical energy for homes and will contribute to its cost for the operation of
+the teams.
+Opportunity The measure will be implemented prior to the start of the operation phase of the Project. In fact, in
+Implementation Annex 16.1 of the EIA presents the relationship agreements between the owners of the
+of the measure three homes and the Owner that support the execution of this measure.
+Indicator of The measure will be understood to have been fulfilled with the certificates of removal of the heating equipment and
+compliance with stoves that use wood as fuel from the three homes, and the subsequent installation and
+of the measurement verification of operation of all corresponding heating and cooking appliances.
+Source: GAC
+7-13
+==================================================================================
+PAGE 20
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3.2 Measurement Plan for the Flora and Vegetation Component
+i. Significant Impacts
+Considering the impact evaluation analysis carried out in Chapter 4 of this EIA, the activity
+Vegetation clearance is the main action that generates impacts on the flora and vegetation component.
+As a result of this activity, the following significant impacts were established:
+a) IFV-02 Loss of flora specimens
+This impact is manifested by the activities of clearing vegetation in natural environments and
+intervened, resulting in the loss of flora specimens due to the materialization of the Project.
+ii. Definition of measurements
+Considering what the guide for biodiversity compensation in the SEIA indicates (SEA, 2023), it is
+It is necessary to identify a hierarchy of measures and appropriate compensation. The hierarchy starts, in
+to the extent possible, promoting the generation of mitigation measures that aim to avoid
+or reduce the adverse effects, secondly, generate reparation measures that are intended
+fine
+ity to replenish one or more of the components or elements of the environment to a quality similar to
+the one they had prior to the impact (in this case it cannot be repaired since the project works
+are permanent), and, thirdly, generate compensation measures that are intended to produce
+or generate an alternative positive effect equivalent to an identified adverse effect, which is not possible
+mitigate or repair.
+Based on the aforementioned hierarchy and the significant impacts identified, the following are proposed:
+following measures:
+Table 7-6. Proposed measures for the plant component (flora and vegetation)
+Type of Measure Associated Impact Proposed Measure
+MM-01 Rescue and Relocation of 20 specimens
+Mitigation
+Citronella mucronata
+IFV-02 Loss of copies of
+MC-02 Germplasm collection, nursery and
+flora
+Replanting compensation of individuals of Vestia foetida, Gardoquia
+multiflora and Asplenium trilobum.
+Source: GAC
+In accordance with the above, the measure on the specimens of Citronella mucronata (naranjillo)
+corresponds to a mitigation, because the individuals will be relocated from the area of influence
+to avoid the impact on said entities. On the other hand, the measure of replanting of individuals
+corresponds to a compensation measure and considers species with environmental uniqueness.
+7-14
+==================================================================================
+PAGE 21
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The offset measure must meet an appropriate biodiversity offset standard,
+considering the variables indicated in the guide for biodiversity compensation in the SEIA (SEA,
+2023), which are mentioned below:
+• Equivalence: Refers to the fundamental objective of appropriate compensation, which seeks to ensure
+the elements of biodiversity affected by a project or activity are compensated in
+land by elements of similar characteristics, class, nature, quality and function.
+• Additionality: Refers to the biodiversity gain obtained in the scenario with
+compensation, compared to the scenario without compensation. This means checking that the
+gain in biodiversity produced by the compensation measure would not have occurred in
+absence of the measure, as well as verifying that the implementation of the compensation measure
+does not cause adverse impacts, such as the displacement of activities that generate losses
+of biodiversity to other sectors.
+Annex 7-1 “Analysis of bioequivalence and additionality of compensation measures” presents
+the details of the application of the SEA Biodiversity Compensation Guide.
+7.3.2.1 Mitigation Measures
+Mitigation refers to the action of mitigating impacts on the resource, providing alternatives.
+to reduce the possible impacts produced by the Project works that, in some cases, given the
+nature of this, exceed the possibility of prevention.
+iii. Rescue and Relocation of 20 specimens of Citronella mucronata
+Table 7-7. Mitigation measure MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+Name of the
+Rescue and Relocation of 20 specimens of Citronella mucronata
+measure
+code
+MM-01
+Measurement
+Type of measure Mitigation
+Component
+Flora and Vegetation
+environmental
+Object of
+Flora in conservation category
+Protection
+IFV-02 Impact. Loss of flora specimens in the construction phase, corresponding to 20
+environmental specimens of Citronella mucronata.
+7-15
+==================================================================================
+PAGE 22
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+Construction Phase Location IFV-02
+occurrence of ZD Neptuno: 14 specimens of Citronella mucronata.
+impact Plant Soil Collection Area (ZAV): six (6) specimens of Citronella mucronata
+Phase of
+Project
+Construction
+occurrence of
+im
+pact
+The objective of the measure is to mitigate the loss of individuals of species in the category of
+conservation in threat level due to the implementation of the parts, works and actions
+of the Project, through the rescue and relocation of specimens of Citronella mucronata that
+will be intervened and that are located within intervened environments corresponding to
+Objective of the
+forest plantations of Eucalyptus globulus and wild forest of Pinus radiata, with the
+measure
+purpose of minimizing the numerical intervention of isolated individuals of species in
+conservation category (ECC), which are part of a matrix of plantations and forests
+feral forests, which due to historical use have been damaged and cut by the action of clear felling
+of the local forest plantations.
+This mitigation measure considers the relocation, in a 1:5 ratio, of the
+Citronella mucronata specimens subject to intervention by pruning. This proportion
+Its purpose is to increase the population N, since the mortality rate for the species is
+60% (Colbun, 2018), and in this way the 20 individuals affected by the project are assured
+and a gain of 20 more individuals is obtained.
+These specimens are located within units of forest plantations and forests.
+feral, for which there is no intervention of native forest preservation. In the next
+The table shows the coordinates of the specimens to be intervened.
+Table 7-8. Specimens of Citronella mucronata to intervene
+Coordinates
+Description of Exemplar1 Environmental Work (UTM, WGS 84 18S)
+the East North measure
+657 ZD Neptuno Feral forest of Pinus radiata 679,845 5,929,560
+659 ZD Neptuno Feral forest of Pinus radiata 679,814 5,929,614
+672 ZD Neptuno Feral forest of Pinus radiata 679,864 5,929,725
+747 ZD Neptuno Feral forest of Pinus radiata 679,844 5,929,714
+748 ZD Neptuno Feral forest of Pinus radiata 679,800 5,929,546
+660 ZD Neptuno Eucalyptus globulus plantation 679,890 5,929,557
+661 ZD Neptuno Eucalyptus globulus plantation 679,884 5,929,571
+662 ZD Neptuno Eucalyptus globulus plantation 679,898 5,929,584
+605 ZD Neptuno Eucalyptus globulus plantation 679,759 5,929,642
+606 ZD Neptuno Eucalyptus globulus plantation 679,750 5,929,654
+809 ZD Neptuno Eucalyptus globulus plantation 679,781 5,929,813
+818 ZAV Eucalyptus globulus plantation 680,601 5,929,463
+7-16
+==================================================================================
+PAGE 23
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+819 ZAV Eucalyptus globulus plantation 680,588 5,929,469
+820 ZAV Eucalyptus globulus plantation 680,570 5,929,508
+821 ZAV Eucalyptus globulus plantation 680,578 5,929,470
+822 ZAV Eucalyptus globulus plantation 680,567 5,929,503
+785 ZAV Eucalyptus globulus plantation 680,589 5,929,450
+658 ZD Neptuno Eucalyptus globulus plantation 680,168 5,929,656
+663 ZD Neptuno Eucalyptus globulus plantation 680,168 5,929,656
+673 ZD Neptuno Eucalyptus globulus plantation 680,180 5,929,651
+1 correlative number used to identify individuals in microrouting.
+Source: GAC
+In the following figure you can see the distribution of the Citronella specimens
+mucronata to intervene.
+Figure 7-6. Distribution of Citronella mucronata specimens to intervene
+Source: GAC
+The transfer of individuals or their strains (conditioned by their physiognomy) is
+based on the context that Citronella mucronata (naranjillo) is a species that
+Justification: It has a great capacity for regrowth, which facilitates the survival of the strain, so that
+the measure with subsequent silvicultural practices modify the resulting architecture. This action makes it possible
+the conservation of the genetic base of the intervened population.
+7-17
+==================================================================================
+PAGE 24
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-01: Rescue and Relocation of 20 e
+Citronella mucronata specimens
+It is contemplated to relocate the vines to a nearby place, preferably in the area of influence
+of the Project, which meets the habitat conditions that allow survival and growth
+of the relocated specimens, in addition to their permanent monitoring to take measures
+corrective measures required if necessary.
+The place where the relocation measure will be carried out corresponds to an area located at the
+northeast of the Area of Influence, specifically in the native preservation forest sector,
+in microsites that have the conditions for the survival of the specimens (4.90 ha). In
+The following figure shows the location of the native preservation forest, place of
+implementation of the transfer of Citronella mucronata.
+Figure 7-7. Relocation sector in a ravine northeast of the Area of Influence
+Place of
+implementation
+of the measure
+Source: GAC
+It is proposed to transfer the 20 strains of Citronella mucronata specimens
+intervened in the already mentioned native preservation forest. This is based on the fact that, being
+conditioned by pruning, its stock will be available to be dug up and disposed
+in a container (for example, drum, maxi bag or similar), and then transfer it to a
+Form of definitive place where it will be conditioned to stimulate the growth of sprouts. The
+exemplary implementation, after their transfer a biweekly monitoring program will be applied during
+of the measure for the first two months and subsequently monthly for three years. The relocation of the
+20 specimens will be made in a nearby place that meets the conditions for survival
+of the strains and allow easy access to carry out the necessary care and monitoring. This
+place corresponds to the native preservation forest located in a ravine northeast of the
+Area of Influence.
+7-18
+==================================================================================
+PAGE 25
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+With the leftover pruning material, a propagation test will be established with material
+vegetative in order to contribute to the knowledge of the propagation of the species and also have
+material of the individuals intervened to comply with the measure while maintaining the base
+genetics of the affected population.
+The rescue and relocation activities of the 20 specimens of Citronella mucronata are
+Opportunity to
+will carry out, during the winter and/or spring seasons of the first year of the Project,
+implementation
+prior to the construction of the ZD Neptuno and ZAV works that involve the specimens of
+of the measure
+naranjillo.
+The measure will be considered fulfilled if, in the second year of relocation, 20 specimens of
+Indicator
+Citronella mucronata are alive. If there is mortality, the owner undertakes to
+compliance
+plant 5 individuals for each dead specimen (1:5) with a survival of 100% to the eighth
+of the measure
+year of the project.
+Source: GAC
+7.3.2.2 Compensation Measures
+i. Germplasm collection, nurseryization and replanting of Asplenium individuals
+trilobum, Gardoquia multiflora and Vestia foetida
+Table 7-9. Compensation Measure MC-04: Germplasm Collection, Nursery and Replanting of Individuals
+Asplenium trilobum, Gardoquia multiflora and Vestia foetida
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+Name of the Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum,
+Measure Gardoquia multiflora and Vestia foetida
+code
+MC-04
+Measurement
+Type of Measurement Compensation
+Component
+Flora and Vegetation
+Environmental
+Object of
+Flora in conservation category
+Protection
+IFV-02 Impact. Loss of flora specimens in the construction and operation phase, corresponding
+Environmental to a total of 299 specimens of species in the conservation category.
+IFV-02 construction phase
+ZD Neptuno, Processing plant, Existing roads with modification, Roads
+Place of
+projected and Vegetable Soil Collection Area (ZAV)
+occurrence of
+impact
+Operation phase IFV-02
+Modification of the ENAP (Bypass) and ZE Maite pipeline layout
+7-19
+====================
+==============================================================
+PAGE 26
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+Phase of
+Project
+Construction and Operation
+occurrence of
+impact
+Objective: Compensate for the loss of flora in the conservation category as a result of the implementation
+Measurement of the parts, works and actions of the Project.
+The measure consists of the collection of germplasm, nursery and planting of 510 specimens
+of Gardoquia multiflora and 2,480 specimens of Vestia foetida. This figure corresponds to ten
+times the number of individuals that will be intervened by the construction of the works of the
+Project. The location of the individuals of these two species can be seen in Figures 7-8 and
+Figure 7-9.
+For this, the generation of individuals of Species with Conservation Category is contemplated.
+(ECC) from local seed collection, in addition to obtaining vegetative material
+of non-lignified branches (cuttings) of individuals phenotypically selected for their
+eventual rooting.
+On the other hand, given the lack of formal antecedents regarding cultural measures
+Description of
+optimal for the establishment of the species of interest (ECC), the execution of
+the measure
+adaptive management practices that, depending on the results obtained in each sector
+planted, incorporate successful practices in the seasons following said planting.
+Given the particularity of the reproduction, in the case of Asplenium trilobum, and considering
+the state of the art of native fern propagation, rescue and relocation is proposed
+of the individuals found in the ZD Neptuno work (see Figure 7-10), considering the
+extraction of the rhizome as complete as possible, along with the substrate that contains it. Your
+Transfer will be carried out in conditions of cold and relative humidity suitable for their survival.
+The installation of maintenance and propagation trials of these individuals is contemplated in
+controlled climate conditions. The above will be carried out by a scientific institution of
+recognized prestige.
+7-20
+==================================================================================
+PAGE 27
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-8. Distribution of individuals of Gardoquia multiflora to intervene.
+Source: GAC
+Figure 7-9. Distribution of Vestia foetida individuals to intervene
+Source: GAC
+7-21
+==================================================================================
+PAGE 28
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+Figure 7-10. Location of plot in which Asplenium trilobum was recorded to intervene
+Source: GAC
+Product of the implementation of the parts, works and actions of the Project in the phases of
+construction and operation, 51 specimens of Gardoquia multiflora and 248
+specimens of Vestia foetida.
+Justification of
+the Measure In this way, the measure seeks to compensate the intervention of three (3) species in category
+of conservation, replanting an amount ten times greater than that cut due to development
+of the Project, contributing to the increase in the number of ECC individuals. This plantation is
+will be carried out in the site adjacent to that of measure MM-01.
+The place where the ECC plantation will be carried out corresponds to the native preservation forest
+of measure MM-01 and the area surrounding it, located northeast of the area of influence. This area
+Lugar de is composed of a sector of native preservation forest (4.90 ha) and a matrix of
+Implemented adjacent forest plantations (8.15 ha), in order to protect the revegetation with
+n of the Measure Gardoquia mul
+tiflora and Vestia foetida and evaluate whether the plantation microsites offer
+conditions for the survival and growth of these species. In the following figure
+presents the location of the enrichment area.
+7-22
+==================================================================================
+PAGE 29
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+Figure 7-11. Enrichment sector in a stream northeast of the Area of Influence
+Source: GAC
+The characterization of the compensation site is present in Annex 7-3.
+The number of ECC specimens to be planted was calculated from the individuals to be intervened per
+the works of the Project of the species Gardoquia multiflora (51 specimens) and Vestia foetida (248
+specimens) in a ratio of 1:10 for these last two species.
+In this regard, it is considered to plant 2,990 specimens considering the following distribution in the
+enrichment sector.
+- 2:3 in native preservation forest (4.90 ha).
+- 1:3 in the matrix of adjacent forest plantations (8.15 ha).
+Shape of
+The following table shows the number of ECC individuals to be planted in this sector of
+Implementation
+enrichment.
+of the Measure
+Table 7-10. ECC for the enrichment sector.
+Total number of individuals
+Species
+Preservation native forest Forest plantations
+Gardochia multiflora 340 170
+Vestia foetida 1,653 827
+Total 1,993 997
+Source: GAC
+7-23
+==================================================================================
+PAGE 30
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+In accordance with the name of the measure, the implementation method consists of three (3)
+phases or activities: germplasm collection, nursery and planting, which are described below.
+continuation.
+Germplasm collection:
+The generation of individuals is contemplated from the local collection of seeds, in addition, from the
+obtaining vegetative material from non-lignified branches (cuttings) of selected individuals
+phenotypically for eventual rooting, coming from the local population, that is,
+of the area of influence of flora and vegetation of the Project and its surroundings.
+Depending on the type of propagule in question (part of the plant capable of developing
+separately to give rise to a new organism identical to the one that formed it), the collection is
+will be carried out in the appropriate season according to the phenology of the species, to present its
+occurrence and quality suitable for collection.
+- Fruits/Seeds: The collection will be carried out in the period between the months of
+February and May.
+- Stakes: Stakes of around 20 cm long will be collected from shoots.
+new ones corresponding to the growth of the period. Different campaigns will be carried out
+collection, starting from mid-spring to late summer.
+The accessions will be carried out by trained personnel, who will use tools of
+cut in good condition, mainly pruning and/or chiming shears, which will be found
+properly cleaned and will be disinfected with alcohol prior to taking each sample,
+Trying to make clean cuts so as not to cause damage to the mother tree.
+A record sheet will be prepared for each sample, where the following information will be collected:
+information:
+- Sample type
+- Date of sample collection
+- Location point, in UTM WGS 84 18S coordinates
+- Collector name
+- State of development of the individual
+- Health status
+- Vigor
+- Photographic record
+A database will be created of the sampling campaigns carried out and
+Each sample will be duly labeled with an identifier that allows having a
+traceability of it, for subsequent activities associated with the measure.
+The total amount of propagules to be collected must be at least triple the commitment in
+in the case of seeds and fivefold in the case of cuttings and the necessary corms. The objective is
+that at the time of planting there is adequate production that allows compliance
+7-24
+==================================================================================
+PAGE 31
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+with the 2,990 copies of ECC, keeping the rest as a safeguard to carry out
+the plantation.
+Nursery:
+For this stage, an appropriate infrastructure will be created that allows carrying out the
+treatment required to propagate the collected material or an agreement will be established
+with a nursery in the area that can carry out the work according to the methodology that
+detailed below. This infrastructure will be in operation prior to the moment of
+initiate germplasm collection campaigns.
+At this stage, it is proposed to study methodologies to increase the germination of material.
+coming from collected fruits, with different stratification treatments and
+scarification. The fruits will be characterized in terms of size, maturity and origin of
+way to evaluate the effect of any of these variables on germination under conditions
+nursery. In the nursery, different substrates and containers will be tested in order to select
+the most suitable combination to obtain plants that can be planted in
+field. The plant quality indices will be characterized (slenderness index, stem root index and
+Dickson index).
+In general, it is expected that the plants, arranged in planting bags, will be
+kept in the nursery for two (2) years, a period after which it will be decided if they are
+in condition to be taken to the plantation areas. This decision will be determined by
+the observed growth and vigor of the individuals produced in the nursery. If considered
+insufficient, individuals will require an additional year (1) of maintenance.
+Planting:
+Planting should ideally be done in late autumn or early winter. to take away
+To carry out this activity, the following general measures will be considered.
+Throughout the area of execution of the measure, access will be blocked to prevent the entry of
+herbivores such as horses, goats, cattle and sheep; and from people outside the Project, with the
+objective of improving the conditions of establishment and survival of the specimens. The
+measure must allow or facilitate the transit of local fauna.
+Avoid touching, as far as possible, the native vegetation present, favoring the
+establishment of the plants under the protection of bushes, so that an effect is generated
+wet nurse The preparation of this anodization will be carried out individually in order to affect
+the surrounding vegetation as little as possible. The planting will be done depending on the existence of
+microsites suitable for the development of the species of interest.
+The land will be prepared in order to decompact and increase the capacity.
+of infiltration, through individual preparation of the boxes. It will be done through
+manual excavation of an approximate dimension of 50x50x50 cm, with an improvement of the substrate,
+which contemplates the addition of land from sectors in which the
+species. The above, with the aim of eventually providing natural inoculums that
+7-25
+==================================================================================
+PAGE 32
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+contribute to the best establishment of the specimens. In them the substrate will be decompressed
+and a mixture will be made composed, preferably, of 10% of plant material and 90% of the
+box substrate.
+One day before planting, the empty boxes will be flooded with water to encourage
+soil infiltration and decompaction. Then the plant will be placed inside the box.
+remaining below the level of the ground surface and subsequent work will be carried out to
+form a cup around the plant. The excess substrate will be spread around the box.
+At the time of planting, an establishment irrigation consisting of 5 liters per
+plant. The irrigation frequency will be biweekly in autumn and spring, and weekly in summer. If
+Apply an amount between 5 to 8 liters/plant each time, during the first two (2) years. Then
+After the first two (2) years of irrigation of the plantation, an attempt will be made to acclimatize it to the
+individuals to local environmental conditions, from the third to the fifth year. For
+This is considered a decreasing irrigation program in volume and frequency during the two (2)
+subsequent years, watering at the end of the process (fifth year) only in case of risks of
+mortality and state of the plants and finally eliminating it completely. This program
+will be subject to the evaluation and monitoring of the climatic situation prevailing in the areas of
+plantation.
+In order to avoid attack by lagomorphs and damage by herbivory, additional provisions will be made.
+individual protections around each plant, which will be mesh or, failing that,
+polypropylene with Anti-UV treatment, attached to a stake using wires, 0.6 m long.
+high. In a complementary manner, and if necessary, a control plan will be implemented.
+lagomorphs, which will exclude chemical control.
+Maintenance of the plantation will be carried out during the five (5) years after its execution,
+where the individual protections and the irrigation system will be reviewed, if any
+problem or deterioration, the repair will proceed.
+In addition, there will be a control by manual elimination and subsequent management of the presence of
+invasive species such as: Acacia dealbata, Acacia saligna, Pinus radiata, Rubus ulmifolius
+and Rosa rubiginosa, to avoid competition with natural vegetation and favor niches
+regeneration of native components.
+In the event of mortality of individuals during the two (2) years following the
+plantation, these should be replanted during the fall/winter/spring season
+following, in order to maintain the initial ECC number corresponding to 2,990 copies
+in the enrichment sector.
+The implementation of adaptive management practices is proposed that, depending on the results
+obtained in each planted sector, incorporate successful practices in the seasons
+after planting. The following table presents a schedule of activities
+MC-01.
+7-26
+==================================================================================
+PAGE 33
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum, Gardoquia
+multiflora and Vestia foetida
+Table 7-11. MC-04 Activity Schedule
+Year
+Activity 1 2 3 4 5 6 7 8
+T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3 T1 T2 T3
+seed collection
+Stake collection
+Nursery*
+Access blocking
+Box for planting and/or rubbing
+Irrigation system installation
+Substrate preparation
+Plantation**
+Irrigation***
+Replant
+Maintenance
+T1-T2-T3: They correspond to quarters. (*): If development in the nursery for two (2) years is considered insufficient, the individuals
+will require an additional year of maintenance. (**): Planting considers individual protection, flooding of squares one day before
+planting and establishment irrigation. (***): Decreasing irrigation from the sixth year of the measure.
+Source: GAC
+The measure will be implemented from the first year of the Project, where the
+established seasons for germplasm collection and nurseryization in its first stage,
+Opportunity to
+and from the third year of project development the plantation. This term is
+implementation
+conditioned to the results obtained in the previous stages, given that the plantation
+n of measurement
+will be carried out once the individuals present a minimum development for their establishment
+safe at planting sites.
+The measure will be considered fulfilled if, after the fifth year of maintenance and
+there is 75% of
+Survival indicator of the initial number of ECC planted (2,990)
+compliance In the case of the maintenance and propagation test of Asplenium trilobum individuals, the
+of the measure measured will be understood as fulfilled with the publication and/or dissemination of its results.
+Source: GAC
+7.3.3 Measurement Plan for the Terrestrial Fauna Component
+i. Significant Impacts
+Considering the impact evaluation analysis carried out in Chapter 4 of this EIA, the activity
+Vegetation clearance is the main action that generates impacts on the flora and vegetation component.
+As a result of this activity, the following significant impacts were established:
+a) IFA-01 Loss of specimens of fauna of interest and/or sensitive
+This impact may occur for all three phases of the Project (Construction, Operation and Closure).
+7-27
+==================================================================================
+PAGE 34
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+b) IFA-02 Loss and/or modification of habitat of species of interest and/or sensitive
+It corresponds to the significant modification of the conditions and resources necessary for the existence of
+native species, as a consequence of the total removal of the soil and its vegetation and/or changes in the
+places that pass through. The concept of habitat is usually used to refer to a sector of space that
+meets certain conditions that allow the existence of some species, but not others (Construction
+and Operation).
+ii. Definition of measurements
+Considering what the guide for biodiversity compensation in the SEIA indicates (SEA, 2014), it is
+It is necessary to identify a hierarchy of measures and appropriate compensation. The hierarchy starts, in
+to the extent possible, promoting the generation of mitigation measures that aim to avoid
+or reduce the adverse effects, secondly, generate reparation measures that are intended
+purpose to replenish one or more of the components or elements of the environment to a quality similar to
+the one they had prior to the impact and, thirdly, generate compensation measures that have
+for its purpose to produce or generate an alternative positive effect equivalent to an adverse effect
+identified, which cannot be mitigated or repaired.
+Based on the aforementioned hierarchy and the significant impacts identified, the following are proposed:
+following measures:
+Table 7-12. Proposed measures for the terrestrial fauna component
+Type of Measure Associated Impact Proposed Measure
+IFA-01. Loss of specimens of interest
+MM-02 Rescue and Relocation Plan
+and/or sensitive
+Mitigation
+IFA-01. Loss of specimens of interest
+MM-03 Controlled Disturbance Plan
+and/or sensitive
+IFA-02. Loss and/or modification of
+MR-01 Revegetation and Conservation of areas
+Habitat repair of species of interest and/or
+intervened ZD and ZE with native vegetation
+sensitive
+IFA-02. Loss and/or modification of
+Habitat compensation for species of interest and/or MC-05 Protection of areas surrounding the Project
+sensitive
+Source: GAC
+The offset measure must meet an appropriate biodiversity offset standard,
+considering the variables indicated in the guide for biodiversity compensation in the SEIA (SEA,
+2014), which are mentioned below:
+• Equivalence: Refers to the fundamental objective of appropriate compensation, which seeks to ensure that
+elements of biodiversity affected by a project or activity are compensated on the ground
+by elements of similar characteristics, class, nature, quality and function.
+7-28
+==================================================================================
+PAGE 35
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Additionality: Refers to the biodiversity gain obtained in the scenario with
+compensation, compared to the scenario without compensation. This means checking that the
+gain in biodiversity produced by the compensation measure would not have occurred in
+absence of the measure, as well as verifying that the implementation of the measure
+compensation
+does not cause adverse impacts, such as the displacement of activities that generate losses
+of biodiversity to other sectors.
+Annex 7-1 “Analysis of bioequivalence and additionality of compensation measures” presents
+the details of the application of the SEA Biodiversity Compensation Guide.
+7.3.3.1 Mitigation Measures
+Mitigation refers to the action of mitigating impacts on the resource, providing alternatives.
+to reduce the possible impacts produced by the Project works that, in some cases, given the
+nature of this, exceed the possibility of prevention.
+Yo. Rescue and relocation plan
+Table 7-13 Mitigation Measure “MM-02 Rescue and Relocation Plan for Vertebrate Fauna”
+MM-02 Rescue and Relocation Plan
+Name of the
+Rescue and Relocation Plan for Vertebrate Fauna
+measure
+code
+MM-02
+Measurement
+Type of measure Mitigation
+Component
+Terrestrial Vertebrate Fauna
+environmental
+Low Mobility Species: Pleurodema thaul (four-eyed toad), Eupsophus roseus (frog
+rosacea), Liolaemus schroederi (Schröeder's lizard), Liolaemus cyanogaster (Schröeder's lizard
+blue-bellied object), Liolaemus lemniscatus (lemniscata lizard), Liolaemus tenuis (slender lizard),
+Protection Liolaemus chiliensis (Chilean lizard), Liolaemus pictus (painted lizard), Dromiciops gliroides
+(monito del monte), Oligoryzomys longicaudatus (long-tailed mouse), Abrothrix longipilis (mouse
+bicolor woolly mouse) and Abrothrix olivaceus (olive mouse).
+IFA-01 Impact. Loss of specimens of fauna of interest and/or sensitive - Amphibians, Reptiles and
+environmental Micromammals
+In the area of influence of the Project, four environments for fauna called
+Place of
+“forest”, “shrubland”, “modified” and “plantation” (Chapter 03. Section B. Baseline of
+occurrence of
+Terrestrial Vertebrate Fauna). The following table shows the environments in which they were
+impact
+registered target species.
+7-29
+==================================================================================
+PAGE 36
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-02 Rescue and Relocation Plan
+Table 7-14. Target species of the wildlife rescue and relocation plan and the
+registration environment.
+Species Fauna environments
+and
+yes
+to
+lC Forest Shrub Modified Plantation
+Scientific name Common name
+a Rosacea frog
+ib
+ih
+Eupsophus roseus
+leaf litter
+- - X X
+p
+m Pleurodema thaul Four-eyed toad - - - X
+A
+Liolaemus schroederi Schröeder's lizard - X X
+belly lizard
+Liolaemus cyanogaster - X - X
+to blue
+illitp
+Liolaemus tenuis Slender lizard
+and
+R Liolaemus lemniscatus Lemniscata lizard
+Liolaemus chiliensis Chilean lizard
+Liolaemus pictus Painted Lizard - X - X
+Oligoryzomys
+Long-tailed mouse - - - X
+longicaudatus
+Abrothrix longipilis Long-haired mouse
+to
+ila
+m
+Abrothrix olivaceus Olive mouse
+m
+to
+M
+long-eared mouse
+Phyllotis darwini - - - X
+Darwin
+Dromiciops gliroides Monito del monte - X - X
+X=Presence.
+Source: GAC
+Phase of
+Project
+Construction and Operation
+occurrence of
+impact
+The objective of the measure is to carry out a rescue and relocation activity, with the purpose of
+Objective to avoid the loss of low-mobility fauna individuals due to the Project. Added to the
+measure species mentioned above, will apply to all species of herpetofauna and micromammals
+identified and/or captured in the capture effort.
+Capture activities will be carried out by experienced specialist professionals
+accredited in wildlife manipulation, and will be carried out once the permit is obtained
+of capture granted by the authority and the respective notification made.
+Description of
+the measure • Amphibians: will be carried out through manual capture through active tours and/or
+directed search for the target species, in the habitats and environments in which it is found
+present in the area of influence of the Project.
+7-30
+==================================================================================
+PAGE 37
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Development Project
+Clay Extraction Miner for the Production of
+Rare Earth Concentrate
+MM-02 Rescue and Relocation Plan
+• Reptiles: it will be carried out by manual capture and/or with a sliding snare using
+active tours and/or directed search of the target species, in the habitats and
+environments in which it is present in the area of influence of the Project.
+• Micromammals: capture will be carried out with collapsible Sherman-type traps and/or
+Tomahawk modified, by installing them in grids or lines, in the habitats and
+environments of this group that are present in the area of influence of the Project. The
+traps will be baited (oats and banana) and checked twice a day, to be active
+for a period of approx. 8 to 12 hours maximum. Three repetitions will be carried out
+for each grid or capture line, this means that the traps will be installed
+for three consecutive nights before starting the rescue on a new grid, as
+as mentioned in the Technical Guide to Implement Rescue Measures/
+Relocation and Controlled Disturbance (Torres-Mura et al., 20141) of the Service
+Agricultural and Livestock. In the case of D. gliroides, modified Tomahawk traps
+They will be installed at height, using banana as bait.
+Justification of The measure is justified in its capacity to reduce the loss of individuals belonging to
+the measure the target species and those with low mobility (PASM 146).
+1 Torres-Mura, J.C., E. Riveros-Riffo, V. Escobar-Gimpel. 2014. Technical guide to implement rescue/relocation measures
+and controlled disturbance. Agricultural and Livestock Service, 45 pp.
+7-31
+==================================================================================
+PAGE 38
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Rescue and/or capture areas:
+The areas considered as rescue surfaces comprise approximately one
+surface of 140.75 hectares, which include works and parts of the Project (areal works),
+both temporary and permanent characteristics.
+Figure 7-12. Rescue areas of low mobility fauna identified in the area of
+Influence
+Place of
+implementation
+Source: GAC
+Relocation area:
+The relocation area will be determined within the Nonguén National Park (Figure 7-13) and
+It will have the following features:
+• Surface area of the relocation area greater than or equal to the surface area of the capture area.
+• The relocation area will have habitat characteristics similar to the capture area or
+of better environmental conditions (this is partly the characteristics
+vegetation, altitude, microhabitat, shelters, food availability, among
+others).
+• Ideally at a minimum distance of 1 km from the capture area.
+• The relocation area will not be intervened by the Project, guaranteeing its
+protection in the medium to long term.
+The detail of the characterization of the relocation area is presented in Appendix 10-9.1.
+7-32
+==================================================================================
+PAGE 39
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-13. Relocation area for low mobility fauna in Nonguén National Park
+Source: GAC
+Due to the complexity of the Project in terms of its extension and diversity of areas to be
+occupied, the date and number of rescues will be scheduled, according to the schedule of
+execution of works or interventions (see implementation opportunity). The activities are
+will be carried out prior to the intervention and/or the advancement of the construction machinery and
+construction site, capturing the captures in a maximum of five days (between 1 to 5 days)
+before the beginning of the different work fronts. For this, permissions will be requested from
+capture corresponding to the Agricultural and Livestock Service (SAG), previously informing the
+working days according to the frequency stipulated in the resolution issued by the authority.
+Capture
+Shape of
+Approximately two months before the start of capture activities, it will be carried out, to
+implementation
+each rescue area, a field
+baseline measurement in order to corroborate and adjust the estimate
+of the number of individuals to be rescued, considering the natural variation that the
+density of this species in relation to the availability of food, shelter and/or bodies or
+water courses.
+The capture effort will be carried out between 8:00 p.m. and 2:00 a.m. to coincide with the increase
+of the activity that amphibians present during twilight hours. In the case of reptiles,
+Work will be carried out during daylight hours between 9:00 a.m. and 5:00 p.m., time in which
+individuals show greater activity. For its part, for micromammals, the work is
+will concentrate on the installation of traps during daylight hours (maximum time without inspection
+during the 8-hour day) and its subsequent review every night between 08:00 and 11:00 am.
+7-33
+==================================================================================
+PAGE 40
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The area to be intervened will be covered on foot, trying to sweep
+complete, with particular emphasis on those microenvironments favorable for the presence of
+target species, such as bushes and rocky areas for micromammals, bodies or watercourses
+for amphibians and rockeries, bushes and trees in the case of reptiles. For the capture it will be carried out
+the exploration of different environments and microenvironments, actively searching for
+specimens under or between stones, trunks and bushes. Detected individuals will be captured
+manually (herpetofauna) or Sherman traps (micromammals).
+Transportation
+The captured specimens will be deposited individually in plastic containers, the
+which will be provided with adequate substrate and shelter, along with humidity conditions,
+ventilation and temperature necessary to ensure the well-being of the specimens.
+Each individual will remain in its container for no more than three hours.
+Individuals will be transported on the outside of the van, avoiding drafts or
+direct sunlight; and trying to maintain biosafety measures due to the risk of zoonoses.
+Marking and release
+Prior to their release, the captured specimens will be characterized in terms
+of their development status, sex, and basic morphometric parameters.
+The amphibians will not receive any type of mark and will be individualized through photographs and
+record on characteristics sheets for later recognition (sex, warts,
+coloring, etc.).
+For the release of the specimens, areas that correspond to the same types will be selected.
+of environment in which the capture was made. To choose the release area, it will be carried out
+an evaluation of the quality of the environments and microenvironments, considering factors such as:
+presence of the species, degree of protection of the area, availability of food resources and
+of shelters, among others.
+Monitoring
+After the measure is applied, a first monitoring will be carried out in the capture area daily.
+following or 2 days after the rescue (immediate monitoring) focused on verifying that no
+individuals remain to be rescued, this will last four days and eventually more if necessary.
+necessary. The activities associated with the construction process may begin once
+completed the first monitoring of the capture area within a maximum period of 5 days.
+The following monitoring, corresponding to the second campaign, will be carried out after 14 days
+after the rescue in the relocation area, focused on determining the remaining
+of the relocated individuals, since the marking with paint should resist such
+period of time. The third, fourth and fifth monitoring will be carried out at 90, 180 and 360 days
+after the rescue, the objective of said monitoring being to be able to evaluate the behavior
+7-34
+==================================================================================
+PAGE 41
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+of the receiving population once new individuals are added. The duration of the monitoring
+yes
+It will last three days. The monitoring covers a full year to include
+a reproductive cycle of the target species.
+Rescue activities will be carried out during the construction phase and prior to the
+entry into operation of each zone or works of the Project associated with a rescue area. At
+In this regard, according to the project operation phase schedule, the following is detailed:
+sequentiality of work:
+Table 7-15. General Project Schedule.
+Year
+Phase
+1 2 3 4 5 6 7 8
+Construction
+Operation
+Source: GAC
+Opportunity to
+Table 7-16. Project operation phase schedule
+implementation
+Year
+Activity Area
+3 4 5 6 7 8
+Processing Plant
+ZE Luna Extraction
+ZE Victoria North Extraction
+ZE Maite Extraction
+ZD Neptune Disposition
+Source: GAC
+This measure is associated with the construction and operation stages of the Project, therefore the
+The plan must be executed in accordance with the established progress and deadlines.
+The compliance indicator will be the delivery to the Superintendency of the Environment and the SAG.
+regional report presenting results and rescue and relocation activities, in a
+period of 45 days from the end of each seasonal follow-up monitoring. It is established
+that the measure will be successful if 100% of the specimens registered in the area of the
+Project indicator.
+compliance Reports will include figures with the location of rescue areas and relocation sites
+individuals, georeference coordinates (UTM WGS84 Zone 19) and photographic annexes.
+After the rescue and relocation campaign, a monitoring campaign will be carried out
+focused on verifying that there are no individuals left to rescue in the Project area. Likewise
+Form, a report will be presented exposing the results of this monitoring.
+Means of The means of verification will be the proof of loading of the environmental monitoring report to
+verification of the SNIFA platform of the SMA and a similar means of verification of the SAG.
+7-35
+==================================================================================
+PAGE 42
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+In the relocation area, it is contemplated that there will be an increase or maintenance of the
+abundance of the target species, without variations over time until
+monitoring of the measure has ended (SEA, 20222).
+Source: GAC
+ii. Controlled Disturbance Plan
+Table 7-17. Mitigation Measure “MM-03 Controlled Disturbance Plan”
+MM-03 Controlled Disturbance Plan
+Name of the
+Controlled Disturbance Plan
+measure
+Measurement Code MM-03
+Type of measure Mitigation
+Component
+Terrestrial Vertebrate Fauna
+environmental
+Low mobility species recorded in environments associated with linear extension works
+of area less than 3 ha, of the classes Reptilia and Mammalia: Liolaemus schroederi (lizard
+Schröeder's), Liolaemus cyanogaster (blue-bellied lizard), Liolaemus lemniscatus
+(lemniscata lizard), Liolaemus tenuis (slender lizard), Liolaemus chiliensis (slender lizard
+Object of
+Chilean), Liolaemus pictus (painted lizard), Oligoryzomys longicaudatus (mouse
+Protection
+long), Abrothrix longipilis (bicolor woolly mouse) and Abrothrix olivaceus (olive mouse). Without
+prejudice to the list presented, the measure may be executed on all species within
+of the disturbance area. In the case of amphibians and the species Dromiciops gliroides, the
+exclusively the rescue and relocation measure.
+IFA-01 Impact. Loss of specimens of fauna of interest and/or sensitive - Amphibians, Reptiles and
+environmental Micromammals
+In the Project location area, where four environments were detected for the
+fauna called "forest", "scrub", "modified" and "plantation" (Chapter 03. Section
+B. Terrestrial Vertebrate Fauna Baseline). The following table shows the
+environments in which individuals of the target species were detected in accordance with the
+Baseline.
+Table Place 7-18. Target species of the controlled wildlife disturbance plan and the
+logging environment occurrence
+impact
+Species Fauna environments
+and
+yes
+to
+lC Forest Shrub Modified Plantation
+Scientific name Common name
+lizard
+Liolaemus schroederi - X X
+illitp
+e Laga
+Yes
+RT
+c
+i
+h
+ha
+rö
+d
+and
+and
+d
+v
+and
+i
+r
+between
+R Liolaemus cyanogaster - X - X
+blue
+2 Environmental Evaluation Service (SEA). 2022. Evaluation Criteria in the SEIA: Technical Criteria for the Application of a
+Controlled Disturbance. [Available at: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+controlled-disturbance].
+7-36
+==================================================================================
+PAGE 43
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-03 Controlled Disturbance Plan
+Liolaemus tenuis Slender lizard
+Liolaemus lemniscatus Lemniscata lizard
+Liolaemus chiliensis Chilean lizard
+Liolaemus pictus Painted Lizard - X - X
+Oligoryzomys
+Long-tailed mouse - - - X
+longicaudatus
+to
+ila Abrothrix longipilis Long-haired mouse
+m
+m
+a Abrothrix olivaceus Olive mouse
+M
+long-eared mouse
+Phyllotis darwini - - - X
+Darwin
+X: Presence
+Source: GAC
+Project Phase
+of occurrence of Construction and Operation
+impact
+Induce the gradual displacement of low-mobility species from the environment they
+Aim of the use towards immediately adjacent areas, to reduce the impact of the potential
+measure loss of threatened specimens of low mobility, due to the works and actions of the
+Project.
+In generic terms, the measure consists of gradually removing the shelters from the
+species of interest, such as rock clusters or shrubby vegetation, prior to the start of the
+vegetation clearing or earth moving activities (SAG, 2016).
+The methodology is described below:
+• According to the progress of the works, rocks, logs,
+vegetation and everything that can serve as a refuge for the target species.
+• This activity must be carried out during the activity hours of the species
+objective (greater escape capacity), establishing this between 8:00 a.m. and 6:00 p.m.
+h in cold weather seasons (autumn, winter) and between 8:00 a.m. and 8:00 p.m. during
+warm seasons (spring, summer). Being prohibited
+Description of the implementation outside these hours. On the other hand, it is suggested the implementation
+measure of the controlled disturbance plan outside the reproductive seasons of the species
+target (reptiles and small mammals), avoiding activities between the months of
+September and January, time when eggs or young individuals can be found.
+• Once the disturbance itself has been applied, tours and/or
+sampling points, with the objective of identifying the “Abundance of species
+objective”, to verify the success of this measure, observing and/or verifying
+that the species subject to disturbance are not present.
+• After what has already been indicated, the owner will have a maximum period of 12-24 hours to
+begin the work once the liberation of areas is completed through the
+controlled disturbance methodology. In the event that the deadline is exceeded,
+must repeat the measurement due to possible recolonization of the target species
+of this plan.
+7-37
+==================================================================================
+PAGE 44
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-03 Controlled Disturbance Plan
+Description habitat of origin.
+The habitat of origin of the species corresponds to environments mostly with some degree
+of intervention, associated with existing roads, vehicular traffic areas, vegetation of
+exotic type or forest type. The target species corresponds to species with the capacity
+of adaptation to these intervened environments, which can be found on roadsides,
+stones or small shelters close to existing works, in environments mainly
+forest plantation or scrub type.
+Potential target habitat.
+The destination areas of the animals correspond to areas similar to those of origin due to
+the closeness they present. In particular, it is mainly constituted by intervened areas of
+existing roads, forest plantations and bushes located in bor
+from areas
+intervened. In the destination areas and according to information collected in field campaigns,
+The presence of target species was evident, providing the appropriate conditions for
+receive disturbed individuals.
+Degree of influence of other activities on the site where it is planned to move the
+animals
+As already mentioned, the destination area of the animals corresponds to areas with
+medium to high intervention, despite this the habitat represents adequate conditions for
+receive the animals. It should be noted that the owner must provide the protection of these
+areas, protecting them from future interventions.
+Home range and movement capacity of target species
+According to scientific literature, the home range of the reptiles targeted by the measure does not
+It would exceed 150 m of displacement. On the other hand, and for micromammals, there is no
+It would exceed 450 m of displacement. In this way, the measurement is based on biology
+and behavior of the species and their ability to escape by their own means.
+Due to the above and to avoid the recolonization of the animals, all types of
+shelter for the animals (stones, branches, rocks, etc.) and the reception area must be
+environmentally enriched with all the material removed. Regarding the displacement
+animals are expected to leave the disturbed area from the moment they
+activities begin, therefore prior review is necessary, immediately after
+to the disturbance and the specified monitoring, in terms of abundance estimation and
+species richness.
+Expected progress rate of the displacement.
+As already mentioned in the previous statement, the rate of progress of the animals is considered
+linked to their home areas, with the target species being able to move around their own
+means a distance of between 150 and 450 m. Therefore, the rate of progress of the measure
+will be conditioned by disturbing sequentially from the furthest area to the areas of
+destination, conditioning the advance of species from intervened areas to areas of
+7-38
+==================================================================================
+PAGE 45
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-03 Controlled Disturbance Plan
+protection. It is considered that the measurement must be carried out by a team made up of a
+wildlife specialist and 6 daily wages (with tools for manual clearance, such as
+chainsaw or brushcutter). It is considered that the equipment already detailed will have a rate of
+advance of 1 hectare per day of work for each group of workers (1 specialist and
+6 days).
+The measure is justified, given the presence of species of reptiles and micromammals
+(endemic and/or in conservation categories according to current national legislation), the
+Justification of which, due to their low displacement capacity, they present a risk of suffering loss of
+measure individuals. The application of this measure is justified on limited surfaces, in which
+suggests facilitating the natural movement of individuals to adjacent areas (Torres-
+Mura et al., 2014), and avoid unnecessary capture stress.
+This measure will apply to associated linear works, existing roads or
+new ones, modification of the ENAP pipeline and LTE intervention area mainly,
+which require some degree of intervention such as vegetation clearance, steepness,
+Place of
+compaction or other.
+implementation
+Each road where there will be some degree of intervention by the Project will be
+will add a buffer or buffer zone where a degree of intervention is presumed
+direct or indirect (closeness); The buffer used is 20 m on each side of the path.
+• The procedure to develop the measure includes:
+• Supervision of an expert (veterinary doctor, biologist or experienced professional
+in wild animal management) and six assistants to apply the measure of
+controlled disturbance for each hectare of release.
+• The disturbance will be carried out in areas intervened by linear, specific works
+or areal areas of limited surfaces (surfaces less than 3 hectares). The above of
+in accordance with the rate of progress of roads according to the annual schedule already presented and
+to you
+progress handle of each work.
+• Controlled disturbance considers manual removal and removal of shelters
+potential for reptiles and small mammals, this includes rocks, logs, vegetation,
+among others.
+Form of • The application of the measure involves an exhaustive tour of the area to be intervened,
+Implementation route in which shelters will be identified and removed. The removal
+will mainly involve removal of bushes, plant material, logs, rocks
+small and medium size.
+• Clearing should be done primarily manually or with tools.
+manual use (chainsaw or weeder); and the material removed (smaller stones
+size, plant material) will be left in the areas adjacent to the clearing area (within
+of the reception area), in order to provide shelter in the areas to which
+individuals will be displaced.
+• The day after the disturbance was carried out, the area in which it was carried out must be visited.
+the removal of refuges, to verify the absence of low mobility species. In
+If activity is observed, the removal of possible refuges that do not
+have been previously identified and removed.
+7-39
+==================================================================================
+PAGE 46
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-03 Controlled Disturbance Plan
+• The measure will be considered successful whenever the zero presence of the
+target species of the disturbance plan in the areas of origin once it is concluded
+activities (next day).
+• A follow-up will be carried out the first month through non-invasive methods (without
+capture) that allow determining, in addition to presence, the occupation activity
+of shelters or burrows. Measurements will be made in the second and third month.
+quantitative and later in contrasted stations. The follow-up should
+address at least two reproductive cycles of the target species.
+• As an indicator of success, it is considered that the results obtained must
+demonstrate that the receiving population has been maintained over time or that it presents
+an increase with respect to its original condition prior to the disturbance.
+Due to the extension and complexity of the Project, the execution of the disturbance plan will be
+Opportunity to
+will adjust to the construction and operation schedule of the Project, and for each area to be
+implementation
+intervened in relation to progress planning.
+A record will be kept on cards of the daily activities associated with the measurement of
+controlled disturbance, in which the surface of application of the measure is realized
+and the compliance indicator.
+A Controlled Disturbance Plan will be presented to the DIPROREN (Division of Protection of
+Natural Resources Indicator) of the SAG, which will detail the methodology, deadlines, target species and
+compliance monitoring of this measure. In addition to this, a report will be presented that
+describe the activities carried out, as well as the indication of the monitoring
+final verification of total absence of individuals after the disturbance.
+Notice of the start of the measure and the delivery of a report that accounts for the activities of
+controlled disturbance, to the Superintendency of the Environment and the regional SAG.
+Source: GAC
+7.3.3.2 Repair Measures
+i. Revegetation of intervened areas ZD and ZE with native vegetation
+Table 7-19. Measure MR-01 Revegetation and Conservation of intervened areas ZD and ZE with native vegetation
+MR-01 Revegetation of intervened areas ZD and ZE with native vegetation
+Name of the
+Revegetation and Conservation of intervened areas ZD and ZE with native vegetation
+measure
+code
+MR-01
+Measurement
+Measurement type Repair
+Component
+Terrestrial Vertebrate Fauna
+environmental
+Object of
+Terrestrial vertebrate fauna habitat
+Protection
+7-40
+==================================================================================
+PAGE 47
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-01 Revegetation of intervened areas ZD and ZE with native vegetation
+IFA-02 Impact. Loss and/or modification
+ication of habitat of species of interest and/or sensitive - Amphibians,
+environmental Reptiles, Micromammals, Meso- and Macromammals
+The authorization of Project works in both the construction and operation phases
+Place of
+will cause the loss of environments for terrestrial vertebrate species. This will happen
+occurrence of
+mainly in the Extraction Zones (Victoria Norte and Maite), Disposal Zone and Plant,
+impact
+which correspond to the areal works and those with the greatest surface occupation.
+Phase of
+Project
+Construction and Operation
+occurrence of
+impact
+Objective of the
+Generate favorable habitats for terrestrial fauna in the areas intervened by the Project.
+measure
+As the different areas are closed, particularly the Extraction Zones and
+Disposal Area, the surfaces already intervened and closed will be revegetated.
+This revegetation is associated with the cutting of forest plantations due to the construction of the
+parts and works of the project in which native vegetation will be used as they are
+closing the different parts and works of the Project. The revegetation will be done with native species, and
+Description of
+It will be carried out on the slopes that allow this measurement to be carried out inside each ZE and in the DZ.
+the measure
+In turn, once the operation and closure stage with native vegetation species is completed,
+regarding the formalization of this protection site, in case of obtaining a Resolution of
+Favorable Environmental Qualification (RCA) of the EIA, the Owner will register the surface of this measure
+as a private protection area. The approximate area is 222.73 hectares, in order to
+provide a definitive and protected habitat for the native fauna species that inhabit the area.
+The justification for the measure corresponds to the fact that, through the revegetation of native species in
+Justification of the intervened areas, favorable environments for terrestrial fauna will be generated. The measure is
+The measure will be carried out in the ZE (except ZE Luna) and ZD, because these works correspond to the works
+areas with the greatest surface occupation.
+Revegetation with native species will be carried out in the Extraction Zones (except ZE Luna) and
+Disposition Zone.
+Figure 7-14. Location of ZE (left) (except ZE Luna) and ZD (right).
+Place of
+implementation
+Source: GAC
+7-41
+==================================================================================
+PAGE 48
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-01 Revegetation of intervened areas ZD and ZE with native vegetation
+Figure 7-15. Extraction zone type profile
+Source: GAC
+Figure 7-16. Ore disposal zone type profile
+Source: GAC
+The form of implementation corresponds to revegetating the areas with native species as they
+They cease their operation within each ZE (except ZE Luna) and each ZD.
+Shape of
+implementation Regarding the formalization of the areas that will be revegetated, in case of obtaining a Resolution
+of favorable Environmental Qualification (RCA) of the EIA, the Owner will register the surface of this measure
+as a private protection area.
+Revegetation with native species will be carried out during the operation phase as the
+different ZEs (except ZE Luna) and ZD are being closed according to the operation schedule.
+It corresponds to an activity that will be done gradually and continuously during the phase of
+operation according to the closure of the different areas.
+Table 7-20. Operation Phase Schedule
+Year
+Activity Area Opportunity
+3 4 5 6 7 8
+implementation
+Processing Plant
+ZE Luna3 Extraction
+ZE Victoria North Extraction
+ZE Maite Extraction
+ZD Neptune Disposition
+Source: GAC
+3 The Luna Extraction Zone is not revegetated. For more details see Chapter 1 of the EIA.
+7-42
+==================================================================================
+PAGE 49
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-01 Revegetation of intervened areas ZD and ZE with native vegetation
+Regarding the conservation of the site, this will be carried out once all the ZE and ZD have been reforested.
+A record of cessation of operation will be kept
+ation of each ZE (except ZE Luna) and ZD and start of the
+revegetation activities in each area.
+Once the revegetation of areas has begun, a semiannual map will be generated indicating the areas that have been
+revegetated.
+Through quarterly monitoring, a record of the fauna present in the areas will be kept.
+Revegetated indicator (densities and abundances), for 3 years.
+compliance A semi-annual report will be sent to the Superintendency of the Environment (SMA) during the phase
+of operation. This report will include the map of the revegetated areas in the period
+corresponding, the densities and abundances of fauna present, in addition to other activities
+carried out.
+The protection of the area will be considered fulfilled if the following indicators are carried out:
+- Document that certifies the registration of the area as a private protection zone.
+Source: GAC
+7.3.3.3 Compensation Measures
+i. Protection of areas surrounding the Project
+Table 7-21. Measure MC-05 Protection of areas surrounding the Project
+MC-05 Protection of areas surrounding the project
+Name of the
+MC-05 Protection of areas surrounding the Project
+measure
+Measurement code MC-05
+Measurement type Compensation
+Component
+Terrestrial vertebrate fauna
+environmental
+Habitat object for terrestrial vertebrate fauna with emphasis on the following mammals: Pudu
+protection puda (pudú), Leopardus guigna (güiña) and Puma concolor (puma).
+IFA-02. Loss and/or modification of habitat of species of interest and/or sensitive - Amphibians,
+Environmental impact
+Reptiles and Mammals
+In the Project location area, four environments for fauna were identified.
+denominated as "Forest", "Scrub", "Modified" and "Plantation". The next
+Table shows the species with conservation category that were recorded during the
+Baseline.
+Place of occurrence Table 7-22. Vertebrate fauna species with conservation category
+Impact Specialist
+Species Conservation Category Mobility
+habitat
+Pudu puda Vulnerable High No
+Leopardus guigna Vulnerable High No
+Puma concolor Near Threatened High No
+Galictis cuja Least Concern High No
+7-43
+==================================================================================
+PAGE 50
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-05 Protection of areas surrounding the project
+Lycalopex culpaeus Least Concern High No
+Eupsophus roseus Vulnerable Low Yes
+Pleurodema thaul Near Threatened Low Yes
+Liolaemus schroederi Vulnerable Low Yes
+Liolaemus cyanogaster Least Concern Low Yes
+Liolaemus tenuis Least Concern Low Yes
+Liolaemus lemniscatus Least Concern Low Yes
+Liolaemus pictus Least Concern Low Yes
+Liolaemus chiliensis Least Concern Low Yes
+Dromiciops gliroides Near Threatened Low Yes
+Abrothrix longipilis Least Concern Low Yes
+Source: GAC
+Project Phase
+occurrence of Construction and Operation
+impact
+The objective of the measure is to ensure the existence of patches of native vegetation and
+exotic, that as a whole and with a specific spatial distribution, allow the
+Objective of the persistence of populations of the target species.
+measure The measure focuses mainly on the species: Pudu puda (pudú), Leopardus guigna
+(güiña) and Puma concolor (cougar). However, it is considered that the measure will benefit
+a larger set of species by allowing the permanence of habitat for them.
+The measure consists of the protection of a series of polygons surrounding and within the area
+of influence of the Project. This protection translates into ensuring the permanence of your
+vegetation with a prohibition of clear felling, cutting or any other process of extraction of
+this, permanently from the beginning of the Project.
+Considering the baseline of flora and vegetation, added to the photointerpretation of
+surrounding sectors, a set of polygons has been determined to be subject to this
+protection. These areas include sectors with native vegetation and plantations.
+forestry.
+The polygons that will be protected total 90.66 hectares, and are presented in format
+Description of the digital (.kmz) in Annex 7.1-3, classified according to their vegetation coverage of the
+measure as follows:
+• Native preservation forest: 4.90 hectares
+• Forest plantation: 76.92 hectares
+• Grassland: 4.21 hectares
+• Thicket:
+2.95 hectares
+• Tree scrub: 1.68 hectares
+It will be the responsibility of the Project to ensure compliance with this protection in the
+entire area.
+The measure is based on the fact that those forest plantations that have
+Justification of the
+certain characteristics – such as the presence of undergrowth – that are capable of
+measure
+become a habitat for vertebrate fauna species, with emphasis on mammals
+7-44
+==================================================================================
+PAGE 51
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-05 Protection of areas surrounding the project
+natives such as Pudu puda, Leopardus guigna, among others (Simonetti et al 2013). This
+proposal follows the idea of designing policies that promote environmentally friendly practices
+biodiversity on productive lands (Fisher et al 2008)4, in line with the Aichi Targets
+indicated by the Convention on Biological Diversity in 2010.
+The use that various groups of terrestrial vertebrates make of forest plantations has
+been widely documented (Simonetti et al 2013, Estades et al 2012, Acosta-Jamett
+and Simonetti 2004, Estades 1999)5, and its persistence in this habitat would depend, among others
+factors, in landscape-scale composition, for example, the distance between patches of
+habitat, the existence of biological corridors and the absence of elements that limit the
+connectivity (e.g. Acuña and Estades, 2011)6.
+In this way, based on the vast literature available on this topic, recently
+there is an understanding of the existence of certain key characteristics for the
+existence of good quality habitat – at a landscape scale – for species of
+forest. These characteristics are summarized according to Arroyo-Rodríguez et al (2020)7, broadly
+traits, in the maintenance of ≥ 40% forest cover, organized in at least one
+10% in a large patch and the remaining 30% in various scattered patches and corridors,
+also being surrounded by an anthropogenic matrix friendly to biodiversity.
+It is this theoretical-practical framework that gives justification to this measure, which seeks
+approach these standards to design a landscape that allows the persistence of
+target species in the area.
+On the other hand, the presence of meso- and macromammal species distributed throughout
+throughout the area of influence of the Project emphasizes the need to include this approach to
+landscape level over one directed at particular sites.
+Added to all the above, this measure provides continuity to runners
+biological elements present in the area of influence, which correspond mainly to
+native forest ravines, patches of forest plantations, watercourses or areas
+of flooding present in the area.
+In Annex 7-1 Analysis of Bioequivalence and Additionality of Measures of
+Compensation, the justification of the biodiversity gain of this measure.
+4 Fischer, J., Brosi, B., Daily, G., Ehrlich, P., Goldman, R., Goldstein, J., Lindenmayer, D., Manning, A., Mooney, H., Pejchar, L.,
+Ranganathan, J and Tallis, H. 2008. Should agricultural policies encourage land sparing or wildlife-friendly farming. Front Ecol Environ
+6(7):380-385
+5 Simonetti, J., Grez, A. and Estades, C. 2013. Providing habitat for native mammals through understory enhances in forestry
+plantations. Cons Biol 27(5):1117-1121
+Estades, C., Grez, A., Simonetti, J. 2012. Biodiversity in Monterey pine plantations. In: Simonetti, J., Grez, A., Estades, C. (eds).
+Biodiversity conservation in agroforestry landscapes: challenges and opportunitites. University Publishing, Santiago; 2012. pp.
+77–98.
+Acosta-Jamett and Simonetti 2004, Habitat use by Oncifelis guigna and Pseudalopex culpaeus in a fragmented forest landscape in
+central Chile. Biodiversity and Conservation 13:1135-1151
+Estades, C. 1999. Bird nesting in a mature stand of Pinus radiata. Bowl Chil Ornit 6:35-38
+6 Acuña, P. and Estades, C. 2011. Plantation clearcut size and the persistence of early-successional wildlife populations. Biol Cons
+144:1577-1584
+7 Arroyo-Rodríguez, V. 2020. Designing optimal human-modified landscapes for forests biodiversity conservation. Ecology Letters
+23:1404-1420
+7-45
+===========================================================================
+=======
+PAGE 52
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-05 Protection of areas surrounding the project
+The polygons that will be protected correspond to those shown in red on the
+next Figure.
+Figure 7-17. Areas for protection
+Place of
+implementation
+Source: GAC
+The characterization of the compensation site is present in Annex 7.1-3.
+Regarding the formalization of protection of these areas, in case of obtaining a
+Favorable Environmental Qualification Resolution (RCA) of the EIA, the Owner will register in the
+real estate conservator, the surface of this measure as a protection area
+private. The declaration of permanent protection will be through a legal document that
+prove that the land will be protected.
+Then, habitat protection will be carried out, mainly through
+Form of educational and restrictive actions. In this sense, talks will be held for all
+implementation workers about the protected areas and the precautions that must be taken to avoid
+alter said site.
+On the other hand, at least 15 signs will be installed permanently and legibly,
+indicating the protected quality of these areas, preferably in sectors where
+protection areas adjoin roads.
+Additionally, the following restrictions are considered in protected areas:
+7-46
+==================================================================================
+PAGE 53
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MC-05 Protection of areas surrounding the project
+• Prohibition of hunting, capture and/or collection of wild animal species
+• Prohibition of use of fire
+• Prohibition of feeding domestic and wild species
+• Prohibition of throwing waste outside established places
+• Prohibition of the circulation of vehicles and workers off roads
+enabled and established.
+• Restriction on the speed of circulation of vehicles and/or machinery.
+• Prohibitions and restrictions aimed at minimizing disturbances to the
+wild species in the reproductive period.
+• Education and/or training of workers in wildlife matters
+The measure involves the installation of at least 30 camera traps annually
+for 3 years of monitoring, which will obtain a record of the vertebrate fauna,
+present in the Protection area.
+Opportunity to The measure will be implemented from the beginning of the Construction phase and will be
+permanent implementation.
+The compliance indicators considered for the measure are the following:
+Table 7-23. Compliance indicator
+Activity Compliance indicator
+Register the measure as At the beginning of the construction phase there is a document
+a protection area that certifies the registration of the area as a protection zone
+private private with the entire surface area of protection.
+The composition and cover of the vegetation are maintained without
+Habitat Protection Indicator
+significant alterations associated with anthropogenic interventions.
+compliance
+A study will be carried out annually using traps
+cameras directed to records of vertebrate fauna. If
+Fauna Records
+considers installing at least 30 cameras annually
+Vertebrate
+trap for 3 years. It is expected that, with the protection of the area,
+the presence of fauna is maintained over time.
+At least 15 will be installed at the beginning of the construction phase.
+Signage installation
+posters distributed in the protection sectors.
+Source: GAC
+Source: GAC
+7.3.4 Measurement Plan for the Invertebrate Fauna Component
+i. Significant Impacts
+Considering the impact evaluation analysis carried out in Chapter 4 of this EIA, the activity
+Vegetation clearance is the main action that generates impacts on the flora and vegetation component.
+As a result of this activity, the following significant impacts were established:
+7-47
+==================================================================================
+PAGE 54
+===========================================================
+=================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+a) IFI-01 Loss of specimens of fauna of interest and/or sensitive
+This impact may occur for all three phases of the Project (Construction, Operation and Closure).
+b) IFI-02 Loss and/or modification of habitat of species of interest and/or sensitive
+It corresponds to the significant modification of the conditions and resources necessary for the existence of
+native species, as a consequence of the total removal of the soil and its vegetation and/or changes in the
+places that pass through. The concept of habitat is usually used to refer to a sector of space that
+It meets certain conditions that allow the existence of some species, but not others.
+ii. Definition of measurements
+Considering what the guide for biodiversity compensation in the SEIA indicates (SEA, 2014), it is
+It is necessary to identify a hierarchy of measures and appropriate compensation. The hierarchy starts, in
+to the extent possible, promoting the generation of mitigation measures that aim to avoid
+or reduce the adverse effects, secondly, generate reparation measures that are intended
+purpose to replenish one or more of the components or elements of the environment to a quality similar to
+the one they had prior to the impact and, thirdly, generate compensation measures that have
+for its purpose to produce or generate an alternative positive effect equivalent to an adverse effect
+identified, which cannot be mitigated or repaired.
+Based on the aforementioned hierarchy and the significant impacts identified, the following are proposed:
+following measures:
+Table 7-24. Proposed measures for the terrestrial fauna component
+Type of Measure Associated Impact Proposed Measure
+IFI-01. Loss of specimens of interest
+and/or sensitive
+IFI-02 Mitigation. Loss and/or modification of MM-04 Rescue and Relocation Plan for Invertebrate Fauna
+habitat of species of interest and/or
+sensitive
+Source: GAC
+Mitigation refers to the action of mitigating impacts on the resource, providing alternatives.
+to reduce the possible impacts produced by the Project works that, in some cases, given the
+nature of this, exceed the possibility of prevention.
+7-48
+==================================================================================
+PAGE 55
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7.3.4.1 Mitigation Measures
+i. Rescue and relocation plan
+Table 7-25. Mitigation Measure “MM-04 Rescue and Relocation Plan for invertebrate fauna”
+MM-04 Rescue and Relocation Plan
+Name of the
+Rescue and Relocation Plan for invertebrate fauna
+measure
+code
+MM-04
+Measurement
+Type of measure Mitigation
+Component
+Terrestrial Invertebrate Fauna
+environmental
+Object of Invertebrate Fauna Species with conservation status: Acanthogonathus pissi, Euathlus
+Protection manicata and Phrixotrichus scrofa
+Impact
+IFA-01. Loss of specimens of fauna of interest and/or sensitive – Invertebrate Fauna
+environmental
+Within the area of influence, the presence of 4 species with states of
+conservation, distributed in the different Sampling Points within the Fauna AI.
+Figure 7-18. Environments for fauna according to vegetation formation.
+Place of
+occurrence of
+impact
+Source: GAC
+7-49
+==================================================================================
+PAGE 56
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-04 Rescue and Relocation Plan
+Phase of
+Project
+Construction and Operation
+occurrence of
+impact
+Objective of the The objective of the measure is to carry out a rescue and relocation activity, with the purpose of
+measure to avoid the loss of individuals of invertebrate fauna due to the Project.
+The captures will be carried out by teams with experience in wildlife management.
+invertebrate, each one being led by a professional specialist in the matter. The
+activities will be executed
+after obtaining the capture permit granted by the
+competent authority (Exempt Resolution) and in accordance with the established requirements
+for this one.
+However, capture activities will be planned according to the rate of progress of the
+works, with the objective of having a maximum of 5 days between the end of the rescue and the
+start of the construction phase, to avoid recolonization of the area. Therefore, the number
+of specialists and effort will depend on the surface of the works to be released.
+To carry out the captures, the field personnel (wildlife specialists) must
+have experience and/or be trained in the management of target species, including
+the management of basic biosafety concepts and the contingency plan in case of
+Description of
+observed injured, dying or dead animals.
+the measure
+Capture activities should be carried out during times when temperatures allow
+favorable conditions for the relocation of individuals. This is during the season
+spring and/or summer, and on the days and times in which the climatic characteristics so require.
+allow, adjusting the construction start schedule to what is indicated.
+Specifically for captures carried out on arachnids, these must be carried out after
+to the summer season (March-April) so as not to interfere with their ecdysis process or their
+oothecal hatching period. Time differences should be considered for females and
+males; during the day for females and during the night for males.
+To record the above, daily records associated with the application of
+the captures, indicating the area, professionals in charge, date, temperature and conditions of the
+wind and cloudiness, applied efforts and/or progress rate, and as well as the capture schedule and
+relocation of individuals.
+Justification of The measure is justified in its capacity to reduce the loss of individuals belonging to
+measure the target species (PASM 146 for invertebrate fauna).
+Rescue and/or capture areas:
+The areas considered as rescue surfaces comprise approximately a total
+of 275.42 hectares, which include works and parts of the Project, mostly of the areal type,
+Place of both temporary and permanent features.
+implementation
+n Relocation area:
+The relocation area will be determined within the Nonguén National Park and will include
+with the following characteristics:
+• Surface area of the relocation area greater than or equal to the surface area of the capture area.
+7-50
+==================================================================================
+PAGE 57
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-04 Rescue and Relocation Plan
+• The relocation area will have habitat characteristics similar to the capture area
+(this is partly the vegetation characteristics, altitude, microhabitat, refuges,
+availability of food, among others).
+• Ideally at a minimum distance of 1 km from the capture area.
+• The relocation area will not be intervened by the Project, guaranteeing its
+protection in the medium to long term.
+Figure 7-19. Rescue Area (above) and Relocation (below) of low mobility fauna in
+Nonguén National Park.
+Source: GAC
+Form of Captures will be carried out by teams with experience in wildlife management
+invertebrate implementation, each one being led by a professional specialist in the matter. The
+n activities will be carried out after obtaining the capture permit granted by the
+7-51
+==================================================================================
+PAGE 58
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-04 Rescue and Relocation Plan
+competent authority (Exempt Resolution) and in accordance with the established requirements
+for this one.
+However, capture activities will be planned according to the rate of progress of the
+works, with the objective of having a maximum of 5 days between the end of the rescue and the
+start
+io of the construction stage, to avoid recolonization of the area. Therefore, the number
+of specialists and effort will depend on the surface of the works to be released.
+Capture
+To carry out the captures, the field personnel (wildlife specialists) must
+have experience and/or be trained in the management of target species, including
+the management of basic biosafety concepts and the contingency plan in case of
+observed injured, dying or dead animals.
+Capture activities should be carried out during times when temperatures allow
+favorable conditions for the relocation of individuals. This is during the season
+spring and/or summer, and on the days and times in which the climatic characteristics so require.
+allow, adjusting the construction start schedule to what is indicated.
+Specifically for captures carried out on arachnids, these must be carried out after
+to the summer season (March-April) so as not to interfere with their ecdysis process or their
+oothecal hatching period. Time differences should be considered for females and
+males; during the day for females and during the night for males.
+To record the above, daily records associated with the application of
+the captures, indicating the area, professionals in charge, date, temperature and conditions of the
+wind and cloudiness, applied efforts and/or progress rate, and as well as the capture schedule and
+relocation of individuals.
+Below are the considerations associated with the capture of invertebrate fauna:
+The characterization of invertebrates will be carried out using two main methods, a collection
+active and a passive collection, distributed in each of the prospected sites. In each PME the
+surface will be traveled on foot with the help of an odometer and a
+active collection under different rocks and pieces of logs available in the project area, to
+In the case of the bushes and trees that are prospected, an entomological umbrella will be used, whose
+function mainly consists of tapping on available branches and woody structures,
+generating the fall and subsequent collection with an entomological aspirator of the different species
+that can be observed in the white cloth blanket that makes up the entomological umbrella
+used, whose surface area was one square meter. Traps will be used for passive collection.
+Barber and pitfall, where it was installed following the recommendations to avoid typical errors
+that can affect the data obtained with the auto-correlation between the samples according to
+Lafranco et al (2010). For this purpose, pitfall traps (pitfall and barber traps) will be placed every
+40 meters along the transect, the pitfall traps will be made up of a glass
+7-52
+==================================================================================
+PAGE 59
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-04 Rescue and Relocation Plan
+of 360 ml plastic buried at the surface and the Barber traps were likewise
+arranged like pitfall traps, where one third of their capacity will be filled with liquid bait
+aromatic based on apple cider vinegar and red grapes which will be installed randomly in
+each PME.
+Transportation
+For the transfer of specimens from the capture areas to the release sites or
+relocation, individuals will be transported in containers. For transfer in
+vehicle, it will be ensured that the containers remain fixed and that the speed of travel
+does not exceed 20 km/hr in the case of unpaved roads and/or with events.
+Marking and release
+The arachnid group must be marked to achieve correct tracking. For the above,
+It will require a non-toxic fluorescent marker. The handling and marking procedure
+must be detailed in the capture permit, considering all environmental factors when
+time to carry out the activity and location such as the position of the marking for its correct
+function in subsequent monitoring.
+Monitoring
+Once the capture permit is obtained, and to comply with the Exempt Resolution that
+allows this, prior to the beginning of the activity, it will be given
+notice of the start of
+catches to the regional SAG, 5 or 10 business days in advance or as stipulated in the
+permission granted by the Exempt Resolution.
+After the measure is applied, a first monitoring will be carried out in the capture area daily.
+following or 2 days after the rescue (immediate monitoring) focused on verifying that no
+individuals remain to be rescued, this will last four days and eventually more if necessary.
+necessary. The activities associated with the construction process may begin once
+completed the first monitoring of the capture area within a maximum period of 5 days.
+The following monitoring, corresponding to the second campaign, will be carried out after 14 days
+after the rescue in the relocation area, focused on determining the remaining
+of the relocated individuals, since the marking with paint should resist such
+period of time. The third, fourth and fifth monitoring will be carried out at 90, 180 and 360 days
+after the rescue, the objective of said monitoring being to be able to evaluate the behavior
+of the receiving population once new individuals are added. The duration of the monitoring
+It will last three days. The monitoring covers a full year to include
+a reproductive cycle of the target species.
+Opportunity to
+The measure will be implemented from the beginning of the Construction phase and will be of a
+implementation
+permanent.
+n
+Indicator Notification will be given to the Superintendence of the Environment prior to carrying out each
+compliance with rescue and relocation activity, and a report will be delivered after carrying out the
+7-53
+==================================================================================
+PAGE 60
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-04 Rescue and Relocation Plan
+each activity. It is understood for each rescue and relocation activity that will be carried out.
+according to a schedule of construction and operation phases, according to which the areas of
+rescue are related to the following works of the Project and years within each phase.
+Verification of the survival of 50% of
+the relocated individuals on day 15 after the relocation. In case it is not fulfilled
+the indicated survival, new rescue campaigns will be carried out until reaching the
+success rate of the measure.
+In addition, the performance of the measure in the short, medium and long term should be evaluated accordingly.
+to what is presented in Annex 10-8.2 PAS 146.
+The capture and relocation procedure will be documented through a report to be
+submitted to the environmental authority, within the period stipulated in the authorization resolution of the
+SAG.
+A record will be kept on cards of the daily activities associated with the rescue measure and
+relocation, in which the surface of application of the measure and the indicator is realized
+of compliance.
+Prior to the activities, the capture (rescue) area must be visited in order to
+obtain basal animal density data (target species of the measurement) in a way
+prior to the rescue and relocation plan, which must be counteracted with the
+PASM146 mean by virtue of identifying population variations over time between the
+verification of preparation of the PASM and implementation of the measure.
+After the measure, 0% abundance of the species will be allowed in the capture area.
+objective, that is, if during the first monitoring more individuals of the species are identified
+objective these must be rescued.
+Source: GAC
+7.3.5 Measurement Plan for the Soil Component
+i. Significant Impacts
+Considering the impact evaluation analysis carried out in Chapter 4 of this EIA, the
+vegetation clearing, escarpment and leveling activities are the main actions that generate
+impacts to the soil component. As a result of this activity, the following impacts were established
+significant:
+c) ISU-01 Loss of natural resource soil
+It corresponds to the irreversible loss of a land surface generated by the location or
+permanent occupation in a rural area, as a consequence of the construction and operation of the works of the
+project. This impact is due to the fact that the Project works
+require soil intervention for their
+enablement.
+7-54
+==================================================================================
+PAGE 61
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ii. Definition of measurements
+Based on the significant impacts identified, the following measures are proposed:
+Table 7-26. Proposed measures for the soil component
+Type of Measure Associated Impact Proposed Measure
+MR-02. Rescue, collection and reuse of soil in the
+ISU-01 Loss of natural resources intervened areas
+Repair
+MR-03 soil. Improvement of soil properties in
+intervened areas
+Source: GAC
+7.3.5.1 Repair Measures
+i. Rescue, collection and reuse of soil in the intervened areas
+Table 7-27. MR-02 Rescue, collection and reuse of soil in the intervened areas.
+MR-02. Rescue, collection and reuse of soil in the intervened areas
+Name of the
+Rescue, collection and reuse of soil in the intervened areas
+measure
+Code of the
+MR-02
+measure
+Measurement type Repair
+Component
+ground
+environmental
+Object of
+CCUS IV, VI and VIII floor area
+protection
+Environmental impact ISU-01. Loss of natural resource soil
+Project sector
+Work facilities, processing plant, extraction zones North Victoria, Zone
+associated with
+Maite Extraction Zone, Luna Extraction Zone and Neptuno disposal zone.
+impact
+Project Phase
+of occurrence of Construction and operation.
+impact
+Rescue the surface layer of soil from the intervened areas, store it for a period
+temporary to later reuse it on the surface of the areas already intervened, to
+Objective
+reestablish its basic properties and in this way promote the growth of
+vegetation.
+Prior to the soil intervention, associated with the authorization and development of the ZE, ZD,
+installation of works and Processing Plant, the surface layer of soil will be extracted
+by escarpment, considering the rescue of an approximate thickness of 30 cm of
+Description
+depth. The soil layer will temporarily go to a collection area (ZA) until its
+reuse on the surface of the areas that are being closed, specifically in the
+berm width of exploitation banks of the ZE and on the platforms and slopes of low
+7-55
+==================================================================================
+PAGE 62
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-02. Rescue, collection and reuse of soil in the intervened areas
+inclination of the ZDs. These activities will be carried out continuously, in accordance with the
+progress of the development of the Project, both in the construction and operation phases.
+It should be noted that, in the case of the ZE, the soil from the first
+exploitation banks, later with the advance in the following exploitation banks
+exploitation, the rescue of the superficial soil layer of the new banks that
+come into operation, reusing said layer immediately in the banks already
+exploited, that is, this soil will not be taken to the plant collection area (ZAV).
+In the temporary stockpile, piles of soil will be established, which must be covered with
+biogrids for protection from rain and erosion. Additionally, each ZA will enable
+hydraulic works in order to capture the runoff generated and return it to the
+closest basins and/or streams, these works will correspond to evacuation channels
+and contour, unloading works, junctions and small depressions in the ground, in which
+Drive through pumps is contemplated to restore water resources to the canals.
+conveyors (contour). The details of these hydraulic works are presented in the Annex.
+10-11 PAS 157 of this EIA.
+This measure will allow protecting the vegetal soil of the project area which will be
+reused to promote the growth of vegetation in the intervened areas, giving
+Justification
+continuity of the habitat of the flora and fauna of areas surrounding those intervened and
+It will also offer protection from erosive processes.
+Rescue and re
+soil use: The rescue of soil by scarping a layer of 30
+cm, will be carried out in all of the indicated areas (Processing plant, in the 3
+Place of ZE and a ZD), as development progresses. The geographical coordinates of
+Location implementation are identified in chapter 1.8.2 “Cartographic representation in DATUM WGS
+84 (Art. 18 c.3.2.)”. The following figures show its spatial location within the
+study area.
+7-56
+==================================================================================
+PAGE 63
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-20. Project extraction areas (green)
+Source: GAC
+Figure 7-21. Project layout area (gray)
+Source: GAC
+Temporary soil storage: Regarding the temporary storage of soil until its immediate use.
+of closure, this will be carried out at different times, according to the progress of the works. The
+7-57
+==================================================================================
+PAGE 64
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-02. Rescue, collection and reuse of soil in the intervened areas
+Geographic location coordinates are identified in chapter 1.8.2 “Representation
+cartographic in DATUM WGS 84 (Art. 18º c.3.2.)”. The following figures show their
+spatial location within the study area.
+Figure 7-22. Vegetable soil collection area (yellow)
+Source: GAC
+• Soil rescue: The escarpment of the first 30 cm of soil will be carried out using
+machinery, prior to the extraction of waste/ore from the ZE, to the
+disposal of material in the ZD and earthworks for the Plant
+Processing. This will be done gradually and continuously, according to the progress of
+the works in each of the different areas and in accordance with the construction schedule
+and operation.
+• Soil collection: The steep soil will go to 1 collection area by trucks and
+Later it will be taken to the closed areas for reuse on the surface.
+Shape of
+This will be done gradually and continuously as the works progress. The
+implementation
+capacity of the topsoil collection area is 491,000 m3.
+• Reuse: As banks progressively close,
+exploited in the previously defined ZE, as well as sectors already filled in the
+ZD, the collected soil will be taken in trucks to these banks and sectors where
+will be spread on the ground. At the end of this stage, and to give stability to the soil,
+compaction will be carried out with a compaction roller on the surfaces that have
+been covered with the layer of rescued soil. The measure will be executed immediately
+MR-02 “Improvement and soil coverage in the intervened areas.”
+7-58
+==================================================================================
+PAGE 65
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-02. Rescue, collection and reuse of soil in the intervened areas
+The measure will be implemented during the construction phase and during the 6 years of the
+operation phase, that is, the rescue of soil by scarping the soil layer
+surface, its collection in the vegetal soil collection area, and its reuse at the moment
+Opportunity to
+of the closure of ZE exploitation banks and closure of areas already filled in the ZDs,
+implementation
+correspond to activities that will be carried out continuously according to the progress of
+the works. Land reuse will be carried out once at the time of closure of each area.
+Records of collected soil (Tons or cubic meters)
+Indicator
+Reused soil records (Tons or cubic meters)
+compliance
+Source: GAC
+ii. Improvement of soil properties in the intervened areas
+Table 7-28. MR-03. Improvement of soil properties in the intervened areas.
+MR-03. Improvement of
+soil properties in the intervened areas
+Name of the Measure Improvement of soil properties in the intervened areas
+Measurement Code MR-03
+Measurement type Repair
+Environmental component Soil.
+Protection object CCUS IV, VI and VIII soil surface
+Environmental impact ISU-01 Loss of soil natural resources.
+Associated Project Sector Slaughter facilities, processing plant, extraction areas Victoria
+to the northern impact, Maite Extraction Zone and Neptuno disposal zone.
+Project Phase Construction and Operation
+Improve the physical, chemical and biological properties of the soil that will be
+Objective reused on the surface of the intervened areas, in order to promote the
+vegetation growth.
+After carrying out the soil reuse activity in
+the intervened areas (MR-01), an improvement of the properties will be carried out
+Description of the soil through the application of organic compost (Class A under Standard
+Chilena 2880/2015) and sowing of herbaceous grasses Lolium perenne and Festuca
+arundinacea to cover and protect the soil from erosion.
+This measure will promote the growth of vegetation in the intervened areas and
+Justification will protect the soil from erosion, thus providing continuity of habitat for the
+vegetation and fauna with the areas surrounding the project, as well as
+7-59
+==================================================================================
+PAGE 66
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-03. Improvement of soil properties in the intervened areas
+will contribute to improving soil conditions to receive the measures of
+native forest afforestation and plant enrichment.
+Application of compost to soil disposed in already closed areas:
+The improvement of soil properties through the application of compost is
+will be carried out on the soil that will be reused on the surface of the areas already
+intervened and closed, which is related to measure MR-01. This
+activity will be done gradually, as the land is prepared
+on the intervened surfaces already closed in the ZE Victoria Norte, ZE Maite and
+ZD Neptune. The dose to be applied is 20 tons per ha. The coordinates
+geographical location are identified in chapter 1.8.2 “Representation
+cartographic in DATUM WGS 84 (Art. 18º c.3.2.)” of the Project Description.
+The following figures show its spatial location within the area of
+study.
+Figure 7-23. Project extraction areas
+Implementation location
+Source: GAC
+7-60
+==================================================================================
+PAGE 67
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-03. Improvement of soil properties in the intervened areas
+Figure 7-24. Project layout area
+Source: GAC
+Revegetation with planting of herbaceous species.
+After 2 weeks of applying the compost, a sowing of
+herbaceous Lolium perenne and Festuca arundinacea which will cover the soil
+in 3 to 4 weeks. A dose of 80 kg/ha will be used.
+It should be noted that ZE Luna will not be part of this measure, because it is a
+surface that after the mineral extraction stage (years 2028-2029),
+will become part of cell 4 of the "Operational Continuity Center" project
+of Concepción Waste Management", of the company Cemarc, whose Resolution of
+Environmental Qualification was approved in 2023. The construction of Cell No. 4
+It is projected for the year 2030. For more information See section 1.11.2.5.i.
+“Chronological Advancement of the ZE” of Chapter 1 Project Description.
+The application of compost and grass seeds will be carried out using
+Form of implementation of agricultural machinery that allows the incorporation of compost in the first
+centimeters of the soil and a planting equipment.
+The measure will be implemented according to the construction schedule and
+operation of the Project, and the advancement of measure MR-01. The application of
+Opportunity to
+compost will be made only once, after reuse.
+soil ion
+implementation
+in the intervened areas, prior to the revegetation of these areas.
+Records of collected soil (Tons or cubic meters)
+Compliance indicator
+Reused soil records (Tons or cubic meters)
+7-61
+==================================================================================
+PAGE 68
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MR-03. Improvement of soil properties in the intervened areas
+Compost purchase records
+Record of laboratory results (MO in soil samples)
+Source: GAC
+7.3.6 Measurement Plan for the Human Environment Component
+In consideration of the analysis of effects presented in Chapter 04 Prediction and Evaluation of Impacts,
+The main impact on the human environment is related to the installation of two (2) security control points.
+access, installation of signage and surveillance patrols; restricting the free movement of groups
+indigenous and non-indigenous humans for the development of traditional, cultural, recreational,
+sports and educational.
+Yo. Significant Impacts
+In this way, the following significant impacts were established for the Human Environment:
+a) IMH-01 Impact on the development of cultural and traditional practices of indigenous organizations
+along the forest road adjacent to Estero Penco due to access restriction through
+installation of access control points, informative signage and surveillance patrols.
+This impact may occur for all three phases of the Project (Construction, Operation and Closure).
+b) IMH-03 Restriction of access to natural resources (medicinal herbs) used by the GHPPI
+for medicinal and cultural purposes, hindering the manifestation of cultural and cultural activities.
+collective interests, for the installation of access control points, informative signage and
+surveillance rounds.
+This impact may occur for all three phases of the Project (Construction, Operation and Closure).
+In accordance with the background information presented in the Human Environment Baseline and Annex of
+Anthropological Characterization, some local inhabitants linked to Human Groups
+Belonging to identified Indigenous Peoples (GHPPI), they would access the sectors along the edge of the estuary
+Penco in order to collect medicinal herbs. In this regard, they have been identified in the city of Penco
+two (2) urban Mapuche organizations that practice cultural practices in the vicinity of the Project;
+specifically, the so-called “Lawen Mawida” and “Koñintu Lafken Mapu Penco”.
+7-62
+==================================================================================
+PAGE 69
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+ii. Definition of measurements
+Based on the significant impacts identified, the following measures are proposed:
+Table 7-29. Proposed measures for the Human Environment component
+Type of Measure Associated Impact Proposed Measure
+IMH-01 Impact on the development of practices
+cultural and traditional organizations MM-05 Controlled access protocol
+indigenous people along the adjacent forest road for GHPPI
+to Penco estuary due to access restriction through
+installation of access control points, MM-06 Information plan and
+informative signage and surveillance patrols. communication with GHPPI
+Mitigation IMH-03 Restriction of access to natural resources
+(medicinal herbs) used by the GHPPI with
+medicinal and cultural purposes, hindering the MM-07 Support plan for
+manifestation of cultural activities and interests strengthening of cultural practices
+collectives, for the installation of GHPPI control points
+access, informative signage and rounds of
+surveillance.
+Source: GAC
+7.3.6.1 Mitigation Measures
+i. Controlled Access Protocol for GHPPI
+Table 7-30. Controlled Access Protocol for GHPPI
+MM-05 Controlled Access Protocol for GHPPI
+Name of the
+Controlled Access Protocol for GHPPI
+measure
+code
+MM-05
+Measurement
+Type of measure Mitigation
+Component
+Human Environment
+environmental
+GHPPIs identified in Characterization Annex A
+nthropology and the Environment Baseline
+Object of
+Human as users of the controlled access area; namely: Koñintu Indigenous Association
+Protection
+Lafken-Mapu Penco and Mapuche Cultural Association Lawen Mawida.
+IMH-01 Impact on the development of cultural and traditional practices of organizations
+Indigenous impact along the forest road adjacent to Estero Penco due to access restriction
+environmental protection through the installation of access control points, informative signage and rounds of
+surveillance.
+The provision of two (2) access control points on the forest road is planned
+Place of
+adjacent to Estero Penco, used by the GHPPI to access waste collection areas.
+occurrence of
+medicinal herbs and other areas for the development of cultural practices.
+impact
+The access control points to enable are presented below.
+7-63
+==================================================================================
+PAGE 70
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-05 Controlled Access Protocol for GHPPI
+Figure 7-25. Access control points near ZE Victoria Norte
+Source: GAC
+Members of the Lawen Mawida Association walk along an existing private forest road
+and adjacent to the Penco estuary up to km 1.2, where they carry out identification and
+collection of native and medicinal plants, a place located approximately 600
+meters from the nearest work (Victoria North extraction area). For their part, the members
+of the Koñintu Lafken Mapu Penco Indigenous Association also uses the same path,
+performing ceremonies linked to the collection of herbs in the sectors of El Tranque,
+located approximately 1,200 meters from the nearest work (extraction area) and Los
+Queules, located north of the Victoria Norte extraction zone (the closest work); as well as
+also collecting medicinal herbs along the aforementioned path,
+mainly during the spring - summer season and raw materials for the
+Mapuche basketry making.
+7-64
+==================================================================================
+PAGE 71
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-05 Controlled Access Protocol for GHPPI
+Figure 7-26. Location of El Tranque, Los Queules and Penco estuary sectors and collection sites.
+herbs
+Source: GAC
+Phase of
+Project
+Construction, Operation, Closure.
+occurrence of
+impact
+Coordinate controlled access to medicinal herb collection sites and storage areas.
+development of cultural activities for the GHPPI that carry out such activities, and that
+were identified in the Anthropological Report and the Human Environment Baseline,
+Objective of the
+through an access protocol that allows the execution of the activities of the Project
+measure
+safely, avoiding possible risks to the GHPPI that have historically used
+these areas, so that they can continue to carry out their cultural practices in a
+compatible with the security standards that the Project will have.
+Establish a protocol that allows, during the execution, in all its phases, of the Project
+of Clay Extraction for the Production of Rare Earths, entry to the areas of
+collection of medicinal herbs and other areas for the development of cultural activities
+by the members of the GHPPI identified in the Human Environment Baseline
+Description of the
+in the controlled access area, partially limited by the two security checkpoints.
+measure
+designated access.
+The protocol, in its design, considers the following elements:
+7-65
+==================================================================================
+PAGE 72
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-05 Controlled Access Protocol for GHPPI
+- Entry Form: The community i
+indigenous person interested and identified as a user of the
+area protocolized in the EIA, you must complete a written entry form to the
+Company, indicating date of entry, sectors to be used, people and vehicles that will enter
+and departure date. This process will be carried out in the most expeditious way that the community desires.
+apply, considering the Open House Aclara or via telephone or email or letter before the
+income.
+- Validation: The Owner will have a period of 5 business days to generate the validation
+corresponding, and must inform the applicant of the resolution in writing and also via
+telephone and/or in person, in order to ensure that communication is timely. This task
+is in charge of the Owner's professionals deployed in the commune.
+- Entry and exit: Once validation is obtained, the community will be able to enter the area
+controlled access, being responsible for compliance with what is declared in the form
+of entry, including departure time.
+The measure considers all the members of each Association when raising
+each form to the Owner. Likewise, this measure can be extended to new users
+that prove that they use the protocol area to carry out data collection tasks.
+herbs.
+The EIA recognizes that the controlled access area could be used by the
+Justification of individualized Mapuche indigenous and cultural associations, so the measure is aimed at
+The measure facilitates access in a safe and controlled manner for the development of the practice object of
+protection.
+Aclara Open House, Penco; via telephone or email; letter.
+- Entry Form: the interested Association identified in the Characterization Annex
+Place of
+Anthropology and the Human Environment Baseline as a user of the access area
+implementation
+controlled, you must complete a written entry form to the Owner, at the House
+Open Aclara in Penco or another office of the Owner in the commune or by telephone or mail
+email or letter before admission.
+- Entry Form: The interested Association identified in the Characterization Annex
+Anthropology and the Human Environment Baseline as a user of the access area
+controlled, you must complete a written entry form to the Owner, indicating the date
+and entry time, sectors to be used, people and vehicles that will enter and date and time
+exit. This process will be carried out at the Aclara Open House in Penco or by telephone or email.
+Form of email or letter before admission.
+implementation
+- Validation: The Owner will have a period of 5 business days to generate the validation
+corresponding, and must inform the applicant of the resolution in writing and also via
+telephone and/or in person, in order to ensure that communication is timely. This task
+is in charge of the Owner's professionals deployed in the commune.
+7-66
+==================================================================================
+PAGE 73
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-05 Controlled Access Protocol for GHPPI
+- Entry and exit: Once validation is obtained, the Association will be able to enter the area of
+controlled access, being responsible for compliance with what is declared in the registration form
+entry, including departure time.
+The Owner will have a period of 90 calendar days prior to the execution of the start milestone,
+to inform the indigenous associations that use the controlled access area
+identified in the EIA, of the new protocol and its implementation through a Charter
+informative with the details of the protocol addressed to the president and secretary of each
+individualized indigenous association.
+Opportunity to Whenever the GHPPI identified in the Annex of Anthropological Characterization and Line
+Human Environment Base implementation as users of the controlled access area require it.
+- Protocol for access to Medicinal Herb Collection areas and other sites used
+for cultural purposes.
+Indicator - Delivery of an informative letter of the Protocol to both Associations identified as users
+compliance with the controlled access area in the EIA.
+- Registry of accreditations authorized by the Ti
+tular that meet the basic requirements
+of application.
+Shape of
+Annual report to the SMA on the use of the Protocol for access to Herb Collection areas
+control and
+Medicinal by the GHPPI identified in the EIA.
+tracking
+ii. Information and communication plan with GHPPI
+Table 7-31. MM-06 Information and communication plan with GHPPI
+MM-06 Information and communication plan with GHPPI
+Name of the
+Information and communication plan with GHPPI
+measure
+Measurement Code MM-06
+Type of measure Mitigation
+Component
+Human Environment
+environmental
+GHPPI identified in the Anthropological Characterization Annex and the Baseline of
+Object of
+Human Environment as a user of the controlled access area; namely: Indigenous Association
+Protection
+Koñintu Lafken-Mapu Penco and Mapuche Cultural Association Lawen Mawida.
+IMH-01 Impact on the development of cultural and traditional practices of organizations
+Indigenous impact along the forest road adjacent to Estero Penco due to access restriction
+environmental protection through the installation of access control points, informative signage and rounds of
+surveillance.
+The provision of two access control points is planned on the adjacent forest road
+Place in Estero Penco, used by the GHPPI to access herb collection areas
+occurrence of medicinal and other areas for the development of cultural practices.
+impact The access control points to enable are presented below.
+7-67
+==================================================================================
+PAGE 74
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 7-27. Access control points near ZE Victoria Norte
+Source: GAC
+Members of the Lawen Mawida Association walk a private forest road
+existing and adjacent to the Penco estuary up to km 1.2, where they carry out workshops
+identification and collection of native and medicinal plants, a place located at
+approximately 600 meters from the nearest work (Victoria Norte extraction area).
+For their part, the members of the Koñintu Lafken Mapu Penco Indigenous Association also
+uses the same path, performing ceremonies linked to the collection of herbs in
+the sectors of El Tranque, located approximately 1,200 meters from the nearest work
+(extraction area) and Los Queules, located approximately 200 meters north of the work
+nearest (Victoria North extraction area); as well as herb gathering
+medicinal plants along the aforementioned path, mainly during the season
+spring - summer and raw materials for the production of Mapuche basketry.
+7-68
+==================================================================================
+PAGE 75
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-06 Information and communication plan with GHPPI
+Figure 7-28. Location of El Tranque, Los Queules and Penco estuary sectors
+Source: GAC
+Project Phase
+of occurrence of Construction, Operation, Closure
+impact
+Inform the community in a timely manner regarding access restrictions,
+promote understanding of the reasons behind restrictions and encourage
+Objective of the
+cooperation of GHPPIs in compliance with access control measures. Perform
+measure
+adjustments to the access protocol according to the requirements of each Association, if necessary
+necessary.
+Carry out educational and awareness campaigns on the security reasons that
+generate restrictions on access to circulation, through the application of the following
+actions:
+- Meetings with Associations: The Owner will organize at least one information meeting
+initial agreement with each Association, which will explain the reasons and manner in which
+will implement access control points. On this occasion doubts will be expressed and
+Description of the
+Specific agreements will be made to facilitate subsequent applications for admission, according to
+measure
+Entry Protocol.
+Subsequently, an annual feedback meeting will be held to evaluate the system
+controlled entry, incorporating adjustments
+tests and improvements, if necessary.
+- Certified letter and email: Certified letter and email will be sent to
+both Associations indicating the date of installation of the access control points and
+the entry application mechanism (Entry Protocol).
+7-69
+==================================================================================
+PAGE 76
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-06 Information and communication plan with GHPPI
+- Direct telephone line: Through direct telephone contact, members of the
+Association may present their queries and requests in a timely and direct manner. The line
+direct telephone will be informed in the certified letter and email indicated in the
+previous point.
+The application of the Information and Communication Plan with GHPPI is aimed at guaranteeing
+that the GHPPI identified in the Anthropological Characterization Annex and the Baseline
+Justification of Medio Humano as a user of the controlled access area; namely: Indigenous Association
+measure Koñintu Lafken-Mapu Penco and Mapuche Cultural Association Lawen Mawida are
+informed of access restrictions and protocols, facilitating the implementation and
+compliance with this security measure.
+Place of
+Aclara Open House, Penco; via telephone; email; letter.
+implementation
+- Meetings with the Associations: An initial information meeting will be held with each
+Association, prior to the installation of access control points. There will be a
+annual evaluation and feedback meeting.
+- Certified letter and email: Certified letter and email will be sent to
+Shape of
+both Associations indicating the date of installation of the access control points and
+implementation
+the entry request mechanism, prior to the installation of the entry points
+access control.
+- Direct telephone line: The direct telephone line will be available from the beginning of the
+construction stage and during all phases of the Project.
+Opportunity to Prior to the installation of access control points and during all phases
+Project implementation.
+- Minutes of meetings held, attendance record
+Indicator
+- Copy of certified letter and informative email.
+compliance
+- Direct telephone line activation
+Control form Annual report to the SMA with the results of the information and communication plan with the
+and GHPPI monitoring identified in the EIA.
+iii. Support plan to strengthen cultural practices of the GHPPI
+Table 7-32. MM-07 Support plan for strengthening cultural practices of the GHPPI
+MM-07 Support plan for strengthening cultural practices of the GHPPI
+Name of the
+Support plan to strengthen cultural practices of the GHPPI
+measure
+Measurement Code MM-07
+Type of measure Mitigation
+Component
+Human Environment
+environmental
+7-70
+==================================================================================
+PAGE 77
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-07 Support plan for strengthening cultural practices of the GHPPI
+GHPPI identified in the Anthropological Characterization Annex and the Environment Baseline
+Human object carrying out cultural activities and collecting medicinal herbs in Fundo
+Coihueco Protection; namely: Koñintu Lafken-Mapu Penco Indigenous Association and Cultural Association
+Mapuche Lawen Mawida.
+IMH-03 Restriction of access to natural resources (medicinal herbs) used by GHPPI
+for medicinal and cultural purposes, hindering the manifestation of cultural and cultural activities.
+Environmental impact
+collective interests, for the installation of access control points, informative signage and
+surveillance rounds.
+The provision of two access control points is planned on the forest road adjacent to the
+Estero Penco, used by the GHPPI to access herb collection areas
+medicinal and other areas for the development of cultural practices.
+The checkpoints of a
+access to enable are presented below.
+Figure 7-29. Access control points
+Place of occurrence
+of the impact
+Source: GAC
+The existence of cultural practices in the vicinity of the Project is recognized, specifically
+of two (2) urban Mapuche organizations from the commune of Penco, called “Lawen
+Mawida” and “Koñintu Lafken Mapu Penco”, who, among other areas, collect
+native and medicinal plants along a private road adjacent to the Penco estuary, in the
+Fundo Coihueco, as well as ceremonies associated with said collection activities
+in the “El Tranque” and “Los Queules” sectors.
+Figure 7-30. Location of El Tranque, Los Queules and Penco estuary sectors
+7-71
+==================================================================================
+PAGE 78
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-07 Support plan for strengthening cultural practices of the GHPPI
+Source: GAC
+In this regard, and according to the information collected in the Human Environment Baseline
+and the anthropological characterization appendix, are the women of the Koñintu Lafken Association
+Mapu Penco those that mainly carry out, and currently, seek to reactivate the practices
+cultural of the Mapuche people. Being the collection of medicinal herbs, one of the
+most relevant practices and which constitutes an identity around it; while the
+Lawen Mawida Group, its main cultural practices are related to meetings,
+workshops to reactivate the Mapuche language, the use of medicinal herbs and participation in
+ceremonial activities of an indigenous nature.
+Project Phase
+of occurrence of Construction, Operation, Closure
+impact
+Promote cooperation with the GHPPI to strengthen their cultural practices and
+Objective of the
+indigenous resignification of the identified GHPPI, giving emphasis to the material and
+measure
+intangible assets linked to natural resource extractive practices and their processing.
+The Support Plan will consist of making a discussion table available to the identified GHPPI.
+work for the development of community benefit projects linked to the rescue of
+Description of the species specific to the sector, promotion of culture (material and immaterial) associated with the practice
+measure of collection of said resources, and enhancement of related practices and customs
+with the products obtained from their processing. The projects will be chosen from
+participatory manner with the identified GHPPI.
+7-72
+==================================================================================
+PAGE 79
+==================================================================================
+Chapter 7
+Mitigation, repair and compensation measures plan
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+MM-07 Support plan for strengthening cultural practices of the GHPPI
+This measure is proposed as a way to mitigate the impact associated with restrictions on
+Justification of the
+access to natural resources (medicinal herbs) used by GHPPI for medicinal purposes
+measure
+and cultural, hindering the manifestation of cultural activities and collective interests.
+Place of The place of implementation of the measure will be defined together with the Community, and may
+implementation be on the same property or in another place, in agreement with them.
+Form of implementation: For the execution and monitoring of the projects, the
+following mechanism:
+A Working Group will be established, made up of at least two representatives from each
+GHPPI identified and by two representatives of the Owner, to jointly define the lines
+Form of strategies that will be developed. Based on these strategic lines, they will be implemented
+implementation of project selection processes, with a participatory and representative method of the
+members of the Community. Once the project is selected, it will be ratified in a
+agreement signed by the parties. The Owner will make available a professional to accompany the
+execution of the Projects, and to report to the Working Group the correct execution of these,
+in formal and accounting aspects.
+Opportunity d
+e The Work Table will be developed prior to the installation of the control points of
+access implementation and during all phases of the Project.
+- Minutes of meetings held, attendance record
+Indicator
+- Copy of certified letter and informative email.
+compliance
+- Direct telephone line activation
+Annual compliance report on the progress of the Measure, which contains the following
+verifiers: Meeting minutes and agreements of the Working Group with attendance list
+Control and signed form, for the different instances of the process (definition of lines of work and choice of
+project monitoring, at least), and photographic record.
+The report must be presented to the competent bodies for a maximum of three months.
+after the end of each year of implementation of the measure.
+Source: GAC
+7-73

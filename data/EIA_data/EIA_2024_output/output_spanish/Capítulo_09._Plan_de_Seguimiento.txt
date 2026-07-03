@@ -1,0 +1,1706 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Capítulo 9
+Plan de seguimiento de
+las variables ambientales relevantes
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+9 Plan de Seguimiento de las Variables Ambientales Relevantes (art. 18° k) ................................. 9-1
+9.1 Introducción ............................................................................................................................... 9-1
+9.2 Objetivos .................................................................................................................................... 9-2
+9.2.1 Objetivo General ................................................................................................................ 9-2
+9.2.2 Objetivos Específicos .......................................................................................................... 9-2
+9.3 Metodología ............................................................................................................................... 9-2
+9.3.1 Variables ambientales relevantes ...................................................................................... 9-3
+9.4 Plan de seguimiento medidas de impactos significativos .......................................................... 9-5
+9.4.1 Plan de Seguimiento para el Componente Calidad del Aire .............................................. 9-5
+9.4.2 Plan de Seguimiento para el Componente Plantas (Flora y vegetación) ........................... 9-9
+9.4.3 Plan de Seguimiento para el Componente Fauna Vertebrada ......................................... 9-14
+9.4.4 Plan de seguimiento para el Componente Fauna invertebrada ...................................... 9-21
+9.4.5 Plan de Seguimiento para el Componente Suelo ............................................................. 9-25
+9.4.6 Plan de Seguimiento para el Componente Medio Humano ............................................. 9-30
+i
+================================================================================
+PAGE 3
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 9-1: Plan de medidas para impactos significativos ........................................................................... 9-3
+Tabla 9-2: Seguimiento medida de mitigación MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto
+CEMARC ...................................................................................................................................................... 9-5
+Tabla 9-3: Seguimiento medida de mitigación MC-02: Aumento en control de emisiones en 3,5 kms para
+camino de acceso a CEMARC ..................................................................................................................... 9-6
+Tabla 9-4: Seguimiento medida de mitigación MC-03: Reemplazo de equipos de calefacción y cocinas que
+utilizan leña como combustible ................................................................................................................. 9-8
+Tabla 9-5: Seguimiento medida de mitigación MM-01: Rescate y Relocalización de 20 ejemplares de
+Citronella mucronata .................................................................................................................................. 9-9
+Tabla 9-6. Seguimiento medida de compensación MC-01: Colecta de Germoplasma, Viverización y
+Replante de Individuos de Asplenium trilobum, Gardoquia multiflora y Vestia foetida ......................... 9-11
+Tabla 9-7. Seguimiento Medida Mitigación MM-02: Plan de Rescate y Relocalización de Fauna Vertebrada
+.................................................................................................................................................................. 9-14
+Tabla 9-8. Seguimiento Medida de Mitigación MM-03: Plan de Perturbación Controlada ..................... 9-17
+Tabla 9-9. Seguimiento Medida de reparación MR-01: Revegetación áreas intervenidas ZD y ZE con
+vegetación nativa (excepto ZE Luna). ....................................................................................................... 9-19
+Tabla 9-10. Seguimiento medida de compensación MC-05: Protección de áreas aledañas al proyecto 9-20
+Tabla 9-11. Seguimiento Medida de Mitigación MM-04: Plan de rescate y relocalización de fauna
+invertebrada. ............................................................................................................................................ 9-21
+Tabla 9-12. Seguimiento Medida de reparación MR-02: Rescate, acopio y reutilización de suelo en las áreas
+intervenidas. ............................................................................................................................................. 9-25
+Tabla 9-13. Seguimiento Medida de Reparación MR-03: Mejoramiento de propiedades de suelo en las
+áreas intervenidas. ................................................................................................................................... 9-28
+Tabla 9-14. Seguimiento Medida de Mitigación MM-05 Protocolo de acceso para GHPPI ..................... 9-30
+Tabla 9-15. Seguimiento Medida de Mitigación MM-06 Plan de información y comunicación con GHPPI 9-
+32
+Tabla 9-16. Seguimiento Medida de Mitigación MM-07 Plan de apoyo al fortalecimiento de prácticas
+culturales de los GHPPI ............................................................................................................................ 9-34
+ii
+================================================================================
+PAGE 4
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 9-1. Sector de cambio de carpeta ................................................................................................... 9-6
+Figura 9-2. Sector de implementación de la medida ................................................................................. 9-7
+Figura 9-3.Sector de implementación de la medida .................................................................................. 9-8
+Figura 9-4. Sector de relocalización en quebrada al noreste del Área de Influencia ............................... 9-10
+Figura 9-5. Sector de enriquecimiento en quebrada al noreste del Área de Influencia .......................... 9-12
+Figura 9-6.Áreas de rescate de fauna de baja movilidad. ........................................................................ 9-14
+Figura 9-7.Área de relocalización de fauna de baja movilidad. ............................................................... 9-15
+Figura 9-8.Ubicación de ZE (izq.) (excepto ZE Luna) y ZD (der.) que serán revegetadas. ........................ 9-19
+Figura 9-9.Áreas de rescate de fauna de baja movilidad. ........................................................................ 9-22
+iii
+================================================================================
+PAGE 5
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+9 PLAN DE SEGUIMIENTO DE LAS VARIABLES AMBIENTALES RELEVANTES (ART.
+18° K)
+9.1 Introducción
+Conforme con lo establecido en la Ley N°19.300 sobre Bases Generales del Medio Ambiente, y sus
+modificaciones, y en el D.S. N° 40/2012 del MMA, y sus modificaciones, Reglamento del Sistema de
+Evaluación de Impacto Ambiental, específicamente en sus artículos 18, letra k), y artículo 105, en este
+Capítulo se presenta el Plan de Seguimiento de las variables ambientales del “Proyecto de Extracción de
+Arcillas para Producción de Concentrado de Tierras Raras”.
+Ello se origina según los resultados de los Capítulos 4, 5 y 7 de este EIA, por cuanto el Proyecto, generará
+o presentará algunos efectos, características o circunstancias a que se refiere el artículo 11 de la Ley
+19.300, que hacen necesaria la implementación de diversas medidas de seguimiento o monitoreo
+ambiental.
+De acuerdo con lo indicado en el artículo 105 del citado D.S. N°40/2012, este plan tiene como finalidad
+asegurar que todas las variables ambientales relevantes que fueron objeto de evaluación ambiental
+evolucionen según lo proyectado.
+El Plan de Seguimiento Ambiental ha sido elaborado en formato de ficha y estructurado considerando los
+siguientes contenidos:
+• Fase del proyecto
+• Componente del medio ambiente que será objeto de medición y control
+• Impacto ambiental y medida asociada
+• Ubicación de los puntos de control
+• Parámetros que serán utilizados para caracterizar el estado y evolución de dicho componente
+• Límites permitidos o comprometidos
+• Duración y frecuencia del plan de seguimiento para cada parámetro
+• Método o procedimiento de medición para cada parámetro
+• Plazo y frecuencia de entrega de los informes con la evaluación de los resultados
+• Otros aspectos relevantes
+9-1
+================================================================================
+PAGE 6
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+9.2 Objetivos
+9.2.1 Objetivo General
+Este plan tiene como propósito definir acciones y actividades que será necesario realizar, a fin de
+comprobar la eficacia de las medidas propuestas en el Plan de Medidas de Mitigación, Reparación y/o
+Compensación (Capítulo 7 del EIA). Así, mediante su implementación se podrá verificar que los factores
+ambientales con relevancia para el Proyecto evolucionan según lo pronosticado.
+9.2.2 Objetivos Específicos
+• Asegurar que las variables ambientales relevantes que fueron objeto de evaluación ambiental
+evolucionan según lo proyectado.
+• Verificar la efectividad de las medidas de mitigación, reparación y/o compensación propuestas
+para aquellos impactos significativos.
+• Para las variables que estarán sujetas al seguimiento, detectar de manera temprana cualquier
+efecto no previsto y no deseado, de modo que sea posible controlarlo aplicando oportunamente
+las medidas o acciones pertinentes.
+9.3 Metodología
+El Plan de Seguimiento Ambiental incorpora el seguimiento de las variables ambientales que dieron origen
+al EIA conforme al art. 11 de la Ley 19.300, así como las variables ambientales relevantes que fueron objeto
+de evaluación ambiental que se estima necesitan ser observadas durante todas las fases del Proyecto.
+En virtud de lo indicado en el artículo 105 del Reglamento del SEIA, el Plan ha sido elaborado de
+conformidad a las instrucciones generales que ha dictado la Superintendencia del Medio Ambiente y
+contiene, cuando sea procedente, para cada fase del Proyecto, el componente del medio ambiente que
+será objeto de medición y control; el impacto ambiental y la medida asociada; la ubicación de los puntos
+de control; los parámetros que serán utilizados para caracterizar el estado y evolución de dicho
+componente; los límites permitidos o comprometidos; la duración y frecuencia del plan de seguimiento
+para cada parámetro; el método o procedimiento de medición de cada parámetro; el plazo y frecuencia
+de entrega de los informes con la evaluación de los resultados y cualquier otro aspecto que se ha estimado
+relevante.
+Para el diseño del plan de seguimiento se ha tenido en consideración las instrucciones de la SMA
+contenidas en la Res Ex N°223 del 26 de marzo de 2015, y sus modificaciones, que dicta instrucciones
+generales respecto de la elaboración de un Plan de Seguimiento de las Variables Ambientales.
+9-2
+================================================================================
+PAGE 7
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+9.3.1 Variables ambientales relevantes
+El programa de seguimiento ambiental considerará las variables ambientales que se verán afectadas
+significativamente:
+• Calidad del aire
+• Flora y vegetación
+• Fauna terrestre vertebrada
+• Fauna terrestre invertebrada
+• Suelo
+• Medio humano
+Tabla 9-1: Plan de medidas para impactos significativos
+COMPONENTE IMPACTO TIPO DE MEDIDA NOMBRE MEDIDA FASES
+Compensación MC-01 Cambio de carpeta en
+Construcción, operación y
+1,6 km de acceso a Proyecto
+cierre
+ICA-01 Aumento de la CEMARC.
+concentración Compensación MC-02 Aumento en control de Construcción, operación y
+ambiental de material emisiones en 3,5 kms para cierre
+Calidad del Aire
+particulado respirable camino de acceso a CEMARC.
+en receptores (MP10 y Compensación MC-03 Reemplazo de equipos Construcción, operación y
+MP2,5) de calefacción y cocinas que cierre
+utilizan leña como
+combustible.
+MM-01 Rescate y
+IFV-02 Pérdida de relocalización de 20
+Mitigación Construcción
+ejemplares de flora ejemplares de Citronella
+mucronata
+Flora y MC-04 Colecta de
+Vegetación germoplasma, viverización y
+IFV-02 Pérdida de replante de individuos de
+Compensación Construcción; Operación
+ejemplares de flora Vestia foetida, Gardoquia
+multiflora y Asplenium
+trilobum.
+MM-02 Plan de Rescate y
+IFA-01. Pérdida de relocalización de fauna
+ejemplares de interés Mitigación vertebrada Construcción; Operación
+Fauna Terrestre y/o sensibles MM-03 Plan de perturbación
+vertebrada controlada
+MR-01 Revegetación de áreas
+IFA-02 Perdida y/o Construcción;
+Reparación intervenidas ZD y ZE con
+modificación de hábitat Operación
+vegetación nativa
+9-3
+================================================================================
+PAGE 8
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+COMPONENTE IMPACTO TIPO DE MEDIDA NOMBRE MEDIDA FASES
+de especies de interés
+MC-05 Protección de áreas
+y/o sensibles Compensación
+aledañas al Proyecto
+IFI-01 Pérdida de
+ejemplares de fauna de
+interés y/o sensibles MM-04 Plan de rescate y
+Fauna Construcción; Operación,
+IFI-02 Perdida y/o Mitigación relocalización de fauna
+invertebrada Cierre
+modificación de hábitat invertebrada
+de especies de interés
+y/o sensibles
+MR-02 Rescate, acopio y
+reutilización de suelo en áreas
+ISU-01 Pérdida del intervenidas
+Suelo Reparación Construcción; Operación
+recurso natural suelo MR-03 Mejoramiento de
+propiedades de suelo en áreas
+intervenidas
+IMH-01 Afectación al
+desarrollo de prácticas
+culturales y
+tradicionales de
+organizaciones
+indígenas a lo largo del MM-05 Protocolo de acceso
+camino forestal controlado para GHPPI Construcción; Operación,
+Medio Humano Mitigación
+adyacente a estero MM-06 Plan de información Cierre
+Penco por restricción de y comunicación con GHPPI
+acceso mediante
+instalación de puntos
+de control de acceso,
+señalética informativa y
+rondas de vigilancia
+9-4
+================================================================================
+PAGE 9
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+COMPONENTE IMPACTO TIPO DE MEDIDA NOMBRE MEDIDA FASES
+IMH-03 Restricción de
+acceso a recursos
+naturales (hierbas
+medicinales) utilizadas
+por los GHPPI con fines
+medicinales y culturales
+MM-07 Plan de apoyo al
+dificultando la
+fortalecimiento de
+manifestación de
+prácticas culturales de los
+actividades culturales e
+GHPPI
+intereses colectivos,
+por la instalación de
+puntos de control de
+acceso, señalética
+informativa y rondas de
+vigilancia
+Fuente: GAC
+9.4 Plan de seguimiento medidas de impactos significativos
+A continuación, se presenta el Plan de Seguimiento de las medidas consideradas para los impactos
+significativos del Proyecto.
+9.4.1 Plan de Seguimiento para el Componente Calidad del Aire
+Para esta componente se han considerado tres medidas:
+• MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC.
+• MC-02: Aumento en control de emisiones en 3,5 kms para camino de acceso a CEMARC
+• MC-03: Reemplazo de equipos de calefacción y cocinas que utilizan leña como combustible.
+Tabla 9-2: Seguimiento medida de mitigación MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Fase del Proyecto Construcción, operación y cierre
+Componente Ambiental Calidad del aire
+ICA-01 Afectación de receptores humanos por aumento de concentración de material
+Impacto Asociado
+particulado y gases
+Medida Asociada MC-01: Cambio de carpeta en 1,6 km de acceso a Proyecto CEMARC
+Ubicación de los Puntos El lugar de aplicación de la medida corresponde a un tramo de aproximadamente 1,6
+de control o Sitios de kilómetros de camino previo al ingreso a CEMARC. La Figura 9-1 presenta la ubicación
+muestreo, medición, del camino en donde se implementará el cambio de carpeta de camino no
+análisis o control pavimentado a asfalto.
+9-5
+================================================================================
+PAGE 10
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción, operación y cierre
+Figura 9-1. Sector de cambio de carpeta
+Fuente: GAC
+El parámetro a monitorear corresponde a la verificación del buen estado de la carpeta
+Parámetros a monitorear
+mediante inspecciones visuales.
+Límites permitidos o Se considera la inspección del 100% del camino en donde es realizado el cambio de
+comprometidos carpeta.
+Duración y frecuencia del
+Semestralmente durante toda le ejecución del Proyecto.
+muestreo
+Método o procedimiento El parámetro será monitoreado mediante la inspección visual de toda la superficie de
+de medición de cada la carpeta asfáltica implementada, registrándose desviaciones respecto del estado de
+parámetro conservación de la carpeta.
+Se confeccionarán informes semestrales y anuales, en los que se indique:
+• Responsable de cada inspección.
+Frecuencia y plazo de • Identificación de desviaciones o eventos de deterioro respecto del estado de
+entrega de los informes conservación de la carpeta.
+de seguimiento • Registro de medidas implementadas para reparar el deterioro o daño de la
+carpeta.
+• Registro de fecha de inicio y término de reparaciones de la carpeta asfáltica.
+Fuente: GAC
+Tabla 9-3: Seguimiento medida de mitigación MC-02: Aumento en control de emisiones en 3,5 kms para camino
+de acceso a CEMARC
+Fase del Proyecto Construcción, operación y cierre
+Componente Ambiental Calidad del aire
+9-6
+================================================================================
+PAGE 11
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción, operación y cierre
+ICA-01 Afectación de receptores humanos por aumento de concentración de material
+Impacto Asociado
+particulado y gases
+MC-02: Aumento en control de emisiones en 3,5 kms para camino de acceso a
+Medida Asociada
+CEMARC
+El lugar de aplicación de la medida corresponde a un tramo de aproximadamente 3,5
+kilómetros de camino posterior al ingreso desde la Ruta 150, hacia el acceso a
+CEMARC. La Figura 9-1 presenta la ubicación del camino en donde se implementará
+el aumento de control de emisiones para material particulado.
+Figura 9-2. Sector de implementación de la medida
+Ubicación de los Puntos
+de control o Sitios de
+muestreo, medición,
+análisis o control
+Fuente: GAC
+El parámetro a monitorear corresponde a la verificación de la eficiencia de 80% del
+Parámetros a monitorear supresor para emisiones de material particulado producto de tránsito vehicular en el
+camino en donde es aplicada la medida.
+Límites permitidos o Se considera una eficiencia promedio no inferior al 80% para el control de las
+comprometidos emisiones de material particulado.
+Duración y frecuencia del
+Anualmente durante toda le ejecución del Proyecto.
+muestreo
+El parámetro será monitoreado mediante la utilización de un equipo móvil de conteo
+Método o procedimiento
+de partículas, cuyo resultado será contrastado con el valor medido en el camino sin
+de medición de cada
+medida de control. El procedimiento de medición se presenta en el Anexo 1-4 Plan de
+parámetro
+supresión de polvo
+Frecuencia y plazo de Se confeccionarán informes anuales, en los que se indique:
+entrega de los informes • Fecha y hora de inicio y fin de aplicación
+de seguimiento • Camino y punto de inicio y fin de aplicación (acompañar de archivo GPS)
+9-7
+================================================================================
+PAGE 12
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción, operación y cierre
+• Cantidad de supresor aplicada
+• Dosis medida por m2 por método de bandeja, registrando velocidad de
+aplicación.
+• Ancho de aplicación
+• Longitud aplicación
+• Responsable y firma.
+Fuente: GAC
+Tabla 9-4: Seguimiento medida de mitigación MC-03: Reemplazo de equipos de calefacción y cocinas que utilizan
+leña como combustible
+Fase del Proyecto Construcción, operación y cierre
+Componente Ambiental Calidad del aire
+ICA-01 Afectación de receptores humanos por aumento de concentración de material
+Impacto Asociado
+particulado y gases
+MC-03 Reemplazo de equipos de calefacción y cocinas que utilizan leña como
+Medida Asociada combustible. Pago de los costos fijos y variables involucrados durante las fases de
+construcción, operación y cierre
+La medida de reemplazo de calefactores y cocinas que utilicen leña como
+combustible, será implementada en las viviendas identificadas como R_11, R_28 y
+R_32. Que corresponden a los receptores en donde fue determinado un impacto
+significativo.
+Figura 9-3.Sector de implementación de la medida
+Ubicación de los Puntos
+de control o Sitios de
+muestreo, medición,
+análisis o control
+Fuente: GAC
+9-8
+================================================================================
+PAGE 13
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción, operación y cierre
+El parámetro a monitorear corresponde a la verificación del buen estado de operación
+Parámetros a monitorear
+de los equipos instalados.
+Límites permitidos o Se considera que el 100% de los equipos deben encontrarse operativos, previo al
+comprometidos periodo invernal.
+Duración y frecuencia del
+Anualmente durante toda le ejecución del Proyecto.
+muestreo
+Método o procedimiento
+Se verificará en cada una de las tres viviendas que los equipos se encontrarán en
+de medición de cada
+buenas condiciones técnicas para su operación.
+parámetro
+Se confeccionarán informes anuales, en los que se indique:
+• Fecha y hora de verificación del estado de cada artefacto
+Frecuencia y plazo de
+• Estado de cada artefacto instalado.
+entrega de los informes
+• Requerimiento de mantención/reparación de cada equipo.
+de seguimiento
+• Fecha de reparación y verificación de correcto funcionamiento.
+• Responsable y firma.
+Fuente: GAC
+9.4.2 Plan de Seguimiento para el Componente Plantas (Flora y vegetación)
+Para esta componente se han definido dos medidas:
+• MM-01. Rescate y relocalización de 20 ejemplares de Citronella mucronata.
+• MC-04. Colecta de germoplasma, viverización y replante de individuos de Vestia foetida,
+Gardoquia multiflora y Asplenium trilobum.
+Tabla 9-5: Seguimiento medida de mitigación MM-01: Rescate y Relocalización de 20 ejemplares de Citronella
+mucronata
+Fase del Proyecto Construcción y Operación
+Componente
+Flora y vegetación
+Ambiental
+Impacto Asociado IFV-02. Pérdida de ejemplares de flora
+Medida Asociada MM-01: Rescate y Relocalización de 20 ejemplares de Citronella mucronata
+El lugar donde se realizará la medida de relocalización corresponde a una zona ubicada al
+Ubicación de los
+noreste del Área de Influencia, específicamente en el sector de bosque nativo de
+Puntos de control o
+preservación, en micrositios que tengan las condiciones para la sobrevivencia de los
+Sitios de muestreo,
+ejemplares (4,90 ha). En siguiente figura se presenta la ubicación del bosque nativo de
+medición, análisis o
+preservación, lugar de implementación del traslado de Citronella mucronata.
+control
+9-9
+================================================================================
+PAGE 14
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción y Operación
+Figura 9-4. Sector de relocalización en quebrada al noreste del Área de Influencia
+Fuente: GAC
+Parámetros para
+El parámetro considerado para caracterizar el estado de la medida corresponde en el
+caracterizar el
+monitoreo de los 20 ejemplares de Citronella mucronata relocalizados y determinar si
+estado y evolución
+están vivos o muertos. Además, se considera evaluar variables de crecimiento como
+de las variables
+altura, cobertura vegetal y estado sanitario de los ejemplares.
+ambientales
+El límite considerado para el seguimiento de la medida corresponde a la sobrevivencia de
+Límites considerados los 20 ejemplares de Citronella mucronata relocalizados.
+en la evaluación De existir mortalidad, el titular se compromete a plantar 5 individuos por cada ejemplar
+muerto (1:5) con una sobrevivencia del 100% al octavo año del Proyecto.
+Duración y El seguimiento de la medida se realizará durante la fase de construcción y operación con
+frecuencia del una frecuencia semestral durante los tres (3) primeros años y anual el resto del
+muestreo seguimiento. Para los ejemplares relocalizados el seguimiento durará ocho (8) años.
+Método o El método de muestreo corresponde a un monitoreo de sobrevivencia de los 20
+procedimiento de ejemplares de Citronela mucronata relocalizados, registrando los parámetros antes
+muestreo descritos.
+Se confeccionarán informes semestrales y anuales, con su respectiva campaña de terreno,
+Frecuencia y plazo del estado de avance de la medida durante la fase de construcción y operación del
+de entrega de los Proyecto, los cuales serán remitidos a CONAF y la SMA. Se considera a lo menos 11
+informes de informes.
+seguimiento • Informe N° 1: Dará cuenta de la campaña de rescate y relocalización de los 20
+ejemplares (primer semestre año 1)
+9-10
+================================================================================
+PAGE 15
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción y Operación
+• Informe N° 2: Dará cuenta de los primeros resultados de la relocalización de los
+20 ejemplares (segundo semestre año 1)
+• Informe N° 3 y N° 4: Dará cuenta de la sobrevivencia de individuos y posible
+plantación de compensación de mortalidad en el segundo año.
+• Informe N°5 y N° 6: Dará cuenta de la sobrevivencia de individuos y posible
+plantación de compensación de mortalidad en el tercer año.
+• Informe N° 7: Dará cuenta de la sobrevivencia de individuos y posible plantación
+de compensación de mortalidad en el cuarto año.
+• Informe N° 8: Dará cuenta de la sobrevivencia de individuos y posible plantación
+de compensación de mortalidad en el quinto año.
+• Informe N° 9: Dará cuenta de la sobrevivencia de individuos y posible plantación
+de compensación de mortalidad en el sexto año.
+• Informe N° 10: Dará cuenta de la sobrevivencia de individuos y posible plantación
+de compensación de mortalidad en el séptimo año.
+• Informe N° 11: Dará cuenta de la sobrevivencia de individuos y posible plantación
+de compensación de mortalidad en el octavo año.
+Fuente: GAC
+Tabla 9-6. Seguimiento medida de compensación MC-01: Colecta de Germoplasma, Viverización y Replante de
+Individuos de Asplenium trilobum, Gardoquia multiflora y Vestia foetida
+Fase del
+Construcción y Operación
+Proyecto
+Componente
+Flora y Vegetación
+Ambiental
+Impacto
+IFV-02. Pérdida de ejemplares de flora
+Asociado
+Medida MC-04: Colecta de Germoplasma, Viverización y Replante de Individuos de Asplenium trilobum,
+Asociada Gardoquia multiflora y Vestia foetida
+Ubicación de los El lugar donde se realizará la plantación de ECC corresponde al bosque nativo de preservación
+Puntos de de la medida MM-01 y la zona aledaña a esta, ubicada noreste del área de influencia. Esta zona
+control o Sitios está compuesta por un sector de bosque nativo de preservación (4,90 ha) y una matriz de
+de muestreo, plantaciones forestales adyacentes (8,15 ha), a modo de proteger la revegetación con
+medición, Gardoquia multiflora y Vestia foetida y evaluar si los micrositios de la plantación ofrecen
+análisis o condiciones para la sobrevivencia y crecimiento de las estas especies. En siguiente figura se
+control presenta la ubicación del área de enriquecimiento.
+9-11
+================================================================================
+PAGE 16
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del
+Construcción y Operación
+Proyecto
+Figura 9-5. Sector de enriquecimiento en quebrada al noreste del Área de Influencia
+Fuente: GAC
+La medida consiste en la colecta de germoplasma, viverización y plantación de 2.990
+ejemplares considerando la siguiente distribución en el área de enriquecimiento.
+- 2:3 en el bosque nativo de preservación (3,13 ha).
+- 1:3 en la matriz de plantaciones forestales adyacentes (8,65 ha).
+En la siguiente tabla se muestra el número de individuos de ECC a plantar en el sector de
+enriquecimiento.
+Parámetros
+para
+ECC para el sector de enriquecimiento.
+caracterizar el
+Número total de individuos
+estado y Especies
+Bosque nativo de preservación Plantaciones forestales
+evolución de las Gardoquia multiflora 340 170
+variables Vestia foetida 1.653 827
+ambientales Total 1.993 997
+Fuente: GAC
+El parámetro considerado para ver el estado de evolución de la medida corresponde al conteo
+de individuos de las especies Gardoquia multiflora y Vestia foetida en el área de plantación.
+Además, se considera evaluar variables de crecimiento como altura, cobertura vegetal, estado
+sanitario de los ejemplares plantados, junto con evaluar la necesidad de realizar replantes para
+alcanzar el 75% de sobrevivencia.
+9-12
+================================================================================
+PAGE 17
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del
+Construcción y Operación
+Proyecto
+Límites
+El límite considerado para el seguimiento de la medida corresponde al 75% de sobrevivencia
+considerados en
+del número inicial de ECC plantados (2.990).
+la evaluación
+El seguimiento de la medida se realizará durante la fase de construcción y operación del
+Proyecto, con una frecuencia inicial anual durante el primer y segundo año del Proyecto y
+Duración y
+posteriormente semestral hasta el octavo año.
+frecuencia del
+Este plazo se encuentra condicionado a los resultados obtenidos en las etapas previas (colecta
+muestreo
+de germoplasma y viverización), dado que la plantación se realizará una vez que los individuos
+presenten un desarrollo mínimo para su establecimiento seguro en los sitios de plantación.
+Método o
+El método de muestreo corresponde al conteo de individuos plantados. Además, se observarán
+procedimiento
+los parámetros antes descritos.
+de muestreo
+Se confeccionarán informes anuales y semestrales, con su respectiva campaña de terreno, del
+estado de avance de la medida durante ocho (8) años, los cuales serán remitidos a CONAF y la
+SMA. Se considera a lo menos 14 informes:
+• Informe N° 1: Dará cuenta de la campaña de colecta de germoplasma y tratamientos
+pregerminativos aplicados en el inicio de la fase de viverización. Además, de entregar
+los resultados de los tratamientos pregerminativos y primer año de mantenimiento
+en vivero. Deberá especificar la cantidad de plantas producidas y sobrevivencia en
+vivero
+• Informe N° 2: Dará cuenta del segundo año de mantenimiento en vivero. Deberá
+especificar sobrevivencias, estado fitosanitario y crecimiento de individuos.
+Dependiendo de los resultados de prendimiento y crecimiento obtenidos, se tomará
+Frecuencia y
+la decisión de realizar el replante de individuos, lo cual deberá quedar establecido en
+plazo de
+el informe.
+entrega de los
+• Informe N° 3 y N° 4: Dará cuenta, de existir, del tercer año de mantenimiento en
+informes de
+vivero. Además, dará cuenta en detalle de las actividades realizadas previa a la
+seguimiento
+plantación.
+• Informe N° 5 y N° 6: Dará cuenta de la plantación de individuos y las mantenciones
+realizadas en el período.
+• Informe N° 7 y N° 8: Dará cuenta de las actividades realizadas en el segundo año de
+mantención y la sobrevivencia de individuos.
+• Informe N° 9 y N° 10: Dará cuenta de las actividades realizadas en el tercer año de
+mantención y la sobrevivencia de individuos.
+• Informe N° 11 y N° 12: Dará cuenta de las actividades realizadas en el cuarto año de
+mantención y la sobrevivencia de individuos.
+• Informe N°13 y 14: Dará cuenta de las actividades realizadas en el quinto año de
+mantención y la sobrevivencia de individuos.
+Fuente: GAC
+9-13
+================================================================================
+PAGE 18
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+9.4.3 Plan de Seguimiento para el Componente Fauna Vertebrada
+Para esta componente se han definido cuatro medidas:
+• MM-02. Plan de rescate y relocalización de fauna vertebrada.
+• MM-03. Plan de perturbación controlada.
+• MR-01. Revegetación y conservación de áreas intervenidas ZD y ZE con vegetación nativa.
+• MC-05. Protección de áreas aledañas al proyecto.
+Tabla 9-7. Seguimiento Medida Mitigación MM-02: Plan de Rescate y Relocalización de Fauna Vertebrada
+Fase del Proyecto Construcción y Operación
+Componente Ambiental Fauna Terrestre Vertebrada
+Impacto Asociado IFA-01. Pérdida de ejemplares de interés y/o sensibles
+Medida Asociada MM-02. Plan de Rescate y Relocalización
+Esta medida tiene dos lugares asociados: Áreas de rescate y Áreas de Relocalización
+Áreas de rescate y/o captura:
+Las áreas consideradas como superficies de rescate comprenden aproximadamente
+un total de 140,5 hectáreas, las que incluyen obras y partes del Proyecto en su
+mayoría de tipo areal, tanto de características temporales como permanentes (Figura
+9-6).
+Figura 9-6.Áreas de rescate de fauna de baja movilidad.
+Ubicación de los Puntos
+de control o Sitios de
+muestreo, medición,
+análisis o control
+Fuente: GAC
+Área de relocalización:
+9-14
+================================================================================
+PAGE 19
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Superficie del área de relocalización mayor o igual a la superficie del área de
+captura.
+• El área de relocalización tendrá características de hábitat similar al área de
+captura (esto es en parte las características vegetacionales, altitud,
+microhábitat, refugios, disponibilidad de alimento, entre otras).
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• El área de relocalización no será intervenida por el Proyecto, garantizando
+su protección en el mediano a largo plazo.
+Figura 9-7.Área de relocalización de fauna de baja movilidad.
+Fuente: GAC
+El parámetro utilizado para medir la evolución de la medida corresponde:
+• Presencia/ausencia Especie Objetivo en el área de captura
+Parámetros para
+caracterizar el estado y En el área de captura se considera la ausencia de las especies objetivo previo a la
+evolución de las variables intervención del Proyecto.
+ambientales
+• Densidad y abundancia de la población receptora en el área de
+relocalización
+9-15
+================================================================================
+PAGE 20
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Se contempla el aumento de la densidad y abundancia de la población receptora o
+que se mantenga sin variación a través del tiempo hasta el término del seguimiento,
+de forma tal que asegure la sobrevida de la población residente (SEA, 20221)
+Los límites permitidos, son los siguientes:
+● En el área de rescate se permite un 0% de abundancia de la especie objetivo,
+es decir si durante el primer monitoreo se identifican más individuos de la
+Límites considerados en especie objetivo estos serán rescatados.
+la evaluación ● En el área de relocalización se contempla que haya un aumento o
+mantenimiento de la densidad y abundancia de las especies objetivo, sin
+presentarse variaciones a través del tiempo hasta finalizado el seguimiento
+de la medida (SEA, 2022).
+Campaña de monitoreo Momento y duración Área donde se aplica
+Al día siguiente o 2 días posteriores al
+Primera campaña Área de captura
+rescate, durante 4 jornadas.
+14 días posteriores al rescate, durante
+Segunda campaña Área de relocalización
+4 jornadas.
+90 días posteriores al rescate, durante
+Tercera campaña Área de relocalización
+Duración y frecuencia del 4 jornadas.
+muestreo
+180 días posteriores al rescate,
+Cuarta campaña Área de relocalización
+durante 4 jornadas.
+1 año posterior al rescate, durante 4
+Quinta campaña Área de relocalización
+jornadas.
+1,5 años posterior al rescate, durante 4
+Sexta campaña Área de relocalización
+jornadas.
+2 años posterior al rescate, durante 4
+Séptima campaña Área de relocalización
+jornadas.
+2,5 años posterior al rescate, durante 4
+Octava campaña Área de relocalización
+jornadas.
+3 años posterior al rescate, durante 4
+Novena campaña Área de relocalización
+jornadas.
+Área donde Momento en
+Método o procedimiento Taxa a Técnica de Días de
+Parámetro se aplica el que se aplica
+muestrear muestreo muestreo
+de muestreo muestreo el muestreo
+Presencia/ausencia Área de De manera Transectos Tres
+Anfibios
+Especie Objetivo captura posterior a la con jornadas
+1 Servicio de Evaluación Ambiental (SEA). 2022. Criterio de Evaluación en el SEIA: Criterios Técnicos para la Aplicación de una
+Perturbación Controlada. [Disponible en: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+perturbacion-controlada].
+9-16
+================================================================================
+PAGE 21
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+medida de búsqueda
+rescate y dirigida
+relocalización, Transectos
+en 1° con Tres
+Reptiles
+monitoreo búsqueda jornadas
+dirigida
+Instalación
+de Tres
+Micromamíferos
+trampas jornadas
+Sherman
+Transectos
+con Tres
+Anfibios
+búsqueda jornadas
+dirigida
+2° monitoreo,
+Densidad y Transectos
+14 días
+abundancia de la Área de con Tres
+finalizado el Reptiles
+población relocalización búsqueda jornadas
+rescate
+receptora dirigida
+Instalación
+de Tres
+Micromamíferos
+trampas jornadas
+Sherman
+El informe relativo a los resultados de la implementación de la medida “Rescate y
+relocalización” en el marco del PASM146, será entregado a las autoridades
+Frecuencia y plazo de
+competentes (SAG, SMA) dentro de un plazo máximo de 45 días tras el término de las
+entrega de los informes
+actividades de seguimiento de la medida. No obstante, se procederá a emitir los
+de seguimiento
+informes requeridos en los plazos que se indiquen en la Resolución Exenta que
+autorice las capturas.
+Fuente: GAC
+Tabla 9-8. Seguimiento Medida de Mitigación MM-03: Plan de Perturbación Controlada
+Fase del Proyecto Construcción y Operación
+Componente Ambiental Fauna Terrestre Vertebrada
+Impacto Asociado IFA-01. Pérdida de ejemplares de interés y/o sensibles
+Medida Asociada MM-03 Plan de Perturbación Controlada
+La medida aplicará para obras lineales asociadas a caminos mineros, caminos
+existentes o nuevos, que requieran intervención como despeje de vegetación,
+Ubicación de los Puntos
+escarpado, compactación u otro.
+de control o Sitios de
+A cada camino donde existirá algún grado de intervención por parte del Proyecto, se
+muestreo, medición,
+le agregará un buffer o zona de amortiguación donde se presume un grado de
+análisis o control
+intervención directa o indirecta (cercanía); el buffer utilizado es 20 m a cada lado del
+camino.
+Parámetros para Los parámetros se basan en lo indicado en la Guía Técnica para Implementar Medidas
+caracterizar el estado y de Rescate/ Relocalización y Perturbación controlada (Torres-Mura et al., 20142):
+2 Torres-Mura, J.C., E. Riveros-Riffo, V. Escobar-Gimpel. 2014. Guía técnica para implementar medidas de rescate/ relocalización
+y perturbación controlada. Servicio Agrícola y Ganadero, 45 pp.
+9-17
+================================================================================
+PAGE 22
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+evolución de las variables • Descripción hábitat de origen.
+ambientales • Potencial hábitat de destino.
+• Grado de influencia de otras actividades sobre el sitio donde se proyecta
+desplazar a los animales.
+• Rango de hogar y capacidad de desplazamiento de especies objetivo.
+• Riqueza y diversidad de especies del ensamble (antes/después de la
+aplicación de la medida).
+• Abundancia específica de especies.
+• Presencia de reproducción.
+• Área proyectada para la perturbación (superficie) vs área efectivamente
+perturbada.
+Se considerará que haya un aumento o mantenimiento de la abundancia de las
+Límites considerados en
+especies objetivo, sin presentarse variaciones a través del tiempo hasta finalizado el
+la evaluación
+seguimiento de la medida (SEA, 20223).
+La duración y frecuencia para el seguimiento será la siguiente:
+• Registros de abundancia previa a la perturbación: se realizará de 1 a 3 días
+previo al inicio de la medida de perturbación controlada, durante 1 a 3
+jornadas de trabajo acorde a superficie a muestrear.
+• Registros de abundancia de manera posterior a la perturbación: se realizará
+1 día posterior a la ejecución de la medida, durante 1 a 3 jornadas de trabajo
+acorde a superficie a muestrear.
+• Registros de abundancia en áreas sumidero de manera posterior a la
+perturbación: se realizarán monitoreos de las áreas sumidero de las obras ya
+construidas para verificar la presencia de las especies perturbadas. Esto se
+Duración y frecuencia del realizará durante toda la fase de construcción con una periodicidad
+muestreo trimestral.
+• Se realizará un seguimiento el primer mes a través de métodos no invasivos
+(sin captura) que permitan determinar, además de presencia, la actividad de
+ocupación de refugios o madrigueras. Al segundo y tercer mes se realizarán
+mediciones cuantitativas y posteriormente en estaciones contrastadas. El
+seguimiento deberá abordar al menos dos ciclos reproductivos de las
+especies objetivo.
+• Como indicador de éxito se considera que los resultados obtenidos deberán
+evidenciar que la población receptora se ha mantenido en el tiempo o que
+presenta un aumento respecto a su condición original previa a la
+perturbación.
+Registros de abundancia de manera previa a la perturbación:
+Método o procedimiento
+• Se realizarán transectos de ancho fijo y largo variable, con la participación de
+de muestreo
+un número adecuado de profesionales, en horario de 9:00 a 13:00 hrs. y de
+3 Servicio de Evaluación Ambiental (SEA). 2022. Criterio de Evaluación en el SEIA: Criterios Técnicos para la Aplicación de una
+Perturbación Controlada. [Disponible en: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+perturbacion-controlada].
+9-18
+================================================================================
+PAGE 23
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+14:00 a 18:00 hrs., de acuerdo con la duración y frecuencias señaladas. El
+importe de transectos a realizar estará sujeto al criterio del especialista.
+Registros de abundancia de manera posterior a la perturbación:
+• Se realizarán transectos de ancho fijo y largo variable, con la participación de
+un número adecuado de profesionales, en horario de 9:00 a 13:00 hrs. y de
+14:00 a 18:00 hrs., de acuerdo con la duración y frecuencias señaladas. El
+esfuerzo de muestreo deberá ser comparable al realizado en las
+estimaciones previas.
+El informe relativo a los resultados de la implementación de la medida “Perturbación
+controlada de reptiles y micromamíferos” será entregado a las autoridades
+Frecuencia y plazo de
+competentes (Superintendencia de Medio Ambiente y SAG regional) dentro de un
+entrega de los informes
+plazo máximo de 45 días tras el término de las actividades de seguimiento de la
+de seguimiento
+medida. No obstante, lo anterior, se procederá a emitir los informes requeridos en
+los plazos que se indiquen en la Resolución Exenta que autorice las capturas.
+Fuente: GAC
+Tabla 9-9. Seguimiento Medida de reparación MR-01: Revegetación áreas intervenidas ZD y ZE con vegetación
+nativa (excepto ZE Luna).
+Fase del
+Construcción y Operación
+Proyecto
+Componente
+Fauna Terrestre Vertebrada
+Ambiental
+Impacto
+IFA-02. Pérdida y/o modificación de hábitat de especies de interés y/o sensibles
+Asociado
+Medida MR-01 Revegetación y Conservación de áreas intervenidas ZD y ZE con vegetación nativa (excepto ZE
+Asociada Luna).
+La ubicación de los puntos de control corresponde a la ubicación de las obras del Proyecto, en particular,
+las Zonas de Extracción (ZE) (excepto ZE Luna) y Zona de disposición (ZD), ya que la medida se aplicará
+sobre la superficie de estas áreas, al cierre de cada una de ellas conforme al cronograma de fase de
+operación.
+Ubicación de Figura 9-8.Ubicación de ZE (izq.) (excepto ZE Luna) y ZD (der.) que serán revegetadas.
+los Puntos de
+control o Sitios
+de muestreo,
+medición,
+análisis o
+control
+Fuente: GAC
+9-19
+================================================================================
+PAGE 24
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Cabe señalar que ZE Luna no formará parte del Plan de Seguimiento, debido a que es una superficie que
+posterior a la etapa de extracción de mineral (años 2028-2029), pasará a formar parte de la celda 4 del
+proyecto "Continuidad Operacional Centro de Manejo de Residuos Concepción", de la empresa Cemarc,
+cuya Resolución de Calificación Ambiental fue aprobada el año 2023. La construcción de la Celda N° 4 está
+proyectada para el año 2030. Para más información Ver acápite 1.11.2.5.i. “Avance Cronológico de las ZE”
+del Capítulo 1 Descripción de Proyecto.
+Parámetros
+para
+caracterizar el
+Los parámetros considerados para caracterizar la evolución de la medida corresponden a: densidad de
+estado y
+individuos, porcentaje de prendimiento, estado fitosanitario de los individuos y cobertura vegetacional.
+evolución de
+las variables
+ambientales
+Límites
+El límite considerado es revegetar todas las superficies al interior de cada ZE (excepto ZE Luna) y ZD donde
+considerados
+es factible realizar la medida, mediante el empleo de flora nativa.
+en la
+Se considera que la fauna silvestre utilice las áreas revegetadas.
+evaluación
+El seguimiento de la medida se realizará durante la fase de operación. Desde el inicio de la revegetación
+en cada área, que se hará después del cierre de áreas al interior de cada ZD y ZE (excepto ZE Luna). El
+Duración y
+seguimiento de la medida en cada área de revegetación se realizará con una frecuencia trimestral durante
+frecuencia del
+tres años, posterior al cierre de cada obra.
+muestreo
+El inicio de las actividades de revegetación será cuando comience el cierre de las zonas de extracción
+(excepto ZE Luna) y la zona de disposición.
+Método o Respecto a las áreas intervenidas ZD y ZE (excepto ZE Luna).
+procedimiento El método de muestreo corresponde a la realización de parcelas de muestreo representativas en las áreas
+de muestreo de revegetación.
+Frecuencia y
+plazo de
+entrega de los Desde el inicio de las actividades de revegetación, se entregará un informe semestral durante tres años.
+informes de
+seguimiento
+Fuente: GAC
+Tabla 9-10. Seguimiento medida de compensación MC-05: Protección de áreas aledañas al proyecto
+Fase del Proyecto Construcción y Operación
+Componente
+Fauna Terrestre Vertebrada
+Ambiental
+Impacto Asociado IFA-02. Pérdida y/o modificación de hábitat de especies de interés y/o sensibles
+Medida Asociada MC-05 Protección de áreas aledañas al Proyecto
+Ubicación de los En la totalidad del área comprendida por el conjunto de polígonos de protección señalados en la
+Puntos de control descripción de la medida, sumando un total de 90,66 hectáreas. Adicionalmente, se instalará
+o Sitios de señalética en al menos 15 de los sectores señalados en la medida.
+9-20
+================================================================================
+PAGE 25
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+muestreo, Todas las ubicaciones se emplazan en las comunas de Penco y Concepción, en la provincia de
+medición, análisis Concepción, región del Biobío.
+o control
+Parámetros para
+• Fecha de firma de la declaratoria de protección de los sectores.
+caracterizar el
+• Composición y cobertura de la vegetación.
+estado y
+• Presencia/ausencia de meso y macromamíferos y caracterización de los sitios de presencia.
+evolución de las
+• Presencia/ausencia de la señalética
+variables
+• Visibilidad y legibilidad del 100% de las señaléticas.
+ambientales
+• La fecha de firma de la declaratoria de protección es anterior al inicio de la Fase de
+Construcción.
+Límites • La composición y cobertura se mantienen sin alteraciones significativas asociadas a
+considerados en intervenciones antrópicas.
+la evaluación • Se mantenga la presencia de meso y macromamíferos.
+• Todas las señaléticas deben estar instaladas antes del inicio de la Fase de Construcción y
+mantenerse en buen.
+• La fecha de firma de protección privada del área es anterior al inicio de la Fase de
+Duración y Construcción.
+frecuencia del • La protección será durante toda la vida útil del Proyecto.
+muestreo • Se realizan informes anuales sobre el estado de los sectores protegidos.
+• El 100% de las señaléticas se mantienen visibles y legibles.
+• Documentos de declaratoria de protección privada del área.
+• Estudio de vegetación ejecutado por especialistas.
+Método o
+• Estudio utilizando trampas cámaras direccionadas a registros de meso y macromamíferos.
+procedimiento de
+• Se utilizarán al menos 30 cámaras trampas instaladas por un período no inferior a 60 días en
+muestreo
+cada ocasión. Los datos obtenidos serán respaldados para generar un informe con los
+principales resultados.
+Frecuencia y
+Un informe previo al inicio de la fase de Construcción que demuestre la protección de las áreas por
+plazo de entrega
+todo el plazo establecido.
+de los informes
+Se realiza un informe anual sobre el estado de los sectores protegidos.
+de seguimiento
+Fuente: GAC
+9.4.4 Plan de seguimiento para el Componente Fauna invertebrada
+Para esta componente se ha consultado una medida:
+• MM-04. Plan de rescate y relocalización de fauna invertebrada.
+Tabla 9-11. Seguimiento Medida de Mitigación MM-04: Plan de rescate y relocalización de fauna invertebrada.
+Fase del Proyecto Construcción y Operación
+9-21
+================================================================================
+PAGE 26
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Componente
+Fauna Terrestre Invertebrada
+Ambiental
+Impacto Asociado IFI-01. Pérdida de ejemplares de interés y/o sensibles
+Medida Asociada MM-04. Plan de Rescate y Relocalización de fauna invertebrada
+Esta medida tiene dos lugares asociados: Áreas de rescate y Áreas de Relocalización
+Áreas de rescate y/o captura:
+Las áreas consideradas como superficies de rescate comprenden aproximadamente un
+total de 275,41 hectáreas, las que incluyen obras y partes del Proyecto en su mayoría de
+tipo areal, tanto de características temporales como permanentes.
+Figura 9-9.Áreas de rescate de fauna de baja movilidad.
+Ubicación de los
+Puntos de control o
+Sitios de muestreo,
+medición, análisis o
+control
+Fuente: GAC
+Área de relocalización:
+• Superficie del área de relocalización mayor o igual a la superficie del área de
+captura.
+• El área de relocalización tendrá características de hábitat similar al área de
+captura (esto es en parte las características vegetacionales, altitud,
+microhábitat, refugios, disponibilidad de alimento, entre otras).
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• El área de relocalización no será intervenida por el Proyecto, garantizando su
+protección en el mediano a largo plazo. En este sentido la zona propuesta
+corresponde al Parque Nacional Nonguén. (en amarillo en la imagen anterior)
+Parámetros para
+El parámetro utilizado para medir la evolución de la medida corresponde:
+caracterizar el estado
+9-22
+================================================================================
+PAGE 27
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+y evolución de las
+variables ambientales ▪ Presencia/ausencia de especie objetivo
+El primer monitoreo se enfoca en determinar si quedan individuos en el área de
+intervención, apuntando al 0% de abundancia de la especie objetivo. Este monitoreo se
+efectuará uno o dos días posterior al rescate. El parámetro que se utilizará en
+presencia/ausencia de especie objetivo, apuntando al rescate del 100% de individuos.
+Este monitoreo y parámetros a medir se realizará solo en el área de captura.
+▪ Porcentaje de individuos relocalizados reavistamiento
+El segundo monitoreo se efectuará en el área de relocalización y está enfocado en
+determinar la permanencia temprana de los individuos rescatados en el área de
+relocalización, mediante la identificación de individuos marcados. El parámetro que se
+utilizará corresponde al porcentaje de reavistamiento de individuos relocalizados. El
+segundo monitoreo se realizará a los 14 días posterior al rescate solo en el área de
+relocalización.
+▪ Comportamiento de la población receptora
+El tercer, cuarto y quinto monitoreo se efectuarán en el área de relocalización y está
+enfocado en determinar cómo se comporta la población receptora una vez que se
+inserten nuevos individuos. Los parámetros a evaluar serán la riqueza, la densidad media
+y abundancia relativa de especies presentes. El tercer, cuarto y quinto monitoreo se
+realizará a los 90, 180 y 360 días posterior al rescate, respectivamente.
+Los límites permitidos, son los siguientes:
+● En el área de captura se permite un 0% de abundancia de la especie objetivo,
+es decir si durante el primer monitoreo se identifican más individuos de la
+Límites considerados especie objetivo estos serán rescatados.
+en la evaluación ● En el área de relocalización se apuntará a la permanencia temprana de
+individuos relocalizados en un 10%.
+En el área de relocalización se apuntará a una mantención y/o aumento de la densidad
+media (abundancia absoluta) de las especies objetivo.
+Campaña de monitoreo Momento y duración Área donde se aplica
+Al día siguiente o 2 días posteriores al
+Primera campaña Área de captura
+rescate, durante 5 jornadas.
+Duración y frecuencia
+del muestreo 14 días posteriores al rescate, durante
+Segunda campaña Área de relocalización
+5 jornadas.
+90 días posteriores al rescate, durante
+Tercera campaña Área de relocalización
+5 jornadas.
+9-23
+================================================================================
+PAGE 28
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+180 días posteriores al rescate,
+Cuarta campaña Área de relocalización
+durante 5 jornadas.
+360 días posteriores al rescate,
+Quinta campaña Área de relocalización
+durante 5 jornadas.
+Para el ejercicio de las capturas, el personal de terreno (especialistas fauna silvestre)
+deberá contar con experiencia y/o estar capacitado para el manejo de las especies
+objetivo.
+Las actividades de captura deberán ser realizadas en épocas en que las temperaturas
+permitan condiciones favorables para la reubicación de individuos. Esto es durante la
+estación de primavera y/o de verano, y en los días y horarios en que las características
+climáticas así lo permitan, ajustándose el cronograma de inicio de la construcción a lo
+señalado.
+Específicamente para las capturas realizadas en arácnidos, éstas deben de realizarse
+posterior a la temporada de verano (marzo-abril) de manera de no intervenir su proceso
+de ecdisis ni su periodo de eclosión de ootecas. Se deberá considerar diferencias horarias
+para hembras y machos; durante el día para hembras y durante la noche para machos.
+Para dejar registro de lo anterior, se implementarán fichas diarias asociadas a la
+aplicación de las capturas, que indiquen el área, profesionales a cargo, fecha,
+temperatura y condiciones del viento y nubosidad, esfuerzos aplicados y/o tasa de
+avance, y así bien horario de captura y relocalización de los individuos.
+A continuación, se indican las consideraciones asociadas a la captura de fauna
+Método o
+invertebrada:
+procedimiento de
+La caracterización de invertebrados se realizará bajo dos métodos principalmente, una
+muestreo
+colecta activa y una colecta pasiva, repartidas en cada uno de los sitios prospectados. En
+cada PME la superficie se recorrerá de manera pedestre con ayuda de un odómetro y se
+realizará una colecta activa bajo distintas rocas y trozos de troncos disponibles en el área
+del proyecto, para el caso de los arbustos y árboles que se prospecten se utilizará un
+paragua entomológico, cuya función principalmente consiste en el golpeteo de ramas y
+estructuras leñosas disponibles, generando la caída y colecta posterior con aspirador
+entomológico de las diferentes especies que se puedan observar en la manta de tela
+blanca que conforma el paragua entomológico utilizado, cuya superficie fue de un metro
+cuadrado. Para la colecta pasiva se utilizarán trampas Barber y pitfall, donde se instaló
+siguiendo las recomendaciones para evitar los errores típicos que pueden afectar los
+datos obtenidos con la auto-correlación entre las muestras según Lafranco et al (2010).
+Para ello las trampas de caída (Trampa pitfall y barber) se colocarán cada 40 metros a lo
+largo del transecto, las trampas de caída o pitfall serán conformadas por un vaso de
+plástico de 360 ml enterrado a superficie y las trampas Barber de igual forma fueron
+dispuestas como las trampas pitfall, donde se llenará un tercio de su capacidad con cebo
+líquido aromático en base a vinagre de manzana y uva roja las que serán instaladas
+aleatoriamente en cada PME.
+Frecuencia y plazo de El informe relativo a los resultados de la implementación de la medida “Rescate y
+entrega de los relocalización” en el marco del PASM146, será entregado a las autoridades competentes
+informes de (SAG, SMA) dentro de un plazo máximo de 30 días hábiles tras el término de las
+seguimiento actividades de seguimiento de la medida. No obstante, se procederá a emitir los
+9-24
+================================================================================
+PAGE 29
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+informes requeridos en los plazos que se indiquen en la Resolución Exenta que autorice
+las capturas.
+Fuente: GAC
+9.4.5 Plan de Seguimiento para el Componente Suelo
+Para esta componente se han propuesto dos medidas:
+• MR-02. Rescate, acopio y reutilización de suelo en áreas intervenidas.
+• MR-03 Mejoramiento de propiedades de suelo en áreas intervenidas.
+Tabla 9-12. Seguimiento Medida de reparación MR-02: Rescate, acopio y reutilización de suelo en las áreas
+intervenidas.
+Fase del Proyecto Construcción y Operación
+Componente Ambiental Suelo
+Impacto Asociado ISU-01 Pérdida del recurso natural suelo
+Medida Asociada MR-02 Rescate, acopio y reutilización de suelo en áreas intervenidas
+La ubicación de los sitios de muestreo, medición y análisis, corresponden a las áreas
+donde se realizará la reutilización de suelo, que es sobre ciertos taludes de la superficie
+de áreas intervenidas ya cerradas dentro de las Zonas de Extracción (ZE) Victoria Norte
+y Maite, y Zona de disposición (ZD) Neptuno. La siguiente Tabla muestra las
+coordenadas de ubicación de cada una de estas áreas.
+Área vértices Norte Este
+1 5.931.456 681.422
+2 5.931.085 681.467
+3 5.931.006 681.429
+4 5.930.749 681.284
+5 5.930.601 681.244
+Ubicación de los Puntos 6 5.930.491 681149
+de control o Sitios de 7 5.930.475 681.062
+ZE Victoria Norte
+muestreo, medición, 8 5.930.594 681.030
+análisis o control 9 5.930.748 681.064
+10 5.931.006 681.056
+11 5.931.102 681.039
+12 5.931.300 681.127
+13 5.931.389 681.193
+14 5.931.300 681.498
+21 5.928.749 680.705
+22 5.928.550 680.819
+23 5.928.368 680.834
+ZE Maite
+24 5.928.269 680.625
+25 5.928.132 680.507
+26 5.928.051 680.302
+9-25
+================================================================================
+PAGE 30
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción y Operación
+27 5.928.140 680.216
+28 5.928.269 680.169
+29 5.928.481 680.188
+30 5.928.562 680.279
+31 5.928.562 680.279
+32 5.928.820 680.415
+1 5.930.011 679.828
+2 5.929.890 680.181
+3 5.929.426 680.378
+4 5.929.311 680.199
+ZD Neptuno
+5 5.929.159 679.969
+6 5.929.099 679.807
+7 5.929.242 679.680
+8 5.929.561 679.643
+Fuente GAC.
+Cabe señalar que ZE Luna no formará parte del Plan de Seguimiento, debido a que es
+una superficie que posterior a la etapa de extracción de mineral (años 2028-2029),
+pasará a formar parte de la celda 4 del proyecto "Continuidad Operacional Centro de
+Manejo de Residuos Concepción", de la empresa Cemarc, cuya Resolución de
+Calificación Ambiental fue aprobada el año 2023. La construcción de la Celda N° 4 está
+proyectada para el año 2030. Para más información Ver acápite 1.11.2.5.i. “Avance
+Cronológico de las ZE” del Capítulo 1 Descripción de Proyecto.
+Cabe señalar que, en las zonas de extracción, previo a la realización de la medida de
+reutilización de suelo, el ancho de berma de los bancos de explotación de las zonas se
+encontrará denudado, es decir sin suelo en superficie, encontrándose en superficie el
+material al que haya llegado el banco en su explotación. Sobre este material será
+redispuesto el suelo.
+En la zona de disposición, previo a la realización de la medida, el material que se
+encontrará en superficie corresponderá al material de relleno proveniente de las zonas
+Parámetros para de extracción, es decir, estéril y mineral agotado de la planta de procesamiento. Sobre
+caracterizar el estado y este material será redispuesto el suelo.
+evolución de las variables Considerando lo anterior, a continuación, se indican los parámetros que se utilizarán
+ambientales para caracterizar el estado y evolución del suelo redispuesto sobre la superficie al cierre
+de las áreas ya intervenidas.
+• Profundidad del suelo
+• Densidad aparente
+• Conductividad eléctrica
+• Capacidad de retención de agua (Capacidad de campo y punto de marchitez
+permanente)
+• Textura
+Límites considerados en Se consideran los siguientes rangos para el seguimiento de los parámetros a medir.
+la evaluación • Espesor del suelo: mayor a 20 cm.
+9-26
+================================================================================
+PAGE 31
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase del Proyecto Construcción y Operación
+• Densidad aparente del suelo: sin rango inicial. Se verá su evolución en el
+tiempo, desde que es reutilizado.
+• Conductividad eléctrica del suelo: Menor a 4 dS/m.
+Capacidad de retención de agua y textura: no se consideran rangos, ya que no se puede
+determinar preliminarmente las texturas que existirán en los suelos rescatados
+Duración del seguimiento:
+El seguimiento de la medida se realizará desde que se inicie la reutilización del suelo
+sobre áreas intervenidas ya cerradas, por un período de 5 años.
+Duración y frecuencia del
+Frecuencia del muestreo:
+muestreo
+El seguimiento se hará por primera vez, de manera posterior a que se realice la
+redisposición de suelo sobre cada ZE y ZD, lo cual ocurre una única vez en cada área.
+Posteriormente, se hará un seguimiento bianual, dentro de cada ZE o ZD, es decir, se
+realizará un seguimiento al Año 1, Año 3 y Año 5.
+El procedimiento de muestreo consistirá en que dentro de cada ZD y ZE, según
+corresponda, se hará la medición de los parámetros considerados, en diez (10) puntos
+dentro de cada ZE y ZD.
+Se realizarán calicatas que permitirán medir la profundidad de suelo y se tomarán
+muestras de la densidad aparente, textura, capacidad de campo y punto de marchitez
+Método o procedimiento
+permanente del suelo en los primeros 20 cm. Posteriormente se tomarán muestras
+de muestreo
+compuestas para la determinación de la Conductividad Eléctrica (CE). Las muestras
+serán enviados a un laboratorio acreditado para muestreo de suelo por el SAG.
+Se generará un reporte anual indicando las zonas en las que se ha aplicado la medida
+dentro del periodo correspondiente, la ubicación de los diez (10) puntos de muestreo
+dentro de cada zona y la medición de los parámetros en cada punto.
+Frecuencia y plazo de
+entrega de los informes Reporte anual la Superintendencia del Medio Ambiente.
+de seguimiento
+Fuente: GAC
+9-27
+================================================================================
+PAGE 32
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 9-13. Seguimiento Medida de Reparación MR-03: Mejoramiento de propiedades de suelo en las áreas
+intervenidas.
+Fase del Proyecto Construcción y Operación
+Componente Ambiental Suelo
+Impacto Asociado ISU-01 Pérdida del recurso natural suelo
+Medida Asociada MR-03 Mejoramiento de propiedades de suelo en áreas intervenidas
+La ubicación de los sitios de muestreo, medición y análisis, corresponden a las áreas
+donde se realizará la redisposición de suelo, que es sobre ciertos taludes de la superficie
+de áreas intervenidas ya cerradas dentro de las Zonas de Extracción (ZE) Victoria Norte
+y Maite, y Zona de disposición (ZD) Neptuno, donde se realizará el acondicionamiento
+del suelo. La siguiente tabla muestra las coordenadas de ubicación de cada una de estas
+áreas.
+Área vértices Norte Este
+1 5.931.456 681.422
+2 5.931.085 681.467
+3 5.931.006 681.429
+4 5.930.749 681.284
+5 5.930.601 681.244
+6 5.930.491 681149
+7 5.930.475 681.062
+ZE Victoria Norte
+8 5.930.594 681.030
+9 5.930.748 681.064
+10 5.931.006 681.056
+Ubicación de los Puntos
+11 5.931.102 681.039
+de control o Sitios de 12 5.931.300 681.127
+muestreo, medición, 13 5.931.389 681.193
+análisis o control 14 5.931.300 681.498
+21 5.928.749 680.705
+22 5.928.550 680.819
+23 5.928.368 680.834
+24 5.928.269 680.625
+25 5.928.132 680.507
+26 5.928.051 680.302
+ZE Maite
+27 5.928.140 680.216
+28 5.928.269 680.169
+29 5.928.481 680.188
+30 5.928.562 680.279
+31 5.928.562 680.279
+32 5.928.820 680.415
+1 5.930.011 679.828
+2 5.929.890 680.181
+ZD Neptuno 3 5.929.426 680.378
+4 5.929.311 680.199
+5 5.929.159 679.969
+9-28
+================================================================================
+PAGE 33
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+6 5.929.099 679.807
+7 5.929.242 679.680
+8 5.929.561 679.643
+Al interior de cada ZE y ZD, se considerarán 10 puntos de muestreo.
+Cabe señalar que ZE Luna no formará parte del Plan de Seguimiento, debido a que es
+una superficie que posterior a la etapa de extracción de mineral (años 2028-2029),
+pasará a formar parte de la celda 4 del proyecto "Continuidad Operacional Centro de
+Manejo de Residuos Concepción", de la empresa Cemarc, cuya Resolución de
+Calificación Ambiental fue aprobada el año 2023. La construcción de la Celda N° 4 está
+proyectada para el año 2030. Para más información Ver acápite 1.11.2.5.i. “Avance
+Cronológico de las ZE” del Capítulo 1 Descripción de Proyecto.
+En cada punto de muestreo se considerará la medición de los siguientes parámetros
+Parámetros para para caracterizar el estado inicial del componente ambiental, y el posterior seguimiento
+caracterizar el estado y de estos parámetros:
+evolución de las variables • pH
+ambientales • % Materia orgánica
+• % Cobertura vegetal
+Con la realización de la medida se espera una mejora en las propiedades del suelo. El
+seguimiento de la medida corresponderá por una parte a la verificación de la realización
+de la medida de manera adecuada, en términos de aplicar la enmienda de manera
+uniforme en el área comprometida. Con la aplicación de compost aumentará la
+disponibilidad de nutrientes y con la revegetación de las áreas intervenidas, se espera
+también un aumento de materia orgánica, cobertura y cantidad de raíces.
+Para el pH no se considera un rango en la evaluación de estos parámetros, ya que se
+debe contar con la condición inicial, es decir, con el resultado de los parámetros
+Límites considerados en medidos una vez que el suelo esté redispuesto en las áreas intervenidas, y desde ahí,
+la evaluación hacer seguimiento a esta variable. Lo anterior, conforme al avance de las obras y al
+cierre de áreas.
+Para la materia orgánica se mantendrá al menos un valor medio de 2,1 – 3,5% a partir
+del segundo año (después de aplicado el compost). En el año 1 (sin compost) se
+considerará una concentración inicial sin restricción de contenido de MO.
+Para cobertura vegetal se compromete un 25% al año 2, 50% al año 3 y 75% al año 5. En
+el año 1 (sin revegetación) se considerará una concentración inicial sin restricción de
+cobertura vegetal.
+Duración del seguimiento:
+Duración y frecuencia del El seguimiento de la medida se realizará desde que se inicie la redisposición de suelo
+muestreo sobre áreas intervenidas ya cerradas, y hasta finalizado el último año de la fase de
+operación. La primera medición de los parámetros indicados, lo que corresponderá a la
+9-29
+================================================================================
+PAGE 34
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+condición inicial de comparación, se realizará de manera posterior a que el suelo haya
+sido redispuesto en la superficie de las áreas intervenidas, y de manera previa a la
+aplicación de compost y revegetación. Lo anterior, conforme al avance de las etapas y
+al cierre de áreas a lo largo de los 6 años de operación del Proyecto.
+Frecuencia del muestreo:
+El seguimiento se hará por primera vez, de manera posterior a que se realice la
+redisposición de suelo sobre cada ZE y ZD, lo cual ocurre una única vez en cada área; y
+se realizará antes de la aplicación de compost y revegetación.
+Posteriormente, se hará un seguimiento al año 1, año 3 y al año 5, dentro de cada ZE o
+ZD.
+El método de muestreo corresponde a la toma de muestra de suelo en los puntos de
+muestreo, y su derivación a un laboratorio de suelo acreditado para el análisis de los
+parámetros considerados. El muestreo de pH y MO se realizará a través de muestras
+compuestas superficiales.
+Método o procedimiento
+El muestreo consistirá en que dentro de cada ZD y ZE, según corresponda, se tomará
+de muestreo
+una muestra en diez (10) puntos dentro de cada ZE y ZD.
+Se generará un reporte indicando las zonas en las que se ha aplicado la medida dentro
+del periodo correspondiente, la ubicación de los diez (10) puntos de muestreo dentro
+de cada zona y la medición de los parámetros en cada punto.
+Frecuencia y plazo de
+entrega de los informes Reporte anual la Superintendencia del Medio Ambiente.
+de seguimiento
+Fuente: GAC
+9.4.6 Plan de Seguimiento para el Componente Medio Humano
+Para esta componente se consideran dos medidas:
+• MM-05. Protocolo de acceso controlado para GHPPI
+• MM-06. Plan de información y comunicación con GHPPI
+• MM-07. Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Tabla 9-14. Seguimiento Medida de Mitigación MM-05 Protocolo de acceso para GHPPI
+Plan de Seguimiento “MM-05 Protocolo de acceso controlado para GHPPI”
+Fase/Parte del
+Construcción, Operación y Cierre.
+Proyecto
+Componente(s)
+ambiental(es) objeto Medio Humano.
+de seguimiento
+9-30
+================================================================================
+PAGE 35
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de Seguimiento “MM-05 Protocolo de acceso controlado para GHPPI”
+Subcomponente
+Grupos Humanos Pertenecientes a Pueblos Indígenas (GHPPI).
+ambiental
+Variable ambiental Actividades tradicionales.
+IMH-01 Afectación al desarrollo de prácticas culturales y tradicionales de organizaciones
+indígenas a lo largo del camino forestal adyacente a estero Penco (incluido el sector El
+Impacto asociado
+Tranque) y sector Los Queules por restricción de acceso mediante instalación de puntos de
+control de acceso.
+Medida(s)
+Protocolo de acceso controlado para GHPPI
+asociada(s)
+El protocolo se inicia con el envío de una carta informativa por parte del Titular en un periodo
+posterior de 90 días corridos previo a la ejecución del hito de inicio del Proyecto, para informar
+a la Asociación Indígena Koñintu Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen
+Mawida, usuarias del área de acceso controlado identificadas en el EIA, del nuevo protocolo
+y su implementación; y estará dirigida al presidente(a) y secretario(a) de cada Asociación
+individualizada.
+Sin perjuicio de lo anterior se comunicará y socializará el procedimiento durante la
+participación ciudadana y todas aquellas instancias informativas desarrolladas con las
+Asociaciones.
+El proceso de solicitud de ingreso (protocolo) se realizará en la Casa Abierta Aclara en Penco
+o vía telefónica o correo electrónico o carta antes del ingreso.
+Además, se indican los puntos de control de acceso a habilitar, en cuyo lugar se tomará
+conocimiento del ingreso indicado en el respectivo protocolo.
+Puntos de control de acceso próximos a ZE Victoria Norte
+Ubicación de los
+puntos/zonas de
+medición y control
+Fuente: GAC
+9-31
+================================================================================
+PAGE 36
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de Seguimiento “MM-05 Protocolo de acceso controlado para GHPPI”
+Se deberán monitorear los parámetros informados en el punto Forma de implementación,
+relativo a la medida de mitigación ambiental denominada “Protocolo de acceso controlado
+para GHPPI”, correspondiente al capítulo 7 del presente EIA, a saber:
+Parámetros a
+- Formulario de ingreso;
+monitorear
+- Validación;
+- Ingreso y salida y
+- Carta informativa
+Límites permitidos o El 100% de acreditaciones (registro de ingresos) emitidas por el Titular, y cuya solicitud cumple
+comprometidos con los requisitos básicos de ingreso.
+Duración y frecuencia
+Anualmente durante todo el período de ejecución del Proyecto.
+de la medición
+Cada parámetro será medido a través de los indicadores de cumplimiento señalados en el ítem
+Indicadores de cumplimiento, relativo a la medida de mitigación ambiental denominada
+“Protocolo de acceso para GHPPI”, presentada en el capítulo 7 del EIA. Estos indicadores se
+presentarán en un informe anual que contendrá:
+- Registro de acreditaciones autorizadas por el Titular que cumplen con los requisitos
+básicos de ingreso a la zona del Proyecto. Para garantizar el acceso a la zona del
+Proyecto se deben cumplir los siguientes requisitos básicos de ingreso:: a) ser socio
+Método o
+de una de las Asociaciones Indígenas identificadas como usuaria del área de acceso
+procedimiento de
+controlado en el EIA, se podrán incorporar acompañantes los que serán indicados por
+medición de cada
+los representantes de la Asociación; b) completar el formulario de forma adecuada y
+parámetro
+visitar áreas que no estén ubicadas en zonas de riesgo para la seguridad personal de
+los solicitantes; y c) entregar oportunamente y según protocolo, el formulario al
+Titular.
+- Entrega de carta informativa del protocolo a la totalidad de la Asociación Indígena
+Koñintu Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen Mawida,
+identificadas como usuarias del área de acceso controlado en el EIA, según como se
+establece en protocolo.
+- Protocolo de acceso para GHPPI (forma e implementación)
+Plazo y frecuencia de
+Informe anual que resuma el uso del Protocolo de acceso para GHPPI durante el período.
+entrega de informes
+Organismo
+destinatario de Superintendencia del Medio Ambiente.
+informes
+Fuente: GAC
+Tabla 9-15. Seguimiento Medida de Mitigación MM-06 Plan de información y comunicación con GHPPI
+Plan de Seguimiento “MM-06 Plan de información y comunicación con GHPPI”
+Fase/Parte del Proyecto Construcción, Operación y Cierre.
+Componente(s)
+ambiental(es) objeto de Medio Humano.
+seguimiento
+9-32
+================================================================================
+PAGE 37
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de Seguimiento “MM-06 Plan de información y comunicación con GHPPI”
+Subcomponente
+Grupos Humanos Pertenecientes a Pueblos Indígenas (GHPPI).
+ambiental
+Variable ambiental Actividades tradicionales.
+IMH-01 Afectación al desarrollo de prácticas culturales y tradicionales de organizaciones
+indígenas a lo largo del camino forestal adyacente a estero Penco (incluido el sector El
+Impacto asociado
+Tranque) y sector Los Queules por restricción de acceso mediante instalación de puntos
+de control de acceso.
+Medida(s) asociada(s) Plan de información y comunicación con GHPPI
+El protocolo inicia con el envío de una carta informativa por parte del Titular en un periodo
+de 90 días corridos previo a la ejecución del hito de inicio, para informar a la Asociación
+Indígena Koñintu Lafken-Mapu Penco y Asociación Cultural Mapuche Lawen Mawida
+Ubicación de los usuarias del área de acceso controlado identificadas en el EIA, del nuevo protocolo y su
+puntos/zonas de implementación; y estará dirigida al presidente(a) y secretario(a) de cada Asociación
+medición y control individualizada.
+Las actividades propuestas se desarrollarán en la Casa Abierta Aclara, Penco; vía
+telefónica; correo electrónico; carta.
+Se deberán monitorear los parámetros informados en el punto Forma de implementación,
+relativo a la medida de mitigación ambiental denominada “Plan de información y
+comunicación para GHPPI”, correspondiente al capítulo 7 del presente EIA, a saber:
+- Reuniones con las Asociaciones;
+Parámetros a monitorear
+- Carta certificada y correo electrónico; y
+- -Línea telefónica directa
+Además de todos los eventos de divulgación de información a GHPPI realizados por el
+titular en la comuna de Penco en el marco del Proyecto y sus restricciones de acceso.
+Límites permitidos o
+El 100% de comunicaciones entre el Titular y los GHPPI registradas
+comprometidos
+Duración y frecuencia de
+Anualmente durante todo el período de ejecución del proyecto.
+la medición
+Cada parámetro será medido a través de los indicadores de cumplimiento señalados en el
+ítem Indicadores de cumplimiento, relativo a la medida de mitigación ambiental
+Método o procedimiento denominada “Plan de información y comunicación con GHPPI”, presentada en el capítulo
+de medición de cada 7 del presente EIA. Estos indicadores se presentarán en un informe anual que contendrá:
+parámetro - Actas de reuniones efectuadas, registro de asistencia;
+- Copia de carta certificada y correo electrónico informativo; y
+- Habilitación línea telefónica directa
+Plazo y frecuencia de Informe anual a la SMA con los resultados del Plan de información y comunicación con los
+entrega de informes GHPPI identificados en el EIA.
+Organismo destinatario
+Superintendencia del Medio Ambiente.
+de informes
+Fuente: GAC
+9-33
+================================================================================
+PAGE 38
+================================================================================
+Capítulo 9
+Plan de seguimiento de las variables ambientales relevantes
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 9-16. Seguimiento Medida de Mitigación MM-07 Plan de apoyo al fortalecimiento de prácticas culturales
+de los GHPPI
+Plan de Seguimiento “MM-07 Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI”
+Fase/Parte del Proyecto Construcción, Operación y Cierre.
+Componente(s)
+ambiental(es) objeto de Medio Humano.
+seguimiento
+Subcomponente
+Grupos Humanos Pertenecientes a Pueblos Indígenas (GHPPI).
+ambiental
+Variable ambiental Actividades tradicionales.
+IMH-03 Restricción de acceso a recursos naturales (hierbas medicinales) utilizadas por los
+GHPPI con fines medicinales y culturales dificultando la manifestación de actividades
+Impacto asociado
+culturales e intereses colectivos, por la instalación de puntos de control de acceso,
+señalética informativa y rondas de vigilancia.
+Medida(s) asociada(s) Plan de apoyo al fortalecimiento de prácticas culturales de los GHPPI
+Ubicación de los Corresponderá al lugar definido en conjunto con los GHPPI donde se ejecutará la medida,
+puntos/zonas de o en su defecto, el lugar definido por los GHPPI
+medición y control
+El parámetro corresponde a la ejecución de actividades que se acuerden con los dos GHPPI
+Parámetros a
+identificados, con lo que el estado y evaluación del componente dependerá de la
+monitorear
+definición de este acuerdo.
+Considerando los parámetros indicados anteriormente, se considera como indicador de
+Límites permitidos o éxito de la medida el dar cuenta de la ejecución de todas las acciones que dependan del
+comprometidos Titular para la obtención del acuerdo con los GHPPI identificados. En caso de no lograr
+acuerdo con los GHPPI se dará cuenta de ello en los referidos informes.
+Duración y frecuencia de
+Anualmente durante todo el período de ejecución del Proyecto.
+la medición
+El informe que se entregará dará cuenta del estado de avance de la medida, a través de
+los siguientes verificadores:
+- Actas de reunión y de acuerdos de la Mesa de Trabajo, conteniendo listado de
+asistencia firmado, para, al menos: Definición de líneas de trabajo y definición de
+Método o procedimiento
+método de elección de proyectos.
+de medición de cada
+- En caso de conseguir acuerdo respecto de los proyectos a implementar, también
+parámetro
+se reportará el avance de la aplicación de la medida, con acta de adjudicación de
+proyecto, registro fotográfico de implementación, y acto final de cierre.
+- En caso de no conseguir acuerdos en algún punto del proceso, se solicitará un
+registro del rechazo.
+Plazo y frecuencia de Anual. Presentación en un plazo máximo de 3 meses después de transcurrido el año en
+entrega de informes evaluación.
+Organismo destinatario
+Superintendencia del Medio Ambiente y CONADI.
+de informes
+9-34

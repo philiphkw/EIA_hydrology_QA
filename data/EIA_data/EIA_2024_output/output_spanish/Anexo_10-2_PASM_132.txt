@@ -1,0 +1,1352 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-2
+Permiso Ambiental Sectorial
+N°132
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+ESTUDIO DE IMPACTO AMBIENTAL
+PROYECTO DE DESARROLLO MINERO DE
+EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE
+CONCENTRADO DE TIERRAS RARAS
+ANEXO 10-2
+PAS 132 ARQUEOLOGÍA
+Ma Marta Valenzuela Arenas
+Arqueóloga
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+ANEXO 10-2
+PAS 132 ARQUEOLOGÍA
+ESTUDIO DE IMPACTO AMBIENTAL
+PROYECTO DE DESARROLLO MINERO DE EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN
+DE CONCENTRADO DE TIERRAS RARAS
+MAYO 2024
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+i
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+ÍNDICE DE CONTENIDOS
+1 INTRODUCCIÓN ............................................................................................................... 4
+2 ANTECEDENTES PARA EL OTORGAMIENTO DEL PERMISO ............................................. 6
+2.1 IDENTIFICACIÓN Y DESCRIPCIÓN GENERAL DE LOS SITIOS ARQUEOLÓGICOS ................... 6
+2.2 DESCRIPCIÓN DE LAS OBRAS, PARTES Y ACCIONES QUE PUEDAN AFECTAR LOS SITIOS O
+YACIMIENTOS .................................................................................................................................... 11
+2.3 CARACTERIZACIÓN SUPERFICIAL Y ESTRATIGRÁFICA DE LOS SITIOS O DE LOS YACIMIENTOS
+15
+2.3.1 INSPECCIÓN SUPERFICIAL DEL ÁREA ................................................................................. 15
+2.3.2 CARACTERIZACIÓN SUPERFICIAL de LOS REGISTROS ARQUEOLÓGICOS .......................... 25
+2.3.3 CARACTERIZACIÓN ESTRATIGRÁFICA DE LOS REGISTROS ARQUEOLÓGICOS ................... 25
+2.4 DESCRIPCIÓN GENERAL DE LOS TIPOS DE ANÁLIS A REALIZAR DE LOS MATERIALES QUE
+SEAN RECUPERADOS ......................................................................................................................... 31
+2.4.1 MEDIDA DE RESCATE PROPUESTA .................................................................................... 31
+2.4.1.1. RECOLECCIÓN SUPERFICIAL ............................................................................................... 32
+2.4.2. METODOLOGÍA DE ANÁLISIS DE MATERIALES ...................................................................... 32
+2.5 PROPUESTA DE CONSERVACIÓN DE LOS MATERIALES EN TERRENO, LABORATORIO Y
+DEPÓSITO .......................................................................................................................................... 34
+2.6 PLAN DE TRASLADO Y DEPÓSITO FINAL DE LOS MATERIALES QUE SEAN RECUPERADOS 35
+2.7 MEDIDAS DE CONSERVACIÓN DE LOS YACIMIENTOS ....................................................... 35
+2.8 MONITOREO ARQUEOLÓGICO PERMANENTE .................................................................. 35
+APÉNDICE 1. FICHAS DE REGISTRO PMP-SA-01 Y RELLENO 1 .............................................. 37
+APÉNDICE 2. MODELO DE FICHA DE RECOLECCIÓN SUPERFICIAL ....................................... 45
+ÍNDICE DE TABLAS
+Tabla 1. Superficies obras del Proyecto. ........................................................................................... 12
+Tabla 2. Síntesis cobertura de la inspección arqueológica visual del Proyecto. ............................... 15
+Tabla 3. Síntesis registros de la inspección o cercanos al AI y medidas propuestas. ........................ 31
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+ii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+ÍNDICE DE FIGURAS
+Figura 1. Vista general del emplazamiento del sitio PMP-SA-01 hacia el Noreste ............................. 7
+Figura 2. Detalle de fragmentos cerámicos registrados en el sitio PMP-SA-01. ................................. 7
+Figura 3. Detalle de fragmentos cerámicos registrados en el sitio PMP-SA-01. ................................. 7
+Figura 4. Detalle de fragmento cerámico registrado en el sitio PMP-SA-01. ...................................... 7
+Figura 5. Registro de la inspección arqueológica visual ZE Maite. ...................................................... 8
+Figura 6. Vista general del emplazamiento del sitio Relleno 1 ........................................................... 9
+Figura 7. Detalle de fragmentos cerámicos registrados en el sitio Relleno 1 ..................................... 9
+Figura 8. Detalle registros arqueológicos previos reportados en el marco del SEIA cercanos al AI del
+Proyecto. ........................................................................................................................................... 10
+Figura 9. Ubicación regional del Proyecto. ........................................................................................ 11
+Figura 10. Área de Influencia Arqueología. ....................................................................................... 14
+Figura 11. Resultados inspección arqueológica visual Zona de Extracción (ZE) Victoria Norte. ....... 17
+Figura 12. Resultados inspección arqueológica visual Planta de Procesamiento. ............................ 18
+Figura 13. Resultados inspección arqueológica visual Stockpile. ...................................................... 19
+Figura 14. Resultados inspección arqueológica visual Zona de Disposición (ZD) Neptuno. ............. 20
+Figura 15. Resultados inspección arqueológica visual Zona de Acopio (ZA) Vegetal........................ 21
+Figura 16. Resultados inspección arqueológica visual Zona de Extracción Maite. ........................... 22
+Figura 17. Resultados inspección arqueológica visual Zona de Extracción Luna. ............................. 23
+Figura 18. Resultados inspección arqueológica visual Área de Intervención Caminos, LTE y
+Modificación Oleoducto ENAP. ......................................................................................................... 24
+Figura 19. Resultados pozos de sondeo excavados en el sitio PMP-SA-01. ...................................... 28
+Figura 20. Resultados pozos de sondeo excavados en torno al sitio Relleno 1. ............................... 29
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+iii
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrados de Tierras Raras
+Estudio de Impacto Ambiental
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado de Tierras Raras,
+en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones que
+permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento de
+arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente meteorizado, con
+presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará principalmente en la comuna
+de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte de las obras se emplazan en la
+comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de material
+para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo existente de
+aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de ENAP, motivo de la
+explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras temporales
+correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del Proyecto.
+El presente documento corresponde a un Anexo del Estudio de Impacto Ambiental (EIA) del “Proyecto de
+Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras” (en adelante,
+el “Proyecto”) y responde a la necesidad de solicitar la aplicación del Permiso Ambiental Sectorial N°132 del
+Reglamento del SEIA en el marco del desarrollo de las actividades del Proyecto.
+El Permiso Ambiental Sectorial (PAS) para hacer excavaciones de tipo arqueológico, antropológico y
+paleontológico, correspondiente al establecido en el artículo 132 del DS 40/2012 del Reglamento del SEIA del
+Ministerio del Medio Ambiente, en adelante PAS 132, corresponde a un PAS mixto, ya que presenta tanto
+contenidos ambientales (analizados dentro del SEIA) como no ambientales, que son competencia de
+Organismos de Administración del Estado con Competencia Ambiental (OAECA), en este caso, el Consejo de
+Monumentos Nacionales (CMN).
+Este permiso se funda en el artículo 30°, N°1 de la Ley N°17.288, que legisla sobre Monumentos Nacionales,
+que modifica las leyes 16.617 y 16.719 y deroga el decreto de Ley 651, del 17 de octubre de 1925 (Ley
+N°17.288), que disponen:
+“Artículo 22°. -Ninguna persona natural o jurídica chilena podrá hacer en territorio nacional
+excavaciones de carácter arqueológico, antropológico o paleontológico, sin haber obtenido
+previamente autorización del Consejo de Monumentos Nacionales, en la forma establecida en su
+Reglamento (…)”.
+“Artículo 23°. -Las personas naturales o jurídicas extranjeras que deseen efectuar excavaciones de
+tipo antropo-arqueológico y paleontológico, deberán solicitar el permiso correspondiente al Consejo
+de Monumentos Nacionales en la forma establecida en el Reglamento. (…)”.
+Por otra parte, otras normas relacionadas a dicho permiso están relacionados con distintos artículos de la ley
+referida (N°17.288), a saber:
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+4
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrados de Tierras Raras
+Estudio de Impacto Ambiental
+“Artículo 1°. -Son monumentos nacionales y quedan bajo tuición y protección del Estado, los lugares,
+ruinas, construcciones u objetos de carácter histórico o artístico; los enterratorios o cementerios y
+otros restos de los aborígenes, las piezas y objetos antropo-arqueológicos, paleontológicos o de
+formación natural, que existan bajo o sobre la superficie del terreno nacional o en la plataforma
+submarina de sus aguas jurisdiccionales y cuya conservación interesa a la historia, al arte o a la ciencia
+(…)”.
+“Artículo 6°. -Son atribuciones y deberes del Consejo [de Monumentos Nacionales]:
+6.- Conceder los permisos o autorizaciones para excavaciones de carácter histórico, arqueológico,
+antropológico o paleontológico en cualquier punto del territorio nacional, que soliciten las personas
+naturales o jurídicas chilenas o extranjeras en la forma que determine el Reglamento”.
+“Artículo 21°. -Por el solo ministerio de la Ley, son Monumentos Arqueológicos de propiedad del
+Estado los lugares, ruinas y yacimientos y piezas antropo-arqueológicos que existen sobre o bajo la
+superficie del territorio nacional.
+Para los efectos de la presente ley quedan comprendidas también las piezas paleontológicas y los
+lugares donde se hallaren”.
+“Artículo 26°. -Toda persona natural o jurídica que al hacer excavaciones en cualquier punto del
+territorio nacional y con cualquier finalidad, encontrase ruinas, yacimientos, piezas u objetos de
+carácter histórico, antropológico, arqueológico o paleontológico, está obligada a denunciar
+inmediatamente el descubrimiento al Gobernador Provincial, quien ordenará a Carabineros que se
+haga responsable de su vigilancia hasta que el Consejo se haga cargo de él (…)”.
+Por otro lado, los principales artículos relacionados al PAS 132 del Decreto Supremo N°484 de 1990 del
+Ministerio de Educación, que promulga el Reglamento de la Ley N°17.288, sobre excavaciones y/o
+prospecciones arqueológicas, antropológicas y paleontológicas, corresponden a:
+“Artículo 5°. -Las prospecciones que incluyan pozos de sondeo y/o recolecciones de material de
+superficie y todas las excavaciones arqueológicas, antropológicas y paleontológicas, en terrenos
+públicos o privados, sólo podrán realizarse previa autorización del Consejo de Monumentos
+Nacionales, a través de los permisos correspondientes”.
+“Artículo 21°. -Los objetos o especies procedentes de excavaciones y/o prospecciones arqueológicas,
+antropológicas y/o paleontológicas, pertenecen al Estado. Su tenencia será asignada por el Consejo
+de Monumentos Nacionales a aquellas instituciones que aseguren su conservación, exhibición y den
+fácil acceso a los investigadores para su estudio.
+En todo caso, se preferirá y dará prioridad a los Museos regionales respectivos para la permanencia
+de las colecciones, siempre que den cuenta que cuenten con condiciones de seguridad suficientes, den
+garantía de la conservación de los objetos y faciliten el acceso de investigadores para su estudio”.
+Finalmente, el artículo único relacionado al PAS 132 del Decreto Exento N°311 (Ministerio de Educación y
+Subsecretaría de Educación, 1999), declara como Monumento Histórico Patrimonio Subacuático que indica,
+cuya antigüedad sea mayor a 50 años:
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+5
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrados de Tierras Raras
+Estudio de Impacto Ambiental
+“Artículo único: Declárase Monumento Histórico toda traza de existencia humana que se encuentre
+en el fondo de ríos, lagos y en los fondos marinos que existen bajo las Aguas Inferiores y Mar Territorial
+de la República de Chile, por más de cincuenta años, los que incluyen:
+a) Sitios, estructuras, construcciones, artefactos y restos humanos, en conjunto con su entorno
+arqueológico y natural.
+b) Restos de buques, aeronaves, otros vehículos o algunas de sus partes, su carga o su
+contenido, en conjunto con su entorno arqueológico y natural”.
+Respecto a la aplicación de este permiso ambiental mixto, en la “Guía Trámite PAS Artículo 132 Reglamento
+del SEIA” (SEA y CMN, 2018), se define “excavación” en términos bastante amplios, abarcando “toda
+alteración o intervención de un sitio arqueológico, antropológico o paleontológico, incluyendo recolecciones
+de superficie, pozos de sondeo, excavaciones, tratamiento de estructuras, trabajos de conservación,
+restauración y, en general, cualquier manejo que altere un sitio arqueológico, antropológico o
+paleontológico”, siendo el CMN el organismo encargado de otorgar o denegar dichos permisos.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los siguientes:
+a. Identificación y descripción general de los sitios arqueológicos o de los yacimientos paleontológicos.
+b. Descripción de las partes, obras y acciones que puedan afectar los sitios o yacimientos.
+c. Caracterización superficial y estratigráfica de los sitios o de los yacimientos.
+d. Descripción general de los tipos de análisis a realizar a los materiales recuperados.
+e. Propuesta de conservación de los materiales en terreno, laboratorio y depósito.
+f. Plan de traslado y depósito final de los materiales recuperados.
+g. Medidas de conservación de los sitios o yacimientos, si corresponde.
+A continuación, se entregan los antecedentes necesarios para solicitar el otorgamiento del PAS 132.
+2 ANTECEDENTES PARA EL OTORGAMIENTO DEL PERMISO
+2.1 IDENTIFICACIÓN Y DESCRIPCIÓN GENERAL DE LOS SITIOS ARQUEOLÓGICOS
+A partir de la inspección arqueológica visual realizada en el marco del presente Proyecto se reconoció
+únicamente un sitio arqueológico, denominado PMP-SA-01, correspondiente a una concentración de
+fragmentos cerámicos de superficies alisadas (interior y exterior) de 146 m2, de posible temporalidad histórica
+de tradición indígena, ubicado al interior de la Zona de Extracción Maite (ZE), en el área de un camino existente
+(ver Figura 1 a Figura 5 y APÉNDICE 1. FICHAS DE REGISTRO PMP-SA-01 del presente documento).
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+6
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrados de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 1. Vista general del emplazamiento del sitio Figura 2. Detalle de fragmentos cerámicos
+PMP-SA-01 hacia el Noreste registrados en el sitio PMP-SA-01.
+Figura 3. Detalle de fragmentos cerámicos Figura 4. Detalle de fragmento cerámico
+registrados en el sitio PMP-SA-01. registrado en el sitio PMP-SA-01.
+Fuente: Registro campaña de terreno, agosto de 2023. Coordenadas UTM, Datum WGS84, Huso 18S.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+7
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 5. Registro de la inspección arqueológica visual ZE Maite.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+8
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Por otra parte, a partir de la revisión de antecedentes bibliográficos, se reconoció la existencia de un registro
+previo reportado en el marco del Sistema de Evaluación de Impacto Ambiental (SEIA), denominado “Relleno
+1”, ubicado a 206 m de un camino proyectado1 (ver Figura 6 a Figura 8), el que fue sondeado en el marco del
+EIA del Proyecto “Continuidad Operacional Centro de Manejo de Residuos Concepción”, cuyos resultados
+dieron cuenta de la inexistencia de un depósito estratigráfico.
+Figura 6. Vista general del emplazamiento del sitio Figura 7. Detalle de fragmentos cerámicos
+Relleno 1 registrados en el sitio Relleno 1
+Fuente: Anexo 3.5.1. del EIA del Proyecto “Continuidad Operacional Centro de Manejo de Residuos de
+Concepción”.
+1 Debido a que el sitio Relleno 1 se ubicaba a 38 m del trazado previo de un camino proyectado, se solicitó ampliar la
+caracterización mediante la ejecución de pozos de sondeo en el área del Proyecto que enfrentaba dicho sitio, los que
+fueron autorizados mediante el ORD. CMN N°1571-2024, cuyos resultados permitieron la detección de un depósito
+estratigráfico en el área de dicho camino proyectado. En base a dichos resultados y con el objetivo de evitar la intervención
+del sitio, el Titular del Proyecto decidió modificar el trazado de la obra y desplazar el eje del camino a más de 150 m del
+área sondeada y a 206 m del sitio Relleno 1.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+9
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 8. Detalle registros arqueológicos previos reportados en el marco del SEIA cercanos al AI del Proyecto.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Nota: Se indica de manera referencial el trazado previo del camino (en línea calipso punteada) que motivó la solicitud de pozos de sondeo del área del Proyecto cercana al sitio Relleno 1. No obstante, el Área de Influencia actual del Proyecto corresponde al
+camino ubicado en el borde Oeste del recuadro inferior izquierdo.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+10
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.2 DESCRIPCIÓN DE LAS OBRAS, PARTES Y ACCIONES QUE PUEDAN AFECTAR LOS
+SITIOS O YACIMIENTOS
+El Proyecto, ubicado en las Comunas de Penco y Concepción, Provincia de Concepción, Región del Biobío (ver
+Figura 9) consiste en la construcción y operación de una faena minera y una Planta Comercial de arcillas,
+material presente en la zona, el cual por efectos naturales se encuentra altamente meteorizado, con presencia
+de lantánidos adsorbidos en los minerales de arcilla.
+Figura 9. Ubicación regional del Proyecto.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+11
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Los lantánidos son 15 elementos: lantano (La), cerio (Ce), praseodimio (Pr), neodimio (Nd), prometio (Pm),
+samario (Sm), europio (Eu), gadolinio (Gd), terbio (Tb), disprosio (Dy), holmio (Ho), erbio (Er), tulio (Tm), iterbio
+(Yb) y lutecio (Lu). Los elementos nombrados anteriormente junto con el itrio (Y) y el escandio (Sc) son
+conocidos como Tierras Raras.
+De los 17 elementos nombrados anteriormente, en el presente proyecto se encuentran 15 de ellos presentes
+en el mineral, los cuales son: lantano (La), cerio (Ce), praseodimio (Pr), neodimio (Nd), samario (Sm), europio
+(Eu), gadolinio (Gd), terbio (Tb), disprosio (Dy), holmio (Ho), erbio (Er), tulio (Tm), iterbio (Yb), lutecio (Lu) e
+itrio (Y).
+La Planta Comercial proyectada tiene una capacidad para procesar hasta 320 toneladas/hora de arcillas y
+producir aproximadamente 3.100 toneladas anuales de concentrado de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas (ZE Victoria Norte, ZE Luna,
+ZE Maite), una (1) zona de disposición para estériles y arcillas lavadas (ZD Neptuno), una (1) zona de acopio
+de suelo vegetal (ZAV), una línea eléctrica y su conexión a línea existente y la construcción de caminos internos
+para acceder a las distintas áreas. Además, se considera la implementación de obras temporales
+correspondiente a instalaciones de faenas, para la construcción y habilitación de las obras del Proyecto, las
+que se ubicarán íntegramente al interior del área de intervención de la Planta Comercial.
+El Área de Influencia (AI) del Proyecto considerada para la caracterización de Patrimonio Cultural Arqueológico
+comprende las superficies efectivas de las obras mencionadas previamente, que se detallan en la Tabla 1 y en
+la Figura 10.
+Tabla 1. Superficies obras del Proyecto.
+OBRA SUPERFICIE (HA)
+Planta de Procesamiento2 13,1
+Stockpiles Alimentación Arcilla Gastada 0,9
+ZONAS DE EXTRACCIÓN (ZE)
+ZE Victoria Norte 31,1
+ZE Luna 8,8
+ZE Maite 35,9
+ZONAS DE DISPOSICIÓN
+ZD Neptuno 45,5
+ZONAS DE ACOPIO
+Acopio de suelo vegetal 5,5
+ÁREA DE INTERVENCIÓN CAMINOS3
+Caminos proyectados 10,3
+Caminos existentes con ampliación 12,1
+Caminos existentes sin intervención 0,1
+LÍNEA DE TRANSMISIÓN ELÉCTRICA (LTE)
+2 Abarca el área de la Instalación de Faena temporal y de la Planta Comercial.
+3 Sus superficies se traslapan parcialmente con otras obras (Planta de Procesamiento
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+12
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+OBRA SUPERFICIE (HA)
+Área de intervención LTE 0,2
+MODIFICACIÓN OLEODUCTO ENAP
+Faja Modificación Oleoducto4 5,69
+*Obras cuya superficie traslapa total o parcialmente con otras obras.
+Fuente: Capítulo 1, Descripción del Proyecto.
+Por lo tanto, la superficie de intervención total durante la vida útil del Proyecto y, por ende, el Área de
+Influencia considerada para el componente de Arqueología es de 169,19 ha, según se presenta en la Figura
+10.
+4 Parte de su superficie se superpone espacialmente con la ZE Maite.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+13
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 10. Área de Influencia Arqueología.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+14
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.3 CARACTERIZACIÓN SUPERFICIAL Y ESTRATIGRÁFICA DE LOS SITIOS O DE LOS
+YACIMIENTOS
+2.3.1 INSPECCIÓN SUPERFICIAL DEL ÁREA
+El levantamiento de información en terreno se realizó mediante cinco campañas de inspección arqueológica
+visual que se efectuaron entre agosto de 2023 y mayo de 2024. La planificación contempló la ejecución de
+transectas separadas cada 20 m, así como el registro de puntos de control fotográfico georreferenciado para
+dar cuenta de las condiciones de emplazamiento de los sectores no prospectables, por presencia de
+vegetación de cobertura densa y/o pendiente abrupta (sobre 25°), debido a que el área del Proyecto se
+emplaza al interior de la cordillera de la Costa de la región del Biobío, que presenta altitudes no mayores a
+300 m.s.n.m. y pendientes que fluctúan desde bajas (0-2°) a muy fuertes (sobre 35°) y a moderadamente
+escarpadas (20-30°). Asimismo, su superficie se encuentra cubierta casi completamente por predios
+destinados a plantaciones forestales en distintos estados de crecimiento, al interior de los cuales se observa
+el crecimiento de formaciones vegetales del tipo matorral, arbustivo y/o quila de cobertura densa,
+particularmente en torno a quebradas.
+En términos generales, se logró una cobertura de inspección del 42,40% de la superficie total del AI de
+Arqueología del Proyecto (71,73 de las 169,19 ha totales), con porcentajes de cobertura variables entre las
+distintas obras (ver Tabla 2 y Figura 11 a Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Figura 18), mientras que para dar cuenta de las condiciones de emplazamiento de los sectores no
+prospectables en los que no fue posible desarrollar una inspección sistemática mediante transectas se
+registraron un total de 172 puntos de control, cuyo detalle se presenta el Anexo 3C-43 del presente Estudio
+de Impacto Ambiental.
+Tabla 2. Síntesis cobertura de la inspección arqueológica visual del Proyecto.
+COBERTURA COBERTURA INSPECCIÓN
+OBRA SUPERFICIE TOTAL (HA)
+INSPECCIÓN (HA) (%)
+ZE Victoria Norte 31,1 16,13 51,86%
+Planta de Procesamiento 13,1 10,13 77,33%
+Stockpiles 0,9 0,37 41,11%
+ZD Neptuno 45,5 6,87 15,10%
+ZA Vegetal 5,5 1,19 21,64%
+ZE Maite 35,9 17,32 48,25%
+ZE Luna 8,8 4,13 46,93%
+Área de intervención caminos5 22,5 14,81 65,82%
+Área de intervención LTE 0,2 0,07 35,00%
+5 Se cuantificó únicamente la superficie no superpuesta o incluida al interior de otras obras areales.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+15
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+COBERTURA COBERTURA INSPECCIÓN
+OBRA SUPERFICIE TOTAL (HA)
+INSPECCIÓN (HA) (%)
+Modificación Oleoducto ENAP6 5,6 0,71 12,48
+TOTAL AI 169,19 71,73 42,40
+Fuente: Elaboración propia
+6 Se cuantificó únicamente la superficie no superpuesta con el área de la ZE Maite.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+16
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 11. Resultados inspección arqueológica visual Zona de Extracción (ZE) Victoria Norte.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+17
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 12. Resultados inspección arqueológica visual Planta de Procesamiento.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+18
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 13. Resultados inspección arqueológica visual Stockpile.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+19
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 14. Resultados inspección arqueológica visual Zona de Disposición (ZD) Neptuno.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+20
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 15. Resultados inspección arqueológica visual Zona de Acopio (ZA) Vegetal.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+21
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 16. Resultados inspección arqueológica visual Zona de Extracción Maite.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+22
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 17. Resultados inspección arqueológica visual Zona de Extracción Luna.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+23
+================================================================================
+PAGE 26
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 18. Resultados inspección arqueológica visual Área de Intervención Caminos, LTE y Modificación Oleoducto ENAP.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+24
+================================================================================
+PAGE 27
+================================================================================
+Anexo 10-2: Informe Ejecutivo Excavación Pozos de Sondeo Arqueológicos
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.3.2 CARACTERIZACIÓN SUPERFICIAL DE LOS REGISTROS ARQUEOLÓGICOS
+Tal como se mencionó en la sección 2.1. del presente documento, a partir de la inspección arqueológica visual
+efectuada en el AI del Proyecto se reconoció únicamente un registro arqueológico (PMP-SA-01),
+correspondiente a una concentración de fragmentos cerámicos de superficies alisadas (interior y exterior) de
+146 m2, ubicado al interior de la Zona de Extracción Maite.
+Adicionalmente, a partir de la revisión de antecedentes bibliográficos, se reconoció la presencia de un sitio
+arqueológico denominado “Relleno 1”. Este corresponde a fragmentería cerámica de data prehispánica o
+histórica temprana, de posible origen secundario y de carácter superficial. Esto fue confirmado por las
+excavaciones realizadas en el sitio por el arqueólogo Víctor Bustos Santelices en el año 2022, estas
+evidenciaron la ausencia de materiales en depósito estratigráfico en los 12 pozos de sondeo excavados – 9 de
+1 m x 0,5 m y 3 de 1 m x 1 m.
+En una versión previa del trazado del Proyecto, se registró que el sitio arqueológico Relleno 1 se encontraba
+emplazado a una distancia de 38 m de un camino proyectado. Razón por la cual, se decidió realizar una
+solicitud de intervención para la ejecución de pozos de sondeo en el área, junto con la caracterización
+subsuperficial del sitio PMP-SA-01, ubicado al interior de la Zona de Extracción Maite, trabajos autorizados
+mediante el ORD. CMN N°1571 del 3 de abril de 2024.
+Debido a la constatación de un depósito arqueológico en el área del Proyecto que enfrentaba al sitio Relleno
+1, el Titular decidió modificar el trazado de sus obras y desplazar 150 m hacia el Oeste el trazado del camino
+proyectado en esta área, para disminuir los eventuales impactos sobre el componente arqueológico, por lo
+que no se continuó la caracterización del sitio, en tanto este ya no forma parte del Área de Influencia del
+Proyecto (en específico 206 m).
+2.3.3 CARACTERIZACIÓN ESTRATIGRÁFICA DE LOS REGISTROS ARQUEOLÓGICOS
+A partir de las actividades de caracterización subsuperficial efectuadas entre el 2 y el 5 de mayo de 2024 en
+los sitios PMP-SA-01 y en el borde del área del Proyecto que enfrentaba al sitio Relleno 17, se pudo distinguir
+una estratigrafía homogénea al interior de cada sitio, aunque claras diferencias entre estas dos áreas, que se
+encuentran distantes por cerca de 600 m entre sí.
+Por un lado, en el sitio PMP-SA-01, se distinguieron dos capas estratigráficas (denominadas A y B), cuya
+distribución varía en función de la ubicación de los pozos (al interior o al exterior del camino existente donde
+se identificó la dispersión de fragmentos cerámicos). Por un lado, en los pozos ubicados al sur del camino (al
+interior de una plantación forestal) se reconoce una primera capa (Capa A), correspondiente a una matriz
+limo-arcillosa, con un bajo contenido de arena, semi-compacta, de color marrón oscuro (que varía a tonos
+más claros a medida que disminuye el contenido de materia orgánica), que presenta una alta densidad de
+pasto, hojas de eucalipto, insectos, raíces y raicillas durante los primeros niveles, que luego varía a bajo en los
+7 Según lo autorizado en el ORD. CMN N°1571-2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+25
+================================================================================
+PAGE 28
+================================================================================
+Anexo 10-2: Informe Ejecutivo Excavación Pozos de Sondeo Arqueológicos
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+niveles siguientes (raíces y raicillas). Esta presenta un alto porcentaje de humedad, que baja a nivel medio
+desde el nivel 4 en adelante, mientras que presenta una baja a nula densidad de inclusiones (piedras
+redondeadas pequeñas). Se extiende desde el nivel 1 (0-10 cm) hasta profundidades variables (nivel 4 a 6) y
+no presenta materiales culturales, sólo fragmentos de teja de confección moderna.
+Por otra parte, la capa B (denominada Capa A en los pozos P1 y P2, ubicados al interior del camino, debido a
+que fueron excavados con anterioridad), corresponde a una matriz limo-arcillosa semi-compacta a compacta,
+de color marrón rojizo, con un bajo contenido de arena durante los primeros niveles. Presenta un porcentaje
+de humedad que varía entre alto a medio, mientras que el contenido de materia orgánica varía desde alto en
+el primer nivel (pasto, raíces, raicillas y hojas de eucaliptus, aunque sólo en los pozos P1 y P2, que tienen una
+pequeña formación de suelo vegetal en los primeros cm) a medio en los niveles siguientes (sólo raíces y
+raicillas). Al igual que la capa A, presenta una baja densidad de inclusiones (piedras subangulosas y
+redondeadas de tamaño pequeño, entre ellas granodiorita en descomposición – friable), que disminuye en
+los niveles más profundos. No presenta materiales culturales, sólo fragmentos de teja de confección moderna
+durante los primeros niveles en el pozo P2.
+Salvo una canica de arcilla (posiblemente caolín) –registrada en el nivel superficial del pozo P5 de origen
+secundario– desplazada por el desnivel que se observa en el área de emplazamiento de los pozos ubicados en
+el sur en la ladera del cerro –donde se reconoce una pendiente moderada a abrupta, sumado a la intervención
+forestal del área evaluada– no se registraron materiales culturales al interior de los pozos de sondeo
+excavados en el sitio PMP-SA-01. Estopermite sostener que la dispersión de materiales identificados en
+superficie no tendría un potencial estratigráfico y correspondería a materiales históricos, aunque d e
+asignación cronológica específica indeterminada.
+A su vez, el análisis de imágenes satelitales disponibles para la zona, con clara definición al menos desde 2002,
+permitió identificar al menos dos rotaciones de cultivos forestales en el área (tala, cosecha y nueva
+plantación), así como determinar que el camino al interior del cual se ubica la dispersión de materiales no se
+identifica con anterioridad a 2018, momento en que habría sido escarpado. Tanto la ausencia de potencial
+estratigráfico como las intensas intervenciones realizadas en el área (producto de la actividad forestal),
+permiten suponer que el sitio PMP-SA-01 correspondería a un posible depósito secundario de materiales, cuya
+determinación cronológica y funcional específica deberá ser determinado a partir de análisis especializados.
+Por otra parte, en los pozos excavados en las cercanías del sitio Relleno 1, se identificó una estratigrafía
+diferente, identificándose 4 capas estratigráficas (denominadas A, B, C y D), cuya distribución varía de acuerdo
+con la ubicación de los pozos (todos ubicados al interior de un camino existente, al interior de una ladera de
+cerro de pendiente abrupta). Por un lado, en los pozos P3, P4 y P5, ubicados a mayor altura en la ladera, sólo
+se reconocen las capas A y B, y excepcionalmente la capa D (roca madre) en el pozo P4, mientras que la capa
+C sólo se identificó en los pozos P1 y P2, ubicados a menor altura (ladera abajo).
+La capa A corresponde una matriz limo-arcillosa con un bajo contenido de arena, semi-compacta, de color
+marrón oscuro, con un porcentaje de humedad medio y un contenido de materia orgánico medio a bajo
+(tallos, pasto, raíces y hojas en el primer nivel y luego sólo raicillas). Las inclusiones de esta capa incluyen
+piedras subangulosas y redondeadas medianas y pequeñas en densidad media. La capa A se extiende entre el
+nivel 1 (0-10 cm) y los niveles 2 (10-20 cm) a 7 (60-70 cm) y desde este estrato provienen todos los materiales
+registrados en el sitio (a excepción del pozo P6, ubicado al sur del camino, cuyos materiales provienen de una
+capa de relleno de material removido durante el escarpe del camino) (ver Figura 20).
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+26
+================================================================================
+PAGE 29
+================================================================================
+Anexo 10-2: Informe Ejecutivo Excavación Pozos de Sondeo Arqueológicos
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+La capa B, por otra parte, corresponde a una matriz arcillo-limosa de color marrón, bastante más compacta
+que la capa A debido al aumento en el componente arcilloso, lo que le otorga una mayor plasticidad. Posee
+inclusiones de piedras subangulosas y redondeadas de tamaño pequeño en densidades bajas, provenientes
+en parte de rocas meteorizadas ubicadas en los perfiles. La humedad se presenta en rangos medios y el
+componente orgánico disminuye respecto a la capa previa, manteniéndose en valores bajos, expresado sólo
+en raíces. La capa B se extiende a distintas profundidades desde el nivel 2 (10-20 cm) al nivel 9 (80-90 cm) y
+no presenta material cultural, por lo que fue considerado como Estrato Geológico Culturalmente Estéril
+(EGCE).
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+27
+================================================================================
+PAGE 30
+================================================================================
+Anexo 10-2: Informe Ejecutivo Excavación Pozos de Sondeo Arqueológicos
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 19. Resultados pozos de sondeo excavados en el sitio PMP-SA-01.
+Fuente: Elaboración propia Pares&Alvarez Gestión Ambiental, 2024.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+28
+================================================================================
+PAGE 31
+================================================================================
+Anexo 10-2: Informe Ejecutivo Excavación Pozos de Sondeo Arqueológicos
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Figura 20. Resultados pozos de sondeo excavados en torno al sitio Relleno 1.
+Fuente: Elaboración propia
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+29
+================================================================================
+PAGE 32
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+La capa C, por otro lado, corresponde a una matriz arcillo-limosa, compacta, de color marrón rojizo, levemente
+menos plástica que la capa B (debido a que presenta un componente de arcilla más bajo). Presenta una baja
+densidad de inclusiones, que incluyen gravas y piedras subangulosas y redondeadas medianas y pequeñas. La
+humedad de esta capa está en rangos medios y el componente orgánico es bajo, compuesto exclusivamente
+por raíces. La capa C se extiende entre el 5 (40-50 cm) y el nivel 9 (80-90 cm) hasta el nivel 10 (90-100 cm), sin
+presentar materiales culturales (por lo que también fue considerara como EGCE), observándose sólo en los
+pozos P1 a P3, que se ubican ladera abajo, a menor altura que los pozos P4 al P6.
+Finalmente, la capa D registrada sólo en los pozos P2 y P4, correspondería a afloramientos de la roca madre
+granodiorítica del cerro.
+Excepcionalmente, en el pozo P6, ubicado en una ladera al sur del camino existente, se reconoció una capa
+previa, correspondiente a un relleno de material extraído durante el escarpe del camino y que presenta
+características de las 3 capas (A, B y C) de los pozos excavados en el camino.
+Respecto a la asignación cronológica de los materiales identificados al interior de los pozos que enfrentan al
+sitio Relleno 1, si bien estos presentan un alto grado de fragmentación y erosión, se reconocen al menos 2
+fragmentos que, bajo un análisis preliminar, presentarían atributos diagnósticos que podrían asociarlos al
+Periodo Alfarero Temprano de la región (asociado al Complejo Cultural Pitrén), aunque el análisis
+especializado deberá proporcionar mayores antecedentes (ver Anexo 3C-52 del presente EIA).
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+30
+================================================================================
+PAGE 33
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.4 DESCRIPCIÓN GENERAL DE LOS TIPOS DE ANÁLIS A REALIZAR DE LOS MATERIALES
+QUE SEAN RECUPERADOS
+2.4.1 MEDIDA DE RESCATE PROPUESTA
+En función de las características y ubicación de los registros arqueológicos respecto de las obras, así como a
+partir de los resultados de la caracterización subsuperficial mediante pozos de sondeo realizada y del cambio
+del trazado del Proyecto, se proponen las siguientes medidas (ver Tabla 3).
+Tabla 3. Síntesis registros de la inspección o cercanos al AI y medidas propuestas.
+Superficie Proyecto, año Medida
+Distancia Obra Medida
+Sitio o Descripción Cronología de registro y RCA
+al AI asociada propuesta
+extensión fuente original
+EIA Proyecto
+"Continuidad
+Operacional
+Centro de
+Manejo de
+Abundantes
+Residuos
+fragmentos Recolección
+Concepción" No aplica (se
+cerámicos de Prehispánico superficial
+206 m al Camino (Bustos, 2021). ubica fuera del
+Relleno 1 100 m2 data - Histórico de una
+E proyectado Coordenada AI del
+prehispánica o temprano superficie
+extraída de Proyecto)
+histórica de 120 m2
+ORD. CMN
+temprana
+N°4411-2022
+que autoriza
+los sondeos en
+el marco del
+EIA
+Recolección
+Concentración No aplica superficial del
+Proyecto
+PMP-SA-01 146 m2 de fragmentos Histórico 0 ZE Maite (Proyecto 100% del
+actual
+cerámicos actual) material
+arqueológico
+Fuente: Anexo 3C-46 del presente EIA, Línea de Base Patrimonio Cultural Arqueológico.
+Respecto al sitio “Relleno 01”, debido al cambio del trazado del Proyecto, cuya obra más cercana se ubica
+ahora a más de 200 m de distancia del registro original y a 150 m al Oeste del área sondeada que presentó
+material en estratigrafía, no se estima necesario proponer medidas adicionales, en tanto el sitio se ubica fuera
+del AI del Proyecto.
+Por otra parte, debido a que los resultados de la caracterización subsuperficial del sitio PMP-SA-01 indicaron
+la ausencia de un depósito estratigráfico en el área, se propone la recolección superficial del 100% del material
+arqueológico, según el área de dispersión superficial de materiales identificada en superficie.
+A continuación, se detalla la propuesta metodológica para la ejecución de la medida de recolección, una vez
+obtenida la RCA favorable del Proyecto y previo al inicio de las obras de construcción.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+31
+================================================================================
+PAGE 34
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.4.1.1. RECOLECCIÓN SUPERFICIAL
+Como criterio general, para la recolección se realizará un cuadriculado del sitio mediante unidades de 1x1 m.
+De este modo, la recolección será referida a las coordenadas que resulten de dicho cuadriculado y a las
+unidades de la grilla definida.
+Se llevará a cabo la recolección del 100% del material arqueológico identificado en superficie y, una vez
+recolectados los materiales, se realizará un decapado de la capa superficial, para descartar la continuidad de
+materiales en estratigrafía, respetando el cuadriculado original y rescatando los eventuales materiales
+depositados en esa capa subsuperficial.
+El proceso de decapado se llevará a cabo mediante herramientas manuales, como brochas, palas, espátulas y
+planas.
+Junto con la recolección y embalado de los materiales según materialidad, se llevará a cabo un registro de la
+recolección mediante fichas de recolección por cada unidad (ver Apéndice 1 de este documento).
+Todos los materiales recuperados de la recolección superficial serán sometidos a un proceso de conservación
+y análisis, según las siguientes etapas:
+a) Aseo en laboratorio de los materiales arqueológicos mediante limpieza mecánica.
+b) Análisis de laboratorio de acuerdo con materialidad. Los análisis básicos comprenden aspectos
+morfofuncionales, de uso, tecnológicos, decorativos, taxonómicos, etc.
+c) Elaboración de informes específicos de acuerdo con materialidad.
+d) Conservación preventiva previo a depósito definitivo. En el procedimiento de conservación se enfatiza
+el diagnóstico y tratamiento preventivo o paliativo de daños en restos con malas condiciones de
+conservación, embalaje y entrega de los materiales a la institución depositaria permanente que se
+realizará de acuerdo con las exigencias establecidas por la Dirección de Bibliotecas Archivos y Museos.
+e) Entrega de materiales en Museo de Historia Natural de Concepción (cuya carta de compromiso de
+recepción se encuentra actualmente en tramitación).
+2.4.2. METODOLOGÍA DE ANÁLISIS DE MATERIALES
+En función de los resultados de la caracterización superficial y subsuperficial del área del Proyecto, que dan
+cuenta de la existencia únicamente de material cerámico, se propone la siguiente metodología de análisis
+estándar.
+Análisis de alfarería de baja temperatura
+Se llevará a cabo un análisis sobre el total de material cerámico recuperado, considerando diversas variables
+que forman parte de un análisis tradicional. Para esto, se ingresará la información en una base de datos, en la
+que se registrarán los siguientes atributos:
+ASIGNACIÓN CRONO-CULTURAL
+Asignación General: Se clasificarán los fragmentos según su filiación a cronología Prehispánica (PH) o
+Hispánica (H). Los fragmentos pequeños (menor a 1,1 mm) y aquellos que presentan un grado importante de
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+32
+================================================================================
+PAGE 35
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+carbonización y erosión serán clasificados como indeterminados y excluidos del análisis particular, debido a
+que no permiten la observación de atributos.
+Asignación Específica: Se clasificarán los fragmentos según el periodo crono-cultural específico al cual
+pertenecen: Para cronología Prehispánica, Periodo Formativo (PF), Periodo Intermedio Tardío (PIT), Periodo
+Intermedio Tardío-Tardío (PIT-PT) y Periodo Tardío (PT). Y para la cronología Histórica, Prehispánico de
+contacto (PHC), Indeterminado (INDET), que refiere a fragmentos con presencia de espatulado y torno sin
+presencia de atributos prehispánicos, además de Pulidos Brillantes Muy Delgados (PBMD) y Vidriados (V).
+Tipo Cerámico: Se clasificarán los fragmentos según su tipo cultural específico, utilizando las tipologías
+disponibles para el área de estudio.
+Tipo de Vasija: Se determinará el tipo de vasija (si corresponden a contenedores restringidos o no restringidos,
+así como formas específicas, como aríbalos, ollas, cuencos, escudillas, pucos, jarros, etc.) en base a la
+presencia de atributos diagnósticos, tales como bordes, cuellos, asas, inserción de asa, uniones o motivos
+decorativos. Para definir la morfología, se utilizarán los criterios establecidos por Shepard (1956).
+ATRIBUTOS DE MANUFACTURA
+Tratamiento de superficie exterior e interior: Se utilizarán las siguientes variables para definir el acabado de
+las paredes de la cerámica: alisado (A), pulido (P), bruñido (B), erosionado (E), escobillado (ESCOB) y vidriado
+(V), entre otros.
+Huellas de manufactura: Se detallarán todos aquellos rasgos que pudieran dar información sobre el
+levantamiento y modelado de la vasija. Las principales categorías que se observan son: presión manual (PM),
+estrías de estiramiento (EST), rodetes (R), espatulado (ESP) y torno (T).
+Cocción: Se identificará el tipo de cocción que presenta la sección lateral (corte y núcleo) de los fragmentos:
+oxidante (O), oxidante incompleta (OI), reductora (R), reductora incompleta (RI) o totalmente reducido (NO)
+(este último no es observable).
+Color de Pasta: Se describirá color de la pasta en base a los códigos y nomenclatura de la Tabla Munsell de
+colores del suelo.
+ATRIBUTOS MORFOMÉTRICOS
+Forma general y específica: Se detallarán las formas generales y específicas de la vasija (y tipo de labio para
+los bordes) según las partes anatómicas de las vasijas definida por Rice en 1987.
+Espesor y Pared: Se medirán los espesores medios de cada fragmento por medio de un pie de metro
+electrónico. Se definirán las paredes de los fragmentos según los espesores en una escala de grosor: Muy
+Delgados (menor a 3,5 mm.) Delgados (3,6 mm. a 4,9 mm.), Medianos (5,0 mm. a 7,9 mm.), Grueso (8,0 mm.
+a 15,0 mm.) y Muy Grueso (de más de 15,1 mm.).
+ATRIBUTOS DECORATIVOS
+Decoración: En esta columna se registrarán los fragmentos según su técnica de decoración: Pintado,
+engobado, vidriado, modelado e inciso.
+Tipo de Decoración: Se detallarán las siguientes variables: Ubicación del decorado o engobado (exterior,
+interior o ambas), decoración exterior e interior general (se detalla principalmente el color del engobe o
+decorado), también se incluye el inciso y modelado para los decorados; en caso de ser un borde, también se
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+33
+================================================================================
+PAGE 36
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+detallará si el labio presenta color diferente y decoración exterior e interior específica (se describen los
+motivos que presenta la decoración).
+Otros Atributos: Se detallarán otras características o rasgos de los fragmentos no relevados en las categorías
+mencionadas previamente, como la presencia de huellas de uso de los fragmentos, así como presencia de
+ahumado u hollín.
+2.5 PROPUESTA DE CONSERVACIÓN DE LOS MATERIALES EN TERRENO, LABORATORIO
+Y DEPÓSITO
+En terreno se realizará el etiquetado y embalaje de los materiales culturales recolectados de acuerdo con los
+estándares de conservación en terreno establecidos por el Centro Nacional de Conservación y Restauración.
+Posteriormente, dichos materiales serán trasladados a un taller de conservación, donde se procesará el
+material en dos fases.
+Fase I:
+o Recepción de materiales en taller de conservación.
+o Registro de material: conteo y transcripción de campos de la etiqueta original de terreno, además
+de observaciones de conservación, del material y conteo actualizado.
+o Limpieza mecánica, en húmedo y/o seco, variando técnicas y tiempos según materialidad.
+o Cambio de embalaje.
+o Almacenaje provisorio en cajas de archivo.
+o Rotulación de cajas con código (según número o código de Proyecto, materialidad y número
+correlativo).
+o Traslado de materiales a analistas.
+Luego de la fase intermedia de análisis de materiales arqueológicos, se procederá con la Fase II, que consta
+de las siguientes actividades:
+o Traslado de materiales a taller de conservación.
+o Tratamientos especiales, según requerimientos de cada materialidad.
+o Documentación visual (registro fotográfico de ejemplares arqueológicos, que den cuenta de
+deterioros, alteraciones y estados de conservación diversos).
+o Rectificación de cantidad de piezas para confección de etiqueta definitiva.
+o Cambio de etiqueta y termosellado de bolsas.
+o Confección de cajas de conservación, según estándares de la institución depositaria (por definir).
+o Traslado de cajas de materiales ya conservadas a depósito, junto con entrega de copia de Informe
+de Conservación y registro fotográfico de materiales.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+34
+================================================================================
+PAGE 37
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+2.6 PLAN DE TRASLADO Y DEPÓSITO FINAL DE LOS MATERIALES QUE SEAN
+RECUPERADOS
+Los materiales obtenidos de los pozos de sondeo y de las actividades de recolección superficial serán
+depositados preliminarmente en el Museo de Historia Natural de Concepción, cuyo acuerdo de recepción está
+en proceso de tramitación.
+El depósito final de materiales se realizará luego de haber pasado por las etapas de análisis y conservación,
+según los estándares establecidos por la DIBAM y en base a los requerimientos específicos de dicha entidad.
+2.7 MEDIDAS DE CONSERVACIÓN DE LOS YACIMIENTOS
+Debido a que el único registro identificado al interior del área del Proyecto será intervenido durante la fase
+de construcción y, previo a ello, realizadas todas las actividades de caracterización y rescate, según se detalló
+en la sección 2.4. de este documento, no se contemplan medidas adicionales de conservación en terreno de
+los yacimientos arqueológicos.
+2.8 MONITOREO ARQUEOLÓGICO PERMANENTE
+Debido a la existencia de antecedentes de sitios arqueológicos reportados en torno al área del Proyecto y a la
+baja visibilidad y accesibilidad general, se sugiere la implementación de un monitoreo arqueológico
+permanente durante las actividades de construcción del Proyecto que impliquen movimientos de tierra.
+El monitoreo deberá ser efectuado por un(a/os/as) arqueólogo/a(s) y/o licenciado/a(s) en arqueología, por
+cada frente de trabajo, durante las obras de escarpe del terreno y en las actividades que consideren cualquier
+tipo de remoción de la superficie y/o excavación. Junto con ello, se deberán realizar charlas de inducción por
+el/la arqueólogo/a o licenciado/a en arqueología a cargo del monitoreo- a las/los trabajadores del proyecto
+sobre el componente arqueológico que se podría encontrar en el área y los procedimientos a seguir en caso
+de hallazgo, antes del inicio de cada obra.
+Se deberá remitir a la Superintendencia del Medio Ambiente el informe mensual de monitoreo elaborado por
+el/la arqueólogo/a o licenciado/a en arqueología, en un plazo máximo de 15 días hábiles luego de terminado
+el mes, el que incluirá los siguientes antecedentes:
+a) Descripción de las actividades en todos los frentes de excavación del mes, con fecha.
+b) Descripción de matriz y materialidad encontrada (con profundidad) en cada obra de excavación.
+c) Plan mensual de trabajo de la constructora donde se especifique en libro de obras los días
+monitoreados por el arqueólogo y los frentes de trabajo monitoreados en dicho periodo.
+d) Planos y fotos (de alta resolución) de los distintos frentes de excavación y sus diferentes etapas de
+avances.
+e) Contenidos de las charlas de inducción efectuadas y la constancia de asistentes con la firma de cada
+trabajador.
+f) De evidenciarse restos arqueológicos, incorporar:
+a. Ficha de registro arqueológico con fotografías panorámicas y específicas de los hallazgos (en
+alta resolución).
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+35
+================================================================================
+PAGE 38
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+b. Descripción detallada del estado de conservación y si hubiera afectación por las obras del
+proyecto.
+c. Medidas de protección y/o conservación implementada.
+d. Constancia de aviso del hallazgo al Consejo de Monumentos Nacionales, de acuerdo con lo
+establecido en el art. 26 de la Ley 17.288 de Monumentos Nacionales.
+g) Efectuar el seguimiento del estado de conservación de las medidas de prevención a implementar si
+corresponden (cercado, señaléticas, etc.).
+h) El informe final de monitoreo debe dar cuenta de las actividades realizadas, y de haberse detectados
+sitios arqueológicos, incluir la información de rescate correspondiente. En estos casos se incluirá una
+revisión bibliográfica de la zona, el análisis (por tipo de materialidad) y la conservación de todos los
+materiales arqueológicos que se encuentren motivo de esta actividad. En el caso de los rescates de
+hallazgos no previstos que aparezcan durante el monitoreo o en otra instancia, se deberá solicitar el
+permiso de intervención arqueológica, según el Artículo 7° del Reglamento de Excavación,
+establecida en la Ley 17.288 de Monumentos Nacionales.
+h) De recuperarse materiales arqueológicos, la propuesta de destinación definitiva deberá ser indicada
+al momento de entregar el informe final del monitoreo, para lo cual, se remitirá un documento oficial
+de la institución museográfica aceptando la eventual destinación. Se deben solventar los gastos de
+análisis, conservación y embalaje del material arqueológico, así como su traslado a la institución
+receptora.
+Sin perjuicio de lo anterior, en conformidad a lo estipulado el Artículo 26 la Ley de Monumentos Nacionales
+N°17.288, de registrarse hallazgos arqueológicos y/o paleontológicos durante la fase de construcción en el
+contexto de movimientos de tierra al interior del Proyecto, deberá detenerse toda obra susceptible de causar
+daño a dichos hallazgos, dando aviso de inmediato al Consejo de Monumentos Nacionales, que determinará
+las medidas a seguir en el lugar del hallazgo.
+María Marta Valenzuela Arenas
+Arqueóloga
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+36
+================================================================================
+PAGE 39
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+APÉNDICE 1. FICHAS DE REGISTRO PMP-SA-01 Y
+RELLENO 1
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+37
+================================================================================
+PAGE 40
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+I. IDENTIFICACIÓN DEL REGISTRO ARQUEOLÓGICO
+Categoría de Monumento Fecha: 21-08-2023
+Nombre/Código Concentración de material
+Arqueológico
+PMP-SA-01 cerámico Registrado por: Antonia Carrasco
+Sitio arqueológico
+II. UBICACIÓN DEL REGISTRO
+Región: Biobío Provincia: Concepción Comuna: Penco Ciudad o poblado más cercano: Penco
+Coordenadas UTM WGS84, Huso 18 S
+Puntos Este (m) Norte (m)
+Central 680.601 5.928.424
+Vértice 1 680.594 5.928.416
+Vértice 2 680.597 5.928.428
+Vértice 3 680.604 5.928.433
+Vértice 4 680.608 5.928.426
+Altitud 238 msnm
+Instrumento
+GPS navegador
+medición
+Descripción de Emplazamiento
+Sitio arqueológico emplazado en camino vehicular ubicado
+en zona de lomaje de baja pendiente.
+Dimensiones del registro
+Ancho
+Largo máximo (m) Extensión superficial (m2)
+máximo (m)
+18 10 146 m2
+Determinación de la extensión subsuperficial
+Superficie proyectada o
+146 m2
+estimada (m2)
+Superficie constatada (m2) -
+Foto 1. Vista general del emplazamiento hacia el Suroeste
+Superficie excavada (m2) -
+III. Emplazamiento Geográfico y Entorno
+Condición del
+A cielo abierto X En reparo rocoso Sin información
+emplazamiento
+Macroforma del emplazamiento Cordillera de la Costa
+Geoforma del emplazamiento Lomaje
+Observaciones a la geoforma -
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+38
+================================================================================
+PAGE 41
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Nombre y tipo de recurso natural más cercano Estero Penco
+Cubierta vegetacional
+Plantación forestal de pinos, arbustos y pastizal
+Cobertura espacial de la cubierta vegetacional Abierto a Semi-denso
+Pendiente general Llano a suave
+Observaciones a la descripción de
+-
+emplazamiento
+Tipo y uso de Suelo Forestal
+Observaciones al uso de suelo -
+IV. POTENCIAL ESTRATIGRÁFICO DEL REGISTRO
+Superficial Subsuperficial Mixto Sin información Indeterminado X
+V. EVIDENCIAS CULTURALES
+Descripción General: Concentración de al menos 25 fragmentos cerámicos
+monocromos altamente fragmentados, de espesor grueso a mediano (1,2 mm a
+0,7 mm de espesor), con tratamiento de superficie alisado (interior y exterior) y
+Evidencias muebles: Cerámica
+pastas finas, de coloración pardo a anaranjado, con antiplásticos finos y sin
+marcas de torno. No se observaron otros tipos de restos materiales, ni basura
+subactual asociados.
+Evidencias inmuebles: No se registran Descripción General: No aplica
+Evidencias bioantropológicas: No se
+Descripción General: No aplica
+registran
+Distancia al eje/área del proyecto Se ubica al interior de la Zona de Extracción Maite
+Componentes
+Monocomponente X Bicomponente Multicomponente Indeterminado
+culturales
+Tipología funcional
+Doméstico Período Histórico de tradición indígena
+preponderante
+Observaciones - Periodo específico Ca. 1550 – 1800 d.C.
+VI. ESTADO DE CONSEVACIÓN REGISTRO
+Bueno Regular Grave X Muy grave Destruido
+Estado de Conservación
+Indeterminado Sin información
+Estado Actual del Sitio Conservado
+Conservado X No conservado Sin información
+parcialmente
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+39
+================================================================================
+PAGE 42
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Observaciones al estado de
+conservación Alta fragmentación del material por escarpe de camino y tránsito vehicular
+Antrópico X Climática
+Sin
+Tipo de Alteración Alteración
+Biológica Geológica
+Descripción alteraciones: Huellas del paso de vehículos livianos
+Caracterización subsuperficial mediante pozos de sondeo (solicitado mediante
+Medida sugerida
+ingreso CMN N°6697 del 18 de octubre de 2023).
+VII. FOTOGRAFÍAS REGISTRO
+Foto 2. Vista general del emplazamiento hacia el Sur Foto 3. Vista general del emplazamiento hacia el Este
+Foto 4. Vista general del emplazamiento hacia el Oeste Foto 5. Vista general del registro
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+40
+================================================================================
+PAGE 43
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Foto 6. Detalle general del registro Foto 7. Detalle del registro
+Foto 8. Detalle general del registro Foto 9. Detalle del registro
+Foto 10. Detalle del registro Foto 11. Detalle del registro
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+41
+================================================================================
+PAGE 44
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+EIA CONTINUIDAD OPERACIONAL CENTRO DE MANEJO DE RESIDUOS DE CONCEPCIÓN*
+I. IDENTIFICACIÓN DEL REGISTRO ARQUEOLÓGICO
+Categoría de Fecha: Sin información (Línea de Base de
+Nombre/Código Monumento Fragmentos cerámicos de data agosto de 2023)
+Relleno 1 Arqueológico prehispánica o histórica temprana
+Registrado por: Víctor Bustos Santelices
+Sitio arqueológico
+II. UBICACIÓN DEL REGISTRO
+Región: Biobío Provincia: Concepción Comuna: Penco Ciudad o poblado más cercano: Penco
+Coordenadas UTM WGS84, Huso 18 S
+Puntos Este (m) Norte (m)
+Central
+681.198 5.928.748
+Vértice 1
+- -
+Vértice 2
+- -
+Vértice 3
+- -
+Vértice 4
+- -
+Altitud -
+Instrumento
+Sin información
+medición
+Descripción de Emplazamiento
+Talud removido
+Dimensiones del registro
+Ancho
+Largo máximo (m) Extensión superficial (m2)
+máximo (m)
+Sin
+Sin información 100 m2
+información
+Determinación de la extensión subsuperficial
+Superficie proyectada o
+100 m2
+estimada (m2)
+Superficie constatada (m2) -
+Foto 1. Vista general del área del hallazgo. Superficie excavada (m2) -
+III. Emplazamiento Geográfico y Entorno
+Condición del
+A cielo abierto X En reparo rocoso Sin información
+emplazamiento
+Macroforma del emplazamiento Cordillera de la Costa
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+42
+================================================================================
+PAGE 45
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Geoforma del emplazamiento Talud
+Observaciones a la geoforma -
+Nombre y tipo de recurso natural más cercano A 1,9 km al SW del Estero Penco
+Cubierta vegetacional Arbustos y pastizal
+Cobertura espacial de la cubierta vegetacional Abierto a Semi-denso
+Pendiente general Llano a suave
+Observaciones a la descripción de
+-
+emplazamiento
+Tipo y uso de Suelo Forestal
+Observaciones al uso de suelo -
+IV. POTENCIAL ESTRATIGRÁFICO DEL REGISTRO
+Superficial Subsuperficial Mixto Sin información Indeterminado X
+V. EVIDENCIAS CULTURALES
+Descripción General: Restos culturales consistentes en abundantes fragmentos
+Evidencias muebles: Cerámica cerámicos de data prehispánica o históricos tempranos, de origen incierto al
+encontrarse al interior de un talud removido.
+Evidencias inmuebles: No se registran Descripción General: No aplica
+Evidencias bioantropológicas: No se
+Descripción General: No aplica
+registran
+Distancia al eje/área del proyecto Se ubica a 25 m al Oeste del área de estudio
+Componentes
+Monocomponente X Bicomponente Multicomponente Indeterminado
+culturales
+Tipología funcional
+Doméstico Período Prehispánico – Histórico temprano
+preponderante
+Observaciones - Periodo específico -
+VI. ESTADO DE CONSEVACIÓN REGISTRO
+Bueno Regular Grave - Muy grave Destruido
+Estado de Conservación
+Indeterminado Sin información X
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+43
+================================================================================
+PAGE 46
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Conservado
+Estado Actual del Sitio Conservado No conservado Sin información X
+parcialmente
+Observaciones al estado de
+-
+conservación
+Antrópico X Climática
+Sin
+Alteración
+Biológica Geológica
+Tipo de Alteración
+Descripción alteraciones: Material ubicado en talud artificial.
+Caracterización subsuperficial mediante pozos de sondeo (ejecutados en el marco
+Medida sugerida de la Adenda del Proyecto “Continuidad Operacional Centro de Manejo de Residuos
+de Concepción).
+VII. FOTOGRAFÍAS REGISTRO
+Foto 2. Detalle de material cerámico presente en el talud. Foto 3. Detalle de lugar de emplazamiento del hallazgo.
+*Ficha de registro elaborada a partir de información extraída del Anexo 3.5.1. del EIA del Proyecto
+“Continuidad Operacional Centro de Manejo de Residuos de Concepción” (RCA N 202308101534-2023).
+Coordenadas extraídas del ORD. CMN N°4411-2022, adjuntado en el marco del “Informe Ejecutivo
+Caracterización Arqueológica del Sitio: Hallazgo Arqueológico 1”, presentado en la Adenda de dicho Proyecto,
+que autoriza los sondeos arqueológicos en el sitio.
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+44
+================================================================================
+PAGE 47
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+APÉNDICE 2. MODELO DE FICHA DE RECOLECCIÓN SUPERFICIAL
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+45
+================================================================================
+PAGE 48
+================================================================================
+Anexo 10-2: PAS 132 Arqueología
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Estudio de Impacto Ambiental
+Cerro El Plomo 5630 Oficina 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+46

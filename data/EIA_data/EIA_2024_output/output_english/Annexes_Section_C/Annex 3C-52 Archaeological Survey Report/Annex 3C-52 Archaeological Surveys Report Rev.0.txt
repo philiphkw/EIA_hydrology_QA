@@ -1,0 +1,2659 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 3C-52
+Archaeological Surveys Report
+EIA Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+ENVIRONMENTAL IMPACT STUDY
+MINING DEVELOPMENT PROJECT
+EXTRACTION OF CLAYS FOR THE PRODUCTION OF
+RARE EARTH CONCENTRATE
+ANNEX 3C-52
+EXECUTIVE REPORT ON EXCAVATION OF WELLS
+ARCHAEOLOGICAL SURVEY
+(PMP-SA-01 SITES AND FILLING 1)
+Ma Marta Valenzuela Arenas
+18.228.285-5
+archaeologist
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+INDEX OF CONTENTS
+1 INTRODUCTION ........................................................................................................................... 7
+2 GENERAL BACKGROUND OF THE PROJECT ................................................................................... 7
+3 ARCHAEOLOGICAL BACKGROUND OF THE STUDY AREA ................................................................... 14
+3.1. GEOGRAPHICAL AND ENVIRONMENTAL SCENARIO ........................................................................... 14
+3.2. PALEOINDIAN PERIOD OR INITIAL SETTLEMENT (17,000 – 11,500 BP) ........................... 14
+3.3. ARCHAIC PERIOD (11,500 to 1,550 BP) ........................................................................... 15
+3.4. EARLY POTTER PERIOD (1,500-950 cal BP) ....................................................... 20
+3.5. LATE POTTER PERIOD (950-400 cal BP) ................................................................... 21
+3.6. MAPUCHE CULTURE ........................................................................................................... 22
+3.7. HISTORICAL PERIOD (ca. 1,500 AD onwards) ........................................................... 23
+4. OBJECTIVES ................................................................................................................................... 34
+4.1. GENERAL OBJECTIVE ........................................................................................................... 34
+4.2. SPECIFIC OBJECTIVES ................................................................................................... 34
+5. METHODOLOGY ................................................................................................................................... 34
+5.1. FIELD WORK TEAM ........................................................................................... 36
+5.2. ISOLATED FINDS AND ARCHAEOLOGICAL SITES SURVEYED ....................................... 37
+5.2.1. PMP-SA-01 ........................................................................................................................... 37
+5.2.2. EXCAVATIONS OF THE Area facing FILLING SITE 1 ................................................... 37
+6. RESULTS ........................................................................................................................... 40
+6.1. PMP-SA-01 ........................................................................................................................... 40
+6.1.1. Unit P1 ........................................................................................................................... 41
+6.1.2. Unit P2 ........................................................................................................................... 44
+6.1.3. Unit P3 ........................................................................................................................... 45
+6.1.4. Unit P4 ...........................................................................................................
+.............. 47
+3.1.50 Unit P5 ........................................................................................................................... 49
+6.2.1. Unit P1 ........................................................................................................................... 53
+6.2.2. Unit P2 ........................................................................................................................... 55
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+1
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+6.2.3. Unit P3 ........................................................................................................................... 57
+6.2.4. Unit P4 ................................................................................................................... 59
+6.2.5. Unit P5 ........................................................................................................................... 62
+6.2.6. Unit P6 ........................................................................................................................... 64
+7. SYNTHESIS AND INTERPRETATION ....................................................................................................... 68
+8. CONCLUSIONS AND RECOMMENDATIONS ................................................................................... 73
+9. BIBLIOGRAPHY ........................................................................................................................... 74
+TABLE INDEX
+Table 1. Synthesis of wells excavated for each record. ................................................................... 35
+Table 2. Team of professionals participating in archaeological survey activities. .......... 36
+Table 3. Summary dimensions, depth and coordinates of the wells excavated in PMP-SA-01.
+........................................................................................................................................................... 37
+Table 4. Summary of dimensions, depth and coordinates of the wells excavated in Fill 1. . 37
+Table 5. Absolute frequency of materials per well and level in PMP-SA-01. .................................... 70
+Table 6. Absolute frequency of materials per well and level in the wells excavated around
+Filling 1. ........................................................................................................................................... 70
+INDEX OF FIGURES
+Figure 1. Regional location of the Project ........................................................................................... 8
+Figure 2. Area of Influence Archeology ................................................................................................... 9
+Figure 3. General view of the site of the PMP-SA-01 site towards the Northeast ........................... 10
+Figure 4. Detail of ceramic fragments recorded at the PMP-SA-01 site. .................................. 10
+Figure 5. Record of the ZE Maite visual archaeological inspection. ................................................... 12
+Figure 6. Location of the archaeological site Fill 1 with respect to the current Project works. 13
+Figure 7. Main sites of the Middle Archaic Period on the coast, Biobío Region ....................... 17
+Figure 8. Lithic points and other instruments from Middle Archaic coastal sites, with emphasis on the
+“Talcahuanenses” points (box). ................................................................................................... 18
+Figure 9. Concepción area and mouth of the Bio-Bío river, with its main assigned sites
+to the El Vergel Complex. ....................................................................................................................... 22
+Figure 10. Illustration of the city of Penco around 1890-1900. ....................................................... 25
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+2
+========================================================
+===========================
+PAGE 5
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 11. Map of Concepción at its old site of Penco in the year 1712. ................................ 26
+Figure 12. Map of La Concepción in Penco. ................................................................................... 27
+Figure 13. Industrial development in Penco between the 19th and 20th centuries. ................................................... 30
+Figure 14. South American Sugar Refinery between 1899 and 1907 (with only one chimney). ............... 31
+Figure 15. View of the Sugar Refinery, from the current Forjadores de Chile sector, with two
+chimneys in 1910. ........................................................................................................................... 31
+Figure 16. Old CRAV logos. ................................................................................................... 31
+Figure 17. Logos most used over time on Penco earthenware. .................................... 33
+Figure 18. Detail of the plugged borehole (P1 of the Fill 1 site). ............................................ 36
+Figure 19. Drillholes excavated at the PMP-SA-01 site. ....................................................... 38
+Figure 20. Drillholes excavated around the Fill 1 site. ................................................... 39
+Figure 21. General view towards the South of the location area of the PMP-SA-01 site. ................... 40
+Figure 22. Location conditions of the boreholes located to the south of the road (view
+general towards the SW). ........................................................................................................................... 40
+Figure 23. Start of excavation P1 ........................................................................................................... 42
+Figure 24. Closure of excavation P1. Level 15. ....................................................................................... 42
+Figure 25. North Profile P1. ................................................................................................................... 42
+Figure 26. South Profile P1. ....................................................................................................................... 42
+Figure 27. East Profile P1. ................................................................................................................... 43
+Figure 28. West Profile P1. ................................................................................................................... 43
+Figure 29. Drawings of North and East profiles of well P1 of PMP-SA-01. ............................................ 43
+Figure 30. Start of excavation P2. ....................................................................................................... 44
+Figure 31. Closure of excavation P2. Level 10. ....................................................................................... 44
+Figure 32. North Profile P2. ................................................................................................................... 44
+Figure 33. South Profile P2. ....................................................................................................................... 44
+Figure 34. East Profile P2. ................................................................................................................... 45
+Figure 35. West Profile P2. ................................................................................................................... 45
+Figure 36. East profile drawing of well P2 of PMP-SA-01. ............................................................ 45
+Figure 37. Start of excavation P3. ....................................................................................................... 46
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+3
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Extraction Mining Development Project
+Clays for Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 38. Closure of excavation P3. Level 10. ....................................................................................... 46
+Figure 39. North Profile P3. ................................................................................................................... 46
+Figure 40. South Profile P3. ....................................................................................................................... 46
+Figure 41. East Profile P3. ................................................................................................................... 47
+Figure 42. West Profile P3. ................................................................................................................... 47
+Figure 43. Western profile drawing of well P3 of PMP-SA-01. ................................................................... 47
+Figure 44. Excavation start P4. ....................................................................................................... 48
+Figure 45. Closure of excavation P4. Level 10. ....................................................................................... 48
+Figure 46. North Profile P4. ................................................................................................................... 48
+Figure 47. South Profile P4. ....................................................................................................................... 48
+Figure 48. East Profile P4. ................................................................................................................... 49
+Figure 49. West Profile P4. ................................................................................................................... 49
+Figure 50. Western profile drawing of well P4 of PMP-SA-01. ................................................................... 49
+Figure 51. General view of the P5 well location towards the SE. ................................................ 50
+Figure 52. Detail of marble recorded at the surface level of well P5. ............................................ 50
+Figure 53. Excavation start P5. ....................................................................................................... 50
+Figure 54. P5 excavation closure. Level 10. ....................................................................................... 50
+Figure 55. East Profile P5. ................................................................................................................... 51
+Figure 56. West Profile P5. ................................................................................................................... 51
+Figure 57. East Profile P5. ................................................................................................................... 51
+Figure 58. West Profile P5. ................................................................................................................... 51
+Figure 59. East profile drawing of well P5 of PMP-SA-01. ............................................................ 51
+Figure 60. General view towards the North of the location area of the wells excavated around
+a Filling 1. ....................................................................................................................................... 52
+Figure 61. General view towards the NW of the location area of well P1 associated with Fill 1.53
+Figure 62. Start of excavation P1. ....................................................................................................... 54
+Figure 63. Closure of excavation P1. Level 9. ........................................................................................... 54
+Figure 64. North Profile P1. ................................................................................................................... 54
+Figure 65. South Profile P1. ................................................................................................................... 54
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+4
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Tie Concentrate
+rare
+Environmental Impact Study
+Figure 66. East Profile P1. ................................................................................................................... 54
+Figure 67. West Profile P1. ................................................................................................................... 54
+Figure 68. Western profile drawing of the P1 Fill 1 well. ........................................................................... 55
+Figure 69. Start of excavation P2. ....................................................................................................... 56
+Figure 70. Closure of excavation P2. Level 6. ........................................................................................... 56
+Figure 71. North Profile P2. ................................................................................................................... 56
+Figure 72. South Profile P2. ....................................................................................................................... 56
+Figure 73. East Profile P2. ................................................................................................................... 56
+Figure 74. West Profile P2. ................................................................................................................... 56
+Figure 75. Western profile drawing of the P1 Fill 1 well. ........................................................................... 57
+Figure 76. Excavation start P3. ....................................................................................................... 58
+Figure 77. Closure of excavation P3. Level 10. ....................................................................................... 58
+Figure 78. North Profile P3. ................................................................................................................... 58
+Figure 79. South Profile P3. ....................................................................................................................... 58
+Figure 80. East Profile P3. ................................................................................................................... 58
+Figure 81. West Profile P3. ................................................................................................................... 58
+Figure 82. Drawings of South and West profiles of the P3 Fill 1 well. ................................................... 59
+Figure 83. Detail of ceramic fragments recorded at level 1 (0-10) cm of pit P4. ........ 60
+Figure 84. Detail of ceramic fragments recorded at level 2 (10-20) cm of pit P4. ......60
+Figure 85. Excavation start P4. ....................................................................................................... 61
+Figure 86. Closure of excavation P4. Level 9................................................................................................. 61
+Figure 87. North Profile P4. ................................................................................................................... 61
+Figure 88. South Profile P4. ....................................................................................................................... 61
+Figure 89. East Profile P4. ................................................................................................................... 61
+Figure 90. West Profile P4. ................................................................................................................... 61
+Figure 91. East profile drawing of the P4 Fill 1 well. ................................................................... 62
+Figure 92. Detail of ceramic fragments recorded at level 2 (10-20) cm of pit P5. ...... 63
+Figure 93. Detail of ceramic fragments recorded at level 3 (20-30) cm of pit P5. ...... 63
+Figure 94. Excavation start P5. ....................................................................................................... 63
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+5
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 95. P5 excavation closure. Level 7
+. ................................................................................................... 63
+Figure 96. North Profile P5. ................................................................................................................... 63
+Figure 97. South Profile P5. ....................................................................................................................... 63
+Figure 98. East Profile P5. ................................................................................................................... 64
+Figure 99. West Profile P5. ................................................................................................................... 64
+Figure 100. Western profile drawing of the P5 Fill 1 well. ........................................................... 64
+Figure 101. General view towards the SW of the location area of well P6 excavated around
+Filling 1. ........................................................................................................................................... 65
+Figure 102. Detail of ceramic fragment recorded at level 1 (0-10) cm of well P6. ........... 65
+Figure 103. Detail of ceramic fragment recorded at level 6 (50-60) cm of well P6. ......... 65
+Figure 104. Excavation start P6. ................................................................................................... 66
+Figure 105. P6 excavation closure. Level 9. ....................................................................................... 66
+Figure 106. North Profile P6. ................................................................................................................... 66
+Figure 107. South Profile P6. ................................................................................................................... 66
+Figure 108. East Profile P6. ................................................................................................................... 67
+Figure 109. West Profile P6. ................................................................................................................... 67
+Figure 110. East profile drawing of the P6 Fill 1 well. ........................................................................... 67
+Figure 111. Results of test wells excavated at the PMP-SA-01 site. .................................... 69
+Figure 112. Results of test pits excavated around the Fill 1 site. ........................................... 71
+Figure 113. Detail of ceramic fragment recorded at level 3 of well P5 of Fill 1 (face
+exterior) ........................................................................................................................................... 73
+Figure 114. Detail of ceramic fragment recorded at level 3 of well P5 of Fill 1 (face
+interior) ........................................................................................................................................... 73
+INDEX OF APPENDICES
+Appendix 3C-52.1. Ord. CMN N° 1571-24 Authorizes archaeological surveys
+Appendix 3C-52.2. Excavation registration form
+Appendix 3C-52.3. Location of drilling wells (Kmz file)
+Appendix 3C-52.4. Archaeological sites registration form
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+6
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+1 INTRODUCTION
+This report gives an account of the results obtained in the archaeological survey activities of the
+PMP-SA-01 and Fill 1 sites, detected within the framework of visual archaeological inspection activities and
+review of bibliographic background, respectively, of the EIA of the “Mining Development Project of
+Extraction of Clays for the Production of Rare Earth Concentrates” (hereinafter, the “Project”), whose
+Owner is REE Uno SpA (hereinafter the “Owner”).
+The survey activities were authorized through the ORD. CMN N°1571 of April 3, 2024, addressed
+to whom this report is signed (see Appendix 3C-52.1) and lasted between May 2 and 5,
+2024, a total of 5 test wells being excavated in the available area
+surface ersion of site materials
+PMP-SA-01 and 6 test wells around the Project area that faced the Landfill 1 site, registered
+previously within the framework of the EIA of the Project “Operational Continuity Waste Management Center
+Conception.”
+The general background of the Project and the archaeological records are detailed below.
+surveyed, the archaeological background of the study area, the objectives of the activities, the
+methodology used, the results obtained from said activities and conclusions derived from their analysis,
+as well as a proposal for rescue measures based on the results obtained.
+2 GENERAL BACKGROUND OF THE PROJECT
+The Project, located in the Communes of Penco and Concepción, Province of Concepción, Biobío Region (see
+Figure 1), consists of the construction, operation and closure of a mining site for the extraction and
+clay processing.
+For this, a series of permanent works are considered, namely, one (1) Processing Plant, three (3)
+clay extraction zones (ZE Victoria Norte, ZE Luna, ZE Maite), one (1) ballast disposal area
+and washed clays (ZD Neptuno), one (1) vegetal soil collection area (ZAV), stockpile for collection
+temporary material prior to processing, a power line and its connection to an existing line and the
+construction of internal roads to access different areas. The Processing Plant will have a
+capacity to process up to 320 tons/hour of material to produce Rare Earth concentrate.
+In addition, the modification of an existing section of approximately 1.22 kilometers of the
+Hualpén – San Fernando oil pipeline, property of ENAP, for the exploitation of the Maite ZE. The
+Project, in turn, considers the implementation of temporary works, corresponding to installations of
+tasks for the construction and authorization of the Project works.
+In sum, a total intervention area of 169.19 ha is considered, equivalent to the declared Area of Influence.
+for the archaeological component (see Figure 2), characterized in Annex 3C-51 of this EIA.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+7
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 1. Regional location of the Project
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+8
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 2. Area of Influence Archeology
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+9
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Based on 5 visual archaeological inspection campaigns, carried out between August 2023 and May 2024,
+Only one archaeological record was recognized, called PMP-SA-01, corresponding to a
+concentration of ceramic fragments from smoothed surfaces (interior and exterior) of 146 m2 (see Figure 3 and
+Figure 4), of possible historical temporality of indigenous tradition, located inside the Extraction Zone
+(ZE) Maite, in the Southwestern sector of the Project area (see Figure 5 and Annex 3C-50 of this EIA).
+Figure 3. General view of the site location Figure 4. Detail of ceramic fragments
+PMP-SA-01 hac
+ia the Northeast registered on the PMP-SA-01 site.
+Source: Terrain campaign record, August 2023. UTM coordinates, Datum WGS84, Zone 18S.
+Additionally, based on the review of bibliographic background of projects submitted for evaluation
+environment in the vicinity of the present. Project, specifically 38 m to the East of the Project area, is
+recognized the presence of an archaeological site, called “Fill 1” – previously detected in the framework
+of the EIA of another Project called “Operational Continuity of the Concepción Waste Management Center1”
+–corresponds to ceramic fragments of pre-Hispanic or early historical data, of possible origin
+secondary and superficial in nature, which was confirmed by the excavations carried out at the site by the
+archaeologist Víctor Bustos Santelices2 in 2022, which showed the absence of materials in deposit
+Stratigraphic in the 12 drilling wells excavated, 9 wells of 1 m x 0.5 m and 3 wells of 1 m x 1 m.
+Depending on the location of said records with respect to the Project area and as indicated in the ORD.
+CMN N°2684-2023 that ruled on the prior presentation of the EIA of the “Penco Module Project” – which
+requested the excavation of “a grid of 1 m x 0.5 m boreholes at the edge of the project area, in the
+area confronted with the findings recorded [in the framework of previous projects] (…)” – October 18, 2023
+The necessary background information was presented for the request for subsurface characterization of both
+records (CMN entry N°6697), the results of which are detailed in this report.
+1 It should be noted that, due to the record of archaeological materials during the excavation of test pits in the area
+of the Project that faced the Landfill 1 site, the Owner decided to modify the layout of his works, with the objective of
+reduce the impact on the archaeological component, so the characterization of the Landfill 1 site was not continued.
+while the sector is no longer part of the Area of Influence of this Project.
+2 Bustos, V. (2022). Executive Report Archaeological Characterization of the Site: Archaeological Find 1. Cemarc Project.
+Annex 2C. Addendum to the Project “Operational Continuity of the Concepción Waste Management Center”.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+10
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+It should be noted that, without prejudice to the registration of archaeological materials carried out within the framework of the
+excavation of test pits in the area facing the Landfill 1 site, the present project, in its design
+Ultimately, it does not contemplate works in said sector. In effect, the Owner incorporated an adaptation to the layout of the road
+with respect to one of the areas referred to in entry CMN N°6697, with the objective of not intervening in this sector
+in which the presence of archaeological components had been identified; Consequently, due to the absence
+of project works in this sector, it is not justified to continue the characterization of the Landfill 1 site, as
+The sector is no longer part of the Area of Influence of this Project.
+Currently, the Project layout was adjusted as seen in Figure 6, leaving the Relleno-1 site,
+located (see Figure 6) 150 m to the West, outside the Project works area.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+11
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 5. Record of the ZE Maite visual archaeological inspection.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+12
+===========================================================
+======================
+PAGE 15
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 6. Location of the archaeological site Fill 1 with respect to the current Project works.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Note: The original layout of the projected road is indicated in a calypso-colored dotted line, the design on which the subsurface characterization activities were requested (CMN entry N°6697). However, the new route of the road is located outside this sector, more than 150 m to the
+West of the previous one.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+13
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+3 ARCHAEOLOGICAL BACKGROUND OF THE STUDY AREA
+3.1. GEOGRAPHICAL AND ENVIRONMENTAL SCENARIO
+In geographical terms, the Project area, located in the Coastal mountain range of the Biobío region, is
+It is located in the central-southern macro zone of the country, which extends between the Chacabuco range in the North and the
+Chacao-Seno de Reloncaví channel, to the south, with the Pacific Ocean as its western limit and to the east
+the Andes Mountains and the border with Argentina, administratively comprising the regions of
+Valparaíso, Metropolitana, Libertador Bernardo O'Higgins, Maule, Biobío, Los Ríos and Los Lagos (Maldonado
+et al., 2016).
+In climatic terms, the Biobío region marks the transition between the dry temperate climates of the area
+central and the rainy temperate climates that develop immediately south of the Biobío River. The area of
+The project location, close to the coast in the northwest sector of the region, has a climate
+humid temperate, with constant humidity with rainfall that fluctuates between 1,200 mm and 2,000
+mm annually from north to south of the region. The native vegetation in this area of the region is represented by
+thorns, associated with boldo, peumo and quillay, while in the southern section of the region the forest occurs
+predominantly sclerophyllous (BCN 2023).
+The bibliographic review presented below will give an account of the regional archaeological scenario, with
+special emphasis on the coastal area of the Biobío region.
+3.2. PALEOINDIAN PERIOD OR INITIAL SETTLEMENT (17,000 – 11,500 AP3)
+To date, no evidence of this cultural period has been recorded in the Biobío region, so the
+chronocultural framework is constructed as a sequence defined for the central-south by calibrated dates of
+sites such as Monte Verde (Dillehay and Collins 1988), Alero Marifilo-1 and Pucón VI (Campbell and Quiroz 2015),
+located in the region of Los Lagos and La Araucanía, respectively.
+At a general level, it is understood that the human populations that inhabited the south of Chile in these years had
+with an expeditious and poorly formatted lithic tradition, associated with the hunting of extinct fauna. It is necessary
+point out that these technological and associative patterns were interpreted based on sites located in
+valleys, like Monte Verde. However, mountain range sites, which share similar dates, are found
+associated with modern fauna, fitting with the Archaic I models proposed by Cornejo and collaborators
+for central Chile. In general terms, these Archaic I groups would not have hunted megafauna, counting
+with an expeditious lithic technology, without the presence of diagnostic materials (Cornejo et al. 1998).
+The Monte Verde site, near the city of Puerto Montt, corresponds to an open-air camp
+shores of the Chinchihuapi Estero, which was occupied by hunter-gatherer groups in association with fauna
+extinct, among which species such as Mastodonte and Paleolama stand out (Núñez et al. 2016). in the area
+called Monte Verde II (14,600 calibrated years BP), organic remains of a structure were recorded
+3 Years A.P.: Years before the present. Standard temporal reference in archeology and
+related sciences, which take as a point
+starting or counting the date of obtaining the first radiocarbon dating, in 1949, and the preparation of the first
+calibration curves for radiocarbon dating, in 1950, which fixes the counting year of A.P. dates. (Taylor,
+1985).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+14
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+elongated, evidence of ropes and ropes, hearth pits covered with clay, lithic artifacts,
+remains of fruits, seeds, leaves, marine and estuarine algae, with nutritional and medicinal properties
+(Dillehay 2004; Dillehay et al. 2008, 2015; Núñez et al. 2016). For its part, the Monte Verde I area
+would correspond to a previous occupation dated 33,000 years BP, in which lithic pieces were recovered, which
+They are still under evaluation (Núñez et al. 2016).
+The Alero Marifilo-1 site corresponds to an eave located on the northern coast of Lake Calafquén, town of
+Pucura, in the commune of Panguipulli. It presents repeated human occupations throughout a sequence
+ranging from the Early Holocene (10,200 BP) to late pottery moments (1,400 AD). The
+settlement corresponds to a shell within an eave with sediments of volcanic origin. The occupation
+Marifilo-1's earliest account would account for a small group that settled for a short time on the eaves,
+surely in a phase of exploration and exploitation of new resources. Thus, for example, the use of basalt
+of the eaves as raw material to make tools and the total absence of lithic artifacts
+formatted, along with the exploitation of small prey, would be accounting for expeditious and
+opportunistic in space and technological development (Mera and García 2004). For later stages of
+occupation of the eaves, the material record presents greater density and diversity, including artifacts
+and lithic debris, remains of osteofauna and instruments made from them, ceramic fragments,
+malacological accounts, among others, highlighting the discovery of bioanthropological remains of an infant with
+dates close to 5,940 ± 40 BP (Adán et al. 2004; Mera and García 2004).
+Likewise, it is necessary to highlight the presence of paleontological finds in the area,
+corresponding to extinct finipleistocene fauna. Such is the case of the Pilauco site (13,220±40 AP to 10,950±50
+years BP), located in the city of Osorno, where remains of extinct fauna (gonphotheres) and
+possible cultural evidence associated with unifacial lithic carving debris in raw materials such as basalt,
+quartzite and dacitic obsidian. Likewise, it should be noted that so far it has not been possible to identify
+anthropogenic footprints or marks on the osteofaunal remains analyzed (Pino, et al. 2013; Labarca et al. 2014).
+In any case, it is also possible to recognize similar paleontological evidence in the localities of
+Nochaco, Mulpulmo, Río Bueno, Tramalhue or Tralmahue (San Pablo) and Huilma, in which there have even been
+recorded remains of a mastodon (Cuvieronius hyodon) (Lagos and Hernández 2006).
+3.3. ARCHAIC PERIOD (11,500 TO 1,550 BP)
+This cultural period is the most extensive within regional prehistory and has been subdivided into three
+moments: Early Archaic (11,500-8,000 cal BP), Middle Archaic (8,000-3,950 cal BP) and Late Archaic
+(3,950-1,550 cal AP).
+In general terms, the Archaic period begins at the end of the Pleistocene, a time characterized by a
+change in climatic conditions, with increased temperatures, added to the extinction of megafauna
+and the consequent adaptations of the populations to the environment, observing groups of hunter-gatherers
+with high mobility.
+EARLY ARCHAIC (11,500-8,000 cal BP)
+This period constitutes an archaeological problem in terms of classification, since it represents
+economic, technological and social continuities with respect to the previous period. However, it
+difference due to a predominance in modern fauna hunting, marked by a transitional climatic period
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+15
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+from the Pleistocene to the Holocene (Campbell and Quiroz 2015). In social terms, the population density is low and
+It presents great mobility, gradually occupying various spaces between the valleys and the mountain range.
+For the Early Archaic, in the coastal zone of the Biobío region, only assumptions are available, since there is no
+Settlements from that period have been identified on the coast or surrounding areas. One of the main
+Reasons for this would be that the post-Pleistocene coastline, along with possible archaeological sites
+associated with that period, they would be submerged by at least 25 meters, since the sea level rose in periods
+later, flooding the coast (Quiroz and Sánchez 2004).
+In the pre-cordilleran-lacustrine area, on the other hand, the Marifilo-1 site stands out again, located in the
+Region of La Araucanía, which presents a continuous occupation from the Paleoindian to the Formative with
+a strong emphasis on collection and a marked traditionality (Adan et al. 2004), in addition to sites such as
+Alero Quillén (Navarro and Pino 1984) and Alero Quino (Sánchez and Inostroza 1985).
+MIDDLE ARCHAIC (8,000-3,950 cal AP)
+For the Middle Archaic, population density increases, occupying and consolidating the occupation of the coast.
+A technological specialization is observed aimed at the use of coastal resources,
+developing harpoons, nets and hooks. In terms of lithic industry, for the area of Concepción, Coronel,
+Gulf of Arauco and Cañete-Lebu, the development of the “Talcahuanense” tradition is observed, characterized by the
+elaboration of bifacial projectile points with “retention barbs” (Quiroz 2001; Quiroz and Sánchez 2004).
+In the Biobío region, these occupations have been evident in the bay of Concepción, the bay of San
+Vicente, Gulf of Arauco and Lebu. Figure 7 shows the location of the main archaeological sites.
+recognized for this cultural period on the coast of the region.
+The Bellavista I site, with dates of 3,870 BP and 3,330 BP (Seguel 1969) and Rocoto I and II, evidenced a technology
+of projectile points without peduncle and net weights, among other instruments, associated with ecofactual remains
+malacological remains, marine mammals and remains of coastal birds. This set accounts for an economy
+based mainly on the exploitation of coastal hunting and gathering resources. Other similar sets
+are observed in Talcahuano 1 (4,145 ± 70 AP and 3,950 ± 60 AP) (Bustos and Vergara 1998) and Chome 1 (4,580 ± 70
+AP) (Bustos and Vergara 2004).
+In the insular area, the representative sites of the period are Quiriquina 1 and 2 (Seguel 1970). Both sites
+They present fishing instruments similar to those recognized at the Playa Negra 9 and Bellavista I sites.
+Further south, in the city of Coronel, the shell Co-3 was recorded (Quiroz, Massone and Sánchez 2001), which
+presents a dating from 6330 ± 60 BP to 4,700 ± 80 BP, as well as Yobilo-1.
+The Co-3 site, located in the La Obra sector, is a shell that would correspond to a fishing camp and
+collection of shellfish, with the presence of remains of crustaceans and echinoderms in low proportions,
+in addition to bone remains of sea lions, birds and fish, in very low quantities. Stratum V of this site does not
+contains remains of shells or bones. In it, formatted instruments were discovered, such as net weights
+with lateral notches, bifacial instruments, sobadores, micromortars, pedunculated projectile points
+with fins, pedunculated projectile points with a serrated edge and unidentified instruments (possible
+ornaments), made from various local lithic raw materials, such as basalt, sandstone, schists and
+quartz (Quiroz, 2001; Quiroz and Sánchez, 2004; Adán et al. 2016).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+16
+==================================================================================
+PAGE 19
+===========================================================================
+==========
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 7. Main sites of the Middle Archaic Period on the coast, Biobío Region
+Source: Torres et al. 2007.
+In the Gulf of Arauco, there are the sites El Visal (750 AD ±100) and La Trila, with a dating of 3,800 BP
+(Bustos and Vergara 1998, 2001). These sites correspond to shell beds with great vertical potential and high density.
+of materials. They show some components or occupational events with greater diversity of tasks,
+evidenced by the composition of vertebrate and invertebrate fauna, added to the artefactual assemblages,
+that present a predominance of expeditious artifacts and a low degree of formatting, mainly
+represented in choppers and, to a lesser extent, lithic weights. However, there are components of these
+shellfish that show an orientation towards specific tasks or activities almost exclusively destined
+to the exploitation of Ostrea chilensis (oyster), which indicates the presence of logistical shelling camps
+(Torres et al. 2007).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+17
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Finally, in Punta Morhuilla (Lebu), there are the sites Le-2 (3,000 - 2,500 BC) and Le-4 (Quiroz,
+Massone and Contreras 2002).
+The Le-2 site has been defined as a sea lion hunter camp in front of Isla Mocha,
+where the use of pedunculated projectile points with barbs and serrated edges of the type has been recorded
+“Talcahuenense”. At this site, there is also evidence of penguin hunting, as well as
+fishing and shellfish harvesting activities (mollusks, crustaceans and echinoderms), in addition to
+manufacture of artifacts in stone, bone and shells (Quiroz 2001; Quiroz and Sánchez, 2004). The tips type
+“Talcahuenenses” predominantly have a lanceolate-foliaceous pattern, which has a peduncle.
+with convergent edges and a portion of lateral barbados that is located in the mesial sector of
+the piece. Figure 8 shows characteristic elements of the “Talcahuenense” pattern observed in the
+site Le-2 (lower right box).
+Figure 8. Lithic points and other instruments from Middle Archaic coastal sites, with emphasis on the points
+“Talcahuanenses” (box).
+Sources: Adam et al. 2016.
+LATE ARCHAIC PERIOD (3,950-1,550 cal BP)
+This period is characterized by the early appearance of ceramics in sectors such as Purén-Lumaco and
+Concepción (Campbell and Quiroz 2015). Likewise, an effective occupation of space is observed in environments
+mountain range, valleys and coast. On the other hand, the maritime adaptation of hunter-gatherers to the
+coastal environments installs a cultural tradition, highlighting the development of technology capable of achieving
+sites and areas far from the continent, such as Isla Mocha, Isla Quiriquina and Isla Santa María (Adán et al. 2016).
+In the central valley, the Cueva de Los Catalanes, Alero Quino 1 (1,850 AP) and Alero Quillén-1 sites present
+pottery occupations on pre-ceramic components, however, no work has been developed
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+18
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+exhaustive studies on them to delve deeper into the transition from the Archaic period to the Potter period (Adam
+et al. 2016).
+In mountain sectors, the sites Cabeza de Indio-1, Loncoñanco-2 and Los Resfalines-1 stand out (Adán et al.
+2016).
+On the coast, a large part of the shells recorded from the Middle Holocene on show in their
+cough
+higher occupations associated with the Late Archaic. The most representative sites of this period
+They correspond to Le-4 and Le-1 on the mainland and P27-1 and P30-1 on Isla Mocha (Adan et al. 2016).
+Site Le-4 (Morhuilla, Lebu), is located about 90 m north of Le-2. It has a diversity of
+materials, among which the malacological remains of limpets (mainly Fissurella picta), snails
+(especially Tegula atra) and locos (Concholepas concholepas). Among the vertebrate remains, the
+skeletal remains of fish and birds, plus some scarce remains of sea lions. The cultural material is
+composed of net weights with an equatorial groove on ovoid pebbles and anvils, made of stones
+of sandstone (Quiroz and Sánchez 2000 in Quiroz and Sánchez 2004).
+The Le-1 site (700 AD), on the other hand, has evidence of exploitation of mollusks from both the intertidal
+rocky like sandy beaches. This site presents ceramics only on its surface level, which could
+indicate that it is a temporary settlement site for potter groups, who permanently reside in the area.
+interior (Massone and Cárdenas 1997 ms. in Bustos 2020). In the levels without ceramics,
+some lithic artifacts, among which two fractured projectile points, triangular in shape, stood out
+and toothed limbus, as well as a scraper and some flattened ridges. Both levels had remains
+malacological, fish, birds and marine mammals.
+As previously mentioned, during this period evidence of the occupation of Isla
+Mocha, where the work carried out to date indicates that its settlement would have begun in these
+moments. The Isla Mocha sites, P27-1 (3,200 AP) and P30-1 (3,500 AP), are located in coastal sectors
+associated with fossil beaches and paleopeninsulas, on the highest marine terraces, above the level of 20 meters above sea level.
+They are single-component sites, with low stratigraphic power, generated by hunting populations.
+coastal adaptation collectors, with very scarce cultural materials. The notable deficit of artifacts
+contrasts with the abundant archaeofaunal information, which allows outlining adaptive strategies
+developed by these populations. The base of these sites has been dated to around 1,500 BC. (Adam et al. 2016).
+Site P27-1 (3,200 B.P.) corresponds to an area of mound deposits of remains mainly
+malacological, whose approximate extension is 20 m x 80 m. 10 bone awls were recovered from him.
+bird, very similar to those recorded in archaeological contexts of canoeists, in addition to a hook of the type
+composite, made of Choromytilus chorus shell, a scraper made of Ch. chorus shell, three shells
+complete modified Ch. chorus and a shell necklace bead (Quiroz and Vásquez 1996).
+On the other hand, the cultural material that has been recovered from site P30-1 (3,500 BP) is quite scarce,
+highlighting a hook-shaped hook made from sea lion bone, as well as some awls
+and punches in bird bones and some sandstone and basalt anvils (Quiroz and Sánchez 1993). The analysis of this
+material has made it possible to define for these populations a generalized hunting-gathering strategy of
+wide spectrum, with the predominant use of the rocky coast, complemented with the use of natural resources
+terrestrial of the coastal plains and lagoons (coipos) and the interior forest (pudúes). The faunal evidence and
+artifacts suggest that the sites correspond to temporary camps aimed at the exploitation of
+coastal resources (mollusk collection and fishing). Hunting of marine and terrestrial mammals (wolves
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+19
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+marine, pudúes and nutria) is very little documented by artifacts (without projectile points or harpoons that
+directly indicate hunting) (Quiroz and Sánchez 1993).
+3.4. EARLY POTTER PERIOD (1,500-950 CAL AP)
+This period is characterized by the appearance of the first great pottery tradition of
+the central-southern area of Chile,
+called Pitrén Complex (Aldunate 1989, Adán and Mera 1997, 2011, Campbell and Quiroz 2015).
+This cultural complex is characterized by having a hunter-gatherer way of life, with a pattern of
+reduced mobility compared to previous periods, while its economy is based on
+horticulture. The consolidation of the cultural tradition of ceramics is also recognized for this complex.
+with phytomorphic and amphiobiomorphic styles, highlighting bichrome techniques of black on red (Adan and Mera
+2011). The social organization of these human groups seems to be heterarchical, characterized by a high
+variability and diversity of roles, status, showing high heterogeneity, but low inequality (Adam
+and Mera 2011). The first large cemeteries in the region date from this period.
+Several researchers postulate that the Pitrén groups would have been related to other pottery cultures.
+northernmost of Chile, such as the Molle (Norte Chico), Bato (Central zone), Llolleo (Central zone) groups.
+and from the trans-Andean slope, such as Candelaria (Northwest Argentina) (Dillehay 1990 and Aldunate 1989). The
+Pitrén's similarities with Llolleo arise from the comparison of complete vessels, mainly jugs
+symmetrical and asymmetrical, where similarities are observed at the level of unconscious practices or the “not
+visible”, although they would also be observed in associations of shared decorative techniques and motifs. Without
+However, Pitrén presents more variability, unlike Llolleo, which has more productions.
+standardized. For Pitrén, 18 formal ceramic types are known, which include jugs, pots, glasses, bowls,
+asymmetrical and complexly modeled jugs. A special type of ceramics from this period are the jugs.
+called pichimetawe (miniatures), identified at the Licanco Chico and Lof Mahuida sites in Temuco
+(Adam et al. 2016).
+Pitrén ceramics are characterized by being monochrome, with thin walls, with the use of negative paint,
+of globular shapes with zoomorphic, phytomorphic and anthropomorphic designs, highlighting the decoration
+through eyes shaped like coffee beans. Human burials during this phase present a position
+lateral bending, accompanied by ceramic. The careful study of evidence from cemetery sites
+has confirmed the assumption that they would be settlements separate and distant from the habitation sites,
+although a direct and spatial relationship has not yet been determined (Adan et al. 2016).
+The use of textiles and metallurgy has also been documented for this period. The Villa JMC-1 site, located in
+Labranza, mountain sector, corresponds to a cemetery from which 9 copper rings from
+high purity, remains of an ornamental piece (Pacific oyster) as a necklace joined with a cord
+twisted of alpaca fibers (Vicugna pacos). It is unknown if the production of these elements is local or
+foreign, but they undoubtedly report the territorial dispersion that the Pitrén Complex achieved. These data are seen
+reinforced by lithic evidence of the period, which accounts for the use of volcanic and siliceous rocks
+both on the coast and in the mountain range, which is interpreted as the participation of these societies in
+vast spheres of interaction (Adan et al. 2016).
+In the mountain zone in Chile and Argentina, occupations from this period are recognized at the sites La Tereña,
+Haichol Cave, Angostura Mound and Los Cipreses Eaves. Other sites belonging to this complex are
+Lof Mahuida and Licanco Chico cemeteries, as well as the Pichipehuenco site, located in the mountain range sector
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+20
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+(Adam and Mera, 1997). On the other hand, in Curarrehue, the Rilul-1 site and in Lonquimay the Pichipehuenco site
+They correspond to summer-type occupations (Adán et al. 2016).
+In the area of ​​the Andean-lacustrine foothills are the sites Pitrén (Lake Calafquén), Huimpil, Lago
+Ranco, Trui trui (Lake Riñihue), Pucura 1, Trai
+traico, Challupén Alto 1 and 2 and Lliu-Lliu-1 (Lake Calafquén)
+(Aldunate1989; Mera et al. 2010 in Adán et al. 2016), Population Lago Ranco, in Lago Ranco, and Los Chilcos
+(Pitrén cemetery).
+In the coastal and insular area of ​​the BioBío region, the sites attributed to this period are scarce.
+Specifically on Mocha Island, the first clear dating of ceramic archaeological sites
+They correspond to 700 AD, defining the first agro-pottery phase of the island. The identified sites are P10-1,
+P25-1, P5-1 and P21-1, with dates between 430±150 AD. and 1,240 AD. and the site of Morhuilla (1,020 ±90 AD). At
+South of the Lebu River there are also the sites Huechicura-1 (Cañete), Le-38 (Quinahue), Tranaquepe-1 and
+Loncotripay cemetery in Tirúa.
+3.5. LATE POTTER PERIOD (950-400 CAL AP)
+During this period of time a second great cultural tradition appears in the central-southern area: the
+El Vergel Cultural Complex. Its limits would be between the Biobío rivers (Biobío region) and the Toltén (Biobío region).
+Araucanía), however, finds have been found as far as the coast of Cauquenes, in the Maule region.
+The El Vergel Complex is characterized by having the first evidence of sedentary lifestyle and agriculture
+(mainly quinoa and corn), combined with less recurrent hunting and gathering practices.
+Likewise, the first manifestations of monumental architecture appear, with the presence of tumuli
+(Campbell and Quiroz 2015). The implementation of this consolidated agricultural economy would explain the increase
+of volume in population density, as well as the appearance of the first agglutinated settlements, the
+which would translate in historical times into the main difficulty of European advance in this region (Urbina
+et al. 2022).
+One of the most representative characteristics of this cultural complex corresponds to the burials within
+of funerary urns, but burials in cists, direct burials in the ground and in canoes are also presented
+wooden funeraries (wampo or trolof) (Quiroz 2001; Bahamondes et al. 2006). In funeral offerings
+They find rectangular - or trapezoidal - and circular copper rings, stone and ceramic pipes, pots
+utilitarian with annular grooves on the neck, symmetrical and asymmetrical monochrome jugs, slipped with
+black and red colors, decorated with red or black on white slip, which maintain practically the same
+shape than those of the Pitrén Complex, that is, the ribbon handles arise under the lip and frequently have
+vertical protuberances (Aldunate 1989 in Quiroz 2001). The El Vergel ceramic complex also presents
+the hourglass motif, so Bahamondes et al. (2006) have proposed the arrival of Inca influences or the
+existence of ties with Aconcagua and Diaguita populations for this period.
+In the coastal sector where the area of ​​this Project is located, according to Bahamondes et al. (2006), it
+configures an area of “mouth efficiency”, as defined by Núñez for the Norte Grande of the
+country, that is, a place where terrestrial hunting and gathering resources are concentrated coupled with a strong
+emphasis on the exploitation of the sea, due to the numerous resources provided by the cold waters of the
+Humboldt Current (Núñez 1983: 9). This would lead one to think of the existence of a significant contingent
+population in this area, a fact that is confirmed by the presence of numerous archaeological sites (see
+Figure 9), among which we can mention the sites of Coronel (Quiroz et al. 2005), Lenga 2, Laguna
+La Posada, Cosmito, Playa Negra, Cerro La U, Hualpén (Sánchez 2003, 2005), as well as Chiguayante (Chizelle
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+21
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+et al. 1969), those of Isla Quiriquina (Bustos et al. 1985), as well as the sites of San Pedro (Sánchez 2003) and
+Michaihue, adjacent to La Candelaria (Bahamondes et al. 2006). They also present occupations of this
+period the sites of Quiriquina (Seguel 1970; Bustos 1985), Bellavista 1 (Seguel 1969), Quinta Virginia (Oliver
+1927)
+, Cerro la U in Talcahuano, Laguna Grande, Laguna Quiñenco, Maule Wetland, Escuadrón, El
+Dungeon, Cerro Colo-Colo (Arauco), Tubul (1140 AD ±100), Yane, Quidico, Cañete, Huentelolén, Santa Rosa
+from Lebu, Boca Lebu, Lloncao and Tirúa, among others (Bustos 2020).
+The El Arenal 1 site, in particular, reflects this broad economic orientation, observing both strategies
+appropriative as productive in the presence of corn, ceramics, remains of frogs, quinoa and an important
+exploitation of the camelid resource, which are part of the effective subsistence strategy detected in
+the area during this period (Contreras et al. 2005 in Adán et al. 2016).
+Figure 9. Concepción area and mouth of the Bio-Bío river, with its main sites assigned to the
+El Vergel Complex.
+Source: Bahamondes et al. 2006.
+3.6. MAPUCHE CULTURE
+Archeology considers the El Vergel Cultural Complex and its variants Tirúa and Valdivia (Dillehay 1990; Quiroz
+2001) as the direct historical antecedent of the Mapuche populations. Some authors trace these
+precedents even up to the Pitrén Cultural Complex, stating that the El Vergel society and the towns
+Pitrén shared the vast territory between the coast, the valleys, the lagoons and the foothill forests and,
+As a result of cultural fusion, the historical Mapuches emerged (Aldunate 1989). In the case of Isla
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+22
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Mocha, Quiroz (2001) indicates that a continuity of the El Vergel/Tirua populations would be observed from the
+12th century to the 17th century, without this meaning the absence of significant changes.
+Returning to the theme previously outlined about the contact of populations in the Biobío region with
+pre-Hispanic cultures from regions located further north (or in the southern Andean area), the La Candelaria and
+Coronel-2, would present elements shared with groups of Andean roots (Aconcagua and Diaguita), to the
+while in other respects they would have maintained a local way of life (Dillehay 2011 in Adán et al. 2016;
+Bahamondes 2009). In general, the impulse taken by decorated ceramics, the production of
+metallic and lithic artifacts, the appearance of textiles, along with the incorporation of corn and camelids
+domestic. But, above all, the technologies and manufacturing denote the reproduction of a Diaguita aesthetic.
+and Aconcagua, or at least his knowledge and a dialogue with them. Therefore, according to the authors before
+mentioned, the Mapuche culture would also have had an Andean cultural and economic base
+attractive enough for the Incas to approach this territory.
+Specifically, from archaeology, Mapuche chronology sites show a continuity of practices
+cultural differences recorded in previous periods, such as regarding burial patterns, where
+Stone cists and direct burials continue to be used on land and mainly in canoes.
+funeral homes. These cemeteries would be dispersed throughout the region, but the sites of Lagunillas (La
+Posada), Quilacoya, Gomero, Chiguayante, Puente de Lebu and Huentelolén (Bustos 2020). For its part, in the
+precordilleran lakes in the southern sector are the sites of Lican Ray, Huanehue and Huitag, in the
+Lake Calafquén, in addition to several burial sites in Lake Ranco studied by Guillermo Franco in the decade
+from 60 (Aldunate 1989), which include three cemeteries assigned to the Alfarero period
+Late/Historic: two associated with Tringlo or Ranco style ceramics and one associated with Valdivia style ceramics
+(Mera 2008).
+Regarding pottery, commonly associated with funeral sites, an influence of the
+El Vergel Complex, preserving the symmetrical and asymmetrical shapes, as well as the use of modeling and incisions.
+However, in the period close to Hispanic contact, within the material repertoire of the Mapuche culture
+The appearance of new models is observed, such as cups with handles, extended plates with wide edges
+yes
+and large amphorae with a rim on the neck. Likewise, symmetrical jugs vary to more
+stylized and, in general, an increase in the size of the pieces is observed, in addition to some changes in
+decorative patterns (black or brown slip and red paint, red and black paint on white, etc.). A
+diagnostic element of post-contact ceramics is the presence on the lip, handle or body of parts
+symmetrical, inlaid with small pieces of quartz or European earthenware forming designs like lines,
+Greek or Saint Andrew crosses (Aldunate 1989; García 2007). Other elements introduced are the pancakes
+of wood, stone and ceramics, earrings, needles, medals and other silver and copper ornaments, necklaces of
+glass beads, iron tools, stirrups, spurs, horse remains and other items of use
+equestrian (García 2007).
+3.7. HISTORICAL PERIOD (CA. 1,500 A.D. ONWARDS)
+The ethnographic chronicles report that the Mapuche populations in the Biobío region at the time of the
+contact with the Spanish they had an important agricultural and livestock development but, above all,
+with a warrior character and a highly developed military organization. The development of ethnographic studies,
+iconographic and toponymy in this regard suggests that, prior to the arrival of the Spanish, there would have been
+certain interaction between the Mapuche populations and the Inca empire. According to Dillehay and Gordon, the interfluve
+Itata/Biobío was an informal part of the southwestern socioeconomic border of Tawantinsuyu, that is,
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+23
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+of a territory that did not come under the political-military domain of the northern empire, but constituted
+a front of economic expansion and exploration with a dispersed presence of state activity in the form of
+archipelago (Zabala et al., 2021).
+In this sense, it is worth considering that the communication between central Chile and the province of Concepción must have
+have been fluid long before the Spanish irruption of 1550, this if we consider the ease with which the
+advance of Diego de Almagro and the subsequent explorations of Villagra in 1544 and Valdivia in 1546
+They traveled the path between Mapocho and the southern territories, crossing the river without great difficulty.
+Itata (Zabala et al., 2021). Regarding the meeting with Mapuche populations, Pedro de Valdivia points out:
+“They came extremely shamelessly, in four squads, of the most brilliant and well-rounded people.
+prepared of Indians that has been seen in these parts, and rather armed with the necks of rams and
+sheep and sea lion skins, raw, of infinite colors, which was extremely attractive,
+and large plumes, all with helmets made of those leather, like clerics' bonnets, which do not
+There is an axe, no matter how sharp it may be, that hurts whoever carries it, with a lot of arrows and arrows.
+spears at twenty e to twenty five spans, and maces and clubs; “They don’t fight with stones.” Peter of
+Valdivia. 1929 [1545-1552], Letters, p. 204 (Letter to Emperor Charles V, Concepción, October 15
+1550, in Zabala et al. 2021).
+Although the Spanish explorations reached Biobío, it was only in the year 1550 that Pedro de Valdivia
+He begins a journey with the purpose of founding a city in the Penco Valley. On February 21, 1550 Valdivia
+reaches the Biobío River. The next day, while they were holding vigil in the Andalién Valley, they were attacked by
+around 20,000 Mapuches, in what is known as “The Battle of Andalién”. As a consequence of
+attack, Valdivia makes the decision not to advance south but to entrench himself in a place where the
+Mapuches called “Penguco” and which corresponds to the current city of Penco (Figueroa 2012). In these
+Valdivia instances take over a hill near the Penco Valley, where they build a palisade, which
+It would later be used as a barrier around the hill on which they had settled.
+"They brought large pieces of wood and poles and I ordered them to be driven into the ground and tied; and a trench was opened.
+and
+feet wide and as many feet deep, it would have a circuit of one thousand to fifteen hundred steps, the men
+“Skillful and by force of arms, it took them eight days to make a strong trench with three doors.”
+(Gerónimo de Vivar in Figueroa 2012).
+Valdivia related in a letter to the King:
+“…it was so good that it could be defended against the French, which was done by force of arms. It was made
+to give some rest to the conquerors and to store our baggage, wounded and sick, and to
+to be able to go out and fight when we wanted and not when the Indians wanted” (Pedro de Valdivia in
+Figueroa 2012).
+On March 3, 1550, the construction of the Penco fort was completed, whose main objective was the
+protect themselves from Mapuche “attacks”, but which also allowed Valdivia to manage the space
+distributing plots of land for the construction of temporary homes before the arrival of winter (Figueroa 2012).
+The clashes between the Mapuches and the Spanish continued and days later a new battle began in
+outside the Penco fort built by the conquistadors. The Mapuches, led by Ainavillo,
+They advanced against the fortress, surrounding it, but were unable to jump the ditch, so the attack was limited to
+throw arrows and stones. Valdivia took advantage of the situation and ordered the departure of Jerónimo de Alderete to the field.
+with fifty horses, who fell on the Mapuches without them having much else to do.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+24
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+This attack alerted the most distant Mapuche divisions, who immediately retreated. The battle
+It resulted in more than a thousand Mapuche deaths and the bloody persecution of the other combatants.
+who managed to escape. The Spanish took them prisoners to take them as a sample to the governor.
+The rest of the detainees had their throats cut and others mutilated, and then they were released to
+will return to their lands (Figueroa 2012).
+Pedro de Valdivia carries out the definitive foundation of the city of “Concepción” in the current commune of Penco
+on October 5, 1550 (see Figure 10 to Figure 12). The name he gave to the city was “The
+Conception of María Purísima del Nuevo Extremo” (Figueroa 2012).
+Figure 10. Illustration of the city of Penco around 1890-1900.
+Source: Brandt, Carlos. Penco [photography] Carlos Brandt. Photographic Archive. Available in Library
+National Digital of Chile http://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-613173.html
+Accessed on 8/20/2023.
+The city of Concepción, while located in Penco, experienced 4 devastating earthquakes and
+tsunamis that forced it to move to its current site in the Mocha Valley, chosen as the “least
+bad” of three proposed (Figueroa 2012).
+The first earthquake occurred only 20 years after its founding, in the year 1570. The earthquake was so destructive
+which forced its inhabitants to completely rebuild their city. The earthquake was described by the chronicler
+Spanish Góngora and Marmolejo:
+“On February 8, 1570, Ash Wednesday, at around 9 in the morning, a violent earthquake
+earth preceded by many thunderous underground noises, overwhelmed the entire population, who at
+At that time, most of them, because it was a day of observance, were hearing mass in the temples. It was an earthquake
+of higher degree; the first that surprised the conquerors in these penquista lands... and then,
+One after another, many giant waves arose in the sea and, going beyond their usual limit,
+They began to flood the entire city” (Figueroa 2012).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+25
+==================================================================================
+PAGE 28
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Ambi Impact Study
+ental
+The following earthquakes occurred in the years 1657 and 1730, while the last of the earthquakes occurred
+when Concepción was still located in the current Penco it occurred on May 25, 1751. After the latter
+earthquake, the authorities convened a town council on September 25, 1751, deciding the transfer
+definitive of the city of Concepción. The towns proposed for subsequent relocation were Landa,
+Loma de Parra, the Mocha Valley and Chiguayante. After reviewing the different points, and after ruling out
+some due to the problem of water supply, a reconnaissance of the Mocha Valley area was carried out and
+It was decided to choose this site for the reconstruction of the city of Concepción (Figueroa 2012).
+Figure 11. Map of Concepción at its old site of Penco in the year 1712.
+Source: Earthquakes in the evolution of the urban landscape of Concepción. Luis Gómez Quinteros.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+26
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 12. Map of La Concepción in Penco.
+Source: Frezier, Amadeo. (1712) in (Figueroa 2012).
+From this moment the paths of Concepción and Penco separate. The place devastated by disasters
+natural areas begins to be called “ruined place of Penco” to differentiate it from the city of
+Concepción in its new location. The only vestiges of the ancient city are the monastery of Las
+Trinitarias, formed in 1570, and the La Planchada fort, built in 1687, which still remain, this being
+last declared a National Monument (in the category of Historical Monument) in 1977. In Penco
+The prohibition of occupation governed for approximately 90 years, so its abandonment was almost total,
+except for about 50 families who remained there dedicating themselves to fishing or agriculture.
+subsistence, as well as certain commerce. After the independence of Chile, in 1822, the
+Families who still lived among the ruins of the ancient city send a letter to Supreme Director Bernardo
+O'Higgins, asking him to let them live there freely. They do not receive a response until March 29
+1843, when the then president Manuel Bulnes granted Penco the title of Villa (Fuentealba y Vera
+2020).
+DYNAMICS OF MISCELLANEOUSNESS
+The establishment of the city of Concepción in Penco, as a key axis in the Hispanic conquest, led to
+that the occupation of the territory would soon be consolidated and consequently the shared occupation of
+the same space producing different consequences. The Mapuche population suffered a decline
+demographic from which it never managed to recover, it could be thought that at the end of the 16th century the population of
+Concepción and Biobío would not exceed 25,000 inhabitants.
+The Spanish occupation of the territory gradually intensified, especially north of the Biobío.
+This caused the coexistence between Mapuche and Spaniards to develop under the dynamics
+Spanish, a situation that was consolidated after the Mapuche victory in Curalaba, in 1598, as a result of the
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+27
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+change of the Hispanic strategy that establishes the border between Spaniards and Mapuche at the Biobío River. This
+means a turning point, since the border space becomes a place of interaction,
+generating cultural, economic, social exchanges and intense mixing, altering the configuration
+existing until that moment. All this led to the omission or invisibility of the indigenous elements that
+Before, they marked a greater presence in this territory (Fuentealba and Vera 2020).
+The estra
+The initial strategy of the Spanish crown was to assimilate the Mapuche population through work. many
+of the conquistadors had been rural owners of modest economic situation in Spain and traveled
+to America imbued with the mission of conquering territories for the Crown and converting the Indians to the Catholic faith
+(Larrañaga 2016). They also sought fame and fortune for themselves; fame was achieved in military exploits and was
+recognized through titles and honors, while fortune was found in the exploitation of gold and
+the silver The indigenous population was incorporated into the work through the “encomienda”, in which the
+Crown, represented by the Governors, placed groups of Indians in charge of the older Spaniards.
+military or social prestige, who were responsible for its evangelization and care. In return, the Crown
+He gave them the tribute that the Indians had to pay to the King as subjects (Larrañaga 2016).
+In Chile the regulations of the encomienda were not followed rigorously. This was a territory without greater
+importance for the Crown, due to its geographical remoteness and because riches were never found in
+abundance. This laxity in the rules was an implicit compensation for the conquerors, for the rigors
+what it meant to reside in this territory of poverty and war. This meant that in Chile the Indians worked
+in the gold panners and on the properties of their encomenderos for almost a century after decreeing
+the prohibition of this type of work. The most famous gold panner was Quilacoya, in the vicinity of
+Concepción, which had between 10,000 and 20,000 Mapuches working for the conquistadors
+(Larrañaga 2016).
+In Chile, as in other borders where Spanish rule had not been able to break the resistance of
+the indigenous people, the Spanish Crown authorized indigenous slavery during the years 1602 to 1627, however,
+According to data collected by the historian Álvaro Jara (in Larrañaga 2016), the slavery of
+Mapuches would have been carried out even before the authorization of the Crown. The Mapuches
+Captured in battles were considered war booty and were assigned to work in the form of
+encomienda, although there are also chroniclers who report on the sale of indigenous people.
+In 1627 slavery was prohibited, the Hispanic-Creoles carried out a series of strategies to “obey”
+such a prohibition, but that they did not mean in any way the freedom of the indigenous people, but rather the passage to another
+forced labor regime. The living conditions of the former slaves did not change radically, since
+Other forms of forced labor and deprivation of liberty persisted (Larrañaga 2016).
+As a result of the above, a displacement of Mapuches from their reductions to the
+ranches and the city of Concepción. Although from the beginning the migrations were not voluntary, as
+It can be seen, for example, in the groups of Rere, Quinel, Hualqui and Quilacoya, since the last decade
+In the 17th century, the influx of those who went to work in the ranches began to steadily increase.
+Spaniards, and in some cases they moved so as not to return to their lands (Fuentealba and Vera 2020).
+In 1774, after the parliament of Tapihue (near Yumbel), the monarchy authorities managed to
+commit the most powerful and representative chiefdoms in the world to a definitive peace agreement
+Mapuche, which lasted the entire rest of the colonial period and which represented, on the one hand, the definitive commitment of
+all the chiefs to refrain from carrying out new malocas against the Hispanic-Creole population, as well as the
+punishment of any isolated action; and, on the other hand, the formal recognition by the king of the sovereignty
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+28
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Mapuche between the Biobío and Toltén rivers. Once the Spanish arms were defeated and Independence was established,
+The Chilean State found itself in practice with an undeclared war situation.
+plowed with the mapuches and before
+the impossibility of subduing them by force, he was forced, in 1825, to agree to a truce with them,
+again through Parliaments held in Tapihue. However, the fragile peace achieved, and unlike
+of the colonial administration, the Chilean State never renounced its rights over the ultra-
+Biobío, in addition to continuing to harbor a feeling of deep distrust towards those who had been
+allies of their former enemies and who did not miss the opportunity to take up arms against authority,
+as happened during the revolutions of 1851 and 1859 (Bengoa 2000).
+Later, with the process of Independence of Chile, the agreements that the people had achieved are unknown.
+Mapuches with the Hispanics, and the process of building the Republic begins, trying to define
+identities and create a symbolic universe around Chilean nationality. One of the means to
+achieving this was the so-called “Decree of Chileanness” of 1818, with which Bernardo O'Higgins intended
+eliminate all race nomenclature from parish records and declare everyone as Chilean. and
+Later, on March 4, 1819, he decreed that the entire indigenous population was transformed into
+full citizens, thereby seeking to equalize them with the rest of the “Chileans.” As a consequence
+Of all these processes indicated, there is an omission and an invisibility of the Mapuche element.
+(Fuentealba and Vera 2020).
+The Mapuches were condemned to live in reduced territories, where they could only practice a
+small agriculture and livestock. And with the passage of time these spaces were insufficient for a
+growing and impoverishing population, which is why a part of them sought better opportunities
+inserting themselves into Chilean society as day laborers on agricultural estates or as labor in the centers
+industrial (Fuentealba and Vera 2020).
+INDUSTRIALIZATION IN PENCO
+In the year 1840, a port was opened for commercial activities in the town of Penco, beginning a
+favorable period for industrial development in the area. To support coastal port activity,
+Penco was named Villa in 1843. In neighboring Lirquén, a prosperous industry was established in 1835.
+miller; At the turn of the century, beach tourism was exploited and between 1880 and 1957, the
+coal extraction in several deposits in the commune, the most notable being the Lirquén Mine, a
+one of the first to develop mineral extraction in the so-called Biobío coal basin, prior
+even Coronel, Puchoco and Lota. In addition to these activities, milling activity is also developed.
+installed in Tomé, Lirquén, Concepción and Puchacay; In addition, copper smelting activities are carried out,
+coal mines, brick and tile firing kilns in Penco (Fuentealba and Vera 2020; Valenzuela 2016).
+This growth driven by industrial development led to Penco being awarded on April 25, 1898.
+the quality of the city.
+During the 20th century, Penco became one of the most important industrial centers in the southern area.
+thanks to the arrival of industries such as the Viña del Mar Sugar Refining Company (CRAV), the Factory
+National Flat Glass Factory (FNVP or Vipla) of Lirquén (later called Vidrios Lirquén), the National Glass Factory
+Loza (which later adopted the name “Lozapenco” and, currently, “Fanaloza”), the South American Company
+of Phosphates (COSAF) (later Muelles de Penco S.A.), the coal mines of Lirquén and Cerro Verde, the Port
+of Lirquén, the shoe factories, among other secondary economic regime activities (Valenzuela
+2016) (see Figure 13).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+29
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Already in 1865, Penco had a population of 1,267 people and Lirquén with about 500 inhabitants,
+population that subsequently contracts due to the decline of the wheat industry and that decreases even more
+due to the opening of the Panama Canal, with only 7,000 inhabitants existing in 1939
+in Penco and Lirquén
+(Valenzuela 2016).
+Figure 13. Industrial development in Penco between the 19th and 20th centuries.
+Source: Valenzuela 2016.
+The origins of the sugar industry in Penco date back to 1886, the year in which Messrs. Teodoro
+Plate (financial partner) and Oscar Mengelbier (industrial and technical partner) - both naturalized immigrants -
+They founded the industry under the name “South American Sugar Refinery” (see Figure 14 and Figure 15). The
+Penco Refinery supplied the territory south of Talca, while the Sugar Refinery Company
+Viña del Mar (CRAV) was in charge of the territory located north of that same city, coming to form
+a true oligopoly (Cerda and Puentes 2019). Some years later, and under another administration, the
+company begins a stage in which it diversifies its field, opening an alcohol distillery, a
+Maestranza, a copper and bronze foundry, also producing boxes of bitumen and bone charcoal.
+Valenzuela (2016) points out that, as in the Saltpeter Industry with its “Pulperías”, the factory also
+He installed a warehouse known as “La Fortnight.” Here workers could purchase first-class items
+necessity through a system of “vouchers” in the form of bills worth $1.- that the same industry gave
+as payment. It should be noted that the tickets were not allowed to be used in another store. The ticket system
+It was used until approximately 1901, when it changed to the “Notebook” system.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+30
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 14. South American Sugar Refinery between 1899 and 1907 (with only one chimney).
+Source: Postar C. Kirsinger & Cía., in Valenzuela 2016.
+Figure 15. View of the Sugar Refinery, from the current Forjadores de Chile sector, with two
+chimneys in 1910.
+Source: Valenzuela 2016
+After this time of economic prosperity, in 1924 the “Penco Sugar Refinery” Company was
+absorbed and becomes part of the administration of the “Viña del Mar Sugar Refinery Company
+(CRAV)” and during the same year a series of events occur that make the assets of
+the industry (Valenzuela 2016) (see Figure 16).
+Figure 16. Old CRAV logos.
+Source: Valenzuela 2016
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+31
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+The “Viña del Mar Sugar Refinery Company” (CRAV) is recognized for its contributions to development
+Penco community. The concept of industrial paternalism is useful to understand the actions of
+certain companies, who, through the delivery of various social benefits, attempted to resolve
+the problems arising from labor management. An example of this are the works financed by CRAV,
+between 1926 and 1976, a period in which he founded a series of social and service establishments, such as
+the “Refinería Sports Center”, one of the most prestigious facilities in the south of the country towards the middle
+of the 20th century, as well as the CRAV Theater. Also, between 1940 and 1970, he built housing complexes
+surrounding the productive space, which currently make up the nucleus called “CRAV Complex” and
+which is composed of the Desiderio Guzmán and Villa Los Radales Population (Márquez 2014; Valenzuela 2016;
+Cerda and Puentes 2019). These populations respond to the principles of hygiene, whose approaches
+suggested that diseases in cities were caused by poor living and working conditions
+the workers, who lived in unhealthy urban spaces characterized by various health problems.
+moral order, such as drunkenness, crime
+crime or prostitution. In this way, it was proposed that,
+To improve the health of workers, it was necessary to modify both their physical and social environment,
+requiring, among other things, a new type of housing that would allow contagion to be avoided.
+spread more easily in the collective habitat, contagions of a sanitary, political and moral nature (Cerda
+and Puentes 2019).
+Around 1976, the Penco sugar refinery had to close due to the decline in production that occurred.
+as a direct consequence of the import substitution policies that the state established at that time
+period, with the aim of creating a national agroindustry based on beets and thus activate areas
+depressed agricultural areas and provide employment to agricultural labor. As a result of this, in 1953 the
+Industria Azucarera Nacional S.A. (IANSA). Its economic and social impact on the area was so profound that
+motivated the expansion of the project, new plants emerging throughout the territory and the boom developing
+of beets, which would later replace cane (Valenzuela 2016).
+The other industry that promoted the industry in Penco was the manufacture of earthenware, becoming established as
+a regional tradition. In Angol, the Serra factory is remembered; in Los Sauces and Nacimiento; and in Arauco, the
+Antique ceramics. The most important, due to its technical and aesthetic quality, is Lota ceramics, coveted today.
+by collectors, which was produced between the 1930s and 1950s. But none reached the
+national coverage, international projection or the validity of Penco earthenware (Márquez 2014). In Penco the
+industry was only dedicated to the modern manufacture of ceramics. There is a history of only one
+production between the years 1927 to 1930 of refractory bricks for the making and implementation of ovens
+for internal production (Márquez 2014).
+Among the factors that allowed the development of the utilitarian and ornamental ceramic industry in Penco
+They highlight the easy transit of goods due to its seaside condition and the fact that it has a railway branch,
+as well as obtaining low-cost coal from the deposits of Lirquén, Cerro Verde
+and Cosmito, which allowed the operation of cooking ovens, in addition to the abundant wood used
+in the packaging of the products and the mineral wealth of the subsoil (kaolin and refractory clays).
+“That this company (Ceramic Industry) meets the highest conditions that can be desired (…)
+The analysis indicates that Penco kaolin should be considered one of the best known to date.
+now (…) This clay (…) in addition to its good quality for being able to withstand without being altered in any way
+temperatures up to 1,600°C and that contains such large quantities of plastic clay that there are
+raw material to supply the factory for some centuries (...) Quartz comes in large
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+32
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+quantities. The cubic zone determines one million tons of quartz that, due to its purity, its color
+white-semitransparent and its resistance to fire is an unsurpassed material.” Report Fragment
+by mining engineer Alejandro Tartakowsky4
+The Penquista businessman Roberto Lacourt Ojeda established the first ceramic articles industry in
+that there is documentation, with the name of the Penco Pottery and Clay Artifact Factory in 1888. Without
+However, this was one more of the consecutive failed business projects that the manufacturing industry experienced.
+earthenware in Penco. It was only in 1927 that the earthenware industry began a period of prosperity led by
+Juan Díaz Hernández, expanding, with different ups and downs and with a succession of different logos on his
+productions (see Figure 17). In its beginnings, the company had 160 workers, a number that
+would increase, reaching approximately 2,000 in its peak period around 1956 (Márquez
+2014).
+Figure 17. Logos most used over time on Penco earthenware.
+Vari
+actions of greatest use; A) main logo of the Society, it was used from 1930 to the end of the '60s, B)
+common use, used in the first years of the installation of the industry, C) of national use, appears in objects up to the
+decade of the '50s, D) variant of logo E for national use, e) instituted in 1943 regarding the beginning of exports,
+in gold and F) used for imported products until the 1980s, in gold. Source: Márquez 2014.
+The workers of the ceramic industry settled and developed around the factory pavilions,
+north of Estero Penco and Penco, where the establishment of the social home, gym and casino of
+employees. In the same way as the CRAV, Loza Penco built housing complexes, infrastructure
+cultural and sports, among others (Márquez 2014).
+4 Penco National Earthenware Factory, Prospectus of the Sociedad Anónima, Santiago, Imprenta Nacional, 1930. pp. 16-20.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+33
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+The development of archaeological works referring to the colonial occupation of Penco is scarce, according to reports
+Andrade et al. (2019). Two archaeological works reported in the urban area of Penco stand out
+related to such period. The first of them was carried out by Zulema Seguel in 1967, which
+corresponded to a salvage carried out in old industrial warehouses, where bones appeared
+humans, architectural remains and ecofactual evidence of different raw materials. The second was a
+rescue carried out by Víctor Bustos in 2007, in the same sector, but within the framework of the construction of the Liceo
+Pencopolitan. These works once again provided evidence of human bones, contexts
+domestic and architectural remains, which the author indicates would correspond to the old church of Santo
+Sunday. In 2016, the Illustrious Municipality of Penco and the University of Concepción promote the
+project “Rescue of the Memory of Penco through its Architectural Heritage”, carrying out
+georadar surveys, which result in the identification of more than a hundred
+locations where remains of colonial structures would be located between 1.5 to 3 m deep (Barba et
+al. 2016 in Andrade et al., 2019).
+4. OBJECTIVES
+4.1. GENERAL OBJECTIVE
+The objective of this document is to report on the results of the characterization activities
+subsurface through drilling wells executed at the PMP-SA-01 sites and at the Relleno 1 site.
+4.2. SPECIFIC OBJECTIVES
+• Stratigraphically characterize the deposit of each record.
+• Characterize the possible artefactual assemblages recorded during the excavations.
+• Establish a preliminary chronological estimate of the archaeological records from the set
+identified artifact.
+• Propose rescue measures for those records located within the area of influence of the
+project.
+5. METHODOLOGY
+In accordance with what is indicated in the ORD. CMN N°1571 of April 3, 2024 that authorized the activities of
+subsurface characterization presented here, a total of 5 test pits were excavated around the
+surface dispersion area of materials from site PMP-SA-01 (a 1 m x 1 m stratigraphic control well
+m and 4 wells of 1 m x 0.5 m), at variable depths between 1 and 1.5 m (see Table 1 and Appendix 3C-52.3 of the
+present document).
+For its part, in the area facing the Landfill 1 site, the excavation of 5 wells was initially proposed.
+surveys spaced every 10 m from each other, which reached variable depths between 0.6 m and 1 m (see
+Table 1 and Appendix 3C-52.3 of this document). Due to the recording of material in stratigraphy
+(specifically in two of the 5 original test wells – P4 and P5) and following the instructions of the ORD.
+CMN N°1571, the excavation grid was expanded to characterize the site, excavating a
+additional well to the South of P5 (named P6), which also presented archaeological material, au
+nque
+coming from a fill layer of material extracted for the construction of the existing road (where
+locate the 5 excavated wells).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+34
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Without prejudice to the registration of archaeological materials carried out within the framework of the excavation of wells
+survey in the area that faced the Landfill 1 site, the present Project, in its final design, does not contemplate
+works in that sector. In effect, the Owner incorporated an adaptation to the layout of the road with respect to one of
+the areas referred to in entry CMN N°6697, with the objective of not intervening in this sector in which there had been
+identified presence of archaeological components; consequently, due to the absence of works of the
+Project in this sector, it is not justified to continue with the characterization of the Landfill 1 site, as the sector
+It is no longer part of the Area of Influence of this Project.
+Table 1. Synthesis of wells excavated for each record.
+Control wells Probe wells
+Site code Type of intervention Total wells dug
+(1m x 1m) (1m x 0.5m)
+PMP-SA-01 Characterization survey 1 4 5
+Area characterization
+Filling 1 1 5 6
+close to the site
+TOTAL 2 9 11
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Regarding the wells aimed at the characterization of the PMP-SA-01 site (located inside the Maite ZE),
+Its location was determined according to a system of orthogonal axes (N-S and E-W), respecting the grid
+original proposal, which contemplated the excavation of 5 wells distributed in the surface dispersion area
+of materials, spaced a maximum of 10 m apart. Because the site is located inside a
+existing access road to a drilling platform, the location of the wells had to be reconsidered in
+terrain, to prevent them from being located on the parapet of the road or the opening located on its side, or,
+immediately next to the trunks of the existing forest plantation in the area.
+It was excavated using artificial levels of 10 cm, identifying the natural layers of the deposit and exposing
+each level completely before proceeding to the next. Tools were used during the excavation.
+light manual tools (flats, spatulas and brushes) and with greater weight and capacity (chuzos, shovels and picks), as well as
+an information board, indicating the name or code of the registry, the well number, the layer, the level, the
+responsible(s) and the date of excavation.
+The registration of the excavation was carried out using standard registration forms, to account for the extension and
+depth of the deposits and materialities, as well as to describe the stratigraphy of each of the
+wells (type of matrix, type and density of inclusions, color, compaction, percentage of moisture and matter
+organic, among other data). Subsequently, said information was transferred to an Excel spreadsheet to be
+systematized and analyzed (see Appendix 3C-52.2 of this document).
+Two stratigraphic profiles for each unit were drawn to scale on graph paper, which also
+They were recorded using digital photographs and later digitized.
+All excavated sediments were sieved by using a sieve with a 0.4 mm mesh.
+On the other hand, all wells were shut in once at least two barren levels were completed
+consecutive sections of the Culturally Sterile Geological Stratum (ECGE), corresponding to Layer A at the PMP-site
+SA-01 (which did not present a stratigraphic deposit) and to Layer B at the Fill 1 site.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+35
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Study
+or Environmental Impact
+The closure of the excavations consisted of the restitution of the extracted matrix in order to restore the
+sediments removed, reducing erosion and subsequent alteration of the archaeological site, maintaining
+a small gap between the original surface and the covered well, for later identification.
+Figure 18. Detail of the plugged borehole (P1 of the Fill 1 site).
+Source: Field registration, May 2024.
+5.1. FIELD WORK TEAM
+The field work team was made up of 3 archaeologists (in charge of the activity) and 3 assistants
+of excavation (days), and the archaeological survey campaign extended between May 2 and 5, 2024,
+excavating a total of 11 test wells (2 stratigraphic control of 1 m x 1 m and 9 of 1 m x 0.5 m) (see
+Table 2).
+Table 2. Team of professionals participating in archaeological survey activities.
+Date Name RUT Professional qualification - Position
+María Marta 18.228.285- Responsible archaeologist - Head of field and
+Valenzuela Arenas 5 unit manager
+May 2 to 5 18,149,409- Graduate in Anthropology, mention
+Daniel Bizama Correa
+of 2024 3 Archeology - Unit Manager
+18,267,925-
+Jennifer Pavez Mella Archaeologist – Unit Manager.
+9
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+36
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+5.2. ISOLATED FINDS AND ARCHAEOLOGICAL SITES PROBED
+5.2.1. PMP-SA-01
+In the surface dispersion area of materials from this site, corresponding to a concentration of at
+least 25 ceramic fragments in an area of 146 m2, a total of 5 test pits were excavated,
+distributed both inside the dispersion and on its margins, whose detailed dimensions,
+Reached depth and location are presented in Table 3 and Figure 19.
+Table 3. Summary dimensions, depth and coordinates of the wells excavated in PMP-SA-01.
+long
+Well registration code Width (m) Depth (m) E coordinate (m) N coordinate (m)
+(m)
+P1
+1 1 1.5 680,598 5,928,431
+(Control)
+P2 1 0.5 1 680,598 5,928,423
+PMP-SA-01
+P3 1 0.5 1 680,602 5,928,418
+P4 1 0.5 1 680,608 5,928,423
+P5 1 0.5 1 680,592 5,928,418
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+5.2.2. EXCAVATIONS OF THE AREA FRONTING THE FILLING SITE 1
+Inside the area that faced the Fill 1 registry (originally corresponding to a road
+projected, but whose layout was adjusted and the site does not intervene) a total of 6 wells of
+survey, of which 5 were arranged around the edge of the area facing the site (according to the
+original methodological approach), while the sixth was located 10 m south of one of the wells that
+had presented material in stratigraphy, in order to continue the characterization of the site, following the
+ORD instructions. CMN N°1571 (see Table 4 and Figure 20).
+As previously mentioned, the characterization of the site was not continued, because the area of the
+works (projected road) do not intervene in this sector, as its layout was adjusted; With this, ultimately,
+The probed area is no longer part of the Project Area of Influence, being located more than 150 m from the new
+layout of the projected path. This distance is considered adequate to exclude that the works, parts or
+Project actions involve an archaeological deposit.
+Table 4. Summary dimensions, depth and coordinates of the wells excavated in Fill 1.
+long
+Well registration code Width (m) Depth (m) E coordinate (m) N coordinate (m)
+(m)
+P1 1 0.5 0.9 681,134 5,928,757
+P2 1 0.5 0.6 681,135 5,928,747
+P3
+1 1 1 681,138 5,928,737
+Fill 1 (Control)
+P4 1 0.5 0.9 681,145 5,928,731
+P5 1 0.5 0.7 681,155 5,928,727
+P6 1 0.5 0.9 681,147 5,928,719
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+37
+==================================================================
+================
+PAGE 40
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 19. Drillholes excavated at the PMP-SA-01 site.
+Source: Own elaboration
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+38
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 20. Drillholes excavated around the Fill 1 site.
+Source: Own elaboration
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+39
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+6. RESULTS
+6.1. PMP-SA-01
+The location area of the drilling wells excavated in PMP-SA-01 corresponds to a road
+secondary access to a drilling platform (with a width close to 4 m), which presents abundant
+growth of isolated grass-type vegetation and bushes on the surface, as well as accumulation of leaves and
+branches associated with the surrounding forest plantation. Although there is a sloping surface on the road
+flat to gentle, in the wells located towards the South, on the slope of the hill, a moderate slope is recognized
+to abrupt, as well as abundant vegetation inside the forest plantation (see Figure 21 and Figure 22).
+Figure 21. General view towards the South of the location area of ​​the PMP-SA-01 site.
+Source: Field registration, May 2024.
+Note: In the foreground on the left, sediment accumulation associated with well P4, in the middle of the image, well P1 and
+bottom, well P2. Note the dense vegetation cover that surrounds the site.
+Figure 22. Location conditions of the boreholes located to the south of the road (view
+general towards the SW).
+Source: Field registration, May 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+40
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+From the 5 test pits excavated on the site, at variable depths of between 1 m and 1.5 m,
+recognized a homogeneous stratigraphy, characterized by the presence of two layers (A and B), which are not
+recorded in all wells, due to the removal of the surface layer for the construction (scarp) of the
+path in wells P1 and P2 (whose Layer A would correspond to Layer B observed in the wells located towards
+the South (wells P3, P4 and P5).
+Layer A (observed in wells P3, P4 and P5, located south of the road), corresponds to a silt matrix.
+clayey, with a low sand content, semi-compact, dark brown (varying to darker shades)
+clear as the organic matter content decreases), which presents a high density of grass,
+eucalyptus leaves, insects, roots and rootlets during the first levels, which then varies to low levels
+following (roots and rootlets). It presents a high percentage of humidity, which drops to a medium level from the level
+4 onwards, while it presents a low to zero density of inclusions (rounded stones
+small). It extends from level 1 (0-10 cm) to variable depths (level 4 to 6) and does not present
+cultural materials, only fragments of modern-made tiles.
+On the other hand, Layer B (called Layer A in wells P1 and P2, located inside the road)
+corresponds to a semi-compact to compact silt-clay matrix, reddish brown, with a low
+sand content during the first levels. It has a humidity percentage that varies between high and
+medium, while the organic matter content varies from high in the first level (grass, roots,
+rootlets and leaves of eucalyptus) to medium in the following levels (only roots and rootlets). Like layer A,
+presents a low density of inclusions (subangular and rounded stones of small size, between
+them decomposing granodiorite – friable), which decreases at deeper levels. This layer does not
+presents cultural materials, only fragments of modern-made tiles during the first levels
+in well P2.
+The record of a clay marble (possibly kaolin) was the only element at the surface level of the well.
+P5, whose presence of secondary origin is due to the transfer of uncertain origin caused by the unevenness that is
+observed in the area where the wells are located in the south, on the slope of the hill, where it is recognized
+a moderate to steep slope, added to the forestry intervention of the evaluated area.
+Finally, it should be noted that no cultural materials were recorded inside the boreholes.
+excavated at the PMP-SA-01 site.
+Next, the details of the results obtained from the excavation of each borehole are reviewed.
+6.1.1. UNIT P1
+Stratigraphic control unit (1 m x 1 m), excavated to a depth of 1.5 m, located in the sector
+North of the site, inside a forest property with eucalyptus plantations, on an access road to a
+drilling platform and adjacent to a parapet generated by the road escarpment. It has abundant
+growth of grass-type vegetation on the surface and a dense vegetation cover of eucalyptus leaves and branches.
+No material is identified on the surface and only one layer is recognized from the beginning to the closure of the
+excavation (see Figure 23 to Figure 29).
+Layer A: Corresponds to a semi-compact to compact silt-clay matrix, reddish brown in color, with a
+low sand content during the first 3 levels. It has a percentage of humidity that varies between
+high in the first to medium levels until the closure of the excavation, while the matter content
+organic varies from high in the first level (grass, roots, rootlets and leaves of eucalyptus) to medium in the levels
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+41
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+following (only roots and rootlets), however, a distinction is made between levels 7 and 9 clay concretions of
+dark brown color, which could correspond to lenses of decomposing plant organic matter.
+Layer A recorded in this well has few inclusions of small rounded stones in the
+first 10 cm. Subsequently, low-density gravel inclusions are recognized, which disappears
+below 30 cm, then only small and medium-sized stones were observed (granodiorite type,
+orange and burgundy) from level 4 to level 10, without recording inclusions in the following levels.
+This layer A presents the same characteristics of Layer B recognized in the wells excavated to the south of the
+path (P3, P4 and P5), where a previous layer with a high content of plant organic matter is recognized, which
+it would have been removed by the road escarpment.
+Figure 23. Start of excavation P1 Figure 24. Closing of excavation P1. Level 15.
+Figure 25. North Profile P1. Figure 26. South Profile P1.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+42
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Ambien Impact Study
+such
+Figure 27. East Profile P1. Figure 28. West Profile P1.
+Source: Field registration, May 2024.
+Figure 29. Drawings of North and East profiles of well P1 of PMP-SA-01.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+43
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+6.1.2. UNIT P2
+1 x 0.5 m unit excavated up to 1 m deep, located in the NE sector of the site, on a road
+of access to a drilling platform adjacent to a forest plantation, which is why it presents abundant
+grass and remains of Eucalyptus leaves and branches on the surface. Superficial cultural material is not recognized and, at
+Like well P1, located 8 m to the NE, it presents only one stratigraphic layer from the beginning to the closure.
+of the excavation (see Figure 30 to Figure 36).
+Layer A: Corresponds to a silt-clay matrix with little sand, semi-compact up to the first 70 cm.
+and then more compact, uniform reddish brown. It has a content of organic plant matter
+ranging from high in the first level (grass and Eucalyptus leaves) to medium between levels 2 and 5 (rootlets), and
+then zero at subsequent levels, while the humidity percentage varies from high to medium.
+Regarding the presence of inclusions, these correspond to small, subangular stones.
+medium in low density. It does not present elements of heritage interest, observing only 2
+tile fragments on the first level.
+Figure 30. Start of excavation P2. Figure 31. Closure of excavation P2. Level 10.
+Figure 32. North Profile P2. Figure 33. South Profile P2.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+44
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 34. East Profile P2. Figure 35. West Profile P2.
+Source: Field registration, May 2024.
+Figure 36. East profile drawing of well P2 of PMP-SA-01.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.1.3. UNIT P3
+1 x 0.5 unit excavated up to 1 m deep, located south of the surface dispersal area of
+materials, on a hillside with a moderately steep slope, inside a plantation
+forest, which is why it has a dense vegetation cover on the surface, composed of eucalyptus leaves,
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+45
+==================================================================================
+PAGE 48
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+blackberry and grass, and is surrounded by exotic trees and thickets of dense cover. I don't know
+identifies cultural material on the surface and 2 layers are recognized in stratigraphy (see Figure 37 to Figure 43).
+Layer A: Corresponds to a silt-clay matrix, semi-compact, dark brown in color in the first 20
+cm of excavation and then brown, which coincides with the decrease in organic matter content
+vegetable. It does not present inclusions and its humidity percentage varies between high (in the first level) to medium in
+the next levels. It extends between level 1 (0-10 cm) and level 6 (50-60 cm) and does not present materials
+cultural.
+Layer B: Corresponds to a silt-clay matrix, which varies from semi-compact to compact, brown in color.
+reddish. Its main difference with Layer A lies in the content of organic matter (which gives it a
+darker coloring to Layer A) and in the content of
+matrix clay, higher in Layer B, which gives it
+provides greater plasticity and compaction. The organic component of Layer B is constantly low
+and is expressed in rootlets, while the degree of humidity remains in medium ranges. Regarding the
+presence of inclusions, only small rounded stones at low density are identified.
+It extends from Level 6 (50-60 cm) to the closure of the excavation at Level 10 (90-100 cm), without
+recognize cultural materials.
+Figure 37. Start of excavation P3. Figure 38. Closure of excavation P3. Level 10.
+Figure 39. North Profile P3. Figure 40. South Profile P3.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+46
+==================================================================================
+PAGE 49
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 41. East Profile P3. Figure 42. West Profile P3.
+Source: Field registration, May 2024.
+Figure 43. Western profile drawing of well P3 of PMP-SA-01.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.1.4. UNIT P4
+1 x 0.5 m unit excavated up to 1 m deep, located in the SE sector of the site, on a slope of
+hill with a moderately steep slope towards the south, inside a Eucalyptus forest plantation,
+therefore, it presents a dense vegetation cover on the surface, composed mainly of leaves and
+branches associated with weeds. On the surface, only fragments of modernly manufactured tiles are recognized,
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+47
+==================================================================================
+PAGE 50
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+in addition to carbonized plant remains, while in stratigraphy 2 layers are recognized (see Figure 44
+a Figure 50).
+Layer A: Corresponds to a silt-clay matrix, which varies from non-compact to semi-compact, brown in color.
+dark, which at the lower levels (40-50 cm) acquires a slightly lighter tone (brown), as
+which reduces the organic component. Its organic matter content varies between high in the first 20
+cm to medium up to 60 cm (roots and rootlets), while the degree of humidity remains in the medium range.
+The inclusions in Layer A correspond to small rounded stones at low density. This layer is
+extends from level 1 (0-10 cm) to level 6 (50-60 cm), where it is located parallel to Layer B, without
+present cultural materials, only remains of modern manufactured tiles that have no character
+patrimonial.
+Layer B: Corresponds to a silt-clay matrix with a greater clay component than the previous layer (A),
+reddish brown, semi-compact to compact, as the clay content increases in the
+lower levels. It has a medium to low organic matter content (rootlets), as well as a percentage
+of medium humidity and a low density of inclusions (small rounded stones). If
+extends between level 5 (40-50 cm) until the closure of the excavation at level 10 (90-100), without registering
+cultural materials or sub-current elements.
+Figure 44. Excavation start P4. Figure 45. Closure of excavation P4. Level 10.
+Figure 46. North Profile P4. Figure 47. South Profile P4.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+48
+==================================================================================
+PAGE 51
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 48. East Profile P4. Figure 49. West Profile P4.
+Source: Field registration, May 2024.
+Figure 50. West profile drawing
+from well P4 of PMP-SA-01.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+3.1.50 UNIT P5
+1 x 0.5 m unit, excavated up to 1 m deep, located in the SW sector of the site and south of the road,
+on a moderately sloping hillside. On the surface there is abundant grass, leaves of
+eucalyptus and branches from the forest plantation, while the well is surrounded by
+eucalyptus trunks, as well as wells P3 and P5 (see Figure 51). On the surface only one is recognized
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+49
+==================================================================================
+PAGE 52
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+complete ceramic (possibly kaolin) marble (see Figure 52) of secondary origin and a transfer of
+uncertain origin, since sediments have been deposited and removed recurrently in the area, associated
+mainly to forestry activity.
+In this unit two layers are recognized in stratigraphy (see Figure 53 to Figure 59).
+Figure 51. General view of the location of the Figure 52. Detail of marble recorded at the level
+well P5 towards the SE. surface of well P5.
+Source: Field registration, May 2024.
+Layer A: Corresponds to a semi-compact, dark brown silt-clay-sandy matrix, whose
+Organic matter content varies from high in the first level (grass, eucalyptus leaves, insects, roots
+and rootlets) to low in the following levels (roots and rootlets). It has a high percentage of humidity, which
+low to medium level from level 4 onwards, while it presents a low to zero density of inclusions
+(small rounded stones). Layer A extends from level 1 (0-10cm) to level 4 (30-40cm),
+No cultural materials were identified, only tile fragments with no heritage value.
+Layer B: Corresponds to a reddish-brown silt-clay matrix, with a low percentage of sand in
+the initial levels, whose compaction varies from semi-compact to compact. It has a low content of
+organic matter (rootlets), a medium to low percentage of humidity and a low density of inclusions
+small (gravel and small subangular and rounded stones). Extends from level 5
+(40-50 cm) until the closure of the excavation at level 10 (90-100 cm), without presenting cultural materials.
+Figure 53. Excavation start P5. Figure 54. P5 excavation closure. Level 10.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+50
+==================================================================================
+PAGE 53
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 55. East Profile P5. Figure 56. West Profile P5.
+Figure 57. East Profile P5. Figure 58. West Profile P5.
+Source: Field registration, May 2024.
+Figure 59. East profile drawing of well P5 of PMP-SA-01.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+51
+==================================================================================
+PAGE 54
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+6.2. EXCAVATIONS OF THE AREA FRONTING THE FILLING SITE 1
+The location area of the test pits excavated around the area facing the Landfill site
+1 corresponds to an existing secondary access road to a drilling platform (with a width
+close to 4 m), which is surrounded by a dense thicket-type plant cover with trees
+isolated, presenting abundant weeds on the surface (see Figure 60).
+Because it is located inside
+a hillside, presents a moderately steep slope, while the wells located
+In the northern sector of the surveyed area (P1 and P2), there are located adjacent to a small ravine that had
+an active watercourse at the time of excavation.
+Figure 60. General view towards the North of the location area of the wells excavated around
+Filling 1.
+Source: Field registration, May 2024.
+Note: In the foreground on the right, well P5, in the center of the image, well P4 and in the background, well P3.
+From the 6 test pits excavated at the site, at variable depths of between 0.6 m and 1 m,
+recognized a fairly homogeneous stratigraphy, characterized by the presence of 4 layers (named A,
+B, C and D).
+Layer A: Corresponds to a silt-clay matrix with a low sand content, semi-compact, colored
+dark brown, with a medium humidity percentage and a medium to low organic matter content
+(stems, grass, roots and leaves in the first level and then only rootlets). Inclusions of this layer include
+medium and small subangular and rounded stones in medium density. Layer A extends between the
+level 1 (0-10 cm) and levels 2 (10-20 cm) to 7 (60-70 cm) and all materials come from this stratum
+recorded at the site (with the exception of well P6, located south of the road, whose materials come from a
+fill layer of material removed during road scarp).
+Layer B: Corresponds to a brown silty clay matrix, much more compact than layer A due to
+to the increase in the clay component, which gives it greater plasticity. Has stone inclusions
+subangular and rounded of small size in low densities, partly coming from rocks
+weathered located in the profiles. Humidity occurs in medium ranges and the organic component
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+52
+==================================================================================
+PAGE 55
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+decreases with respect to the previous layer, remaining at low values, expressed only in roots. Layer B is
+extends to different depths from level 2 (10-20 cm) to level 9 (80-90 cm) and does not present material
+cultural, so it was considered a Culturally Sterile Geological Stratum (EGCE).
+Layer C: Corresponds to a compact, reddish-brown, clayey-silty matrix, slightly less plastic.
+than layer B (because it has a lower clay component). It has a low density of
+inclusions, including medium and small subangular and rounded gravels and stones. The humidity of
+This layer is in the medium ranges and the organic component is low, composed exclusively of roots. The
+layer C extends between level 5 (40-50 cm) and level 9 (80-90 cm) to level 10 (90-100 cm), without presenting
+cultural materials, observed only in wells P1 to P3, which are located down the slope, at a lower altitude than
+wells P4 to P6.
+Finally, Layer D, recorded only in wells P2 and P4, would correspond to outcrops of the parent rock
+granodiorite of the hill.
+Next, the details of the results obtained from the excavation of each borehole are reviewed.
+6.2.1. UNIT P1
+1 x 0.5 m unit, excavated to a depth of 0.9 m, located at the northern end of the area
+probed, adjacent to a ravine and surrounded by a dense vegetation cover (see Figure 61). Presents a
+moderate slope towards the West and abundant grass on the surface, without recognizing cultural material, only
+remains of modern bricks. 3 layers are recognized during the excavation (see Figure 62 a Figure
+68).
+Figure 61. General view towards the NW of the placement area of well P1 associated with Fill 1.
+Source: Field registration, May 2024.
+Layer A: Corresponds to a silt-clay matrix, semi-compact, dark brown in color, with a percentage
+high to medium humidity and a variable organic matter content between medium to high in the first 20
+cm (grasses, roots, rootlets and weeds) to medium in the following levels (roots). Presents one of
+medium density
+low inclusions (rounded and subangular stones of small, medium and large size), in addition
+of gravel and gravel. Layer A extends from level 1 (0-10 cm) to level 5 (40-50 cm) and does not present
+cultural material, only remains of modern manufactured bricks.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+53
+==================================================================================
+PAGE 56
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer B: Corresponds to a silty clay matrix with a low sand content, which presents a plasticity
+superior to layer A, semi-compact and slightly lighter brown than layer A. Inclusions
+of layer A are composed of subangular and rounded stones of small and medium size together
+to gravel and gravel in medium densities, while the percentage of humidity and the matter content
+organic (roots/rootlets) are located in medium ranges. Layer B extends from level 5 (40-50 cm) to
+level 9 (80-90 cm), without presenting cultural materials.
+Layer C: Corresponds to a clay matrix, with small amounts of sand, semi-compact, colored
+constant reddish brown. It does not present inclusions or organic matter and the humidity percentage is medium.
+It extends from level 5 (40-50 cm) to the closure of the excavation at level 9 (80-90 cm), being
+parallel to layer B, without presenting cultural materials.
+Figure 62. Start of excavation P1. Figure 63. Closure of excavation P1. Level 9.
+Figure 64. North Profile P1. Figure 65. South Profile P1.
+Figure 66. East Profile P1. Figure 67. West Profile P1.
+Source: Field registration, May 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+54
+==================================================================================
+PAGE 57
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 68. Western profile drawing of well P1 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.2.2. UNIT P2
+1 x 0.5 m unit, excavated to a depth of 0.6 m. It is located 10 m SE of P1, on a slope of
+a hill with a steep slope towards the North. On the surface there is abundant grass, leaves of
+eucalyptus and undergrowth, while no cultural material is recognized. 4 layers are distinguished in stratigraphy (see
+Figure 69 to Figure 75).
+Layer A: Corresponds to a silt-clay matrix, with little sand, semi-compact, dark brown in color,
+which has a high to medium percentage of humidity and a medium organic matter content (rootlets,
+roots and insects) is present in medium density. It extends from level 1 (0-10 cm) to level 2 (10-
+20), where it is found parallel to Layer B, without identifying cultural elements, only a fragment of
+colorless glass little diagnostic that was discarded.
+Layer B: Corresponds to a semi-compact, brown clay-silty matrix, which has a high
+percentage of humidity and a low content of organic matter (rootlets). Recognized first in the middle
+north of the grid, at level 2 (10-20cm) where it is described as a malleable and slightly friable sediment
+to the screen In this layer the inclusions do not show differences with respect to layer A, that is, they continue
+being low density gravel inclusions and small and medium subangular and rounded stones in
+medium density. Layer B is recognized between levels 2 (10-20 cm) and 4 (30-40 cm), without presenting materials
+cultural.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+55
+==================================================================================
+PAGE 58
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project
+Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer C: Corresponds to a compact, reddish-brown silt-clay-sandy matrix, slightly more
+friable than layer B. This layer is characterized by having orange clay concretions, along with
+gravel and subangular and rounded stones in low density. The humidity decreases to low values and the
+organic component disappears completely. Layer C is recognized between levels 5 (40-50 cm) and 6 (50-
+60 cm) where it is parallel to layer D (mother rock) and does not present cultural materials.
+Layer D: Corresponds to yellowish granitic rocks with gray spots, which are recognized with
+clarity in the northern half of the unit from level 3 (20-30 cm), progressively extending towards the
+rest of the unit, limiting the excavation area. No materials associated with this layer are recorded.
+Figure 69. Start of excavation P2. Figure 70. Closure of excavation P2. Level 6.
+Figure 71. North Profile P2. Figure 72. South Profile P2.
+Figure 73. East Profile P2. Figure 74. West Profile P2.
+Source: Field registration, May 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+56
+==================================================================================
+PAGE 59
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 75. West profile drawing of well P1 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.2.3. UNIT P3
+Stratigraphic control unit excavated up to 1 m deep. It is located on a road
+access to drilling, on the side of a hill with a moderately steep slope, with a slope towards the
+West and North. On the surface it has a scarce vegetation cover such as grass and eucalyptus leaves and is
+It is surrounded by dense vegetation on both sides of the road (scrub, trees, grass and blackberries).
+No material is identified on the surface and 3 stratigraphic layers are recognized (see Figure 76 to Figure 82).
+Layer A: Corresponds to a silt-clay matrix with a low sand content, semi-compact, colored
+dark brown, with a medium humidity percentage and a medium to low organic matter content
+(stems, grass, roots and leaves in the first level and then only rootlets). Inclusions of this layer include
+medium and small subangular and rounded stones in medium density. Layer A extends between
+levels 1 (0-10 cm) and 4 (30-40 cm), without presenting cultural materials.
+At level 1 (0-10 cm) a large stone block is recorded at the Northeast vertex of the unit, which
+remains in situ until the end of the excavation, because it projects towards both profiles, and whose
+Removal implies the loss of integrity of both profiles (North and East).
+Layer B: Corresponds to a compact, brown, silty clay matrix. The increase of the component
+Clay gives greater plasticity to the sediment. It has inclusions of subangular and rounded stones
+small in size at low densities. At levels 6 and 7 (50-70cm) rock inclusions are added
+weathered, coming from isolated stone blocks present in the West and South profiles. humidity
+occurs in medium ranges and the organic component decreases with respect to the previous layer, remaining
+in low values, expressed only in roots. Layer B extends from the last 4 cm of level 4 (30-40cm)
+up to level 8 (70-80 cm) without the presence of cultural material.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+57
+==================================================================================
+PAGE 60
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer C: Corresponds to a compact, reddish-brown, clayey-silty matrix, slightly less plastic.
+than layer B (lowest clay component). It has a low density of inclusions that
+include gravel
+and medium and small subangular and rounded stones. The humidity of this layer is in the medium ranges
+and the organic component is low, composed exclusively of roots. Layer C extends between the level
+9 (80-90 cm) and 10 (90-100 cm), without presenting cultural materials.
+Figure 76. Excavation start P3. Figure 77. Closure of excavation P3. Level 10.
+Figure 78. North Profile P3. Figure 79. South Profile P3.
+Figure 80. East Profile P3. Figure 81. West Profile P3.
+Source: Field registration, May 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+58
+==================================================================================
+PAGE 61
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 82. Drawings of South and West profiles of well P3 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.2.4. UNIT P4
+1 x 0.5 m unit excavated to a depth of 0.9 m, located inside a road and 10 m
+SE of well P3, on a hillside with a moderate slope to the West. On the surface it presents
+abundant grass, eucalyptus leaves and undergrowth, without identifying cultural material, while in stratigraphy
+3 layers are recognized (see Figure 85 to Figure 91).
+Layer A: Corresponds to a silt-clay matrix with a low sand component in the first level, which
+varies from non-compact to semi-compact, uniform dark brown, varying to orange tones
+as clay lenses are recorded. It has a high to medium humidity percentage and a content of
+low organic matter (roots/rootlets), while its density of inclusions (gravel and subangular stones
+and rounded of small and medium size) remains in low ranges. It extends from level 1 (0-
+10 cm) to level 7 (60-70 cm), being parallel to Layer D (mother rock) between level 5 and 7,
+recovering a total of 17 ceramic fragments between level 1 and level 2.
+From level 1 (0-10 cm) 10 ceramic fragments between 1.5 and 3.5 cm long were recovered. Highlights
+a body fragment with polished interior-exterior red slip, 0.6 cm thick. Also, highlights a
+0.5cm thick brown monochrome turning point fragment. The remaining fragments
+correspond to monochrome bodies of brown and black color, with variable thickness between 0.4 and 0.8 cm (see
+Figure 84).
+From level 2 (10-20 cm) 7 ceramic fragments between 1.5 and 3 cm long were recovered. Highlights
+a thick (1.3 cm thick) orange-brown handle fragment. Furthermore, a fragment of
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+59
+==================================================================================
+PAGE 62
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+0.4cm thick black monochrome border. The remaining fragments correspond to bodies
+monochromes (see Figure 84).
+Figure 83. Detail of ceramic fragments recorded at level 1 (0-10) cm of pit P4.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Figure 84. Detail of ceramic fragments recorded at level 2 (10-20) cm of pit P4.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Layer B: Corresponds to a silty-clay matrix, which varies from semi-compact to compact, brown in color.
+These sediments are described as very malleable and not very friable to the screen. It has inclusions of
+gravel and medium and small subangular stones in low density that show a slight increase towards
+the base of the layer. The humidity percentage is low and the organic content is zero. This layer is recognized
+exclusively in the southern half of the well, from level 8 (70-80 cm) to the closure of the excavation at level
+9 (80-90 cm), without presenting cultural materials.
+Layer D: Corresponds to granitic type rock, yellowish in color with gray spots
+, which covers half
+North of the grid. It does not allow excavation, and does not present cultural material, so the work
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+60
+==================================================================================
+PAGE 63
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+consisted of its correct clearance. It occurs from level 5 (40-50 cm) until the closure of the excavation in the
+level 9 (80-90 cm).
+Figure 85. Excavation start P4. Figure 86. Closure of excavation P4. Level 9.
+Figure 87. North Profile P4. Figure 88. South Profile P4.
+Figure 89. East Profile P4. Figure 90. West Profile P4.
+Source: Field registration, May 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+61
+==================================================================================
+PAGE 64
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 91. East profile drawing of well P4 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.2.5. UNIT P5
+1 x 0.5 m unit excavated to a depth of 0.7 m, located inside a road, 10 m SE of the
+well P4, in an area with a moderately steep slope towards the Northwest. On the surface there is a
+abundant vegetal cover composed of grasses, leaves, roots and rootlets, without recognizing cultural material,
+while in stratigraphy two layers are recognized (see Figure 94 to Figure 100).
+Layer A: Corresponds to a semi-compact, dark brown silt-clay matrix, which presents a
+high to medium humidity percentage and an abundant organic matter content on the surface, which then
+decreases to medium values (roots / rootlets). It presents a variable density of inclusions, average at the level
+1 (medium, small and large rounded and subangular stones together with gravel and gravel in equal
+densities), which increases to medium-high values of subangular and rounded stones of various sizes
+and average gravel and gravel values. Layer A extends from level 1 (0-10 cm) to level 6 (50-60
+cm), recovering a total of 6 ceramic fragments between levels 2 and 3.
+From level 2 (10-20 cm) come 2 ceramic body fragments, with smoothed walls (interior/exterior),
+one of them with possible orange slip on its outer wall (see Figure 92), while level 3 (20-
+30) 4 ceramic body fragments were recovered, 3 of them with smoothed surfaces (interior/exterior),
+although eroded, and one of them with a possible modeling on its outer wall and smoked on both sides
+(see Figure 93).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+62
+==================================================================================
+PAGE 65
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 92. Detail of ceramic fragments Figure 93. Detail of ceramic fragments
+recorded at level 2 (10-20) cm of well P5. recorded at level 3 (20-30) cm of well P5.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Layer B: Corresponds to a silt-clay-sandy matrix, with greater plasticity than layer A, semi-compact and
+light brown in color, with a low percentage of humidity and organic matter content (roots). This layer
+It has a high density of inclusions, highlighting the presence of subangular, rounded and
+angular in medium, large and small sizes along with gravel in high density and gravel in density
+medium, which would be a product of the weathering of the parent rock (layer D). Layer B extends from the
+level 5 (40-50cm) ha
+This is the closure of the excavation at level 7 (60-70cm), without presenting cultural materials.
+Figure 94. Excavation start P5. Figure 95. P5 excavation closure. Level 7.
+Figure 96. North Profile P5. Figure 97. South Profile P5.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+63
+==================================================================================
+PAGE 66
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 98. East Profile P5. Figure 99. West Profile P5.
+Source: Field registration, May 2024.
+Figure 100. West profile drawing of well P5 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+6.2.6. UNIT P6
+1 x 0.5 m unit excavated to a depth of 0.9 m, located on the side of a steep hill
+moderately accentuated, with a scarce grass-type vegetation cover, but surrounded by formations type
+scrubland to the South (where a ravine can be seen) and to the East and West (see Figure 101). Of the
+units excavated around Landfill 1, it is the only one that is located off the road (towards the South), in an area
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+64
+==================================================================================
+PAGE 67
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+with a steep slope towards the South, which presents a superficial layer of filling of the extracted material
+during the road escarpment.
+Figure 101. General view towards the SW of the location area of well P6 excavated around Relleno
+1.
+Source: Field registration, May 2024.
+No material is identified on the surface and 2 stratigraphic layers are recognized, in addition to a fill layer
+surface constituted by the overburden extracted during the scarp of the road (see Figure 104 to Figure 10410).
+Layer A-B-C (fill): Corresponds to a heterogeneous matrix, with the presence of silt, clay and sand, which
+would correspond to a mixture of the material removed by the road escarpment, observing tones
+dark brown, brown and reddish brown, characteristics of layers A, B and C, respectively, observed in
+the surrounding units located inside the road. Its consistency varies from non-compact to semi-compact,
+with inclusions of medium-sized subangular and rounded stones in low density, while the
+Humidity is medium and the organic matter content is low (mainly rootlets). This filling is
+extends from level 1 (0-10 cm) to level 6 (50-60 cm), recovering a total of two fragments
+ceramics, coming from level 1 (0-10 cm) and level 6 (50-60 cm), corresponding to fragments of
+body with smoothed surfaces (interior/exterior) of brown color and thickness close to 10 mm (see Figure
+102 and Figure 103).
+Figure 102. Detail of ceramic fragment Figure 103. Detail of ceramic fragment
+recorded at level 1 (0-10) cm of well P6. recorded at level 6 (50-60) cm of well P6.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+65
+==================================================================================
+PAGE 68
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer A: Corresponds to a compact, dark brown silt-clay matrix that occurs in the
+level 7 (60-70 cm), below the filling layer. It has inclusions of subangular stones and
+small rounded in low density. Unlike what was observed in layer A of neighboring units,
+Here a lower organic matter content and a lower degree of humidity are observed.
+d, so it has a
+lighter color. It does not present associated cultural material.
+Layer B: Corresponds to a compact, silty clay matrix, brown in color, without inclusions, with a low
+percentage of humidity and a low content of organic matter (rootlets). This layer extends from the
+level 8 (70-80 cm) until the closure of the excavation at level 9 (80-90 cm), without presenting cultural materials.
+Figure 104. Excavation start P6. Figure 105. P6 excavation closure. Level 9.
+Figure 106. North Profile P6. Figure 107. South Profile P6.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+66
+==================================================================================
+PAGE 69
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Figure 108. East Profile P6. Figure 109. West Profile P6.
+Source: Field registration, May 2024.
+Figure 110. East profile drawing of well P6 of Fill 1.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+67
+==================================================================================
+PAGE 70
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+7. SYNTHESIS AND INTERPRETATION
+Based on subsurface characterization activities carried out at the PMP-SA-01 sites and at the edge
+of the area facing the Fill 1 site, a homogeneous stratigraphy could be distinguished inside each
+site, although, at the same time, clear differences between these two areas, which are distant by about 600
+m each other.
+On the one hand, at the PMP-SA-01 site, two stratigraphic layers were distinguished (named A and B), whose
+Distribution varies depending on the location of the wells (inside or outside the existing road). By
+On the one hand, in the wells located to the south of the road (inside the forest plantation) a first
+layer (Layer A), corresponding to a silt-clay matrix, with a low sand content, semi-compact,
+dark brown in color (which varies to lighter shades as the matter content decreases)
+organic), which presents a high density of grass, eucalyptus leaves, insects, roots and rootlets during the
+first levels, which then varies to low in the following levels (roots and rootlets). This has a high
+humidity percentage, which drops to a medium level from level 4 onwards, while it presents a low
+at zero density of inclusions (small rounded stones). It extends from level 1 (0-10 cm) to
+variable depths (level 4 to 6) and does not present cultural materials, only fragments of tile
+modern tailoring.
+On the other hand, layer B (called layer A in wells P1 and P2, located inside the road, due to
+that were previously excavated), corresponds to a semi-compact to compact silt-clay matrix,
+reddish brown in color, with a low sand content during the first levels. Presents a percentage
+humidity that varies between high to medium, while the organic matter content varies from high to
+the first level (grass, roots, rootlets and eucalyptus leaves, although only in wells P1 and P2, which have a
+small formation of vegetal soil in the first cm) to medium in the following levels (only roots and
+rootlets). Like layer A, it has a low density of inclusions (subangular stones and
+small-sized rounded, among them decomposing granodiorite – friable), which decreases in
+the deepest levels. It does not present cultural materials, only fragments of modern-made tiles.
+during the first levels in the P2 pit.
+Except for a clay marble (possibly kaolin) – recorded at the surface level of the P5 well of origin
+secondary – displaced by the unevenness observed in the area of ​​location of the
+wells located in
+the south on the slope of the hill – where a moderate to steep slope is recognized, added to the intervention
+forestry of the evaluated area – no cultural materials were recorded inside the boreholes
+excavated at the PMP-SA-01 site (Figure 19). This allows us to maintain that the dispersion of materials
+identified on the surface would not have a stratigraphic potential and would correspond to historical materials,
+although of indeterminate specific chronological assignment.
+In turn, the analysis of satellite images available for the area, with clear definition at least since 2002,
+allowed identifying at least two rotations of forest crops in the area (felling, harvesting and new
+plantation), as well as determining that the path inside which the dispersion of materials is located is not
+identified before 2018, when it would have been steep. Both the absence of potential
+stratigraphic and the intense interventions carried out in the area (product of forestry activity),
+allow us to assume that the PMP-SA-01 site would correspond to a possible secondary deposit of materials, whose
+Specific chronological and functional determination must be determined from specialized analyses.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+68
+==================================================================================
+PAGE 71
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 111. Results of test wells excavated at the PMP-SA-01 site.
+Source: Own elaboration
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+69
+==================================================================================
+PAGE 72
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Table 5. Absolute frequency of materials per well and level in PMP-SA-01.
+Level / Well P1 P2 P3 P4 P5
+Superficial 0 0 0 0 1
+1 (0-10cm) 0 0 0 0 0
+2 (10-20 cm) 0 0 0 0 0
+3 (20-30 cm) 0 0 0 0 0
+4 (30-40 cm) 0 0 0 0 0
+5 (50-50 cm) 0 0 0 0 0
+6 (50-60 cm) 0 0 0 0 0
+7 (60-70 cm) 0 0 0 0 0
+8 (70-80 cm) 0 0 0 0 0
+9 (80-90 cm) 0 0 0 0 0
+10 (90-100 cm) 0 0 0 0 0
+11 (100-110 cm) 0 - - - -
+12 (110-120 cm) 0 - - - -
+13 (120-130 cm) 0 - - - -
+14 (130-140 cm) 0 - - - -
+15 (140-150 cm) 0 - - - -
+TOTAL 0 0 0 0 1
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+On the other hand, in the wells excavated in the vicinity of the Landfill 1 site, a stratigraphy was identified
+different, identifying 4 stratigraphic layers (named A, B, C and D), whose distribution varies according to
+with the location of the wells. On the one hand, in wells P3, P4 and P5, located at a higher altitude on the slope, only
+layers A and B are recognized, and exceptionally layer D (mother rock) in well P4, while layer
+C was only identified in wells P1 and P2, located at a lower elevation (downhill).
+Layer A corresponds to a silt-clay matrix with a low sand content, semi-compact, colored
+dark brown, with a medium humidity percentage and a medium to low organic matter content
+(stems, grass, roots and leaves in the first level and then only rootlets). Inclusions of this layer include
+medium and small subangular and rounded stones in medium density. Layer A extends between the
+level 1 (0-10 cm) and levels 2 (10-20 cm) to 7 (60-70 cm) and all materials come from this stratum
+recorded at the site (with the exception of well P6, located south of the road, whose materials come from a
+fill layer of material removed during road steepening) (see Table 6 and Figure 112).
+Table 6. Absolute frequency of materials per well and level in the wells excavated around Fill 1.
+Level / Well P1 P2 P3 P4 P5 P6
+Superficial 0 0 0 0 0 0
+1 (0-10 cm) 0 0 0 10 0 1
+2 (10-20 cm) 0 0 0 7 4 0
+3 (20-30 cm) 0 0 0 0 2 0
+4 (30-40 cm) 0 0 0 0 0 0
+5 (50-50 cm) 0 0 0 0 0 0
+6 (50-60cm) 0 0 0 0 0 1
+7 (60-70cm
+) 0 - 0 0 0 0
+8 (70-80 cm) 0 - 0 0 - 0
+9 (80-90 cm) 0 - 0 0 - 0
+10 (90-100 cm) - - 0 - - -
+TOTAL 0 0 0 17 6 2
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+70
+==================================================================================
+PAGE 73
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 112. Results of test pits excavated around the Fill 1 site.
+Source: Own elaboration
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+71
+==================================================================================
+PAGE 74
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer B corresponds to a brown clay-silty matrix, much more compact than layer A.
+due to the increase in the clay component, which gives it greater plasticity. It has inclusions of
+subangular and rounded stones of small size in low densities, partly coming from rocks
+weathered located in the profiles. Humidity occurs in medium ranges and the organic component
+decreases with respect to the previous layer, remaining at low values, expressed only in roots. Layer B is
+extends to different depths from level 2 (10-20 cm) to level 9 (80-90 cm) and does not present material
+cultural, so it was considered a Culturally Sterile Geological Stratum (EGCE).
+Layer C, on the other hand, corresponds to a compact, reddish-brown, slightly
+less plastic than layer B (because it has a lower clay component). Has a low
+density of inclusions, including medium and small subangular and rounded gravels and stones. The
+The humidity of this layer is in the medium ranges and the organic component is low, composed exclusively
+by roots. Layer C extends between level 5 (40-50 cm) and level 9 (80-90 cm) to level 10 (90-100 cm), without
+present cultural materials (which is why it was also considered EGCE), being observed only in the
+wells P1 to P3, which are located downhill, at a lower elevation than wells P4 to P6.
+Finally, layer D recorded only in wells P2 and P4, would correspond to outcrops of the parent rock
+granodiorite of the hill.
+Exceptionally, in well P6, located on a slope south of the existing road, a layer
+previous, corresponding to a filling of material extracted during the road escarpment and that presents
+characteristics of the 3 layers (A, B and C) of the wells dug along the way.
+Following the instructions of the “Archaeological Procedure Guide” (2020, Annex 3, page 27),
+continued with the characterization of the site area because the Project does not contemplate works in this area
+(that is, it is a sector that is located outside the area of influence of the Project for this
+component5. In fact, the closest work (projected road) is now located more than 150 m from the area
+probed and more than 200 m from the Landfill 1 site. For its part, the results obtained from the excavations
+carried out allowed the detection of a stratigraphic deposit whose chronological-functional relationship with the
+site “Fill 1” is not possible to establish with certainty. On the one hand, on the Relleno 1 site it is mentioned
+generally the existence of “cultural remains consisting of abundant ceramic fragments of
+pre-Hispanic or early historical (…) of uncertain nature6”, The generic description of the material,
+provided both in the Baseline and in the Executive Report of well excavation at said site
+(which did not show the presence of a stratigraphic deposit) does not allow a clear comparison with the materials
+recorded during these surveys. Only the proximity between both deposits (38 m) could propose a
+membership relationship hypothesis, however, a ma
+further development of the analysis of
+registered materials in order to establish their relationship.
+Regarding the chronological assignment of the materials identified inside the wells that face the
+Fill 1 site, although these present a high degree of fragmentation and erosion, at least 2 are recognized
+5 Based on the provisions of the “Archaeological Procedure Guide” (2020, Annex 3, page 27): “It will be necessary
+characterize only those areas of the site that will be intervened by the project works where, eventually, they may
+future rescues may be made if pertinent.”
+6 Bustos, V. (2022). Executive Report Archaeological Characterization of the Site: Archaeological Find 1. Cemarc Project.
+Annex 2C. Addendum to the Project “Operational Continuity of the Concepción Waste Management Center”.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+72
+==================================================================================
+PAGE 75
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+fragments that, under preliminary analysis, would present diagnostic attributes that could associate them with the
+Early Pottery Period of the region (associated with the Pitrén Cultural Complex), although the analysis
+specialist must provide further background information. These correspond, on the one hand, to a small
+edge fragment of thin thickness (close to 3 mm) identified at level 2 (10-20 cm) and a fragment
+medium to thick body (about 8-9 mm) identified in level 3 (20-30 cm) of pit P5. In
+The latter recognizes the use of the modeling and smoking technique of the piece (see Figure 113 and Figure 114),
+which would be characteristic elements of the ceramics of the Pitrén groups (Donoso, 2017), which should be
+evaluated during the specialized analysis.
+Figure 113. Detail of ceramic fragment Figure 114. Detail of ceramic fragment
+recorded at level 3 of the P5 Fill 1 well recorded at level 3 of the P5 Fill 1 well
+(outer face) (inner face)
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+8. CONCLUSIONS AND RECOMMENDATIONS
+From the excavation campaign carried out between May 2 and 5, 2024, a total of
+of 11 test wells inside the PMP-SA-01 site and around the area that faced the Landfill 1 site.
+On the one hand, the subsurface characterization activities of the PMP-SA-01 site, located inside the
+Maite Extraction Zone, allowed us to rule out the existence of a stratigraphic deposit at the site,
+while the analysis of historical satellite images of the area made it possible to identify a series of
+intensive interventions in the area associated with forestry activity, as well as the recent steepening of the road
+inside which the surface dispersion of materials was identified. Both the absence of a deposit
+stratigraphic as the confirmation of recent intensive interventions in the surface dispersion area
+of materials allow us to assume a secondary deposit for this discovery.
+Based on these results, the surface collection of 100% of the surface dispersion area is proposed.
+of materials previously identified, whose methodological detail is presented in Annex 10-2 of this
+EIA (PAS 132 of Archaeology).
+On the other hand, with respect to the surveys carried out in the area facing the Landfill 1 site, although it was found
+the existence of a stratigraphic deposit in the area, this Project, in its final design, does not contemplate works
+in said sector. In effect, the Owner incorporated an adaptation to the layout of the road with respect to one of the
+areas referred to in entry CMN N°6697, more than 150 m to the west of the area, with the objective of not
+intervene in this sector in which the presence of archaeological components had been identified; consequently,
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+73
+==================================================================================
+PAGE 76
+==================================================================================
+Annex 3C-52: Executive Report on Arch Drilling Well Excavation
+ueological
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Due to the absence of Project works in this sector, it is not justified to continue with the characterization of the
+Landfill 1 site, while the sector is no longer part of the Area of Influence of this Project.
+Although, in accordance with the provisions of the “Archaeological Procedure Guide”, in this case the
+characterization or rescue of the site, since it is no longer located within the area of influence of the Project,
+Likewise, the specialized analysis of the materials recovered from the excavation will be carried out;
+following the instructions of the ORD. CMN 1571 by which the execution of the surveys was authorized.
+For the moment, the link between the Landfill 1 site and the excavations of the area facing the Landfill Site
+1, could be interpreted as part of the same site, however, this could only be of a character
+tentative, based on the proximity of both areas in which the presence of
+pre-Hispanic and historical ceramic materials. However, further background development is needed.
+in order to reach a definitive conclusion regarding the association between both sites, where only the
+subsequent/future analysis of the collected materials, along with the corresponding delivery of the Report
+Finally, with these results (in a sectoral manner), you will be able to corroborate this hypothesis.
+Finally, in accordance with what was requested in the ORD. CMN 1571 that authorized the surveys (point 18), is attached
+in Appendix 3C-52.4 of this document the “Archaeological Site Registration Form” incorporating the
+information collected at the PMP-SA-01 and Relleno 1 sites.
+9. BIBLIOGRAPHY
+Adam L., and Mera R. (1997). About the spatial and temporal distribution of the Pitrén Complex. A reassessment
+from the systematic study of collections. Bulletin of the Chilean Society of Archeology 24:33-37.
+Adán L., and Mera R. (2011). Internal variability in the Early Pottery of South Central Chile: The Complex
+Pitrén in the central Cautín valley and the Andean lake sector. Chungara, Chilean Anthropology Magazine,
+43(1): 3-23.
+Adán L., Mera R., Becerra M., and Godoy M. (2004). Archaic occupation in forest and lake territories of the
+Andean foothills region of central-southern Chile. The Marifilo-1 site in the town of Pucura. Chungara,
+Chilean Anthropology Magazine. Special Volume: 1121-1136
+Adán, L., Mera, R., Navarro, X., Campbell, R, Quiroz, D. and Sánchez, M. (2016). Pre-Hispanic history in the region
+South-Central Chile: Holocene hunter-gatherers and pottery communities (ca. 10,000 BC to 1,550
+years AD). In Prehistory in Chile, from its first inhabitants to the Incas. University Publishing and
+Chilean Society of Archeology, pp. 401-441.
+Adán L., Urbina S., and Alvarado M. (2017). Human settlements around the wetlands of the city of
+Valdivia in pre-Hispanic and colonial historical times. Chungara, Revista de Antropología Chilena, 49 (3):
+359-377.
+Aldunate C. (1989). Pottery stadium in southern Chile. In Prehistory (Chap. XIV), editors Jorge Hidalgo, Virgilio
+Schiappacasse, Hans Niemeyer, Carlos Aldunate and Iván Solimano, pp. 329-48. Santiago: Andrés Bello Editorial.
+Andrade P., (2023). Archaeological evaluation report “Valle Noble Modification” Project. Commune of
+Concepción, Bio-bio Region. ArqueoSur Consultores Ltda.
+Andrade P., Rojas M., Leyton L., Soto L., Parra, S. Santana S., Fonseca K., and Bustos G. (2019). History and
+Archeology of the Church of San Francisco in Concepción de Penco: Preliminary Results. Bulletin of the
+Chilean Society of Archeology 49: 27-36.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+74
+==================================================================================
+PAGE 77
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Bahamondes, F. (2009). Late pre-Hispanic ceramics from Northern Araucanía: the archaeological complex
+El Vergel and its relationship with the hypothesis of the Andinization process. Report to qualify for the professional title
+of
+Archaeologist, Faculty of Social Sciences, University of Chile.
+Bahamondes F., Silva C. and Campbell R. (2006). La Candelaria: a funerary site of the El Vergel Complex
+in the lower course of the Bío-bío River. Bulletin of the Chilean Society of Archeology Number 39: 69-85.
+Bengoa, J. (2000). History of the Mapuche people 19th and 20th centuries. Santiago de Chile: LOM.
+Library of National Congress (BCN). (2023). https://www.bcn.cl/siit/nuestropais/region8/clima.htm
+consulted on 08-28-2023.
+Bustos, V. (1985). Archaeological investigations on Quiriquina Island. University of Concepción/Navy of
+Chile-School of Cabin Boys. Manuscript in possession of the author.
+Bustos, V. (2020). Archaeological Inspection Report Extraction and processing of aggregates from El Pellín quarry,
+Penco, Bío-Bío Region.
+Bustos, V. (2022). Executive Report Archaeological Characterization of the Site: Archaeological Find 1. Project
+Cemarc. Annex 2C. Addendum to the Project “Operational Continuity of the Waste Management Center
+Conception.”
+Bustos, V., Morales, R, Rubilar, P. and Verdugo, P. (1985). Archaeological Investigations “Quiriquina Island (1984)”.
+University of Concepción - School of Cabins.
+Bustos, V. and Vergara, N. (1998). El Visal and Talcahuano 1, examples of Sedentary Lifestyle and Specialization in the
+Late Archaic of the Coast of the Eighth Region. In First Archeology Seminar. Central-South Zone of Chile,
+pp. 65-74. Anthropology Series. San Sebastián University, Concepción.
+Bustos V., and Vergara N. (2004). Early occupation models in the Bay of Concepción and Gulf of Arauco.
+Chungará 36: 283-288.
+Campbell R. and Quiroz D. (2015). Chronological database for Southern Chile (35 30'e42 S), ~33000 BP to present:
+Human implications and archaeological biases. Quaternary International 356: 39-53.
+Cerda G. and Puentes Y. (2019). Industrial Heritage: The housing complexes of the Crav Sugar Factory
+In Penco, 1941-19751. INVI Magazine 34(96).
+Chizelle, G., Coronado, L. and Seguel, Z. (1969). Rescue excavation in the town of Chiguayante,
+province of Concepción. Proceedings of the V Congress of Archeology of Chile: 351-375. The Serena
+Cornejo L., Saavedra M., and Vera H. (1998). Periodification of the Archaic in Central Chile: A proposal. Newsletter
+of the Chilean Society of Archeology 25: 36-39.
+Dillehay, T. (1990). Araucanía. Present and past. Andrés Bello Publishing House, Santiago, Chile.
+Dillehay, T. (2004). Monte Verde. A late Pleistocene human settlement in southern Chile. LOM,
+Santiago.
+Dillehay, T., & Collins, M. (1988). Early cultural evidence from Monte Verde in Chile. Nature 332:150–52
+Dillehay, T., Ramírez, C., Pino, M., Collins, M., Rossen, J. and Pino-Navarro, J. (2008). Monte Verde: Seaweed,
+food, medicine, and the people of South America. Science, 320, 784-786.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+75
+==================================================================================
+PAGE 78
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Dillehay, T., Ocampo, C., Saavedra, J., Oliveira, A., Vega, R., Pino, M., Collins, M., Scott, L., Arregui., I., Villagran,
+X., Hartmann, G., Mella, M., González, A. and Dix, G. (2015). New archaeological evidence for an Early Human
+presence at Monte Verde, Chile. PLoS ONE 10 (11): e0141923.
+Donoso, S. (2017). Pitrén and El Vergel domestic ceramics: Continuities and changes of a practice
+traditional in the surroundings of Lake Villarrica. Report to qualify for the Title of Archaeologist. Faculty of Sciences
+Social, University of Chile.
+Figueroa, V. (2012). Golden Book of the History of Penco. Second edition.
+Fuentealba P., and Vera, K. (2020). Mapuche Living in Penco. CONADI. ISBN: 978-956-402-685-5.
+García, J. (2007). Mapuche Ceramic Production. Historical, Archaeological and Ethnographic Perspective. VI
+Chilean Congress of Anthropology. College of Anthropologists of Chile A. G, Valdivia.
+Gómez Quinteros Luis. Earthquakes in the evolution of the urban landscape of Concepción.
+https://bibliotecadigital.ciren.cl/handle/20.500.13082/12678
+Labarca, R., Recabarren, O., Canales-Brellenthin, P. & Pino, M. (2014). The gomphotheres (Proboscidea:
+Gomphotheriidae) from Pilauco site: Scavenging evidence in the Lat
+e Pleistocene of the Chilean Patagonia.
+Quaternary international 30: 1-10.
+Lagos, R. and Hernández, A. (2006). Mastodons in the Los Lagos Region. Geography Bulletin, 24, 33-44.
+Larrañaga, O. (2016) Inequality throughout the history of Chile. UNDP Working Document Series –
+Inequality No. 2016/09.
+Maldonado, A., De Porras, M., Zamora, A., Rivadeneira, M. and Abarzúa, A. (2016). Chapter I: The setting
+geographic and paleoenvironmental of Chile. In: Prehistory in Chile from its first inhabitants to the Incas.
+Santiago, Chile: Editorial Universitaria, Chilean Society of Archeology.
+Márquez, B. (2014). Ceramics in Penco Industry and Society 1888 – 1962. Editions of the Historical Archive of
+Conception.
+Mera, R. (2008). Archaeological visual inspection. Florín Hydroelectric central project, commune of Futrono,
+Ranco province, Los Ríos Region.
+Mera R. and García C. (2004). Eaves Marifilo-1. Early Holocene occupation on the coast of Lake Calafquén (X
+Region, Chile). Against Wind and Tide. Archeology of Patagonia, 249-262. Edited by M. Civalero, P.
+Fernández and A. Guráieb. National Institute of Anthropology and Latin American Thought, Society
+Argentina of Anthropology. Buenos Aires, Argentina.
+Núñez, L. 1983. Paleoindian and Archaic in Chile: Diversity, Sequence and Processes. Cuicuilco Publishing House, Mexico.
+Núñez, L., D. Jackson, T. Dillehay, C. Santoro, and C. Méndez. (2016). Chapter II. Hunter-gatherers
+early and the first settlements in Chile towards the end of the Pleistocene (ca. 13,000 to 10,000 years b.p.).
+In Prehistory in Chile: From its first inhabitants to the Incas. University Publishing, Santiago.
+Obregón J., and Zavala JM. (2009). Abolition and persistence of indigenous slavery in Colonial Chile: Strategies
+slavers on the Araucano-Mapuche border. American Memory 17 (1): 11-35.
+Oliver, C. (1927). Note on a copper ax of the Araucanians at the time of the conquest of Chile.
+Publications of the Museum of Ethnology and Anthropology of Chile 4(3-4):305-308.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+76
+==================================================================================
+PAGE 79
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Palacios, E. (2020). Archaeological Procedure Guide. Santiago: Ministry of Cultures, Arts and
+Heritage and National Monuments Council. 1st Edition.
+Palacios, E. (2022). Archaeological Procedure Guide. Santiago: Ministry of Cultures, Arts and
+Heritage and National Monuments Council. 2nd Edition.
+Palma, V. (2018). Geodynamics of slopes in the distal section of the Vodudahue basin, X region of Los
+Lakes. Report to qualify for the Title of Geographer. University of Chile.
+Pino, M., M. Chávez-Hoffmeister, X. Navarro-Harris and R. Labarca. (2013). The late Pleistocene Pilauco site,
+Osorno, south-central Chile. Quaternary international 299, 3-12.
+Quiroz D. (2001). Occupations El Vergel on the coasts of Araucanía. IV Chilean Congress of Anthropology.
+College of Anthropologists of Chile A. G, Santiago de Chile.
+Quiroz, D., Massone, M. and Contreras, L. (2002). “Talcahuanenses” hunters on the coasts of Arauco during
+the Middle Holocene. In: From The Country of the Giants. Archaeological perspectives in Patagonia, Minutes of the
+IV Conference on Patagonian Archeology, Río Gallegos, National University of Patagonia, II: 621-633.
+Quiroz D., M. Massone M. and Sánchez, M. (2001). Presence of archaic maritime hunter-gatherers in
+the Gulf of Arauco sector La Obra Coronel. Bulletin of the Chilean Society of Archeology 32: 50-56.
+Quiroz, D. and M. Sánchez. (1993). Early populations on Isla Mocha (14th century BC). Museums 15: 9-11.
+Quiroz D., and Sánchez M. (2004). Initial settlements on the northern coast of Araucanía (6,500-2,000
+AP.). Chungara, Revista De Antropología Chilena, Special Volume: 289-302.
+Quiroz, D., Sánchez, M., Contreras, L., Constantinescu, F., Campbell, R., Both V. and Velásquez, H. (2005). A
+residential site and a grave belonging to the El Vergel complex in Coronel, Province of Concepción.
+Bulletin of the Chilean Society of Archeology 38: 79-91.
+Quiroz, D.
+and M. Vásquez. (1996). The presence of the late archaic on Isla Mocha: preliminary excavations of the
+site P27-1. Museums 21:21-26.
+Sánchez, M. (2003). Archaeological Surveys between the Andalién, Bío-Bío and Maule rivers, Province of
+Conception. FONDECYT Project Progress Report 1020272, Year 1, compiled by D. Quiroz, M. Sánchez,
+M. Massone and L. Contreras. Santiago. Manuscript.
+Sánchez, M. (2005). Presence of the El Vergel/Tirúa complex in the wetlands of the western slope of the
+Nahuelbuta mountain range. Proceedings of the XVI National Congress of Chilean Archeology: 337-345. I took
+Sánchez, M. and J. Inostroza. (1985) Archaeological excavations in the Alero Quino. Regional Museum Bulletin
+Araucanía 2:53-62.
+Seguel, Z. (1969). Excavations in Bellavista, Concepción. Preliminary communication Minutes of the V Congress
+National Archaeology, La Serena.
+Seguel, Z. (1970). Archaeological Investigations on Quiriquina Island. Rehue 3, Concepción.
+Taylor, R.E. (1985). The Beginnings of Radiocarbon Dating in American Antiquity: A Historical Perspective.
+American Antiquity, 50(2), 309–325.
+Torres J., Silva C., and Lucero M. (2007). The Role of Fishing in the Intensification of Coastal Occupations
+During the Middle-Late Holocene (Bahía de Concepción, Bío-Bío Region, Chile).” Magallania 35(1):71-93.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+77
+==================================================================================
+PAGE 80
+==================================================================================
+Annex 3C-52: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Urbina, S., Adán, L., Alvarado, M., Cornejo, L., Urbina, X., Álvarez, R. and Farías, A. (2022). From Chauracabi to
+Osorno: indigenous cities and settlements on the southern border of the Kingdom of Chile. Chungara, Magazine
+Chilean Anthropology 54(2): 339-375.
+Valenzuela, A. (2016). Evolution of the CRAV Industrial Complex and its impact on the urban structure of Penco.
+University of Concepción- Faculty of Architecture, Urban Planning and Geography.
+Zavala, J., Dillehay, T., Stewart, D., Payàs, G., and Medianero, F. (2021). The Mapuche of Concepción and the border
+Inca: review of early sources and new data. Rev Hist 28(2): 138-168.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+78

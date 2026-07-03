@@ -1,0 +1,94 @@
+==================================================================================
+PAGE 1
+==================================================================================
+681450 681600 681750 681900
+Clay Extraction Mining Development Project
+for the Production of Rare Earth Concentrates
+Location Plan Temporary Works
+Installation of Works
+General Location
+!(
+2
+!(
+1
+!(
+3
+!(
+Or 4
+LEGEND
+M !(
+5
+K
+J.
+I
+h
+g
+f
+Q
+R.T.
+!(
+S 6 !(
+7
+D N L !(
+E
+8
+!(
+10
+c
+b
+A
+!(
+9
+CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+UTM Coordinates Project Cartography
+Datum WGS 84 Spindle 18S Project Survey
+SHEET SCALE:
+u
+1 of 1
+Sheet Size: A2
+PREPARED BY: PREPARED FOR:
+0520395
+0010395
+0599295
+¯
+Regional Location Communal Location
+Regional Location Communal Location
+Biobío Region Area of Interest
+Other Regions Commune of Penco
+Other Communes
+Q
+!(
+Vertices Location Faenas Installation
+Temporary Works
+Work Installation Area
+ID Name Installation
+Name Vertices North East
+To Non-Hazardous Waste Area
+1 5,930,227 681,509
+B Household Solid Waste Area
+2 5,930,257 681,572
+C Hazardous Waste Area 3 5,930,217 681,604
+D First Aid/Emergency Brigade 4 5,930,195 681,649
+Installation 5 5,930,178 681,695
+E Dining Area
+of Works 6 5,930,108 681,687
+F Bathroom and Changing Room Area
+7 5,930,104 681,770
+G Office Area
+8 5,930,091 681,918
+H Workshop Area 9 5,930,010 681,840
+I Materials Storage Warehouse 10 5,930,077 681,665
+J Office Materials and Equipment Collection Yard Men
+K Fuel Station Area
+L Wastewater Treatment Plant
+M Bus and Equipment Parking
+N Water Pond
+O Materials and Equipment Collection Yard
+0 12.5 25 50 75 100
+P Emergency Generator
+meters
+Q Power Transformer
+R General Dashboard
+S Van Parking
+T Potable Water Pond Area 40m3
+U Access Gate

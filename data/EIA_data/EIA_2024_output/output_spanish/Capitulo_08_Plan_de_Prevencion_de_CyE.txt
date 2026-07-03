@@ -1,0 +1,2524 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Capítulo 08
+Plan de Contingencias y Emergencias
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+8 Plan de Prevención de Contingencias y Emergencias ................................................................. 8-1
+8.1 Introducción ............................................................................................................................... 8-1
+8.2 Objetivos .................................................................................................................................... 8-1
+8.3 Alcances y Prioridades ................................................................................................................ 8-2
+8.4 Plan de Prevención de Contingencias ........................................................................................ 8-2
+8.5 Medidas generales de prevención de riesgos ............................................................................ 8-2
+8.6 Identificación de Riesgos Principales del Proyecto .................................................................... 8-3
+8.6.1 Descripción de los Riesgos Identificados ............................................................................ 8-4
+8.6.2 Medidas de prevención de contingencias y control de riesgos a implementar ................. 8-7
+8.7 Plan de Emergencias ................................................................................................................ 8-24
+8.7.1 Análisis de riesgos ............................................................................................................ 8-25
+8.7.2 Medios de protección ....................................................................................................... 8-25
+8.7.3 Organización de la emergencia ........................................................................................ 8-27
+8.7.4 Procedimientos de actuación ante emergencias ............................................................. 8-30
+8.8 Mantenimiento de Equipos, Maquinarias y Sistemas .............................................................. 8-50
+8.9 Capacitaciones .......................................................................................................................... 8-50
+8.10 Actualización del Plan de Contingencias y Emergencias .......................................................... 8-51
+8.11 Primeros auxilios ...................................................................................................................... 8-51
+i
+================================================================================
+PAGE 3
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 8-1. Riesgos Principales del Proyecto ............................................................................................... 8-3
+Tabla 8-2. Medidas a Implementar –Sismo y tsumanis.............................................................................. 8-8
+Tabla 8-3. Medidas a Implementar – Condiciones Climatológicas Adversas ............................................. 8-9
+Tabla 8-4. Medidas a Implementar –Inundación o Anegamiento ............................................................ 8-10
+Tabla 8-5. Medidas a Implementar –Deslizamiento de Tierra y/o Materiales ........................................ 8-11
+Tabla 8-6. Medidas a Implementar –Incendios Industriales y Forestales ................................................ 8-12
+Tabla 8-7. Medidas a Implementar –Accidentes Laborales ..................................................................... 8-14
+Tabla 8-8. Medidas a Implementar –Transporte de Personal y/o Insumos del Proyecto ........................ 8-19
+Tabla 8-9. Medidas a Implementar –Transporte, Manejo, Almacenamiento y Derrame de Sustancias y/o
+Residuos Peligrosos .................................................................................................................................. 8-20
+Tabla 8-10. Medidas a Implementar –Afectación de Fauna Silvestre ...................................................... 8-22
+Tabla 8-11. Medidas a Implementar – Derrame de hidrocarburos en medio terrestre y acuático producto
+de la modificación de trazado de oleoducto de ENAP ............................................................................. 8-23
+Tabla 8-12. Medidas a Implementar – Derrame de aguas servidas ......................................................... 8-23
+Tabla 8-13. Medidas a Implementar – En caso de que no se pueda reutilizar el efluente de las PTAS ... 8-24
+Tabla 8-14. Datos de contacto apoyo externo ......................................................................................... 8-29
+Tabla 8-15. Procedimiento de Actuación Frente a Sismos y Tsunamis .................................................... 8-32
+Tabla 8-16. Procedimiento de Actuación Frente Condiciones Climatológicas Adversas ......................... 8-33
+Tabla 8-17. Procedimiento de Actuación Frente Accidentes Laborales ................................................... 8-35
+Tabla 8-18. Procedimiento de Actuación Frente Accidentes en Transporte de Personal y/o Insumos del
+Proyecto ................................................................................................................................................... 8-37
+Tabla 8-19. Procedimiento de Actuación Frente a Derrames de Sustancias y/o Residuos Peligrosos .... 8-38
+Tabla 8-20. Procedimiento de Actuación Frente a Incendios Industriales y Forestales .......................... 8-40
+Tabla 8-21. Procedimiento de Actuación Frente Accidentes con Fauna Silvestre ................................... 8-43
+Tabla 8-22. Procedimiento de Actuación Frente Inundación o Anegamiento ......................................... 8-44
+Tabla 8-23. Procedimiento de Actuación Frente a Deslizamientos de Tierra y/o Materiales ................. 8-45
+Tabla 8-24. Medidas a Implementar – Derrame de hidrocarburos en medio terrestre y acuático producto
+de la modificación de trazado de oleoducto de ENAP ............................................................................. 8-46
+Tabla 8-25. Medidas a Implementar – Derrame de aguas servidas ......................................................... 8-47
+Tabla 8-26. Medidas a Implementar – En caso de que no se pueda reutilizar el efluente de las PTAS ... 8-48
+ii
+================================================================================
+PAGE 4
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 8-1. Estructura organizativa de la Emergencia .............................................................................. 8-28
+INDICE DE ANEXOS
+Anexo 8-1 Plan de Protección de Incendios
+iii
+================================================================================
+PAGE 5
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS
+8.1 Introducción
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto.
+8.2 Objetivos
+De acuerdo con lo establecido en el Título III, letra j) del Artículo 18 del D.S. 40/2012, modificado por el
+D.S. 30/2023, ambos del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de
+Impacto Ambiental (RSEIA), un Estudio de Impacto Ambiental deberá contener un Plan de Prevención de
+Contingencias y de Emergencias, en concordancia con lo establecido en el Párrafo 2º del Título VI del citado
+RSEIA.
+Conforme a lo anterior, en el presente capítulo se presenta el Plan de Prevención de Contingencias y de
+Emergencias para el Proyecto.
+Para el desarrollo del presente Plan, se identificaron aquellas situaciones de riesgo o contingencia que
+puedan afectar a la población o al medio ambiente. Asimismo, se describieron las medidas que serán
+implementadas para reducir la probabilidad de ocurrencia de estas situaciones de riesgo. Por otro lado,
+en el Plan de Emergencias, se describieron los procedimientos de actuación que se llevarán a cabo en caso
+8-1
+================================================================================
+PAGE 6
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+de que se produzca una contingencia con el objetivo de controlar sus efectos sobre la población y el medio
+ambiente.
+El Plan de Prevención de Contingencias y Emergencias deberá ser actualizado cada vez que se produzcan
+variaciones en el Proyecto, ya sea en la estructura orgánica durante las fases de ampliación, operación o
+variaciones técnicas del mismo.
+8.3 Alcances y Prioridades
+Este Plan será de aplicación a todo el personal involucrado en la ejecución del Proyecto, en sus fases de
+construcción, operación y cierre, según corresponda.
+Se establece un orden jerárquico de prioridades de la operatividad para este Plan, siendo el siguiente:
+Garantizar y proteger la integridad física y mental de las personas;
+Evitar la ocurrencia de incidentes que pudiesen afectar a la comunidad o entorno.
+Evitar la ocurrencia de afectación al ambiente, ya sea en el área del Proyecto o en su entorno;
+8.4 Plan de Prevención de Contingencias
+De acuerdo a lo establecido en el Artículo 103 del RSEIA, el Plan de Prevención de Contingencias considera
+lo siguiente:
+“… deberá identificar las situaciones de riesgo o contingencia que pueden afectar el medio
+ambiente o la población y describir las acciones o medidas a implementar para evitar que
+éstas se produzcan o minimizar la probabilidad de ocurrencia.”
+En los siguientes apartados, se identifican y describen los riesgos asociados al Proyecto y se indican las
+medidas generales de prevención de riesgos para las fases de construcción, operación y cierre.
+8.5 Medidas generales de prevención de riesgos
+Las medidas generales de prevención de riesgos que deberán implantarse en las distintas fases del
+Proyecto corresponden a las siguientes:
+- Mantener un sistema de gestión ambiental que incluya los compromisos del estudio de impacto
+ambiental, así como los procedimientos de manejo de sustancias químicas y residuos.
+- Plan y programa de prevención y control de riesgos que incluya, al menos:
+• Identificación de peligros y evaluación de riesgos de la actividad y de las instalaciones;
+• Identificación de requisitos legales de seguridad;
+8-2
+================================================================================
+PAGE 7
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Realización de observaciones preventivas de seguridad, con objeto de identificar
+riesgos debidos a actos inseguros de los trabajadores;
+• Realización de inspecciones preventivas de seguridad, con objeto de inspeccionar
+sistemáticamente los lugares y equipos de trabajo, es decir, las condiciones materiales
+con las que se desarrollan las tareas;
+• Investigación de accidentes y enfermedades profesionales;
+• Información a los trabajadores acerca de los riesgos que entrañan sus labores, de las
+medidas preventivas y de los métodos de trabajo correctos;
+• Programa de capacitación y entrenamiento del personal;
+• Identificación de los Elementos de Protección Personal (EPP) necesarios; y,
+• Verificación sistemática de la normativa aplicable.
+• Elaboración de Reglamento Interno de Seguridad e Higiene, incluyendo las
+obligaciones, responsabilidades y prohibiciones a los trabajadores en materia de
+seguridad y riesgos.
+Adhesión a un organismo administrador que realice actividades permanentes de prevención de riesgos de
+accidentes del trabajo y enfermedades profesionales, acorde a lo indicado en la Ley Nº 16.744.
+• Instrucciones y/o procedimientos de trabajo seguro para las tareas a desarrollar.
+• Coordinación de actividades preventivas con las empresas contratistas y
+subcontratistas.
+• Constituir el Comité Paritario de Higiene y seguridad si son más de 25 trabajadores en
+el Proyecto.
+• Programa de mantenimiento e inspección de las instalaciones.
+8.6 Identificación de Riesgos Principales del Proyecto
+En función de las actividades asociadas a las fases de construcción, operación y cierre del Proyecto, las
+cuales se encuentran descritas en el Capítulo 1 “Descripción de Proyecto”, así como también en la Línea
+de Base, se identifican y describen los siguientes riesgos:
+Tabla 8-1. Riesgos Principales del Proyecto
+Tipo de Fases
+Riesgos
+Riesgo Con. Ope. Cie.
+Sismos y tsunamis x x x
+Naturales
+Condiciones climatológicas adversas (fuertes lluvias, vientos intensos) x x x
+Riesgos por accidentes laborales x x x
+Antrópicos
+Riesgos asociados al transporte de personal y/o insumos x x x
+8-3
+================================================================================
+PAGE 8
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tipo de Fases
+Riesgos
+Riesgo Con. Ope. Cie.
+Riesgos asociados al transporte, manejo y almacenamiento de sustancias y/o
+x x x
+residuos peligrosos con potencial de afectar suelos y cursos de agua
+Riesgos por incendios industriales y forestales x x x
+Riesgo de afectación de fauna silvestre x x x
+Riesgo de inundación o anegamiento x x x
+Riesgo por deslizamiento de tierra y/o materiales x x x
+Riesgo por derrame de hidrocarburos en medio ambiente y acuático producto
+x
+de la construcción de la modificación de trazado de oleoducto de ENAP
+Riesgo por derrame de aguas servidas x x x
+Riesgo en caso de que no se pueda reutilizar el efluente de las PTAS x x x
+Fuente: Elaboración propia, 2024.
+8.6.1 Descripción de los Riesgos Identificados
+Riesgos Naturales
+Son todos aquellos provocados por los fenómenos de tipo natural en los cuales se puede ver afectada la
+integridad del trabajador, la infraestructura o la continuidad de los procesos.
+Estos riesgos se componen de tres factores esenciales; el primero es la peligrosidad que hace referencia a
+la probabilidad de un determinado fenómeno natural, de cierta extensión, intensidad y duración. El
+segundo es la vulnerabilidad, que hace referencia al impacto del fenómeno sobre la organización, y el
+tercero es la capacidad de respuesta.
+En cuanto a la consideración de riesgos climáticos relacionados con el aumento de las temperaturas, los
+riesgos climáticos se evalúan en niveles bajos o con leves aumentos en la comuna de Penco, por lo que no
+se considera aplicable su consideración en el presente Plan de Prevención de Contingencias y Emergencias.
+• Sismos y tsunamis
+El Proyecto se emplaza en un área con zonificación sísmica “Zona 2” de acuerdo a la NCh. 433 “Diseño
+sísmico de edificios”, lo que implica una probabilidad de ocurrencia alta para este evento en comparación
+con otras zonas definidas para el resto de Chile. Por lo que se identifica “riesgo por sismos” en todas las
+etapas del Proyecto.
+Según la información presentada en la “Carta de Inundación por Tsunami de Bahías Concepción y San
+Vicente, referida al evento del año 1835; Elaborada por SHOA”, el resultado de la simulación muestra al
+área del Proyecto fuera del sector de inundación; por lo tanto, no se considera riesgo por tsunami.
+• Condiciones climatológicas adversas (fuertes lluvias, vientos intensos)
+8-4
+================================================================================
+PAGE 9
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+De acuerdo a lo indicado en el Capítulo 3 (Línea de Base) del EIA, las precipitaciones en el área del Proyecto
+son de tipo pluvial, y están presentes gran parte del año, concentrándose en los meses invernales de mayo
+a agosto, y con niveles máximos de precipitación de hasta 336 mm en el mes de junio. Respecto del viento,
+la velocidad promedio registrada anual corresponde a 3,9 m/s. En el periodo entre las 15:00 y 16:00 hrs,
+se registran velocidades de 4,8 m/s. Los vientos provienen desde la dirección SW con una frecuencia del
+60%, aproximadamente.
+Se identifica el riesgo de condiciones climatológicas adversas para las fases de construcción, operación y
+cierre. Los eventos con mayor probabilidad de ocurrencia serían fuertes lluvias y/o vientos intensos.
+Riesgos Antrópicos
+Son los riesgos provocados por actividades humanas o como resultado de las actividades del hombre,
+incluida las tecnológicas. Este tipo de riesgo está directamente relacionado con el desarrollo de la actividad
+y el comportamiento del hombre.
+• Riesgos por accidentes laborales
+o Riesgos que corresponden a la posibilidad de que un trabajador sufra un determinado
+perjuicio derivado del trabajo durante todas las fases (construcción, operación y cierre)
+del Proyecto.
+o Caída de personas a distinto y mismo nivel.
+o Golpes por caída de objetos por desplome o de cargas suspendidas.
+o Atrapamiento por vuelco de máquinas o vehículos.
+o Atrapamientos por entre objetos, cortes por objetos y/o herramientas.
+o Contactos eléctricos directos e indirectos.
+o Exposición a polvo, ruido, vibraciones y radiaciones no ionizantes (ultravioleta de origen
+solar), aguas residuales.
+o Trabajos en excavaciones profundas.
+o Golpes/atropello por vehículos o maquinarias.
+o Riesgos por proyección de fragmentos, partículas o líquidos.
+o Riesgos por contacto con sustancias peligrosas.
+o Riesgos por incendios.
+• Riesgo asociado al transporte de personal y/o insumos del Proyecto
+Relacionado a eventos con consecuencias que se produzcan con motivo del desplazamiento de personas
+o transporte de insumos desde o hacia el Proyecto. Se produce generalmente por colisiones entre dos
+vehículos, choques contra objetos fijos, atropellos, volcamiento, entre otros. Generalmente se originan
+8-5
+================================================================================
+PAGE 10
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+por errores humanos, falla mecánica de los vehículos, condiciones climáticas desfavorables, mala
+condición de los caminos y/o rutas de acceso.
+Considerando las distintas tareas que se realizarán en el Proyecto y los insumos que se deben transportar,
+este tipo de riesgo está asociado a todas las fases, principalmente a la fase de construcción.
+• Riesgo asociado al transporte, manejo, almacenamiento y derrame de sustancias y/o residuos
+peligrosos con potencial de afectar suelos y cursos de agua
+Implica la ocurrencia de eventos con efectos en suelos y cursos de agua, pero que en específico se
+produzcan con motivo del transporte, manejo y almacenamiento de sustancias que tengan alguna de las
+clasificaciones de peligro contenidas en la NCh. 382/2017 “Mercancías Peligrosas – Clasificación” o
+residuos peligrosos que tengan alguna o varias de las clasificaciones contenidas en el D.S. N°148/2003
+“Reglamento Sanitario sobre Manejo de Residuos Peligrosos” del Ministerio de Salud”. Estos accidentes
+pueden producirse por colisiones entre dos vehículos, choques contra objetos fijos, atropellos,
+volcamiento, entre otros. Generalmente derivan de errores humanos, falla mecánica de los vehículos,
+condiciones climáticas desfavorables, mala condición de los caminos y rutas de acceso.
+Este riesgo estará presente en todas las fases del Proyecto, siendo la fase de construcción la de mayor
+requerimiento respecto al transporte de sustancias peligrosas.
+• Riesgos por incendios industriales y forestales
+Está referido a una condición que puede contribuir al inicio y consecuente propagación del fuego,
+representando un peligro para la seguridad de las personas, el medioambiente y a la propiedad tanto
+pública como privada.
+Este riesgo se puede encontrar en todas las fases, debido a que el proyecto se encuentra inmerso en
+plantaciones forestales y bosques, así también, la Planta de Procesamiento contará con la presencia de
+áreas de almacenamiento de combustibles, áreas de almacenamiento temporal de sustancias y residuos
+peligrosos e instalaciones de almacenamiento de material con carga combustible significativa (residuos
+sólidos domésticos).
+En el Anexo 8.1 se presenta el Plan de Protección de Incendios.
+• Riesgos de afectación de fauna silvestre
+Riesgo asociado a la posibilidad de atropello o hallazgo de fauna herida en los sectores asociados al
+Proyecto. Este tipo de riesgo está considerado en las tres fases del Proyecto, principalmente en la fase de
+construcción y operación del mismo.
+• Riesgo de inundación y/o anegamiento
+8-6
+================================================================================
+PAGE 11
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+De acuerdo a lo indicado en el Capítulo 3 (Línea de Base) del EIA, el Área del Proyecto se encuentra,
+conforme al inventario de cuencas de la DGA, en la Cuenca Costeras e Islas entre Río Itata y Río Biobío. A
+nivel de subcuenca, la porción sur del Proyecto se encuentra en la subsubcuenca Río Andalién, mientras
+que la porción norte, se encuentra en la subsubcuenca Costeras entre Río Pingueral y Río Andalién.
+Por otra parte, considerando la extensión del Proyecto y la topografía del lugar, en el área se encuentra
+una red de esteros y quebradas menores, relacionadas con el emplazamiento de las obras y partes del
+Proyecto.
+Este riesgo de inundación y/o anegamiento puede estar presente en todas las fases del Proyecto, debido
+a la posibilidad de desbordamiento de alguno de los esteros ante episodios de lluvias intensas.
+• Riesgo por deslizamiento de tierra y/o materiales
+Posibilidad de accidentes por eventuales situaciones de riesgo de remoción en masa y materiales
+depositados en las cercanías del área del Proyecto. Este riesgo puede estar presente en todas las fases del
+Proyecto. No obstante lo anterior, se destaca que se considera como parte fundamental del Proyecto, la
+estabilidad de sus partes y obras, cuestión que, específicamente, es presentado como parte de los
+antecedentes que se entregan en el presente EIA, a propósito de la solicitud de los permisos ambientales
+sectoriales definidos en los artículos 136 y 137 del RSEIA, Permiso para establecer un botadero de estériles
+o acumulación de mineral y Permiso para la aprobación del plan de cierre de una faena minera,
+respectivamente.
+• Riesgo por derrame de hidrocarburos en medio ambiente y acuático producto de la construcción
+de la modificación de trazado de oleoducto de ENAP
+Este riesgo puede presentarse en la fase de operación, debido a la construcción y conexión al oleoducto.
+• Riesgo por derrame de aguas servidas
+Este riesgo puede presentarse en todas las fases del proyecto, debido a la utilización de servicios higiénicos
+y, por ende, generación de aguas servidas.
+• Riesgo en caso de que no se pueda reutilizar el efluente de las PTAS
+Este riesgo puede presentarse en todas las fases del proyecto, debido a la utilización de servicios higiénicos
+y, por ende, generación de aguas servidas.
+8.6.2 Medidas de prevención de contingencias y control de riesgos a implementar
+A continuación, una vez identificados los riesgos principales presentes en el Proyecto, se indican para cada
+uno de ellos medidas de prevención y control del riesgo, con objeto de:
+8-7
+================================================================================
+PAGE 12
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+- Reducir la probabilidad de fallo asociada a elementos, equipos o procesos;
+- Reducir la frecuencia de exposición al riesgo por parte de los trabajadores; y,
+- Reducir la magnitud de las consecuencias, en caso de que se produjera la contingencia.
+8.6.2.1 Riesgo sísmico y de tsunamis
+Tabla 8-2. Medidas a Implementar –Sismo y tsumanis
+Riesgo o contingencia Sismos.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción Todas las instalaciones del Proyecto, principalmente en la Instalación de faenas y
+asociada Planta de Procesamiento.
+• El diseño de ingeniería y construcciones del Proyecto estarán acorde a
+normas y estándares nacionales e internacionales de resistencia sísmica, por
+lo que será construido con la capacidad de resistir sismos de magnitudes
+esperables para la región del Biobío.
+• Se establecerán zonas de seguridad y evacuación, las que se mantendrán
+demarcadas y libre de obstáculos.
+• Todas las áreas de trabajo se mantendrán en condiciones de orden y limpieza
+Acciones o medidas a
+para asegurar una rápida evacuación frente a sismos en caso de ser
+implementar
+necesario.
+• Se mantendrán teléfonos de emergencia en una zona visible y fácil acceso
+para garantizar la comunicación efectiva cuando sea requerido.
+• Se realizarán simulacros de emergencia para la evaluación de la respuesta
+por parte del personal del Proyecto.
+• Se realizarán capacitaciones y entrenamientos al personal asociado a las
+labores de rescate y primeros auxilios.
+Se establecerá un protocolo de actuación en caso de sismo donde se llevarán a cabo
+simulacros de emergencias, dejando registro e informe de la actividad.
+Posterior al evento se verificará que la cantidad total de personas que participen del
+Proyecto se encuentren a salvo, para lo cual se mantendrá un registro de ingresos y
+Forma de control y salidas de personas.
+seguimiento
+Durante las fases de construcción, operación y cierre se suspenderán todas las faenas
+hasta que se haya verificado técnicamente que no existe riesgo para los trabajadores.
+Durante la fase de operación se realizará una inspección de las instalaciones con el fin
+de verificar su estado y descartar la existencia de daños que puedan ocasionar el
+colapso o derrumbe de estructuras.
+Fuente: Elaboración propia, 2024.
+8-8
+================================================================================
+PAGE 13
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.6.2.2 Riesgos por Condiciones climatológicas adversas (fuertes lluvias, vientos
+intensos)
+Tabla 8-3. Medidas a Implementar – Condiciones Climatológicas Adversas
+Riesgo o contingencia Condiciones climatológicas adversas.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+• Instalación de faenas.
+Parte, obra o acción • Planta de procesamiento.
+asociada • Zonas de extracción de arcillas.
+• Zona de disposición de arcillas lavadas.
+• Zona de acopio de suelo vegetal.
+• Actividades de habilitación de caminos.
+• Se identificarán los sectores mayormente susceptibles de ser afectados,
+estableciéndose como zonas de riesgo que serán identificadas en mapas de
+trabajo.
+• El emplazamiento de instalaciones de faenas se realizará fuera de las áreas
+expuestas a inundaciones.
+• Se mantendrá un monitoreo constante de las condiciones de vientos u otras
+condiciones climáticas que puedan afectar las operaciones del Proyecto. Para
+realizar el monitoreo de las variables meteorológicas se podrá considerar el
+uso de algunos de los siguientes instrumentos:
+o Pluviómetro.
+o Anemómetro.
+o Termómetro.
+Acciones o medidas a
+o Veletas.
+implementar
+• Se realizarán capacitaciones continuas al personal en relación a las
+condiciones climáticas imperantes en la zona de ubicación del proyecto.
+• Cuando se evidencien condiciones meteorológicas adversas, se dará aviso
+para que se realice la suspensión de los trabajos. Junto con esto, todo el
+personal deberá retirarse de las zonas susceptibles de ser afectadas.
+• Cabe señalar que como parte de las condiciones climáticas adversas se
+consideran los eventos de precipitación extrema que podrán presentarse con
+mayor frecuencia e intensidad de acuerdo con las proyecciones de cambio
+climático analizadas para la zona de emplazamiento del Proyecto. Para esto,
+se realizarán los monitoreos pertinentes y cuando sean evidenciadas
+condiciones no propicias para la seguridad del desarrollo del Proyecto, se
+dará aviso para la suspensión de obras y operaciones.
+8-9
+================================================================================
+PAGE 14
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Condiciones climatológicas adversas.
+• Todas las instalaciones de faena e instalaciones anexas (bodegas de
+sustancias y residuos peligrosos, oficinas, talleres, etc.) deberán cerrarse
+hasta que se mejoren las condiciones climáticas.
+Control periódico de las zonas de trabajo, verificando la integridad estructural de las
+Forma de control y
+instalaciones y verificando que se encuentren las zonas de seguridad libre de
+seguimiento
+obstáculos y debidamente demarcadas.
+Fuente: Elaboración propia, 2024.
+8.6.2.3 Riesgo de inundación o anegamiento
+Considerando los efectos adversos del cambio climático, las observaciones del período histórico (1985-
+2019) dan cuenta de una tendencia significativa de disminución en las precipitaciones a escala anual
+(estación de Dichato) y en los meses de abril (Carriel Sur) y mayo (Cancha Los Litres). En cuanto a las
+proyecciones a futuro de disminución de las precipitaciones, estas se mantienen con tendencias negativas,
+aunque no todos los modelos presentan una significancia estadística para este resultado.
+No obstante, no resulta descartable la ocurrencia de eventos de alta precipitación en el futuro, por lo que
+el riesgo de inundaciones frente a la ocurrencia de este tipo de eventos se implementarán las medidas
+indicadas en la Tabla 8-4.
+Tabla 8-4. Medidas a Implementar –Inundación o Anegamiento
+Riesgo o contingencia Inundación o Anegamiento.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+Ante la posibilidad inundación por fuertes precipitaciones, o por desbordamiento de
+alguno de los esteros ante fallas operacionales en las cercanías a estos, colapso de
+estructuras, o aumento de su cauce, se tomarán las siguientes medidas:
+• El emplazamiento de instalaciones de faenas se realizará fuera de las áreas
+expuestas a inundaciones.
+Acciones o medidas a
+• Se revisarán periódicamente los niveles de agua, manómetros, sistemas de
+implementar
+emergencia, válvulas de alivio, entre otros.
+• Se mantendrán sistemas de operación auxiliar en caso de fallos
+operacionales, que permitan formas alternativas de funcionamiento en caso
+de falencias mecánicas o eléctricas.
+• Establecimiento de zonas de seguridad, que se mantendrán demarcadas y
+libres de obstáculos.
+8-10
+================================================================================
+PAGE 15
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Inundación o Anegamiento.
+Se controlará la evolución de los accidentes, detectando si los cambios
+Forma de control y experimentados son debidos a una fluctuación aleatoria o a un nuevo factor que ha
+seguimiento modificado las condiciones de seguridad. De acuerdo a lo resultados que se obtengan,
+se tomarán las medidas correctivas correspondientes.
+Fuente: Elaboración propia, 2024.
+8.6.2.4 Riesgo por deslizamiento de tierra y/o materiales
+Considerando los efectos adversos del cambio climático, las observaciones del período histórico (1985-
+2019) dan cuenta de una tendencia significativa de disminución en las precipitaciones a escala anual
+(estación de Dichato) y en los meses de abril (Carriel Sur) y mayo (Cancha Los Litres). En cuanto a las
+proyecciones a futuro de disminución de las precipitaciones, estas se mantienen con tendencias negativas,
+aunque no todos los modelos presentan una significancia estadística para este resultado. No obstante, no
+resulta descartable la ocurrencia de eventos de alta precipitación en el futuro, por lo que debe evaluarse
+la pertinencia de gestionar el riesgo de remociones en masa frente a la ocurrencia de este tipo de eventos
+se tomarán las medidas indicadas en la Tabla 8-5.
+Tabla 8-5. Medidas a Implementar –Deslizamiento de Tierra y/o Materiales
+Riesgo o contingencia Deslizamiento de tierra y/o materiales.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+Se proponen las siguientes medidas para evitar eventuales situaciones de riesgo:
+• Se definirán zonas seguras y rutas de evacuación de los trabajadores.
+• Se mantendrá la máxima seguridad de las excavaciones, control y
+estabilización de taludes.
+• Se establecerán medidas estructurales:
+o Rectificación geométrica del terreno.
+o Implementación de elementos de drenaje.
+o Implementación de elementos estructurales de refuerzo si
+correspondiera.
+Acciones o medidas a
+• Se establecerán medidas instrumentales en la Zona de Disposición del
+implementar
+Proyecto, que consisten en la instalación de equipos de instrumentación y
+monitoreo con el objetivo de establecer un Sistema de Alerta Temprana y
+con ello reducir la vulnerabilidad física, funcional u operativa. Algunos de
+estos instrumentos pueden ser:
+o Piezómetros.
+o Inclinómetros.
+o Pluviómetros.
+o Puntos de nivelación topográfica.
+o Extensómetros.
+8-11
+================================================================================
+PAGE 16
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Deslizamiento de tierra y/o materiales.
+• Se controlará la evolución de los accidentes, detectando si los cambios
+experimentados son debidos a una fluctuación aleatoria o a un nuevo factor
+que ha modificado las condiciones de seguridad. De acuerdo a lo resultados
+Forma de control y
+que se obtengan, se tomarán las medidas correctivas correspondientes.
+seguimiento
+• Control periódico de las zonas de trabajo, basado principalmente en
+inspecciones de terreno.
+Fuente: Elaboración propia, 2024.
+8.6.2.5 Riesgos asociados a Incendios industriales y forestales
+Considerando los efectos adversos del cambio climático, los antecedentes disponibles en ARClim
+(evaluados en detalle en el Anexo 1-12) sobre el riesgo de incendios forestales en la comuna de Penco da
+cuenta de un leve aumento en este riesgo en el período futuro (2035-2065) en comparación con el período
+histórico de referencia (1980-2010). De acuerdo con estos antecedentes, si bien el cambio climático no
+tendría un efecto adverso significativo sobre el riesgo de incendios forestales, se tomarán las medidas
+indicadas en la Tabla 8-6. En el Anexo 8.1 se presenta el Plan de Protección de Incendios.
+Tabla 8-6. Medidas a Implementar –Incendios Industriales y Forestales
+Riesgo o contingencia Incendios industriales y forestales.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Las zonas con un mayor riesgo de que pueda producirse un incendio industrial son:
+• Instalación de faenas y bodegas.
+• Planta de Procesamiento.
+• Áreas de almacenamiento de residuos sólidos domésticos por acumulación
+de elementos de fácil combustión.
+Parte, obra o acción
+• Estanques de diésel por combustión de elementos inflamables.
+asociada
+• Zonas con densa vegetación (zonas de extracción, zona de disposición, zona
+de acopio de suelo vegetal.)
+• Oficinas: puede presentarse un incendio por falta de orden y limpieza, actos
+inseguros del personal.
+• En vehículos móviles por fallas mecánicas de los equipos.
+• En el entorno donde exista vegetación seca.
+El riesgo de incendio en el Proyecto está asociado, principalmente, a un manejo
+inadecuado de materiales inflamables y combustibles, así como a trabajos con
+Acciones o medidas a
+herramientas que pudiesen proyectar partículas incandescentes, indicándose las
+implementar
+siguientes medidas para minimizar dicho riesgo:
+8-12
+================================================================================
+PAGE 17
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Incendios industriales y forestales.
+• Identificación de zonas donde esté expresamente prohibido cualquier
+actividad que pueda generar chispas, tales como encender fuego, fumar,
+portar o mantener elementos que puedan ocasionar chispas, etc.
+• Implementar un sistema de permisos de trabajos en caliente, en el que se
+pueda evaluar las medidas de control caso a caso, cuando se ejecuten
+actividades con llama abierta o partículas incandescentes.
+• Los materiales combustibles e inflamables serán almacenados en espacios
+especialmente habilitados, cumpliendo con lo dispuesto en el D.S. Nº
+160/2008 del Ministerio de Economía, Fomento y Reconstrucción “Aprueba
+Reglamento de Seguridad para las instalaciones y operaciones de producción
+y refinación, transporte, almacenamiento, distribución y abastecimiento de
+combustibles líquidos” y en el D.S. Nº 43/2016 del Ministerio de Salud
+“Aprueba Reglamento de almacenamiento de sustancias peligrosas”.
+• Disposición en las instalaciones de los elementos de extinción de incendios
+adecuados (extintores, etc.), realizando las mantenciones periódicas, según
+se establece en la normativa vigente.
+• Ubicación de los equipos de extinción en las proximidades de los puntos
+probables de incendio, siendo accesibles por parte de los trabajadores y
+demarcando el área donde están ubicados de acuerdo a la normativa vigente.
+• Capacitación a trabajadores en el correcto uso de los elementos de
+protección y combate contra incendios.
+• Control de los productos combustibles, manteniendo el orden y limpieza en
+el almacenamiento y disponiendo sólo del stock necesario.
+• Se mantendrá comunicación con los propietarios de los predios de
+emplazamiento del Proyecto con el objeto de detectar posibles conductas de
+terceros que propicien la generación de incendio.
+• Se realizarán revisiones y mantenciones periódicas a todas las instalaciones
+que puedan provocar un incendio, principalmente las instalaciones
+eléctricas.
+• Se mantendrá debida comunicación entre personal de seguridad y vigilancia
+del Proyecto con el objeto de detectar posibles conductas de terceros que
+propicien la generación de un incendio.
+Adicionalmente a lo indicado, en relación con la prevención de incendios forestales se
+indican las siguientes medidas:
+• Inducción a los trabajadores sobre la prevención de incendios forestales.
+• En caso de detectarse un incendio que no pueda ser controlado con los
+recursos propios del Proyecto, se establecerá contacto inmediato con los
+cuerpos de Bomberos y Corporación Nacional Forestal (CONAF), con la
+finalidad de solicitar apoyo para atender la emergencia y así mitigar los
+daños.
+8-13
+================================================================================
+PAGE 18
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Incendios industriales y forestales.
+• Se implementarán letreros preventivos en distintas partes del Proyecto, con
+el objetivo de concientizar a las personas y promover la prevención de
+incendios forestales.
+• Se elaborará un plano donde se identificarán aquellas zonas susceptibles a
+incendios forestales, el cual estará visible para todo el personal y contratistas
+del Proyecto.
+• Se controlará la evolución de los accidentes, detectando si los cambios
+experimentados son debidos a una fluctuación aleatoria o a un nuevo factor
+que ha modificado las condiciones de seguridad. De acuerdo a lo resultados
+que se obtengan, se tomarán las medidas correctivas correspondientes.
+Forma de control y
+seguimiento • Control periódico de las condiciones de trabajo, basado principalmente en
+inspecciones de terreno.
+• Se velará por la mejora continua de los procedimientos de trabajo de cada
+una de las actividades asociadas al Proyecto.
+Fuente: Elaboración propia, 2024.
+8.6.2.6 Riesgos por Accidentes Laborales
+Tabla 8-7. Medidas a Implementar –Accidentes Laborales
+Riesgo o contingencia Accidentes laborales.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+Como medida general, se realizarán charlas de inducción a todo el personal para
+informar sobre todos los riesgos del Proyecto, como prevenir accidentes y
+procedimientos de actuación.
+Caída de personas al mismo nivel:
+• Todos los trabajos se ejecutarán de manera planificada, con un Permiso de
+Trabajo Seguro (PTS) y de acuerdo a los procedimientos preestablecidos por
+Acciones o medidas a
+la empresa.
+implementar
+• Se mantendrá limpio y despejado el suelo de las zonas de paso y de trabajo.
+• En caso de que el suelo se encuentre irregular, se comunicará al responsable
+de prevención de riesgos para que tome las medidas correspondientes.
+• Se señalizarán las zonas de trabajo, principalmente aquellas que entrañen
+riesgos específicos.
+• Todo el personal utilizará los EPP apropiados para el trabajo a realizar.
+• Se iluminarán adecuadamente las zonas de trabajo.
+8-14
+================================================================================
+PAGE 19
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Accidentes laborales.
+• Se contará con botiquines de primeros auxilios cercanos en puntos
+estratégicos a las faenas de trabajos.
+Caída de personas a distinto nivel:
+• Se utilizará sistema personal para detención de caída (arnés para cuerpo
+completo Clases A, D, E o P, línea de vida) en trabajos en altura certificados.
+• Todos los trabajadores que realicen trabajos en altura deberán estar
+debidamente capacitados sobre los riesgos asociados, así como el uso
+correcto de los equipos de protección personal y sistemas de trabajo en
+altura. Además, se exigirá que los trabajadores cuenten con una formación
+específica para asegurar su seguridad.
+• Cuando sea necesario se instalarán sistemas de protección de caídas y
+andamios por personal calificado.
+• Se realizarán inspecciones periódicas a equipos de apoyo de trabajo en altura
+(andamios, plataformas elevadoras, canastillos sostenidos por grúas, escalas
+y escaleras de servicio, etc.) y de equipos de protección personal (EPP’s). Se
+realizará mantenimiento correctivo a los equipos de apoyo en altura, o
+cambio de ser necesario.
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+Golpes por caída de objetos por desplome o de cargas suspendidas:
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+• Se delimitarán las áreas con riesgo de caída de objetos para impedir el paso
+de personas.
+• Se capacitará al personal acerca de no circular bajo carga suspendida.
+• Uso obligatorio de EPP adecuados.
+Atrapamiento por vuelco de máquinas o vehículos:
+• Se delimitarán las zonas de tránsito para vehículos y trabajadores mediante
+señalización.
+• Se utilizarán vehículos acordes al tipo de terreno con disponibilidad de
+pértigas, balizas y sirena en marcha de retroceso.
+• Uso obligatorio de chalecos o elementos reflectantes por lugares donde
+circulen vehículos.
+• Se realizará el mantenimiento correspondiente a los vehículos según
+indicación del fabricante.
+• Los vehículos deberán contar con cabinas equipadas para asegurar la
+integridad física del conductor, sistema de control de tracción y sistema de
+tercer ojo.
+Atrapamientos entre objetos, cortes por objetos y/o herramientas:
+8-15
+================================================================================
+PAGE 20
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Accidentes laborales.
+• Todos los trabajos se ejecutarán con un PTS (Procedimientos de Trabajo
+Seguro) y de ser necesario Análisis del Riesgo de la Tarea (ART).
+• Prohibición de retirar las protecciones de las correas, engranajes o cualquier
+otra parte móvil de las máquinas que implique riesgo a fin de evitar
+atrapamientos.
+• Para intervenir en un equipo con partes móviles o en su proximidad, siempre
+se deberá desconectar el equipo y utilizar sistemas de bloqueo.
+• Uso obligatorio de EPP adecuados (calzado de seguridad, guantes de
+protección mecánica, lentes de seguridad).
+• Toda guarda de equipos (motorizados que presente desplazamiento, ejes en
+movimiento, etc.) debe contar con sistema de detención al ser retirada.
+Contactos eléctricos directos/indirectos:
+• Todos los trabajos se ejecutarán con PTS (Procedimientos de Trabajo Seguro)
+• Sólo trabajadores autorizados y capacitados realizarán trabajos con riesgo
+eléctrico.
+• Uso obligatorio de EPP adecuados según el voltaje a trabajar (guantes de
+protección contra riesgo eléctrico, lentes de seguridad, ropa ignifuga, etc.).
+• Todos los equipos y elementos que estén o hayan estado en tensión deberán
+desconectarse antes de realizar algún trabajo sobre ellos, siguiendo las 5
+reglas de oro: siguientes: (1) desconectar energía peligrosa, (2) bloqueo y
+etiquetado, (3) verificación de energía cero, (4) liberación de energías
+residuales o puesta a tierra y, (5) señalización de la zona de trabajo). La
+desconexión se hará con corte visible, se inmovilizará con cerradura o
+candado y las partes activas se pondrán a tierra, se comprobará la ausencia
+de tensión y se señalizará y balizará la zona de trabajo (aplicación de Bloqueo
+y etiquetado – Lockout/tagout (LOTO).
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+• Toda instalación eléctrica a intervenir se debe encontrar con protección
+diferencial.
+Riesgo por exposición a polvo, ruido, vibraciones, ultravioleta solar, etc.:
+• Cumplimiento de los requerimientos establecidos en el D.S. Nº 594/99
+“Aprueba reglamento sobre condiciones sanitarias y ambientales básicas en
+los lugares de trabajo”.
+• Capacitación a los trabajadores.
+• Uso obligatorio de los EPP adecuados (guantes de protección, protección
+respiratoria acorde al contaminante, protectores auditivos, lentes de
+seguridad, etc.).
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+8-16
+================================================================================
+PAGE 21
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Accidentes laborales.
+Trabajo en excavaciones profundas:
+• Se revisará en el estudio de mecánica de suelos, el ángulo de inclinación
+máximo del talud recomendado y si se indica algún sistema de entibación o
+protección de las paredes de la excavación (por ejemplo, shotcret).
+• Se capacitará a los trabajadores sobre los riesgos a que están expuestos en el
+Proyecto, los métodos correctos de trabajo, procedimientos y elementos de
+protección personal a utilizar.
+• Se instalará cierre perimetral, que estará a una distancia mayor que la mitad
+de la profundidad de la excavación, según se indica en la NCh. Nº3481.
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+• Se evaluará si la luz natural es suficiente o si es necesario instalar luz artificial.
+• Se redactará un procedimiento de emergencia que permita asistir en forma
+oportuna la ocurrencia de algún accidente, el que debe ser difundido y
+evaluado periódicamente.
+Golpes/atropello por vehículos o maquinarias:
+• Se delimitarán las zonas de tránsito para vehículos y trabajadores mediante
+señalización.
+• Se utilizarán vehículos acordes al tipo de terreno con disponibilidad de
+pértigas, balizas y sirena en marcha de retroceso.
+• Uso obligatorio de chalecos o elementos reflectantes por lugares donde
+circulen vehículos.
+• Se realizará el mantenimiento correspondiente a los vehículos según
+indicación del fabricante.
+• Se implementarán señaléticas con indicación de máxima velocidad permitida
+al interior del Proyecto.
+• Prohibición de subir ni bajar de máquinas en movimiento.
+• Se asegurará una correcta iluminación en trabajos nocturnos.
+• Solo personal autorizado y capacitado podrá utilizar maquinaria o vehículos.
+Riesgos por proyección de fragmentos, partículas o líquidos:
+• Uso obligatorio de los EPP adecuados.
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+• Se redactará un procedimiento de emergencia que permita asistir en forma
+oportuna la ocurrencia de algún accidente, el que debe ser difundido y
+evaluado periódicamente.
+Riesgos por contacto con sustancias y/o residuos peligrosos:
+• Uso obligatorio de los EPP adecuados.
+8-17
+================================================================================
+PAGE 22
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Accidentes laborales.
+• Se redactarán procedimientos asociados a la manipulación y
+almacenamiento de sustancias y residuos peligrosos.
+• Todo el personal asociado al manejo y almacenamiento de sustancias y
+residuos peligrosos estará debidamente capacitado.
+• Prohibición de comer y/o fumar en las áreas de manipulación y
+almacenamiento de sustancias y residuos peligrosos.
+• Se mantendrá sistema de lavaojos y duchas en las áreas con manipulación de
+sustancias peligrosas.
+Riesgos por incendios:
+• Se evitará la acumulación de material combustible cerca de posibles focos de
+calor.
+• Uso obligatorio de los EPP adecuados para personal que maneje sustancias
+inflamables, grasas, aceites u otro material combustible.
+• Se implementarán señaléticas según NCh. Nº 1411 “Prevención de Riesgos
+Parte 1: Letreros de seguridad y Parte 2: Señales de seguridad”.
+• El Proyecto considera instalación de extintores en puntos estratégicos.
+• Todo el personal estará capacitado para atender pequeños incendios.
+• Se mantendrá un sistema de detección de incendios temprana (detectores
+de humo, detectores de temperatura y detectores de fuego), estos serán
+instalados en bodegas de combustibles, sustancias peligrosas y oficinas.
+• Se llevará un registro de personas accidentadas donde se indique al menos,
+identificación del accidente, tipo de accidente, forma de accidente, tipo de
+lesiones, tiempo de recuperación (cuando aplique), etc.
+• Se creará un programa anual de prevención, en donde se asignarán
+encargados del desarrollo del control y gestión de temas preventivos para
+asegurar el éxito del programa.
+• Se controlará la evolución de la siniestralidad, detectando si los cambios
+Forma de control y
+experimentados son debido a una fluctuación aleatoria o a un nuevo factor
+seguimiento
+que ha modificado las condiciones de seguridad. De acuerdo a lo resultados
+que se obtengan, se tomarán las medidas correctivas correspondientes.
+• Control periódico de las condiciones de trabajo para evitar accidentes,
+basado principalmente en inspecciones de terreno.
+• Se velará por la mejora continua de los procedimientos de trabajo de cada
+una de las actividades asociadas al Proyecto.
+Fuente: Elaboración propia, 2024.
+8-18
+================================================================================
+PAGE 23
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.6.2.7 Riesgos asociados al transporte de personal y/o insumos del Proyecto
+Tabla 8-8. Medidas a Implementar –Transporte de Personal y/o Insumos del Proyecto
+Riesgo o contingencia Riesgos asociados al transporte de personal y/o insumos del Proyecto.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+• Se exigirá el cumplimiento de toda normativa aplicable tanto a trabajadores
+directos como indirectos, a las empresas contratistas y sus subcontratistas
+mediante cláusulas contractuales donde se estipule el cumplimiento de leyes
+vigentes del tránsito, decretos, reglamentos, instructivos y otros que regulen
+el transporte en carreteras y fuera de estas.
+• Se cumplirá y exigirá cumplimiento a las contratistas y/o sus subcontratistas
+la obligación de aplicar uno o más procedimientos para el transporte
+(personas, equipos y materiales), basado en la aplicación del Decreto 298 del
+Ministerio de Transporte y Telecomunicaciones que reglamenta el transporte
+de cargas peligrosas por calles y caminos. Este cuerpo normativo establece
+las condiciones, normas y procedimientos aplicables al transporte de cargas
+por calles y caminos en Chile para sustancias o productos que por sus
+características sean peligrosas o representan riesgos para la salud de las
+personas, seguridad pública o para el medio ambiente.
+• Se realizarán capacitaciones que serán actualizadas, al menos, una vez al año
+sobre las acciones a seguir ante un accidente desde o hacia el Proyecto.
+• Para el transporte de cargas sobredimensionadas, se coordinará su traslado
+Acciones o medidas a con la Dirección de Vialidad y Carabineros de Chile y se tramitarán
+implementar anticipadamente las autorizaciones que sean necesarias.
+• Todos los conductores serán responsables del vehículo y/o maquinaria a su
+cargo y, en caso de que se vea involucrado en un accidente de tránsito, se
+deberá informar de inmediato a su Supervisor directo y éste al Experto en
+Prevención.
+• Para los vehículos de transporte de personal, se establece la prohibición de
+transportar cualquier tipo de carga en la cabina o junto a los pasajeros, en
+especial aquellas definidas como sustancias peligrosas.
+• En caso de que el transporte del personal hasta los frentes de trabajo se
+realice en buses y vehículos menores, se contará una empresa del rubro, la
+que debe contar con todos los elementos de seguridad requeridos por la
+legislación y se le exigirá cumplir con las disposiciones vigentes sobre el
+transporte de pasajeros, incluyendo las normas internacionales en seguridad
+de las cabinas.
+• Revisión diaria de los equipos de conducción, así como revisiones periódicas
+de los equipos móviles, en las que se deberá pedir los check-list diarios de los
+equipos y se deberá revisar la presencia o no de ruedas de repuesto, gatas,
+cuñas, extintores, etc.
+8-19
+================================================================================
+PAGE 24
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Riesgos asociados al transporte de personal y/o insumos del Proyecto.
+• En caso de existir paso sobre nivel, se considerará la altura máxima permitida
+para la carga. Asimismo, se considerará el tonelaje máximo permitido para el
+paso sobre puentes.
+• En el caso de traslado de materiales, la carga deberá estar asegurada de
+manera que se evite el riesgo de caída desde el vehículo.
+• Los vehículos asociados al Proyecto no podrán exceder el máximo de
+personas a trasladar.
+• El personal a contratar para manejar los camiones y maquinarias será
+personal calificado, con licencia de conducir vigente. Se les exigirá licencia
+según lo señalado en la Ley de Tránsito (Nº18.290).
+• Se exigirá capacitación a las empresas contratistas y subcontratistas para los
+operadores y conductores respecto de las acciones a seguir ante un siniestro
+desde y hacia el Proyecto.
+• Las vías estarán debidamente señalizadas.
+• Los vehículos serán aptos para los caminos a transitar.
+• Las instalaciones del Proyecto contarán con señaléticas que indicarán la
+velocidad máxima permitida.
+• Se controlará la evolución de los accidentes, detectando si los cambios
+experimentados son debidos a una fluctuación aleatoria o a un nuevo factor
+Forma de control y que ha modificado las condiciones de seguridad. De acuerdo a lo resultados
+seguimiento que se obtengan, se tomarán las medidas correctivas correspondientes.
+• Se velará por la mejora continua de los procedimientos de trabajo de cada
+una de las actividades asociadas al Proyecto.
+Fuente: Elaboración propia, 2024.
+8.6.2.8 Riesgos asociados al transporte, manipulación y almacenamiento de sustancias
+y/o residuos peligrosos con potencial de afectar suelos y cursos de agua
+Tabla 8-9. Medidas a Implementar –Transporte, Manejo, Almacenamiento y Derrame de Sustancias y/o Residuos
+Peligrosos
+Riesgos asociados al transporte, manejo, almacenamiento y derrame de sustancias
+Riesgo o contingencia
+y/o residuos peligrosos con potencial de afectar suelos y cursos de agua.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción Las áreas con mayor riesgo respecto de un evento no deseado corresponden a
+asociada aquellas donde existe manejo y almacenamiento de sustancias y residuos peligrosos.
+En el caso de transporte de insumos, se han de implementar las siguientes medidas
+de prevención y control del riesgo:
+Acciones o medidas a
+implementar • Cumplimiento de los lineamientos establecidos en el Decreto N° 298/94
+“Reglamenta transporte de cargas peligrosas por calles y caminos” y de la
+legislación aplicable al transporte de combustible.
+8-20
+================================================================================
+PAGE 25
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgos asociados al transporte, manejo, almacenamiento y derrame de sustancias
+Riesgo o contingencia
+y/o residuos peligrosos con potencial de afectar suelos y cursos de agua.
+• Disposición en el vehículo de las instrucciones a seguir en caso de accidente.
+• Capacitación del conductor para respuesta en caso de accidente con derrame
+de las sustancias transportadas.
+• Uso de distintivos de seguridad, según NCh. 2190 “Transporte de sustancias
+peligrosas – Distintivos para identificación de riesgos”.
+• Protocolo de recambio del aceite de transformadores por parte de la
+empresa responsable del transporte y retiro del en caso de que se produzca
+un fallo eléctrico y se requiera su reemplazo.
+Para el manejo de sustancias peligrosas (lubricantes, aceites y combustible) y residuos
+peligrosos (aceites usados, huaipes, paños y EPP sucios con aceite) y prevención de
+potenciales derrames, se han de tener en consideración las siguientes medidas
+preventivas:
+• Almacenamiento de sustancias y residuos peligrosos de acuerdo al D.S.
+Nº43/2016 del Ministerio de Salud, “Aprueba Reglamento de
+almacenamiento de sustancias peligrosas” y en el D.S. Nº 148/2003 del
+Ministerio de Salud, “Aprueba Reglamento sanitario sobre manejo de
+residuos peligrosos”.
+• Revisión de cámaras de contención de bodegas de sustancias y residuos
+peligrosos, verificando que sean capaces de contener los volúmenes
+normados en caso de derrame, mantener las cámaras tapadas evitando se
+altere su contenido en caso de lluvias.
+• Se contará con un procedimiento de carguío de combustible.
+• Capacitación al personal que manipule y almacene sustancias y residuos
+peligrosos.
+• Disposición de medios de contención y limpieza de derrames.
+• Disposición en el recinto de las Hojas de Datos de Seguridad de las sustancias
+y residuos peligrosos manipuladas y/o almacenadas en las instalaciones.
+• Mantención del inventario y control sobre el uso de las sustancias y residuos
+peligrosos.
+Para la carga de combustible se considerará lo siguiente:
+• Antes de iniciar la carga: se efectuará la conexión a tierra para eliminar la
+electricidad estática; la carga se deberá efectuar bajo la supervisión de una
+persona y se deberá colocar el extintor en un lugar de fácil acceso.
+• Durante la descarga: se colocarán triángulos o conos de seguridad para
+impedir el paso de personal ajeno a la labor.
+Estanque de combustible:
+8-21
+================================================================================
+PAGE 26
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgos asociados al transporte, manejo, almacenamiento y derrame de sustancias
+Riesgo o contingencia
+y/o residuos peligrosos con potencial de afectar suelos y cursos de agua.
+• Cumplirá con las disposiciones de la Superintendencia de Electricidad y
+Combustibles (SEC) y será declarado ante este mismo organismo.
+• Contará con un sistema de control de derrames.
+• Contará con una zona de carga y descarga, la cual estará impermeabilizada.
+• Se dispondrá de material absorbente para contener eventuales derrames.
+• Se controlará la evolución de los accidentes, detectando si los cambios
+experimentados son debidos a una fluctuación aleatoria o a un nuevo factor
+que ha modificado las condiciones de seguridad. De acuerdo a lo resultados
+Forma de control y que se obtengan, se tomarán las medidas correctivas correspondientes.
+seguimiento • Control periódico de las condiciones de trabajo, basado principalmente en
+inspecciones de terreno.
+• Se velará por la mejora continua de los procedimientos de trabajo de cada
+una de las actividades asociadas al Proyecto.
+Fuente: Elaboración propia, 2024.
+8.6.2.9 Riesgo de afectación de fauna silvestre
+Tabla 8-10. Medidas a Implementar –Afectación de Fauna Silvestre
+Riesgo o contingencia Afectación de fauna silvestre.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+El protocolo establece las siguientes medidas a modo de prevenir la ocurrencia de
+incidentes como atropello y/o muerte accidental de fauna silvestre. Algunas de estas
+medidas están contenidas en la Guía de Evaluación Ambiental Componente Fauna
+Silvestre (SAG, 2016), y se incluyen medidas tales como:
+• Capacitar a los trabajadores del Proyecto (a través de folletos, carteles y/o
+charlas) de modo de crear conciencia de la necesidad de conocer, valorar y
+conservar la fauna. También se impartirán charlas al personal acerca de la
+Acciones o medidas a potencial fauna presente en el área, del resguardo y cuidado de la misma, así
+implementar como del procedimiento de actuación en caso de un hallazgo.
+• Capacitación a personal de Proyecto sobre el eventual cruce de animales,
+indicando la prohibición de uso de bocinas en el caso de encuentro con Fauna
+en área de tránsito de vehículos.
+• Velocidad máxima de desplazamiento de los vehículos al interior de las obras
+del Proyecto de 35 km/h.
+• Se prohibirá alimentar a animales, para evitar domesticar a estos y atraerlos
+permanentemente al sector del Proyecto.
+8-22
+================================================================================
+PAGE 27
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Afectación de fauna silvestre.
+Es importante indicar que la capacitación en materias de protección de fauna silvestre
+que se realizará al personal involucrado, tanto externo como interno del Proyecto,
+durante la construcción, operación y cierre, será previamente informado al Servicio
+Agrícola y Ganadero (SAG).
+Forma de control y Se capacitará al personal referente a la fauna presente en el área del Proyecto, para
+seguimiento lo cual se dejará un registro firmado de los asistentes a dicha capacitación.
+Fuente: Elaboración propia, 2024.
+8.6.2.10 Riesgo de derrame de hidrocarburos en medio terrestre y acuático
+producto de la modificación de trazado de oleoducto de ENAP
+Tabla 8-11. Medidas a Implementar – Derrame de hidrocarburos en medio terrestre y acuático producto de la
+modificación de trazado de oleoducto de ENAP
+Derrame de hidrocarburos en medio terrestre y acuático producto de la
+Riesgo o contingencia
+modificación de trazado de oleoducto de ENAP
+Fase del Proyecto a la que
+Operación
+aplica
+Parte, obra o acción asociada Construcción modificación de trazado
+Se cortará el flujo del oleoducto, cerrando las válvulas más cercanas al inicio y fin
+del trazado a modificar.
+Se venteará el gas a través de los venteos del sistema mediante el
+desplazamiento de gas inerte.
+Se desmantelará la tubería, siendo acopiada dentro del mismo terreno según el
+Acciones o medidas a
+tipo de residuos del que se trate.
+implementar
+Se retirarán los carteles indicadores a lo largo del tramo del oleoducto
+modificado.
+Los residuos provenientes del desmantelamiento serán manejados según su
+categoría de peligrosidad (residuos no peligrosos y residuos peligrosos), siendo
+dispuestos en lugares autorizados por la autoridad sanitaria.
+Se elaborará un informe final de la instalación del trazado. En este se describirá
+Forma de control y el procedimiento de instalación.
+seguimiento Se mantendrá registro fotográfico de la construcción e instalación del nuevo
+tramo.
+Fuente: Elaboración propia, 2024.
+8.6.2.11 Riesgo de derrame de aguas servidas
+Tabla 8-12. Medidas a Implementar – Derrame de aguas servidas
+Riesgo o contingencia Derrame de aguas servidas
+Fase del Proyecto a la que
+Construcción, operación y cierre.
+aplica
+Parte, obra o acción asociada Plantas de tratamiento de aguas servidas y baños químicos
+8-23
+================================================================================
+PAGE 28
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Riesgo o contingencia Derrame de aguas servidas
+• Se realizarán mantenciones periódicas a los sistemas sanitarios con que
+cuenta el Proyecto, con el objetivo de verificar que no existan
+Acciones o medidas a problemas operativos
+implementar • Las mantenciones y retiros serán ejecutados por empresas autorizadas.
+• Se contarán con las autorizaciones sanitarias de acuerdo con la
+normativa.
+Forma de control y • Registro de mantenciones.
+seguimiento • Copia de autorizaciones sanitarias correspondientes.
+Fuente: Elaboración propia, 2024.
+8.6.2.12 Riesgo en caso de que no se pueda reutilizar el efluente de las PTAS
+Tabla 8-13. Medidas a Implementar – En caso de que no se pueda reutilizar el efluente de las PTAS
+Riesgo o contingencia En caso de que no se pueda reutilizar el efluente de las PTAS
+Fase del Proyecto a la que
+Construcción, operación y cierre.
+aplica
+Parte, obra o acción asociada Plantas de tratamiento de aguas servidas
+• Se implementan drenes de emergencia para el 50% del efluente
+generado en el día por cada PTAS.
+Acciones o medidas a • Se verificará el monitoreo del efluente comprometido de manera
+implementar semestral y el cumplimiento normativo del Nch 1333 of 78
+• Se mantendrá registro de la medición de parámetros tales como pH,
+temperatura, cloración, que se realizará a lo menos diariamente.
+Forma de control y
+• Registro de mediciones realizadas.
+seguimiento
+Fuente: Elaboración propia, 2024.
+8.7 Plan de Emergencias
+El Plan de Emergencias describe las acciones a implementar en caso de que se produzca una emergencia,
+con objeto de controlar dicha emergencia y/o minimizar sus efectos sobre el medio ambiente y/o la
+población.
+El presente Plan de Emergencias consta de los siguientes apartados:
+- Identificación de los escenarios de accidentes que pueden afectar al medio ambiente y/o a la
+población (Análisis de Riesgos).
+- Descripción de los medios de protección para combatir las emergencias.
+- Estructura organizativa de respuesta en caso de emergencia.
+- Procedimientos de actuación para cada uno de los escenarios de accidentes identificados.
+- Mantención del Plan de Emergencias.
+- Plan de capacitación y entrenamiento.
+8-24
+================================================================================
+PAGE 29
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+- Primeros auxilios.
+8.7.1 Análisis de riesgos
+Un accidente puede ocurrir en cualquier lugar de las instalaciones del Proyecto donde se produzca un
+incidente que no sea controlado eficazmente. Las instalaciones tienen asociado un determinado nivel de
+riesgo, derivado de la posibilidad de inducir consecuencias adversas sobre elementos vulnerables
+(población, bienes materiales y medio ambiente), como resultado de los efectos dañinos originados por
+sucesos incontrolados en sus instalaciones o actividades.
+Se han identificado los siguientes escenarios en los que se podría producir una situación de emergencia
+que pudiera afectar al medio ambiente y/o a la población:
+- Escenario 1: Sismos y tsunamis.
+- Escenario 2: Condiciones climatológicas adversas (fuertes lluvias, vientos intensos).
+- Escenario 3: Riesgos por accidentes laborales.
+- Escenario 4: Riesgo asociados al transporte de personal y/o insumos.
+- Escenario 5: Riesgos asociados al transporte, manejo y almacenamiento de sustancias y/o residuos
+peligrosos con potencial de afectar suelos y cursos de agua.
+- Escenario 6: Riesgos por incendios industriales y forestales.
+- Escenario 7: Riesgo de afectación a fauna silvestre.
+- Escenario 8: Riesgo de inundación o anegamiento.
+- Escenario 9: Riesgo por deslizamiento de tierra y/o materiales.
+- Escenario 10: Riesgo por derrame de hidrocarburos en medio ambiente y acuático producto de la
+construcción de la modificación de trazado de oleoducto de ENAP.
+- Escenario 11: Riesgo por derrame de aguas servidas.
+- Escenario 12: Riesgo en caso de que no se pueda reutilizar el efluente de las PTAS.
+8.7.2 Medios de protección
+Todo personal deberá conocer las medidas para reducir los riesgos de las posibles contingencias, el
+procedimiento para el control de la emergencia y la distribución de los equipos contra incendios, de
+control de derrames y de primeros auxilios.
+8.7.2.1 Sistema de extinción manual
+Todos los extintores deberán ubicarse en lugares accesibles y con letreros que indiquen el tipo de incendio
+que se debe de atacar con el equipo:
+8-25
+================================================================================
+PAGE 30
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+- Extintores portátiles de polvo químico seco, diseñados para proteger áreas que contengan riesgo
+de incendio clase A (combustibles sólidos comunes), clase B (combustibles líquidos) y clase C
+(gases inflamables, equipos energizados eléctricamente).
+- Extintores portátiles de CO , diseñados para proteger áreas que contengan riesgo de incendio
+2
+clase B (combustibles líquidos) y clase C (gases inflamables, equipos energizados eléctricamente).
+Todos los extintores deberán ser inspeccionados de forma periódica, verificando visualmente que las
+partes que lo componen (manómetro, palanca de disparo, válvula de salida, manguera de descarga,
+boquilla y cono de descarga) se encuentran en óptimas condiciones y cuente además con la identificación
+de la case de fuego para los que son aptos. Adicionalmente, se deberá verificar que se encuentren cargados
+con agente extintor y cuenten con el registro de mantenimiento mensual requerido.
+8.7.2.2 Materiales para el control de derrames
+En las zonas de manejo y almacenamiento de sustancias y residuos peligrosos se deberán mantener los
+elementos básicos para la atención y el control de derrames. El kit para el control de derrames estará
+conformado por los siguientes elementos:
+Material absorbente:
+• Barreras absorbentes: Requeridas para la contención de derrames de sustancias o
+residuos líquidos.
+• Palmetas o paños absorbentes: Utilizados para la contención de pequeños derrames
+y/o controlar fugas por goteo en válvulas y acoples.
+• Tierras absorbentes: Tierras diatomeas o vermiculita.
+Herramientas:
+• Palas anti chispa.
+• Martillo de caucho y kit de tacos de madera, útiles para taponar fugas por agujeros.
+Elementos de protección personal:
+• Guantes de caucho nitrilo.
+• Mascarillas de seguridad para vías respiratorias.
+• Cintas de señalización para delimitar el área del incidente y evitar la entrada de
+personal ajeno a la emergencia.
+Otros elementos:
+Bolsas y tambores para recolectar el material derramado.
+8.7.2.3 Equipos de primeros auxilios
+Se deberán considerar los siguientes equipos de primeros auxilios y apoyo:
+8-26
+================================================================================
+PAGE 31
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Botiquines de primeros auxilios completos.
+• Máscaras para respiración.
+• Línea de protección a tierra.
+• Equipos de protección personal.
+• Equipos de camillaje e inmovilización.
+8.7.3 Organización de la emergencia
+8.7.3.1 Niveles de Emergencia
+En función de la gravedad de la emergencia se determinan los medios de protección, humanos y materiales
+que deberán ser movilizados para hacer frente a las situaciones de emergencia que pueden darse en las
+instalaciones; se distinguen tres Niveles de Emergencia.
+Nivel 1 o Conato de Emergencia: Situación en la que el riesgo o accidente que la provoca puede ser
+neutralizado de forma sencilla y rápida, con los medios y recursos disponibles presentes en el momento y
+lugar del accidente.
+Nivel 2 o Emergencia Parcial: Situación en la que el riesgo o accidente requiere para ser controlado la
+intervención de equipos designados e instruidos expresamente para ello; afecta a una zona de las
+instalaciones y puede ser necesaria la “evacuación parcial” o desalojo de la zona afectada.
+Nivel 3 o Emergencia General: Situación en la que el riesgo o accidente pone en peligro la seguridad e
+integridad física de las personas y es necesario proceder al desalojo o evacuación, abandonando las
+instalaciones. Requiere la intervención de Ayuda Externa.
+Se ha de resaltar que un mismo accidente puede, debido a su evolución, conducir a diferentes Niveles de
+Emergencia.
+8.7.3.2 Estructura de la Emergencia
+La Estructura Organizativa de Emergencia se diseña para salvaguardar y proteger a las personas presentes,
+instalaciones y medio ambiente, en el momento de la Emergencia, estando constituida por un conjunto
+de Equipos de Emergencia, específicamente el Equipo de Intervención y el Equipo de Apoyo.
+Estos equipos estarán especialmente entrenados para prevenir y actuar en caso de emergencia dentro del
+ámbito de las instalaciones del Proyecto.
+La estructura organizativa, en caso de situación de emergencia se indica en la Figura 8-1.
+8-27
+================================================================================
+PAGE 32
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 8-1. Estructura organizativa de la Emergencia
+Director de
+Emergencia
+Jefe de Emergencia Equipo de Apoyo
+Equipo de Intervención
+Fuente: Elaboración propia, 2024.
+Las funciones de los Equipos de Emergencia indicados son las siguientes:
+Director de Emergencia: Asume la máxima responsabilidad en la estructura del Plan de Emergencias,
+teniendo la autoridad necesaria para tomar las decisiones de mayor alcance y responsabilidad en caso de
+cualquier tipo de emergencia. Es el coordinador general de los esfuerzos para neutralizar la emergencia.
+Tendrá atribuciones absolutas para disponer del personal, equipos y medios que estime necesarios para
+el mejor desarrollo de su función. Es el responsable de emitir las comunicaciones internas y externas;
+asimismo, es la única persona autorizada para entregar información a los medios de comunicación.
+Jefe de Emergencia: Asume el liderazgo de las operaciones de respuesta a la emergencia. Su función es la
+de valorar la emergencia y asumir la dirección de coordinación de los Equipos de Emergencia.
+Equipo de Apoyo: Se encargan de gestionar y coordinar todas las intervenciones con recursos externos a
+petición del Director de Emergencia.
+Equipo de Intervención: Estará compuesto por personal con formación y adiestramiento adecuado en la
+lucha contra incendios, así como en primeros auxilios. Conocen los riesgos generales y particulares que
+presentan las diferentes actividades desarrolladas en las distintas fases del Proyecto. Tienen conocimiento
+de la existencia y uso de los medios materiales de extinción de los que se dispone.
+8.7.3.3 Criterios de activación del Plan de Emergencia
+La activación del Plan de Emergencia se produce desde el momento en que ocurre una anomalía en la
+instalación que pueda generar un accidente, principalmente:
+En caso de recibir una alarma de accidente en las instalaciones de Nivel 1, 2 o 3.
+8-28
+================================================================================
+PAGE 33
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En el caso de que un accidente no calificado de Nivel 1, 2 o 3 evolucione de forma desfavorable a alguno
+de estos niveles o el Director de Emergencia lo considere necesario como medida preventiva.
+En caso de amenaza o sabotaje exterior.
+8.7.3.4 Sistema de comunicación ante emergencias y oportunidad de aviso
+Los trabajadores de las instalaciones dispondrán de medios de comunicación (comunicador portátil o
+walkie-talkie o similares) para situaciones de emergencia. Todas las comunicaciones entre los distintos
+grupos de Emergencia se realizarán por canales exclusivos para dicho fin durante una emergencia.
+Para aquellas contingencias que tengan relación con aspectos ambientales, asociados a Eventos Naturales,
+transporte, manejo y derrame de sustancias y/o residuos peligrosos, Incendios y alteración de elementos
+patrimoniales (en el caso de hallazgos), se deberá informar a la Oficina Regional de la Superintendencia de
+Medio Ambiente de la Región del Biobío de la contingencia acaecida. El responsable de informar a la SMA
+será el Jefe de Emergencia de Faena de Construcción, Operación o Faena de Cierre según corresponda.
+Los datos de contacto de apoyo externo en caso de situación de emergencia se indican en la Tabla 8-14.
+Tabla 8-14. Datos de contacto apoyo externo
+APOYO EXTERNO NÚMERO TELÉFONO
+Bomberos 132
+Bomberos de Penco 41 - 2453670
+22 - 4018580
+SENAPRED Región del Biobío
+41 - 2528383
+Carabineros de Chile
+41 - 2141318
+Tenencia Penco
+SAMU (Servicio Atención Médica de Urgencia) 131
+41 - 2726100
+SEREMI de Salud Región del Biobío
+41 - 2726101
+SEA Región del Biobío 41 - 2791750
+Superintendencia de Medio Ambiente Región del Biobío 41 - 2568364
+Dirección Regional de Vialidad Región del Bío – Bío
+41 - 2852142
+Provincia de Concepción
+41 - 2624062
+Corporación Nacional Forestal (CONAF) Biobío
+41 - 2223848
+Servicio Agrícola y Ganadero (SAG) Biobío Of. Concepción 41 - 2228684
+Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)
+41 - 3169000
+Oficina Talcahuano
+41 - 2650286
+Oficina Tome
+Fuente: Elaboración propia, 2024.
+8-29
+================================================================================
+PAGE 34
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.7.4 Procedimientos de actuación ante emergencias
+A continuación, se describe el procedimiento general de actuación en caso de emergencia, así como
+también los procedimientos generales de actuación para cada uno de los escenarios identificados.
+8.7.4.1 Procedimiento general de actuación en caso de emergencia
+1. La activación del Plan de Emergencia se produce desde el momento en que ocurre una anomalía
+en la instalación que pueda generar un accidente. La detección de una situación de emergencia se
+podrá producir de forma visual por personal propio, contratistas o visitas.
+2. Cualquier persona que se percate de una anomalía que pueda ser motivo de una emergencia, debe
+actuar de la siguiente manera:
+• Dar la alarma a su supervisor directo con los medios de comunicación disponibles.
+• Intentar controlar la emergencia con los medios que tenga a su alcance, en ningún
+caso arriesgando su integridad física.
+Localizar al Director y al Jefe de Emergencia notificando la situación que, previamente, se habrá
+confirmado como verídica.
+En caso de tener misiones asignadas, se incorporará a su puesto una vez que finalice la emergencia.
+3. El Director de Emergencia declarará el Nivel de Emergencia una vez obtenidos los datos de la
+emergencia y asesorado por el Jefe de Emergencia.
+4. Se dará aviso al personal de la activación del Plan de Emergencia por el sistema que se considere
+más adecuado.
+5. El personal de intervención actuará de acuerdo con lo indicado en los procedimientos específicos
+de actuación, aplicando las siguientes normas generales:
+• Mantener la calma y evitar el pánico.
+Avisar al Director de Emergencia identificando claramente el accidente.
+• Socorrer prioritariamente a los posibles afectados.
+• Tener presente la posible presencia y formación de vapores inflamables.
+• Mantener alejadas (o anular) las posibles fuentes de ignición.
+Actuar siguiendo las indicaciones del Jefe de Emergencia.
+6. El personal sin tarea específica asignada en el Plan de Emergencias deberá parar todo tipo de
+trabajo de forma segura y dirigirse al Punto de Reunión determinado a esperar instrucciones.
+7. Una vez que el Jefe de Emergencia considere que la situación de emergencia se puede dar por
+concluida, propondrá al Director de Emergencia el fin de la misma.
+8-30
+================================================================================
+PAGE 35
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8. Tras decretar el Director de Emergencia el fin de ésta, se procederá a la restauración de la
+operatividad de la faena.
+9. El Director de Emergencia ordenará la investigación de las causas y condiciones de la emergencia,
+a fin de obtener el conocimiento necesario para la adopción de acciones preventivas y correctoras.
+8.7.4.2 Procedimiento de notificación a las autoridades
+De acuerdo a lo establecido en el Art. Nº104 del Reglamento del Sistema de Evaluación de Impacto
+Ambiental, el Plan de Emergencias deberá considerar lo siguiente:
+“… deberá describir las acciones a implementar en caso de que se produzca una emergencia.
+El objetivo de estas medidas es controlar la emergencia y/o minimizar sus efectos sobre el
+medio ambiente o la población. Asimismo, indicará la oportunidad y vías de comunicación
+a la Superintendencia de la activación de dicho Plan”.
+El Director de Emergencia será el responsable de que se dé aviso de forma inmediata vía telefónica, a la
+Superintendencia de Medio Ambiente y a las autoridades con competencia. Dependiendo del tipo de
+emergencia, se avisará a SEA Regional, Dirección Regional del SAG, Dirección Regional de Vialidad, Seremi
+de Salud, Municipalidad de las Comunas afectadas, etc.
+Dicha notificación incluirá, al menos, la siguiente información:
+Comunicación, a la mayor brevedad posible, de las circunstancias y datos relevantes de la emergencia,
+incluyendo:
+• Identificación de la empresa.
+• Tipo y categoría del accidente.
+• Descripción de la instalación siniestrada.
+• Descripción, si es el caso, de la sustancia o sustancias involucradas.
+• Descripción de la situación actual del accidente.
+• Efectos del accidente y acciones que se han tomado hasta el momento.
+Una vez analizada la emergencia, remitir las causas y efectos de la misma, así como las medidas de
+seguridad adoptadas.
+En caso de investigación en más detalle, actualización de la información ya facilitada.
+8-31
+================================================================================
+PAGE 36
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.7.4.3 Procedimiento de actuación en caso de sismos y tsunamis
+Tabla 8-15. Procedimiento de Actuación Frente a Sismos y Tsunamis
+Situación de
+Plan de acción frente a sismos y tsunamis.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+Parte, obra o acción
+asociada Instalación de faenas.
+Planta de Procesamiento.
+En caso de que se produzca un sismo de intensidad IV o más en escala de Mercalli se
+llevarán a cabo las siguientes acciones:
+• El personal suspenderá cualquier actividad que esté realizando y se dirigirá al
+área de zona de seguridad más cercana, la cual deberá estar ubicada en un área
+abierta y alejada de las instalaciones que puedan involucrar riesgo de
+desplome/derrumbe.
+• No se debe actuar impulsivamente ya que ello aumenta el riesgo de lesiones y
+contribuye a aumentar el pánico.
+• Habrá que alejarse de las ventanas, ya que la vibración puede ocasionar la
+ruptura de los vidrios.
+• Si se encuentra bajo techo hay que protegerse de la caída de lámparas,
+artefactos eléctricos, maderas, libros, cuadros, etc.
+• Permanecerá en la zona de seguridad hasta que el sismo finalice. Sólo en casos
+puntuales como daños visibles y considerables en la edificación tales como
+caída de muros, fractura de columnas se podrá evacuar una zona.
+Acciones a
+• En áreas externas de edificios habrá que alejarse de paredes, postes, cables
+implementar
+eléctricos y otros elementos que puedan caerse.
+• Si se está manejando una unidad motorizada se guiará la unidad con
+precaución a un lugar seguro y se procederá a detener la unidad.
+Después de un sismo:
+• Se debe permanecer en silencio y en calma.
+• Dependiendo de la magnitud del sismo, se debe proceder a la evacuación total
+de edificios hacia las zonas de seguridad asignadas.
+• Evacuar rápido, pero sin correr, manteniendo la calma, el orden y en silencio,
+evitando producir aglomeraciones.
+• En caso de quedarse atrapado, se debe procurar utilizar una señal visible o
+sonora.
+• Verificar si existen focos de incendio, se debe informar de inmediato.
+• Se observará si hay personas heridas, no moviendo a los lesionados a no ser
+que estén en peligro de sufrir nuevas heridas.
+8-32
+================================================================================
+PAGE 37
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a sismos y tsunamis.
+emergencia
+• Esperar 30 minutos en la zona de seguridad por posibles replicas.
+• Se realizará una inspección en las instalaciones con el fin de verificar su estado
+y descartar la existencia de daños que puedan ocasionar el colapso o derrumbe
+de estructuras.
+• Se elaborará un informe de daños y se mantendrá comunicación con las
+autoridades locales y de emergencias.
+• No se activarán las faenas hasta que se haya comprobado que no existe riesgo
+de colapso estructural de las instalaciones.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), SENAPRED y
+SEREMI Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no
+superior a 15 días de ocurrido el evento, se enviará un informe de la emergencia, el cual
+contendrá a lo menos:
+Oportunidad y vías de
+comunicación a la SMA • Fecha, hora y lugar de ocurrencia.
+de la Activación del • Motivo de la emergencia.
+Plan • Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.)
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.4 Procedimiento de actuación en caso de condiciones climatológicas adversas
+Tabla 8-16. Procedimiento de Actuación Frente Condiciones Climatológicas Adversas
+Situación de Plan de acción frente a condiciones climatológicas adversas (fuertes lluvias, vientos
+emergencia intensos).
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+• Instalación de faenas.
+Parte, obra o acción • Planta de procesamiento.
+asociada • Zonas de extracción de arcillas.
+• Zona de disposición de lastre y arcillas lavadas.
+• Zona de acopio de suelo vegetal.
+• Actividades de habilitación de caminos.
+El Coordinador en la faena establecerá contacto con el Servicio Nacional de Prevención
+Acciones a
+y Respuesta ante Desastres (SENAPRED) para notificar respecto a:
+implementar
+• Fenómeno natural previsto.
+8-33
+================================================================================
+PAGE 38
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de Plan de acción frente a condiciones climatológicas adversas (fuertes lluvias, vientos
+emergencia intensos).
+• Evolución esperada del fenómeno natural en las subsiguientes horas.
+• Estado de las vías y caminos de acceso al Proyecto.
+• Estatus del servicio telefónico y otros canales de comunicación.
+• Medios de movilización dispuestos desde el Servicio Nacional de Prevención y
+Respuesta ante Desastres (SENAPRED).
+El Jefe de la Emergencia ordenará, cuando sea necesario, la cancelación de las
+operaciones y maniobras que no sean de mayor importancia en el momento, tales
+como:
+• Carga o descarga de sustancias, residuos, materiales e insumos.
+• Funcionamiento de maquinarias y equipos que puedan representar un riesgo
+en caso de ocurrir un fenómeno natural.
+• Maniobras de maquinarias en general.
+• No se permitirán que los trabajadores permanezcan en instalaciones que se
+encuentren en construcción o de carácter temporal debido al riesgo de
+derrumbe.
+El Jefe de la Emergencia ordenará la verificación del estado y la seguridad de:
+• Instalaciones, en general.
+• Equipos o accesorios que puedan ser desplazados como consecuencia del
+fenómeno natural previsto. Prestar especial atención a estructuras y
+construcciones de tipo temporal (por ejemplo: casetas de construcción,
+andamios, etc.).
+• Trasladar equipos móviles a niveles por encima del nivel del suelo.
+El Jefe de la Emergencia ordenará la activación de la alarma y, si es necesario, la
+evacuación hacia el punto de reunión.
+• Se calmará al personal, para evitar el pánico y minimizar mayores efectos que
+la emergencia pudiera originar en las personas.
+• Todo el personal se dirigirá a las zonas de seguridad establecidas a través de
+las salidas de emergencias más cercanas a su lugar de trabajo, las cuales se
+encontrarán debidamente identificadas y señalizadas.
+• Los trabajadores deberán seguir en todo momento las instrucciones del Jefe de
+la Emergencia. Sólo se podrá volver al lugar de trabajo si el Jefe de la
+Emergencia lo permite.
+• Se prohibirá el uso de equipos y/o instrumentos eléctricos al interior de todas
+las dependencias durante el evento climático, ordenando además que el
+personal se mantenga alejado de puertas, ventanas, pilares o estructuras
+metálicas.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará, en lo posible,
+Oportunidad y vías de
+dentro de las primeras 24 horas a la Superintendencia de Medio Ambiente (SMA),
+comunicación a la SMA
+SENAPRED y SEREMI Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en
+8-34
+================================================================================
+PAGE 39
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de Plan de acción frente a condiciones climatológicas adversas (fuertes lluvias, vientos
+emergencia intensos).
+de la Activación del un plazo no superior a 15 días de ocurrido el evento, se enviará un informe de la
+Plan emergencia, el cual contendrá a lo menos:
+• Fecha, hora y lugar de ocurrencia.
+• Motivo de la emergencia.
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc).
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.5 Procedimiento de actuación en caso de accidentes laborales
+Tabla 8-17. Procedimiento de Actuación Frente Accidentes Laborales
+Situación de
+Plan de acción frente accidentes laborales.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+Una vez que se detecte una situación de emergencia provocada por un accidente
+laboral, se debe dar aviso al Supervisor inmediato, quien a su vez informa al Jefe de la
+Emergencia para que valore la situación y coordine las acciones correspondientes.
+Siempre y cuando la situación de la emergencia lo permita, los miembros capacitados
+del personal (en principio, Equipo de Intervención) deberán prestar los primeros auxilios
+pertinentes.
+No obstante, si se es testigo de un accidente se deben tomar en consideración las
+siguientes acciones:
+Acciones a • No alterarse, no gritar, ni correr desesperadamente por ayuda o para auxiliar
+implementar al accidentado. Se debe mantener la calma e informar de la situación a su
+supervisión y/o números de emergencia como se ha indicado con anterioridad.
+• Acercarse al accidentado y confirmar si está con vida, si está consciente y cuál
+es la gravedad de sus lesiones. Si está consciente, se debe conversar con él
+accidentado, tratar de calmarlo y evitar que se mueva.
+• Si el accidentado está atrapado, no se debe intentar realizar un rescate a menos
+que sea de extrema necesidad (si una estructura está cediendo, si existe
+corriente, fuego o agua, si existe riesgo toxico, etc.).
+• Sólo si se poseen conocimientos de primeros auxilios y las condiciones de él o
+los afectados lo permiten, se debe intentar prestar apoyo. No se debe mover
+8-35
+================================================================================
+PAGE 40
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente accidentes laborales.
+emergencia
+al afectado ya que siempre se debe presumir daño en la espalda u órganos
+internos.
+• El traslado del accidentado se deberá hacer sólo si la gravedad del mismo lo
+permite y si se tienen los implementos necesarios (cuellos, tablas, mantas,
+etc.).
+• Una vez llegada la atención de emergencia se debe despejar el área y permitir
+a los profesionales realizar sus labores, sólo prestando apoyo si ellos lo indican.
+Cualquier información que se haya visto o que se haya obtenido del
+accidentado será de utilidad indicarla.
+En caso de ser uno mismo el que ha sufrido un accidente, el propio accidentado tendrá
+en cuenta los siguientes pasos a realizar:
+• El accidentado no debe alterarse ni gritar desesperadamente. Se debe
+mantener la calma, cuidando las fuerzas y solicitando ayuda mediante llamadas
+y gestos tanto a compañeros como a la supervisión y/o números de
+emergencia, teniendo en cuenta que si hay más compañeros en el área ya
+deben de estar yendo en su ayuda.
+• No hay que intentar realizar movimientos bruscos a menos que sea de extrema
+necesidad (si una estructura está cediendo, si existe corriente, fuego o agua, si
+existe riesgo tóxico, etc.).
+• Si presenta alguna parte del cuerpo está emanando un abundante flujo de
+sangre, se presionará con algo de fuerza para tratar de evitar un
+desangramiento.
+• Se esperará a la atención de compañeros con cursos de primeros auxilios o
+profesionales de la salud.
+Una vez que el personal especializado llegue al área deberán realizar una evaluación
+preliminar y rápida de:
+• Número de lesionados.
+• Condiciones especiales (atrapamiento, aplastamientos, suspendidos,
+quemaduras, etc.).
+• Tipo de lesiones.
+• Riesgos inminentes del lugar (peligro de caída, derrame, etc.).
+• Una vez realizada la evaluación inicial y estabilizados los pacientes, se
+trasladarán al centro de salud para completar la atención médica. El traslado
+debe ser mediante el transporte adecuado, es decir en una ambulancia, a
+menos que el profesional evaluador así lo indique.
+• En el lugar de atención de emergencias más cercano, el médico procederá a
+evaluar la emergencia e iniciará el tratamiento que estime conveniente y
+necesario.
+8-36
+================================================================================
+PAGE 41
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente accidentes laborales.
+emergencia
+En conformidad con lo dispuesto en el Artículo 76º de la Ley N° 16.744 y en Compendio
+SUSESO (Superintendencia de Seguridad Social) Libro IV Título I Letra D, en caso de que
+ocurra un accidente del trabajo grave o fatal, la empresa deberá cumplir con las siguientes
+obligaciones:
+• Suspender de forma inmediata las faenas afectadas y, de ser necesario,
+permitir a los trabajadores evacuar el lugar de trabajo.
+• Informar inmediatamente de lo ocurrido a la Inspección del Trabajo y a la
+Secretaría Regional Ministerial de Salud de la Región de Biobío.
+Oportunidad y vías de
+El Director de la Emergencia informará de lo ocurrido a la Inspección del Trabajo y a la
+comunicación a la SMA
+Secretaría Regional Ministerial de Salud de la Región de Biobío máximo 48 horas
+de la Activación del
+ocurrido el evento.
+Plan
+Fuente: Elaboración propia, 2024.
+8.7.4.6 Procedimiento de actuación en caso de accidente en el transporte de personal
+y/o insumos del Proyecto
+Tabla 8-18. Procedimiento de Actuación Frente Accidentes en Transporte de Personal y/o Insumos del Proyecto
+Situación de Plan de acción frente accidentes en transporte de personal, insumos, sustancias y
+emergencia residuos peligrosos.
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+En las actividades de transporte de insumos o personal.
+asociada
+En caso de que se produzca un accidente en el transporte, se debe dar aviso al
+Supervisor inmediato, quien a su vez informa al Jefe de la Emergencia para que valore
+la situación y coordine las acciones correspondientes. Luego de dar el aviso, se deberá
+actuar del siguiente modo:
+• Recopilar información sobre el accidente ocurrido (mediante la colaboración
+del personal presente en la zona):
+o Personas afectadas.
+Acciones a
+o Instalaciones o vehículos involucrados.
+implementar
+o Sustancias/residuos involucradas y peligrosidad de los mismos. Si
+las sustancias involucradas están clasificadas como Sustancias
+Peligrosas, el conductor del vehículo dispondrá de Hoja de Datos
+de Seguridad para Transporte para dichas sustancias.
+o Situación de los vehículos accidentados y de los insumos y/o
+sustancias transportadas.
+o Servicios de emergencia que han sido avisados (Carabineros,
+Bomberos, SAMU, etc.).
+8-37
+================================================================================
+PAGE 42
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de Plan de acción frente accidentes en transporte de personal, insumos, sustancias y
+emergencia residuos peligrosos.
+• Una vez evaluado el escenario, contactar con el Equipo de Intervención en caso
+necesario.
+• En caso de que haya heridos, asegurar el vehículo antes de ingresar a atender
+a los pacientes. No mover el vehículo, no intentar voltearlo, tirarlo o arrastrarlo
+con los accidentados adentro.
+• Estabilizar y extraer a los accidentados en presencia de personal médico.
+• Realizar el aseguramiento del área. Para ello se debe establecer un perímetro
+y estabilizar el vehículo accidentado en posición de seguridad.
+• Verificar que existe una línea cargada de agua (red húmeda) o extintor portátil,
+aunque no exista fuego en el momento.
+• En caso necesario, controlar el derrame de combustible o de sustancias
+peligrosas, mediante barreras de contención y absorción de las sustancias. Usar
+EPP adecuados para la tarea.
+• Una vez controlada la situación de emergencia, el Jefe de Emergencia
+informará del hecho al Director de Emergencia, decretando éste el final de la
+misma.
+• Los datos del accidente o contingencia quedarán incorporados en un registro
+para confeccionar un informe preliminar de incidentes.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA) y SEREMI Medio
+Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no superior a 15 días
+de ocurrido el evento, se enviará un informe de la emergencia, el cual contendrá a lo
+menos:
+Oportunidad y vías de
+comunicación a la SMA
+• Fecha, hora y lugar de ocurrencia.
+de la Activación del
+• Motivo de la emergencia.
+Plan
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.7 Procedimiento de actuación en caso de derrame de sustancias y/o residuos
+peligrosos con potencial de afectar suelos y cursos de agua
+Tabla 8-19. Procedimiento de Actuación Frente a Derrames de Sustancias y/o Residuos Peligrosos
+Situación de
+Plan de acción frente a derrames de sustancias y/o residuos peligrosos
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+8-38
+================================================================================
+PAGE 43
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a derrames de sustancias y/o residuos peligrosos
+emergencia
+Las áreas con mayor probabilidad de ocurrir un evento no deseado corresponden a
+aquellas donde existe manejo y almacenamiento de sustancias y residuos peligrosos,
+tales como:
+Parte, obra o acción
+• Estanque de combustible.
+asociada
+• Bodega de residuos peligrosos.
+• Bodega de sustancias peligrosas.
+• Área de grupos electrógenos.
+En el caso de derrame de alguna sustancia peligrosa en volúmenes que superen los 200
+l en áreas de trabajo, al exterior de la planta de procesamiento, los pasos a seguir para
+su control son:
+• Una vez se detecte el derrame, avisar en forma inmediata al Director de
+Emergencia para activar el Plan de Emergencia.
+• Contener en forma inmediata el derrame con suficiente cantidad de material
+absorbente u otro para su almacenamiento y disposición.
+• En caso de producto combustible, estar preparados para actuar en caso de que
+se produzca la inflamación de la sustancia.
+• Limpieza del área afectada. Retirar todos los materiales alterados y
+gestionarlos como residuos peligrosos.
+• Limpieza de los equipos de protección y limpiar y reponer todo el equipo de
+emergencia empleado.
+• Recoger y recuperar el producto derramado.
+Acciones a
+En el caso de derrame de alguna sustancia peligrosa en volúmenes que superen los
+implementar
+5.000 l, al interior de la planta de procesamiento, los pasos a seguir para su control son:
+• Una vez se detecte el derrame, avisar en forma inmediata al Director de
+Emergencia para activar el Plan de Emergencia.
+• Bombeo de sustancias, fluidos, combustibles u otros hacia un estanque de
+retención y, posteriormente, traslado a un lugar autorizado para su disposición
+final.
+• El material recogido de un derrame será dispuesto adecuadamente en cilindros
+para su posterior traslado y disposición final en un depósito de seguridad
+autorizado.
+• Una vez controlada la situación de emergencia, el Jefe de Emergencia
+informará del hecho al Director de Emergencia, decretando éste el final de la
+misma.
+• El Director de la Emergencia y el Jefe de la Emergencia deberán establecer la
+causa del derrame y las medidas correctivas correspondientes.
+Oportunidad y vías de En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+comunicación a la SMA primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), Servicio Nacional
+8-39
+================================================================================
+PAGE 44
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a derrames de sustancias y/o residuos peligrosos
+emergencia
+de la Activación del de Pesca y Acuicultura (SERNAPESCA) y SEREMI Medio Ambiente, vía telefónica y/o
+Plan correo electrónico. Luego, en un plazo no superior a 15 días de ocurrido el evento, se
+enviará un informe de la emergencia, el cual contendrá a lo menos:
+• Fecha, hora y lugar de ocurrencia.
+• Motivo de la emergencia.
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.8 Procedimiento de actuación en caso de incendio industrial o incendio forestal
+Tabla 8-20. Procedimiento de Actuación Frente a Incendios Industriales y Forestales
+Situación de
+Plan de acción frente a incendios industriales y forestales.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Las zonas con una mayor probabilidad de que pueda producirse un incendio industrial
+son:
+• Instalación de faenas y bodegas.
+• Planta de Procesamiento.
+• Áreas de almacenamiento de residuos sólidos domésticos por acumulación de
+Parte, obra o acción elementos de fácil combustión.
+asociada • Estanques de diésel por combustión de elementos inflamables.
+• Zonas con densa vegetación (zonas de extracción, zona de disposición, zona de
+acopio de suelo vegetal.)
+• Oficinas: Puede presentarse un incendio por falta de orden y limpieza, actos
+inseguros del personal.
+• En vehículos móviles por fallas mecánicas de los equipos.
+• En el entorno donde exista vegetación seca.
+En caso de incendio industrial, se actuará de acuerdo a lo descrito a continuación:
+Acciones a • Una vez se detecte el incendio, avisar al Director de Emergencia para que
+implementar defina si procede activar el Plan de Emergencia.
+• El Jefe de la Emergencia evaluará el incidente y deberá valorar el nivel de la
+emergencia.
+8-40
+================================================================================
+PAGE 45
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a incendios industriales y forestales.
+emergencia
+• Una vez se detecte el incendio, avisar al Director de Emergencia para que
+defina si procede activar el Plan de Emergencia.
+• El Jefe de la Emergencia evaluará el incidente y deberá valorar el nivel de la
+emergencia.
+• Para emergencias Nivel 1, cualquier personal capacitado en el manejo y uso de
+extintores podrá apagar el fuego. En caso de emergencias Nivel 2, solo el
+Equipo de Intervención podrá atender la situación, sin exponerse y que ello no
+implique un riesgo para el resto del personal. Las emergencias nivel 3 serán
+atendidas por apoyo externo (Cuerpos de Bomberos , CONAF).
+• En caso de no poder extinguir el incendio, avisar para la activación del Plan de
+Emergencia y evacuar la zona. En caso de necesidad, se paralizarán todas las
+operaciones de la faena o área comprometida y no se permitirá el
+funcionamiento de:
+o Motores u otros equipos eléctricos.
+o Otros equipos o vehículos que pueden provocar un punto de ignición.
+• Se deberá observar la dirección del viento, y de acuerdo a esto, se delimitará
+ampliamente la zona de peligro y se deberá impedir el acceso a la misma del
+personal que no esté adecuadamente equipado, alejando preferentemente en
+dirección contraria al viento, a toda persona ajena a la emergencia.
+• Se deberá limitar el número de personas en la zona de peligro al mínimo
+imprescindible, controlándolos constantemente por un responsable que
+deberá permanecer en el exterior de la zona, el cual deberá disponer de un
+equipo de socorro listo para intervenir si fuera necesario.
+• Una vez que el Director de Emergencia active el Plan, el Equipo de Intervención
+se desplegará para controlar el incendio y, si es posible, acordonará la zona
+afectada.
+• Se debe mantener la seguridad del personal, disponiendo de una vía de
+retirada en todo momento y utilizando los agentes extintores y EPP adecuados
+contra el incendio. Si la situación reviste de gravedad, se comunicará el hecho
+a la Compañía de bomberos.
+• Tras la extinción del fuego, recoger efluentes sucios por los agentes extintores
+y gestionarlos adecuadamente según determine el Plan de Manejo de Residuos
+de la empresa.
+• Una vez controlada la situación de emergencia, el Jefe de Emergencia
+informará del hecho al Director de Emergencia, decretando éste el final de la
+misma.
+El Procedimiento de actuación en caso de incendio forestal será como sigue:
+• Dar aviso inmediato al supervisor en caso de provocarse, avistar o ser
+informado de un incendio forestal.
+8-41
+================================================================================
+PAGE 46
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a incendios industriales y forestales.
+emergencia
+• Todas las personas que sufran algún accidente del trabajo producto del
+incendio o de su combate deberán derivarse al paramédico/TENS del Proyecto
+o mutual de seguridad, según corresponda.
+• El Director de la Emergencia decretará la activación del presente Plan y el Jefe
+de la Emergencia valorará el Nivel de la misma.
+• El Equipo de Intervención solo actuará para emergencias Nivel 2. En caso de
+emergencias Nivel 3 se requerirá ayuda externa (Cuerpos de Bomberos,
+CONAF).
+• Coordinar con CONAF, bomberos y carabineros si la emergencia lo requiere.
+Con el objeto que dichas instituciones tengan conocimiento del hecho y
+realicen las evaluaciones necesarias para el despacho de recursos a la zona del
+incendio.
+• El personal debidamente capacitado y disponible más cerca del lugar del
+incendio comenzará a combatirlo de inmediato, siempre y cuando no esté
+comprometida su seguridad, en caso contrario, el asesor de prevención de
+riesgos deberá dirigir el proceso de evacuación hacia los puntos de encuentro
+de emergencia definidos para el Proyecto.
+• El primer ataque de fuego se iniciará hacia la detención del frente principal o
+foco de fuego utilizando equipos de extinción y construyendo las líneas de
+control que se requieran.
+• Sólo si las condiciones del incendio lo permiten, se deberá hacer retiro de todos
+los productos inflamables que se encuentren en el lugar siniestrado y aquellos
+que puedan producir derrames.
+• El Jefe de Emergencia deberá efectuar recuento de todo el personal presente
+en la emergencia.
+• Una vez controlada la situación de emergencia, el Jefe de Emergencia
+informará del hecho al Director de Emergencia, decretando éste el final de la
+misma.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), CONAF y SEREMI
+Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no superior
+a 15 días de ocurrido el evento, se enviará un informe de la emergencia, el cual
+contendrá a lo menos:
+Oportunidad y vías de
+comunicación a la SMA • Fecha, hora y lugar de ocurrencia.
+de la Activación del • Motivo de la emergencia.
+Plan • Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+8-42
+================================================================================
+PAGE 47
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: Elaboración propia, 2024.
+8.7.4.9 Procedimiento de actuación ante accidentes de fauna silvestre
+Tabla 8-21. Procedimiento de Actuación Frente Accidentes con Fauna Silvestre
+Situación de
+Plan de acción frente accidentes con fauna silvestre.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+En caso de que una contingencia afecte a fauna silvestre, se procederá al rescate
+inmediato de las especies que estuvieran o pudiesen verse afectadas para ser asentadas
+momentáneamente en el centro de rehabilitación de fauna silvestre más cercano al área
+del Proyecto, hasta el momento de su recuperación, al punto que sea posible el retorno
+de las especies al lugar de origen. En paralelo, se dará aviso al Servicio Agrícola y
+Ganadero (SAG) de lo ocurrido.
+Cabe mencionar que será responsabilidad del Titular del Proyecto la logística y el
+traslado de especies de fauna que pudiesen resultar heridas por las acciones del
+Proyecto, así como también los costos de tales labores. Se dará aviso al SAG
+previamente para que autorice las acciones y estén en conocimiento. El personal del
+Acciones a
+Proyecto contará con capacitaciones sobre las acciones a ejecutar ante la eventual
+implementar
+afectación de fauna silvestre en las inmediaciones del Proyecto.
+La empresa remitirá dentro de un plazo de 30 días a las autoridades y organismos
+competentes, un informe detallado con la información de la emergencia ambiental que
+contendrá lo siguiente:
+• Origen de la emergencia.
+• Acción de respuesta.
+• Efectividad de la acción.
+• Daños o pérdidas de recursos.
+• Costos involucrados.
+En caso de producirse algún evento asociado a la afectación de fauna silvestre, se
+informará dentro de las primeras 24 horas al Servicio Agrícola y Ganadero (SAG), con
+copia a la Superintendencia de Medio Ambiente (SMA), vía telefónica y/o correo
+electrónico. Luego, en un plazo no superior a 15 días de ocurrido el evento, se enviará
+Oportunidad y vías de un informe de la emergencia, el cual contendrá a lo menos:
+comunicación a la SMA
+de la Activación del • Fecha, hora y lugar de ocurrencia.
+Plan • Motivo de la emergencia.
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna,
+etc.).
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+8-43
+================================================================================
+PAGE 48
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente accidentes con fauna silvestre.
+emergencia
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.10 Procedimiento de actuación en caso de inundación o anegamiento
+Tabla 8-22. Procedimiento de Actuación Frente Inundación o Anegamiento
+Situación de
+Plan de acción frente a inundación o anegamiento.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+• Se dará aviso de inmediato al Jefe de la Emergencia quien informará al Director
+de la Emergencia sobre lo que ocurra.
+• Dependiendo de la magnitud del evento, se paralizarán inmediatamente las
+obras y si es pertinente se evacuará a todo el personal, hasta áreas seguras.
+• Personal de la empresa debidamente entrenado inspeccionará el lugar del
+accidente, verificando que no existan heridos en el área. En caso de registrarse
+Acciones a heridos por este accidente, éstos serán llevados a un centro asistencial
+implementar cercano.
+• Inmediatamente se delimitará un área de restricción, donde sólo podrán
+ingresar personal entrenado y debidamente autorizado.
+• Se deberán inspeccionar las áreas afectadas, demarcando aquellas que
+supongan un riesgo.
+• Una vez controlada la situación de emergencia, el Jefe de la Emergencia
+informará al Director de la Emergencia, decretando éste el final de la misma.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA) y SEREMI Medio
+Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no superior a 15 días
+de ocurrido el evento, se enviará un informe de la emergencia, el cual contendrá a lo
+menos:
+Oportunidad y vías de
+comunicación a la SMA • Fecha, hora y lugar de ocurrencia.
+de la Activación del • Motivo de la emergencia.
+Plan • Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+8-44
+================================================================================
+PAGE 49
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: Elaboración propia, 2024.
+8.7.4.11 Procedimiento de actuación en caso de deslizamientos de tierra y/o
+materiales
+Tabla 8-23. Procedimiento de Actuación Frente a Deslizamientos de Tierra y/o Materiales
+Situación de
+Plan de acción frente a deslizamientos de tierras y/o materiales.
+emergencia
+Fase del Proyecto a la
+Construcción, operación y cierre.
+que aplica
+Parte, obra o acción
+Todo el Proyecto.
+asociada
+En caso que se prevea un evento por desplazamiento de tierra y/o materiales, se
+considerará como mínimo la evacuación de todo el personal de la zona de riesgo así
+como la disposición de los refuerzos, contenciones o protecciones necesarias para
+garantizar la seguridad de las personas y el medio ambiente.
+El procedimiento de actuación debe contemplar al menos:
+• En caso de que se produzca un desplazamiento, avisar al Director de
+Acciones a
+Emergencia por si ha de procederse a activar el Plan de Emergencia.
+implementar
+• Evacuar de manera ordenada y rápida, en el caso que se dé la instrucción
+(decisión del Jefe de Emergencia).
+• En caso de evacuación dirigirse a la zona de seguridad por las vías predefinidas,
+lejos de lugares con riesgo de desplazamiento de material, y según indique el
+prevencionista de riesgos.
+• Una vez controlada la situación de emergencia, el Jefe de Emergencia
+informará del hecho al Director de Emergencia, decretando éste el final de la
+misma.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), SENAPRED y
+SEREMI Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no
+superior a 15 días de ocurrido el evento, se enviará un informe de la emergencia, el cual
+contendrá a lo menos:
+Oportunidad y vías de
+comunicación a la SMA • Fecha, hora y lugar de ocurrencia.
+de la Activación del • Motivo de la emergencia.
+Plan • Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+• Acciones de prevención que se implementarán para evitar una nueva
+ocurrencia.
+Fuente: Elaboración propia, 2024.
+8-45
+================================================================================
+PAGE 50
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.7.4.12 Procedimiento de actuación en caso de derrame de hidrocarburos en medio
+terrestre y acuático producto de la modificación de trazado de oleoducto de
+ENAP
+Tabla 8-24. Medidas a Implementar – Derrame de hidrocarburos en medio terrestre y acuático producto de la
+modificación de trazado de oleoducto de ENAP
+Derrame de hidrocarburos en medio terrestre y acuático producto de la
+Situación de emergencia
+modificación de trazado de oleoducto de ENAP
+Fase del Proyecto a la que
+Operación
+aplica
+Parte, obra o acción asociada Construcción modificación de trazado
+Medio terrestre:
+- El Jefe de Área coordinará y solicitará al operador del área la
+implementación de las primeras medidas de contención
+(cortar/detener la fuente que genera derrames, en caso de ser
+necesario se realizan zanjas de contención, pretil de tierra, solicitar
+camión tipo vacuum para la absorción del producto) con el fin de evitar
+que el derrame se expanda a una mayor área.
+- El Jefe de Área, mediante vía telefónica, dará aviso al personal de la
+Dirección del Medio Ambiente del área, inmediatamente detectada la
+contingencia a fin de coordinar inspección técnica en el área.
+- Personal de Medio Ambiente del área, llevará material absorbente
+disponible (mantas, mangas, sacos de adsorbente, según necesidad),
+para ser usado en caso de ser necesario.
+- Personal de la Dirección de Medio Ambiente evaluará el evento según
+el área geográfica, las condiciones climáticas, cercanía con cursos de
+agua, presencia de fauna, tipo de suelo (estabilizado, vega, vegetación,
+Acciones o medidas a
+etc.), además se mide el área mediante el uso de GPS y se obtiene el
+implementar track.
+- Una vez evaluado el incidente, personal de la Dirección de Medio
+Ambiente procederá a entregar los lineamientos de limpieza a quien
+corresponda, el cual consiste en el retiro de material contactado
+mediante uso de herramientas manuales o mecanizadas (dependiendo
+de la magnitud del evento).
+- El material contactado deberá ser manejado y dispuesto como residuos
+peligrosos.
+Medio acuático:
+- El Jefe de área coordinará y solicitará al operados del área la ejecución
+de las primeras medidas de contención (cortar/detener la fuente que
+genera derrames, implementación de magas de contención, succión de
+hidrocarburo mediante camión tipo vaccum, aspersión de material
+absorbente, uso de bombas para la extracción de hidrocarburos) con el
+fin de evitar que el derrame se distribuya en mayor área.
+8-46
+================================================================================
+PAGE 51
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Derrame de hidrocarburos en medio terrestre y acuático producto de la
+Situación de emergencia
+modificación de trazado de oleoducto de ENAP
+- El Jefe de área dará aviso a cuadrilla de emergencia a la brevedad.
+- El Jefe de Área, mediante vía telefónica, dará aviso a personal de la
+Dirección de Medio Ambiente del área, inmediatamente detectada la
+contingencia a fin de coordinar inspección técnica en el área.
+- Personal de Medio Ambiente del área, llevará material absorbente
+disponible (mantas, mangas, sacos de absorbente, según la necesidad),
+para ser usado en caso de ser requerido.
+- Personal de la Dirección de Medio Ambiente evaluará el evento según
+el área geográfica, las condiciones climáticas, presencia de fauna, forma
+del curso de agua, lugar de desembocadura, se tomarán las
+coordenadas geográficas del evento.
+- Una vez evaluado el incidente, personal de la Dirección de Medio
+Ambiente procederá a entregar los lineamientos de limpieza a quien
+corresponda, el cual consiste en el retiro del producto derramado
+mediante uso de herramientas manuales o mecanizadas ( camión tipo
+vacumm o bomba de succión, uso de materiales absorbentes).
+- En caso que se recupere producto (hidrocarburo), este será almacenado
+y luego trasportado según lo que indique el Jefe de Área.
+- Una vez implementadas las acciones descritas anteriormente, se dará
+aviso en los casos que aplique a las autoridades competentes.
+- Personal de Dirección de Medio Ambiente coordinará la solicitud de
+toma de muestra de agua (aguas arriba y aguas abajo del área) según
+necesidad.
+Con los antecedentes preliminares de las causas que generaron la contingencia
+aportados por el Jefe del Área y los efectos y/o potenciales efectos de la
+contingencia o incidente en el medio ambiente, evaluado por el personal de la
+Oportunidad y vías de
+Dirección de Medio Ambiente, el coordinador ambiental procederá a la
+comunicación a la SMA de la
+elaboración del “Informe de Incidente Operacional con Consecuencia
+Activación del Plan
+Ambiental”; informe con la información requerida para reportar a la autoridad
+en los casos que aplique, el cual estará disponible durante las primeras 24 hrs.
+contabilizadas a partir de la generación o detección de la contingencia.
+Fuente: Elaboración propia, 2024.
+8.7.4.13 Procedimiento de actuación en caso de derrame de aguas servidas
+Tabla 8-25. Medidas a Implementar – Derrame de aguas servidas
+Situación de emergencia Derrame de aguas servidas
+Fase del Proyecto a la que
+Todas las fases
+aplica
+Parte, obra o acción asociada Plantas de tratamiento de aguas servidas y baños químicos
+Acciones o medidas a 1. Se dará aviso de inmediato al equipo de intervención y jefe de Emergencias,
+implementar indicando:
+8-47
+================================================================================
+PAGE 52
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de emergencia Derrame de aguas servidas
+• Lugar del incidente.
+• Magnitud
+• Tipo de residuos
+• Consecuencias (gravedad)
+2. El jefe de Emergencia evaluará la situación y si lo amerita, solicitará la
+evacuación del personal.
+3. Para detener la generación de aguas servidas, se deberá evacuar el área, por
+tanto, el jefe o supervisor a cargo de ésta, suspenderá las labores en sus
+dependencias, procediendo a trasladar a los trabajadores a su residencia.
+Paralelamente se llamará a la empresa externa para que identifique, arregle o
+reemplace las piezas del sistema que se encuentren en mal estado.
+4. En caso de que la contingencia persista por un periodo mayor a un día de
+operación a máxima capacidad, las aguas serán retiradas por una empresa con
+autorización sanitaria, que las llevará a un sitio de disposición final igualmente
+autorizado.
+5. Un equipo procederá a limpiar y/o desinfectar las áreas que hayan estado en
+contacto con las aguas servidas. En caso de tener contacto con el suelo, se
+retirará el material contaminado y será dispuesto en un sitio autorizado.
+6. Una vez que el problema se haya solucionado, será responsabilidad del jefe o
+supervisor a cargo autorizar nuevamente el funcionamiento normal de la misma.
+7. Se realizará una investigación del incidente, recolectando todas las evidencias
+posibles, con el fin de hacer las correcciones que el caso amerite y evitar una
+nueva ocurrencia.
+En caso de emergencia, durante las primeras 24 horas de ocurrido el evento, se
+comunicará a la Superintendencia del Medio Ambiente. Así mismo, se realizará
+el reporte correspondiente en el módulo de avisos de la SMA a través de su
+Oportunidad y vías de
+página web. De acuerdo con la gravedad de la emergencia, se comunicará
+comunicación a la SMA de la
+adicionalmente mediante contacto telefónico, según lo indicado en el acápite
+Activación del Plan
+8.7.3.4 del presente documento.
+Una vez que esté controlada la situación se enviará un informe detallado a la
+SMA en un plazo de 15 días hábiles.
+Fuente: Elaboración propia, 2024.
+8.7.4.14 Procedimiento de actuación en caso de que no se pueda reutilizar el agua
+de las PTAS
+Tabla 8-26. Medidas a Implementar – En caso de que no se pueda reutilizar el efluente de las PTAS
+Situación de emergencia En caso de que no se pueda reutilizar el efluente de las PTAS
+Fase del Proyecto a la que
+Todas las fases
+aplica
+Parte, obra o acción asociada Plantas de tratamiento de aguas servidas
+Acciones o medidas a Se incorporarán inspecciones a la PTAS en el programa mensual de supervisión.
+implementar
+8-48
+================================================================================
+PAGE 53
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de emergencia En caso de que no se pueda reutilizar el efluente de las PTAS
+1. Se dará aviso de inmediato al equipo de intervención y jefe de Emergencias,
+indicando:
+• Lugar del incidente.
+• Magnitud
+• Tipo de residuos
+• Consecuencias (gravedad)
+2. El jefe de Emergencia evaluará la situación y si lo amerita, solicitará la
+evacuación del personal.
+3. En caso de que la contingencia persista por un periodo mayor a un día de
+operación a máxima capacidad, el efluente será retirado por una empresa con
+autorización sanitaria, que lo llevará a un sitio de disposición final igualmente
+autorizado.
+4. Se realizará una investigación del incidente, recolectando todas las evidencias
+posibles, con el fin de hacer las correcciones que el caso amerite y evitar una
+nueva ocurrencia.
+En caso de emergencia, durante las primeras 24 horas de ocurrido el evento, se
+comunicará a la Superintendencia del Medio Ambiente. Así mismo, se realizará
+el reporte correspondiente en el módulo de avisos de la SMA a través de su
+Oportunidad y vías de
+página web. De acuerdo con la gravedad de la emergencia, se comunicará
+comunicación a la SMA de la
+adicionalmente mediante contacto telefónico, según lo indicado en el acápite
+Activación del Plan
+8.7.3.4 del presente documento.
+Una vez que esté controlada la situación se enviará un informe detallado a la
+SMA en un plazo de 15 días hábiles.
+Fuente: Elaboración propia, 2024.
+8-49
+================================================================================
+PAGE 54
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8.8 Mantenimiento de Equipos, Maquinarias y Sistemas
+Al objeto de prevenir la ocurrencia de accidentes que originen situaciones de emergencia, se deben llevar
+a cabo las siguientes actuaciones:
+Revisión y mantenimiento de equipos, maquinarias y sistemas de acuerdo con sus gamas de
+mantenimiento preventivo.
+Mantenimiento de los sistemas de extinción de incendios.
+Verificación en terreno de la existencia de material para el control de derrames en todas las instalaciones
+de manejo y almacenamiento de sustancias y residuos peligrosos.
+8.9 Capacitaciones
+Se deberá disponer de un plan de capacitación y entrenamiento para todo el personal de la faena, con la
+finalidad de mantener al personal debidamente entrenado para prevenir y enfrentar cualquier
+emergencia. Estas capacitaciones se deberán realizar a través de charlas periódicas en las que se describan
+los riesgos existentes, formas de solución y procedimientos a actuar en caso de que ocurra cualquier
+accidente y/o incidente.
+Las acciones que deberá adoptarse serán las siguientes:
+Entrenamiento y capacitación en el Plan de Prevención de Contingencias y Emergencias.
+Difusión de los procedimientos del Plan al personal operativo.
+Reuniones de coordinación con los miembros del Comité de Seguridad.
+Charlas de capacitación y adoctrinamiento.
+Publicación de boletines de seguridad, afiches, entre otros.
+Instrucciones al Equipo de Intervención.
+Prácticas y manejo de implementos de seguridad.
+Práctica y entrenamiento sobre procedimientos de evacuación y simulacros de emergencia, con el objeto
+de comprobar en los medios disponibles, tanto materiales como humanos, los siguientes aspectos:
+• El funcionamiento y efectividad de los sistemas de aviso personales y las
+comunicaciones durante la emergencia.
+• La rapidez de respuesta de los grupos de acción en la aplicación de las medidas de
+autoprotección.
+El funcionamiento de los mismos (en condiciones ficticias) y una evaluación de su eficacia.
+8-50
+================================================================================
+PAGE 55
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Es importante indicar que la capacitación en materias de protección de fauna silvestre que se realizará al
+personal involucrado, tanto externo como interno del proyecto, durante la construcción, operación y
+cierre, será previamente informada al Servicio Agrícola y Ganadero (SAG).
+8.10 Actualización del Plan de Contingencias y Emergencias
+Se deberá actualizar el presente Plan de Contingencias y Emergencias teniendo en cuenta lo siguiente:
+- Cuando ocurran incidentes o eventos no descritos en el presente documento.
+- Cada vez que se realicen modificaciones en el Proyecto, tanto para ampliaciones como para
+nuevas construcciones.
+- La experiencia recogida en los ejercicios de entrenamiento y simulacro.
+- Incorporación de sustancias y/o residuos con características de peligrosidad.
+Se informará de la actualización del Plan a la SMA conforme al instructivo Guía para carga de Planes de
+Prevención de Contingencias Ambientales y Planes de Emergencias Ambientales, en el Sistema de
+Resoluciones de Calificación Ambiental (SRCA), R.E. N°1610/2018.
+8.11 Primeros auxilios
+Es la primera respuesta ante sucesos no deseados que pongan en peligro la vida de una persona. Todo
+esfuerzo que se realice deberá ser ejecutado ocasionando la menor afectación posible.
+Solo personal debidamente capacitado podrá entregar primeros auxilios a una persona accidentada. El
+procedimiento general de actuación en caso de dar primeros auxilios será el siguiente:
+- Conservar la calma y actuar de forma rápida y segura.
+- Evaluar el lugar del accidente y verificar el estado del afectado.
+- Manejar al afectado con suavidad y precaución.
+- Tranquilizar al accidentado.
+- Dar aviso en la forma más rápida posible pidiendo ayuda indicando la mayor cantidad de
+información.
+- No retirar al accidentado a menos que su vida esté en peligro (incendios, electrocución,
+derrumbes, contaminación, asfixia, ahogamiento, etc.).
+- Considerar como prioridad el control de hemorragias y respiración, siempre que los elementos
+que componen el kit de primeros auxilios lo permitan y no se ponga en mayor riesgo al
+accidentado.
+- Si hay pérdida de conocimiento, no dar de beber.
+- Cubrir al lesionado para que no se enfríe previniendo el shock térmico.
+- Para el traslado, hacerlo cuidadosamente (inmovilización, camilla, etc.)
+8-51
+================================================================================
+PAGE 56
+================================================================================
+Capítulo 08
+Plan de Contingencias y emergencias
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+- Tomar datos de los hechos y novedades para mantener los registros correspondientes.
+En caso de emergencia, deberá existir una estación de emergencia con el fin de prestar los primeros
+auxilios en la instalación de faena y frentes de trabajos. Estos deberán incluir como mínimo:
+- Suero fisiológico.
+- Alcohol para limpieza de superficies y desinfección de materiales.
+- Apósitos estériles y algodón.
+- Tela adhesiva.
+- Parches curitas.
+- Gasa esterilizada.
+- Tijeras punta roma.
+- Jabón gel antiséptico.
+- Guantes de procedimiento.
+- Pinzas comunes.
+- Tablillas de cartón o madera para inmovilizar.
+- Vendajes en triángulo.
+- Alfileres de gancho.
+- Algodón.
+- Vendas de género y elásticas.
+- Cuello cervical.
+- Tabla larga e inmovilizadores laterales.
+Todo lesionado será atendido en el policlínico para ser evaluado un profesional de la salud (Técnico en
+enfermería nivel superior (TENS) y/o Paramédico), quienes estabilizaran a la persona para ser trasladados
+al centro médico más cercano de ser necesario.
+Adicionalmente, dentro de las instalaciones se contará con un camión de primera respuesta frente a
+accidentes, rescates, incendios y emergencias químicas, que estará compuesta por personal capacitado.
+8-52

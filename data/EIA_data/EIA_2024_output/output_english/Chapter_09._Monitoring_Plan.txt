@@ -1,0 +1,1724 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Chapter 9
+Monitoring plan
+the relevant environmental variables
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia
+Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+9 Monitoring Plan for Relevant Environmental Variables (art. 18° k) ................................... 9-1
+9.1 Introduction ................................................................................................................................... 9-1
+9.2 Objectives ................................................................................................................................... 9-2
+9.2.1 General Objective ........................................................................................................... 9-2
+9.2.2 Specific Objectives ........................................................................................................... 9-2
+9.3 Methodology ................................................................................................................................... 9-2
+9.3.1 Relevant environmental variables ................................................................................................... 9-3
+9.4 Monitoring plan for measures of significant impacts ................................................................... 9-5
+9.4.1 Monitoring Plan for the Air Quality Component ........................................................... 9-5
+9.4.2 Monitoring Plan for the Plants Component (Flora and Vegetation) ........................... 9-9
+9.4.3 Monitoring Plan for the Vertebrate Fauna Component ........................................... 9-14
+9.4.4 Monitoring plan for the Invertebrate Fauna Component ................................................... 9-21
+9.4.5 Monitoring Plan for the Soil Component ........................................................................... 9-25
+9.4.6 Monitoring Plan for the Human Environment Component ........................................................... 9-30
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 9-1: Plan of measures for significant impacts ........................................................................................... 9-3
+Table 9-2: Monitoring mitigation measure MC-01: Change of folder in 1.6 km of access to Project
+CEMARC ................................................................................................................................................... 9-5
+Table 9-3: Monitoring mitigation measure MC-02: Increase in emissions control by 3.5 km for
+access road to CEMARC ....................................................................................................................... 9-6
+Table 9-4: Monitoring mitigation measure MC-03: Replacement of heating and cooking equipment that
+They use firewood as fuel ................................................................................................................ 9-8
+Table 9-5: Monitoring mitigation measure MM-01: Rescue and Relocation of 20 specimens of
+Citronella mucronata ................................................................................................................................... 9-9
+Table 9-6. Monitoring compensation measure MC-01: Germplasm Collection, Nursery and
+Replanting Individuals of Asplenium trilobum, Gardoquia multiflora and Vestia foetida ......................... 9-11
+Table 9-7. Monitoring Measure Mitigation MM-02: Rescue and Relocation Plan for Vertebrate Fauna
+............................................................
+........................................................................................................... 9-14
+Table 9-8. Monitoring Mitigation Measure MM-03: Controlled Disturbance Plan ....................... 9-17
+Table 9-9. Follow-up repair measure MR-01: Revegetation of intervened areas ZD and ZE with
+native vegetation (except ZE Luna). ....................................................................................................... 9-19
+Table 9-10. Monitoring compensation measure MC-05: Protection of areas surrounding the project 9-20
+Table 9-11. Monitoring Mitigation Measure MM-04: Wildlife rescue and relocation plan
+invertebrate. ........................................................................................................................................... 9-21
+Table 9-12. Monitoring Repair Measure MR-02: Rescue, collection and reuse of soil in the areas
+intervened. ........................................................................................................................................... 9-25
+Table 9-13. Monitoring of Repair Measure MR-03: Improvement of soil properties in the
+intervened areas. ................................................................................................................................... 9-28
+Table 9-14. Monitoring Mitigation Measure MM-05 Access Protocol for GHPPI ..................... 9-30
+Table 9-15. Monitoring Mitigation Measure MM-06 Information and communication plan with GHPPI 9-
+32
+Table 9-16. Monitoring Mitigation Measure MM-07 Support plan for strengthening practices
+cultural activities of the GHPPI ........................................................................................................................... 9-34
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 9-1. Folder change sector ................................................................................................... 9-6
+Figure 9-2. Sector of implementation of the measure ................................................................................ 9-7
+Figure 9-3. Sector of implementation of the measure ................................................................................................... 9-8
+Figure 9-4. Relocation sector in ravine to the northeast of the Area of Influence ................................... 9-10
+Figure 9-5. Enrichment sector in a stream northeast of the Area of Influence ................................... 9-12
+Figure 9-6. Low mobility wildlife rescue areas. ....................................................................... 9-14
+Figure 9-7. Low mobility fauna relocation area. ................................................................... 9-15
+Figure 9-8. Location of ZE (left) (except ZE Luna) and ZD (right) that will be revegetated. ....................... 9-19
+Figure 9-9. Low mobility wildlife rescue areas. ....................................................................... 9-22
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+9 MONITORING PLAN FOR RELEVANT ENVIRONMENTAL VARIABLES (ART.
+18°K)
+9.1 Introduction
+In accordance with the provisions of Law No. 19,300 on General Bases of the Environment, and its
+modifications, and in the D.S. No. 40/2012 of the MMA, and its modifications, Regulations of the System of
+Environmental Impact Assessment, specifically in its articles 18, letter k), and article 105, in this
+Chapter presents the Monitoring Plan for the environmental variables of the “Burn Extraction Project”.
+Clays for the Production of Rare Earth Concentrates”.
+This originates according to the results of Chapters 4, 5 and 7 of this EIA, since the Project will generate
+or present some effects, characteristics or circumstances referred to in article 11 of the Law
+19,300, which make it necessary to implement
+n of various follow-up or monitoring measures
+environmental.
+In accordance with what is indicated in article 105 of the aforementioned D.S. N°40/2012, this plan aims to
+ensure that all relevant environmental variables that were subject to environmental assessment
+evolve as projected.
+The Environmental Monitoring Plan has been prepared in card format and structured considering the
+following contents:
+• Project phase
+• Component of the environment that will be subject to measurement and control
+• Environmental impact and associated measurement
+• Location of control points
+• Parameters that will be used to characterize the state and evolution of said component
+• Allowed or committed limits
+• Duration and frequency of the monitoring plan for each parameter
+• Measurement method or procedure for each parameter
+• Time and frequency of delivery of reports with the evaluation of the results
+• Other relevant aspects
+9-1
+==================================================================================
+PAGE 6
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+9.2 Objectives
+9.2.1 General Objective
+The purpose of this plan is to define actions and activities that will need to be carried out, in order to
+verify the effectiveness of the measures proposed in the Plan of Mitigation, Repair and/or Measures
+Compensation (Chapter 7 of the EIA). Thus, through its implementation it will be possible to verify that the factors
+environmental issues with relevance to the Project evolve as forecast.
+9.2.2 Specific Objectives
+• Ensure that the relevant environmental variables that were the subject of environmental evaluation
+evolve as projected.
+• Verify the effectiveness of the proposed mitigation, repair and/or compensation measures
+for those significant impacts.
+• For the variables that will be subject to monitoring, detect early any
+unforeseen and unwanted effect, so that it is possible to control it by timely applying
+the relevant measures or actions.
+9.3 Methodology
+The Environmental Monitoring Plan incorporates the monitoring of the environmental variables that gave rise to
+to the EIA in accordance with art. 11 of Law 19,300, as well as the relevant environmental variables that were subject
+of environmental evaluation that are estimated to need to be observed during all phases of the Project.
+By virtue of what is indicated in article 105 of the SEIA Regulations, the Plan has been prepared in accordance
+in accordance with the general instructions issued by the Superintendence of the Environment and
+contains, when appropriate, for each phase of the Project, the environmental component that
+will be subject to measurement and control; the environmental impact and the associated measure; the location of the points
+control; the parameters that will be used to characterize the state and evolution of said
+component; the limits allowed or committed; the duration and frequency of the monitoring plan
+for each parameter; the method or procedure for measuring each parameter; the term and frequency
+delivery of reports with the evaluation of the results and any other aspect that has been estimated
+relevant.
+For the design of the monitoring plan, the instructions of the SMA have been taken into consideration.
+contained in Res Ex N°223 of March 26, 2015, and its modifications, which dictates instructions
+generalities regarding the preparation of a Monitoring Plan for Environmental Variables.
+9-2
+==================================================================================
+PAGE 7
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+9.3.1 Relevant environmental variables
+The environmental monitoring program will consider the environmental variables that will be affected
+significantly:
+• Air quality
+• Flora and vegetation
+• Vertebrate terrestrial fauna
+• Invertebrate terrestrial fauna
+• Soil
+• Human environment
+Table 9-1: Plan of measures for significant impacts
+IMPACT COMPONENT TYPE OF MEASUREMENT NAME OF MEASUREMENT PHASES
+Compensation MC-01 Change of folder in
+Construction, operation and
+1.6 km of access
+or to Project
+closure
+ICA-01 Increase in CEMARC.
+concentration Compensation MC-02 Increase in control of Construction, operation and
+environmental material emissions in 3.5 km to close
+Air Quality
+respirable particulate access road to CEMARC.
+in receivers (MP10 and Compensation MC-03 Equipment replacement Construction, operation and
+MP2.5) heating and kitchens that close
+They use firewood as
+fuel.
+MM-01 Rescue and
+IFV-02 Relocation Loss of 20
+Construction Mitigation
+specimens of flora specimens of Citronella
+mucronata
+Flora and MC-04 Collection of
+Germplasm vegetation, nurseryization and
+IFV-02 Loss of replanting of individuals of
+Construction Compensation; Operation
+specimens of flora Vestia foetida, Gardoquia
+multiflora and Asplenium
+trilobum.
+MM-02 Rescue Plan and
+IFA-01. Loss of fauna relocation
+specimens of interest Vertebrate mitigation Construction; Operation
+Terrestrial and/or sensitive fauna MM-03 Disturbance plan
+controlled vertebrate
+MR-01 Revegetation of areas
+IFA-02 Loss and/or Construction;
+ZD and ZE intervened repair with
+habitat modification Operation
+native vegetation
+9-3
+==================================================================================
+PAGE 8
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+IMPACT COMPONENT TYPE OF MEASUREMENT NAME OF MEASUREMENT PHASES
+of species of interest
+MC-05 Protection of areas
+and/or sensitive Compensation
+surrounding the project
+IFI-01 Loss of
+specimens of fauna
+interest and/or sensitive MM-04 Rescue plan and
+Fauna Construction; operation,
+IFI-02 Loss and/or Mitigation of relocation of fauna
+invertebrate Closure
+invertebrate habitat modification
+of species of interest
+and/or sensitive
+MR-02 Rescue, collection and
+soil reuse in areas
+ISU-01 Loss of intervened
+Soil Repair Construction; Operation
+natural resource soil MR-03 Improvement of
+soil properties in areas
+intervened
+IMH-01 Affectation
+practice development
+cultural and
+traditional
+organizations
+indigenous people throughout the MM-05 Access Protocol
+controlled forest road for GHPPI Construction; operation,
+Human Environment Mitigation
+adjacent to estuary MM-06 Information plan Closure
+Penco for restriction of and communication with GHPPI
+access through
+point installation
+access control,
+informative signage and
+surveillance rounds
+9-4
+==================================================================================
+PAGE 9
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+IMPACT COMPONENT TYPE OF MEASUREMENT NAME OF MEASUREMENT PHASES
+IMH-03 Restriction of
+access to resources
+natural (herbs
+medicinal) used
+by the GHPPI for the purposes
+medicinal and cultural
+MM-07 Support plan
+making it difficult
+strengthening of
+manifestation of
+cultural practices of
+cultural activities and
+GHPPI
+collective interests,
+for the installation of
+checkpoints
+access, signage
+informative and rounds of
+surveillance
+Source: GAC
+9.4 Monitoring plan for measures of significant impacts
+Below is the Monitoring Plan of the measures considered for the impacts
+significant of the Project.
+9.4.1 Monitoring Plan for the Air Quality Component
+For this component three measures have been considered:
+• MC-01: Change of folder in 1.6 km of access to the CEMARC Project.
+• MC-02: Increase in emissions control by 3.5 km for access road to CEMARC
+• MC-03: Replacement of heating equipment and stoves that use wood as fuel.
+Table 9-2: Monitoring mitigation measure MC-01: Change of folder in 1.6 km of access to the CEMARC Project
+Project Phase Construction, operation and closure
+Environmental Component Air quality
+ICA-01 Affectation of human receptors due to increased concentration of material
+Associated Impact
+particulates and gases
+Associated Measure MC-01: Change of folder in 1.6 km of access to CEMARC Project
+Location of the Points The place of application of the measure corresponds to a section of approximately 1.6
+control or Sites of kilometers of road prior to entering CEMARC. Figure 9-1 presents the ub
+ication
+sampling, measurement, of the path where the change of path folder will be implemented will not
+analysis or control of asphalt paving.
+9-5
+==================================================================================
+PAGE 10
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction, operation and closure
+Figure 9-1. Folder change sector
+Source: GAC
+The parameter to monitor corresponds to the verification of the good status of the folder
+Parameters to monitor
+through visual inspections.
+Permitted limits o The inspection of 100% of the road where the change of direction is made is considered.
+committed folder.
+Duration and frequency of
+Semi-annually throughout the execution of the Project.
+sampling
+Method or procedure The parameter will be monitored by visual inspection of the entire surface of
+measurement of each asphalt layer implemented, recording deviations from the state of
+folder preservation parameter.
+Semiannual and annual reports will be prepared, indicating:
+• Responsible for each inspection.
+Frequency and period of • Identification of deviations or deterioration events with respect to the state of
+delivery of reports conservation of the folder.
+monitoring • Record of measures implemented to repair the deterioration or damage of the
+folder.
+• Record of start and end date of repairs of the asphalt layer.
+Source: GAC
+Table 9-3: Monitoring mitigation measure MC-02: Increase in emissions control by 3.5 km for road
+access to CEMARC
+Project Phase Construction, operation and closure
+Environmental Component Air quality
+9-6
+==================================================================================
+PAGE 11
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction, operation and closure
+ICA-01 Affectation of human receptors due to increased concentration of material
+Associated Impact
+particulates and gases
+MC-02: Increase in emissions control by 3.5 km for access road to
+Associated Measurement
+CEMARC
+The place of application of the measure corresponds to a section of approximately 3.5
+kilometers of road after the entrance from Route 150, towards the access to
+CEMARC. Figure 9-1 presents the location of the road where it will be implemented
+increasing emissions control for particulate matter.
+Figure 9-2. Measure implementation sector
+Location of Points
+Control or Sites
+sampling, measurement,
+analysis or control
+Source: GAC
+The parameter to be monitored corresponds to the verification of the efficiency of 80% of the
+Parameters to monitor suppressor for emissions of particulate matter resulting from vehicular traffic in the
+path where the measure is applied.
+Allowed limits o An average efficiency of no less than 80% is considered for the control of
+committed emissions of particulate matter.
+Duration and frequency of
+Annually throughout the execution of the Project.
+sampling
+The parameter will be monitored through the use of mobile counting equipment
+Method or procedure
+of particles, the result of which will be contrasted with the value measured along the way without
+measurement of each
+control measure. The measurement procedure is presented in Annex 1-4 Measurement Plan.
+parameter
+dust suppression
+Frequency and term of Annual reports will be prepared, indicating:
+delivery of reports • Date and time of start and end of application
+tracking • Path and start and end point of application (accompany GPS file)
+9-7
+==================================================================================
+PAGE 12
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction, operation and closure
+• Amount of suppressor applied
+• Measured dose per m2 by tray method, recording speed of
+application.
+• Width from to
+application
+• Application length
+• Responsible and signature.
+Source: GAC
+Table 9-4: Monitoring mitigation measure MC-03: Replacement of heating and cooking equipment that uses
+firewood as fuel
+Project Phase Construction, operation and closure
+Environmental Component Air quality
+ICA-01 Affectation of human receptors due to increased concentration of material
+Associated Impact
+particulates and gases
+MC-03 Replacement of heating equipment and stoves that use firewood as
+Fuel Associated Measurement. Payment of fixed and variable costs involved during the phases of
+construction, operation and closure
+The measure to replace heaters and stoves that use firewood as
+fuel, will be implemented in homes identified as R_11, R_28 and
+R_32. Which correspond to the receptors where an impact was determined
+significant.
+Figure 9-3.Measure implementation sector
+Location of Points
+Control or Sites
+sampling, measurement,
+analysis or control
+Source: GAC
+9-8
+==================================================================================
+PAGE 13
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction, operation and closure
+The parameter to be monitored corresponds to the verification of good operating status.
+Parameters to monitor
+of the installed equipment.
+Permitted limits o It is considered that 100% of the equipment must be operational, prior to
+committed winter period.
+Duration and frequency of
+Annually throughout the execution of the Project.
+sampling
+Method or procedure
+It will be verified in each of the three homes that the equipment will be in
+measurement of each
+good technical conditions for its operation.
+parameter
+Annual reports will be prepared, indicating:
+• Date and time of checking the status of each artifact
+Frequency and term of
+• Status of each installed device.
+delivery of reports
+• Maintenance/repair requirement for each equipment.
+tracking
+• Date of repair and verification of correct operation.
+• Responsible and signature.
+Source: GAC
+9.4.2 Monitoring Plan for the Plants Component (Flora and Vegetation)
+Two measures have been defined for this component:
+• MM-01. Rescue and relocation of 20 specimens of Citronella mucronata.
+• MC-04. Germplasm collection, nurseryization and replanting of Vestia foetida individuals,
+Gardoquia multiflora and Asplenium trilobum.
+Table 9-5: Monitoring mitigation measure MM-01: Rescue and Relocation of 20 Citronella specimens
+mucronata
+Project Phase Construction and Operation
+Component
+Flora and vegetation
+Environmental
+Associated Impact IFV-02. Loss of flora specimens
+Associated Measure MM-01: Rescue and Relocation of 20 specimens of Citronella mucronata
+The place where the relocation measure will be carried out corresponds to an area located at the
+Location of the
+northeast of the Area of Influence, specifically in the native forest sector of
+Checkpoints or
+preservation, in microsites that have the conditions for the survival of
+Sampling sites,
+specimens (4.90 ha). The following figure shows the location of the native forest of
+measurement, analysis or
+preservation, place of implementation of the transfer of Citronella mucronata.
+control
+9-9
+==================================================================================
+PAGE 14
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction and Operation
+Figure 9-4. Relocation sector in a ravine northeast of the Area of Influence
+Source: GAC
+Parameters for
+The parameter considered to characterize the state of the measurement corresponds to the
+characterize the
+monitoring of the 20 relocated Citronella mucronata specimens and determining whether
+status and evolution
+They are alive or dead. In addition, it is considered to evaluate growth variables such as
+of the variables
+height, vegetation cover and health status of the specimens.
+environmental
+The limit considered for monitoring the measure corresponds to the survival of
+Considered limits
+the 20 relocated Citronella mucronata specimens.
+in the evaluation If there is mortality, the owner agrees to plant 5 individuals for each specimen
+dead (1:5) with 100% survival in the eighth year of the Project.
+Duration and Monitoring of the measure will be carried out during the construction and operation phase with
+semi-annual frequency during the first three (3) years and annually for the rest of the year.
+monitoring sampling. For relocated specimens, monitoring will last eight (8) years.
+Method o The sampling method corresponds to monitoring the survival of the 20
+procedure of relocated Citronella mucronata specimens, recording the parameters before
+sampling described.
+Semi-annual and annual reports will be prepared, with their respective field campaign,
+Frequency and term of the progress status of the measure during the construction and operation phase of the
+of delivery of the Project, which will be sent to CONAF and the SMA. It is considered at least 11
+reporting reports.
+follow-up • Report No. 1: Will report on the rescue and relocation campaign of the 20
+copies (first semester year 1)
+9-10
+==================================================================================
+PAGE 15
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction and Operation
+• Report No. 2: It will give an account of the first results of the relocation of the
+20 copies (second semester year 1)
+• Report No. 3 and No. 4: Will account for the survival of individuals and possible
+mortality compensation planting in the second year.
+• Report No. 5 and No. 6: Will account for the survival of individuals and possible
+mortality compensation planting in the third year.
+• Report No. 7: Will report on the survival of individuals and possible plantation
+mortality compensation in the fourth year.
+• Report No. 8: Will report on the survival of individuals and possible plantation
+mortality compensation in the fifth year.
+• Report No. 9: Will report on the survival of individuals and possible plantation
+mortality compensation in the sixth year.
+• Report No. 10: Will report on the survival of individuals and possible plantation
+mortality compensation in the seventh year.
+• Report No. 11: Will report on the survival of individuals and possible plantation
+mortality compensation in the eighth year.
+Source: GAC
+Table 9-6. Monitoring compensation measure MC-01: Germplasm Collection, Nursery and Replanting of
+Individuals of Asplenium trilobum, Gardoquia multiflora and Vestia foetida
+Phase of
+Construction and Operation
+Project
+Component
+Flora and Vegetation
+Environmental
+Impact
+IFV-02. Loss of flora specimens
+Associate
+Measure MC-04: Germplasm Collection, Nursery and Replanting of Individuals of Asplenium trilobum,
+Associated Gardoquia multiflora and Vestia foetida
+Location of the The place where the ECC plantation will be carried out corresponds to the native preservation forest.
+Measurement points MM-01 and the area surrounding it, located northeast of the area of influence. This area
+control or Sites is composed of a sector of native preservation forest (4.90 ha) and a matrix of
+sampling, adjacent forest plantations (8.15 ha), in order to protect the revegetation with
+measurement, Gardoquia multiflora and Vestia foetida and evaluate whether the plantation microsites offer
+analysis or conditions for the survival and growth of these species. In the following figure
+control presents the location of the enrichment area.
+9-11
+==================================================================================
+PAGE 16
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Phase of
+Construction and Operation
+Project
+Figure 9-5. Enrichment sector in a stream northeast of the Area of Influence
+Source: GAC
+The measure consists of the collection of germplasm, nursery and planting of 2,990
+specimens considering the following distribution in the enrichment area.
+- 2:3 in the native preservation forest (3.13 ha).
+- 1:3 in the m
+matrix of adjacent forest plantations (8.65 ha).
+The following table shows the number of ECC individuals to be planted in the sector of
+enrichment.
+Parameters
+for
+ECC for the enrichment sector.
+characterize the
+Total number of individuals
+status and species
+Preservation native forest Forest plantations
+evolution of the Gardoquia multiflora 340 170
+variables Vestia foetida 1,653 827
+environmental Total 1,993 997
+Source: GAC
+The parameter considered to see the state of evolution of the measurement corresponds to the count
+of individuals of the species Gardoquia multiflora and Vestia foetida in the plantation area.
+In addition, it is considered to evaluate growth variables such as height, vegetation cover, state
+health of the planted specimens, along with evaluating the need to carry out replanting to
+reach 75% survival.
+9-12
+==================================================================================
+PAGE 17
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Phase of
+Construction and Operation
+Project
+Limits
+The limit considered for monitoring the measure corresponds to 75% survival
+considered in
+of the initial number of ECCs planted (2,990).
+the evaluation
+Monitoring of the measure will be carried out during the construction and operation phase of the
+Project, with an initial annual frequency during the first and second year of the Project and
+Duration and
+subsequently semiannual until the eighth year.
+frequency of
+This period is conditioned to the results obtained in the previous stages (collection
+sampling
+of germplasm and nurseryization), since the plantation will be carried out once the individuals
+present a minimum development for their safe establishment in the plantation sites.
+Method or
+The sampling method corresponds to the count of planted individuals. Additionally, they will be observed
+procedure
+the parameters described above.
+sampling
+Annual and semi-annual reports will be prepared, with their respective field campaign, of the
+progress status of the measure for eight (8) years, which will be sent to CONAF and the
+SMA. At least 14 reports are considered:
+• Report No. 1: Will report on the germplasm collection campaign and treatments
+pregerminatives applied at the beginning of the nursery phase. In addition, to deliver
+the results of pregerminative treatments and first year of maintenance
+in nursery. You must specify the number of plants produced and survival in
+nursery
+• Report No. 2: It will report on the second year of maintenance in the nursery. You must
+specify survival, phytosanitary status and growth of individuals.
+Depending on the yield and growth results obtained, it will be taken
+Frequency and
+the decision to carry out the replanting of individuals, which must be established in
+term of
+the report.
+delivery of the
+• Report No. 3 and No. 4: Will report, if it exists, the third year of maintenance in
+reports of
+nursery. In addition, it will give a detailed account of the activities carried out prior to the
+tracking
+plantation.
+• Report No. 5 and No. 6: Will report on the planting of individuals and maintenance
+carried out in the period.
+• Report No. 7 and No. 8: Will report on the activities carried out in the second year of
+maintenance and survival of individuals.
+• Report No. 9 and No. 10: Will report on the activities carried out in the third year of
+maintenance and survival of individuals.
+• Report No. 11 and No. 12: Will report on the activities carried out in the fourth year of
+maintenance and survival of individuals.
+• Report N°13 and 14: Will report on the activities carried out in the fifth year of
+maintenance and survival of individuals.
+Source: GAC
+9-13
+==================================================================================
+PAGE 18
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+9.4.3 Monitoring Plan for the Vertebrate Fauna Component
+Four measures have been defined for this component:
+• MM-02. Rescue and relocation plan for vertebrate fauna.
+• MM-03. Controlled disturbance plan.
+• MR-
+01. Revegetation and conservation of intervened areas ZD and ZE with native vegetation.
+• MC-05. Protection of areas surrounding the project.
+Table 9-7. Monitoring Measure Mitigation MM-02: Rescue and Relocation Plan for Vertebrate Fauna
+Project Phase Construction and Operation
+Environmental Component Vertebrate Terrestrial Fauna
+Associated Impact IFA-01. Loss of specimens of interest and/or sensitive
+Associated Measure MM-02. Rescue and Relocation Plan
+This measure has two associated places: Rescue Areas and Relocation Areas
+Rescue and/or capture areas:
+The areas considered as rescue surfaces comprise approximately
+a total of 140.5 hectares, which include works and parts of the Project in its
+majority of areal type, both temporary and permanent characteristics (Figure
+9-6).
+Figure 9-6. Low mobility wildlife rescue areas.
+Location of Points
+Control or Sites
+sampling, measurement,
+analysis or control
+Source: GAC
+Relocation area:
+9-14
+==================================================================================
+PAGE 19
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+• Surface area of the relocation area greater than or equal to the surface area of the
+capture.
+• The relocation area will have habitat characteristics similar to the area of
+capture (this is partly the vegetation characteristics, altitude,
+microhabitat, shelters, food availability, among others).
+• Ideally at a minimum distance of 1 km from the capture area.
+• The relocation area will not be intervened by the Project, guaranteeing
+its protection in the medium to long term.
+Figure 9-7. Low mobility fauna relocation area.
+Source: GAC
+The parameter used to measure the evolution of the measurement corresponds:
+• Presence/absence of Target Species in the capture area
+Parameters for
+characterize the state and In the capture area, the absence of the target species is considered prior to the
+evolution of the Project intervention variables.
+environmental
+• Density and abundance of the receiving population in the area of
+relocation
+9-15
+==================================================================================
+PAGE 20
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+The increase in density and abundance of the receiving population or
+that remains unchanged over time until the end of monitoring,
+in such a way as to ensure the survival of the resident population (SEA, 20221)
+The permitted limits are the following:
+● 0% abundance of the target species is allowed in the rescue area,
+that is, if during the first monitoring more individuals are identified from the
+Limits considered in objective species these will be rescued.
+the evaluation ● In the relocation area, it is contemplated that there will be an increase or
+maintenance of the density and abundance of the target species, without
+variations may occur over time until the monitoring is completed
+of the measure (SEA, 2022).
+Monitoring campaign Timing and duration Area where it is applied
+The next day or 2 days after
+First campaign Capture area
+rescue, for 4 days.
+14 days after the rescue, during
+Second campaign Relocation area
+4 days.
+90 days after the rescue, during
+Third campaign Relocation area
+Duration and frequency of the 4 days.
+sampling
+180 days after the rescue,
+Fourth campaign Relocation area
+for 4 days.
+1 year after rescue, for 4
+Fifth campaign Relocation area
+days.
+1.5 years after the rescue, for 4
+Sixth campaign Relocation area
+days.
+2 years after the rescue, for 4
+Seventh campaign Relocation area
+days.
+2.5 years after the rescue, for 4
+Eighth campaign Relocation area
+days.
+3 years after the rescue, for 4
+Ninth campaign Relocation area
+days.
+Area where Moment in
+Method or procedure Taxa a Technique of Days of
+Parameter applies whichever applies
+sample sampling sampling
+sampling sampling
+sampling
+Presence/absence Area of Way Transects Three
+Amphibians
+Target species capture after the days
+1 Environmental Assessment Service (SEA). 2022. Evaluation Criteria in the SEIA: Technical Criteria for the Application of a
+Controlled Disturbance. [Available at: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+controlled-disturbance].
+9-16
+==================================================================================
+PAGE 21
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+search measure
+rescue and directed
+relocation, Transects
+in 1st with Three
+Reptiles
+day search monitoring
+directed
+Installation
+of three
+Micromammals
+day traps
+Sherman
+Transects
+with three
+Amphibians
+search days
+directed
+2nd monitoring,
+Density and Transects
+14 days
+abundance of the Area of with Three
+Reptiles finished
+population relocation search days
+rescue
+directed recipient
+Installation
+of three
+Micromammals
+day traps
+Sherman
+The report regarding the results of the implementation of the “Rescue and
+relocation” within the framework of PASM146, will be delivered to the authorities
+Frequency and term of
+competent authorities (SAG, SMA) within a maximum period of 45 days after the end of the
+delivery of reports
+measurement monitoring activities. However, the
+tracking
+required reports within the deadlines indicated in the Exempt Resolution that
+authorize the captures.
+Source: GAC
+Table 9-8. Monitoring Mitigation Measure MM-03: Controlled Disturbance Plan
+Project Phase Construction and Operation
+Environmental Component Vertebrate Terrestrial Fauna
+Associated Impact IFA-01. Loss of specimens of interest and/or sensitive
+Associated Measure MM-03 Controlled Disturbance Plan
+The measure will apply to linear works associated with mining roads, roads
+existing or new, requiring intervention such as clearing vegetation,
+Location of Points
+steep, compaction or other.
+Control or Sites
+For each road where there will be some degree of intervention by the Project,
+sampling, measurement,
+will add a buffer or buffer zone where a degree of
+analysis or control
+direct or indirect intervention (proximity); The buffer used is 20 m on each side of the
+way.
+Parameters for The parameters are based on what is indicated in the Technical Guide for Implementing Measures
+characterize the state and Rescue/Relocation and Controlled Disturbance (Torres-Mura et al., 20142):
+2 Torres-Mura, J.C., E. Riveros-Riffo, V. Escobar-Gimpel. 2014. Technical guide to implement rescue/relocation measures
+and controlled disturbance. Agricultural and Livestock Service, 45 pp.
+9-17
+==================================================================================
+PAGE 22
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+evolution of the variables • Description habitat of origin.
+environmental • Potential destination habitat.
+• Degree of influence of other activities on the site where it is projected
+move the animals.
+• Home range and movement capacity of target species.
+• Richness and diversity of species in the assemblage (before/after
+application of the measure).
+• Specific abundance of species.
+• Presence of reproduction.
+• Projected area for disturbance (surface) vs actual area
+disturbed
+It will be considered that there is an increase or maintenance of the abundance of the
+Limits considered in
+target species, without variations over time until the end of the
+the evaluation
+monitoring of the measure (SEA, 20223).
+The duration and frequency for monitoring will be as follows:
+• Pre-disturbance abundance records: will be carried out from 1 to 3 days
+prior to the start of the controlled disturbance measurement, for 1 to 3
+work days according to the surface to be sampled.
+• Abundance records after the disturbance: will be carried out
+1 day after the execution of the measure, during 1 to 3 work days
+according to your
+surface to be sampled.
+• Abundance records in sink areas after the
+disturbance: monitoring of the sink areas of the works will be carried out
+built to verify the presence of disturbed species. This is
+Duration and frequency of the work carried out during the entire construction phase with a periodicity
+quarterly sampling.
+• A follow-up will be carried out the first month through non-invasive methods
+(without capture) that allow determining, in addition to presence, the activity of
+occupation of shelters or burrows. In the second and third month there will be
+quantitative measurements and later in contrasted stations. The
+Monitoring should address at least two reproductive cycles of the
+target species.
+• As an indicator of success, it is considered that the results obtained must
+demonstrate that the receiving population has been maintained over time or that
+presents an increase with respect to its original condition prior to
+disturbance.
+Abundance records prior to disturbance:
+Method or procedure
+• Transects of fixed width and variable length will be carried out, with the participation of
+sampling
+an adequate number of professionals, from 9:00 a.m. to 1:00 p.m. and of
+3 Environmental Assessment Service (SEA). 2022. Evaluation Criteria in the SEIA: Technical Criteria for the Application of a
+Controlled Disturbance. [Available at: https://sea.gob.cl/noticias/nuevos-criterios-tecnicos-para-la-aplicacion-de-una-
+controlled-disturbance].
+9-18
+==================================================================================
+PAGE 23
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+2:00 p.m. to 6:00 p.m., according to the duration and frequencies indicated. The
+The amount of transects to be carried out will be subject to the specialist's criteria.
+Post-disturbance abundance records:
+• Transects of fixed width and variable length will be carried out, with the participation of
+an adequate number of professionals, from 9:00 a.m. to 1:00 p.m. and of
+2:00 p.m. to 6:00 p.m., according to the duration and frequencies indicated. The
+sampling effort must be comparable to that carried out in the
+previous estimates.
+The report relating to the results of the implementation of the measure “Disruption
+“controlled collection of reptiles and small mammals” will be delivered to the authorities
+Frequency and term of
+competent authorities (Superintendence of the Environment and regional SAG) within a
+delivery of reports
+maximum period of 45 days after the end of the monitoring activities of the
+tracking
+measure. Notwithstanding the above, the required reports will be issued in
+the deadlines indicated in the Exempt Resolution that authorizes the captures.
+Source: GAC
+Table 9-9. Monitoring Repair measure MR-01: Revegetation of intervened areas ZD and ZE with vegetation
+native (except ZE Luna).
+Phase of
+Construction and Operation
+Project
+Component
+Vertebrate Terrestrial Fauna
+Environmental
+Impact
+IFA-02. Loss and/or modification of habitat of species of interest and/or sensitive
+Associate
+Measure MR-01 Revegetation and Conservation of intervened areas ZD and ZE with native vegetation (except ZE
+Associate Luna).
+The location of the control points corresponds to the location of the Project works, in particular,
+the Extraction Zones (ZE) (except ZE Luna) and Disposal Zone (ZD), since the measure will be applied
+on the surface of these areas, at the closing of each of them in accordance with the phase schedule of
+operation.
+Location of Figure 9-8. Location of ZE (left) (except ZE Luna) and ZD (right) that will be revegetated.
+the Points of
+control or Sites
+sampling,
+measurement,
+analysis or
+control
+Source: GAC
+9-19
+==================================================================================
+PAGE 24
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+It should be noted that ZE Luna will not be part of the Monitoring Plan, because it is a surface that
+After the mineral extraction stage (years 2028-2029), it will become part of cell 4 of the
+project "Operational Continuity Management Center
+of Concepción Waste", from the Cemarc company,
+whose Environmental Qualification Resolution was approved in 2023. The construction of Cell No. 4 is
+projected for the year 2030. For more information See section 1.11.2.5.i. “Chronological Advancement of the ZE”
+of Chapter 1 Project Description.
+Parameters
+for
+characterize the
+The parameters considered to characterize the evolution of the measurement correspond to: density of
+status and
+individuals, yield percentage, phytosanitary status of the individuals and vegetation cover.
+evolution of
+the variables
+environmental
+Limits
+The limit considered is to revegetate all surfaces inside each ZE (except ZE Luna) and ZD where
+considered
+It is feasible to carry out the measurement, through the use of native flora.
+in the
+Wildlife is considered to use revegetated areas.
+evaluation
+Monitoring of the measure will be carried out during the operation phase. Since the beginning of revegetation
+in each area, which will be done after the closure of areas inside each ZD and ZE (except ZE Luna). The
+Duration and
+Monitoring of the measure in each revegetation area will be carried out on a quarterly basis during
+frequency of
+three years after the closing of each work.
+sampling
+The start of revegetation activities will be when the closure of the extraction areas begins.
+(except ZE Luna) and the disposal area.
+Method o Regarding the intervened areas ZD and ZE (except ZE Luna).
+procedure The sampling method corresponds to the creation of representative sampling plots in the areas
+revegetation sampling.
+Frequency and
+term of
+delivery of the From the beginning of the revegetation activities, a semiannual report will be delivered for three years.
+reports of
+tracking
+Source: GAC
+Table 9-10. Monitoring compensation measure MC-05: Protection of areas surrounding the project
+Project Phase Construction and Operation
+Component
+Vertebrate Terrestrial Fauna
+Environmental
+Associated Impact IFA-02. Loss and/or modification of habitat of species of interest and/or sensitive
+Associated Measure MC-05 Protection of areas surrounding the Project
+Location of the In the entire area comprised by the set of protection polygons indicated in the
+Control points description of the measure, adding up to a total of 90.66 hectares. Additionally, it will be installed
+o Signage sites in at least 15 of the sectors indicated in the measure.
+9-20
+==================================================================================
+PAGE 25
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+sampling, All locations are located in the communes of Penco and Concepción, in the province of
+measurement, analysis Concepción, Biobío region.
+or control
+Parameters for
+• Date of signing the declaration of protection of the sectors.
+characterize the
+• Composition and cover of the vegetation.
+status and
+• Presence/absence of meso- and macromammals and characterization of the sites of presence.
+evolution of the
+• Presence/absence of signage
+variables
+• Visibility and legibility of 100% of the signage.
+environmental
+• The date of signing the protection declaration is prior to the beginning of the Protection Phase.
+Construction.
+Limits • The composition and coverage are maintained without significant alterations associated with
+considered in anthropogenic interventions.
+the evaluation • The presence of meso- and macromammals is maintained.
+• All signage must be installed before the start of the Construction Phase and
+keep in good.
+• The date of signing the private protection of the area is prior to the beginning of the Phase of
+Duration and Construction.
+frequency of • Protection will be throughout the useful life of the Project.
+sampling • Annual reports are made on the state of the protected sectors.
+• 100% of the signage remains visible and legible.
+• Documents declaring private protection of the area.
+• Vegetation study carried out by specialists.
+Method or
+• Study using camera traps aimed at records of meso- and macromammals.
+procedure of
+• At least 30 camera traps installed for a period of no less than 60 days will be used in
+sampling
+every occasion. The data obtained will be supported to generate a
+report with
+main results.
+Frequency and
+A report prior to the start of the Construction phase that demonstrates the protection of the areas by
+delivery time
+the entire established period.
+of the reports
+An annual report is prepared on the status of the protected sectors.
+tracking
+Source: GAC
+9.4.4 Monitoring plan for the Invertebrate Fauna Component
+For this component a measure has been consulted:
+• MM-04. Rescue and relocation plan for invertebrate fauna.
+Table 9-11. Monitoring Mitigation Measure MM-04: Rescue and relocation plan for invertebrate fauna.
+Project Phase Construction and Operation
+9-21
+==================================================================================
+PAGE 26
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Component
+Invertebrate Terrestrial Fauna
+Environmental
+Associated Impact IFI-01. Loss of specimens of interest and/or sensitive
+Associated Measure MM-04. Rescue and Relocation Plan for invertebrate fauna
+This measure has two associated places: Rescue Areas and Relocation Areas
+Rescue and/or capture areas:
+The areas considered as rescue surfaces comprise approximately
+total of 275.41 hectares, which include works and parts of the Project, mostly of
+areal type, both temporary and permanent characteristics.
+Figure 9-9. Low mobility wildlife rescue areas.
+Location of the
+Checkpoints or
+Sampling sites,
+measurement, analysis or
+control
+Source: GAC
+Relocation area:
+• Surface area of the relocation area greater than or equal to the surface area of the
+capture.
+• The relocation area will have habitat characteristics similar to the area of
+capture (this is partly the vegetation characteristics, altitude,
+microhabitat, shelters, food availability, among others).
+• Ideally at a minimum distance of 1 km from the capture area.
+• The relocation area will not be intervened by the Project, guaranteeing its
+protection in the medium to long term. In this sense, the proposed area
+corresponds to the Nonguén National Park. (in yellow in the image above)
+Parameters for
+The parameter used to measure the evolution of the measurement corresponds:
+characterize the state
+9-22
+==================================================================================
+PAGE 27
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+and evolution of
+environmental variables ▪ Presence/absence of target species
+The first monitoring focuses on determining if there are any individuals left in the area of
+intervention, targeting 0% abundance of the target species. This monitoring is
+It will take place one or two days after the rescue. The parameter to be used in
+presence/absence of target species, aiming at the rescue of 100% of individuals.
+This monitoring and parameters to be measured will be carried out only in the capture area.
+▪ Percentage of relocated individuals resighted
+The second monitoring will be carried out in the relocation area and is focused on
+determine the early permanence of rescued individuals in the rescue area
+relocation, through the identification of marked individuals. The parameter that
+will be used corresponds to the resighting percentage of relocated individuals. The
+Second monitoring will be carried out 14 days after the rescue only in the area of
+relocation.
+▪ Behavior of the receiving population
+The third, fourth and fifth monitoring will be carried out in the relocation area and is
+focused on determining how the receiving population behaves once it is
+insert new individuals. The parameters to be evaluated will be the richness, the average density
+and relative abundance of species present. The third, fourth and fifth monitoring are
+will be carried out 90, 180 and 360 days after the rescue, respectively.
+The permitted limits are the following:
+● 0% abundance of the target species is allowed in the capture area,
+that is, if during the first monitoring more individuals are identified from the
+Limits considered target species, these will be rescued.
+in the eve
+luation ● In the relocation area, the early permanence of
+individuals relocated by 10%.
+In the relocation area, the aim will be to maintain and/or increase density
+mean (absolute abundance) of the target species.
+Monitoring campaign Timing and duration Area where it is applied
+The next day or 2 days after
+First campaign Capture area
+rescue, for 5 days.
+Duration and frequency
+of sampling 14 days after rescue, during
+Second campaign Relocation area
+5 days.
+90 days after the rescue, during
+Third campaign Relocation area
+5 days.
+9-23
+==================================================================================
+PAGE 28
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+180 days after the rescue,
+Fourth campaign Relocation area
+for 5 days.
+360 days after the rescue,
+Fifth campaign Relocation area
+for 5 days.
+To carry out the captures, the field personnel (wildlife specialists)
+You must have experience and/or be trained in the management of the species
+objective.
+Capture activities should be carried out during times when temperatures
+allow favorable conditions for the relocation of individuals. This is during the
+spring and/or summer season, and on the days and times in which the characteristics
+climatic conditions allow it, adjusting the construction start schedule to the
+noted.
+Specifically for captures carried out on arachnids, these must be carried out
+after the summer season (March-April) so as not to intervene in its process
+of ecdysis nor its oothecal hatching period. Time differences must be considered
+for females and males; during the day for females and during the night for males.
+To record the above, daily records associated with the
+application of the captures, indicating the area, professionals in charge, date,
+temperature and wind and cloud conditions, applied efforts and/or rate of
+advance, and thus the schedule of capture and relocation of the individuals.
+Below are the considerations associated with capturing fauna
+Method or
+invertebrate:
+procedure of
+The characterization of invertebrates will be carried out using two main methods, one
+sampling
+active collection and a passive collection, distributed in each of the prospected sites. In
+Each PME the surface will be covered on foot with the help of an odometer and
+will carry out an active collection under different rocks and pieces of logs available in the area
+of the project, in the case of the bushes and trees that are prospected, a
+entomological umbrella, whose function mainly consists of tapping branches and
+available woody structures, generating the fall and subsequent collection with a vacuum cleaner
+entomological of the different species that can be observed in the fabric blanket
+white that makes up the entomological umbrella used, whose surface was one meter
+square. For passive collection, Barber and pitfall traps will be used, where it was installed
+following the recommendations to avoid typical errors that can affect the
+data obtained with the auto-correlation between the samples according to Lafranco et al (2010).
+For this purpose, pitfall traps (pitfall and barber traps) will be placed every 40 meters along the
+along the transect, the pitfall traps will be made up of a glass of
+360 ml plastic buried at the surface and the Barber traps were similarly
+arranged like pitfall traps, where one third of their capacity will be filled with bait
+aromatic liquid based on apple cider vinegar and red grapes that will be installed
+randomly in each PME.
+Frequency and deadline of The report relating to the results of the implementation of the “Rescue and
+delivery of relocation” within the framework of PASM146, will be delivered to the competent authorities
+reports from (SAG, SMA) within a maximum period of 30 business days after the end of the
+monitoring measurement monitoring activities. However, the
+9-24
+==================================================================================
+PAGE 29
+=========
+===========================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+required reports within the deadlines indicated in the Exempt Resolution that authorizes
+the catches.
+Source: GAC
+9.4.5 Monitoring Plan for the Soil Component
+Two measures have been proposed for this component:
+• MR-02. Rescue, collection and reuse of soil in intervened areas.
+• MR-03 Improvement of soil properties in intervened areas.
+Table 9-12. Monitoring Repair Measure MR-02: Rescue, collection and reuse of soil in the areas
+intervened.
+Project Phase Construction and Operation
+Environmental Component Soil
+Associated Impact ISU-01 Loss of soil natural resources
+Associated Measure MR-02 Rescue, collection and reuse of soil in intervened areas
+The location of the sampling, measurement and analysis sites corresponds to the areas
+where the reuse of soil will be carried out, which is on certain slopes of the surface
+of intervened areas already closed within the Extraction Zones (ZE) Victoria North
+and Maite, and Neptune Disposal Zone (ZD). The following table shows the
+location coordinates of each of these areas.
+North East vertex area
+1 5,931,456 681,422
+2 5,931,085 681,467
+3 5,931,006 681,429
+4 5,930,749 681,284
+5 5,930,601 681,244
+Location of Points 6 5,930,491 681149
+control or Sites of 7 5,930,475 681,062
+ZE Victoria North
+sampling, measurement, 8 5,930,594 681,030
+analysis or control 9 5,930,748 681,064
+10 5,931,006 681,056
+11 5,931,102 681,039
+12 5,931,300 681,127
+13 5,931,389 681,193
+14 5,931,300 681,498
+21 5,928,749 680,705
+22 5,928,550 680,819
+23 5,928,368 680,834
+ZE Maite
+24 5,928,269 680,625
+25 5,928,132 680,507
+26 5,928,051 680,302
+9-25
+==================================================================================
+PAGE 30
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction and Operation
+27 5,928,140 680,216
+28 5,928,269 680,169
+29 5,928,481 680,188
+30 5,928,562 680,279
+31 5,928,562 680,279
+32 5,928,820 680,415
+1 5,930,011 679,828
+2 5,929,890 680,181
+3 5,929,426 680,378
+4 5,929,311 680,199
+ZD Neptune
+5 5,929,159 679,969
+6 5,929,099 679,807
+7 5,929,242 679,680
+8 5,929,561 679,643
+GAC source.
+It should be noted that ZE Luna will not be part of the Monitoring Plan, because it is
+a surface that after the mineral extraction stage (years 2028-2029),
+will become part of cell 4 of the project "Operational Continuity Center of
+Concepción Waste Management", of the company Cemarc, whose Resolution of
+Environmental Qualification was approved in 2023. The construction of Cell No. 4 is
+projected for the year 2030. For more information See section 1.11.2.5.i. “Advance
+Chronological of the ZE” of Chapter 1 Project Description.
+It should be noted that, in the extraction areas, prior to carrying out the measurement of
+soil reuse, the width of the berm of the exploitation banks of the areas is
+will be found denuded, that is, without soil on the surface, with the
+material that the bank has arrived at in its operation. On this material it will be
+rearranged the ground.
+In the disposal area, prior to carrying out the measurement, the material that is
+found on the surface will correspond to the filling material coming from the areas
+Parameters for extraction, i.e. waste and spent ore from the processing plant. About
+characterize the state and this material will be rearranged the soil.
+evolution of the variables Considering the above, below are the parameters that will be used
+environmental conditions to characterize the state and evolution of the soil rearranged on the surface at closure
+of the areas already intervened.
+• Soil depth
+• Apparent density
+• Electrical conductivity
+• Water retention capacity (Field capacity and wilting point
+permanent)
+• Texture
+Limits considered in The following ranges are considered for monitoring the parameters to be measured.
+the evaluation • Soil thickness: greater than 20 cm.
+9-26
+==============================================================================
+===
+PAGE 31
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Project Phase Construction and Operation
+• Apparent soil density: no initial range. Its evolution will be seen in the
+time, since it is reused.
+• Soil electrical conductivity: Less than 4 dS/m.
+Water holding capacity and texture: ranges are not considered as it cannot be
+preliminarily determine the textures that will exist in the rescued soils
+Tracking duration:
+The monitoring of the measure will be carried out from the moment the reuse of the land begins
+on intervened areas already closed, for a period of 5 years.
+Duration and frequency of
+Sampling frequency:
+sampling
+The monitoring will be done for the first time, after the
+redisposition of soil on each ZE and ZD, which occurs only once in each area.
+Subsequently, a biannual monitoring will be carried out, within each ZE or ZD, that is,
+will follow up on Year 1, Year 3 and Year 5.
+The sampling procedure will consist of within each ZD and ZE, according to
+appropriate, the measurement of the considered parameters will be made in ten (10) points
+within each ZE and ZD.
+Pits will be made that will allow measuring the depth of the soil and measurements will be taken.
+samples of apparent density, texture, field capacity and wilting point
+Method or procedure
+permanent soil in the first 20 cm. Samples will then be taken
+sampling
+compounds for the determination of Electrical Conductivity (EC). The samples
+They will be sent to a laboratory accredited for soil sampling by the SAG.
+An annual report will be generated indicating the areas in which the measure has been applied.
+within the corresponding period, the location of the ten (10) sampling points
+within each zone and the measurement of the parameters at each point.
+Frequency and term of
+delivery of reports Annual report to the Superintendency of the Environment.
+tracking
+Source: GAC
+9-27
+==================================================================================
+PAGE 32
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 9-13. Monitoring of Repair Measure MR-03: Improvement of soil properties in the areas
+intervened.
+Project Phase Construction and Operation
+Environmental Component Soil
+Associated Impact ISU-01 Loss of soil natural resources
+Associated Measure MR-03 Improvement of soil properties in intervened areas
+The location of the sampling, measurement and analysis sites corresponds to the areas
+where the soil redisposition will be carried out, which is on certain slopes of the surface
+of intervened areas already closed within the Extraction Zones (ZE) Victoria North
+and Maite, and Neptuno Disposal Zone (ZD), where the conditioning will be carried out
+from the ground. The following table shows the location coordinates of each of these
+areas.
+North East vertex area
+1 5,931,456 681,422
+2 5,931,085 681,467
+3 5,931,006 681,429
+4 5,930,749 681,284
+5 5,930,601 681,244
+6 5,930,491 681149
+7 5,930,475 681,062
+ZE Victoria North
+8 5,930,594 681,030
+9 5,930,748 681,064
+10 5,931,006 681,056
+Location of Points
+11 5,931,102 681,039
+control or Sites of 12 5,931,300 681,127
+sampling, measurement, 13 5,931,389 681,193
+analysis or control 14 5,931,300 681,498
+21 5,928,749 680,705
+22 5,928,550 680,819
+23 5,928,368 680,834
+24 5,928,269 680,625
+25 5,928,132 680,507
+26 5,928,051 680,302
+ZE Maite
+27 5,928,140 680,216
+28 5,928,269 680,169
+29 5,928,481 680,188
+30 5,928,562 680,279
+31 5,928,562 680,279
+32 5,928,820 680,415
+1 5,930,011 679,828
+2 5,929,890 680,181
+ZD Neptune 3 5,929,426 680,378
+4 5,929,311 680,199
+5 5,929,159 679,969
+9-28
+==================================================================================
+PAGE 33
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6 5,929,099 679,807
+7 5,929,242 679,680
+8 5,929,561 679,643
+Al i
+nterior of each ZE and ZD, 10 sampling points will be considered.
+It should be noted that ZE Luna will not be part of the Monitoring Plan, because it is
+a surface that after the mineral extraction stage (years 2028-2029),
+will become part of cell 4 of the project "Operational Continuity Center of
+Concepción Waste Management", of the company Cemarc, whose Resolution of
+Environmental Qualification was approved in 2023. The construction of Cell No. 4 is
+projected for the year 2030. For more information See section 1.11.2.5.i. “Advance
+Chronological of the ZE” of Chapter 1 Project Description.
+At each sampling point the measurement of the following parameters will be considered
+Parameters to characterize the initial state of the environmental component, and the subsequent monitoring
+characterize the state and of these parameters:
+evolution of the variables • pH
+environmental • % Organic matter
+• % Plant cover
+With the implementation of the measure, an improvement in the properties of the soil is expected. The
+monitoring of the measure will correspond on the one hand to the verification of the implementation
+of the measure appropriately, in terms of applying the amendment in a manner
+uniform in the involved area. With the application of compost the
+availability of nutrients and with the revegetation of the intervened areas, it is expected
+also an increase in organic matter, coverage and quantity of roots.
+For pH, a range is not considered in the evaluation of these parameters, since it is
+must have the initial condition, that is, with the result of the parameters
+Limits considered measured once the soil is redisposed in the intervened areas, and from there,
+The evaluation will monitor this variable. The above, according to the progress of the works and the
+closure of areas.
+For organic matter, at least an average value of 2.1 – 3.5% will be maintained from
+of the second year (after applying the compost). In year 1 (without compost)
+will consider an initial concentration without restriction of MO content.
+For vegetation coverage, 25% is committed to year 2, 50% to year 3 and 75% to year 5. In
+year 1 (without revegetation) will be considered an initial concentration without restriction of
+vegetal cover.
+Tracking duration:
+Duration and frequency of The monitoring of the measure will be carried out from the moment the land redisposition begins.
+sampling on already closed intervened areas, and until the end of the last year of the
+operation. The first measurement of the indicated parameters, which will correspond to the
+9-29
+==================================================================================
+PAGE 34
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+initial condition of comparison, it will be carried out after the soil has
+been rearranged on the surface of the intervened areas, and prior to the
+application of compost and revegetation. The above, according to the progress of the stages and
+to the closure of areas throughout the 6 years of Project operation.
+Sampling frequency:
+The monitoring will be done for the first time, after the
+redisposition of land on each ZE and ZD, which occurs only once in each area; and
+It will be done before the application of compost and revegetation.
+Subsequently, a follow-up will be done at year 1, year 3 and year 5, within each ZE or
+ZD.
+The sampling method corresponds to taking soil samples at the points of
+sampling, and its referral to an accredited soil laboratory for the analysis of the
+parameters considered. pH and MO sampling will be carried out through samples
+superficial compounds.
+Method or procedure
+The sampling will consist of within each ZD and ZE, as appropriate, taking
+sampling
+a sample in ten (10) points within each ZE and ZD.
+A report will be generated indicating the areas in which the measure has been applied within
+of the corresponding period, the location of the ten (10) sampling points within
+of each area and the measurement of the parameters at each point.
+Frequency and term of
+delivery of reports Annual report to the Superintendency of the Environment.
+tracking
+Source: GAC
+9.4.6 Monitoring Plan for the Human Environment Component
+For this component it is considered
+n two measurements:
+• MM-05. Controlled Access Protocol for GHPPI
+• MM-06. Information and communication plan with GHPPI
+• MM-07. Support plan to strengthen cultural practices of the GHPPI
+Table 9-14. Monitoring Mitigation Measure MM-05 Access protocol for GHPPI
+Monitoring Plan “MM-05 Controlled access protocol for GHPPI”
+Phase/Part of
+Construction, Operation and Closure.
+Project
+Component(s)
+environmental(s) object Human Environment.
+tracking
+9-30
+==================================================================================
+PAGE 35
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Monitoring Plan “MM-05 Controlled access protocol for GHPPI”
+Subcomponent
+Human Groups Belonging to Indigenous Peoples (GHPPI).
+environmental
+Environmental variable Traditional activities.
+IMH-01 Impact on the development of cultural and traditional practices of organizations
+indigenous people along the forest road adjacent to Estero Penco (including the El sector
+Associated impact
+Tranque) and Los Queules sector due to access restriction through the installation of checkpoints.
+access control.
+Measurement(s)
+Controlled Access Protocol for GHPPI
+associate(s)
+The protocol begins with the sending of an informative letter by the Owner within a period
+period of 90 calendar days prior to the execution of the Project start milestone, to inform
+to the Koñintu Lafken-Mapu Penco Indigenous Association and the Mapuche Lawen Cultural Association
+Mawida, users of the controlled access area identified in the EIA, of the new protocol
+and its implementation; and will be addressed to the president and secretary of each Association
+individualized.
+Without prejudice to the above, the procedure will be communicated and socialized during the
+citizen participation and all those informative instances developed with the
+Associations.
+The entry application process (protocol) will be carried out at the Aclara Open House in Penco
+or by telephone or email or letter before admission.
+In addition, the access control points to be enabled are indicated, in whose place the
+knowledge of the income indicated in the respective protocol.
+Access control points near ZE Victoria Norte
+Location of the
+points/areas of
+measurement and control
+Source: GAC
+9-31
+==================================================================================
+PAGE 36
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Monitoring Plan “MM-05 Controlled access protocol for GHPPI”
+The parameters reported in the Implementation Form point must be monitored.
+regarding the environmental mitigation measure called “Controlled Access Protocol
+for GHPPI”, corresponding to chapter 7 of this EIA, namely:
+Parameters to
+- Entry form;
+monitor
+- Validation;
+- Entry and exit and
+- Information letter
+Allowed limits o 100% of accreditations (record of income) issued by the Owner, and whose request complies with
+committed to basic entry requirements.
+Duration and frequency
+Annually throughout the entire Project execution period.
+of measurement
+Each parameter will be measured through the compliance indicators indicated in the item.
+Compliance indicators, related to the environmental mitigation measure called
+“Access protocol for GHPPI”, presented in chapter 7 of the EIA. These indicators are
+will be presented in an annual report that will contain:
+- Record of accreditations authorized by the Owner that meet the requirements
+basic entry to the Project area. To guarantee access to the area of the
+Project, the following basic entry requirements must be met: a) be a member
+Method or
+of one of the Indigenous Associations identified as a user of the access area
+procedure of
+controlled in the EIA, companions may be incorporated, who will be indicated by
+measurement of each
+the representatives of the Association; b) complete the form appropriately and
+parameter
+visit areas that are not located in risk areas for the personal safety of
+it
+s applicants; and c) deliver the form in a timely manner and according to protocol to the
+Holder.
+- Delivery of an informative letter of the protocol to the entire Indigenous Association
+Koñintu Lafken-Mapu Penco and Mapuche Cultural Association Lawen Mawida,
+identified as users of the controlled access area in the EIA, according to how
+established in protocol.
+- Access protocol for GHPPI (form and implementation)
+Term and frequency of
+Annual report summarizing the use of the Access Protocol for GHPPI during the period.
+delivery of reports
+Organism
+recipient of the Superintendency of the Environment.
+reports
+Source: GAC
+Table 9-15. Monitoring Mitigation Measure MM-06 Information and communication plan with GHPPI
+Monitoring Plan “MM-06 Information and communication plan with GHPPI”
+Phase/Part of the Project Construction, Operation and Closure.
+Component(s)
+environmental(s) object of Human Environment.
+tracking
+9-32
+==================================================================================
+PAGE 37
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Monitoring Plan “MM-06 Information and communication plan with GHPPI”
+Subcomponent
+Human Groups Belonging to Indigenous Peoples (GHPPI).
+environmental
+Environmental variable Traditional activities.
+IMH-01 Impact on the development of cultural and traditional practices of organizations
+indigenous people along the forest road adjacent to Estero Penco (including the El sector
+Associated impact
+Tranque) and Los Queules sector due to access restriction through installation of points
+access control.
+Associated measure(s) Information and communication plan with GHPPI
+The protocol begins with the sending of an informative letter by the Owner in a period
+of 90 calendar days prior to the execution of the start milestone, to inform the Association
+Koñintu Lafken-Mapu Penco Indigenous People and Lawen Mawida Mapuche Cultural Association
+Location of the users of the controlled access area identified in the EIA, the new protocol and its
+implementation points/zones; and will be addressed to the president and secretary of each Association
+individualized measurement and control.
+The proposed activities will take place at the Aclara Open House, Penco; via
+telephone; email; letter.
+The parameters reported in the Implementation Form point must be monitored.
+regarding the environmental mitigation measure called “Information and
+communication for GHPPI”, corresponding to chapter 7 of this EIA, namely:
+- Meetings with Associations;
+Parameters to monitor
+- Registered letter and email; and
+- -Direct telephone line
+In addition to all information dissemination events to GHPPI carried out by the
+owner in the commune of Penco within the framework of the Project and its access restrictions.
+Allowed limits or
+100% of communications between the Owner and the GHPPI registered
+committed
+Duration and frequency of
+Annually throughout the project execution period.
+measurement
+Each parameter will be measured through the compliance indicators indicated in the
+item Compliance indicators, related to the environmental mitigation measure
+Method or procedure called “Information and communication plan with GHPPI”, presented in the chapter
+measurement of every 7 of this EIA. These indicators will be presented in an annual report that will contain:
+parameter - Minutes of meetings held, attendance record;
+- Copy of certified letter and informative email; and
+- Direct telephone line activation
+Deadline and frequency of the annual report to the SMA with the results of the information and communication plan with the
+delivery of GHPPI reports identified in the EIA.
+Recipient agency
+Superintendence of the Environment.
+of reports
+Source: GAC
+9-33
+==================================================================================
+PAGE 38
+==================================================================================
+Chapter 9
+Monitoring plan for relevant environmental variables
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 9-16. Monitoring Mitigation Measure MM-07 Support plan for strengthening cultural practices
+of the GHPPI
+Plan d
+e Follow-up “MM-07 Plan to support the strengthening of cultural practices of the GHPPI”
+Phase/Part of the Project Construction, Operation and Closure.
+Component(s)
+environmental(s) object of Human Environment.
+tracking
+Subcomponent
+Human Groups Belonging to Indigenous Peoples (GHPPI).
+environmental
+Environmental variable Traditional activities.
+IMH-03 Restriction of access to natural resources (medicinal herbs) used by
+GHPPI for medicinal and cultural purposes, hindering the manifestation of activities
+Associated impact
+cultural and collective interests, by the installation of access control points,
+informative signage and surveillance patrols.
+Associated measure(s) Plan to support the strengthening of cultural practices of the GHPPI
+Location of the It will correspond to the place defined in conjunction with the GHPPI where the measure will be executed,
+points/zones or, failing that, the place defined by the GHPPI
+measurement and control
+The parameter corresponds to the execution of activities that are agreed upon with the two GHPPI
+Parameters to
+identified, so the status and evaluation of the component will depend on the
+monitor
+definition of this agreement.
+Considering the parameters indicated above, it is considered as an indicator of
+Allowed limits or success of the measure to account for the execution of all actions that depend on the
+committed Owner to obtain the agreement with the identified GHPPI. In case of not achieving
+In accordance with the GHPPI, this will be noted in the aforementioned reports.
+Duration and frequency of
+Annually throughout the entire Project execution period.
+measurement
+The report that will be delivered will give an account of the progress status of the measure, through
+the following verifiers:
+- Minutes of meetings and agreements of the Working Group, containing a list of
+signed assistance, for, at least: Definition of lines of work and definition of
+Method or procedure
+project selection method.
+measurement of each
+- In case of reaching agreement regarding the projects to be implemented, also
+parameter
+The progress of the application of the measure will be reported, with a record of award of
+project, photographic record of implementation, and final closing act.
+- If agreements are not reached at any point in the process, a
+rejection record.
+Term and frequency of Annual. Presentation within a maximum period of 3 months after the end of the year in
+delivery of evaluation reports.
+Recipient agency
+Superintendence of the Environment and CONADI.
+of reports
+9-34

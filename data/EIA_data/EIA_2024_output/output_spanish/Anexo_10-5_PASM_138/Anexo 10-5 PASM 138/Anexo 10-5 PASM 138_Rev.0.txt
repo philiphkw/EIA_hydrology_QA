@@ -1,0 +1,1217 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-5
+Permiso Ambiental Sectorial
+N°138
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Contenidos Técnicos y Formales .................................................................................................. 2
+2.1 (a) Descripción del Sistema de Recolección y/o Tratamiento ....................................................... 2
+2.2 (b) Plano de localización del área de recolección y de la planta de tratamiento de aguas servidas
+....................................................................................................................................................... 5
+2.3 (c) Generación de aguas servidas .................................................................................................. 8
+2.4 (d) Caracterización fisicoquímicas de las aguas servidas .............................................................. 8
+2.5 (e) Descripción del sistema de tratamiento de aguas servidas ..................................................... 9
+2.5.1 Etapa I: Decantador ............................................................................................................... 9
+2.5.2 Etapa II: Reactor Biológico por Lodos Activados (Tratamiento Aerobio) ............................ 10
+2.5.3 Etapa III: Decantador Secundario o Clarificador ................................................................. 10
+2.5.4 Etapa IV: Digestor de lodos (aeróbica) ................................................................................ 10
+2.5.5 Etapa V: Desinfección .......................................................................................................... 10
+2.5.6 Disposición final del Efluente .............................................................................................. 10
+2.5.7 Descripción de las medidas de control o mitigación de olores ........................................... 11
+2.6 (f) Descripción de la forma de disposición final del efluente tratado, según corresponda ........ 11
+2.7 (g) Indicación del período de retorno considerado para el diseño de los desagües de aguas lluvias
+..................................................................................................................................................... 15
+2.8 (h) Descripción del sistema de tratamiento de aguas servidas y disposición, de tratarse de una
+fosa séptica .............................................................................................................................................. 15
+2.9 (i) Descripción general de la generación y manejo de lodos ....................................................... 15
+2.10 (j) Programa de monitoreo .......................................................................................................... 16
+2.11 (k) Plan de contingencias ............................................................................................................. 17
+2.12 (i) Plan de emergencias ............................................................................................................... 18
+3 Indicadores de cumplimiento .................................................................................................... 27
+INDICE DE APÉNDICES
+Apéndice 10-5.1 Planimetría de ubicación
+Apéndice 10-5.2 Planimetría de emplazamiento y corte
+Apéndice 10-5.3 Planimetría de distancias puntos vulnerables
+Apéndice 10-5.4 Memoria Técnica
+Apéndice 10-5.5 Índice de infiltración
+Apéndice 10-5.6 Fichas técnicas
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1.Resumen sistemas de tratamiento ................................................................................................ 3
+Tabla 2-2. Mano de obra máxima del proyecto ............................................................................................ 3
+Tabla 2-3. Ubicación y superficie de PTAS. .................................................................................................... 5
+Tabla 2-4. Generación de Aguas servidas por fase........................................................................................ 8
+Tabla 2-5. Parámetros característicos de Aguas Servidas a Tratar (afluente) .............................................. 8
+Tabla 2-6. Proyección de Estanques de acumulación por PTAS .................................................................. 12
+Tabla 2-7. Valores Evapotranspiración ........................................................................................................ 12
+Tabla 2-8. Análisis Decreto Supremo Nº46/2000 para “Fuente Emisora” .................................................. 14
+Tabla 2-9. Generación de lodos fase de construcción. ............................................................................... 16
+Tabla 2-10. Generación de lodos fase de operación. .................................................................................. 16
+Tabla 2-11 Generación de lodos fase de cierre ........................................................................................... 16
+Tabla 2-12. Medidas correctivas Plan de Contingencia .............................................................................. 18
+Tabla 2-13. Resumen Plan de emergencia .................................................................................................. 20
+Tabla 2-14. Plan de emergencias Sismo ...................................................................................................... 21
+Tabla 2-15. Plan de emergencias-Condiciones climatológicas adversas ..................................................... 22
+Tabla 2-16. Plan de emergencias-Actuación en caso de derrame .............................................................. 24
+Tabla 2-17. Plan de emergencias-Actuación en caso de incendio .............................................................. 24
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 2-1. Diagrama de Flujo de Tratamiento de Aguas Servidas ............................................................... 4
+Figura 2-2. Ubicación PTAS Instalación de faenas – Fase Construcción-cierre ............................................. 6
+Figura 2-3 Ubicación PTAS Planta de procesamiento, Fase Operación......................................................... 7
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones
+que permitirán la construcción, operación y cierre de una faena minera para la extracción y procesamiento
+de arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente
+meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que parte
+de las obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres (3) zonas de
+extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de disposición para lastre y arcillas
+procesadas (ZD Neptuno), una (1) zona de acopio de suelo vegetal (ZAV), una planta de procesamiento de
+arcillas (la “Planta”), un stockpile para el acopio temporal de material previo al procesamiento, una línea
+eléctrica y su conexión a línea existente y la construcción de caminos internos para acceder a las distintas
+áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de
+material para producir concentrado de Tierras Raras. Además, se considera la modificación de un tramo
+existente de aproximadamente 1,22 kilómetros del oleoducto Hualpén – San Fernando, propiedad de
+ENAP, motivo de la explotación de la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras
+temporales correspondiente a instalaciones de faenas para la construcción y habilitación de las obras del
+Proyecto. En lo relativo al presente Permiso Ambiental Sectorial, el Proyecto contempla la generación de
+aguas servidas de tipo doméstico asociadas a la operación de servicios higiénicos o sanitarios del Proyecto
+en sus distintas fases, construcción, operación y cierre.
+Cabe señalar que la cantidad de servicios higiénicos (excusados, lavatorios y duchas, entre otros) se
+encontrará conforme a lo establecido en el Artículo 22º D.S. Nº 594/1999 del Ministerio de Salud, de
+acuerdo a la cantidad de personas consideradas en obra. En los frentes de trabajo, según corresponda al
+avance de las obras, se contará con baños químicos que serán provistos y mantenidos por una empresa
+debidamente autorizada.
+El Artículo 138º del Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA) D.S. Nº 40/2012,
+MMA, señala:
+Artículo 138.- Permiso para la construcción, reparación, modificación y ampliación de cualquier obra
+pública o particular destinada a la evacuación, tratamiento o disposición final de desagües, aguas servidas
+de cualquier naturaleza.
+El permiso para la construcción, reparación, modificación y ampliación de cualquier obra pública o
+particular destinada a la evacuación, tratamiento o disposición final de desagües, aguas servidas de
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+cualquier naturaleza, será el establecido en el artículo 71 letra b) primera parte, del Decreto con Fuerza
+de Ley Nº 725, de 1967, del Ministerio de Salud Pública, Código Sanitario.
+El requisito para su otorgamiento consiste en que la disposición de aguas servidas no amenace la salud de
+la población.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento, y de acuerdo
+al Proyecto, son los siguientes:
+a) Descripción del sistema de recolección y/o tratamiento.
+b) Plano de localización del área de recolección y de la planta de tratamiento de aguas servidas.
+c) Generación de aguas servidas.
+d) Caracterización físico-químicas de las aguas servidas.
+e) Descripción del sistema de tratamiento de aguas servidas.
+f) Descripción de la forma de disposición final del efluente tratado, según corresponda.
+g) Indicación del período de retorno considerado para el diseño de los desagües de aguas lluvias.
+h) Descripción del sistema de tratamiento de aguas servidas y disposición, de tratarse de una fosa
+séptica.
+i) Descripción general de la generación y manejo de lodos.
+j) Programa de monitoreo.
+k) Plan de contingencias.
+l) Plan de emergencia.
+A continuación, se señalan los antecedentes para acreditar el cumplimiento de los requisitos del Permiso
+Ambiental Sectorial N° 138, el que considera también las consideraciones recientes a que se refiere la
+Resolución Exenta N°2023991011018, de fecha 27 de diciembre de 2023, de la Dirección Ejecutiva del SEA,
+que se pronuncia sobre la vigencia y observancia de la Guía trámite PAS del artículo 138 del Reglamento
+del SEIA.
+2 CONTENIDOS TÉCNICOS Y FORMALES
+2.1 (a) Descripción del Sistema de Recolección y/o Tratamiento
+Los residuos líquidos o efluentes que se generarán en las fases de construcción, operación y cierre,
+corresponden a residuos de tipo doméstico (aguas servidas) asociados principalmente al funcionamiento
+de las instalaciones sanitarias o para fines higiénicos, de las distintas etapas.
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Para manejar las aguas servidas proveniente de los servicios higiénicos, el Proyecto considera para las
+siguientes soluciones de sistemas de tratamiento de aguas servidas, las cuales se detallan en la tabla a
+continuación:
+Tabla 2-1.Resumen sistemas de tratamiento
+Fase Instalación Solución Cantidad
+Construcción Instalación de faenas PTAS 1
+Operación Planta de procesamiento PTAS 2
+Cierre Planta de procesamiento PTAS 1
+Fuente: Elaboración propia
+La mano de obra máxima asociada a cada fase se detalla en la Tabla 2-2.Tabla
+Tabla 2-2. Mano de obra máxima del proyecto
+Fase Instalación Total Mano de obra
+Construcción Instalación de faena 373
+PTAS 1: 224
+Operación Planta de procesamiento
+PTAS 2:224
+Cierre Planta de procesamiento 115
+Fuente: Elaboración propia, 2024
+Planta de tratamiento de Aguas servidas
+El sistema de Tratamiento de aguas servidas provenientes de los servicios sanitarios será a través de lodos
+activados. El efluente tratado posteriormente será reutilizado en la humectación de caminos.
+Estas aguas servidas provenientes serán conducidas hacia una Planta de tratamiento de aguas servidas del
+tipo modular con lodos activados, la que contará con las siguientes etapas de tratamiento:
+1. Etapa I: Decantador
+2. Etapa II: Reactor Biológico por Lodos Activados aireación extendida
+3. Etapa III: Decantador Secundario o Clarificador
+4. Etapa IV: Digestor de lodos
+5. Etapa V: Desinfección
+En la siguiente figura se indica el diagrama de flujo de una la planta típica de tratamiento de aguas servidas,
+modular de lodos activados.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-1. Diagrama de Flujo de Tratamiento de Aguas Servidas
+Fuente: Elaboración propia, 2024
+Las aguas servidas provenientes de los servicios higiénicos serán recolectadas mediante tuberías de PVC o
+similar desde su generación en los servicios higiénicos en las distintas áreas, para ser conducidas hacia el
+sistema de tratamiento de aguas servidas correspondiente.
+Luego del tratamiento en dichas instalaciones, los efluentes tratados serán destinados a la humectación
+de caminos y/o frentes de trabajo y, solo en caso de emergencia se habilitará un sistema para infiltrarlas.
+Por su parte, que los lodos y/o residuos generados serán retirados por un tercero autorizado de forma
+periódica, que cuente con la autorización pertinente de la autoridad sanitaria.
+Adicionalmente, el Proyecto contará con baños químicos en cada uno de los frentes móviles durante la
+fase de construcción y cierre, los cuales serán proporcionados por una empresa especializada y autorizada
+por la SEREMI de Salud. El retiro de los residuos estará a cargo de una empresa debidamente autorizada,
+con una frecuencia de una vez a la semana.
+Se presentará de forma oportuna a la Autoridad Sanitaria para su aprobación el proyecto particular de
+alcantarillado y tratamiento de aguas servidas asociada a la implementación de cada PTAS.
+No se contempla la descarga de las aguas servidas tratadas a ningún curso o cuerpo de agua, superficial o
+subterráneo. En efecto, las aguas tratadas provenientes de las instalaciones serán almacenadas en un
+estanque y posteriormente serán reutilizadas en la humectación de caminos.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.2 (b) Plano de localización del área de recolección y de la planta de tratamiento
+de aguas servidas
+En la siguiente tabla se indican las coordenadas de localización de las PTAS según fase del Proyecto,
+construcción, operación y cierre.
+Tabla 2-3. Ubicación y superficie de PTAS.
+Coordenadas UTM h 18S, datum
+Superficie
+Sector Fase Instalación Vértices WGS84
+m2
+ESTE NORTE
+1 5.930.103 681.763
+2 5.930.103 681.769
+3 5.930.092 681.769
+Instalación de 4 5.930.092 681.767
+Construcción PTAS 74,52
+Faenas 5 5.930.089 681.767
+6 5.930.089 681.765
+7 5.930.092 681.765
+8 5.930.092 681.763
+1 5.930.103 681.763
+2 5.930.103 681.769
+3 5.930.092 681.769
+4 5.930.092 681.767
+PTAS 2 74,52
+5 5.930.089 681.767
+Planta de 6 5.930.089 681.765
+Operación
+procesamiento 7 5.930.092 681.765
+8 5.930.092 681.763
+1 5.929.919 681.945
+2 5.929.927 681.940
+PTAS 1 90
+3 5.929.932 681.948
+4 5.929.923 681.953
+1 5.930.103 681.763
+2 5.930.103 681.769
+3 5.930.092 681.769
+Instalación de 4 5.930.092 681.767
+Cierre PTAS 74,52
+Faenas 5 5.930.089 681.767
+6 5.930.089 681.765
+7 5.930.092 681.765
+8 5.930.092 681.763
+Fuente: Elaboración propia, 2024.
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Para mayor detalle revisar el Apéndice 10-5.1 en donde se incluye la planimetría de ubicación de cada
+sistema de tratamiento de aguas servidas.
+Por su parte, en las siguientes figuras a continuación se presenta la ubicación georreferenciada de las
+Plantas de Tratamiento de Aguas Servidas (PTAS).
+Figura 2-2. Ubicación PTAS Instalación de faenas – Fase Construcción-cierre
+Fuente: Elaboración propia, 2024.
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-3 Ubicación PTAS Planta de procesamiento, Fase Operación
+Fuente: Elaboración propia, 2024.
+En el Apéndice 10-5.2 se presenta planos del emplazamiento y corte de cada sistema con respecto a la
+instalación, donde se grafica la distancia a la obra habitable más cercana.
+Con respecto a la distancia de estas instalaciones sanitarias a instalaciones del entorno y pozos de
+captación de agua cercanos, es importante señalar que dicha situación no reviste riesgo, tal como se
+observa en la planimetría adjunta en el Apéndice 10-5.3, en la cual se observa que la instalación más
+cercana corresponde a un derecho superficial concedido a más de un (1) km de distancia
+aproximadamente1.
+Además, es importante señalar que no existe un sistema hidrogeológico alojado dentro de la capa
+explotable del Proyecto, que corresponde a roca meteorizada. Mayor detalle sobre esta materia se
+acompaña en el capítulo 3 sección Línea Base Hidrogeológica del presente EIA.
+1 https://snia.mop.gob.cl/observatorio/
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.3 (c) Generación de aguas servidas
+Las aguas servidas, provendrán de los servicios higiénicos ubicados al interior del área de emplazamiento
+del Proyecto. A continuación, se realiza una estimación de las aguas servidas generadas en las distintas
+fases del Proyecto; esto es, construcción, operación y cierre. La estimación del caudal de generación de
+aguas servidas se realiza sobre la base de una dotación de 150 litros/persona-día2 y considerando la
+dotación máxima diaria de trabajadores por cada fase (es decir, considerando la situación más
+desfavorable desde el punto de vista ambiental).
+m
+Tabla 2-4. Generación de Aguas servidas por fase
+Coeficiente Mano de Aguas
+Fase del Dotación
+Sector PTAS de obra servidas
+proyecto (l/hab/día)
+recuperación máxima (m3/día)
+Instalación de
+Construcción 1 150 1 373 55,95
+Faenas
+Planta de 1 150 1 224 33,6
+Operación
+procesamiento 2 150 1 224 33,6
+Planta de
+Cierre 1 150 1 115 17,25
+procesamiento
+Fuente: Elaboración propia, 2024.
+2.4 (d) Caracterización fisicoquímicas de las aguas servidas
+El origen o generación de las aguas servidas serán exclusivamente del tipo domiciliario. En la siguiente
+tabla se indican las características fisicoquímicas esperadas tipo las aguas servidas domiciliarias.
+Tabla 2-5. Parámetros característicos de Aguas Servidas a Tratar (afluente)
+Parámetros Valor característico
+Aceites y grasas 60 mg/L
+Aluminio 1 mg/L
+Arsénico 0,05 mg/L
+Boro 0,75 mg/L
+Cadmio 0,01 mg/L
+Cianuro 0,2 mg/L
+Cobre 1 mg/L
+Cromo total 0,1 mg/L
+Cromo hexavalente 0,05 mg/L
+DBO5 250 mg/L
+Fósforo 5 mg/L
+Hidrocarburos totales 10 mg/L
+Manganeso 0,3 mg/L
+2 Reglamento de Instalaciones Domiciliarias de Agua Potable y Alcantarillado (RIDAA).
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Parámetros Valor característico
+Mercurio 0,001 mg/L
+Níquel 0,1 mg/L
+Nitrógeno Amoniacal 50 mg/L
+pH 6 – 8
+Plomo 0,2 mg/L
+Poder espumógeno 5 mm
+Sólidos sedimentables 6 (ml/L 1h)
+Sólidos suspendidos totales 220 mg/L
+Sulfatos (disueltos) 300 mg/L
+Sulfuro 3 mg/L
+Temperatura 20 °C
+Zinc 1 mg/L
+Fuente: Elaboración propia a partir de la Tabla N°1 del D.S. N°609, de 1998, del Ministerio de Obras Públicas, que
+establece la norma de emisión para la regulación de contaminantes asociados a las descargas de residuos
+industriales líquidos a sistemas de alcantarillado.
+Por su parte, las Plantas de Tratamiento estarán destinadas al tratamiento de aguas servidas, descartando
+la presencia de elementos tóxicos, residuos industriales líquidos o algún elemento que pudiese interferir
+en el correcto funcionamiento de la planta.
+2.5 (e) Descripción del sistema de tratamiento de aguas servidas
+El sistema de tratamiento de las aguas servidas será por medio de Plantas de tratamientos durante la fase
+construcción, operación y cierre, cuya disposición del efluente tratado será destinado a la humectación de
+caminos y/o frentes de trabajo.
+Como se indicó, las PTAS utilizarán una tecnología que corresponde a un tratamiento que, mediante un
+proceso biológico, denominado digestión aeróbica, degrada y oxida la materia orgánica presente en el
+agua servida.
+A continuación, se presentan las etapas que componen la operación de la PTAS:
+2.5.1 Etapa I: Decantador
+En esta etapa las aguas servidas ingresan al primer compartimento donde son retenidas lográndose una
+primera sedimentación. Este se realiza en un decantador-digestor compuesto por un compartimento de
+dimensiones equivalentes a un 20 % del volumen total del estanque reactor. Con esto se consigue la
+decantación de las partículas en suspensión y posterior digestión de los sólidos más gruesos tamaño.
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5.2 Etapa II: Reactor Biológico por Lodos Activados (Tratamiento Aerobio)
+Luego que las aguas residuales pasan por el Decantador entran al Reactor biológico en donde se realiza la
+oxidación prolongada de la materia orgánica introduciendo aire al agua residual para que de esta manera
+los microorganismos aeróbicos puedan digerir la materia orgánica biodegradable presente en el agua,
+logrando así reducir considerablemente la Demanda Bioquímica de oxígeno (DBO5).
+2.5.3 Etapa III: Decantador Secundario o Clarificador
+Con el fin de decantar los fangos producidos en la etapa anterior se cuenta con un decantador secundario
+obteniéndose un efluente clarificado.
+Recirculación de Lodos:
+Para elevar la capacidad de los equipos y aumentar su eficiencia, se contempla un sistema de recirculación
+interna para así mantener en el reactor una concentración de biomasa activa elevada.
+2.5.4 Etapa IV: Digestor de lodos (aeróbica)
+El digestor de lodos tiene como objetivo principal reducir la cantidad de materia orgánica presente en los
+lodos, lo que ayuda a minimizar el volumen de lodos y convertirlos en un producto más estable y menos
+propenso a la putrefacción y a la liberación de olores.
+2.5.5 Etapa V: Desinfección
+Luego que las aguas han sido tratadas, pasan por una etapa de desinfección utilizando un sistema de
+Cloración y Decloración para asegurar la destrucción o abatimiento de los coliformes y otros
+microorganismos patógenos.
+2.5.6 Disposición final del Efluente
+La Disposición final se refiere al almacenamiento y uso de las aguas servidas tratadas. En términos del uso,
+el efluente será utilizado para humectación de caminos y/o frentes de trabajo.
+2.5.6.1 Disposición final de efluente en caso de emergencia
+En caso de que no pueda disponerse el efluente indicado en el párrafo principal de este acápite, se
+dispondrá – como emergencia- en drenes, cuyos detalles se presentan en acápite 2.6 de este documento.
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.5.7 Descripción de las medidas de control o mitigación de olores
+Una inadecuada operación de la planta podría generar una eventual emanación de olores. Se aclara que
+los procesos unitarios en esta instalación suceden en compartimientos completamente herméticos y la
+operación se realizará en consideración de las recomendaciones del fabricante para su correcto uso.
+El retiro de los lodos generados estará a cargo de una empresa externa, tipo vehículo limpia lodos
+sanitarios, debidamente autorizada por la SEREMI de Salud correspondiente, para su posterior
+tratamiento y/o disposición final en un sitio autorizado. El retiro de lodos será de forma periódica de
+acuerdo con la frecuencia recomendada por el fabricante de la planta de tratamiento y a la generación de
+lodos, lo cual permitirá prevenir la generación de malos olores y proliferación de vectores sanitarios. Se
+implementará un sistema de registro y control del retiro y disposición final de los lodos generados por el
+sistema de tratamiento propuesto para la fase de operación del proyecto. Este registro se encontrará a
+disposición de la autoridad. No obstante, en caso de olores molestos, se realizará el siguiente
+procedimiento:
+• Si la situación es observada por un trabajador se debe dar aviso al Supervisor.
+• Revisión de los periodos de monitoreo y limpieza del sistema e instalaciones sanitarias en general.
+• Inspección del sistema en busca de roturas u otras fallas.
+• Contactar al Servicio Técnico para revisión del sistema de tratamiento, y solución de la falla.
+• Reevaluación de la solución sanitaria completa.
+2.6 (f) Descripción de la forma de disposición final del efluente tratado, según
+corresponda
+En las tres fases del proyecto (Construcción, operación y cierre), el efluente sanitario será tratado de
+manera que cumpla con la NCh 1333 of. 1978 para ser utilizado en humectación de los diferentes frentes
+de trabajo, manteniendo un registro de la humectación, la fecha y el volumen utilizado de agua tratada.
+Se mantendrá disponible para cuando la autoridad lo requiera, el registro diario de cloro libre residual CLR
+y el monitoreo respecto de los parámetros a controlar, según la normativa ya mencionada de forma
+semestral.
+Se adoptará un estanque de acumulación con capacidad útil de acuerdo con el requerimiento de cada
+sistema, el cual permanecerá con el líquido acumulado durante 24 h como máximo.
+Además, se proyecta un sistema de respaldo, emergencia o alternativo mediante infiltración del agua
+tratada, correspondiente, por dimensionamiento, al 50% del efluente diario generado por cada
+instalación, con el objetivo de manejar los efluentes tratados en caso de que no puedan ser utilizados para
+humectación. Las dimensiones de los drenes dependerán de la capacidad de cada instalación.
+A continuación, en la siguiente tabla presenta un resumen con la capacidad de los estanques de
+acumulación del efluente y el sistema de respaldo mediante drenes.
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-6. Proyección de Estanques de acumulación por PTAS
+Cantidad de
+drenes de
+Mano de Obra Caudal diario
+Fase del emergencia
+Sector diaria estimado Estanques
+proyecto proyectados
+estimada (l/día)
+para el 50% del
+efluente
+Instalación de 3 estanques 20 9 drenes x 27 m
+Construcción 373 55.950
+Faenas m3 de largo
+2 estanques 20 12 drenes x 27
+224 (1) 33.600
+Planta de m3 m de largo
+Operación
+procesamiento 2 estanques 20
+224 (2) 33.600 6 drenes x 24 m
+m3
+Planta de 1 estanque 20 6 drenes x 24 m
+Cierre 115 17.250
+procesamiento m3 de largo
+Fuente: Elaboración propia
+Con respecto a los cálculos, estos se adjuntan en la Memoria de Cálculo presente en el Apéndice 10-5.4
+del presente PAS.
+En el Apéndice 10-5.5 Se adjuntan los Índices de infiltración obtenidos para las ubicaciones específicas de
+cada PTAS.
+2.6.1.1 Balance de requerimiento de aguas en caso de reuso
+A continuación, se presenta la siguiente información con respecto a la humectación de caminos y/o frentes
+de trabajo y el uso del efluente generado por las PTAS de las IIFF para la fase de construcción:
+Caminos:
+- Largo: 13.906 metros
+- Ancho: 10 metros aprox.
+Evapotranspiración:
+Tabla 2-7. Valores Evapotranspiración
+Estación Dicha Tomé Universidad
+Tiempo UTC-4 de Concepción3
+mm/día (l/m2/día)
+02-01-2022 6,59
+04-01-2022 6,64
+08-02-2022 7,1
+Fuente: https://agrometeorologia.cl/evapotranspiracion/
+3 Valores obtenidos de https://agrometeorologia.cl/evapotranspiracion/ entre 01-01-2022 a 31-12-2023
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fase de Construcción:
+Efluente (l/día) = Superficie a humectar (m2) * Evapotranspiración (peor escenario) (l/m2/día).
+55.950 l/día (373 personas) l/día = X m2 * 7,1 l/m2/día
+55.950 l/día < 987.236 l/día
+La superficie para los cuales se requerirá agua tratada (humectación/tratamiento con supresor)
+corresponde aproximadamente a 139.060 m2. Ahora, al multiplicar esta superficie por el valor de
+evapotranspiración más conservador de la Tabla 2-7, se tiene una cantidad de 987.236 L/día, necesarios
+para humectar. Este valor es mayor que el efluente tratado esperado de la PTAS, lo que significa que toda
+el agua tratada podrá ser utilizada para tales efectos. El volumen faltante de agua industrial requeridos
+podrá ser extraído del estanque de agua industrial ubicado en la instalación de faenas.
+Fase de operación
+Efluente (l/día) = Superficie a humectar (m2) * Evapotranspiración (peor escenario) (l/m2/día).
+l/día (448 personas) l/día = X m2 * 7,1 l/m2/día
+67.200 l/día < 987.236 l/día
+La superficie para los cuales se requerirá agua tratada (humectación/tratamiento con supresor)
+corresponde aproximadamente a 139.060 m2. Ahora, al multiplicar esta superficie por el valor de
+evapotranspiración más conservador de la Tabla 2-7, se tiene una cantidad de 987.236 L/día, necesarios
+para humectar. Este valor es mayor que el efluente tratado esperado de la PTAS, lo que significa que toda
+el agua tratada podrá ser utilizada para tales efectos. El volumen faltante de agua industrial requeridos
+podrá ser extraído de los estanques de agua industrial ubicados en la planta de procesamiento.
+Fase de cierre
+Efluente (l/día) = Superficie a humectar (m2) * Evapotranspiración (peor escenario) (l/m2/día).
+l/día (115 personas) l/día = X m2 * 7,1 l/m2/día
+17.250 l/día < 987.236 l/día
+La superficie para los cuales se requerirá agua tratada (humectación/tratamiento con supresor)
+corresponde aproximadamente a 139.060 m2. Ahora, al multiplicar esta superficie por el valor de
+evapotranspiración más conservador de la Tabla 2-7, se tiene una cantidad de 987.236 L/día, necesarios
+13
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+para humectar. Este valor es mayor que el efluente tratado esperado de la PTAS, lo que significa que toda
+el agua tratada podrá ser utilizada para tales efectos. El volumen faltante de agua industrial requeridos
+podrá ser extraído de los estanques de agua industrial ubicados en la instalación de faena
+2.6.1.2 Evaluación fuente emisora
+Las Plantas de tratamiento de aguas servidas (PTAS) fueron diseñadas para cumplir con la calidad de agua
+para riego según los requerimientos señalados en la NCh 1.333 of 78.
+Para el diseño, se han considerado como base las cargas contaminantes características de las aguas
+residuales urbanas y la calidad agua tratada esperada, lo que se ajusta a los siguientes parámetros básicos:
+- Concentración DBO5 ≤ 35 mg/L
+- Concentración SST ≤ 80 mg/L
+- Coliformes fecales ≤ 1.000 NMP/100 ml
+En el Apéndice 10-5.6 se adjuntan las Fichas técnicas de los equipos, los que presentan una eficiencia
+mínima del orden del 90%.
+A continuación, se realiza el análisis de efluente como “Fuente emisora” según D.S. N°46/03, MINSEGPRES,
+el cual según los resultados las PTAS utilizadas en este proyecto para las distintas fases no califican como
+fuentes emisoras.
+Tabla 2-8. Análisis Decreto Supremo Nº46/2000 para “Fuente Emisora”
+Criterios calificación fuente emisora D.S. 46/00
+Eficiencia 90%
+Parámetro
+(g/d)
+Carga contaminante
+Valor Característico mg/l
+media diaria (g/d)
+Aceites y Grasas 60 960 335,70
+Aluminio 1 16 5,60
+Arsénico 0,05 0,8 0,28
+Benceno 0,01 0,16 0,06
+Boro 0,75 12,8 4,20
+Cadmio 0,01 0,16 0,06
+Cianuro 0,2 3,2 1,12
+Cloruros 400 6400 2238,00
+Cobre 1 16 5,60
+Cromo Hexavalente 0,05 0,8 0,28
+Fluoruro 1,5 24 8,39
+Hierro 1 16 5,60
+Manganeso 0,3 4,8 1,68
+14
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Criterios calificación fuente emisora D.S. 46/00
+Eficiencia 90%
+Parámetro
+(g/d)
+Carga contaminante
+Valor Característico mg/l
+media diaria (g/d)
+Mercurio 0,001 0,02 0,01
+Molibdeno 0,07 1,12 0,39
+Níquel 0,1 1,6 0,56
+Nitrógeno Total Kjeldahl 50 800 279,75
+Nitrito más Nitrato 15 240 83,93
+Pentaclorofenol 0,009 0,144 0,05
+Plomo 0,2 3,2 1,12
+Selenio 0,01 0,16 0,06
+Sulfatos 300 4800 1678,50
+Sulfuros 3 48 16,79
+Tetracloroeteno 0,04 0,64 0,22
+Tolueno 0,7 11,2 3,92
+Triclorometano 0,2 3,2 1,12
+Xileno 0,5 8 2,80
+Zinc 1 16 5,60
+Fuente: Elaboración propia
+2.7 (g) Indicación del período de retorno considerado para el diseño de los
+desagües de aguas lluvias
+El sistema de tratamiento de aguas servidas considerado para el Proyecto, contempla exclusivamente el
+tratamiento de aguas servidas. No se considera el diseño de desagües de aguas lluvias.
+2.8 (h) Descripción del sistema de tratamiento de aguas servidas y disposición,
+de tratarse de una fosa séptica
+No aplica, dado que durante las distintas fases del Proyecto se ha contemplado la instalación de Plantas
+de Tratamiento de Aguas Servidas (PTAS).
+2.9 (i) Descripción general de la generación y manejo de lodos
+Cabe indicar, que los lodos que se generarán no serán estabilizados, y no contendrán sustancias reactivas
+o tóxicas, ni presentarán características de peligrosidad a que se refiere el D.S. Nº 148/03, MINSAL
+“Reglamento sobre manejo de residuos peligrosos”; lo anterior, considerando que las aguas a tratar
+corresponden a aguas servidas domiciliarias.
+15
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Considerando lo señalado, en las Memorias Técnicas adjuntas en el Apéndice 10-5.4 se presenta la
+estimación de generación de lodos para las fases de construcción, operación y cierre respectivamente,
+considerando la dotación total aguas servidas a ser tratadas en función del número de personas
+contemplado, detalle que se resume en las tablas a continuación:
+Tabla 2-9. Generación de lodos fase de construcción.
+Generación de lodos
+Mano de obra diaria Caudal diario estimado
+Infraestructura estimada
+estimada m3/día
+kg/día
+Instalación de faenas 373 55,95 10,87
+Fuente: Elaboración propia, 2024.
+Tabla 2-10. Generación de lodos fase de operación.
+Generación de lodos
+Mano de obra diaria Caudal diario estimado
+Infraestructura estimada
+estimada m3/día
+kg/día
+224 33,6 6,53
+Planta de procesamiento
+224 33,6 6,53
+Fuente: Elaboración propia, 2024.
+Tabla 2-11 Generación de lodos fase de cierre
+Generación de lodos
+Mano de obra diaria Caudal diario estimado
+Infraestructura estimada
+estimada
+m3/día kg/día
+Planta de procesamiento 115 17,25 3,35
+Fuente: Elaboración propia, 2024.
+El retiro de los lodos generados estará a cargo de un servicio contratado, tipo vehículo limpia fosas,
+debidamente autorizado por la SEREMI de Salud Regional correspondiente, para su posterior tratamiento
+en sitio autorizado. El retiro de lodos será de forma periódica de acuerdo con la frecuencia recomendada
+por el fabricante, sin embargo, esta frecuencia se estima de forma semestral para las PTAS.
+2.10 (j) Programa de monitoreo
+El programa de monitoreo tiene por objetivo caracterizar cualitativa y cuantitativamente el efluente de las
+PTAS, por lo que, para efectos de control en las 3 fases del proyecto los parámetros de calidad que se
+deberán cumplir son los establecidos en la Nch. 1333 of.78 “Requisitos de calidad del agua para diferentes
+usos” por uso para riego.
+Se deberá mantener registro de la medición de parámetros tales como pH, temperatura, cloración, que se
+realizará a lo menos diariamente. Asimismo, se incorporarán inspecciones a la PTAS en el programa
+mensual de supervisión.
+16
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Los análisis de los efluentes, se realizarán con frecuencia semestral a través de un laboratorio certificado,
+sobre las condiciones biológicas, físicas, químicas del agua tratada, y se remitirá el reporte a la
+Superintendencia del Medio Ambiente (SMA), según lo indicado por la R.E. N°223/2015 que Dicta
+instrucciones generales sobre la elaboración del plan de seguimiento de variables ambientales, los
+informes de seguimiento ambiental y la remisión de información al sistema electrónico de seguimiento
+ambiental del Ministerio del Medio Ambiente.
+2.11 (k) Plan de contingencias
+El Plan deberá identificar las situaciones de riesgo o contingencia que puedan afectar el medio ambiente
+o la población y describir las acciones o medidas a implementar para evitar que éstas se produzcan o
+minimizar la probabilidad de ocurrencia.
+La operación y mantención de las Plantas de Tratamiento de Aguas Servidas será realizada por una
+empresa que provea la tecnología, y la frecuencia de mantención de la planta será periódica.
+En base al tipo de actividad a ejecutar y las tecnologías a emplear, se definen los principales riesgos
+asociados al Proyecto, los que a su vez son susceptibles de afectar el ambiente y provocar accidentes o
+emergencias.
+A continuación, se describe el plan de contingencia diseñado para el Proyecto:
+1. Contingencia Presente: La planta de tratamiento podría presentar alguna falla lo cuál será alertado
+por el personal a cargo al momento de producirse la contingencia.
+2. Causa de la Contingencia: Una vez alertado el personal responsable, se realiza un seguimiento a la
+contingencia, para poder determinar la causa de la emergencia existente. Las contingencias o
+emergencias más comunes que pueden suceder dentro de este sistema son:
+• Falla operacional (incluyendo falla humana).
+• Obstrucción o falla eléctrica.
+• Falla mecánica.
+• Rotura de alcantarillado, estanques o fugas.
+• Derrames.
+3. Informar a la Gerencia de la Contingencia: El personal responsable de turno informará, de forma
+inmediata, por vía telefónica o correo electrónico de la situación o contingencia presente,
+interpretando la causa de la emergencia que se detectó después del análisis efectuado.
+4. Medidas correctivas: La activación del plan de contingencia contempla las siguientes medidas
+correctivas según cada contingencia.
+17
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-12. Medidas correctivas Plan de Contingencia
+Contingencia: Riesgo de derrame de aguas servidas
+• Se realizarán mantenciones periódicas a los sistemas sanitarios con que cuenta el
+Acciones o medidas a
+Proyecto, con el objetivo de verificar que no existan problemas operativos
+implementar para
+• Las mantenciones y retiros serán ejecutados por empresas autorizadas.
+prevenir la contingencia
+• Se contarán con las autorizaciones sanitarias de acuerdo con la normativa
+Responsables: Jefe de Operaciones
+Las medidas serán implementadas de manera inmediata luego de detectada la
+Plazos:
+contingencia.
+Contingencia En caso de que no pueda reutilizar el efluente de las PTAS
+• Se implementan drenes de emergencia para el 50% del efluente generado en el día
+por cada PTAS.
+Acciones o medidas a • Se verificará el monitoreo del efluente comprometido de manera semestral y el
+implementar para cumplimiento normativo del Nch 1333 of 78
+prevenir la contingencia • Se mantendrá registro de la medición de parámetros tales como pH, temperatura,
+cloración, que se realizará a lo menos diariamente.
+• Se incorporarán inspecciones a la PTAS en el programa mensual de supervisión.
+Responsables: Jefe de Operaciones
+Plazos Las medidas serán implementadas de manera inmediata al construir y utilizar la PTAS.
+Fuente: GAC.
+2.12 (i) Plan de emergencias
+El Plan de Emergencias describe las acciones a implementar en caso de que se produzca una emergencia,
+con objeto de controlar dicha emergencia y/o minimizar sus efectos sobre el medio ambiente y/o la
+población:
+Se han identificado los siguientes escenarios en los que se podría producir una situación de emergencias
+que pudiera afectar al medio ambiente y/o a la población donde está involucrada una PTAS
+• Sismo
+• Eventos meteorológicos extremos
+• Incendio
+• Componentes del sistema de manejo de Aguas Servidas
+A su vez este plan entrega las directrices para hacer frente a emergencias, tales como derrames desde las
+PTAS, incendios, etc., además de instruir a los trabajadores y todo el personal, de las acciones necesarias
+para minimizar los efectos generados por estas situaciones.
+Objetivos
+En lo particular, el plan tiene los siguientes objetivos:
+1. Salvaguardar la integridad física de los trabajadores y de los habitantes;
+18
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2. Proteger el medio ambiente, propiedad, instalaciones y materiales;
+3. Restablecer la normalidad en las faenas, en el menor tiempo posible;
+4. Instruir al personal respecto de sus responsabilidades, funciones y atribuciones, en caso de una
+emergencia.
+5. Establecer un método de investigación de hechos que puedan generar o generen situaciones de
+emergencia, con el fin de establecer sus causas, controlarlas y eliminarlas.
+Alcance del Plan
+El presente Plan de Emergencias se aplica a todas las actividades que se llevarán a cabo en las obras del
+Proyecto y sus instalaciones, para reaccionar frente a una emergencia generada por las PTAS que puedan
+afectar al medio ambiente, los trabajadores, como también a los habitantes cercanos e instalaciones del
+Proyecto y apoyar con los medios disponibles ante emergencias que se produzcan.
+Cobertura del Plan
+Este Plan está concebido para ser aplicado en la operación de la PTAS y las instalaciones circundantes a
+ellas del Proyecto.
+Responsable del Plan de Emergencias
+El responsable del presente Plan de Emergencias corresponde a la Gerencia del Área y Líder de la Brigada
+de Emergencia y tendrá las siguientes responsabilidades:
+• Difundir el presente plan, una vez aprobado, a todo el personal que trabaja en la Planta.
+• Efectuar las gestiones necesarias para la asignación de recursos que permitan la adquisición,
+mantención y operación del material de respuesta.
+• Efectuar las coordinaciones necesarias para lograr la cooperación en caso de algún siniestro de
+otras organizaciones con capacidad de respuesta.
+• Disponer que se ejecuten ejercicios de respuesta ante algún tipo de emergencia.
+• Definir los estándares de capacitación y entrenamientos del personal asignado para la respuesta,
+disponiendo que se lleven a efecto los cursos necesarios para lograr una capacidad eficiente y
+acorde a las políticas de la empresa.
+• Establecer la logística y los medios de la organización, con el fin de satisfacer las necesidades del
+operador del Plan.
+• Poner en ejecución el Plan de Emergencias.
+• Mantener informado al Gerente General, Gerente de Operaciones y al Gerente de
+Comunicaciones.
+En aquellos casos en que la magnitud de la contingencia ocurrida o si la situación lo amerita, se hará
+asesorar por un equipo de especialistas en diferentes áreas, conformado por personal de la misma
+empresa.
+19
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El Plan de Emergencias considera las siguientes acciones:
+1. Ante cualquier anormalidad de las PTAS, cualquier trabajador que la detecte, deberá dar aviso
+inmediato al jefe de emergencia y supervisor.
+2. El jefe de emergencia concurrirá al lugar de la emergencia, para evaluar la magnitud y
+propagación, y comunicará el evento al Coordinador general de emergencia.
+3. El Coordinador general de emergencia, gestionará el apoyo logístico necesario solicitado por el
+Jefe de Emergencia.
+4. Antes de proceder con las labores de control de la emergencia, el personal encargado de la
+emergencia deberá proceder a ponerse el equipo de protección personal adecuado.
+5. Se deberá contener la emergencia lo más pronto posible, de acuerdo a su tipología.
+6. Se elaborará registro del incidente.
+7. Se informará a la SMA a través del Módulo de avisos de contingencias e incidentes dentro de las
+24 horas de ocurrido el evento que se informa.
+Por otra parte, una vez declarada la emergencia el Coordinador de Emergencias gestionará el apoyo
+logístico necesario solicitado por el Jefe de Emergencia, se comunicará en primer lugar con el centro
+asistencial más cercano, si debido a la emergencia se producen lesionas o daños a personas, dando aviso,
+de ser necesario, a los servicios externos de emergencia tales como bomberos, carabineros, etc.,
+comunicará al gerente general, la situación que se vive en las instalaciones y de las medidas que se han
+tomado , será responsable de coordinar las acciones, dará la instrucción de terminar con las operaciones
+normales, debido a la existencia de condiciones peligrosas producto de la emergencia, ordenando detener
+y desenergizar los equipos para proceder a la evacuación.
+Finalmente, el Coordinador de Emergencias será el responsable de informar a la Superintendencia del
+Medioambiente a través del módulo de aviso de Contingencias e Incidentes dentro del plazo de 24 horas
+de ocurrido el evento que se informa.
+Adicionalmente, la implementación del Proyecto considera medidas de contingencia y emergencia para la
+operación de las distintas actividades asociadas a su funcionamiento, las que se describen en el Capítulo 8
+del EIA.
+La siguiente tabla resume el plan de emergencia asociado a la PTAS.
+Tabla 2-13. Resumen Plan de emergencia
+Resumen Plan de emergencia PTAS
+• Sismos
+Situaciones • Eventos meteorológicos extremos
+identificadas • Incendio
+• Componentes del sistema de manejo de Aguas Servidas
+El responsable del presente Plan de Emergencias corresponde al encargado del Comité de
+Responsables
+Emergencia
+Plazos para atender la
+Las medidas serán implementadas de manera inmediata luego de declarada la emergencia.
+emergencia
+20
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Resumen Plan de emergencia PTAS
+Se informará a la SMA a través del Módulo de avisos de contingencias e incidentes dentro
+de las 24 horas de ocurrido el evento que se informa
+Fuente: GAC
+A continuación, se detallan las posibles emergencias:
+Tabla 2-14. Plan de emergencias Sismo
+Situación de
+Plan de acción frente a sismos
+emergencia
+Fase del Proyecto
+Construcción, operación y cierre.
+a la que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+Parte, obra o
+acción asociada Instalación de faenas.
+Planta de Procesamiento.
+En caso de que se produzca un sismo de intensidad IV o más en escala de Mercallise
+llevarán a cabo las siguientes acciones:
+• El personal suspenderá cualquier actividad que esté realizando y se dirigirá al área
+de zona de seguridad más cercana, la cual deberá estar ubicada en un área abierta
+y alejada de las instalaciones que puedan involucrar riesgo de
+desplome/derrumbe.
+• No se debe actuar impulsivamente ya que ello aumenta el riesgo de lesiones y
+contribuye a aumentar el pánico.
+• Habrá que alejarse de las ventanas, ya que la vibración puede ocasionar la ruptura
+de los vidrios.
+• Si se encuentra bajo techo hay que protegerse de la caída de lámparas, artefactos
+eléctricos, maderas, libros, cuadros, etc.
+• Permanecerá en la zona de seguridad hasta que el sismo finalice. Sólo en casos
+Acciones a puntuales como daños visibles y considerables en la edificación tales como caída
+implementar de muros, fractura de columnas se podrá evacuar una zona.
+• En áreas externas de edificios habrá que alejarse de paredes, postes, cables
+eléctricos y otros elementos que puedan caerse.
+• Si se está manejando una unidad motorizada se guiará la unidad con precaución a
+un lugar seguro y se procederá a detener la unidad.
+Después de un sismo:
+• Se debe permanecer en silencio y en calma.
+• Dependiendo de la magnitud del sismo, se debe proceder a la evacuación total de
+edificios hacia las zonas de seguridad asignadas.
+• Evacuar rápido, pero sin correr, manteniendo la calma, el orden y en silencio,
+evitando producir aglomeraciones.
+• En caso de quedarse atrapado, se debe procurar utilizar una señal visible o
+sonora.
+21
+================================================================================
+PAGE 26
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de
+Plan de acción frente a sismos
+emergencia
+• Verificar si existen focos de incendio, se debe informar de inmediato.
+• Se observará si hay personas heridas, no moviendo a los lesionados a no ser que
+estén en peligro de sufrir nuevas heridas.
+• Esperar 30 minutos en la zona de seguridad por posibles replicas.
+• Se realizará una inspección en las instalaciones con el fin de verificar su estado y
+descartar la existencia de daños que puedan ocasionar el colapso o derrumbe de
+estructuras.
+• Se elaborará un informe de daños y se mantendrá comunicación con las
+autoridades locales y de emergencias.
+No se activarán las faenas hasta que se haya comprobado que no existe riesgo de colapso
+estructural de las instalaciones.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las
+primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), SENAPRED y SEREMI
+Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no superior a 15
+días de ocurrido el evento, se enviará un informe de la emergencia, el cual contendrá a lo
+menos:
+Oportunidad y vías
+de comunicación a • Fecha, hora y lugar de ocurrencia.
+la SMA de la • Motivo de la emergencia.
+Activación del Plan • Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.)
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+Acciones de prevención que se implementarán para evitar una nueva ocurrencia.
+Fuente: GAC,2024.
+Tabla 2-15. Plan de emergencias-Condiciones climatológicas adversas
+Situación de Plan de acción frente a condiciones climatológicas adversas (fuertes lluvias, vientos
+emergencia intensos).
+Fase del Proyecto a
+Construcción, operación y cierre.
+la que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+Parte, obra o acción
+asociada Instalación de faenas.
+Planta de Procesamiento.
+El Coordinador en la faena establecerá contacto con el Servicio Nacional de Prevención y
+Respuesta ante Desastres (SENAPRED) para notificar respecto a:
+Acciones a • Fenómeno natural previsto.
+implementar • Evolución esperada del fenómeno natural en las subsiguientes horas.
+• Estado de las vías y caminos de acceso al Proyecto.
+• Estatus del servicio telefónico y otros canales de comunicación.
+22
+================================================================================
+PAGE 27
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de Plan de acción frente a condiciones climatológicas adversas (fuertes lluvias, vientos
+emergencia intensos).
+• Medios de movilización dispuestos desde el Servicio Nacional de Prevención y
+Respuesta ante Desastres (SENAPRED)
+El Jefe de la Emergencia ordenará, cuando sea necesario, la cancelación de las operaciones y
+maniobras que no sean de mayor importancia en el momento, tales como:
+• Retiro de lodos,
+• Suspender humectación de caminos.
+El Jefe de la Emergencia ordenará la verificación del estado y la seguridad de:
+• Instalaciones, en general.
+• Equipos o accesorios que puedan ser desplazados como consecuencia del fenómeno
+natural previsto.
+El Jefe de la Emergencia ordenará la activación de la alarma y, si es necesario, la evacuación
+hacia el punto de reunión.
+• Se calmará al personal, para evitar el pánico y minimizar mayores efectos que la
+emergencia pudiera originar en las personas.
+• Todo el personal se dirigirá a las zonas de seguridad establecidas a través de las salidas
+de emergencias más cercanas a su lugar de trabajo, las cuales se encontrarán
+debidamente identificadas y señalizadas.
+• Los trabajadores deberán seguir en todo momento las instrucciones del Jefe de la
+Emergencia. Sólo se podrá volver al lugar de trabajo si el Jefe de la Emergencia lo
+permite.
+Se prohibirá el uso de equipos y/o instrumentos eléctricos al interior de todas las dependencias
+durante el evento climático, ordenando además que el personal se mantenga alejado de
+puertas, ventanas, pilares o estructuras metálicas.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará, en lo posible, dentro
+de las primeras 24 horas a la Superintendencia de Medio Ambiente (SMA), SENAPRED y SEREMI
+Medio Ambiente, vía telefónica y/o correo electrónico. Luego, en un plazo no superior a 15
+días de ocurrido el evento, se enviará un informe de la emergencia, el cual contendrá a lo
+menos:
+Oportunidad y vías
+de comunicación a la • Fecha, hora y lugar de ocurrencia.
+SMA de la Activación
+• Motivo de la emergencia.
+del Plan
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc).
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+Acciones de prevención que se implementarán para evitar una nueva ocurrencia.
+GAC, 2024
+23
+================================================================================
+PAGE 28
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-16. Plan de emergencias-Actuación en caso de derrame
+Situación de
+Plan de acción frente a derrames
+emergencia
+Fase del Proyecto a
+Construcción, operación y cierre.
+la que aplica
+Todas las instalaciones del Proyecto, principalmente en:
+Parte, obra o acción
+asociada Instalación de faenas.
+Planta de Procesamiento.
+En el caso de derrame, los pasos a seguir para su control son:
+• Una vez se detecte el derrame, avisar en forma inmediata al Director de Emergencia
+para activar el Plan de Emergencia.
+• Contener en forma inmediata el derrame con suficiente cantidad de material
+absorbente, bomba u otro para su almacenamiento y disposición.
+Acciones a
+• Limpieza del área afectada. Retirar todos los materiales alterados y gestionar limpieza
+implementar
+específica con proveedor.
+• Limpieza de los equipos de protección y limpiar y reponer todo el equipo de
+emergencia empleado.
+• Recoger y recuperar el producto derramado.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se informará dentro de las primeras
+24 horas a la Superintendencia de Medio Ambiente (SMA), Servicio Nacional de Pesca y
+Acuicultura (SERNAPESCA) y SEREMI Medio Ambiente, vía telefónica y/o correo electrónico.
+Luego, en un plazo no superior a 15 días de ocurrido el evento, se enviará un informe de la
+emergencia, el cual contendrá a lo menos:
+Oportunidad y vías
+de comunicación a la • Fecha, hora y lugar de ocurrencia.
+SMA de la Activación
+• Motivo de la emergencia.
+del Plan
+• Aspectos ambientales involucrados (suelo, emisiones atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+Acciones de prevención que se implementarán para evitar una nueva ocurrencia.
+GAC, 2024
+Tabla 2-17. Plan de emergencias-Actuación en caso de incendio
+Situación de emergencia Plan de acción frente a incendio
+Fase del Proyecto a la que aplica Construcción, operación y cierre.
+Todas las instalaciones del Proyecto, principalmente en:
+Parte, obra o acción asociada
+Instalación de faenas.
+Planta de Procesamiento.
+En caso de incendio industrial, se actuará de acuerdo a lo
+Acciones a implementar descrito a continuación:
+24
+================================================================================
+PAGE 29
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de emergencia Plan de acción frente a incendio
+• Una vez se detecte el incendio, avisar al Director de
+Emergencia para que defina si procede activar el Plan
+de Emergencia.
+• El Jefe de la Emergencia evaluará el incidente y
+deberá valorar el nivel de la emergencia.
+• Una vez se detecte el incendio, avisar al Director de
+Emergencia para que defina si procede activar el Plan
+de Emergencia.
+• El Jefe de la Emergencia evaluará el incidente y
+deberá valorar el nivel de la emergencia.
+• Para emergencias Nivel 1, cualquier personal
+capacitado en el manejo y uso de extintores podrá
+apagar el fuego. En caso de emergencias Nivel 2, solo
+el Equipo de Intervención podrá atender la situación,
+sin exponerse y que ello no implique un riesgo para el
+resto del personal. Las emergencias nivel 3 serán
+atendidas por apoyo externo (Cuerpos de Bomberos ,
+CONAF).
+• En caso de no poder extinguir el incendio, avisar para
+la activación del Plan de Emergencia y evacuar la
+zona. En caso de necesidad, se paralizarán todas las
+operaciones de la faena o área comprometida y no se
+permitirá el funcionamiento de:
+o Motores u otros equipos eléctricos.
+o Otros equipos o vehículos que pueden
+provocar un punto de ignición.
+• Se deberá observar la dirección del viento, y de
+acuerdo a esto, se delimitará ampliamente la zona de
+peligro y se deberá impedir el acceso a la misma del
+personal que no esté adecuadamente equipado,
+alejando preferentemente en dirección contraria al
+viento, a toda persona ajena a la emergencia.
+• Se deberá limitar el número de personas en la zona de
+peligro al mínimo imprescindible, controlándolos
+constantemente por un responsable que deberá
+permanecer en el exterior de la zona, el cual deberá
+disponer de un equipo de socorro listo para intervenir
+si fuera necesario.
+• Una vez que el Director de Emergencia active el Plan,
+el Equipo de Intervención se desplegará para
+controlar el incendio y, si es posible, acordonará la
+zona afectada.
+• Se debe mantener la seguridad del personal,
+disponiendo de una vía de retirada en todo momento
+25
+================================================================================
+PAGE 30
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de emergencia Plan de acción frente a incendio
+y utilizando los agentes extintores y EPP adecuados
+contra el incendio. Si la situación reviste de gravedad,
+se comunicará el hecho a la Compañía de bomberos.
+• Tras la extinción del fuego, recoger efluentes sucios
+por los agentes extintores y gestionarlos
+adecuadamente según determine el Plan de Manejo
+de Residuos de la empresa.
+• Una vez controlada la situación de emergencia, el Jefe
+de Emergencia informará del hecho al Director de
+Emergencia, decretando éste el final de la misma.
+El Procedimiento de actuación en caso de incendio forestal
+será como sigue:
+• Dar aviso inmediato al supervisor en caso de
+provocarse, avistar o ser informado de un incendio
+forestal.
+• Todas las personas que sufran algún accidente del
+trabajo producto del incendio o de su combate
+deberán derivarse al paramédico/TENS del Proyecto o
+mutual de seguridad, según corresponda.
+• El Director de la Emergencia decretará la activación
+del presente Plan y el Jefe de la Emergencia valorará
+el Nivel de la misma.
+• El Equipo de Intervención solo actuará para
+emergencias Nivel 2. En caso de emergencias Nivel 3
+se requerirá ayuda externa (Cuerpos de Bomberos,
+CONAF).
+• Coordinar con CONAF, bomberos y carabineros si la
+emergencia lo requiere. Con el objeto que dichas
+instituciones tengan conocimiento del hecho y
+realicen las evaluaciones necesarias para el despacho
+de recursos a la zona del incendio.
+• El personal debidamente capacitado y disponible más
+cerca del lugar del incendio comenzará a combatirlo
+de inmediato, siempre y cuando no esté
+comprometida su seguridad, en caso contrario, el
+asesor de prevención de riesgos deberá dirigir el
+proceso de evacuación hacia los puntos de encuentro
+de emergencia definidos para el Proyecto.
+• El primer ataque de fuego se iniciará hacia la
+detención del frente principal o foco de fuego
+utilizando equipos de extinción y construyendo las
+líneas de control que se requieran.
+26
+================================================================================
+PAGE 31
+================================================================================
+Anexo 10-5 PAS 138
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Situación de emergencia Plan de acción frente a incendio
+• Sólo si las condiciones del incendio lo permiten, se
+deberá hacer retiro de todos los productos
+inflamables que se encuentren en el lugar siniestrado
+y aquellos que puedan producir derrames.
+• El Jefe de Emergencia deberá efectuar recuento de
+todo el personal presente en la emergencia.
+• Una vez controlada la situación de emergencia, el Jefe
+de Emergencia informará del hecho al Director de
+Emergencia, decretando éste el final de la misma.
+En caso de producirse alguna emergencia Nivel 2 o Nivel 3, se
+informará dentro de las primeras 24 horas a la
+Superintendencia de Medio Ambiente (SMA), CONAF y
+SEREMI Medio Ambiente, vía telefónica y/o correo
+electrónico. Luego, en un plazo no superior a 15 días de
+ocurrido el evento, se enviará un informe de la emergencia, el
+cual contendrá a lo menos:
+Oportunidad y vías de comunicación a la SMA • Fecha, hora y lugar de ocurrencia.
+de la Activación del Plan • Motivo de la emergencia.
+• Aspectos ambientales involucrados (suelo, emisiones
+atmosféricas, fauna, etc.
+• Alcance de la emergencia.
+• Acciones de control realizadas.
+• Acciones de reparación realizadas.
+Acciones de prevención que se implementarán para evitar una
+nueva ocurrencia.
+Fuente: GAC, 2024
+3 INDICADORES DE CUMPLIMIENTO
+El indicador de cumplimiento corresponderá a:
+• Copia de la RCA (que se pronuncia respecto del cumplimiento de los requisitos del PAS 138 en el
+ámbito del SEIA).
+• Copia de la Resolución de Autorización Sectorial para la construcción y funcionamiento de las
+Plantas de Tratamientos de Aguas Servidas propuesto en el presente documento.
+27

@@ -1,0 +1,487 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 7-2
+Modelación de medidas de
+compensación en calidad del aire
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Objetivos .................................................................................................................................... 1
+3 Metodología general ................................................................................................................... 2
+4 Medidas de compensación .......................................................................................................... 2
+5 Calculo de reducción de emisiones .............................................................................................. 6
+5.1 Emisiones aprobadas ambientalmente para Proyecto Continuidad Operacional Centro de
+Manejo de Residuos de Concepción ......................................................................................................... 6
+5.2 Emisiones estimadas para nueva condición en carpetas del camino ........................................... 8
+5.3 Reducción de emisiones estimadas............................................................................................. 10
+6 Modelación de reducción de aportes ......................................................................................... 11
+7 Conclusiones ............................................................................................................................. 13
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 4-1. Característica de tramos. .............................................................................................................. 5
+Tabla 5-1. Emisiones anuales por tramo. ...................................................................................................... 6
+Tabla 5-2. Emisiones por tramo (t/año) ........................................................................................................ 6
+Tabla 5-3. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito
+de vehículos por caminos no pavimentados ................................................................................................. 7
+Tabla 5-4. Valores considerados en las variables del factor de emisión de material particulado para
+resuspensión de polvo por tránsito de vehículos por caminos no pavimentados – Fase de construcción .. 7
+Tabla 5-5. Emisiones por tramo corregido por días de lluvia (t/año) ........................................................... 7
+Tabla 5-6. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito
+de vehículos por caminos no pavimentados ................................................................................................. 8
+Tabla 5-7. Valores considerados en las variables del factor de emisión de material particulado para
+resuspensión de polvo por tránsito de vehículos por caminos no pavimentados – Fase de construcción .. 8
+Tabla 5-8. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito
+de vehículos por caminos pavimentados ...................................................................................................... 9
+Tabla 5-9. Valores considerados en las variables del factor de emisión de material particulado para
+resuspensión de polvo por tránsito de vehículos por caminos pavimentados - Fase de construcción ........ 9
+Tabla 5-10. Emisiones anuales estimadas tramos con nueva condición de carpeta. ................................. 10
+Tabla 5-11. Reducción de emisiones estimada ........................................................................................... 10
+Tabla 6-1. Reducción de concentraciones en receptores. .......................................................................... 12
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 4-1. Medida de control comprometida EIA Continuidad Operacional Centro de Manejo de Residuos
+de Concepción ............................................................................................................................................... 3
+Figura 4-2. Tipo de carpeta Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras ....................................................................................................................... 4
+Figura 4-3. Tramos de cambios en carpeta acceso desde Ruta 150 a acceso CEMARC ................................ 5
+Figura 6-1. Fuentes emisoras y receptores ................................................................................................. 11
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El presente documento contiene la estimación de la compensación en calidad del aire producto de las
+medidas consideradas en el Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras, para hacerse cargo del impacto significativo identificado en tres receptores
+cercanos al Proyecto (R11, R28 y R32). El impacto significativo se generaría para el aporte de MP2,5 como
+promedio anual, considerando que se superan los umbrales definidos como aportes significativos en el
+documento documento “Impacto de emisiones en zonas saturadas por material particulado respirable
+MP10 y material particulado fino respirable MP2,5” del SEA.
+Para estimar la compensación en términos de aporte de MP2,5, fue estimada la reducción de emisiones
+producto de las medidas consideradas y posteriormente fue modelada la reducción de aportes como
+calidad del aire. La modelación considera los lineamientos indicados en la Guía para el uso de Modelos de
+Calidad del Aire en el SEIA, versión 2 (2023), para lo cual es realizada una modelación meteorológica y una
+modelación de dispersión de emisiones.
+2 OBJETIVOS
+• Estimar la reducción de emisiones producto de la implementación de medidas de control de
+emisiones.
+• Estimar la reducción de aportes en calidad del aire producto de la reducción de emisiones.
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3 METODOLOGÍA GENERAL
+Para estimar la reducción de los aportes en términos de concentraciones de MP2,5 en los receptores de
+interés, producto de las medidas a implementar, fueron realizadas las siguientes actividades.
+- Fueron identificadas medidas que tuvieran efecto sobre los receptores en donde se requiere
+reducir los aportes en términos de concentraciones de MP2,5.
+- Se realizó la estimación de emisiones de la fuente considerada, para un escenario sin la medida
+propuesta y luego con la medida propuesta, para obtener la reducción de emisiones que generará
+la implementación de la medida.
+- Se realizó una modelación de dispersión de las emisiones reducidas, para estimar el aporte que se
+dejará de generarse en los receptores de interés producto de la implementación de la medida.
+4 MEDIDAS DE COMPENSACIÓN
+Los receptores (R11, R28 y R32) sobre los cuales se requiere generar una reducción de aportes en
+concentraciones de MP2,5 se encuentran en un sector aislado, en donde la principal fuente emisora
+cercana posible de intervenir corresponde a caminos no pavimentados. El camino con mayor actividad
+vehicular cercano a los receptores corresponde al camino por el que actualmente ingresan camiones desde
+la Ruta 150 hasta las instalaciones de CEMARC, y que será usado por el presente proyecto.
+El Proyecto “Continuidad Operacional Centro de Manejo de Residuos de Concepción”, aprobado mediante
+RCA (2023081015341), considera la utilización de una ruta no pavimentadas que permite ingresar desde
+la Ruta 150 hasta el Proyecto. El Proyecto aprobado para su fase de operación considera la aplicación de
+supresor en un primer tramo de aproximadamente 750 metros desde la Ruta 150 y en aproximadamente
+otros 750 antes del ingreso a CEMARC. Para el resto del camino se considera humectación con una
+eficiencia de 75%. Para la medida de aplicación de supresor fue comprometida una eficiencia de 95%. La
+Figura 4-1 presenta el camino de acceso indicado y los tramos con el tipo de medida comprometida.
+1 https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&id_expediente=2153787305
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-1. Medida de control comprometida EIA Continuidad Operacional Centro de Manejo de Residuos de
+Concepción
+Fuente: GAC
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras considera la implementación de una carpeta asfáltica y la aplicación de un supresor con una
+eficiencia promedio de 80% en caminos no pavimentados. Debido a que el camino de acceso desde la Ruta
+150, hasta el acceso a CEMARC será compartido por ambos proyectos, la implementación de una carpeta
+asfáltica y de supresor generará una reducción en las emisiones aprobadas ambientalmente al Proyecto
+Continuidad Operacional Centro de Manejo de Residuos de Concepción. La Figura 4-2 presenta los tramos
+de la ruta de acceso hasta CEMARC en donde se realizará una mejora en la carpeta de rodado, indicando
+si corresponde a carpeta asfáltica o a aplicación de supresor.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-2. Tipo de carpeta Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: GAC
+Como se observa en la Figura 4-1 y Figura 4-2, las medidas de control aprobadas sobre el tramo de acceso
+desde la Ruta 150 hasta el acceso a CEMARC para el Proyecto Continuidad Operacional Centro de Manejo
+de Residuos de Concepción (EIA aprobado), se intersectan con las mejoras en la carpeta que implementará
+el Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras (EIA en evaluación). La Figura 4-3 presenta una tramificación que permite comparar las
+características del camino definidas en ambos proyectos.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-3. Tramos de cambios en carpeta acceso desde Ruta 150 a acceso CEMARC
+Fuente: GAC
+La Tabla 4-1 presenta las características de los tramos presentados en la Figura 4-3 para ambos proyectos,
+identificados como EIA aprobado y EIA en evaluación, en donde son coincidentes.
+Tabla 4-1. Característica de tramos.
+EIA aprobado Proyecto EIA presente proyecto en
+Tramo Longitud (m)
+CEMARC evaluación
+Tramo 1 Supresor / 95% eficiencia Supresor / 80% eficiencia 750
+Humectación / 75%
+Tramo 2 Supresor / 80% eficiencia 3.518
+eficiencia
+Humectación / 75%
+Tramo 3 Carpeta de asfalto 906
+eficiencia
+Tramo 4 Supresor / 95% eficiencia Carpeta de asfalto 703
+Fuente: GAC
+Como se observa en la Tabla 4-1, en el Tramo 1, el EIA aprobado comprometió una eficiencia
+extremadamente alta en el control de emisiones, que es superior a la eficiencia considerada para la
+aplicación de supresor para el EIA en evaluación, por lo tanto, en este tramo no se generará una reducción
+de emisiones. Para los tramos 2, 3 y 4, el EIA en evaluación considera una mejora en la carpeta o en la
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+eficiencia de la medida del proyecto, por lo tanto, se generará una reducción de emisiones respecto de las
+aprobadas ambientalmente para el EIA aprobado. Estos tres tramos son los evaluados a continuación.
+5 CALCULO DE REDUCCIÓN DE EMISIONES
+5.1 Emisiones aprobadas ambientalmente para Proyecto Continuidad
+Operacional Centro de Manejo de Residuos de Concepción
+Las emisiones consideradas corresponden a las generadas por tránsito vehicular desde el acceso por la
+Ruta 150 hasta el acceso a CEMARC. Las emisiones totales por medida de control se presentan en Tabla
+5-1, en donde se indica la extensión de cada tramo para obtener una tasa de emisión por metro lineal.
+Tabla 5-1. Emisiones anuales por tramo.
+Tramo humectado Tramo con supresor
+MP10 MP2,5 MP10 MP2,5
+Emisiones (t/año) 90,71 9,07 6,05 0,6
+Distancia (m) 4.496 1.500
+t/m/año 0,0202 0,0020 0,0040 0,0004
+Fuente: GAC en base a EIA Proyecto Continuidad Operacional Centro de Manejo de Residuos de Concepción
+A partir de las emisiones unitarias por longitud (t/m/año) presentadas en la Tabla 5-1, y a la longitud de
+cada tramo, presentado en la Tabla 4-1, fueron estimadas emisiones proporcionales para cada uno de los
+tramos, que se presentan en la Tabla 5-2.
+Tabla 5-2. Emisiones por tramo (t/año)
+Tramo MP10 MP2,5
+1 70,98 7,10
+2 18,28 1,83
+3 2,84 0,28
+Fuente: GAC
+Las emisiones estimadas para caminos no pavimentados en el Proyecto Continuidad Operacional Centro
+de Manejo de Residuos de Concepción no consideraron corrección por días de lluvia (indicado en la
+metodología de estimación de emisiones), que resulta un factor relevante en la zona. Si no se consideran
+días de lluvia en el escenario inicial de emisiones, utilizado para estimar la reducción producto de las
+medidas en evaluación, se obtendría una reducción sobreestimada de las medidas. Por lo tanto, las
+emisiones presentadas en la Tabla 5-2 son corregidas por días de lluvia para posteriormente, utilizarlas
+para obtener una reducción de emisiones. El factor de corrección por días de lluvia (en color rojo en la
+ecuación de la Tabla 5-3) se presenta a continuación junto a la metodología de estimación de emisiones
+en caminos no pavimentados.
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 5-3. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito de
+vehículos por caminos no pavimentados
+Actividad Fórmula Unidad Referencia
+Resuspensión de polvo
+por tránsito de vehículos 𝑠 𝑎 𝑊 𝑏 365−𝑃 Guía RM 2020 y AP-42,
+𝑘×281,9×( ) ×( ) ×( ) g/km
+por caminos no 12 2,72 365 13.2.2 Unpaved Roads
+pavimentados
+Fuente: GAC
+En la Tabla 5-4 se presentan los parámetros para el cálculo del factor de emisión de material particulado
+producto de la resuspensión de polvo por el tránsito de vehículos pesados por caminos no pavimentados.
+Tabla 5-4. Valores considerados en las variables del factor de emisión de material particulado para resuspensión
+de polvo por tránsito de vehículos por caminos no pavimentados – Fase de construcción
+Actividad Variables Valor Referencia
+k: Factor de tamaño de partícula (MPS) 4,9
+k: Factor de tamaño de partícula (MP10) 1,5
+k: Factor de tamaño de partícula (MP2,5) 0,15
+AP-42, 13.2.2 Unpaved
+Roads
+a: Constante empírica (MPS) 0,7
+Resuspensión de
+polvo por a: Constante empírica (MP10 y MP2,5) 0,9
+tránsito de
+b: Constante empírica (MP10 y MP2,5) 0,45
+vehículos por
+caminos no s: Contenido de finos (%) 7,0 Valor de diseño de caminos
+pavimentados
+W: Peso promedio de la flota durante la Fase de Estimado a partir de datos
+Variable
+construcción (t) del proyecto
+Factor días de lluvia: 1-P/365, donde P Datos de la estación
+corresponde al número de días en el año con 0,7233 meteorológica Consultorio
+precipitaciones superiores a 0,254 [mm]. P=101 San Vicente Talcahuano
+Fuente: GAC.
+Las emisiones presentadas en la Tabla 5-2 corregidas por días de lluvia (0,7233) se presentan en la Tabla
+5-5.
+Tabla 5-5. Emisiones por tramo corregido por días de lluvia (t/año)
+Tramo MP10 MP2,5
+1 51,34 5,13
+2 13,22 1,32
+3 2,05 0,20
+Fuente: GAC
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+5.2 Emisiones estimadas para nueva condición en carpetas del camino
+Para estimar las emisiones que generará el proyecto Continuidad Operacional Centro de Manejo de
+Residuos de Concepción producto de la nueva condición de la carpeta, en los tres tramos descritos, fueron
+utilizadas las metodologías de estimación de emisiones para caminos no pavimentados (Tramo 2) y para
+caminos pavimentados/asfaltados (Tramo 3 y Tramo 4). Ambas metodologías se presentan a continuación,
+junto a sus parámetros.
+Tabla 5-6. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito de
+vehículos por caminos no pavimentados
+Actividad Fórmula Unidad Referencia
+Resuspensión de polvo
+por tránsito de vehículos 𝑠 𝑎 𝑊 𝑏 365−𝑃 Guía RM 2020 y AP-42,
+𝑘×281,9×( ) ×( ) ×( ) g/km
+por caminos no 12 2,72 365 13.2.2 Unpaved Roads
+pavimentados
+Fuente: GAC
+En la Tabla 5-4 se presentan los parámetros para el cálculo del factor de emisión de material particulado
+producto de la resuspensión de polvo por el tránsito de vehículos pesados por caminos no pavimentados.
+Tabla 5-7. Valores considerados en las variables del factor de emisión de material particulado para resuspensión
+de polvo por tránsito de vehículos por caminos no pavimentados – Fase de construcción
+Actividad Variables Valor Referencia
+k: Factor de tamaño de partícula (MPS) 4,9
+k: Factor de tamaño de partícula (MP10) 1,5
+k: Factor de tamaño de partícula (MP2,5) 0,15 AP-42, 13.2.2 Unpaved
+Roads
+a: Constante empírica (MPS) 0,7
+Resuspensión de
+polvo por a: Constante empírica (MP10 y MP2,5) 0,9
+tránsito de
+b: Constante empírica (MP10 y MP2,5) 0,45
+vehículos por
+caminos no s: Contenido de finos (%) 7,0 Valor de diseño de caminos
+pavimentados
+W: Peso promedio de la flota durante la Fase de Estimado a partir de datos
+22,92
+construcción (t) del proyecto
+Factor días de lluvia: 1-P/365, donde P Datos de la estación
+corresponde al número de días en el año con 0,7233 meteorológica Consultorio
+precipitaciones superiores a 0,254 [mm]. P=101 San Vicente Talcahuano
+Fuente: GAC.
+El peso promedio W fue calculado considerando el flujo del Proyecto Continuidad Operacional Centro de
+Manejo de Residuos de Concepción y del Proyecto de Desarrollo Minero de Extracción de Arcillas para
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Producción de Concentrado de Tierras Raras, operando simultáneamente. La metodología para estimar
+las emisiones en caminos pavimentados/asfaltados, se presenta a continuación.
+Tabla 5-8. Fórmula del factor de emisión de material particulado para resuspensión de polvo por tránsito de
+vehículos por caminos pavimentados
+Actividad Fórmula Unidad Referencia
+Resuspensión de polvo
+por tránsito de 𝑃 Guía RM 2020 y AP-42,
+𝑘×𝑠𝐿0,91×(𝑊×1,1023)1,02×(1− ) g/km
+vehículos en caminos 4𝑁 13.2.1 Paved Roads
+pavimentados
+Fuente: GAC
+En la Tabla 5-9 se presentan los parámetros para el cálculo del factor de emisión de material particulado
+producto de la resuspensión de polvo por el tránsito de vehículos por caminos pavimentados.
+Tabla 5-9. Valores considerados en las variables del factor de emisión de material particulado para resuspensión
+de polvo por tránsito de vehículos por caminos pavimentados - Fase de construcción
+Actividad Variables Valor Referencia
+k: Factor de tamaño de partícula (MPS) 3,23
+AP-42, 13.2.1
+k: Factor de tamaño de partícula (MP10) 0,62
+Paved Roads
+k: Factor de tamaño de partícula (MP2,5) 0,15
+Flujo < 500 veh/día= 2,4
+500 <Flujo < 10.000
+sL: Carga de fino de la superficie (g/m²). veh/día= 0,7 Guía RM 2020
+Resuspensión de polvo
+Flujo > 10.000 veh/día=
+por tránsito de 0,3
+vehículos en caminos
+pavimentados Estimado a partir
+W: Peso promedio del flujo total de la
+22,92 de datos del
+flota que circula por las vías (t)
+proyecto
+Estación
+Factor días de lluvia: (1-P/4*365) donde P
+meteorológica
+corresponde al número de días en el año
+0,7233 Consultorio San
+con precipitaciones superiores a 0,254
+Vicente
+[mm]. P=101
+Talcahuano
+Fuente: GAC.
+Las emisiones anuales estimadas, considerando la nueva condición de las carpetas, se presenta en la Tabla
+5-10. Las emisiones fueron calculadas considerando el flujo anual del Proyecto Continuidad Operacional
+Centro de Manejo de Residuos de Concepción, fue obtenido del archivo “Planilla Emisiones - Operación
+Futuro.xlsx”, del Anexo 4-D Excel emisiones, del EIA Proyecto Continuidad Operacional Centro de Manejo
+de Residuos de Concepción, que es de 63.696 veh/día (ida).
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 5-10. Emisiones anuales estimadas tramos con nueva condición de carpeta.
+FE (g/km) no pav FE (g/km) pav t/año
+Tramo Long (m) Flujo/año (ida) W (t) Eficiencia (%)
+MP10 MP2,5 MP10 MP2,5 MP10 MP2,5
+1 3.518 63.696 22,92 491,32 49,13 80 44,04 4,40
+2 906 63.696 22,92 10,18 2,46 1,17 0,28
+3 703 63.696 22,92 6,39 1,55 0,57 0,14
+Fuente: GAC
+5.3 Reducción de emisiones estimadas
+La reducción de emisiones es estimada como la diferencia entre las emisiones aprobadas para el Proyecto
+Continuidad Operacional Centro de Manejo de Residuos de Concepción en su fase de operación, y las
+emisiones estimadas para el mismo proyecto en fase de operación, pero con la nueva condición de las
+carpetas. La reducción estimada de las emisiones se presenta en la Tabla 5-11.
+Tabla 5-11. Reducción de emisiones estimada
+t/año
+Tramo
+MP10 MP2,5
+1 7,30 0,73
+2 12,05 1,04
+3 1,48 0,06
+Fuente: GAC
+Las emisiones presentadas en la Tabla 5-11 fueron modeladas para estimar la reducción en
+concentraciones de material particulado en los receptores identificados en el Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras, y especialmente en los
+tres receptores en donde fue obtenido un impacto significativo en la componente calidad del aire (R11,
+R28 y R32).
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+6 MODELACIÓN DE REDUCCIÓN DE APORTES
+La modelación de dispersión de las emisiones fue realizada considerando los lineamientos indicados en la
+Guía para el uso de Modelos de Calidad del Aire en el SEIA, versión 2 (2023). Para la modelación fue
+utilizado el modelo calpuff y la información meteorológica generada con el modelo WRF para el año 2022.
+El análisis de incertidumbre del modelo meteorológico es presentado en el Anexo 4-1 Modelación de
+calidad del aire.
+La Figura 6-1 presenta las fuentes emisoras ingresadas al modelo y los receptores discretos en donde fue
+evaluada la reducción de aportes para MP10 y MP2,5.
+Figura 6-1. Fuentes emisoras y receptores
+Fuente: GAC
+La reducción de aportes de MP10 y MP2,5 en cada uno de los receptores, tanto para el promedio anual,
+como para el percentil 98 de 24 horas se presenta en la Tabla 6-1.
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 6-1. Reducción de concentraciones en receptores.
+MP10 (µg/m³) MP2,5 (µg/m³)
+ID
+24h Anual 24h Anual
+R_1 0,209 0,043 0,029 0,006
+R_2 0,186 0,042 0,027 0,006
+R_3 0,343 0,054 0,041 0,007
+R_4 0,220 0,035 0,027 0,005
+R_5 0,215 0,034 0,027 0,005
+R_6 0,183 0,031 0,023 0,005
+R_7 0,123 0,025 0,017 0,004
+R_8 0,114 0,022 0,017 0,003
+R_9 1,146 0,167 0,129 0,018
+R_11 5,519 1,055 0,561 0,095
+R_12 0,309 0,086 0,045 0,014
+R_13 0,296 0,099 0,049 0,016
+R_14 0,294 0,085 0,049 0,014
+R_15 0,253 0,069 0,039 0,012
+R_17 0,301 0,041 0,041 0,006
+R_25 0,051 0,005 0,008 0,001
+R_28 5,741 1,021 0,621 0,099
+R_29 1,088 0,156 0,125 0,017
+R_30 0,206 0,028 0,028 0,004
+R_31 0,237 0,034 0,034 0,005
+R_32 4,860 0,923 0,606 0,093
+Fuente: GAC
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 7-2 Modelación de medidas de compensación en calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7 CONCLUSIONES
+Las medidas evaluadas de cambio en la condición de la carpeta desde el acceso por la Ruta 150, hasta el
+acceso a CEMARC, para la fase de operación del Proyecto Continuidad Operacional Centro de Manejo de
+Residuos de Concepción, generarán una reducción en las emisiones de material particulado resuspendido
+por el tránsito vehicular.
+Las mayores reducciones en aportes de material particulado en calidad del aire se estiman para los
+receptores R11, R28 y R32, que se encuentran más cercanos a los caminos en donde la carpeta tendrá un
+estándar mejorado producto de la ejecución del Proyecto de Desarrollo Minero de Extracción de Arcillas
+para Producción de Concentrado de Tierras Raras.
+13

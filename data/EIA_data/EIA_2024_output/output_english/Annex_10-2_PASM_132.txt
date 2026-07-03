@@ -1,0 +1,1367 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 10-2
+Sectoral Environmental Permit
+No. 132
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+ENVIRONMENTAL IMPACT STUDY
+MINING DEVELOPMENT PROJECT
+EXTRACTION OF CLAYS FOR THE PRODUCTION OF
+RARE EARTH CONCENTRATE
+ANNEX 10-2
+PAS 132 ARCHEOLOGY
+Ma Marta Valenzuela Arenas
+archaeologist
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+ANNEX 10-2
+PAS 132 ARCHEOLOGY
+ENVIRONMENTAL IMPACT STUDY
+MINING DEVELOPMENT PROJECT FOR CLAY EXTRACTION FOR PRODUCTION
+OF RARE EARTH CONCENTRATE
+MAY 2024
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+i
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+INDEX OF CONTENTS
+1 INTRODUCTION ................................................................................................................... 4
+2 BACKGROUND FOR GRANTING THE PERMIT ........................................................... 6
+2.1 IDENTIFICATION AND GENERAL DESCRIPTION OF ARCHAEOLOGICAL SITES ......................... 6
+2.2 DESCRIPTION OF THE WORKS, PARTS AND ACTIONS THAT MAY AFFECT THE SITES OR
+DEPOSITS ................................................................................................................................... 11
+2.3 SURFACE AND STRATIGRAPHIC CHARACTERIZATION OF THE SITES OR DEPOSITS
+15
+2.3.1 SURFACE INSPECTION OF THE AREA ................................................................................... 15
+2.3.2 SURFACE CHARACTERIZATION of ARCHAEOLOGICAL RECORDS ......................... 25
+2.3.3 STRATIGRAPHIC CHARACTERIZATION OF ARCHAEOLOGICAL RECORDS ................... 25
+2.4 GENERAL DESCRIPTION OF THE TYPES OF ANALYSIS TO BE PERFORMED ON THE MATERIALS THAT
+BE RECOVERED ........................................................................................................................... 31
+2.4.1 PROPOSED RESCUE MEASURE ........................................................................................... 31
+2.4.1.1. SURFACE COLLECTION ................................................................................................... 32
+2.4.2. MATERIALS ANALYSIS METHODOLOGY ................................................................................... 32
+2.5 PROPOSAL FOR CONSERVATION OF MATERIALS IN THE FIELD, LABORATORY AND
+TANK ........................................................................................................................................... 34
+2.6 TRANSFER PLAN AND FINAL DEPOSIT OF THE MATERIALS TO BE RECOVERED 35
+2.7 CONSERVATION MEASURES FOR DEPOSITS ....................................................... 35
+2.8 PERMANENT ARCHAEOLOGICAL MONITORING ........................................................................... 35
+APPENDIX 1. PMP-SA-01 REGISTRATION SHEETS AND FILLING OUT 1 ................................................... 37
+APPENDIX 2. SURFACE COLLECTION SHEET MODEL ....................................... 45
+TABLE INDEX
+Table 1. Project work surfaces. ............................................................................................ 12
+Table 2. Summary coverage of the visual archaeological inspection of the Project. .................................. 15
+Table 3. Synthesis of inspection records or those close to the AI ​​and proposed measures. ........................ 31
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+ii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+INDEX OF FIGURES
+Figure 1. General view of the site of the PMP-SA-01 site towards the Northeast ........................................... 7
+Figure 2. Detail of ceramic fragments recorded at the PMP-SA-01 site. .................................. 7
+Figure 3. Detail of ceramic fragments recorded at the PMP-SA-01 site. .................................. 7
+Figure 4. Detail of a ceramic fragment recorded at the PMP-SA-01 site. .................................... 7
+Figure 5. Record of the ZE Maite visual archaeological inspection. .................................................... 8
+Figure 6. General view of the Fill 1 site location ........................................................... 9
+Figure 7. Detail of ceramic fragments recorded at the Fill 1 site ....................................... 9
+Figure 8. Detail of previous archaeological records reported within the framework of the SEIA near the AI of the
+Project. ........................................................................................................................................... 10
+Figure 9. Regional location of the Project. ....................................................................................... 11
+Figure 10. Area of Influence Archaeology. ....................................................................................... 14
+Figure 11. Visual archaeological inspection results Extraction Zone (ZE) Victoria North. ....... 17
+Figure 12. Results of visual archaeological inspection of the Processing Plant. ............................ 18
+Figure 13. Stockpile visual archaeological inspection results. .................................................... 19
+Figure 14. Results of visual archaeological inspection Disposal Zone (ZD) Neptuno. ............. 20
+Figure 15. Visual archaeological inspection results Vegetable Collection Area (ZA) ......................... 21
+Figure 16. Results of visual archaeological inspection of the Maite Extraction Area. ........................... 22
+Figure 17. Results of visual archaeological inspection of the Luna Extraction Zone. ............................ 23
+Figure 18. Results of visual archaeological inspection Area of Intervention Roads, LTE and
+ENAP Oil Pipeline Modification. ........................................................................................................... 24
+Figure 19. Results of test wells excavated at the PMP-SA-01 site. .................................... 28
+Figure 20. Results of test pits excavated around the Fill 1 site. ................................... 29
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+iii
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrates
+Environmental Impact Study
+1 INTRODUCTION
+The Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate,
+hereinafter, interchangeably, the “Project”, corresponds to the set of parts, works and actions that
+will allow the construction, operation and closure of a mining site for the extraction and processing of
+clays, a material present in the area, which, due to natural effects, is highly weathered, with
+presence of rare earths in clay minerals. The Project will be developed mainly in the commune
+of Penco, Province of Concepción, Biobío Region, without prejudice to the fact that part of the works are located in the
+commune of Concepción, on the border with the Commune of Penco.
+The Project considers the following facilities: one (1) Processing Plant, three (3) storage areas
+clay extraction (ZE Victoria Norte, ZE Luna, ZE Maite), a
+(1) disposal area for ballast and clays
+processed (ZD Neptuno), one (1) vegetal soil collection area (ZAV), a processing plant
+clays (the “Plant”), a stockpile for the temporary collection of material prior to processing, a line
+electricity and its connection to the existing line and the construction of internal roads to access the different
+areas. The Processing Plant will have a capacity to process up to 320 tons/hour of material
+to produce Rare Earth concentrate. In addition, the modification of an existing section of
+approximately 1.22 kilometers of the Hualpén – San Fernando pipeline, property of ENAP, reason for the
+exploitation of the Maite ZE. The Project in turn includes the implementation of temporary works
+corresponding to work facilities for the construction and authorization of the Project works.
+This document corresponds to an Annex to the Environmental Impact Study (EIA) of the “Project of
+Mining Development of Clay Extraction for the Production of Rare Earth Concentrate” (hereinafter,
+the “Project”) and responds to the need to request the application of Sectoral Environmental Permit No. 132 of the
+SEIA Regulations within the framework of the development of Project activities.
+The Sectoral Environmental Permit (PAS) to carry out archaeological, anthropological and
+paleontological, corresponding to that established in article 132 of DS 40/2012 of the SEIA Regulations of the
+Ministry of the Environment, hereinafter PAS 132, corresponds to a mixed PAS, since it presents both
+environmental contents (analyzed within the SEIA) and non-environmental, which are the responsibility of
+State Administration Bodies with Environmental Competence (OAECA), in this case, the Council of
+National Monuments (CMN).
+This permit is based on article 30, No. 1 of Law No. 17,288, which legislates on National Monuments,
+which modifies laws 16,617 and 16,719 and repeals the decree of Law 651, of October 17, 1925 (Law
+N°17,288), which provide:
+“Article 22. - No Chilean natural or legal person may do business in national territory.
+excavations of an archaeological, anthropological or paleontological nature, without having obtained
+prior authorization from the National Monuments Council, in the manner established in its
+Regulation (…)”.
+“Article 23. - Foreign natural or legal persons who wish to carry out excavations of
+anthropo-archaeological and paleontological type, they must request the corresponding permit from the Council
+of National Monuments in the manner established in the Regulations. (…)”.
+On the other hand, other regulations related to said permit are related to different articles of the law.
+referred to (No. 17,288), namely:
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+4
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrates
+Environmental Impact Study
+“Article 1. - They are national monuments and remain under the tutelage and protection of the State, the places,
+ruins, buildings or objects of a historical or artistic nature; burial grounds or cemeteries and
+other remains of the aborigines, anthropo-archaeological, paleontological or
+natural formation, which exist under or on the surface of the national land or on the platform
+submarine of its jurisdictional waters and whose conservation is of interest to history, art or science
+(…)”.
+“Article 6. -The powers and duties of the Council [of National Monuments] are:
+6.- Grant permits or authorizations for excavations of a historical, archaeological,
+anthropological or paleontological at any point in the national territory, requested by people
+Chilean or foreign natural or legal entities in the manner determined by the Regulations.”
+“Article 21. -By the sole ministry of the Law, they are Archaeological Monuments owned by the
+State the places, ruins and anthropo-archaeological sites and pieces that exist on or under the
+surface of the national territory.
+For the purposes of this law, paleontological pieces and artifacts are also included.
+places where they will be found.”
+“Article 26. - Any natural or legal person
+ca that when excavating at any point in the
+national territory and for any purpose, ruins, sites, pieces or objects of
+historical, anthropological, archaeological or paleontological nature, is obliged to report
+immediately the discovery to the Provincial Governor, who will order the Carabineros to
+responsible for its surveillance until the Council takes charge of it (…)”.
+On the other hand, the main articles related to PAS 132 of Supreme Decree No. 484 of 1990 of the
+Ministry of Education, which promulgates the Regulation of Law No. 17,288, on excavations and/or
+archaeological, anthropological and paleontological surveys correspond to:
+“Article 5. -Prospecting that includes boreholes and/or collections of material
+surface and all archaeological, anthropological and paleontological excavations, on land
+public or private, they can only be carried out with prior authorization from the Monuments Council
+National, through the corresponding permits.”
+“Article 21°. -Objects or species from excavations and/or archaeological surveys,
+anthropological and/or paleontological, belong to the State. Its tenure will be assigned by the Council
+of National Monuments to those institutions that ensure their conservation, exhibition and give
+easy access to researchers for study.
+In any case, the respective regional Museums will be preferred and given priority for permanence.
+of the collections, as long as they realize that they have sufficient security conditions, give
+guarantee the conservation of the objects and facilitate access for researchers for their study.”
+Finally, the only article related to PAS 132 of Exempt Decree No. 311 (Ministry of Education and
+Undersecretariat of Education, 1999), declared as a Historical Monument Underwater Heritage that indicates,
+whose age is greater than 50 years:
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+5
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrates
+Environmental Impact Study
+“Single article: Every trace of human existence found is declared a Historical Monument.
+at the bottom of rivers, lakes and in the seabed that exists under the Lower Waters and Territorial Sea
+of the Republic of Chile, for more than fifty years, which include:
+a) Sites, structures, constructions, artifacts and human remains, together with their environment
+archaeological and natural.
+b) Remains of ships, aircraft, other vehicles or some of their parts, their cargo or their
+content, in conjunction with its archaeological and natural environment.”
+Regarding the application of this mixed environmental permit, in the “PAS Procedure Guide Article 132 Regulation
+of the SEIA” (SEA and CMN, 2018), “excavation” is defined in fairly broad terms, encompassing “all
+alteration or intervention of an archaeological, anthropological or paleontological site, including collections
+surface, boreholes, excavations, treatment of structures, conservation work,
+restoration and, in general, any management that alters an archaeological, anthropological or
+paleontological”, with the CMN being the body in charge of granting or denying said permits.
+The technical and formal contents that must be presented to prove compliance are the following:
+a. Identification and general description of archaeological sites or paleontological sites.
+b. Description of the parts, works and actions that may affect the sites or deposits.
+c. Surface and stratigraphic characterization of the sites or deposits.
+d. General description of the types of analyzes to be carried out on the recovered materials.
+e. Proposal for conservation of materials in the field, laboratory and warehouse.
+f. Transfer plan and final deposit of the recovered materials.
+g. Conservation measures for sites or deposits, if applicable.
+Below, the necessary background information to request the granting of PAS 132 is provided.
+2 BACKGROUND FOR GRANTING THE PERMIT
+2.1 IDENTIFICATION AND GENERAL DESCRIPTION OF ARCHAEOLOGICAL SITES
+From the visual archaeological inspection carried out
+ada within the framework of this Project was recognized
+only one archaeological site, called PMP-SA-01, corresponding to a concentration of
+ceramic fragments of smoothed surfaces (interior and exterior) of 146 m2, of possible historical temporality
+of indigenous tradition, located inside the Maite Extraction Zone (ZE), in the area of an existing road
+(see Figure 1 to Figure 5 and APPENDIX 1. PMP-SA-01 REGISTRATION SHEETS of this document).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+6
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrates
+Environmental Impact Study
+Figure 1. General view of the site location Figure 2. Detail of ceramic fragments
+PMP-SA-01 towards the Northeast registered on the PMP-SA-01 site.
+Figure 3. Detail of ceramic fragments Figure 4. Detail of ceramic fragment
+registered on the PMP-SA-01 site. registered on the PMP-SA-01 site.
+Source: Field campaign record, August 2023. UTM coordinates, Datum WGS84, Zone 18S.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+7
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 5. Record of the ZE Maite visual archaeological inspection.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+8
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+On the other hand, based on the review of bibliographic background, the existence of a record was recognized
+previously reported within the framework of the Environmental Impact Assessment System (SEIA), called “Landfill
+1”, located 206 m from a projected road1 (see Figure 6 to Figure 8), which was surveyed within the framework of the
+EIA of the “Operational Continuity of the Concepción Waste Management Center” Project, the results of which
+They realized the nonexistence of a stratigraphic deposit.
+Figure 6. General view of the site location Figure 7. Detail of ceramic fragments
+Filling 1 registered on the Filling 1 site
+Source: Annex 3.5.1. of the EIA of the Project “Operational Continuity of the Waste Management Center
+Conception.”
+1 Because the Landfill 1 site was located 38 m from the previous layout of a projected road, it was requested to expand the
+characterization through the execution of test wells in the Project area that faced said site, which
+They were authorized through the ORD. CMN N°1571-2024, whose results allowed the detection of a deposit
+stratigraphic in the area of said projected road. Based on these results and with the aim of avoiding intervention
+of the site, the Project Owner decided to modify the layout of the work and move the axis of the road more than 150 m from the
+probed area and 206 m from the Landfill 1 site.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+9
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 8. Detail of previous archaeological records reported within the framework of the SEIA close to the Project AI.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Note: The previous layout of the path is indicated in a referential manner (in a dotted calypso line) that motivated
+the request for drilling wells in the Project area close to the Landfill 1 site. However, the current Area of Influence of the Project corresponds to the
+path located on the western edge of the lower left box.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+10
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.2 DESCRIPTION OF THE WORKS, PARTS AND ACTIONS THAT MAY AFFECT THE
+SITES OR DEPOSITS
+The Project, located in the Communes of Penco and Concepción, Province of Concepción, Biobío Region (see
+Figure 9) consists of the construction and operation of a mining site and a Commercial Clay Plant,
+material present in the area, which due to natural effects is highly weathered, with presence
+of lanthanides adsorbed on clay minerals.
+Figure 9. Regional location of the Project.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+11
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Lanthanides are 15 elements: lanthanum (La), cerium (Ce), praseodymium (Pr), neodymium (Nd), promethium (Pm),
+samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium
+(Yb) and lutetium (Lu). The elements named above along with yttrium (Y) and scandium (Sc) are
+known as Rare Earths.
+Of the 17 elements mentioned above, 15 of them are present in this project.
+in the mineral, which are: lanthanum (La), cerium (Ce), praseodymium (Pr), neodymium (Nd), samarium (Sm), europium
+(Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium (Yb), lutetium (Lu) e
+yttrium (Y).
+The planned Commercial Plant has a capacity to process up to 320 tons/hour of clays and
+produce approximately 3,100 tons per year of Rare Earth concentrate.
+In addition to the above, the Project considers three (3) clay extraction zones (ZE Victoria Norte, ZE Luna,
+ZE Maite), one (1) disposal area for waste and washed clays (ZD Neptuno), one (1) storage area
+of topsoil (ZAV), an electrical line and its connection to an existing line and the construction of internal roads
+to access the different areas. In addition, the implementation of temporary works is considered
+corresponding to work facilities, for the construction and authorization of the Project works, the
+which will be located entirely within the intervention area of the Commercial Plant.
+The Area of Influence (AI) of the Project considered for the characterization of Archaeological Cultural Heritage
+It includes the effective surfaces of the previously mentioned works, which are detailed in Table 1 and in
+Figure 10.
+Table 1. Project work surfaces.
+SURFACE WORK (HA)
+Processing Plant2 13.1
+Stockpiles Feed Spent Clay 0.9
+EXTRACTION AREAS (ZE)
+ZE Victoria North 31.1
+ZE Moon 8.8
+ZE Maite 35.9
+DISPOSAL AREAS
+ZD Neptune 45.5
+COLLECTION AREAS
+Vegetable soil collection 5.5
+CAMINOS3 INTERVENTION AREA
+Projected roads 10.3
+Existing roads with 12.1 extension
+Existing roads without intervention 0.1
+ELECTRICAL TRANSMISSION LINE (LTE)
+2 Covers the area of the Temporary Work Facility and the Commercial Plant.
+3 Its surfaces partially overlap with other works (Processing Plant
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+12
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for Production of
+and
+Rare Earth Concentrate
+Environmental Impact Study
+SURFACE WORK (HA)
+LTE intervention area 0.2
+ENAP OIL PIPELINE MODIFICATION
+Pipeline Modification Belt4 5.69
+*Works whose surface totally or partially overlaps with other works.
+Source: Chapter 1, Project Description.
+Therefore, the total intervention surface during the useful life of the Project and, therefore, the Area of
+Influence considered for the Archeology component is 169.19 ha, as presented in Figure
+10.
+4 Part of its surface spatially overlaps with the Maite ZE.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+13
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 10. Area of Influence Archaeology.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+14
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.3 SURFACE AND STRATIGRAPHIC CHARACTERIZATION OF THE SITES OR THE
+FIELDS
+2.3.1 SURFACE INSPECTION OF THE AREA
+The collection of information on the ground was carried out through five archaeological inspection campaigns.
+that were carried out between August 2023 and May 2024. The planning included the execution of
+transects separated every 20 m, as well as the recording of georeferenced photographic control points to
+account for the location conditions of non-prospectable sectors, due to the presence of
+vegetation with dense cover and/or steep slope (over 25°), due to the fact that the Project area is
+It is located inside the Coastal mountain range of the Biobío region, which has altitudes no higher than
+300 m.a.s.l. and slopes that fluctuate from low (0-2°) to very steep (over 35°) and to moderately
+steep (20-30°). Likewise, its surface is almost completely covered by properties
+intended for forest plantations in different stages of growth, within which it is observed
+the growth of vegetation formations of the scrub, bush and/or dense cover type plant formations,
+particularly around streams.
+In general terms, an inspection coverage of 42.40% of the total surface area of the AI was achieved.
+Archeology of the Project (71.73 of the total 169.19 ha), with variable coverage percentages between the
+different works (see Table 2 and Figure 11 a Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Figure 18), while to account for the location conditions of the sectors not
+prospective areas in which it was not possible to carry out a systematic inspection using transects,
+recorded a total of 172 control points, the details of which are presented in Annex 3C-43 of this Study
+of Environmental Impact.
+Table 2. Summary coverage of the visual archaeological inspection of the Project.
+COVERAGE INSPECTION COVERAGE
+WORK TOTAL SURFACE (HA)
+INSPECTION (HA) (%)
+ZE Victoria North 31.1 16.13 51.86%
+Processing Plant 13.1 10.13 77.33%
+Stockpiles 0.9 0.37 41.11%
+ZD Neptune 45.5 6.87 15.10%
+ZA Vegetable 5.5 1.19 21.64%
+ZE Maite 35.9 17.32 48.25%
+ZE Luna 8.8 4.13 46.93%
+Intervention area roads5 22.5 14.81 65.82%
+LTE intervention area 0.2 0.07 35.00%
+5 Only the surface not superimposed or included within other areal works was quantified.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+15
+==================================================================================
+PAGE 18
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+COVERAGE INSPEC COVERAGE
+TION
+WORK TOTAL SURFACE (HA)
+INSPECTION (HA) (%)
+ENAP6 Oil Pipeline Modification 5.6 0.71 12.48
+TOTAL AI 169.19 71.73 42.40
+Source: Own elaboration
+6 Only the surface that did not overlap with the area of the Maite ZE was quantified.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+16
+==================================================================================
+PAGE 19
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 11. Visual archaeological inspection results Extraction Zone (ZE) Victoria North.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+17
+==================================================================================
+PAGE 20
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 12. Results of visual archaeological inspection of the Processing Plant.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+18
+==================================================================================
+PAGE 21
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 13. Stockpile visual archaeological inspection results.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+19
+==================================================================================
+PAGE 22
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 14. Results of visual archaeological inspection Disposal Zone (ZD) Neptuno.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+20
+==================================================================================
+PAGE 23
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 15. Visual archaeological inspection results Vegetable Collection Area (ZA).
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+21
+==================================================================================
+PAGE 24
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 16. Results of visual archaeological inspection of the Maite Extraction Area.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+22
+==================================================================================
+PAGE 25
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 17. Results of visual archaeological inspection of the Luna Extraction Zone.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+c
+error El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+23
+==================================================================================
+PAGE 26
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 18. Visual archaeological inspection results Intervention Area Roads, LTE and ENAP Oil Pipeline Modification.
+Source: Prepared by Pares&Alvarez Gestión Ambiental S.A., 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+24
+==================================================================================
+PAGE 27
+==================================================================================
+Annex 10-2: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.3.2 SURFACE CHARACTERIZATION OF ARCHAEOLOGICAL RECORDS
+As mentioned in section 2.1. of this document, based on the visual archaeological inspection
+carried out in the Project AI, only one archaeological record was recognized (PMP-SA-01),
+corresponding to a concentration of ceramic fragments from smoothed surfaces (interior and exterior) of
+146 m2, located inside the Maite Extraction Zone.
+Additionally, from the review of bibliographic background, the presence of a site was recognized
+archaeological site called “Fill 1”. This corresponds to ceramic fragments of pre-Hispanic or
+early history, of possible secondary origin and of a superficial nature. This was confirmed by the
+excavations carried out at the site by archaeologist Víctor Bustos Santelices in 2022, these
+evidenced the absence of materials in stratigraphic deposit in the 12 excavated test pits – 9 of
+1 m x 0.5 m and 3 of 1 m x 1 m.
+In a previous version of the Project layout, it was recorded that the archaeological site Fill 1 was located
+located at a distance of 38 m from a planned road. Reason why it was decided to carry out a
+request for intervention for the execution of drilling wells in the area, along with the characterization
+subsurface of the PMP-SA-01 site, located inside the Maite Extraction Zone, authorized works
+through the ORD. CMN N°1571 of April 3, 2024.
+Due to the discovery of an archaeological deposit in the Project area that faced the Landfill site
+1, the Owner decided to modify the layout of his works and move the layout of the road 150 m to the West
+projected in this area, to reduce possible impacts on the archaeological component, therefore
+that the characterization of the site was not continued, since it is no longer part of the Area of Influence of the
+Project (specifically 206 m).
+2.3.3 STRATIGRAPHIC CHARACTERIZATION OF ARCHAEOLOGICAL RECORDS
+Based on subsurface characterization activities carried out between May 2 and 5, 2024 in
+the PMP-SA-01 sites and at the edge of the Project area that faced the Landfill 17 site, it was possible to distinguish
+a homogeneous stratigraphy within each site, although clear differences between these two areas, which are
+They are distant by about 600 m from each other.
+On the one hand, at the PMP-SA-01 site, two stratigraphic layers were distinguished (named A and B), whose
+Distribution varies depending on the location of the wells (inside or outside the existing road where
+the dispersion of ceramic fragments was identified). On the one hand, in the wells located south of the road (at
+inside a forest plantation) a first layer (Layer A) is recognized, corresponding to a matrix
+silt-clayey, with a low sand content, semi-compact, dark brown in color (varying to shades
+lighter as the organic matter content decreases), which has a high density of
+grass, eucalyptus leaves, insects, roots and rootlets during the first levels, which then varies to low in the
+7 As authorized in the ORD. CMN N°1571-2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+25
+=====================================================
+=====================================================
+PAGE 28
+==================================================================================
+Annex 10-2: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+following levels (roots and rootlets). This has a high percentage of humidity, which drops to a medium level
+from level 4 onwards, while it presents a low to zero density of inclusions (stones
+small rounded). It extends from level 1 (0-10 cm) to variable depths (level 4 to 6) and
+It does not present cultural materials, only fragments of modern-made tiles.
+On the other hand, layer B (called Layer A in wells P1 and P2, located inside the road, due to
+that were previously excavated), corresponds to a semi-compact to compact silt-clay matrix,
+reddish brown in color, with a low sand content during the first levels. Presents a percentage
+humidity that varies between high to medium, while the organic matter content varies from high to
+the first level (grass, roots, rootlets and eucalyptus leaves, although only in wells P1 and P2, which have a
+small formation of vegetal soil in the first cm) to medium in the following levels (only roots and
+rootlets). Like layer A, it has a low density of inclusions (subangular stones and
+small-sized rounded, among them decomposing granodiorite – friable), which decreases in
+the deepest levels. It does not present cultural materials, only fragments of modern-made tiles.
+during the first levels in the P2 pit.
+Except for a clay marble (possibly kaolin) – recorded at the surface level of the P5 well of origin
+secondary – displaced by the unevenness observed in the area where the wells located in
+the south on the slope of the hill – where a moderate to steep slope is recognized, added to the intervention
+forestry of the evaluated area – no cultural materials were recorded inside the boreholes
+excavated at the PMP-SA-01 site. This allows us to maintain that the dispersion of materials identified in
+surface would not have a stratigraphic potential and would correspond to historical materials, although of
+indeterminate specific chronological assignment.
+In turn, the analysis of satellite images available for the area, with clear definition at least since 2002,
+allowed identifying at least two rotations of forest crops in the area (felling, harvesting and new
+plantation), as well as determining that the path inside which the dispersion of materials is located is not
+identified before 2018, when it would have been steep. Both the absence of potential
+stratigraphic and the intense interventions carried out in the area (product of forestry activity),
+allow us to assume that the PMP-SA-01 site would correspond to a possible secondary deposit of materials, whose
+Specific chronological and functional determination must be determined from specialized analyses.
+On the other hand, in the wells excavated in the vicinity of the Landfill 1 site, a stratigraphy was identified
+different, identifying 4 stratigraphic layers (named A, B, C and D), whose distribution varies according to
+with the location of the wells (all located inside an existing road, inside a hillside
+steep hill). On the one hand, in wells P3, P4 and P5, located at a higher altitude on the slope, only
+layers A and B are recognized, and exceptionally layer D (mother rock) in well P4, while layer
+C was only identified in wells P1 and P2, located at a lower elevation (downhill).
+Layer A corresponds to a silt-clay matrix with a low sand content, semi-compact, colored
+dark brown, with a medium humidity percentage and a medium to low organic matter content
+(stems, grass, roots and leaves in the first level and then only rootlets). Inclusions of this layer include
+medium and small subangular and rounded stones in medium density. Layer A extends between the
+level 1 (0-10 cm) and levels 2 (10-20 cm) to 7 (60-70 cm) and all materials come from this stratum
+recorded at the site (with the exception of well P6, located south of the road, whose materials come from a
+filler layer of material removed during e
+l escarpment of the road) (see Figure 20).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+26
+==================================================================================
+PAGE 29
+==================================================================================
+Annex 10-2: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer B, on the other hand, corresponds to a brown clay-silty matrix, much more compact.
+than layer A due to the increase in the clay component, which gives it greater plasticity. owns
+inclusions of small subangular and rounded stones in low densities, coming from
+partly from weathered rocks located in the profiles. Humidity occurs in medium ranges and
+organic component decreases with respect to the previous layer, remaining at low values, expressed only
+in roots. Layer B extends to different depths from level 2 (10-20 cm) to level 9 (80-90 cm) and
+It does not present cultural material, so it was considered a Culturally Sterile Geological Stratum.
+(EGCE).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+27
+==================================================================================
+PAGE 30
+==================================================================================
+Annex 10-2: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 19. Results of test wells excavated at the PMP-SA-01 site.
+Source: Prepared by Pares&Alvarez Environmental Management, 2024.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+28
+==================================================================================
+PAGE 31
+==================================================================================
+Annex 10-2: Executive Report on Excavation of Archaeological Test Pits
+Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+Environmental Impact Study
+Figure 20. Results of test pits excavated around the Fill 1 site.
+Source: Own elaboration
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+29
+==================================================================================
+PAGE 32
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Layer C, on the other hand, corresponds to a compact, reddish-brown, slightly
+less plastic than layer B (because it has a lower clay component). Has a low
+density of inclusions, including medium and small subangular and rounded gravels and stones. The
+The humidity of this layer is in the medium ranges and the organic component is low, composed exclusively
+by roots. Layer C extends between level 5 (40-50 cm) and level 9 (80-90 cm) to level 10 (90-100 cm), without
+present cultural materials (which is why it was also considered EGCE), being observed only in the
+wells P1 to P3, which are located downhill, at a lower elevation than wells P4 to P6.
+Finally, layer D recorded only in wells P2 and P4, would correspond to outcrops of the parent rock
+granodiorite of the hill.
+Exceptionally, in well P6, located on a slope south of the existing road, a layer
+previous, corresponding to a filling of material extracted during the road escarpment and that presents
+characteristics of the 3 layers (A, B and C) of the wells dug along the way.
+Regarding the chronological assignment of the materials identified inside the wells that face the
+Fill 1 site, although these present a high degree of fragmentation and erosion, at least 2 are recognized
+fragments that, under preliminary analysis, would present diagnostic attributes that could associate them with the
+Early Pottery Period of the region (associated with the Com
+Pitrén Cultural Complex), although the analysis
+The specialist must provide further background information (see Annex 3C-52 of this EIA).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+30
+==================================================================================
+PAGE 33
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.4 GENERAL DESCRIPTION OF THE TYPES OF ANALYSIS TO BE PERFORMED ON THE MATERIALS
+MAY THEY BE RECOVERED
+2.4.1 PROPOSED RESCUE MEASURE
+Depending on the characteristics and location of the archaeological records regarding the works, as well as
+based on the results of the subsurface characterization using boreholes carried out and the change
+of the Project layout, the following measures are proposed (see Table 3).
+Table 3. Synthesis of inspection records or those close to the AI ​​and proposed measures.
+Project Area, year Measurement
+Distance Work Measurement
+Site or Description Registration Chronology and RCA
+to the proposed associated AI
+original source extension
+EIA Project
+"Continuity
+Operational
+Center of
+Management of
+Abundant
+Waste
+Collection fragments
+Conception" Does not apply (it is
+Superficial Pre-Hispanic ceramics
+206 m to the Road (Bustos, 2021). located outside the
+Filling 1 100 m2 data - Historical of a
+Projected E AI coordinate of
+prehispanic or early surface
+extracted from Project)
+historic 120 m2
+ORD. CMN
+early
+N°4411-2022
+that authorizes
+the polls in
+the framework of
+EIA
+Collection
+Concentration Does not apply to surface of
+Project
+PMP-SA-01 146 m2 of fragments Historical 0 ZE Maite (Project 100% of the
+current
+current ceramics) material
+archaeological
+Source: Annex 3C-46 of this EIA, Archaeological Cultural Heritage Baseline.
+Regarding the “Relleno 01” site, due to the change in the Project layout, whose closest work is located
+now more than 200 m away from the original record and 150 m west of the surveyed area that presented
+material in stratigraphy, it is not considered necessary to propose additional measures, as the site is located outside
+of the Project AI.
+On the other hand, since the results of the subsurface characterization of the PMP-SA-01 site indicated
+the absence of a stratigraphic deposit in the area, surface collection of 100% of the material is proposed
+archaeological, according to the area of surface dispersion of materials identified on the surface.
+The methodological proposal for the execution of the collection measure is detailed below, once
+obtained the favorable RCA of the Project and prior to the start of construction works.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+31
+==================================================================================
+PAGE 34
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.4.1.1. SURFACE COLLECTION
+As a general criterion, for collection the site will be gridded using 1x1 m units.
+In this way, the collection will be referred to the coordinates that result from said grid and to the
+units of the defined grid.
+The collection of 100% of the archaeological material identified on the surface will be carried out and, once
+Once the materials have been collected, the surface layer will be stripped to rule out the continuity of
+materials in stratigraphy, respecting the original grid and rescuing any possible materials
+deposited in that subsurface layer.
+The stripping process will be carried out using hand tools, such as brushes, shovels, spatulas and
+flat.
+Along with the collection and packaging of materials according to materiality, a record of the
+collection using collection sheets for each unit (see Appendix 1 of this document).
+All materials recovered from surface collection will be subjected to a conservation process
+and analysis, according to the following stages:
+a) Laboratory cleaning of archaeological materials through mechanical cleaning.
+b) Laboratory analysis d
+e according to materiality. Basic analyzes include aspects
+morphofunctional, use, technological, decorative, taxonomic, etc.
+c) Preparation of specific reports according to materiality.
+d) Preventive conservation prior to final deposit. The conservation procedure emphasizes
+the diagnosis and preventive or palliative treatment of damage to remains in poor conditions.
+conservation, packaging and delivery of the materials to the permanent depositary institution that is
+will be carried out in accordance with the requirements established by the Directorate of Libraries, Archives and Museums.
+e) Delivery of materials to the Concepción Natural History Museum (whose commitment letter
+reception is currently being processed).
+2.4.2. MATERIALS ANALYSIS METHODOLOGY
+Based on the results of the surface and subsurface characterization of the Project area, which give
+Taking into account the existence of only ceramic material, the following analysis methodology is proposed
+standard.
+Analysis of low temperature pottery
+An analysis will be carried out on the total recovered ceramic material, considering various variables.
+that are part of a traditional analysis. For this, the information will be entered into a database, in which
+that the following attributes will be recorded:
+CHRONO-CULTURAL ASSIGNMENT
+General Assignment: The fragments will be classified according to their affiliation to Pre-Hispanic chronology (PH) or
+Hispanic (H). Small fragments (less than 1.1 mm) and those that present a significant degree of
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+32
+==================================================================================
+PAGE 35
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+carbonization and erosion will be classified as undetermined and excluded from the particular analysis, due to
+that do not allow the observation of attributes.
+Specific Assignment: The fragments will be classified according to the specific chrono-cultural period to which
+belong: For Pre-Hispanic chronology, Formative Period (PF), Late Intermediate Period (PIT), Period
+Late-Late Intermediate (PIT-PT) and Late Period (PT). And for the Historical, Pre-Hispanic chronology of
+contact (PHC), Indeterminate (INDET), which refers to fragments with the presence of spatulate and lathe without
+presence of pre-Hispanic attributes, in addition to Very Thin Bright Polishing (PBMD) and Glazing (V).
+Ceramic Type: The fragments will be classified according to their specific cultural type, using the typologies
+available for the study area.
+Vessel Type: The type of vessel will be determined (whether they correspond to restricted or non-restricted containers,
+as well as specific shapes, such as aríbalos, pots, bowls, bowls, pucos, jugs, etc.) based on the
+presence of diagnostic attributes, such as edges, necks, handles, handle insertion, joints or motifs
+decorative. To define morphology, the criteria established by Shepard (1956) will be used.
+MANUFACTURING ATTRIBUTES
+Exterior and interior surface treatment: The following variables will be used to define the finish of
+the ceramic walls: smoothed (A), polished (P), burnished (B), eroded (E), brushed (ESCOB) and glazed
+(V), among others.
+Manufacturing traces: All those features that could provide information about the
+lifting and modeling of the vessel. The main categories observed are: manual pressure (PM),
+stretching grooves (EST), roundels (R), spatulated (ESP) and lathe (T).
+Firing: The type of firing that the lateral section (cut and core) of the fragments presents will be identified:
+oxidizing (O), incompletely oxidizing (OI), reducing (R), incompletely reducing (RI) or totally reduced (NO)
+(the latter is not observable).
+Paste Color: Paste color will be described based on the codes and nomenclature of the Munsell Table of
+soil colors.
+MORPHOMETRIC ATTRIBUTES
+General and specific shape: The general and specific shapes of the vessel (and type of lip for
+the edges) according to the anatomical parts of the vessels defined by Rice in 1987.
+Thickness and Wall: The average thickness of each fragment will be measured per m
+half of a foot of meter
+electronic. The walls of the fragments will be defined according to the thicknesses on a thickness scale: Very
+Thin (less than 3.5 mm.) Thin (3.6 mm. to 4.9 mm.), Medium (5.0 mm. to 7.9 mm.), Thick (8.0 mm.
+to 15.0 mm.) and Very Thick (more than 15.1 mm.).
+DECORATIVE ATTRIBUTES
+Decoration: In this column the fragments will be recorded according to their decoration technique: Painted,
+engobated, glazed, modeled and incised.
+Type of Decoration: The following variables will be detailed: Location of the decoration or slip (exterior,
+interior or both), exterior decoration and general interior (mainly detailing the color of the slip or
+decorated), the incision and modeling for the decorations are also included; If it is an edge, it is also
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+33
+==================================================================================
+PAGE 36
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+will detail whether the lip has a different color and specific exterior and interior decoration (the
+motifs presented by the decoration).
+Other Attributes: Other characteristics or features of the fragments not included in the categories will be detailed.
+previously mentioned, such as the presence of traces of use of the fragments, as well as the presence of
+smoky or sooty.
+2.5 PROPOSAL FOR CONSERVATION OF MATERIALS IN THE FIELD, LABORATORY
+AND DEPOSIT
+In the field, the labeling and packaging of the cultural materials collected will be carried out in accordance with the
+field conservation standards established by the National Center for Conservation and Restoration.
+Subsequently, these materials will be transferred to a conservation workshop, where the
+material in two phases.
+Phase I:
+o Reception of materials in conservation workshop.
+o Material registration: counting and transcription of fields from the original land label, in addition
+of conservation observations, material and updated count.
+o Mechanical cleaning, wet and/or dry, varying techniques and times depending on the material.
+o Change of packaging.
+o Temporary storage in archive boxes.
+o Labeling of boxes with code (according to Project number or code, materiality and number
+correlative).
+o Transfer of materials to analysts.
+After the intermediate phase of analysis of archaeological materials, Phase II will proceed, which consists
+of the following activities:
+o Transfer of materials to conservation workshop.
+o Special treatments, according to the requirements of each materiality.
+o Visual documentation (photographic record of archaeological specimens, which give an account of
+deteriorations, alterations and various states of conservation).
+o Rectification of the quantity of pieces for the preparation of the final label.
+o Label change and heat sealing of bags.
+o Preparation of conservation boxes, according to standards of the depository institution (to be defined).
+o Transfer of boxes of materials already preserved to warehouse, along with delivery of a copy of the Report
+Conservation and photographic registration of materials.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+34
+==================================================================================
+PAGE 37
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+2.6 TRANSFER PLAN AND FINAL DEPOSIT OF MATERIALS WHATSOEVER
+RECOVERED
+Materials obtained from boreholes and surface collection activities will be
+preliminarily deposited in the Museum of Natural History of Concepción, whose reception agreement is
+in process of processing.
+The final deposit of materials will be made after having gone through the analysis and conservation stages,
+according to the standards established by DIBAM and based on the specific requirements of said entity.
+2.7 CONSERVATION MEASURES FOR DEPOSITS
+Because the only record identified within the Project area will be intervened during the phase
+of construction
+on and, prior to that, all characterization and rescue activities were carried out, as detailed
+in section 2.4. of this document, no additional conservation measures are contemplated in the area of
+archaeological sites.
+2.8 PERMANENT ARCHAEOLOGICAL MONITORING
+Due to the existence of archaeological sites reported around the Project area and the
+low visibility and general accessibility, the implementation of archaeological monitoring is suggested
+permanent during the construction activities of the Project that involve earthworks.
+The monitoring must be carried out by an archaeologist(s) and/or a graduate(s) in archaeology, for
+each work front, during the land scarp works and in the activities that consider any
+type of surface removal and/or excavation. Along with this, induction talks must be held by
+the archaeologist or archeology graduate in charge of monitoring - to the project workers
+about the archaeological component that could be found in the area and the procedures to follow in case
+of discovery, before the start of each work.
+The monthly monitoring report prepared by
+the archaeologist or graduate in archeology, within a maximum period of 15 business days after completion
+the month, which will include the following information:
+a) Description of the activities on all excavation fronts for the month, with date.
+b) Description of matrix and materiality found (with depth) in each excavation work.
+c) Monthly work plan of the construction company where the days are specified in the work book
+monitored by the archaeologist and the work fronts monitored in said period.
+d) Plans and photos (high resolution) of the different excavation fronts and their different stages of construction.
+progress.
+e) Contents of the induction talks held and the record of attendees with the signature of each
+worker.
+f) If archaeological remains are evident, incorporate:
+a. Archaeological record sheet with panoramic and specific photographs of the findings (in
+high resolution).
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+35
+==================================================================================
+PAGE 38
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+b. Detailed description of the state of conservation and if there was any impact due to the works of the
+project.
+c. Protection and/or conservation measures implemented.
+d. Proof of notification of the discovery to the National Monuments Council, in accordance with the
+established in art. 26 of Law 17,288 on National Monuments.
+g) Monitor the state of conservation of the prevention measures to be implemented if
+correspond (fencing, signage, etc.).
+h) The final monitoring report must report on the activities carried out, and if any
+archaeological sites, include the corresponding rescue information. In these cases, a
+bibliographic review of the area, analysis (by type of materiality) and conservation of all
+archaeological materials found as a result of this activity. In the case of rescues
+unforeseen findings that appear during monitoring or in another instance, the
+archaeological intervention permit, according to Article 7 of the Excavation Regulations,
+established in Law 17,288 on National Monuments.
+h) If archaeological materials are recovered, the definitive destination proposal must be indicated
+at the time of delivering the final monitoring report, for which an official document will be sent
+of the museographic institution accepting the eventual destination. The costs of
+analysis, conservation and packaging of archaeological material, as well as its transfer to the institution
+recipient.
+Without prejudice to the above, in accordance with the provisions of Article 26 of the National Monuments Law
+N°17,288, if archaeological and/or paleontological findings are recorded during the construction phase in the
+context of earth movements within the Project, all work must be stopped
+likely to cause
+damage to said findings, immediately notifying the Council of National Monuments, which will determine
+the measures to follow at the location of the discovery.
+María Marta Valenzuela Arenas
+archaeologist
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+36
+==================================================================================
+PAGE 39
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+APPENDIX 1. PMP-SA-01 AND REGISTRATION SHEETS
+FILLER 1
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+37
+==================================================================================
+PAGE 40
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+EIA Mining Development Project for Clay Extraction for the Production of Rare Earth Concentrate
+I. IDENTIFICATION OF THE ARCHAEOLOGICAL RECORD
+Monument Category Date: 08-21-2023
+Name/Code Material concentration
+Archaeological
+PMP-SA-01 ceramic Registered by: Antonia Carrasco
+archaeological site
+II. REGISTER LOCATION
+Region: Biobío Province: Concepción Commune: Penco Nearest city or town: Penco
+UTM WGS84 Coordinates, 18 S Zone
+Points East (m) North (m)
+Central 680,601 5,928,424
+Vertex 1 680,594 5,928,416
+Vertex 2 680,597 5,928,428
+Vertex 3 680,604 5,928,433
+Vertex 4 680,608 5,928,426
+Altitude 238 meters above sea level
+Instrument
+GPS navigator
+measurement
+Location Description
+Archaeological site located on a vehicular road located
+in a low-slope hilly area.
+Log dimensions
+Width
+Maximum length (m) Surface extension (m2)
+maximum (m)
+18 10 146 m2
+Determination of subsurface extent
+Projected surface or
+146 m2
+estimated (m2)
+Verified surface (m2) -
+Photo 1. General view of the site towards the Southwest
+Excavated area (m2) -
+III. Geographic Location and Environment
+Condition of
+Open pit X In rock shelter No information
+location
+Macroform of the Cordillera de la Costa site
+Geoform of the Lomaje site
+Observations on the geoform -
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+38
+==================================================================================
+PAGE 41
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Name and type of nearest natural resource Estero Penco
+Vegetation cover
+Forest plantation of pines, shrubs and grassland
+Spatial coverage of the vegetation cover Open to Semi-dense
+General slope Flat to gentle
+Observations to the description of
+-
+location
+Type and use of Forest Land
+Observations on land use -
+IV. STRATIGRAPHIC POTENTIAL OF THE RECORD
+Superficial Subsurface Mixed No information Undetermined
+V. CULTURAL EVIDENCE
+General Description: Concentration of at least 25 ceramic fragments
+highly fragmented monochromes, thick to medium thickness (1.2 mm to
+0.7mm thick), with smoothed surface treatment (inside and outside) and
+Furniture evidence: Ceramics
+fine pastes, brown to orange in color, with fine antiplastics and without
+lathe marks. No other types of material remains or garbage were observed.
+subcurrent associates.
+Real estate evidence: Not recorded General Description: Not applicable
+Bioanthropological evidence: Not known
+General Description: Not applicable
+register
+Distance to the axis/area of the project It is located inside the Maite Extraction Zone
+Components
+One-component X Two-component Multicomponent Indeterminate
+cultural
+Functional typology
+Domestic Historical Period of indigenous tradition
+preponderant
+Observations - Specific period Ca. 1550 – 1800 AD.
+VI. STATUS OF CONSERVATION REGISTRATION
+Good Fair Serious X Very serious Destroyed
+Conservation Status
+Undetermined No information
+Current Status of the Conser Site
+ford
+Conserved X Not conserved No information
+partially
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+39
+==================================================================================
+PAGE 42
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Observations on the state of
+conservation High fragmentation of the material due to road scarp and vehicular traffic
+Anthropic X Climate
+Without
+Type of Alteration Alteration
+Biological Geological
+Description of alterations: Traces of the passage of light vehicles
+Subsurface characterization using boreholes (requested through
+Suggested measure
+CMN entry N°6697 of October 18, 2023).
+VII. REGISTRATION PHOTOGRAPHS
+Photo 2. General view of the site towards the South Photo 3. General view of the site towards the East
+Photo 4. General view of the site towards the West Photo 5. General view of the registry
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+40
+==================================================================================
+PAGE 43
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Photo 6. General detail of the registry Photo 7. Detail of the registry
+Photo 8. General detail of the registry Photo 9. Detail of the registry
+Photo 10. Detail of the registry Photo 11. Detail of the registry
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+41
+==================================================================================
+PAGE 44
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+EIA OPERATIONAL CONTINUITY CONCEPCION WASTE MANAGEMENT CENTER*
+I. IDENTIFICATION OF THE ARCHAEOLOGICAL RECORD
+Date Category: No information (Baseline of
+Name/Code Monument Ceramic fragments from August 2023)
+Pre-Hispanic or Early Historical Archaeological Fill 1
+Registered by: Víctor Bustos Santelices
+archaeological site
+II. REGISTER LOCATION
+Region: Biobío Province: Concepción Commune: Penco Nearest city or town: Penco
+UTM WGS84 Coordinates, 18 S Zone
+Points East (m) North (m)
+Central
+681,198 5,928,748
+Vertex 1
+- -
+Vertex 2
+- -
+Vertex 3
+- -
+Vertex 4
+- -
+Altitude -
+Instrument
+No information
+measurement
+Location Description
+Slope removed
+Log dimensions
+Width
+Maximum length (m) Surface extension (m2)
+maximum (m)
+Without
+No information 100 m2
+information
+Determination of subsurface extent
+Projected surface or
+100 m2
+estimated (m2)
+Verified surface (m2) -
+Photo 1. General view of the discovery area. Excavated area (m2) -
+III. Geographic Location and Environment
+Condition of
+Open pit X In rock shelter No information
+location
+Macroform of the Cordillera de la Costa site
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+42
+==================================================================================
+PAGE 45
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Geoform of the slope site
+Observations on the geoform -
+Name and type of nearest natural resource 1.9 km SW of Estero Penco
+Vegetative cover Shrubs and grassland
+Spatial coverage of the vegetation cover Open to Semi-dense
+General slope Flat to gentle
+Observations to the description of
+-
+location
+Type and use of Forest Land
+Observations on land use -
+IV. STRATIGRAPHIC POTENTIAL OF THE RECORD
+Superficial Subsurface Mixed No information Undetermined
+V. CULTURAL EVIDENCE
+General Description: Cultural remains consisting of abundant fragments
+Evide
+furniture: Ceramics of pre-Hispanic or early historical date, of uncertain origin at
+found inside a removed slope.
+Real estate evidence: Not recorded General Description: Not applicable
+Bioanthropological evidence: Not known
+General Description: Not applicable
+register
+Distance to axis/project area Located 25 m west of the study area
+Components
+One-component X Two-component Multicomponent Indeterminate
+cultural
+Functional typology
+Domestic Pre-Hispanic Period – Early Historical
+preponderant
+Observations - Specific period -
+VI. STATUS OF CONSERVATION REGISTRATION
+Good Fair Serious - Very serious Destroyed
+Conservation Status
+Undetermined No information X
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+43
+==================================================================================
+PAGE 46
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Preserved
+Current Status of the Site Conserved Not conserved No information X
+partially
+Observations on the state of
+-
+conservation
+Anthropic X Climate
+Without
+Alteration
+Biological Geological
+Type of Alteration
+Description alterations: Material located on artificial slope.
+Subsurface characterization using test wells (executed within the framework
+Suggested measure of the Addendum to the Project “Operational Continuity of the Waste Management Center
+of Concepción).
+VII. REGISTRATION PHOTOGRAPHS
+Photo 2. Detail of ceramic material present on the slope. Photo 3. Detail of the location of the discovery.
+*Registration sheet prepared from information extracted from Annex 3.5.1. of the Project EIA
+“Operational Continuity of the Concepción Waste Management Center” (RCA N 202308101534-2023).
+Coordinates extracted from the ORD. CMN N°4411-2022, attached within the framework of the “Executive Report
+Archaeological Characterization of the Site: Archaeological Find 1”, presented in the Addendum of said Project,
+which authorizes archaeological surveys at the site.
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+44
+==================================================================================
+PAGE 47
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+APPENDIX 2. SURFACE COLLECTION SHEET MODEL
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+45
+==================================================================================
+PAGE 48
+==================================================================================
+Annex 10-2: PAS 132 Archeology
+Mining Development Project for Clay Extraction for the Production of
+Rare Earth Concentrate
+Environmental Impact Study
+Cerro El Plomo 5630 Office 1501 Marco Polo 8939
+Las Condes, Santiago Hualpén, Concepción
+(56) 227144000 (56) 412908700
+46

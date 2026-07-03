@@ -1,0 +1,120 @@
+
+================================================================================
+PAGE 1
+================================================================================
+681500 681600 681700 681800 681900
+Proyecto de Desarrollo Minero de Extracción de Arcillas
+para la Producción de Concentrado de Tierras Raras
+Plano de Emplazamiento Obras Permanentes
+Planta de Procesamiento
+MM
+LL
+HH
+KK II
+JJ
+L LEYENDA
+OO
+TT
+GG DD UU VV CC FF EE
+WW
+BB
+Y
+Z
+AA
+X
+W
+V
+S
+T
+U
+R
+P
+Q
+XX
+N
+O
+M
+K NN
+I
+G
+H
+F
+QQ
+RR SS
+J
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM Cartografía del Proyecto
+Datum WGS 84 Huso 18S Levantamiento del Proyecto
+D
+E
+C PP ESCALA LÁMINA:
+B
+1 de 1
+Tamaño Hoja: A2
+ELABORADO POR: ELABORADO PARA:
+A
+0020395
+0010395
+0000395
+0099295
+0089295
+¯
+Ubicación General
+¯ ¯
+Ubicación Regional Ubicación Comunal
+Ubicación Regional Ubicación Comunal
+ID Nombre Instalación
+A Garita de Acceso Región del Biobío Área de Interés
+B Almacenamiento y Preparación Muestras Laboratorio
+C Laboratorio
+Otras Regiones Comuna de Penco
+D Área Residuos Domiciliarios
+E Edificio Administrativo y Sala de Control
+Otras Comunas
+F Cilindro Lavador
+G Harneros
+H Harneros
+I Planta de Tratamiento Aguas Obras Permanentes
+J Baños Planta
+K Área Sistema de Recuperación de Agua Instalaciones Planta
+L Estanque Agua Proceso Lavado Equipos
+M Sala Compresores
+Obras Planta
+N Sala Eléctrica y Generadores
+O Área Filtros Prensa
+P Área Filtro Tratamiento de Agua Área Planta de Procesamiento
+Q Baños Planta
+R Área Almacenamiento Repuestos Planta Otras Obras
+S Área Residuos No Peligrosos
+T Área Filtros Vela y Decanter
+U Área de Preparación de Reactivos
+V Baños Planta
+W Edificio Filtros Prensa Tubulares
+X Área de Almacenamiento de Reactivos
+Y Bodega de Sustancias Peligrosas
+Z Bodega de Producto Terminado
+AA Baños Planta
+BB Área Residuos Peligrosos
+CC Planta de Tratamiento Aguas
+DD Área Brigada de Emergencias
+EE Área Casino
+FF Área Sala de Cambio
+GG Área Oficinas
+HH Área Estación de Combustible
+II Área Garita Estación de Combustible
+JJ Área Lavado de Equipos
+KK Área Reparación de Camionetas
+LL Área Almacenamiento de Insumos
+MM Área Reparación de Equipos
+NN Área Estanque Tratamiento de Agua
+OO Piscina Lavado Equipos
+50 25 0 50metros
+PP Estanque de Agua Potable
+QQ Área Piscina Aguas No Contactadas
+RR Espesador 1
+SS Espesador 2
+TT Estacionamiento de Camiones
+UU Estanque Agua Industrial
+VV Estanque Red de Incendio
+WW Área Estanque Amoniaco
+XX Área Maniobra de Camiones Alimentación Planta

@@ -1,0 +1,168 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-8.1
+Site plans
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+PREPARED BY:
+g
+l
+:ó
+ro
+b
+to lE
+dxm.241-041
+SAP
+-
+2A\XDM
+sapaM
+.01\)aralcA(
+sodinatnaloiB
+.70\sotnemucoD\:D
+:atuR
+4202-10-62
+:ahceF
+681520 681600 681680 681760 681840 681920
+Clay Mining Development Project
+Rare Earth Concentrate Production
+Site PlanPAS142Work Installation
+General Location
+Regional Location Communal Location
+LEGEND
+!( !(
+!( !(
+CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+UTM coordinates
+Datum WGS 84 Zone 18S Project Mapping
+SHEET SCALE:
+1 of 1
+Sheet Size: A2
+PREPARED FOR:
+681520 681600 681680 681760 681840 681920
+0230395
+0420395
+0610395
+0800395
+0000395
+0299295
+0230395
+0420395
+0610395
+0800395
+0000395
+0299295
+±
+± ±
+!( !(
+1 4
+!( !(
+2 3
+Regional Location Site Facility
+Biobio Region Hazardous Waste
+Other Regions Other Works
+Work Installation Area
+Communal Location
+!(
+Vertices
+Area of Interest
+Penco
+Other Communes
+INFORMATION TABLE
+Installation Phase Surface m² ID North East
+1 5,930,075 681,850
+Installation of 2 5,930,065 681,850
+Construction 70
+Tasks 3 5,930,065 681,857
+4 5,930,075 681,857
+0 100
+m
+==================================================================================
+PAGE 3
+==================================================================================
+PREPARED BY:
+g
+l
+:ó
+ro
+b
+to lE
+dxm.241-041
+SAP
+-
+2A\XDM
+sapaM
+.01\)aralcA(
+sodinatnaloiB
+.70\sotnemucoD\:D
+:atuR
+4202-20-51
+:ahceF
+681600 681750 681900 682050 682200
+Clay Extraction Mining Development Project
+for the Production of Rare Earth Concentrates
+Site PlanPAS142ProcessingPlant
+General Location
+Regional Location Communal Location
+LEGEND
+!(!(
+!(!(
+CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+UTM coordinates
+Datum WGS 84 Zone 18S Project Mapping
+SHEET SCALE:
+1 of 1
+Sheet Size: A2
+PREPARED FOR:
+681600 681750 681900 682050 682200
+0540395
+0030395
+0510395
+0000395
+0589295
+0079295
+0540395
+0030395
+0510395
+0000395
+0589295
+0079295
+±
+± ±
+!( !(
+1 4
+!( !(
+2 3
+Regional Location Works Processing Plant
+Biobio Region Hazardous Waste
+Other Regions Other Works
+Processing Plant Area
+Communal Location
+Area of Interest !(Vertices
+Penco
+Other Communes
+INFORMATION TABLE
+Installation Phase Surface m² ID North East
+1 5,930,075 681,850
+2 5,930,065 681,850
+Operation-
+3 5,930,065 681,857
+Closing
+4 5,930,075 681,857
+0 200
+m
+ed
+atnalP
+otneimasecorP
+70

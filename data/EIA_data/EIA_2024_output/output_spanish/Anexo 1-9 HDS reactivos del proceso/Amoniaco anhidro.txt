@@ -1,0 +1,294 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Fecha 03/08/2021
+AMONIACO ANHIDRO Versión 05
+Página Página 1 de 5
+HOJA DE DATOS DE SEGURIDAD
+NCh 2245 - 2015
+SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO QUÍMICO Y DE LA EMPRESA
+Identificación del producto químico AMONIACO ANHIDRO
+Código interno HDS-PRQ-11
+Fabricación de Ácido Nítrico y Nitrato de Amonio, elaboración de fertilizantes como
+Usos recomendados Urea, DAP (Fosfato Diamónico), MAP (Fosfato Monoamónico), Sulfato de Amonio y
+Superfosfato Simple
+Restricciones de uso No tiene
+Nombre del Proveedor NITTRA
+Dirección • Camino a Paine, Lonquén Oriente, Parcela 3, Lote 5 – Paine
+• Barrio Industrial Mejillones/Camino Calama a Antofagasta km 7 s/n
+Teléfono +56 2 2837 7400/+56 2 2837 7700
+E-mail enaex@enaex.com
+Teléfono de emergencia Chile +56 2 2837 7700
+Teléfono de emergencia USA +1-800-255-3924
+Teléfono de emergencia Australia +1-300-954-583
+Teléfono de emergencia Brasil +0-800-591-6042
+Teléfono de emergencia México 800-099-0731
+Teléfono de emergencia resto del mundo +1-813-248-0585
+SECCIÓN 2: IDENTIFICACIÓN DE LOS PELIGROS
+Clasificación Distintivo según Distintivo según
+Pictograma SGA
+según NCh 382 NCh 2190 NCh 1411/4
+1
+Gas tóxico (Clase
+3 0
+2.3)
+ALK
+Clasificación según SGA.
+Palabra de PELIGRO
+advertencia
+Indicaciones de H221 Gas inflamable
+peligro H280 Contiene gas a presión; puede explosar si se calienta.
+H314 Provoca graves quemaduras en la piel y lesiones oculares.
+H331 Tóxico si se inhala
+H400 Muy tóxico para los organismos acuáticos.
+P210 Mantener alejado del calor, superficies calientes, chispas, llamas al descubierto y otras fuentes de ignición. No
+fumar.
+P260 No respirar polvos/nieblas/vapores/aerosoles.
+P271 Utilizar solo al aire libre o en un lugar bien ventilado.
+P273 No dispersar en el ambiente.
+P264 Lavarse las manos y cara cuidadosamente después de la manipulación.
+P280 Usar guantes/ropa de protección/equipo de protección para los ojos/la cara
+P301+P330+P331 EN CASO DE INGESTIÓN: Enjuagar la boca. NO provocar el vómito.
+P305+P351+P338 EN CASO DE CONTACTO CON LOS OJOS: Enjuagar agua cuidadosamente durante varios minutos.
+Quitar las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado.
+Consejos de
+P303+P361+P353 EN CASO DE CONTACTO CON LA PIEL (o el pelo): Quitar inmediatamente toda la ropa
+prudencia
+contaminada. Enjuagar la piel con agua [o ducharse].
+P363 Lavar la ropa contaminada antes de volver a usar.
+P304+P340 EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le
+facilite la respiración.
+P310 Llamar inmediatamente a un CENTRO DE TOXICOLOGÍA/médico.
+P337 Fuga de gas inflamado: No apagas las llamas del gas inflamado si no puede hacerse sin riesgo.
+P381 En caso de fuga, eliminar todas las fuentes de ignición.
+P391 Recoger los vertidos.
+================================================================================
+PAGE 2
+================================================================================
+Fecha 03/08/2021
+AMONIACO ANHIDRO Versión 05
+Página Página 2 de 5
+P403+PP233 Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente cerrado.
+P405 Guardar bajo llave.
+P501 Eliminar el contenido/recipiente de acuerdo al D.S. 148 MINSAL.
+Descripción de Gas inflamable. Provoca graves quemaduras en la piel y lesiones oculares. Tóxico si se inhala. Muy tóxico para los
+peligros organismos acuáticos.
+SECCIÓN 3: INFORMACIÓN DEL PRODUCTO QUÍMICO
+Componente principal Amoníaco
+Denominación química Amoniaco
+Nombre común o genérico Amoníaco Anhidro
+Rango de concentración 99,5%
+Número CAS 7664-41-7
+SECCIÓN 4: PRIMEROS AUXILIOS
+Inhalación Trasladar a la persona al aire libre y mantenerla en una posición que le facilite la
+respiración. Llamar inmediatamente a un CENTRO DE TOXICOLOGÍA/médico.
+Contacto con la piel Quitar inmediatamente toda la ropa contaminada. Lavar la piel con agua durante 15
+minutos o ducharse. Llamar inmediatamente a un CENTRO DE TOXICOLOGÍA/médico.
+Lavar con agua cuidadosamente durante varios minutos. Quitar los lentes de
+Contacto con los ojos contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el
+lavado. Llamar inmediatamente a un CENTRO DE TOXICOLOGÍA/médico.
+Ingestión Enjuagar la boca. NO provocar el vómito. Llamar inmediatamente a un CENTRO DE
+TOXICOLOGÍA/médico.
+Efectos agudos previstos Provoca graves quemaduras en la piel y lesiones oculares.
+Síntomas/efectos más importantes Ardor e irritación al contacto con los ojos, inflamación, ulceraciones, edema y/o
+manchas en la piel (dependiendo de la gravedad).
+Protección de quienes brindan auxilios Producto corrosivo.
+Notas específicas para el médico tratante Provoca quemaduras graves a la piel y lesiones oculares graves. El contacto con gas
+licuado puede causar lesiones (congelación), debido a un enfriamiento rápido por
+evaporación. La inhalación puede generar efectos retardados (edema pulmonar),
+observar por al menos 48 h.
+SECCIÓN 5: MEDIDAS PARA LUCHA CONTRA INCENDIOS
+Agentes de extinción Polvo químico seco, CO2, o niebla de agua.
+Agentes de extinción inapropiados No descrito.
+Productos que se forman en la combustión y
+Amoniaco
+degradación térmica
+Métodos específicos de extinción Líquido no inflamable. El gas es inflamable dentro de ciertos límites de concentración
+de vapor y puede formar mezclas explosivas con el aire. Este producto agregará
+combustible a un incendio. Aplique agua desde una ubicación protegida para enfriar
+los cilindros expuestos al incendio. Evacue el área si no es posible mantener fríos los
+cilindros. Si se ven involucrados en un incendio, aísle 1600 metros a la redonda.
+Precauciones para el personal de emergencia Combatir el incendio desde una distancia máxima. Equipo de respiración autónomo,
+y/o los bomberos utilizar traje estructural, botas de goma.
+SECCIÓN 6: MEDIDAS QUE SE DEBEN TOMAR EN CASO DE DERRAME ACCIDENTAL
+Precauciones personales Mantener alejado del calor, superficies calientes, chispas, llamas al descubierto y
+otras fuentes de ignición. No fumar. Evitar el contacto con los ojos y la piel. No
+respirar los vapores o gases amoniacales. Elimine todas las potenciales fuentes de
+ignición.
+Equipo de protección Equipo autónomo, botas de goma, guantes de neopreno
+Fijar un radio de seguridad y evacuar contra el viento. Alertar a autoridades y
+Procedimientos de emergencia
+población si es un gran derrame.
+No vaciar los desechos a ríos, lagos, afluentes, etc. No descargar al sistema de
+Precauciones medioambientales alcantarillado. Diluir con abundante agua pulverizada, neutralizar rápidamente los
+derrames.
+Métodos y materiales de contención, Construir diques con arena o tierra.
+confinamiento y/o abatimiento
+Métodos y materiales de limpieza
+Recuperación Recoger los desechos contaminados en envases apropiados para su disposición.
+Neutralización Realizar un buen tratamiento de los desechos neutralizando con agua acidificada.
+================================================================================
+PAGE 3
+================================================================================
+Fecha 03/08/2021
+AMONIACO ANHIDRO Versión 05
+Página Página 3 de 5
+Disposición final Disponer de acuerdo a la sección 13.
+Medidas adicionales de prevención de
+No descritos.
+desastres
+SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO
+Manipulación
+Precauciones para la manipulación segura Mantener alejado del calor, superficies calientes, chispas, llamas al descubierto y otras
+fuentes de ignición. No fumar. Usar elementos de protección personal. No respire
+neblina o vapor o gases amoniacales. Evite el contacto con los ojos, la piel o la ropa.
+Mantener en lugar fresco, bien cerrado y bien ventilado. El gas de Amoníaco es
+inflamable y explosivo bajo ciertas condiciones.
+Medidas operacionales y técnicas Proteger contenedores de daños físicos verificar en forma regular las condiciones de
+operación (presión, temperatura, niveles, etc.)
+Otras precauciones No consumir alimentos o bebidas en áreas donde se utilice el material.
+Prevención del contacto Utilizar equipo de protección personal (sección 8).
+Almacenamiento
+El Amoníaco puede ser almacenado como líquido refrigerado a baja presión o licuado
+en cilindros de alta presión. No almacenar cerca de fuentes de ignición o materiales
+Condiciones para el almacenamiento seguro incompatibles. Los cilindros se deben almacenar a temperatura inferior a 45 °C en un
+área segura, seca y bien ventilada, construida de material no combustible con piso de
+preferencia de concreto.
+Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente
+Medidas técnicas
+cerrado.
+Almacene lejos de combustibles, agentes reductores, aminas, halógenos y
+Sustancias y mezclas incompatibles
+halocarburos.
+Material de envases y/o embalaje Acero carbono.
+SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL
+Concentración máxima permisible LPP 22 ppm LPT 35 ppm
+Elementos de protección personal
+Protección respiratoria Si existe riesgo de inhalación, usar aparatos de respiración autónoma. Máscara full
+face con filtro canister para amoniaco.
+Protección de manos Usar guantes de neopreno
+Protección de ojos Lentes de seguridad de cristal o policarbonato. Con protección lateral. Careta facial
+(máscara full face)
+Protección de la piel y el cuerpo Botas de goma, traje de protección química A, B o C completo y careta facial.
+Procurar una ventilación adecuada para mantener los niveles ambientales de acuerdo
+Medidas de ingeniería
+a las concentraciones máximas permisibles.
+SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS
+Estado físico Gas Densidad relativa del vapor (aire=1) No hay información
+Forma en que se presenta Gas licuado bajo presión Densidad 0,696 g/L a 20°C
+Color Blanco Solubilidad Alta solubilidad en agua
+Olor Olor fuerte y penetrante Coeficiente de partición No disponible
+pH 14 Temperatura de autoignición 630 °C
+Punto de fusión/punto de
+- 78 °C Temperatura de descomposición No disponible
+congelamiento
+Punto de ebullición, punto
+inicial de ebullición y rango de -33 °C Umbral de olor NTP 320: NH = 5,2 ppm
+3
+ebullición
+Punto de inflamación -57°C Tasa de evaporación No disponible
+Límite de inflamación Superior 25%, Inferior 15% Viscosidad No aplicable
+Presión de vapor 882 kPa a 20°C Otro No disponible
+SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD
+Estabilidad química Estable en condiciones de control de presión y temperatura.
+Reacciones peligrosas Altas temperaturas pueden producir la explosión de recipientes
+Condiciones que se deben evitar Altas temperaturas, calor excesivo
+Materiales / sustancias incompatibles Incompatible (explosivamente en algunos casos) con agentes oxidantes (peróxidos),
+ácidos (ácido sulfúrico), metales activos (aluminio, potasio, magnesio) y fuentes de
+calor. El cobre, zinc, estaño y sus aleaciones se corroerán. Forma compuestos
+explosivos con la plata y el mercurio. Pueden ocurrir reacciones violentas con
+================================================================================
+PAGE 4
+================================================================================
+Fecha 03/08/2021
+AMONIACO ANHIDRO Versión 05
+Página Página 4 de 5
+halógenos, haluros orgánicos. También incompatible con combustibles, agentes
+reductores y aminas.
+Productos de descomposición peligrosos Amoniaco
+SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA
+Toxicidad aguda
+Oral (LD50) No disponible
+Dérmica (LD50) No disponible
+Inhalación (LC50) 60 mins LC50 4230 ppm NH no ionizado.
+3
+Tóxico si se inhala
+Irritación /corrosión cutánea Provoca graves quemaduras en la piel y lesiones oculares
+Lesiones oculares graves/irritación ocular Provoca graves quemaduras en la piel y lesiones oculares
+Sensibilización respiratoria o cutánea No disponible
+Mutagenicidad de células reproductoras/in
+Mutagenicidad en bacterias: negativo (amoniaco CAS 7664-41-7).
+vitro
+Carcinogenicidad No clasificado como carcinogénico humano.
+Toxicidad reproductiva Estudios con sustancias químicamente relacionadas no han evidenciado efectos
+sobre la reproducción o el desarrollo
+Toxicidad específica en órganos particulares –
+Puede irritar las vías respiratorias.
+exposición única
+Toxicidad específica en órganos particulares – Estudios con sustancias químicamente relacionadas evidenciaron cambios
+exposiciones repetidas hematológicos a 750 mg/kg/día.
+Peligro de inhalación No aplica.
+SECCIÓN 12: INFORMACIÓN ECOLOGICA
+Ecotoxicidad (EC, IC y LC) 96-h LC50 0,099-0,292 mg NH3 no ionizado/L (10,5-22,3 mg NH3 total/l) (peces)
+48-h TL (Daphnia magna) 25 mg/L.
+m
+18 -d EC50 2700 mg/L (Algas).
+Persistencia y degradabilidad No aplicable.
+Potencial bioacumulativo No se prevé una bioacumulación.
+Movilidad en suelo El amoniaco se adsorbe al suelo y es convertido a nitrato.
+SECCIÓN 13: INFORMACIÓN SOBRE LA DISPOSICIÓN FINAL
+Residuos Los residuos deben ser tratados como residuos peligrosos y cumplir con el Reglamento
+Sanitario sobre Residuos Peligrosos DS 148.
+Envase y embalaje contaminados Los embalajes o envases pueden ser lavados y reutilizados.
+Material contaminado Se debe tratar como residuo peligroso.
+SECCIÓN 14: INFORMACIÓN SOBRE EL TRANSPORTE
+Modalidad de Transporte
+Terrestre Marítimo Aéreo
+Regulaciones D.S. 298 IMDG ICAO/IATA
+N° NU 1005 1005 2672
+Designación oficial de transporte AMONIACO ANHIDRO AMMONIA ANHYDROUS AMMONIA ANHYDROUS
+Clasificación de peligro primario NU 2.3 2.3 2.3
+Clasificación de peligro secundario NU 8 8 8
+Grupo de embalaje/envase No tiene No tiene No tiene
+Peligros ambientales SI Si SI
+Precauciones especiales - - -
+SECCIÓN 15: INFORMACIÓN REGLAMENTARIA
+Decreto Supremo N° 298 y sus modificaciones, del MTT; Decreto Supremo N° 594 y
+Regulaciones nacionales sus modificaciones del MINSAL; DS N° 40, DS N° 148, DS N° 43, Resolución Exenta
+408 MINSAL, NCh 2190, 382, 2245, 1411/4.
+Naciones Unidas. Recomendaciones relativas al Transporte de Mercancías Peligrosas,
+vigésima primera edición.
+Regulaciones internacionales Naciones Unidas. Manual de Pruebas y Criterios, séptima edición.
+Naciones Unidas. Sistema Globalmente Armonizado de Clasificación y Etiquetado de
+Productos Químicos (SGA).
+SECCIÓN 16: OTRAS INFORMACIONES
+Abreviaturas y acrónimos LPP: Límite permisible ponderado; LPT: Límite permisible temporal; LD: Dosis letal;
+LC: Concentración letal. SGA: Sistema Globalmente Armonizado de Clasificación y
+Etiquetado de Productos Químicos.
+================================================================================
+PAGE 5
+================================================================================
+Fecha 03/08/2021
+AMONIACO ANHIDRO Versión 05
+Página Página 5 de 5
+Referencias
+1. Recomendaciones relativas al Transporte de Mercancías Peligrosas, decimoctava edición, preparadas por el Comité Expertos de las
+Naciones Unidas.
+2. Toxic and Hazardous, Industrial Chemicals safety Manual. The International Technical Information Institute.
+3. Amoniaco, comisión autónoma de higiene en el trabajo de industrias químicas y afines.
+4. Material Safety Data Sheet Anhydrous Ammonia, TRANSAMMONIA.
+5. European Chemicals Agency.
+6. OECD HPV program.
+Fecha de creación 03-08-2021 Fecha próxima revisión 03-08-2023
+Control de cambios • Se incorporan teléfonos de emergencia de USA, Australia, Brasil, México, Resto del Mundo en
+la Sección 1.
+• Se actualiza la regulación internacional
+Elaborado por Revisado por Aprobado por
+Roxana Delgado Q. Leonel Cataldo M. Leonel Cataldo M.
+Los datos consignados en esta hoja informativa fueron obtenidos de fuentes confiables. Las
+opiniones expresadas en este formulario son las de profesionales capacitados. La información
+que se entrega en él es la actualmente conocida sobre la materia.
+Considerando que el uso de esta información y de los productos está fuera del control del proveedor, la
+Empresa no asume responsabilidad alguna por este concepto. Determinar las condiciones de uso seguro
+del producto es obligación del usuario.

@@ -1,0 +1,2673 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 5-1
+Evaluación ambiental del riesgo para
+la salud de la población
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras”
+Región de Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421 Piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+INDICE GENERAL
+PRESENTACIÓN .................................................................................................................................. 1
+RESUMEN .......................................................................................................................................... 2
+1 INTRODUCCIÓN .......................................................................................................................... 6
+2 OBJETIVO DE LA EVALUACIÓN DEL RIESGO A LA SALUD .............................................................. 14
+3 Metodología DE LA EVALUACIÓN AMBIENTAL DE RIESGOS A LA SALUD DE LA POBLACIÓN ......... 15
+4 CARACTERIZACIÓN DE LA METEOROLOGÍA Y CALIDAD DEL AIRE DE LA ZONA ............................. 21
+5 EVALUACIÓN AMBIENTAL DE RIESGOS A LA SALUD .................................................................... 23
+5.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA DE RIESGOS A LA SALUD ...................................... 23
+5.2 DESCRIPCIÓN DE LA POBLACIÓN EXPUESTA QUE SE CONSIDERA EN LA EVALUACIÓN DE RIESGOS
+PARA LA SALUD ....................................................................................................................................... 25
+5.3 ESCENARIO BASE DE RIESGO A LA SALUD EN EL CUAL SE VA A EMPLAZAR EL PROYECTO ......... 27
+5.4 EVALUACIÓN DE LA GENERACIÓN DE RIESGO PARA LA SALUD DE LA POBLACIÓN .................... 29
+5.5 EVALUACIÓN DE EFECTOS ADVERSOS PARA LA SALUD DE LA POBLACIÓN POR MP2,5
+ASUMIENDO LA EXISTENCIA DE RIESGO PREEXISTENTE ......................................................................... 39
+5.5.1 Identificación del peligro: MP2,5 ........................................................................................ 40
+5.5.2 Evaluación de la exposición ................................................................................................. 45
+5.5.3 Dosis de exposición ............................................................................................................. 47
+5.5.4 Evaluación dosis – respuesta ............................................................................................... 48
+5.5.5 Caracterización del riesgo ................................................................................................... 51
+5.6 ANÁLISIS DE INCERTIDUMBRE ..................................................................................................... 65
+6 CONCLUSIONES ......................................................................................................................... 66
+INDICE DE TABLAS
+Tabla 1-1. Cronograma general del Proyecto .............................................................................................. 10
+Tabla 1-2. Coordenadas accesos al Proyecto .............................................................................................. 11
+Tabla 5-1. Ubicación receptores sensibles de calidad del aire .................................................................... 25
+Tabla 5-2: Descripción de los receptores humanos cercanos al proyecto .................................................. 26
+Tabla 5-3. Resumen Línea de Base Calidad del Aire. Periodo enero 2020 a diciembre 2022. .................... 27
+Tabla 5-4: Niveles de significancia por aumento de concentración de MP10 y MP2,5 en zonas saturadas
+para períodos de 3 o más años de duración ............................................................................................... 30
+Tabla 5-5. Resultados modelo de dispersión material particulado respirable fino (MP2,5) promedio anual
+..................................................................................................................................................................... 30
+Tabla 5-6. Resultados modelo de dispersión material particulado respirable fino (MP2,5) P98 24 horas . 31
+Tabla 5-7. Resultados modelo de dispersión material particulado respirable (MP10) promedio anual .... 32
+Tabla 5-8. Resultados modelo de dispersión material particulado respirable (MP10) P98 24 horas ......... 33
+Tabla 5-9. Resultados modelo de dispersión monóxido de carbono (CO) P99 1 hora................................ 34
+Tabla 5-10. Resultados modelo de dispersión monóxido de carbono (CO) P99 media móvil de 8 horas .. 34
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-11. Resultados modelo de dispersión dióxido de nitrógeno (NO ) promedio anual ..................... 35
+2
+Tabla 5-12. Resultados modelo de dispersión dióxido de nitrógeno (NO ) P99 1 hora .............................. 36
+2
+Tabla 5-13. Resultados modelo de dispersión dióxido de azufre (SO ) promedio anual ............................ 37
+2
+Tabla 5-14. Resultados modelo de dispersión dióxido de azufre (SO ) P99 24 horas................................. 38
+2
+Tabla 5-15. Resultados modelo de dispersión dióxido de azufre (SO ) P98,5 1 hora ................................. 38
+2
+Tabla 5-16. Efectos de la contaminación atmosférica sobre la salud ......................................................... 41
+Tabla 5-17: Funciones concentración respuesta seleccionadas para evaluar el riesgo en salud por
+exposición de Corto Plazo ........................................................................................................................... 50
+Tabla 5-18: Funciones concentración respuesta seleccionadas para evaluar el riesgo en salud por
+exposición de Largo Plazo ........................................................................................................................... 50
+Tabla 5-19: Tasas basales utilizadas para la caracterización del riesgo en salud por PM2,5 ...................... 55
+Tabla 5-20: Riesgos de mortalidad general sin causas externas para cada receptor sensible debido a la
+exposición crónica a MP2,5 del proyecto en el año 4 de operación por sobre el riesgo preexistente ...... 55
+Tabla 5-21: Riesgos de efectos adversos para cada receptor sensible debido a la exposición aguda a MP2,5
+..................................................................................................................................................................... 57
+Tabla 5-22: Concentración estimada de MP10 y MP2,5 en cada receptor después de las medidas .......... 59
+Tabla 5-23: Riesgos de efectos adversos para cada receptor sensible debido a la exposición crónica y aguda
+a MP2,5 con las medidas comprometidas .................................................................................................. 60
+Tabla 5-24: Temperaturas máximas y mínimas registradas en Concepción y Temuco durante los meses del
+año 2023 ...................................................................................................................................................... 62
+Tabla 5-25: Riesgos en salud para cada receptor sensible debido a la exposición crónica a MP2,5 después
+de la compensación por sustitución de estufa/cocina a leña respecto del riesgo preexistente ................ 64
+Tabla 5-26: Riesgos en salud para cada receptor sensible debido a la exposición aguda a MP2,5 después
+de la compensación por sustitución de estufa/cocina a leña respecto del riesgo preexistente ................ 64
+Tabla 5-27: Reducción de emisiones comprometidas por CEMARC el año 4 de operación del presente
+Proyecto ...................................................................................................................................................... 65
+INDICE DE FIGURAS
+Figura 1-1. Partes y Obras del Proyecto ........................................................................................................ 7
+Figura 1-2. Tabla periódica de los elementos ............................................................................................... 8
+Figura 1-3. Proceso de Cosecha Circular de Minerales ................................................................................. 9
+Figura 1-4. Localización político-administrativa del Proyecto ..................................................................... 10
+Figura 1-5. Accesos al proyecto por Ruta 150 y 152 ................................................................................... 12
+Figura 1-6. Caminos internos ...................................................................................................................... 13
+Figura 3-1: Configuración del riesgo a la salud de un proyecto .................................................................. 16
+Figura 3-2: Esquema de decisión de criterios para evaluar el riesgo en salud ........................................... 17
+Figura 3-3: Esquema de decisión para evaluar el riesgo para la salud de la población humana respecto de
+contaminantes atmosféricos generados por el proyecto ........................................................................... 18
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 3-4. Componentes necesarios para la presencia de riesgo a la salud .............................................. 19
+Figura 3-5: Metodología para el análisis del riesgo en salud del Proyecto ................................................. 20
+Figura 5-1: Definición del Área de Influencia para el Riesgo a la Salud ...................................................... 23
+Figura 5-2. Área de Influencia Componente Aire, MP y Gases ................................................................... 24
+Figura 5-3. Ubicación receptores sensibles calidad del aire en el área de influencia de MP ..................... 26
+Figura 5-4: Esquema decisional para evaluar el riesgo en salud del proyecto debido a la exposición a
+contaminantes atmosféricos ....................................................................................................................... 29
+Figura 5-5: Etapas de la evaluación de riesgos ambientales ....................................................................... 40
+Figura 5-6: Receptores humanos relevantes para el proyecto .................................................................. 46
+Figura 5-7: Ruta de exposición para el Proyecto ......................................................................................... 47
+Figura 5-8: Modelo de análisis para evaluar los efectos en salud debido al material particulado respirable
+(MP2,5) ........................................................................................................................................................ 54
+Figura 5-9: Temperaturas registradas en Concepción y Temuco 2023 ....................................................... 62
+Figura 5-10: Temperaturas máximas y mínimas en Concepción ................................................................ 63
+APÉNDICES
+Apéndice 1: CV de autores del informe
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+PRESENTACIÓN
+El presente informe de evaluación del riesgo en salud ha sido preparado por los Dres. Soledad Ubilla y
+Claudio Vargas con la finalidad de responder a la evaluación ambiental del riesgo a la salud de la población,
+en virtud de lo indicado en el artículo 5° del Reglamento del SEIA para el Estudio de Impacto Ambiental
+(EIA), del “Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado de
+Tierras Raras” (en adelante “el Proyecto”).
+La Dra. Soledad Ubilla, se desempeña como Jefe de Proyectos de Gestión Ambiental Consultores y es
+especialista en estudios de evaluación ambiental del riesgo a la salud de la población humana, ex directora
+del SESMA y se desempeñó como jefe de la División de Políticas Públicas (que incluye al Departamento
+Ambiental) del Ministerio de Salud. Ha realizado múltiples estudios de evaluación de riesgo ambiental de
+salud, fue asesora del Ministerio del Medio Ambiente para la definición de la Guía Ambiental de Evaluación
+de Riesgo en Salud del Servicio de Evaluación Ambiental (SEA), además de haberse desempeñado como
+consultora internacional para la OPS (Organización Panamericana de la Salud) en múltiples estudios
+sanitarios dentro de los cuales destaca el Diagnóstico en Las Américas del Desempeño de las Funciones
+Esenciales de Salud Pública (mayores antecedentes se adjuntan en el Apéndice 01).
+El Dr. Claudio Vargas, actualmente se desempeña como especialista de Urgencia en Medicina y es el
+encargado de la Unidad de Epidemiología Clínica en la HUAP (Hospital de Urgencia Asistencia Pública),
+médico especialista en Medicina Interna, profesor adjunto de Bioestadística y de Salud Pública de los
+departamentos de Ingeniería Geográfica, Matemáticas y Ciencias de la Computación y Medicina y otras
+Ciencias de la Salud de la USACH, y miembro de comité examinador de tesis de la Universidad de Chile y
+de la USACH (el detalle de su experiencia profesional relevante se adjunta en Apéndice 01).
+Tal como se establece en todas los informes y evaluaciones de riesgo en salud realizadas por estos
+profesionales, es importante señalar que las conclusiones del presente informe son de exclusiva
+responsabilidad del equipo que participó en este estudio, sin perjuicio que al incluirse en el EIA de
+referencia forman parte integral del mismo. Las condiciones establecidas para la elaboración de estos
+estudios, exige la independencia de los expertos con relación al análisis realizado.
+1
+================================================================================
+PAGE 6
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+RESUMEN
+En el marco de la presentación del Estudio de Impacto Ambiental del “Proyecto de Extracción de Arcillas
+para la Producción de Tierras Raras” para su calificación ambiental, se desarrolla el análisis de evaluación
+ambiental del riesgo para la salud respecto de los potenciales efectos del Proyecto sobre el conjunto de
+receptores localizados en el área de influencia del Proyecto, que podrían verse afectados por la calidad del
+aire del entorno, basándose en la reciente actualización de la “Guía para la evaluación ambiental del riesgo
+para la salud de la población” (en adelante la nueva guía) a que se refiere la Resolución Exenta Documento
+Digital N° 202399101187, de fecha 08 de marzo de 2023, de la Dirección Ejecutiva del Servicio de
+Evaluación Ambiental (SEA) y su complemento “Criterios de evaluación en el SEIA: Impacto de emisiones
+en zonas saturadas por material particulado respirable MP10 y material particulado fino respirable MP2,5”
+(en adelante documento criterios) a que se refiere la Resolución Exenta Documento Digital N°
+202399101721, de fecha 08 de septiembre de 2023, también de la Dirección Ejecutiva del SEA.
+De acuerdo con los criterios generales entregados por él SEA, previo a realizar la evaluación del riesgo en
+salud de la población es necesario determinar el escenario en el cual se emplaza el Proyecto, confirmando
+si la población cercana podría ser afectada por los efectos, características o circunstancias a que se refiere
+la letra a) del artículo 11 de la Ley N°19.300. Este análisis resulta de gran relevancia debido a que
+formalmente la comuna de Penco se encuentra incluida en el “Plan de Prevención y de Descontaminación
+Atmosférica para las Comunas de Concepción Metropolitano” (D.S. Nº6/2018 del MMA); ello, como
+consecuencia de su inclusión dentro, la declaración como “Zona Saturada para Material Particulado Fino
+Respirable (MP2,5)” (D.S. Nº15/2015 del MMA), como concentración diaria.
+De la revisión del comportamiento de las estaciones de monitoreo de calidad del aire de representatividad
+poblacional (EMRP) que han sido incluidas en la definición de “zona saturada”, es posible inferir que la
+condición de saturación se presenta de manera heterogénea en el área donde se aplica el plan de
+prevención y descontaminación. La estación Kingston College que es la más cercana al Proyecto, y se
+encuentra en un sector sin presencia de actividades industriales, siendo por lo tanto representativa de la
+situación de exposición de los receptores humanos discretos definidos como relevantes para este
+proyecto, las mediciones de los últimos años (2020-2022) muestran que no se superan los límites de la
+norma de calidad primaria para MP2,5 en el promedio trianual de los últimos años y tampoco en el
+percentil 98 de 24 horas 2022, alcanzando solamente un 69% para el promedio trianual y un 75% para la
+norma diaria. En consecuencia, en términos reales y/o prácticos, la zona en que se emplaza la estación
+monitora no se encuentra saturada para dicho contaminante.
+Sin embargo, dado que toda el área se encuentra formal y administrativamente declarada saturada para
+MP2,5, como lo indica la nueva guía y el documento criterios, igualmente se evalúa si el Proyecto aumenta
+2
+================================================================================
+PAGE 7
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+la probabilidad de generar un efecto adverso sobre la salud de las personas, asumiendo la existencia de un
+riesgo preexistente en estos receptores.
+Así, siguiendo las directrices de la nueva guía se toma como punto de partida, su Escenario N°1 (punto
+3.1.1) que indica que se debe evaluar si los aportes del Proyecto respecto de MP2,5 por sobre la situación
+actual y los aportes de otros proyectos con RCA vigente que no se han ejecutado a la fecha, pudieran
+generar efectos que configuran el supuesto de la letra a) del artículo 11 de la Ley N°19.300.
+Para el caso del MP10 y demás contaminantes atmosféricos que cuentan con norma de calidad primaria
+nacional (NO , SO , O 1, Pb2 y CO) donde el escenario base confirma que no existe superación del límite de
+2 2 3
+la norma primaria de calidad, se evalúa si los aportes del proyecto adicionales a la situación actual y los
+aportes de otros proyectos con RCA no ejecutados configuran la generación de riesgo para la salud de la
+población debido a la superación del “riesgo aceptable”, que corresponde al límite de la norma primaria
+de calidad, como lo indica el Escenario N°2 de la nueva guía (punto 3.1.2).
+Los resultados del análisis presentado en el capítulo 5.4 Evaluación de la generación de riesgo para la salud
+de la población, se confirman que para todos los receptores discretos identificados en el área de influencia
+del Proyecto, no se superan las normas primarias de calidad ambiental (en concentración y período) para
+PM10 y gases (CO, NO , SO ), confirmando que en todos los receptores humanos y para todos estos
+2 2
+contaminantes no se supera el límite normado por lo tanto se concluye que el Proyecto mantiene la
+condición de “riesgo aceptable” y, en consecuencia, para estos contaminantes, el Proyecto no genera
+riesgo para la salud de la población.
+Debido a que los aportes estimados para algunos receptores humanos superan los valores de significancia
+a que se refiere la guía de criterios para el aumento de este contaminante para un período igual o superior
+a 3 años (considerando que el Proyecto tendrá una duración total de 9 años), se ha complementado el
+análisis realizando la evaluación del riesgo en salud que el Proyecto podría generar por sobre un riesgo
+preexistente.
+De esta manera, se analizan los efectos en la salud de la población humana debido a la exposición a MP2,5
+para cada receptor humano en el área de influencia del Proyecto, para el año 4 de la fase de operación,
+que corresponde al año con mayores emisiones esperadas, de todo el Proyecto.
+1 En relación al ozono, se trata de un proyecto de actividad minera, cuyas principales emisiones corresponden a
+material particulado, generando emisiones de gases que no resultan de relevancia para formación de O .
+3
+2 En relación a emisiones de plomo (Pb) por parte del proyecto se descartan debido a que no existe ninguna fuente
+del proyecto en ninguna de sus etapas que pudiera generar emisiones atmosféricas de este contaminante.
+3
+================================================================================
+PAGE 8
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+De la revisión bibliográfica realizada al conjunto de metodologías utilizadas para evaluar efectos en salud
+debido al material particulado, la OMS en su informe HRAPIE3 y su reciente actualización de las directrices
+mundiales de calidad del aire4 recomienda evaluar el riesgo en salud para efectos agudos
+(hospitalizaciones cardiovasculares y respiratorias) y crónicos (donde el efecto que mejor da cuenta del
+riesgo a la salud es la mortalidad general menos causas externas), ya que en estas categorías es donde
+existe evidencia científica suficiente.
+De la revisión de alternativas para caracterizar la relación concentración – respuesta, en general se puede
+concluir que las metodologías han sido muy consistentes en los estudios realizados tanto a nivel
+internacional como las realizadas en Chile. Para este análisis se ha utilizado el modelo recomendado por
+la OMS5, que recoge la experiencia acumulada de la EPA y de otros investigadores, del cual se aplica el
+modelo de exposición de corto y largo plazo al material particulado y sus efectos en salud. Cabe señalar
+que este modelo también fue utilizado por Luis Cifuentes6 para el estudio realizado de la definición de la
+norma de MP2,5 orientado a identificar y cuantificar los impactos en salud derivados de las emisiones de
+contaminantes al aire, lo que refuerza que esta metodología de análisis es totalmente válida para este
+caso.
+Cuando se evalúa el riesgo por exposición, las agencias regulatorias, tales como Health Canadá y la
+Environmental Protection Agency de Estados Unidos (U.S. EPA), se reconoce que cualquier nivel de
+exposición distinto de cero está asociado con algún riesgo de cáncer. Por ello, estas agencias
+internacionales han definido el nivel de riesgo que se podría considerar aceptable o tolerable. Al respecto
+todas las agencias coinciden en que un nivel de riesgo de 10-6 atribuible a un proyecto puede ser
+considerado como “esencialmente cero” o nivel de riesgo aceptable. Por otra parte, también las agencias
+coinciden en que entre un riesgo absoluto en salud del orden de 10-4 a 10-6 podría ser considerado un
+riesgo en salud aceptable dependiendo de la situación y circunstancias de exposición.
+En este caso, asumiendo la condición de “zona saturada” donde la operación del Proyecto podría generar
+un riesgo a la salud para eventos de exposición crónica y aguda más allá de lo aceptable en puntos muy
+acotados7 (debido a que en los receptores R-11, R_28 y R_32), el riesgo en salud de la operación del
+Proyecto en el año de mayores emisiones genera un riesgo absoluto del orden de 10-5,; ante ello, se
+consideran y evalúan los resultados que podrían obtenerse con la implementación de medidas de
+3 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+4 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+5 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+6 Estudio Relación de la norma de calidad primaria MP 2,5 con la norma de calidad primaria de MP 10, reporte preparado por L
+Cifuentes para la CONAMA durante el proceso de definición de la norma MP , Julio 2010.
+2,5
+7 Cabe precisar que este efecto no se presentará en otros receptores ni en la zona urbana de Penco.
+4
+================================================================================
+PAGE 9
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+mitigación y/o compensación de emisiones (asfaltado, aplicación de supresor y sustitución del uso de leña
+como combustible para cocina/calefacción por equipos/combustible de cero emisión).
+Los resultados permiten concluir que agregando la medida de sustitución de las estufas/cocinas a leña en estos
+tres receptores, se puede observar un efecto de protección de la salud de los habitantes de estos tres puntos
+receptores, ya que tanto para la exposición crónica como en la exposición aguda la reducción que se obtendría
+genera una situación de mejoramiento de la situación basal.
+5
+================================================================================
+PAGE 10
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante, indistintamente, el Proyecto, corresponde al conjunto de partes, obras y acciones que
+permitirán la construcción, operación y cierre de una faena minera y una planta de procesamiento de
+arcillas, material presente en la zona, el cual, por efectos naturales, se encuentra altamente meteorizado,
+con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará principalmente en la
+comuna de Penco, Provincia de Concepción, Región del Biobío, sin perjuicio que una parte menor de las
+obras se emplazan en la comuna de Concepción, en el límite con la Comuna de Penco.
+La planta de procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de arcilla
+húmeda y producir aproximadamente 3.100 toneladas húmedas anuales de concentrado de Tierras Raras,
+equivalente a 1.700 toneladas secas anuales de concentrado de Tierras Raras. Sumado a lo anterior, en
+síntesis, el Proyecto considera tres (3) zonas de extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite),
+una (1) zona de disposición para lastre y arcillas lavadas (ZD Neptuno), una (1) zona de acopio de suelo
+vegetal (ZAV), una planta de procesamiento de arcillas (la Planta) y un stockpile para el acopio temporal
+de material previo al procesamiento; asimismo, contempla una línea eléctrica de 15 kV y su conexión a
+una línea existente y la construcción y/o mejoramiento de caminos internos para acceder a las distintas
+áreas (ver Figura 1-1).
+Es importante tener en consideración que se operará únicamente con equipos móviles mecanizados, tales
+como excavadoras hidráulicas, cargadores frontales y camiones tolvas, dado que el material de interés se
+encuentra superficialmente. Lo anterior se explica por el origen del tipo de suelo presente en el área del
+proyecto, del tipo residual, formados a partir de la meteorización natural por agentes físicos y químicos
+de la roca. Producto de lo anterior, la extracción no requiere del uso y/o almacenamiento de explosivos
+para realizar tronaduras ni tampoco se consideran procesos de chancado ni de molienda del material
+durante el procesamiento en la planta.
+Es importante tener en consideración que la matriz mineralógica no contiene elementos radiactivos y, por
+lo tanto, el desarrollo del Proyecto no contempla el uso o extracción de materiales radioactivos, ni se
+relaciona con la extracción de elementos como el Torio (Th) y el Uranio (U), ya que solo considera la
+extracción del contenido de tierras raras existentes en los sectores de interés, las cuales no contienen
+elementos radioactivos.
+6
+================================================================================
+PAGE 11
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-1. Partes y Obras del Proyecto
+Fuente: Elaboración propia.
+Las tierras raras o su denominación por su sigla en inglés, REE (Rare Earth Elements) corresponde a los
+siguientes elementos: lantano (La), cerio (Ce), praseodimio (Pr), neodimio (Nd), prometio (Pm), samario
+(Sm), europio (Eu), gadolinio (Gd), terbio (Tb), disprosio (Dy), holmio (Ho), erbio (Er), tulio (Tm), iterbio
+(Yb) y lutecio (Lu), que junto con el itrio (Y) y el escandio (Sc), que se encuentran en una posición especial
+en la tabla periódica, según la International Union of Pure and Applied Chemistry (IUPAC), como se observa
+en la Figura 1-2.
+7
+================================================================================
+PAGE 12
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-2. Tabla periódica de los elementos
+Fuente: IUPAC (https://iupac.org/what-we-do/periodic-table-of-elements/)
+La extracción y procesamiento de estos lantánidos tiene por objetivo suplir la creciente demanda asociada
+a la optimización de equipos para electromovilidad, en tanto sus propiedades permiten motores más
+eficientes y de mayor duración. Con lo anterior, el país se podrá poner a la vanguardia de una industria de
+alta relevancia mundial, destacando no solo por el valor del recurso a procesar (alta calidad), sino también
+por la tecnología pionera que será utilizada para su obtención.
+Considerando el desafío mundial y nacional de descarbonización del planeta, a través de procesos
+trazables, el titular ha innovado en un proceso único de producción de tierras raras, denominado “Cosecha
+Circular de Minerales” que fue patentado en diciembre del 2022. Este proceso considera abastecerse de
+agua reciclada, aportando a la economía circular y también considera en su diseño la recirculación de cerca
+del 95% del agua en el proceso8, como también del principal reactivo que es el sulfato de amonio. Por otro
+lado, la arcilla procesada, junto con el suelo vegetal aportarán para la revegetación con especies nativas y
+de esta manera contribuir a una ganancia en biodiversidad. La Figura 1-3 muestra un diagrama resumido
+con el proceso de “Cosecha Circular de Minerales”.
+8 Cabe señalar que el 5% restante del agua queda en el mineral como se describe en el Capítulo 1 del EIA.
+8
+================================================================================
+PAGE 13
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-3. Proceso de Cosecha Circular de Minerales
+Fuente: Elaboración propia.
+A continuación, se presenta la localización político-administrativa del Proyecto (Figura 1-4), así como la
+ubicación de sus partes y obras.
+9
+================================================================================
+PAGE 14
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-4. Localización político-administrativa del Proyecto
+Fuente: Elaboración propia a partir de ingeniería de proyecto
+La materialización del Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras considera una inversión aproximada de USD $130 millones (ciento treinta
+millones de dólares).
+La vida útil del Proyecto está dada por el tiempo que abarca la fase de construcción, la fase de operación
+y la fase de cierre. La fase de construcción del Proyecto considera una duración del orden de 25 meses, la
+fase de operación corresponde a 6 años (72 meses) y la fase de cierre comprende 12 meses, es decir, se
+estima que la vida útil del Proyecto considerando todas las fases, es de 9 años.
+Tabla 1-1. Cronograma general del Proyecto
+Año
+Fase
+2026 2027 2028 2029 2030 2031 2032 2033 2034
+Construcción
+Operación
+Cierre
+Fuente: Elaboración propia a partir de ingeniería de proyecto
+Si bien el Proyecto no modifica un proyecto o actividad, en virtud de lo señalado en el artículo 12 del D.S.
+N°40 de 2013 del Ministerio del Medio Ambiente, de acuerdo con lo solicitado en el artículo 14 del D.S. N°
+10
+================================================================================
+PAGE 15
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+40/12 MMA, se informa que el Proyecto se realizará por etapas, señalando que el presente EIA
+corresponde a la etapa inicial del Proyecto, con el cual, una vez aprobado y tramitado todos los permisos
+aplicables, será posible dar inicio a su ejecución de manera oportuna, considerando las condiciones de un
+mercado global competitivo que requiere de un producto no solo de excelente calidad sino también en
+tiempos definidos o acotados.
+La localización del Proyecto se justifica por la presencia de arcillas ricas en Tierras Raras, que en términos
+de extracción y procesamiento presentan varias ventajas ambientales respecto de otros tipos de
+yacimiento; esto es, no utiliza explosivos y no requiere procesos de chancado o molienda. Durante la
+última década el rubro minero se ha abierto gradualmente hacia la exploración y extracción de minerales
+estratégicos. Entre éstos se encuentran las tierras raras, esenciales en la economía actual debido a que
+son usados en la fabricación, entre otros, de tecnología y sus aplicaciones en electromovilidad.
+El Proyecto considera dos (2) accesos, los cuales se indican a continuación.
+Acceso 1 - Ruta 150 km 4, Ruta Concepción - Penco.
+Acceso 2 - Ruta 152 km 71 Ruta del Itata (acceso Norte y Sur del Paso Superior el Cabrito)
+Respecto a los accesos por Ruta 150 y por Ruta 152 se consideran accesos permanentes para la fase de
+operación y cierre y para la fase de construcción se contempla un acceso permanente por ruta 150 y un
+acceso temporal por ruta 152. El acceso norte desde ruta 152 está proyectado para vehículos con
+circulación desde ruta 5 sur y el acceso sur desde ruta 152 para los vehículos provenientes desde Penco o
+Concepción.
+En la siguiente tabla se indican las coordenadas referenciales de los referidos accesos.
+Tabla 1-2. Coordenadas accesos al Proyecto
+Coordenadas
+Acceso Ruta UTM WGS 84 H18S
+Este (m) Norte (m)
+Acceso 1 Ruta 150 km 4, 677.059 5.928.317
+Ruta 152 km 71 – Norte 682.264 5.929.567
+Acceso 2
+Ruta 152 km 71 – Sur 681.283 5.929.743
+Fuente: Aclara
+En la Figura 1-5 se muestran los referidos accesos.
+11
+================================================================================
+PAGE 16
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-5. Accesos al proyecto por Ruta 150 y 152
+Fuente: Elaboración propia a partir de ingeniería de proyecto
+En la Figura 1-6 se muestran los caminos internos del Proyecto, los que se clasifican en caminos existentes
+que serán mejorados y caminos proyectados.
+12
+================================================================================
+PAGE 17
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 1-6. Caminos internos
+Fuente: Elaboración propia. a partir de ingeniería del proyecto.
+El proyecto se presenta al SEIA como un Estudio de Impacto Ambiental justificando como literal de ingreso
+bajo esta modalidad el Artículo 5, literal a) del RSEIA, entre otro efectos, características y circunstancias a
+que se refiere el artículo 11 de la Ley 19.300. Ello, debido a que el tránsito de camiones y los movimientos
+(extracción) de tierra (arcilla) para la extracción del mineral generarán emisiones cuyo aporte esperado a
+la calidad del aire superarían los valores de significancia a que se refiere la “Guía criterios”9, respecto del
+aumento de concentraciones de MP2,5, Lo anterior, sobre 3 puntos donde existe presencia de receptores
+humanos para la norma anual (que se compara contra concentraciones trianuales)10 en zona saturada para
+MP2,5. Cabe precisas que este efecto está acotado espacialmente a estos 3 puntos específicos y no se
+presentar en otros receptores ni en la zona urbana de Penco ni en otra zonas donde habite población.
+9 Criterios de evaluación en el SEIA: Impacto de emisiones en zonas saturadas por material particulado respirable
+MP10 y material particulado fino respirable MP2,5” (en adelante documento criterios) a que se refiere la Resolución
+Exenta Documento Digital N° 202399101721, de fecha 08 de septiembre de 2023, también de la Dirección Ejecutiva
+del SEA.
+10 Tabla 1 documento: “Criterio de evaluación en el SEIA: Impacto de emisiones en zonas saturadas por
+material particulado respirable MP10 y material particulado fino respirable MP2,5”.
+13
+================================================================================
+PAGE 18
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+De acuerdo con la nueva guía de evaluación del riesgo a la salud, en este caso corresponde evaluar para
+MP2,5 el incremento del riesgo preexistente y para el resto de las emisiones atmosféricas verificar si con
+los aportes del Proyecto, sumado a la línea base y los aportes de otros proyectos con RCA vigente y que
+no se han ejecutado, no se produce una superación de los valores límite de exposición establecidos en
+las normas primarias de calidad ambiental nacional, que deben ser entendidos como “riesgo aceptable”.
+Así, considerando la cantidad y calidad de las emisiones atmosféricas del Proyecto, se analiza las dosis de
+exposición de la población humana expuesta en el año 4 de la fase de operación, que corresponde al año
+que se espera presentará las mayores emisiones, considerando todas las fases del Proyecto, por tanto,
+corresponde al escenario más desfavorable desde el punto de vista ambiental en términos de emisiones
+atmosféricas y donde se podrían generarse los mayores efectos sobre la salud.
+A partir de los resultados obtenidos en la modelación de ese escenario, se evalúa el potencial riesgo a la
+salud de las personas, con base a la concentración proyectada de cada contaminante en cada uno de los
+receptores humanos cercanos (principalmente viviendas) que se encuentran en el área de influencia del
+Proyecto para la componente aire (ver capítulo Área de influencia punto 2.1.1.1 Calidad de Aire).
+El presente informe realiza la evaluación ambiental del riesgo a la salud de la población, caracterizada en
+21 receptores (de los cuales 20 corresponden a receptores discretos donde existe población humana y se
+agrega la estación de monitoreo de calidad del aire Kingston College), respecto de los cuales podría existir
+efectos sobre la salud debido al Proyecto, a fin de identificar, cuantificar y analizar el grado de incremento
+del riesgo en salud debido al aporte de los contaminantes atmosféricos: material particulado respirable
+(MP10 y MP2,5) y gases (CO, SO y NO ), en el año de mayor emisión generada por el Proyecto, en la
+2 2
+población que se encuentra en el área de influencia para este componente de manera de confirmar la
+presencia o ausencia del efecto a que se refiere el artículo 11 letra a) de la Ley N°19.300.
+En caso de que se confirme la presencia o generación de riesgo para la salud a continuación se considera
+y evalúa la reducción de los efectos debido a la aplicación de medidas de mitigación y/o compensación
+que permitan hacerse cargo de este riesgo en salud y logren evitarlo. Tal como lo señala la nueva guía, aun
+cuando las medidas sean de compensación para efectos del Proyecto, se entiende que si se trata de
+medidas que reducen o evitan la exposición ambiental que genera el riesgo en salud serán consideradas
+como medidas de mitigación del riesgo en salud (punto 3.3 Criterios de aplicabilidad de medidas respecto
+al riesgo a la salud de la nueva guía).
+2 OBJETIVO DE LA EVALUACIÓN DEL RIESGO A LA SALUD
+El objetivo del presente Informe es realizar la evaluación ambiental de riesgo de salud en los receptores
+identificados en el área de influencia de riesgo para la salud, debido a la exposición al material particulado
+(MP2,5 y MP10) y gases (NO , SO y CO) que genera el Proyecto, sobre la base de los lineamientos
+2 2
+14
+================================================================================
+PAGE 19
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+entregados por la nueva “Guía para la evaluación ambiental del riesgo para la salud de la población”, a
+que se refiere la Resolución Exenta Documento Digital N° 202399101187, de fecha 08 de marzo de 2023,
+de la Dirección Ejecutiva del Servicio de Evaluación Ambiental (SEA) y su complemento “Criterios de
+evaluación en el SEIA: Impacto de emisiones en zonas saturadas por material particulado respirable MP10
+y material particulado fino respirable MP2,5” (en adelante documento criterios) a que se refiere la
+Resolución Exenta Documento Digital N° 202399101721, de fecha 08 de septiembre de 2023, también de
+la Dirección Ejecutiva del SEA.
+3 METODOLOGÍA DE LA EVALUACIÓN AMBIENTAL DE RIESGOS A LA SALUD DE
+LA POBLACIÓN
+Siguiendo las directrices de la nueva guía se evaluará el riesgo asociado a la presencia de contaminantes
+atmosféricos presentes en el área de influencia debido a la ejecución de las obras y actividades del
+Proyecto en cualquiera de sus fases (construcción, operación y cierre), que podrían generar efectos
+adversos sobre la salud del conjunto de receptores humanos se identifican en esa área.
+Con base a que la expresión población que es utilizada en la letra a) del artículo 11 de la Ley N°19.300 se
+deberá incluir todo conjunto de personas que en atención a las circunstancias de forma permanente o
+transitoria pudieran encontrarse en el área de influencia del Proyecto, para este componente (calidad del
+aire).
+Teniendo en consideración que el Proyecto se emplaza en una zona incluida dentro del “Plan de
+Prevención y de Descontaminación Atmosférica para las Comunas de Concepción Metropolitano” (D.S.
+Nº6/2018 del MMA), debido a su previa declaración como “Zona Saturada para Material Particulado Fino
+Respirable MP2,5” (D. Nº15/2015 del MMA), es necesario confirmar para este contaminante atmosférico
+si el Proyecto genera un incremento respecto del riesgo preexistente en los receptores.
+Como lo indica la nueva guía, para evaluar la generación o presencia de riesgo para la salud a consecuencia
+de las emisiones atmosféricas, se requiere definir el escenario en el cual se instala el proyecto,
+considerando lo siguiente:
+• Aumento del riesgo preexistente para el MP2,5 y
+• Superación de valores de exposición establecidos en normas primarias de calidad ambiental
+vigente en Chile para MP10 y gases.
+En base a la caracterización de calidad del aire de línea base (ver Capítulo 3, sección Medio Físico, punto
+3.2 Calidad del Aire), si bien se confirma que el área de influencia del Proyecto representada en la estación
+de monitoreo Kingston College, no se encuentra saturada para MP2,5 anual (69% de la norma primaria) y
+diaria (75% de la norma primaria), igualmente se realiza el análisis considerando que el Proyecto podría
+15
+================================================================================
+PAGE 20
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+generar un “aumento del riesgo preexistente” para MP2,5 y para los otros contaminantes atmosféricos
+se evalúa si el Proyecto podría generar la superación el límite de la norma primaria establecida (MP10 y
+gases).
+Figura 3-1: Configuración del riesgo a la salud de un proyecto
+Fuente: Exposición formal del 28 de junio del 2022 realizada por el Departamento de Estudios y Desarrollo del SEA, del
+Departamento de Soporte a la Evaluación de Proyectos Complejos, vía streaming.
+Tal como se presenta en la figura (ver Figura 3-1), para el caso del área donde se emplazará el proyecto,
+comuna de Penco y Concepción, se evalúa, en un total de 20 puntos receptores humanos que
+corresponden a en su mayoría a viviendas habitadas y en la estación Kingston College, la generación de
+riesgo en salud o un incremento del riesgo preexistente, para los contaminantes atmosféricos que
+cuentan con norma primaria de calidad ambiental nacional. Solo para el contaminante MP2,5 se
+analiza los efectos por aumento del riesgo preexistente debido a la condición de zona saturada, para
+el MP10 y gases el análisis de efectos evalúa si los aportes del Proyecto pudieran generar un riesgo en
+salud sobre esos receptores.
+Los aportes del escenario modelado en la concentración a la cual estarán expuestos los 20 receptores
+directos, considera los estadígrafos de las normas de calidad aplicables a MP10, MP2,5, NO , SO y CO,
+2 2
+Cabe recordar que tanto el MP10 como el MP2,5 estimado por el modelo consideran la formación de
+nitratos y sulfatos (MP secundario) provenientes del NO y SO respectivamente.
+x 2
+Teniendo en consideración el escenario en el cual se emplaza el Proyecto, condición de saturación para
+MP2,5 y de generación de riesgo en salud actualmente inexistente para MP10 y gases, la evaluación se
+realiza siguiendo las directrices de la nueva guía, sobre aumento del riesgo preexistente (numeral 3.2.3 de
+la nueva guía en cada receptor) para MP2,5 o superación de los valores de las concentraciones y períodos
+de la norma de calidad primaria nacional en cada receptor para MP10, SO NO y CO (numeral 3.2.1 de la
+2 2
+nueva guía), como se presenta en la figura siguiente.
+16
+================================================================================
+PAGE 21
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 3-2: Esquema de decisión de criterios para evaluar el riesgo en salud
+Fuente: figura 6 de la Guía para la evaluación ambiental del riesgo para la salud de la población (SEA, 2023)
+Para evaluar la exposición al MP2,5 generado por el Proyecto se tendrá en consideración las orientaciones
+entregadas en el documento criterios relativo a la superación o no de los valores de significancia para el
+aumento de concentraciones sobre cada receptor como lo indica la Tabla N°1 de dicho documento, debido
+a que el Proyecto considera un período de ejecución mayor a 3 años.
+Para los demás contaminantes de tendrá en consideración los resultados de la modelación de la ejecución
+del Proyecto en el año 4 de la fase de operación, que estima sus aportes en el escenario de mayores
+emisiones, determinándose si se supera alguna de las normas de calidad primaria vigentes en Chile.
+A continuación, se presenta una figura que resume el proceso de análisis descrito.
+17
+================================================================================
+PAGE 22
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 3-3: Esquema de decisión para evaluar el riesgo para la salud de la población humana respecto de
+contaminantes atmosféricos generados por el proyecto
+Fuente: Elaboración propia.
+Como se indicó, el presente informe realiza la evaluación ambiental del riesgo a la salud de la población,
+caracterizada en el conjunto de 20 receptores discretos y la Estación de monitoreo Kingston College, a fin
+de identificar, cuantificar y analizar la significancia del efecto ambiental que producirá la emisión de
+material particulado respirable fino (MP2,5) en el año de mayor emisión, sobre la población que se
+encuentra en el área de influencia del Proyecto, para este componente, riesgo en salud de manera de
+confirmar la presencia o ausencia del efecto a que se refiere el artículo 11, letra a), de la Ley N°19.300.
+Las fuentes de información que se utilizan en este análisis corresponden a los resultados de la estimación
+de emisiones del Proyecto que se somete a evaluación ambiental y la modelación (inmisión), de las
+emisiones atmosféricas que va a generar el Proyecto, adicional a la caracterización de línea base y el aporte
+de otros proyectos con RCA que no constituyan línea de base en la actualidad, realizando el análisis para
+el año de mayor emisión que corresponde al año 4 de operación o año 6 de toda la vida útil del Proyecto,
+el cual constituye la peor condición de exposición de los receptores a los contaminantes atmosféricos
+analizados en esta evaluación.
+18
+================================================================================
+PAGE 23
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Para evaluar el riesgo a la salud al que se refiere el literal a) del artículo 11 de la Ley N° 19.300 debido, en
+este caso, a la cantidad y calidad de emisiones atmosféricas generadas por el Proyecto, debe existir una
+fuente emisora de un contaminante, un receptor, que en este caso corresponde a población humana, y la
+posibilidad de migración del contaminante emitido hasta un punto de contacto con el receptor, es decir,
+una ruta de exposición completa o potencialmente completa (Figura 3-4). Si no hay posibilidad de contacto
+entre personas y contaminantes, no hay posibilidad de exposición y, en consecuencia, no existe posibilidad
+de presentarse riesgo para la salud de las personas.
+Figura 3-4. Componentes necesarios para la presencia de riesgo a la salud
+Fuente: Guía de Riesgo para la salud de la población, según art. 11 Ley 19.300 letra A.
+Cabe precisar que se define riesgo para la salud como la “probabilidad de ocurrencia de un efecto
+adverso11 sobre un receptor humano debido a la cantidad, calidad y tiempo de exposición”; por lo cual es
+necesario confirmar la existencia de población humana en el área de influencia susceptible de verse
+afectada por la composición y características de las emisiones atmosféricas que generará el Proyecto,
+verificar la ruta de exposición, y en particular, si los mecanismos de transporte de los contaminantes para
+tomar contacto con los receptores humanos localizados en el área de influencia del Proyecto aseguran su
+contacto, considerando que la vía de exposición es la inhalación del material particulado y gases presente
+el aire que estos receptores respirarán.
+Un aspecto relevante a considerar en este análisis es que dentro de los fundamentos de la presentación
+de este Proyecto como un Estudio de Impacto Ambiental (EIA) se considera la posible afectación a la salud
+de la población, debido a que el movimiento de tierra para la extracción del mineral y flujos vehiculares,
+11 La definición de “efecto adverso” de la nueva Guía se realiza haciendo referencia a la Guía ISO/CEI 73:2009 de la
+Organización Internacional de Normalización, que proporciona un vocabulario básico para desarrollar un
+entendimiento común de los términos y conceptos relacionados con la gestión del riesgo entre las organizaciones y
+las funciones, de todo tipo y aplicaciones.
+19
+================================================================================
+PAGE 24
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+generarán emisiones cuyo aporte a la calidad del aire supera los valores de significancia del aumento de
+concentraciones de MP2,5 para un período igual o mayor a 3 años en zona saturada para MP2,5 sobre 3
+receptores humanos.
+En este caso se caracteriza el riesgo en salud, determinando cuantitativamente el eventual exceso de
+riesgo (muertes prematuras, ingresos hospitalarios cardiovasculares y respiratorios) respecto de la
+condición basal, utilizando como referencia las recomendaciones basadas en las funciones dosis-respuesta
+entregadas por la OMS12, USEPA13, IARC14 y otras agencias de referencia internacional, verificando si se
+configura la existencia de una ruta de exposición (Ver Anexo 1 de la nueva guía). A continuación, se
+presenta un esquema que resumen la metodología para la evaluación del riesgo en salud a desarrollar y
+los pasos a seguir.
+Figura 3-5: Metodología para el análisis del riesgo en salud del Proyecto
+Fuente: Elaboración propia.
+12 Organización Mundial de Salud
+13 United States Environmental Protection Agency
+14 International Agency for Research on Cancer
+20
+================================================================================
+PAGE 25
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+En caso de constatar la presencia de riesgo a la salud, debido a un incremento del riesgo preexistente o
+superación del límite normado, en uno o más receptores humanos ubicados en el área de influencia del
+Proyecto, se considerará y evaluará si la aplicación de medidas de mitigación o compensación consideradas
+por el Proyecto permite hacerse cargo del riesgo a la salud.
+En este caso se considera analizar las medidas de mitigación/compensación de emisiones atmosféricas
+propuestas por el proyecto y adicionalmente evaluar los beneficios para la salud que podría generar una
+medida complementaria consistente en el recambio cocinas a leña, artefactos hechizos o salamandras,
+por estufas a gas o eléctricas, sistemas que tienen nula o muy baja emisión de contaminantes y son más
+eficientes energéticamente, disminuyendo con esto, las emisiones que se generan por la combustión a
+leña.
+Finalmente se realiza la descripción de la naturaleza y magnitud de las fuentes de incertidumbre de manera
+que deberán ser ponderadas a la hora de evaluar los resultados y las conclusiones de la evaluación de
+riesgo.
+4 CARACTERIZACIÓN DE LA METEOROLOGÍA Y CALIDAD DEL AIRE DE LA ZONA
+La meteorología de superficie utilizada para caracterizar el área del Proyecto corresponde a los registros
+horarios de velocidad del viento, dirección del viento, temperatura, humedad relativa, precipitaciones y
+radiación solar pertenecientes a las estaciones meteorológicas Kingston College, Liceo Polivalente, Coronel
+Norte y Nueva Libertad.
+De acuerdo con lo presentado en el Anexo 4-1 Modelación meteorológica y de calidad del aire, la estación
+Kingston College registra la calidad del aire de uno de los sectores con mayor concentración de población
+cercana al Proyecto y que, al igual que los receptores más cercanos al Proyecto, no posee en su entorno
+fuentes emisoras importantes, o actividad industrial de relevancia. Si bien en el sector de emplazamiento
+del Proyecto la densidad de población es mucho menor a la del sector en donde se ubica la estación
+Kingston College, los resultados monitoreados en ésta se consideran como una línea de base
+conservadora, pero adecuada para representar la condición de la componente en los receptores cercanos
+al Proyecto.
+Adicionalmente, respecto de los otros contaminantes atmosféricos de interés (MP10, SO , NO , CO), si
+2 2
+bien no existe una declaración formal de saturación, se debe verificar cuál es la condición basal en la que
+se va a desarrollar el Proyecto, considerando también como la estación monitora más representativa de
+los receptores discretos en el área de influencia a la estación Kingston College. Para estos contaminantes
+el análisis considera como escenario basal, la ausencia de riesgo a la salud y por consiguiente se evalúa si
+la ejecución del Proyecto podría generar un riesgo a la salud sobre los receptores humanos que
+actualmente no existe.
+21
+================================================================================
+PAGE 26
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Las rosas de vientos confirman que las mayores velocidades de viento se dan en direcciones de viento
+suroeste (SO) y sursuroeste (SSO). El ciclo diario de dirección del viento presenta un comportamiento típico
+de zonas costeras, con vientos principalmente con componente Oeste en periodo diurno, con vientos mar
+– continente, mientras que cuando las temperaturas bajan, las componentes de vientos son de continente
+– mar, pero con mayor variabilidad.
+Debido a que la meteorología de superficie es un factor relevante en la dispersión de los contaminantes,
+fue realizado un análisis que tiene por objetivo validar en forma cualitativa el comportamiento del modelo
+WRF que será utilizado como información base de entrada al modelo de dispersión CALPUFF. Dadas las
+medidas de dispersión analizadas, se establece en forma cuantitativa que el modelo representa de manera
+aceptable las variables meteorológicas velocidad del viento y temperatura.
+De acuerdo con lo establecido en la Guía para el uso de Modelos de Calidad del Aire en el SEIA, segunda
+edición, la selección del modelo de Calidad del Aire se basa en la topografía compleja del área donde se
+emplaza el proyecto y al alcance de las emisiones. Por esta razón, el modelo utilizado fue un modelo tipo
+“Puff” como lo es CALPUFF.
+CALPUFF es un sistema de modelación avanzado para calidad del aire que considera además la
+meteorología de carácter no permanente. Su desarrollo estuvo a cargo del “Sigma Research Corporation”,
+mientras que su mantenimiento actual es responsabilidad de Exponent15. Debido a su desempeño,
+CALPUFF fue catalogado por la USEPA como modelo recomendado para la evaluación del impacto en la
+calidad del aire de distintos tipos de proyectos, especialmente aquellos donde es necesario considerar la
+variación en el tiempo y en el espacio de las condiciones meteorológicas y su incidencia en el transporte,
+transformación y remoción de contaminantes.
+El modelo en esta ocasión se utilizó con el mecanismo químico Rivad/Isorropia (mech=6 en CALPUFF), este
+mecanismo estima la proporción entre el NO y NO y además los nitratos (NO ) y sulfatos (SO ), éstos
+2 3 4
+fueron agregados a las concentraciones de MP10 y MP2,5 estimadas por el modelo.
+Cabe mencionar que, siguiendo los lineamientos de la Guía para el Uso de Modelos de Calidad del Aire en
+el SEIA, no fue utilizado el modelo meteorológico CALMET; por esta razón la meteorología modelada por
+el modelo meteorológico WRF correspondiente al año 2019, fue procesada en MMIF v3.2 para ser
+ingresada al modelo de dispersión CALPUFF de manera directa.
+El detalle del análisis realizado para estimar las emisiones que generará el Proyecto, así como la
+modelación de calidad del aire para estimar los aportes en la calidad del aire, se presentan en el Anexo 1-
+3 y Anexo 4-1, respectivamente.
+15 www.src.com/calpuff/calpuff1.htm
+22
+================================================================================
+PAGE 27
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5 EVALUACIÓN AMBIENTAL DE RIESGOS A LA SALUD
+Dentro del marco del desarrollo del Proyecto, sus actividades generan emisiones atmosféricas,
+principalmente de material particulado en sus distintas fracciones (siendo MP , y MP relevantes para el
+10 2,5
+riesgoen salud), y en menor proporción gases producto de la combustión interna (CO, NO y SO ) de
+2 2
+motores de maquinarias y vehículos. El análisis se realizará respecto de las emisiones estimadas para el
+año de mayores emisiones, correspondiente al año 4 de la fase de operación.
+Considerando que espacialmente las emisiones estimadas para la fase de construcción y para la fase de
+cierre, serán generadas en los mismos sectores que las emisiones generadas durante la fase de operación,
+es posible concluir que el año 4 de la fase de operación corresponde al escenario más desfavorable; por
+ello, es el considerado en la modelación de dispersión de contaminantes atmosféricos y será la fuente de
+información a ser considerada en el análisis del riesgo a la salud.
+5.1 DETERMINACIÓN DEL ÁREA DE INFLUENCIA DE RIESGOS A LA SALUD
+Tal como se indica en las Guías del SEA, para este análisis se establece que el área de influencia
+corresponde a la determinada por el componente calidad del aire respecto del cual se constituye la
+ruta de exposición (contaminantes atmosféricos de interés para la salud), como se presenta en la
+siguiente figura (ver Figura 5-1).
+Figura 5-1: Definición del Área de Influencia para el Riesgo a la Salud
+Fuente: Imagen extraída de actividad de Capacitación SEA Riesgo para la salud de la población en el SEIA, 28 de junio del
+2022.
+Se define el área de influencia a partir de los receptores sensibles presentes en el entorno de las obras y
+actividades del Proyecto, y las variaciones en la calidad del aire basal producto de los aportes del Proyecto
+23
+================================================================================
+PAGE 28
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+en sus distintas fases. También se considera la existencia de población o grupos humanos que pudieran
+verse afectados por una alteración de la calidad del aire debido a la construcción y operación del Proyecto.
+Teniendo en consideración la distribución de las obras del Proyecto y los receptores cercanos a éstas, el
+área de influencia definida responde a la finalidad de evaluar los posibles efectos de productos de las
+emisiones de material particulado, y otros contaminantes. Las actividades que podrían generar efectos
+sobre la calidad del aire son aquellas que constituyen fuentes de emisión de material particulado y gases
+contaminantes que tienden a dispersarse en torno a la fuente, aunque abarcando extensiones limitadas.
+Los efectos se asocian directamente con riesgos para la salud de las personas, por lo que se consideran las
+localidades pobladas cercanas que pudieran verse afectadas por las obras y/o actividades del Proyecto, en
+la que se encuentran los receptores sensibles a las emisiones que genere el Proyecto en la fase de
+construcción. Se considera el 1% de las normas como umbral, pues bajo un 1% respecto de las normas, se
+trata de valores de aportes suficientemente bajos, en donde el aporte por sí solo no debiera generar
+efectos ni cambios de condición en receptores de interés.
+Considerando los receptores identificados, el área de influencia se define como el límite donde se estima
+que llegará un aporte del Proyecto igual al 1% (criterio basado en las guías en el IAQM de UK) de las normas
+vigentes para MP10, MP2.5, NO , CO y SO , que corresponde el área de mayor extensión al comparar
+2 2
+curvas del 1% de las normas de referencia para los distintos contaminantes.
+Figura 5-2. Área de Influencia Componente Aire, MP y Gases
+Fuente: GAC
+24
+================================================================================
+PAGE 29
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5.2 DESCRIPCIÓN DE LA POBLACIÓN EXPUESTA QUE SE CONSIDERA EN LA
+EVALUACIÓN DE RIESGOS PARA LA SALUD
+Con base a que la expresión población que es utilizada en la letra a) del artículo 11 de la Ley N°19.300 se
+debe incluir todo conjunto de personas que, en atención a las circunstancias de forma permanente o
+transitoria16 pudieran encontrarse en el área de influencia, se ha definido un total de 20 receptores
+correspondientes a viviendas habitadas, como puntos de evaluación del modelo de dispersión de
+contaminantes atmosféricos, que podrían estar expuestos a las mayores concentraciones de los mismos.
+Adicionalmente se ha incluido la estación monitora de representatividad poblacional Kingston College. La
+ubicación y descripción se presenta en la Tabla 5-1 y Figura 5-3 a continuación.
+Tabla 5-1. Ubicación receptores sensibles de calidad del aire
+WGS84 Huso 18
+ID Tipo
+X Y
+R_1 Humano 680390 5932896
+R_2 Humano 680671 5932437
+R_3 Humano 681441 5932015
+R_4 Humano 682281 5932438
+R_5 Humano 682315 5932496
+R_6 Humano 682568 5932367
+R_7 Humano 683019 5932079
+R_8 Humano 683194 5932076
+R_9 Humano 681918 5928825
+R_11 Humano 681359 5929460
+R_12 Humano 678898 5930509
+R_13 Humano 679093 5930752
+R_14 Humano 679242 5931249
+R_15 Humano 679442 5931734
+R_17 Humano 677098 5928598
+R_25 ECA Kingston College 673817 5927247
+R_28 Humano 681309 5929511
+R_29 Humano 681935 5928791
+R_30 Humano 677118 5928271
+R_31 Humano 677266 5928175
+R_32 Humano 681315 5929568
+Fuente: GAC
+16 La importancia de definir la transitoriedad se relaciona con la definición de efectos agudos, subagudos o crónicos
+en salud.
+25
+================================================================================
+PAGE 30
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 5-3. Ubicación receptores sensibles de calidad del aire en el área de influencia de MP
+Fuente: GAC
+A continuación, se presenta una breve descripción de los receptores humanos considerados en el presente análisis,
+basado en los antecedentes que entrega el presente EIA y en la información entregada por el proyecto de CEMARC
+correspondiente al receptor 11 y 28.
+Tabla 5-2: Descripción de los receptores humanos cercanos al proyecto
+ID Nombre Descripción
+R_1 Humano Vivienda de 1 piso, ubicada al costado de camino Las Pataguas.
+R_2 Humano Vivienda de 2 pisos ubicada a un costado de Ruta O-390.
+R_3 Humano Entrada predio forestal, ubicado en camino interior a Ruta O-390.
+R_4 Humano Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390
+R_5 Humano Vivienda de 1 piso, ubicada en camino interior a Ruta O-390.
+R_6 Humano Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390
+R_7 Humano Vivienda de 1 piso y restaurant "Donde Zulema", ubicada a un costado de Ruta O-390.
+R_8 Humano Vivienda de 1 piso, ubicada a un costado de Ruta O-390.
+R_9 Humano Vivienda de 1 piso, cercana a Vertedero
+R_11 Humano Vivienda de 1 piso, ubicada en camino interior.
+26
+================================================================================
+PAGE 31
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+ID Nombre Descripción
+R_12 Humano Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Castaños N°34.
+R_13 Humano Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Cipreses N°5.
+R_14 Humano Vivienda de 1 piso, ubicada en calle Miramar N°990.
+R_15 Humano Centro de salud CESFAM Penco 2 pisos, ubicada en calle Acceso a Fundo Copihueco.
+R_17 Humano Motel El Conquistador
+Kingston
+R_25 College Estación de CA Kingston College
+R_28 Humano Vivienda de 1 piso, ubicada en camino interior.
+R_29 Humano Edificación de madera de un piso deshabitada, ubicada al sureste del relleno sanitario
+R_30 Humano Caseta portería y control de ingreso a camino de acceso actual a relleno sanitario
+R_31 Humano Motel El Parque. Ubicado a un costado del camino de acceso actual al relleno sanitario
+R_32 Humano Vivienda de 1 piso, ubicada en camino interior.
+Fuente: de la Tabla 6 1. Receptores de Interés definidos para la modelación, Anexo 4-1, se seleccionan solo los receptores
+humanos.
+El presente análisis considera los receptores poblacionales humanos que podrían habitar estas
+instalaciones. En algunos receptores se asume que existe una persona que pernocta en el lugar.
+5.3 ESCENARIO BASE DE RIESGO A LA SALUD EN EL CUAL SE VA A EMPLAZAR EL
+PROYECTO
+Tal como se presenta a continuación, las emisiones registradas entre los años 2020 y 2022 en la estación
+de representación poblacional del área de influencia del Proyecto, se encuentran bajo los límites
+normados.
+Tabla 5-3. Resumen Línea de Base Calidad del Aire. Periodo enero 2020 a diciembre 2022.
+Kingston College
+Contaminante Estadígrafo Norma Unidad
+Valor % Norma
+P98 24h 50 μg/m3 38 75%
+MP2,5
+Anual 20 μg/m3 13,8 69%
+P98 24h 130 μg/m3N 53 41%
+MP10
+Anual 50 μg/m3N 25 50%
+P99 1h 30.000 µg/m3N 3.600 12%
+CO
+P99 8h 10.000 µg/m3N 1,4 14%
+P99 1h 400 μg/m3N 19,1 5%
+NO2
+Anual 100 μg/m3N 7,5 8%
+P98,5 1h 350 μg/m3N 9,5 3%
+SO2 P99 24h 150 μg/m3N 6,5 4%
+Anual 60 μg/m3N 2,7 5%
+Fuente: Anexo 4-1: Modelación de calidad del aire
+27
+================================================================================
+PAGE 32
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Si bien la declaración de zona saturada es un acto administrativo que tiene como objetivo principal dar pie
+a la elaboración de un Plan de Descontaminación, y en este caso es posible afirmar que las concentraciones
+de MP2,5 medidas en la estación Kingston College se encuentra por debajo17 de los límites de la norma
+de calidad primaria para MP2,5, igualmente se ha seguido las orientaciones establecidas en la nueva guía
+que señalan en el Escenario N°1: existencia de riesgo preexistente”: “En dicho caso se debe evaluar la
+concentración por sobre los límites en la norma primaria de calidad ambiental correspondiente.... para los
+efectos de la presente guía, es decir, se debe considerar que en estas las concentraciones y períodos de
+permanencia del contaminante se encuentran por sobre los límites de la norma"18. Por lo cual se evalúa el
+riesgo en salud del aporte del Proyecto para el año de mayores emisiones (año 4 de la fase de operación),
+por sobre la línea base y los aportes de otros proyectos con RCA que no se encuentran en la línea base,
+considerando el criterio de saturación es decir se analizan los efectos de las emisiones de MP2,5 por sobre
+el límite de la norma de calidad primaria nacional (ver numeral 3.2.3 Aumento del riesgo preexistente de
+la nueva guía).
+Para los demás contaminantes atmosféricos se realiza el análisis bajo el criterio o hipótesis de que los
+aportes del Proyecto a la calidad del aire pudieran generar una condición de concentraciones en los
+receptores humanos que superen el límite de la norma de calidad primaria nacional y por lo tanto superen
+el nivel de “riesgo aceptable”, como lo señala la nueva guía (ver numeral 3.2.1 Superación de valores de
+las concentraciones y períodos de la norma de referencia nacional de la nueva guía).
+La siguiente figura presenta el esquema de análisis para la evaluación del riesgo en salud a partir del
+escenario base donde se emplaza el Proyecto.
+17 En consecuencia, en términos reales y/o prácticos, la zona en que se emplaza la estación monitora, de hecho, no
+se encuentra saturada para el contaminante MP2,5.
+18 Numeral 3.1.1. Escenario N°1: existencia de riesgo preexistente, lo indicado en el último párrafo página 35 y primer
+párrafo pagina 36 de la nueva guía
+28
+================================================================================
+PAGE 33
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 5-4: Esquema decisional para evaluar el riesgo en salud del proyecto debido a la exposición a
+contaminantes atmosféricos
+Fuente: Elaboración propia.
+Sobre la base a lo anterior, a continuación, se evalúa la generación de un riesgo a la salud, debido a los
+niveles de contaminantes atmosféricos que aporta el Proyecto en el año de mayores emisiones.
+5.4 EVALUACIÓN DE LA GENERACIÓN DE RIESGO PARA LA SALUD DE LA
+POBLACIÓN
+Basado en los resultados de la modelación de calidad del aire generados por las emisiones del Proyecto
+en el año de mayores emisiones, incluyendo la línea de base y el aporte de otros proyectos con RCA
+vigentes que no están medidos en la LB, para cada uno de los receptores discretos considerados
+representativos del área de influencia y la estación Kingston College; a continuación, se presentan los
+resultados (Anexo 4-1 Modelación de Calidad del Aire).
+29
+================================================================================
+PAGE 34
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Material Particulado Respirable Fino (MP2,5)
+A continuación, se presentan los valores de significancia para el aumento de concentraciones de material
+particulado respirable (MP10 y MP2,5) en receptores humanos para un período igual o mayor a 3 años en
+zonas que sobrepasen el valor de la norma primaria de calidad, señalada en el documento criterios del
+SEA.
+Tabla 5-4: Niveles de significancia por aumento de concentración de MP10 y MP2,5 en zonas saturadas para
+períodos de 3 o más años de duración
+Incremento Concentración
+Contaminante Período
+(µg/m3)
+24 horas 5,00
+MP10
+Anual 1,00
+24 horas 1,71
+MP2,5
+Anual 0,33
+Ref: Tabla 1. Valores de significancia para el aumento de concentración de MP10 y MP2,5 sobre receptores humanos en un
+período igual o mayor a 3 años en zonas saturadas, del documento Criterios
+Tal como se presenta en la tabla siguiente en ninguno de los receptores analizados, los aportes de MP2,5
+del Proyecto (AP) en el año 4 de la fase de operación, sumados a la línea base (LDB) y al aporte de otros
+proyectos (AOP), se supera el límite normado en la calidad del aire proyectado (CAP), para el promedio
+anual y tampoco se llega a niveles de latencia (ver Tabla 5-5).
+Tabla 5-5. Resultados modelo de dispersión material particulado respirable fino (MP2,5) promedio anual
+MP2,5 anual (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 14 SI 0,09 13,9 69%
+R_2 14 SI 0,10 13,9 70%
+R_3 14 SI 0,19 14,0 70%
+R_4 14 SI 0,12 13,9 70%
+R_5 14 SI 0,11 13,9 70%
+R_6 14 SI 0,10 13,9 69%
+R_7 14 SI 0,06 13,9 69%
+R_8 14 SI 0,05 13,9 69%
+R_9 14 SI 0,24 14,0 70%
+R_11 14 0,02 0,80 14,6 73%
+R_12 14 SI 0,12 13,9 70%
+R_13 14 SI 0,13 13,9 70%
+R_14 14 SI 0,11 13,9 70%
+R_15 14 SI 0,11 13,9 70%
+R_17 14 0,27 0,05 14,1 71%
+30
+================================================================================
+PAGE 35
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+MP2,5 anual (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_25 14 0,00 0,01 13,8 69%
+R_28 14 SI 0,77 14,6 73%
+R_29 14 0,39 0,22 14,4 72%
+R_30 14 SI 0,12 13,9 70%
+R_31 14 SI 0,06 13,9 69%
+R_32 14 SI 0,80 14,6 73%
+Fuente: Tabla 4.15 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Sin embargo, para los receptores R_11, R_28, R-29 y R_32 se proyecta que los niveles de MP2,5 diarios
+representados en el P98 de la norma diaria superarían los niveles de latencia. Respecto del R_29 es
+importante destacar que el promedio anual de MP2,5 esperado (CAP) es atribuible al aporte de otros
+proyectos (3,13 µg/m3), ya que el aporte del Proyecto es menor (1,71 µg/m3).
+Tabla 5-6. Resultados modelo de dispersión material particulado respirable fino (MP2,5) P98 24 horas
+MP2,5 P98 24 horas (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 38 SI 0,28 38,3 77%
+R_2 38 SI 0,32 38,3 77%
+R_3 38 SI 0,90 38,9 78%
+R_4 38 SI 0,56 38,6 77%
+R_5 38 SI 0,52 38,5 77%
+R_6 38 SI 0,42 38,4 77%
+R_7 38 SI 0,25 38,3 77%
+R_8 38 SI 0,22 38,2 76%
+R_9 38 SI 1,14 39,1 78%
+R_11 38 0,22 4,70 42,9 86%
+R_12 38 SI 0,35 38,4 77%
+R_13 38 SI 0,36 38,4 77%
+R_14 38 SI 0,35 38,4 77%
+R_15 38 SI 0,40 38,4 77%
+R_17 38 1,27 0,27 39,5 79%
+R_25 38 0,02 0,07 38,1 76%
+R_28 38 SI 4,48 42,5 85%
+R_29 38 3,13 1,07 42,2 84%
+R_30 38 SI 0,47 38,5 77%
+R_31 38 SI 0,31 38,3 77%
+R_32 38 SI 4,75 42,8 86%
+NOTA: SI= sin información. Fuente: Tabla 4.16 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Adicionalmente, cuando la situación de la población se encuentra expuesta a un nivel de exposición que
+se reconoce como riesgo preexistente (que es la situación a la cual están expuestos todos los receptores
+31
+================================================================================
+PAGE 36
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+humanos identificados en el área de influencia del Proyecto, por cuanto corresponde formalmente a una
+zona saturada, a pesar que, en términos reales y/o prácticos, la zona en que se emplaza la estación
+monitora más cercana no se encuentra saturada), es necesario determinar la significancia del incremento
+en su exposición, para lo cual la autoridad ambiental ha definido en el documento criterios los límites de
+incremento de la concentración de los contaminantes por sobre lo cual se debe considerar que el
+incremento es significante y por lo tanto es necesario evaluar el riesgo a las salud de la población expuesta.
+Considerando los valores de significancia para el aumento de concentración de MP10 y MP2,5 sobre
+receptores humanos en un período igual o mayor a 3 años en zonas saturadas, del documento Criterios,
+para los receptores R_11, R_28 y R_32 se superarían los niveles de significancia y, en consecuencia, se
+requiere evaluar el riesgo en salud al cual estarían expuestos “con Proyecto”.
+Material Particulado Respirable (MP10)
+Tal como se presenta en las tablas siguientes en ninguno de los receptores analizados, los aportes de MP10
+del Proyecto para el año 4 de la fase de operación, adicionales a la línea base (LDB) y al aporte de otros
+proyectos (AOP), no se supera el límite normado en la estimación de la calidad del aire proyectada (CAP),
+tanto para el promedio anual como para el P98 de la norma diaria y por lo tanto es posible concluir que
+todos los receptores estarían expuestos a un “riesgo aceptable”19.
+Tabla 5-7. Resultados modelo de dispersión material particulado respirable (MP10) promedio anual
+MP10 anual (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 25 SI 0,34 25,3 51%
+R_2 25 SI 0,40 25,4 51%
+R_3 25 SI 0,84 25,8 52%
+R_4 25 SI 0,46 25,5 51%
+R_5 25 SI 0,44 25,4 51%
+R_6 25 SI 0,37 25,4 51%
+R_7 25 SI 0,24 25,2 50%
+R_8 25 SI 0,20 25,2 50%
+R_9 25 SI 1,05 26,0 52%
+R_11 25 0,02 3,94 29,0 58%
+R_12 25 SI 0,40 25,4 51%
+R_13 25 SI 0,44 25,4 51%
+R_14 25 SI 0,37 25,4 51%
+R_15 25 SI 0,37 25,4 51%
+R_17 25 0,27 0,27 25,5 51%
+19 Un nivel de riesgo aceptable se define como aquel umbral cuyos valores de concentración y exposición del
+contaminante establecido en la norma de calidad primaria para proteger la vida o la salud de las personas.
+32
+================================================================================
+PAGE 37
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+MP10 anual (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_25 25 0,00 0,03 25,0 50%
+R_28 25 SI 3,93 28,9 58%
+R_29 25 0,39 0,99 26,4 53%
+R_30 25 SI 0,87 25,9 52%
+R_31 25 SI 0,42 25,4 51%
+R_32 25 SI 4,18 29,2 58%
+NOTA: SI= sin información
+Fuente: Tabla 4.17 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Tabla 5-8. Resultados modelo de dispersión material particulado respirable (MP10) P98 24 horas
+MP10 P98 24 horas (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 53 SI 1,19 54,2 42%
+R_2 53,00 SI 1,25 54,3 42%
+R_3 53,00 SI 4,38 57,4 44%
+R_4 53,00 SI 2,34 55,3 43%
+R_5 53,00 SI 2,18 55,2 42%
+R_6 53,00 SI 1,65 54,7 42%
+R_7 53,00 SI 1,02 54,0 42%
+R_8 53,00 SI 0,78 53,8 41%
+R_9 53,00 SI 4,82 57,8 44%
+R_11 53,00 0,22 23,58 76,8 59%
+R_12 53,00 SI 1,41 54,4 42%
+R_13 53,00 SI 1,36 54,4 42%
+R_14 53,00 SI 1,24 54,2 42%
+R_15 53,00 SI 1,53 54,5 42%
+R_17 53,00 1,27 1,26 55,5 43%
+R_25 53,00 0,02 0,23 53,2 41%
+R_28 53,00 SI 23,47 76,5 59%
+R_29 53,00 3,13 4,44 60,6 47%
+R_30 53,00 SI 3,65 56,6 44%
+R_31 53,00 SI 2,25 55,3 43%
+R_32 53,00 SI 25,47 78,5 60%
+NOTA: SI = sin información
+Fuente: Tabla 4.18 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Monóxido de Carbono (CO)
+33
+================================================================================
+PAGE 38
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Los resultados de modelación de CO, como aporte del proyecto (AP) a cada uno de los receptores del área
+de influencia, permiten concluir que el Proyecto no genera afectación a la salud de la población, ya que
+los aportes estimados son muy bajos y sumados a la línea base (LDB), el aporte de otros proyectos con
+RCA (AOP), se confirma que en el año de mayores emisiones del proyecto la calidad del aire proyectada
+(CAP) está muy por debajo de los límites de las normas primarias de calidad el aire para CO, no modificando
+la condición de la componente. Por lo cual se confirma que no se genera riesgo en salud, por cuanto el
+valor esperado está muy por debajo del riesgo aceptable.
+Tabla 5-9. Resultados modelo de dispersión monóxido de carbono (CO) P99 1 hora
+CO P99 1 hora (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 3600,00 SI 7,49 3607,5 12,0%
+R_2 3600,00 SI 5,35 3605,4 12,0%
+R_3 3600,00 SI 19,51 3619,5 12,1%
+R_4 3600,00 SI 26,53 3626,5 12,1%
+R_5 3600,00 SI 23,36 3623,4 12,1%
+R_6 3600,00 SI 23,41 3623,4 12,1%
+R_7 3600,00 SI 19,63 3619,6 12,1%
+R_8 3600,00 SI 17,43 3617,4 12,1%
+R_9 3600,00 SI 23,77 3623,8 12,1%
+R_11 3600,00 33,08 66,03 3699,1 12,3%
+R_12 3600,00 SI 14,06 3614,1 12,0%
+R_13 3600,00 SI 13,68 3613,7 12,0%
+R_14 3600,00 SI 11,16 3611,2 12,0%
+R_15 3600,00 SI 10,99 3611,0 12,0%
+R_17 3600,00 6,14 4,69 3610,8 12,0%
+R_25 3600,00 2,97 1,11 3604,1 12,0%
+R_28 3600,00 SI 69,20 3669,2 12,2%
+R_29 3600,00 132,00 22,86 3754,9 12,5%
+R_30 3600,00 SI 3,87 3603,9 12,0%
+R_31 3600,00 SI 4,00 3604,0 12,0%
+R_32 3600,00 SI 66,83 3666,8 12,2%
+NOTA: SI= sin información
+Fuente: Tabla 4.19 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Tabla 5-10. Resultados modelo de dispersión monóxido de carbono (CO) P99 media móvil de 8 horas
+CO P99 promedio de 8 horas (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_1 1400 SI 3,21 1403,2 14,0%
+R_2 1.400 SI 3,16 1.403,2 14,0%
+34
+================================================================================
+PAGE 39
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+CO P99 promedio de 8 horas (µg/m³)
+Receptor
+LDB AOP AP CAP % norma
+R_3 1.400 SI 11,65 1.411,7 14,1%
+R_4 1.400 SI 13,69 1.413,7 14,1%
+R_5 1.400 SI 12,57 1.412,6 14,1%
+R_6 1.400 SI 13,94 1.413,9 14,1%
+R_7 1.400 SI 9,88 1.409,9 14,1%
+R_8 1.400 SI 8,56 1.408,6 14,1%
+R_9 1.400 SI 7,07 1.407,1 14,1%
+R_11 1.400 9,04 26,64 1.435,7 14,4%
+R_12 1.400 SI 4,50 1.404,5 14,0%
+R_13 1.400 SI 4,00 1.404,0 14,0%
+R_14 1.400 SI 4,30 1.404,3 14,0%
+R_15 1.400 SI 4,57 1.404,6 14,0%
+R_17 1.400 4,21 1,75 1.406,0 14,1%
+R_25 1.400 0,57 0,68 1.401,3 14,0%
+R_28 1.400 SI 28,65 1.428,6 14,3%
+R_29 1.400 73,97 6,68 1.480,6 14,8%
+R_30 1.400 SI 1,55 1.401,6 14,0%
+R_31 1.400 SI 1,67 1.401,7 14,0%
+R_32 1.400 SI 28,66 1.428,7 14,3%
+NOTA: SI: sin información
+Fuente: Tabla 4.20 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Dióxido de Nitrógeno (NO )
+2
+A partir de los resultados de modelación de NO , es posible concluir que el Proyecto no genera afectación
+2
+a la salud de la población, ya que los aportes estimados en los receptores discretos, sumados a la línea
+base y el aporte de otros proyectos, confirma que la calidad del aire proyectada se encuentra muy por
+debajo de los límites definidos en las normas de calidad primarias para NO .
+2
+Tabla 5-11. Resultados modelo de dispersión dióxido de nitrógeno (NO ) promedio anual
+2
+NO promedio anual (µg/m³)
+2
+Receptor
+LDB AOP AP CAP % norma
+R_1 7,5 SI 0,17 7,7 7,7%
+R_2 7,50 SI 0,20 7,7 7,7%
+R_3 7,50 SI 0,35 7,8 7,8%
+R_4 7,50 SI 0,21 7,7 7,7%
+R_5 7,50 SI 0,20 7,7 7,7%
+R_6 7,50 SI 0,18 7,7 7,7%
+35
+================================================================================
+PAGE 40
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+NO promedio anual (µg/m³)
+2
+Receptor
+LDB AOP AP CAP % norma
+R_7 7,50 SI 0,12 7,6 7,6%
+R_8 7,50 SI 0,10 7,6 7,6%
+R_9 7,50 SI 0,47 8,0 8,0%
+R_11 7,50 0,13 1,47 9,1 9,1%
+R_12 7,50 SI 0,26 7,8 7,8%
+R_13 7,50 SI 0,29 7,8 7,8%
+R_14 7,50 SI 0,23 7,7 7,7%
+R_15 7,50 SI 0,20 7,7 7,7%
+R_17 7,50 0,11 0,07 7,7 7,7%
+R_25 7,50 0,01 0,01 7,5 7,5%
+R_28 7,50 SI 1,35 8,8 8,8%
+R_29 7,50 2,00 0,45 9,9 9,9%
+R_30 7,50 SI 0,15 7,7 7,7%
+R_31 7,50 SI 0,08 7,6 7,6%
+R_32 7,50 SI 1,36 8,9 8,9%
+NOTA: SI=sin información
+Fuente: Tabla 4-21 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Tabla 5-12. Resultados modelo de dispersión dióxido de nitrógeno (NO ) P99 1 hora
+2
+NO P99 1h (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_1 19,10 SI 3,53 22,6 5,7%
+R_2 19,10 SI 3,28 22,4 5,6%
+R_3 19,10 SI 8,38 27,5 6,9%
+R_4 19,10 SI 10,60 29,7 7,4%
+R_5 19,10 SI 9,77 28,9 7,2%
+R_6 19,10 SI 8,33 27,4 6,9%
+R_7 19,10 SI 5,27 24,4 6,1%
+R_8 19,10 SI 3,21 22,3 5,6%
+R_9 19,10 SI 26,94 46,0 11,5%
+R_11 19,10 12,50 60,06 91,7 22,9%
+R_12 19,10 SI 5,24 24,3 6,1%
+R_13 19,10 SI 5,19 24,3 6,1%
+R_14 19,10 SI 5,50 24,6 6,1%
+R_15 19,10 SI 5,88 25,0 6,2%
+R_17 19,10 1,84 1,93 22,9 5,7%
+R_25 19,10 1,59 0,53 21,2 5,3%
+R_28 19,10 SI 55,29 74,1 18,5%
+R_29 19,10 61,60 23,85 104,5 26,1%
+36
+================================================================================
+PAGE 41
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+NO P99 1h (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_30 19,10 SI 2,31 21,4 5,4%
+R_31 19,10 SI 1,72 20,8 5,2%
+R_32 19,10 SI 53,85 72,9 18,2%
+NOTA: SI=sin información
+Fuente: Tabla 4.22 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Dióxido de Azufre (SO )
+2
+A partir de los resultados de modelación de SO , es posible concluir que el Proyecto no genera afectación
+2
+a la salud de la población, ya que los aportes estimados en los receptores discretos en la calidad del aire
+proyectada (CAP) están muy por debajo de los límites normados, como se muestra en las tablas siguientes.
+Tabla 5-13. Resultados modelo de dispersión dióxido de azufre (SO ) promedio anual
+2
+SO anual (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_1 2,70 SI 0,00 2,7 4,5%
+R_2 2,70 SI 0,00 2,7 4,5%
+R_3 2,70 SI 0,00 2,7 4,5%
+R_4 2,70 SI 0,00 2,7 4,5%
+R_5 2,70 SI 0,00 2,7 4,5%
+R_6 2,70 SI 0,00 2,7 4,5%
+R_7 2,70 SI 0,00 2,7 4,5%
+R_8 2,70 SI 0,00 2,7 4,5%
+R_9 2,70 SI 0,00 2,7 4,5%
+R_11 2,70 0,01 0,01 2,7 4,5%
+R_12 2,70 SI 0,00 2,7 4,5%
+R_13 2,70 SI 0,00 2,7 4,5%
+R_14 2,70 SI 0,00 2,7 4,5%
+R_15 2,70 0,00 0,00 2,7 4,5%
+R_17 2,70 0,09 0,00 2,8 4,7%
+R_25 2,70 SI 0,00 2,7 4,5%
+R_28 2,70 SI 0,01 2,7 4,5%
+R_29 2,70 0,12 0,00 2,8 4,7%
+R_30 2,70 SI 0,00 2,7 4,5%
+R_31 2,70 SI 0,00 2,7 4,5%
+R_32 2,70 SI 0,01 2,7 4,5%
+NOTA: SI=sin información
+Fuente: Tabla 4.23 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+37
+================================================================================
+PAGE 42
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-14. Resultados modelo de dispersión dióxido de azufre (SO ) P99 24 horas
+2
+SO P99 24h (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_1 6,50 SI 0,00 6,5 4,3%
+R_2 6,50 SI 0,00 6,5 4,3%
+R_3 6,50 SI 0,01 6,5 4,3%
+R_4 6,50 SI 0,01 6,5 4,3%
+R_5 6,50 SI 0,01 6,5 4,3%
+R_6 6,50 SI 0,01 6,5 4,3%
+R_7 6,50 SI 0,00 6,5 4,3%
+R_8 6,50 SI 0,00 6,5 4,3%
+R_9 6,50 SI 0,01 6,5 4,3%
+R_11 6,50 0,12 0,05 6,7 4,4%
+R_12 6,50 SI 0,00 6,5 4,3%
+R_13 6,50 SI 0,00 6,5 4,3%
+R_14 6,50 SI 0,00 6,5 4,3%
+R_15 6,50 SI 0,00 6,5 4,3%
+R_17 6,50 0,49 0,00 7,0 4,7%
+R_25 6,50 0,01 0,00 6,5 4,3%
+R_28 6,50 0,02 0,05 6,6 4,4%
+R_29 6,50 1,13 0,01 7,6 5,1%
+R_30 6,50 SI 0,00 6,5 4,3%
+R_31 6,50 SI 0,00 6,5 4,3%
+R_32 6,50 SI 0,05 6,5 4,4%
+NOTA: SI=sin información
+Fuente: Tabla 4.24 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+Tabla 5-15. Resultados modelo de dispersión dióxido de azufre (SO ) P98,5 1 hora
+2
+SO P99 1h (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_1 9,50 SI 0,01 9,5 3%
+R_2 9,50 SI 0,01 9,5 3,2%
+R_3 9,50 SI 0,04 9,5 3,2%
+R_4 9,50 SI 0,03 9,5 3,2%
+R_5 9,50 SI 0,02 9,5 3,2%
+R_6 9,50 SI 0,02 9,5 3,2%
+R_7 9,50 SI 0,01 9,5 3,2%
+R_8 9,50 SI 0,01 9,5 3,2%
+R_9 9,50 SI 0,03 9,5 3,2%
+R_11 9,50 SI 0,10 9,6 3,2%
+R_12 9,50 SI 0,01 9,5 3,2%
+R_13 9,50 SI 0,01 9,5 3,2%
+38
+================================================================================
+PAGE 43
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+SO P99 1h (µg/m³)
+2
+Receptor % norma
+LDB AOP AP CAP
+R_14 9,50 SI 0,01 9,5 3,2%
+R_15 9,50 SI 0,01 9,5 3,2%
+R_17 9,50 SI 0,00 9,5 3,2%
+R_25 9,50 SI 0,00 9,5 3,2%
+R_28 9,50 SI 0,10 9,6 3,2%
+R_29 9,50 SI 0,03 9,5 3,2%
+R_30 9,50 SI 0,00 9,5 3,2%
+R_31 9,50 SI 0,00 9,5 3,2%
+R_32 9,50 SI 0,10 9,6 3,2%
+NOTA: SI=sin información
+Fuente: Tabla 4.25 Capítulo 4 Predicción y Evaluación de Impactos Ambientales. EIA
+En virtud de los resultados presentados, en todos los receptores humanos identificados en el área de
+influencia del Proyecto, agregando a la línea de base de calidad del aire (LDB), el aporte del Proyecto (AP)
+y el aporte de otros proyectos que poseen RCA favorable pero que no han sido ejecutados (AOP), se
+concluye que para ninguno de los contaminantes atmosféricos de interés para la salud humana se superan
+las normas primarias de calidad ambiental (en concentración y período), por lo que de acuerdo a las
+directrices de la nueva guía, para ningún contaminante atmosférico y en ningún receptor se configura una
+superación del “riesgo aceptable”20 para la salud, considerando además el año de mayores emisiones (año
+4 de la operación).
+Sin embargo, considerando que desde el punto de vista formal administrativamente la zona está declarada
+saturada para MP2,5 y se estaría bajo la hipótesis teórica de la guía de que los aportes del proyecto
+superan el nivel de significancia al cual algunos receptores estarían expuestos (Tabla N°1 del documento
+Criterios SEA), a continuación se complementa el presente informe con un análisis de sensibilidad
+agregando la evaluación del riesgo en salud del aporte del Proyecto en MP2,5 basada en las
+recomendaciones de la OMS21, EPA22 y otros organismos internacionales.
+5.5 EVALUACIÓN DE EFECTOS ADVERSOS PARA LA SALUD DE LA POBLACIÓN POR
+MP2,5 ASUMIENDO LA EXISTENCIA DE RIESGO PREEXISTENTE
+Si bien como se ha analizado previamente es posible confirmar que los registros de la estación
+representativa de monitoreo de calidad del aire más cercana al área de emplazamiento del proyecto
+muestran que no se encuentra por sobre los niveles normados vigentes de Chile, dada la circunstancia
+20 Cabe señalar que las normas primarias de calidad ambiental reconocen que, por debajo de los valores de
+concentraciones y períodos establecidos, podría existir un riesgo a la salud, pero que tal riesgo, es aceptable.
+21 Organización Mundial de la Salud.
+22 Agencia de Protección del Medio Ambiente de USA (Environmental Protection Agency en inglés).
+39
+================================================================================
+PAGE 44
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+formal de que la zona ha sido declarada como zona saturada para MP2,5, a continuación, se realiza el
+análisis complementario evaluando el riesgo a la salud, asumiendo la existencia de un riesgo preexistente
+en estos receptores.
+Para efectos del presente análisis, se ha seguido la metodología recomendada en la Guía de Evaluación de
+Impacto Ambiental “Riesgo para la salud de la población”, elaborada y publicada por él SEA. Se evaluará si
+el Proyecto aumenta la probabilidad de generar un efecto adverso sobre la salud, es decir, aumentar el nivel
+de riesgo existente previo a su ejecución debido a la exposición de cada uno de los receptores discretos a los
+aportes que genera el Proyecto en material particulado fino en el año de mayores emisiones.
+Dado que la comuna de Penco, donde se proyecta desarrollar el Proyecto, es una de las comunas que han
+sido incluidas administrativamente dentro de la declaración de zona saturada para MP2,5 (Decreto
+15/2015, MMA), por lo cual existe un Plan de Prevención y Descontaminación Atmosférica, se
+complementa el análisis anterior con un análisis de sensibilidad que profundice la evaluación del riesgo
+para la salud derivado del Proyecto.
+Las etapas de la evaluación de riesgos ambientales para la salud humana se resumen en la figura siguiente:
+Figura 5-5: Etapas de la evaluación de riesgos ambientales
+Fuente: Guía del SEA relativa al artículo 11 de la ley 19-300, letra a) Riesgo para la salud de la población
+Las etapas de la evaluación de riesgos en salud desarrolladas en el presente estudio se resumen a
+continuación:
+5.5.1 Identificación del peligro: MP2,5
+En términos generales, la exposición a la contaminación atmosférica se ha asociado a una serie de efectos
+adversos para la salud. La mayoría de las pruebas recientes se centran en los efectos respiratorios y
+40
+================================================================================
+PAGE 45
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+cardiovasculares atribuidos a la exposición a corto y largo plazo, así como en el desarrollo de resultados
+relacionados con el embarazo. Desde el punto de vista de la salud pública, es importante reconocer que
+el impacto total de la contaminación atmosférica en la población es probable que esté dominado por los
+efectos menos graves para la salud, como los eventos subclínicos y sintomáticos. No obstante, los
+resultados graves (incluido el aumento del riesgo de mortalidad y la reducción de la esperanza de vida)
+son los que más se tienen en cuenta en los estudios epidemiológicos y de análisis de riesgos, debido
+generalmente a la mayor disponibilidad de datos recogidos de forma rutinaria.
+Los individuos enfermos de la población soportan una mayor carga de los efectos más graves. Por ejemplo,
+la muerte es más frecuente en quienes ya están enfermos, y los que tienen condiciones médicas
+preexistentes son más probable que ingresen en el hospital o acudan a un servicio de urgencias. Otros
+subgrupos susceptibles son los niños pequeños, las personas más pobres y personas con bajo nivel
+educativo. La susceptibilidad está determinada no sólo características personales, como la edad, el estado
+de salud, la dieta y la genética, sino también por factores ambientales, como las características de la
+exposición (por ejemplo, el patrón de tiempo de actividad), la vivienda y las condiciones ambientales a de
+la vivienda y las condiciones ambientales del barrio.
+La mayor parte de las pruebas que relacionan los diversos efectos sobre la salud humana con los niveles
+de contaminación atmosférica en el ambiente proceden de estudios epidemiológicos complementados
+por la investigación toxicológica.
+La OMS y la Sociedad Torácica Americana (ATS) han proporcionado orientaciones sobre las definiciones de
+lo que constituye un efecto adverso en salud derivado de la contaminación atmosférica. La ATS, por
+ejemplo, ha identificado una amplia gama de efectos sobre la salud respiratoria asociados a la
+contaminación atmosférica que deben considerarse "adversos". Estos van desde la muerte por
+enfermedades respiratorias hasta la reducción de la calidad de vida, pasando por algunos cambios
+irreversibles en la función fisiológica. Desde la publicación de la segunda edición de las directrices sobre la
+calidad del aire en Europa en el año 2000, las pruebas sobre los efectos de la contaminación atmosférica
+en la salud han evolucionado considerablemente. Mientras que la mayor parte de la literatura generada
+en este periodo se centró en los eventos respiratorios y cardiovasculares atribuidos a las exposiciones a
+corto y largo plazo, una nueva generación de estudios sugiere que la aparición de efectos no es específica
+de estos resultados (ver Tabla 5-16).
+Tabla 5-16. Efectos de la contaminación atmosférica sobre la salud23
+Efectos atribuidos a la exposición a corto plazo
+- Mortalidad diaria
+- Ingresos hospitalarios por causas respiratorias y cardiovasculares
+23 Quantification of the health effects of exposure to air pollution. Report on a WHO Working Group, Bilthoven,
+Netherlands, 20–22 November 2000. Copenhagen, WHO Regional Office for Europe, 2001 (document
+EUR/01/5026342).
+41
+================================================================================
+PAGE 46
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Efectos atribuidos a la exposición a corto plazo
+- Visitas a urgencias respiratorias y cardiovasculares
+- Visitas a la atención primaria respiratoria y cardiovascular
+- Uso de medicamentos respiratorios y cardiovasculares
+- Días de actividad restringida
+- Ausentismo laboral
+- Ausentismo escolar
+- Síntomas agudos (sibilancias, tos, producción de flemas, infecciones respiratorias)
+- Cambios fisiológicos (por ejemplo, la función pulmonar)
+Efectos atribuidos a la exposición a largo plazo
+- Mortalidad por enfermedades cardiovasculares y respiratorias
+- Incidencia y prevalencia de enfermedades respiratorias crónicas (asma, EPOC24
+- Cambios crónicos en las funciones fisiológicas
+-Cáncer pulmonar
+- Enfermedades cardiovasculares crónicas
+- Restricción del crecimiento intrauterino (bajo peso al nacer, retraso del crecimiento
+intrauterino, pequeño para la edad gestacional)
+Gran parte de la evidencia epidemiológica se ha encontrado evaluando el efecto en la salud del MP10. Por
+esta razón, entre otras, la OMS estimó que era necesario normar las concentraciones ambientales del
+MP10 y MP2,5 tanto para las exposiciones crónicas como las agudas.
+Como valor guía para el MP2,5 en exposiciones prolongadas, se eligió una concentración anual media de
+10 µg/m3. En el estudio de la Sociedad Americana del Cáncer (ACS) (Pope et al., 2002), este valor
+representa el extremo inferior de la gama en la que se observaron efectos significativos en la
+supervivencia. La adopción de una guía en este nivel concede un valor importante a los estudios de
+exposición prolongada que utilizan los datos de la ACS y los del estudio de Harvard de las seis ciudades
+(Dockery et al., 1993; Pope et al.,1995; HEI, 2000; Pope 2002; Jerrett 2005). En todos estos estudios se
+establecieron asociaciones estrechas entre la exposición prolongada al MP2,5 y la mortalidad.
+La concentración media histórica de MP2,5 en el estudio de seis ciudades fue de 18 µg/m3 (intervalo de
+11,0 a 29,6 µg/m3) y en el estudio de la ACS (American Cancer Society) de 20 µg/m3 (intervalo de 9,0 a 33,5
+µg/m3). No se observaron umbrales en ninguno de estos estudios, aunque no se pudieron determinar con
+precisión los periodos y las pautas de la exposición pertinente. En el estudio de la ACS se pone de
+manifiesto una incertidumbre estadística de las estimaciones del riesgo con concentraciones de unos 13
+µg/m3, valor por debajo del cual aumentan de manera significativa los intervalos de confianza, puesto que
+las concentraciones están relativamente alejadas de la media.
+24 Enfermedad pulmonar obstructiva crónica.
+42
+================================================================================
+PAGE 47
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Según los resultados del estudio de Dockery et al. (1993), los riesgos son semejantes en las ciudades con
+las concentraciones prolongadas más bajas de MP2,5 (es decir, de 11 a 12,5 µg/m3). Es manifiesto un
+mayor riesgo en la ciudad con la segunda concentración media prolongada más baja de MP2,5 (es decir,
+de 14,9 µg/m3), lo que indica que cabe esperar efectos en la salud cuando las concentraciones medias
+anuales son del orden de 11 a 15 µg/m3. Por consiguiente, se puede considerar que, según la bibliografía
+científica disponible, una concentración media anual de 10 µg/m3 estaría por debajo de la media para los
+efectos más probables. La elección de una concentración media prolongada de MP2,5 de 10 µg/m3
+también confiere cierto valor a los resultados de los estudios de series cronológicas de exposición diaria
+en los que se examina la relación entre la exposición al MP2,5 y los efectos adversos agudos en la salud.
+En estos estudios se señala que las medias de las exposiciones prolongadas (es decir, de tres a cuatro años)
+son del orden de 13 a 18 µg/m3.
+Complementariamente se revisa la evidencia de los efectos del material particulado grueso
+independientemente de los efectos de la fracción fina (MP10-2,5). Las principales fuentes de referencia
+son PubMed de la National Library of Medicine del NIH, así como la bibliografía de la revisión reciente de
+la ISA (Integrated Scientific Assessment) y las recomendaciones de la OMS.
+El material particulado es una mezcla compleja de componentes con características físicas y químicas muy
+diversas que están determinadas por los mecanismos de su génesis. Este aerosol se forma a partir de
+partículas directamente emitidas a la atmósfera (particulado primario) o aquellas que se forman a partir
+de procesos de conversión gas-partículas (particulado secundario).
+Respecto de los efectos de la exposición de corto plazo de la fracción gruesa sobre la mortalidad, los
+estudios muestran que incrementos del particulado presentan un efecto en la mortalidad, en especial en
+ciudades con clima seco y altura. El estudio más grande realizado que comprende 47 ciudades
+norteamericanas encuentra un efecto estadísticamente significativo ajustado por particulado fino en
+mortalidad total, cerebrovascular y respiratoria del orden de 0.47 a 1.14% por cada 10 μg/m3 de
+incremento en MP10-2,525, como efectos debido a concentraciones de 24 horas. Se puede concluir que
+hay evidencia epidemiológica creciente que apoya el efecto de la exposición aguda sobre la mortalidad
+diaria. Este consenso también se extiende a las agencias reguladoras.
+Los efectos de la exposición de corto plazo de la fracción gruesa sobre la morbilidad presentan mayor
+heterogeneidad en los efectos reportados, siendo los estudios canadienses y uno en Barcelona los que
+muestran efectos adversos mayores. Los estudios han relacionado hospitalizaciones por diversas causas,
+habitualmente cardiovasculares (incluyendo cardiopatía coronaria, insuficiencia cardiaca, arritmias, etc.)
+y respiratorias (Asma, EPOC, Infecciones respiratorias) en distintas categorías de edad. El estudio más
+grande que comprende 108 condados en Norteamérica encuentra solamente un efecto estadísticamente
+25 Como concentración de 24 horas.
+43
+================================================================================
+PAGE 48
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+no significativo. En conclusión, los estudios epidemiológicos sugieren una asociación entre la exposición
+aguda al particulado grueso y efectos en distintos indicadores de morbilidad cardiovascular y respiratoria.
+Respecto de la exposición crónica a material particulado grueso y mortalidad, el estudio de Harvard de las
+seis ciudades encontró un efecto sugerente del particulado grueso sin alcanzar significancia estadística. El
+estudio de cohortes más grande realizado a la fecha, de la Sociedad Americana de Cáncer no encontró
+efectos significativos y estudios más recientes, que han examinado explícitamente esta asociación
+presentan resultados discordantes. En conclusión, no hay evidencia suficiente para descartar un efecto de
+la exposición crónica al particulado grueso, pero tampoco evidencia que sugiera con fuerza la asociación.
+El grueso de los estudios epidemiológicos que apoyan la asociación entre efectos en la salud perinatal
+(efectos en la salud del feto, neonato y recién nacido) se han realizado con mediciones de MP10. Hay
+pocos estudios que examinan de manera específica los efectos del particulado grueso sobre la salud del
+feto y neonato lo que no permite establecer una asociación causal ni tampoco descartarla.
+Varios grupos han examinado en diferentes modelos experimentales, tanto en animales de
+experimentación como cultivos de líneas celulares los efectos de la exposición a material particulado
+grueso. Los estudios realizados en Europa y Norteamérica han encontrado efectos comparables al
+particulado fino e incluso superiores en igualdad de concentraciones. Estos estudios dan plausibilidad
+biológica a los estudios epidemiológicos que muestran asociación entre exposición y efectos agudos en la
+salud. La evidencia experimental identifica los mecanismos de efectos: inflamación, estrés oxidativo,
+citotoxicidad, alteraciones de sistema nervioso autonómico y de la coagulación. No se encontraron
+estudios experimentales con exposición crónica a la fracción gruesa.
+A la fecha la asociación de la fracción gruesa del material particulado con los efectos crónicos en la salud
+cuenta con menos estudios y la evidencia es aún inconsistente.
+Se ha demostrado que el riesgo de diversos efectos aumenta con la exposición, y hay pocas pruebas que
+indiquen un umbral por debajo del cual no quepa prever efectos adversos en la salud. En realidad, el nivel
+más bajo de la gama de concentraciones para las cuales se han demostrado efectos adversos no es muy
+superior a la concentración de fondo, que para las partículas de menos de 2,5µm (MP2,5) se ha estimado
+en 3-5 µg/m3 tanto en los Estados Unidos como en Europa Occidental.
+Las pruebas epidemiológicas ponen de manifiesto efectos adversos del MP tras exposiciones tanto breves
+como prolongadas. Puesto que no se han identificado umbrales y dado que hay una variabilidad
+interespecífica sustancial en la exposición y en la respuesta a una exposición determinada, es poco
+probable que una norma o un valor guía ofrezca una protección completa a todas las personas frente a
+todos los posibles efectos adversos del material particulado en la salud.
+44
+================================================================================
+PAGE 49
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5.5.2 Evaluación de la exposición
+A continuación, se analizará la ruta de exposición de los contaminantes, identificando la(s) fuente(s)
+emisoras del Proyecto, los mecanismos de liberación de contaminantes, medios para que se disperse el
+contaminante (aire), mecanismos de transporte, para lo cual se utilizará el informe de Modelación de la
+Dispersión de Emisiones Atmosféricas (Anexo 4-1), vía de exposición y existencia de una población
+receptora (todos los receptores discretos identificados en el área de influencia del Proyecto). Luego, se
+evaluará la dosis de exposición, estimando así el tipo y magnitud de la exposición en todos los receptores
+de interés, considerando las vías de exposición, frecuencia, duración, ruta y extensión de la exposición.
+Los elementos que se identifican en esta ruta de exposición son los siguientes26:
+• Fuente emisora: se han definido como fuentes emisoras a todas aquellas definidas en la
+modelación de la dispersión de contaminación atmosférica del Proyecto, que aportan a las
+emisiones totales del año 4 de la fase de operación del Proyecto, que corresponde al año en que
+se esperan mayores emisiones, donde se confirma que las principales fuentes emisoras
+corresponden a la resuspensión de polvo en los caminos no pavimentados.
+• Mecanismo de liberación del contaminante: se considera la generación de emisiones y
+resuspensión de material particulado desde todas las posibles fuentes y actividades generadoras
+de MP2,5. Cabe recordar que el MP2.5 estimado por el modelo consideran la formación de nitratos
+(NO ) y sulfatos (SO ) provenientes de las emisiones de óxidos de nitrógeno (NO ) y dióxido de
+3 4 x
+azufre (SO ), respectivamente.
+2
+• Medios para que se desplace el contaminante: el material particulado respirable fino es liberados
+desde las actividades del Proyecto en su fase de operación y se desplazan a través del aire hacia
+los receptores humanos cercanos.
+• Mecanismos de transporte: las emisiones atmosféricas (material particulado y gases) dispersos
+en el aire se transportan según los resultados del modelo CALPUFF que utiliza el modelo
+meteorológico WRF correspondiente al año 2022 y la información topográfica de la comuna. El
+CALPUFF es un modelo de dispersión y de transporte que advecta “puff” de material emitido desde
+fuentes modeladas, simulando la dispersión y transformación a lo largo de la trayectoria.
+Finalmente se utiliza CALPOST el cual calcula las concentraciones en los receptores de interés,
+permitiendo gestionar los datos para cada contaminante.
+• Vía de exposición: corresponde a la forma en que los contaminantes se introducen o entran en
+contacto con la población localizada en los distintos receptores identificados en el área de
+influencia determinada por la modelación. Para este estudio de riesgo se ha considerado la
+inhalación de MP2,5 como la vía de exposición.
+• Existencia de una población receptora: se ha definido como población expuesta a todos los
+receptores discretos identificados en el área de influencia de calidad del aire para el Proyecto, que
+26 Guía de evaluación de impacto ambiental y riesgo para la salud de la población en el SEIA Editor: Servicio de Evaluación
+Ambiental ISBN: 978-956-9076-06-0, 2012
+45
+================================================================================
+PAGE 50
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+en su mayoría son viviendas, pero también se incluye un centro de salud (R_15), las oficinas del
+proyecto de manejo de residuos CEMARC (R_30) y de un crematorio (R_17). Las viviendas más
+cercanas corresponden a R_11; R_28 y R_32. El detalle se presenta en el capítulo 5.2 Descripción
+de la población expuesta.
+Figura 5-6: Receptores humanos relevantes para el proyecto
+Receptor R_11 Receptor CESFAM R_15
+A continuación, se presenta una representación conceptual de la ruta de exposición en la figura
+siguiente.
+46
+================================================================================
+PAGE 51
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Figura 5-7: Ruta de exposición para el Proyecto
+Fuente: Elaboración propia.
+5.5.3 Dosis de exposición
+Las dosis de exposición que se utilizan en la evaluación de riesgo corresponden a las medias anuales y
+aportes diarios de 24 horas de PM2,5; respecto de los cuales la OMS ha validado las dosis-respuesta sobre
+la base de que existe evidencia suficiente, considerando el análisis de dosis de exposición de corto y largo
+plazo.
+Las dosis a las cuales se van a exponer los receptores sensibles han sido determinadas por la modelación
+de dispersión de contaminantes atmosféricos donde se ha incluido en la estimación de emisiones los
+aportes del proyecto en el año 4 de la fase de operación del Proyecto, que corresponde al año con mayores
+emisiones (ver Tabla 5-5 y Tabla 5-6 del presente informe).
+Las dosis de exposición han sido estimadas para PM2,5 para cada receptor sensible por lo que la evaluación
+del riesgo en salud se realizará basado en estas dosis de exposición unitarias a fin de determinar el
+potencial efecto sobre la salud en cada receptor.
+47
+================================================================================
+PAGE 52
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5.5.4 Evaluación dosis – respuesta
+Para el material particulado (MP2,5), existe un umbral o nivel de concentración a partir del cual se puede
+evidenciar algún riesgo para la salud. En este caso, el análisis de dosis-respuesta se realizará en función
+del incremento de inmisión que aportará el Proyecto en los receptores discretos.
+La función concentración-respuesta está definida por la métrica contaminante y el efecto en salud
+indicado, que resultan en un riesgo relativo estandarizado para un incremento de 10 µg/m3.
+La función que establece cómo se modifica la respuesta estudiada, dependiendo del incremento o
+reducción de la concentración de MP2,5 a la cual estaría expuesta la población debido al Proyecto que se
+llama genéricamente “función concentración-respuesta” está determinada por el β o coeficiente de riesgo
+que se utiliza. Los β se obtienen a partir de los riesgos relativos o razón de riesgo validadas por los estudios
+epidemiológicos cuya abreviación es RR, cuya fórmula se presenta a continuación.
+Los indicadores señalados con la denominación Grupo descrito en las tablas corresponden a lo siguiente:
+• A: existe evidencia consensuada apoyada en múltiples estudios que apoyan el uso del indicador y
+adicionalmente confirman la robustez del coeficiente βeta recomendado.
+• B: estas funciones de concentración respuesta presentan menos evidencia en la literatura,
+habitualmente los estudios que las confirman son menos numerosos y por lo tanto se consideran
+indicadores opcionales, los coeficientes βeta recomendado son menos robustos.
+• * = las funciones que presentan adicionalmente al A o B un * se pueden sumar por ser
+complementarios con relación a los efectos en salud que se están evaluando.
+De acuerdo con la evidencia actual, para todos los indicadores el rango de concentración en el cual se
+recomienda su aplicación es “todo” el rango de concentraciones detectadas. Para cada función respuesta
+también se informa la fuente que apoya la tasa basal y fuente de la evidencia con que se construyen las
+funciones respuestas.
+En base a toda la nueva evidencia, en el presente estudio se han actualizados los coeficientes Beta basado
+en el Estudio de Chen y Hoek (Chen & Hoek, 2020) para efectos crónicos de PM2,5. Para los efectos agudos
+de PM2,5 se utiliza el Beta del Estudio de Orellano (Orellano et al., 2020).
+48
+================================================================================
+PAGE 53
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+De manera complementaria se mantiene el análisis utilizando las dosis de referencia del documento del
+HRAPIE 2013, elaborado por la OMS para otros efectos en salud: episodios de asma en niños,
+hospitalizaciones respiratorias y cardiovasculares, como se muestra en la siguiente tabla.
+A continuación, se presentan el conjunto de funciones respuestas por exposición de corto plazo y largo
+plazo por el material particulado respirable.
+49
+================================================================================
+PAGE 54
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-17: Funciones concentración respuesta seleccionadas para evaluar el riesgo en salud por exposición de Corto Plazo
+Métrica RR (95% CI) por Beta Rango de Fuente de la evidencia validada de la función concentración respuesta
+Efecto en salud Grupo utilizado
+contaminante 10 µg/m3 concentraciones (β)
+Orellano P, Reynoso J, Quaranta N, Bardach A, Ciapponi A (2020). Short
+Mortalidad, todas las
+term exposure to particulate matter (PM10 and PM2,5), nitrogen dioxide
+MP2,5 causas menos las
+A RR 1,0065 Todo (NO ), and ozone(O3) and all-cause and cause-specific mortality:
+promedio diario externas en todas las 0,00065 2
+systematic review and meta-analysis.Environ Int.142:105876.
+edades
+doi:10.1016/j.envint.2020.105876. License: CC BY-NC-ND.
+Hospitalizaciones de
+MP2,5 Basado en un metaanálisis de cuatro estudios de ciudad única y un estudio
+causa cardiovascular, A* 1·009 0,00091 Todo
+promedio diario multiciudades del APED (Air Pollution Epidemiologic Database)
+todas las edades
+Hospitalizaciones de
+MP2,5 Basado en un metaanálisis de cuatro estudios de ciudad única y un estudio
+causa respiratoria, A* 1·0019 0,0019 Todo
+promedio diario multiciudades del APED (Air Pollution Epidemiologic Database)
+todas las edades
+Fuente: Elaboración propia.
+Tabla 5-18: Funciones concentración respuesta seleccionadas para evaluar el riesgo en salud por exposición de Largo Plazo
+Métrica RR (95% CI) por Beta Rango de
+Efecto en salud Grupo Fuente de la función concentración respuesta (β)
+contaminante 10 µg/m3 utilizado concentración
+Mortalidad, todas las
+Chen J, Hoek G (2020). Long-term exposure to PM and all-cause and cause-
+MP2,5 causas menos las
+A* 1,08 0,008 Todos specific mortality: a systematic review and meta-analysis. Environ
+promedio anual externas en todas las
+Int.143:105974. doi:10.1016/j.envint.2020.105974. License: CC BY-NC-ND.
+edades
+Fuente: Elaboración propia.
+50
+================================================================================
+PAGE 55
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+5.5.5 Caracterización del riesgo
+De la revisión bibliográfica realizada al conjunto de metodologías utilizadas para evaluar efectos en salud
+debido al material particulado, la OMS en su informe HRAPIE27 y su reciente actualización de las directrices
+mundiales de calidad del aire28 recomienda evaluar el riesgo en salud para efectos agudos y crónicos que
+podrían afectar a niños y adultos, solo en aquellas categorías donde existe evidencia científica suficiente. De
+la revisión de alternativas para caracterizar la relación concentración – respuesta, en general se puede
+concluir que las metodologías han sido muy consistentes en los estudios realizados tanto a nivel internacional
+como las realizadas en nuestro país29. Para este análisis se ha utilizado el modelo recomendado por la OMS30,
+que recoge la experiencia acumulada de la EPA y de otros investigadores, del cual se aplicará el modelo de
+exposición de corto y largo plazo al material particulado y sus efectos en salud. Cabe señalar que este modelo
+también fue utilizado por Luis Cifuentes31 para el estudio realizado de la definición de la norma de MP2,5
+orientado a identificar y cuantificar los impactos en salud derivados de las emisiones de contaminantes al
+aire, lo que refuerza que esta metodología de análisis es totalmente válida para nuestro país.
+Para los efectos crónicos el número de eventos en exceso (efecto i) debido al cambio de concentración del
+contaminante k para la exposición crónica:
+Ecuación 1: Fórmula de cálculo de efectos crónicos
+Donde:
+27 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+28 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+29 Cifuentes Luis, USEPA. Cuantitative health risk assesment for particulate matter. Junio 2010, OMS-HRAPIE 2013, Cohen Estudio de
+carga atribuible (Banco Mundial).
+30 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+31 Estudio Relación de la norma de calidad primaria MP 2,5 con la norma de calidad primaria de MP 10, reporte preparado por L
+Cifuentes para la CONAMA durante el proceso de definición de la norma MP , Julio 2010.
+2,5
+51
+================================================================================
+PAGE 56
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+De igual modo, para los efectos agudos, el número de eventos en exceso (efecto i) debido al cambio de
+concentración del contaminante k se calcula en base a la siguiente fórmula:
+Ecuación 2: Fórmula de cálculo de efectos agudos
+Donde:
+52
+𝛽𝑖
+𝑇
+𝑃
+Δ 𝐸 𝑘
+𝑖𝑗
+𝑘
+Δ 𝐶 𝑘
+𝑗
+𝑎 𝑠 𝑎 𝑏 𝑎 𝑠 𝑎
+𝑜 𝑏
+𝑗
+Δ 𝐸 𝑘
+𝑖𝑗
+𝑙
+𝑖
+E s e l c a m b io e n e l n ú m e r o d e e v e n t o s c o r r e s p o n d ie n t e s a l e f e c t o i d e b id o a l
+c a m b io d e c o n c e n t r a c ió n d e l c o n t a m in a n t e k e n la s u b p o b la c ió n j d a d a u n a t a s a
+b a s a l d e in c id e n c ia p a r a e l e f e c t o i .
+E s e l c o e f ic ie n t e d e r ie s g o u n it a r io d e l e f e c t o i p r o d u c t o d e l c o n t a m in a n t e k . E n
+e s t e c a s o e l c o e f ic ie n t e n o v a r ía e n t r e lo c a lid a d e s ( s u b p o b la c io n e s ) E n g e n e r a l s i
+la s s u b p o b la c io n e s s o n g r u p o s e t a r io s e l b e t a p u e d e v a r ia r
+E s e l c a m b io d e c o n c e n t r a c ió n d e l c o n t a m in a n t e k , p a r a c a d a s u b p o b la c ió n j
+E s la t a s a d e in c id e n c ia b a s a l d e l e f e c t o i q u e s e e s t im ó a n iv e l c o m u n a l y p o r lo
+t a n t o n o v a r ía e n t r e lo c a lid a d e s ( s u b p o b la c io n e s e n n u e s t r a a p lic a c ió n )
+E s e l n ú m e r o d e p e r s o n a s d e la s u b p o b la c ió n j
+E s e l c a m b io e n e l n ú m e r o d e e v e n t o s c o r r e s p o n d ie n t e s a l e f e c t o i d e b id o a l
+c a m b io d e c o n c e n t r a c ió n d e l c o n t a m in a n t e k e n la s u b p o b la c ió n j d a d a u n a
+t a s a b a s a l d e in c id e n c ia p a r a e l e f e c t o i e n e l p e r ío d o L , h a b it u a lm e n t e a n u a l.
+================================================================================
+PAGE 57
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+La metodología considerada para evaluar el impacto en salud, debido a la exposición material particulado
+respirable corresponde a lo recomendada por la OMS-HRAPIE (Project Recommendations for concentration-
+response functions).
+Los coeficientes beta utilizados, corresponden a los validados por la Organización Mundial de la Salud (OMS)
+y derivan de los metaanálisis publicados entre 2019 y 2020, que sirvieron de base a la revisión de su última
+publicación “Air Quality Guidelines” del 2021. Estos coeficientes a su vez recogen los resultados de estudios
+epidemiológicos cuyos análisis se realizan usando modelos de regresión.
+Para los efectos agudos, la metodología de mayor consenso en la actualidad utiliza modelos GAM
+(Generalized Additive Models) en que se modela el logaritmo natural del número de eventos como variable
+respuesta, y el contaminante como exposición, más una variable offset que representa el logaritmo natural
+de la población, y variables confundentes, como splines naturales del tiempo que controlan efectos
+temporales tales como la estacionalidad, y splines naturales de la temperatura y HR.
+En el caso de los estudios de cohortes usados para estimar los efectos de la exposición crónicas se han usado
+modelos de regresión de Cox. En ambos tipos de modelos los coeficientes no son directamente
+interpretables, o dicho de otro modo los “beta” no representan una medida de efecto epidemiológico. Es la
+exponencial de los coeficientes beta la que se interpreta en el caso de los modelos GAM-Poisson como una
+razón de tasas de incidencia y en el caso de los modelos de Cox como una razón de Hazard (Peligros o Riesgos
+en distintas traducciones).
+Ambas medidas pueden entenderse como un riesgo relativo (RR). Es decir, la exponencial del “beta”
+corresponde a un RR ante el incremento en una unidad de concentración del contaminante atmosférico
+analizado. De modo que si se exponencia con base “e” el producto del coeficiente beta por el diferencial de
+las concentraciones de un contaminante entre dos escenarios, obtendremos el riesgo relativo (RR) debido al
+cambio en las concentraciones del contaminante entre el segundo escenario y el basal.
+El RR que reportan la mayoría de las agencias y publicaciones corresponde a la exponenciación del número
+trascendente e, al producto del “beta” por 10 ug/m3. Por ejemplo, el efecto en la mortalidad general menos
+causas externas, de un alza de 10 ug/m3 en la exposición crónica al contaminante PM2.5/PM10, corresponde
+a un Riesgo Relativo de 1.08/1.04 según la última estimación de la OMS (2021). Esto significa que un
+incremento de 10 ug/m3 de PM2,5 como exposición crónica promedio produce un riesgo de 1.08 veces y para
+el mismo incremento en PM10 se genera un riesgo 1.04 veces riesgo del escenario base.
+Si le restamos 1 al Riesgo Relativo obtenemos el riesgo relativo en exceso, que sigue siendo relativo al riesgo
+basal. En el ejemplo mencionado un alza de 10 ug/m3 de PM2.5 correspondería a un riesgo relativo en exceso
+de 0.08 respecto del riesgo basal, lo cual expresado en términos porcentuales corresponde a un 8% del riesgo
+basal, que habitualmente se presenta como el riesgo en exceso porcentual. El mismo análisis para el PM10
+implica que por cada alza de 10 ug/m3 se esperaría un incremento de un 8% del riesgo basal.
+53
+================================================================================
+PAGE 58
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Así, el riesgo incremental corresponde al incremento del riesgo basal para cada individuo expuesto a este
+cambio en la concentración del contaminante (MP2,5) en términos absolutos porque es una probabilidad
+denominada un riesgo incremental.
+De esta manera se considerarán los criterios recomendados por la Guía de Evaluación del Riesgo en Salud del
+SEA que se verificarán para cada contaminante o mezcla de contaminantes, con la finalidad de evaluar la
+generación o presencia de riesgo para la salud a consecuencia del Proyecto sobre todos los receptores
+sensibles identificados. La metodología resumida que se utiliza para caracterizar el riesgo en este caso se
+presenta en la siguiente figura.
+Figura 5-8: Modelo de análisis para evaluar los efectos en salud debido al material particulado respirable (MP2,5)
+Fuente: Elaboración propia.
+En este caso, para evaluar el riesgo en salud debido a la exposición de la población a las concentraciones
+modeladas del material particulado respirable (MP2,5) se calcula para cada uno de los 20 receptores
+humanos discretos y se agregan las concentraciones registrada en la estación monitora de representatividad
+poblacional Kingston College por corresponder a la estación de monitoreo más cercana a las obras del
+54
+================================================================================
+PAGE 59
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Proyecto, y encontrarse en un sector sin presencia de actividades industriales, como ocurre con los
+receptores discretos definidos.
+Los efectos de salud a estudiar se han seleccionado con base en la mayor evidencia (βetas validados
+internacionalmente OMS/EPA) e importancia del efecto en salud (HRAPIE-OMS), según se detalla en el
+capítulo 5.5.4 de Evaluación de las dosis-respuesta.
+Las tasas basales que dan cuenta del riesgo en salud de la población expuesta que se utilizan corresponde a
+las de la comuna de Penco, para el período 2015-2019 cuyos valores se presentan en la tabla siguiente. Se ha
+seleccionado ese quinquenio como representativo debido a que en los años 2020 al 2022 las tasas de
+mortalidad y hospitalizaciones se vieron fuertemente influenciadas por el COVID.
+Tabla 5-19: Tasas basales utilizadas para la caracterización del riesgo en salud por PM2,5
+Tasas basales Valor
+Mortalidad general sin causas externas período 2015-
+5,3 por 1.000 hab
+2019
+Hospitalizaciones cardiovasculares 2015-2019 0,9 por 1.000 hab
+Hospitalizaciones respiratorias 2015-2019 1,12 por 1.000 hab.
+Fuente: Elaboración propia basada en información del DEISS-Minsal.
+A continuación, se presentan los resultados de la evaluación del riesgo en salud debido a la exposición crónica
+al material particulado fino respirable (MP2,5) para el efecto adverso sobre la mortalidad general sin causas
+externas, para el año de mayores emisiones del proyecto, en cada receptor por sobre el riesgo preexistente.
+Tabla 5-20: Riesgos de mortalidad general sin causas externas para cada receptor sensible debido a la exposición
+crónica a MP2,5 del proyecto en el año 4 de operación por sobre el riesgo preexistente
+Mortalidad sin causas externas
+Receptores Promedio anual Variación del Riesgo
+RR-1%32
+de exposición absoluto33
+R_1 0,092 0,07% 3,89819E-06
+R_2 0,104 0,08% 4,42274E-06
+R_3 0,194 0,16% 8,21592E-06
+R_4 0,116 0,09% 4,91327E-06
+R_5 0,110 0,09% 4,65093E-06
+R_6 0,095 0,08% 4,03815E-06
+R_7 0,063 0,05% 2,68618E-06
+R_8 0,053 0,04% 2,25857E-06
+R_9 0,235 0,19% 9,97286E-06
+32 Corresponde al exceso de riesgo como % del riesgo basal.
+33 Cambio en el riesgo absoluto en relación al riesgo basal.
+55
+================================================================================
+PAGE 60
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Mortalidad sin causas externas
+Receptores Promedio anual Variación del Riesgo
+RR-1%32
+de exposición absoluto33
+R_11 0,798 0,64% 3,39226E-05
+R_12 0,118 0,09% 5,00809E-06
+R_13 0,131 0,11% 5,56922E-06
+R_14 0,109 0,09% 4,64059E-06
+R_15 0,106 0,08% 4,49591E-06
+R_17 0,055 0,04% 2,32605E-06
+R_25 0,009 0,01% 3,64338E-07
+R_28 0,770 0,62% 3,2758E-05
+R_29 0,222 0,18% 9,43011E-06
+R_30 0,116 0,09% 4,92716E-06
+R_31 0,063 0,05% 2,67822E-06
+R_32 0,798 0,64% 3,39581E-05
+Fuente: Elaboración propia.
+La evaluación del riesgo en salud debido a la exposición crónica al material particulado respirable (MP2,5)
+considerando la mortalidad general menos causas externas, da cuenta de que el riesgo absoluto atribuible al
+Proyecto presenta incrementos del orden de 10-5 para los receptores R_11, R_28 y R_32.
+En los receptores R_3, R_9 y R_29 el riesgo absoluto esperado si bien se mantiene en el orden de 10-6 ,
+aparentemente los valores presentados están muy cerca del 10-5; .sin embargo en ellos el promedio anual de
+exposición atribuible al Proyecto es 1/3 o menos de lo observado para R_11, R_28 y R_32. Por lo que el
+riesgo absoluto esperado en R_3 es un 24%, en R_9 es un 29% y en R_29 es un 28% del riesgo absoluto
+esperado para los receptores destacados ( R_11, R_28 y R_32).
+La evaluación del riesgo en salud debido a la exposición aguda al material particulado respirable (MP2,5)
+analiza los potenciales efectos adversos hospitalizaciones de causas cardiovasculares y respiratorias, cuyos
+resultados se presentan a continuación. En el caso de hospitalizaciones respiratorias el riesgo absoluto
+atribuible al Proyecto presenta incrementos de riesgo en salud del orden de 10-5 para los mismos receptores
+R_11, R_28 y R_32.
+56
+================================================================================
+PAGE 61
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-21: Riesgos de efectos adversos para cada receptor sensible debido a la exposición aguda a MP2,5
+Escenario sin medidas
+Hospitalizaciones Hospitalización
+Receptores Promedio Cardiovasculares Respiratorias
+exposición34 Var del Var del
+RR-1 %35 RR-1 %37
+(ug/m3) riesgo abs36 riesgo abs38
+R_1 9,19E-02 0,01% 7,53E-07 0,02% 1,92E-06
+R_2 1,04E-01 0,01% 8,54E-07 0,02% 2,18E-06
+R_3 1,94E-01 0,02% 1,59E-06 0,04% 4,05E-06
+R_4 1,16E-01 0,01% 9,49E-07 0,02% 2,42E-06
+R_5 1,10E-01 0,01% 8,98E-07 0,02% 2,29E-06
+R_6 9,52E-02 0,01% 7,80E-07 0,02% 1,99E-06
+R_7 6,33E-02 0,01% 5,19E-07 0,01% 1,32E-06
+R_8 5,33E-02 0,00% 4,36E-07 0,01% 1,11E-06
+R_9 2,35E-01 0,02% 1,92E-06 0,04% 4,91E-06
+R_11 7,98E-01 0,07% 6,53E-06 0,15% 1,67E-05
+R_12 1,18E-01 0,01% 9,67E-07 0,02% 2,47E-06
+R_13 1,31E-01 0,01% 1,08E-06 0,02% 2,74E-06
+R_14 1,09E-01 0,01% 8,96E-07 0,02% 2,29E-06
+R_15 1,06E-01 0,01% 8,68E-07 0,02% 2,22E-06
+R_17 5,48E-02 0,00% 4,49E-07 0,01% 1,15E-06
+R_25 8,59E-03 0,00% 7,04E-08 0,00% 1,80E-07
+R_28 7,70E-01 0,07% 6,31E-06 0,15% 1,61E-05
+R_29 2,22E-01 0,02% 1,82E-06 0,04% 4,65E-06
+R_30 1,16E-01 0,01% 9,51E-07 0,02% 2,43E-06
+R_31 6,31E-02 0,01% 5,17E-07 0,01% 1,32E-06
+R_32 7,98E-01 0,07% 6,54E-06 0,15% 1,67E-05
+Fuente: Elaboración propia.
+Cuando se evalúa el riesgo por exposición a compuestos cancerígenos las agencias regulatorias, tales como
+Health Canadá y la Environmental Protection Agency de Estados Unidos (U.S. EPA), se reconoce que cualquier
+nivel de exposición distinto de cero está asociado con algún riesgo de cáncer. Por ello, estas agencias
+internacionales han definido el nivel de riesgo que se podría considerar aceptable o tolerable. Al respecto
+todas las agencias coinciden en que un nivel de riesgo de 10-6 como el nivel de riesgo incremental considerado
+como “esencialmente cero” o nivel de riesgo aceptable. Por otra parte, también las agencias coinciden en
+34 El promedio de exposición diario es igual al promedio de exposición anual, debido a que las tasas basales diarias son
+iguales (no existe información respecto de la variación de las tasas basales) y adicionalmente el βeta diario es muy
+pequeño por lo cual no modifica el resultado. Ver Ecuación 2.
+35 Corresponde al exceso de riesgo como % del riesgo basal
+36 Cambio en el riesgo absoluto en relación al riesgo basal.
+37 Corresponde al exceso de riesgo como % del riesgo basal
+38 Cambio en el riesgo absoluto en relación al riesgo basal.
+57
+================================================================================
+PAGE 62
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+que entre un riesgo absoluto en salud del orden de 10-4 a 10-6 podría ser considerado un “riesgo en salud
+aceptable dependiendo de la situación y circunstancias de exposición”.
+De acuerdo a los resultados que se presentan es posible asumir que únicamente para los receptores R-11,
+R_28 y R-32, todos receptores discretos definidos como viviendas únicas o aisladas, será necesario considerar
+que la exposición a MP2,5, asumiendo la circunstancia administrativa de corresponder a una “zona saturada”,
+podría generar un riesgo a la salud para eventos de exposición crónica más allá de lo aceptable. En el caso de
+efectos agudos, es posible descartar el riesgo en hospitalizaciones cardiovasculares, ya que todos los riesgos
+absolutos esperados se encuentran bajo el nivel de 10-6, pero se mantiene un nivel de riesgo para
+hospitalizaciones respiratorias en los mismos receptores. Estos resultados son consistentes con el
+documento de criterios del SEA porque en estos receptores humanos se confirma la superación de los valores
+de significancia para el aumento de concentraciones de MP2,5 sobre receptores humanos en un período
+igual o mayor a 3 años39 en zona saturada para MP2,5.
+Es importante confirmar que para todos los demás receptores humanos que se encuentran en el área de
+influencia del Proyecto, la exposición al MP2,5 no genera riesgo a la salud de la población debido a la
+ejecución del Proyecto, considerando el año de mayor exposición.
+En conclusión, cabe precisar que el efecto evaluado está acotado espacialmente a los 3 puntos específicos
+(receptores R-11, R_28 y R-32, todos receptores discretos definidos como viviendas únicas o aisladas), los
+demás receptores cercanos al proyecto se verán favorecidos con las medidas de control de emisiones
+comprometidas y no se presentará en otros receptores ni en la zona urbana de Penco ni en otras zonas donde
+habite población.
+Ahora bien, el Proyecto considera dentro de su diseño la aplicación de supresor en todos los caminos internos
+que no cuenten con carpeta asfáltica, y la implementación de una carpeta asfáltica desde el acceso a la ZD
+Neptuno hasta el interior de la planta de proceso. Por su parte, el proyecto “Continuidad Operacional Centro
+de Manejo de Residuos de Concepción” (CEMARC), considera para su fase de operación la utilización de un
+camino de acceso desde la Ruta 150 hasta el acceso a CEMARC, en donde fue contemplada la humectación
+de este camino y la aplicación de supresor en aproximadamente 750 metros desde la Ruta 150, y en los 750
+metros previos al ingreso a CEMARC. Este camino se encuentra dentro de las rutas a utilizar por el presente
+Proyecto; por lo tanto la mejoras en la carpeta de rodado, que consideran la aplicación de supresor en todos
+los caminos que no posean una carpeta asfáltica, y la implementación de una carpeta asfáltica desde el
+acceso a la ZD Neptuno, y hasta el acceso a CEMARC, generarán una reducción en las emisiones que serán
+generadas por el proyecto “Continuidad Operacional Centro de Manejo de Residuos de Concepción” respecto
+de las emisiones a que se refiere su respectiva aprobación ambiental.
+39 Tabla 1 documento: “Criterio de evaluación en el SEIA: Impacto de emisiones en zonas saturadas por
+material particulado respirable MP10 y material particulado fino respirable MP2,5”.
+58
+================================================================================
+PAGE 63
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+En concordancia con lo anterior, a continuación, se presenta la reducción de las concentraciones de MP2,5
+en cada receptor humano y en la estación Kingston College producto de la mejora en la carpeta de rodado
+del tramo del camino de acceso desde el acceso de la Ruta 150 hasta el acceso a CEMARC. El Anexo 7-2
+presenta la estimación de reducción de emisiones y los resultados de la modelación en aportes en la calidad
+del aire producto de esta mejora.
+Tabla 5-22: Concentración estimada de MP10 y MP2,5 en cada receptor después de las medidas
+ID MP10 µg/m3N MP2,5 µg/m3N
+24h Anual 24h Anual
+R_1 0,209 0,043 0,029 0,006
+R_2 0,186 0,042 0,027 0,006
+R_3 0,343 0,054 0,041 0,007
+R_4 0,220 0,035 0,027 0,005
+R_5 0,215 0,034 0,027 0,005
+R_6 0,183 0,031 0,023 0,005
+R_7 0,123 0,025 0,017 0,004
+R_8 0,114 0,022 0,017 0,003
+R_9 1,146 0,167 0,129 0,018
+R_11 5,519 1,055 0,561 0,095
+R_12 0,309 0,086 0,045 0,014
+R_13 0,296 0,099 0,049 0,016
+R_14 0,294 0,085 0,049 0,014
+R_15 0,253 0,069 0,039 0,012
+R_17 0,301 0,041 0,041 0,006
+R_25 0,051 0,005 0,008 0,001
+R_28 5,741 1,021 0,621 0,099
+R_29 1,088 0,156 0,125 0,017
+R_30 0,206 0,028 0,028 0,004
+R_31 0,237 0,034 0,034 0,005
+R_32 4,860 0,923 0,606 0,093
+Fuente: Resultados del análisis de modelación de calidad del aire del Proyecto.
+A partir de estos resultados, se presenta la evaluación en los receptores humanos que presentan un mayor
+riesgo en salud debido a la ejecución del proyecto, incorporando la medida de control ambiental propuesta
+por el titular, que para efectos del riesgo en salud será considerada como medida de mitigación ya que para
+esos receptores se reducen los efectos potenciales sobre la salud.
+59
+================================================================================
+PAGE 64
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-23: Riesgos de efectos adversos para cada receptor sensible debido a la exposición crónica y aguda a MP2,5 con las medidas comprometidas
+Escenario con las medidas de asfaltado y aplicación de supresor
+Promedio Mortalidad sin causa Hospitalizaciones Hospitalización
+Receptores Compensación variación externa Cardiovasculares Respiratorias
+asfalto exposición
+RR-1 % Riesgo abs RR-1 % Riesgo abs RR-1 % Riesgo abs
+(ug/m3)
+R_1 0,006 8,55E-02 0,07% 3,63E-06 0,01% 7,00E-07 0,02% 1,79E-06
+R_2 0,006 9,82E-02 0,08% 4,17E-06 0,01% 8,04E-07 0,02% 2,05E-06
+R_3 0,007 1,86E-01 0,15% 7,90E-06 0,02% 1,52E-06 0,04% 3,89E-06
+R_4 0,005 1,11E-01 0,09% 4,70E-06 0,01% 9,07E-07 0,02% 2,32E-06
+R_5 0,005 1,05E-01 0,08% 4,44E-06 0,01% 8,58E-07 0,02% 2,19E-06
+R_6 0,005 9,07E-02 0,07% 3,85E-06 0,01% 7,43E-07 0,02% 1,90E-06
+R_7 0,004 5,96E-02 0,05% 2,53E-06 0,01% 4,88E-07 0,01% 1,25E-06
+R_8 0,003 4,99E-02 0,04% 2,12E-06 0,00% 4,09E-07 0,01% 1,04E-06
+R_9 0,018 2,17E-01 0,17% 9,22E-06 0,02% 1,78E-06 0,04% 4,54E-06
+R_11 0,095 7,02E-01 0,56% 2,99E-05 0,06% 5,76E-06 0,13% 1,47E-05
+R_12 0,014 1,04E-01 0,08% 4,40E-06 0,01% 8,49E-07 0,02% 2,17E-06
+R_13 0,016 1,15E-01 0,09% 4,87E-06 0,01% 9,41E-07 0,02% 2,40E-06
+R_14 0,014 9,49E-02 0,08% 4,03E-06 0,01% 7,78E-07 0,02% 1,98E-06
+R_15 0,012 9,39E-02 0,08% 3,98E-06 0,01% 7,69E-07 0,02% 1,96E-06
+R_17 0,006 4,87E-02 0,04% 2,07E-06 0,00% 3,99E-07 0,01% 1,02E-06
+R_25 0,001 7,74E-03 0,01% 3,28E-07 0,00% 6,34E-08 0,00% 1,62E-07
+R_28 0,099 6,71E-01 0,54% 2,85E-05 0,06% 5,50E-06 0,13% 1,40E-05
+R_29 0,017 2,05E-01 0,16% 8,72E-06 0,02% 1,68E-06 0,04% 4,29E-06
+R_30 0,004 1,12E-01 0,09% 4,75E-06 0,01% 9,18E-07 0,02% 2,34E-06
+R_31 0,005 5,82E-02 0,05% 2,47E-06 0,01% 4,76E-07 0,01% 1,22E-06
+R_32 0,093 7,05E-01 0,57% 3,00E-05 0,06% 5,78E-06 0,13% 1,47E-05
+Fuente: Resultados del análisis de modelación de calidad del aire del Proyecto.
+60
+================================================================================
+PAGE 65
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Si bien existe una reducción del riesgo en salud considerando la medida comprometida, el efecto en términos
+de reducción del riesgo en salud mantiene un aporte del orden de 10-5 para los receptores humanos R-11,
+R_28 y R_32.
+En consideración a lo anterior, para el presente Proyecto se ha considerado evaluar los efectos sobre la salud
+de esos receptores que tendría la implementación de una medida adicional a todas las anteriores, consistente
+en la sustitución del uso de estufas y cocinas a leña por equipos que utilicen electricidad en esas tres viviendas
+(receptores). Cabe señalar que si el cambio fuera utilizar GLP el efecto también sería considerable debido a
+la reducción de NOx e hidrocarburos en la contaminación interior del hogar.
+Cabe señalar que existe una nutrida evidencia respecto de que las estufas de leña pueden ser fuentes
+importantes de contaminación del aire en comunidades de clima frío, emitiendo compuestos tóxicos
+conocidos, incluidos compuestos poliaromáticos, benceno, aldehídos, monóxido de carbono, óxidos de
+nitrógeno y partículas respirables40.
+El presenta análisis se basa en los estudios de Héctor Jorquera realizados en Temuco41, coincidentes con
+otros estudios internacionales42, que permitieron estimar las concentraciones medias de MP2,5 al interior
+(indoor) y fuera (outdoor) de las viviendas, se ha decidido utilizar la contribución indoor de MP2,5 del uso de
+estufa-cocina a leña como el mejor estimador para evaluar el efecto que podría tener la sustitución del uso
+de estufa/cocina a leña en estos receptores en el riesgo a la salud.
+Este estudio se realizó en 63 hogares de la zona urbana de Temuco durante la temporada invernal, desde el
+21 de julio y el 16 de septiembre del 2017. A continuación, se presenta un breve análisis comparado del
+comportamiento de las temperaturas durante el año 2023 entre las ciudades de Temuco (donde se realizó el
+estudio) y el área del Gran Concepción (donde se implementará el proyecto en evaluación). En este estudio
+se determinaron las concentraciones medias de PM2,5 en interiores y exteriores de 38.3 ± 4.4 µg/m3,
+respectivamente. Utilizando un enfoque simple de balance de masas, las contribuciones medias en interiores
+y exteriores a las concentraciones de MP2.5 se estimaron en 17,5 y 38 µg/m3, respectivamente.
+Por lo cual, a partir de este estudio, se ha estimado que en invierno el uso de cocina a leña contribuye en
+17,5 µg/m3 a las concentraciones de MP2,5 del hogar.
+Utilizando un escenario conservador que considera el beneficio del cambio de combustible solo en los días
+fríos y mantiene las condiciones de exposición de MP2,5 intradomiciliaria sin variación en el resto del año, se
+40 Fairley, 1999; Hales et al., 2000; Lipsett et al., 1997; Mcgowan et al., 2002; Sanhueza et al., 2009; Schwartz et al.,
+1993; Boman et al., 2003, Naeher et al., 2007.
+41 Indoor PM2.5 in an urban zone with heavy wood smoke pollution: The case of Temuco, Chile. H.Jorquera y col.
+https://doi.org/10.1016/j.envpol.2018.01.085
+42 Residential indoor PM2.5 in wood stove homes: follow-up of the Libby changeout program. Indoor Air 2012; 22: 492–
+500 wileyonlinelibrary.com/journal/ina,
+61
+================================================================================
+PAGE 66
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+revisa y analiza el comportamiento de las temperaturas en el Gran Concepción para lo cual se recurre a una base
+de data validada internacionalmente “Weather Spark” que cuenta con una data histórica importante y permite
+comparar variables meteorológicas durante todo el año en cualquier lugar del mundo; para ello, se realiza
+preliminarmente una comparación entre el comportamiento de las temperaturas entre Temuco (donde se realizó
+el estudio de H Jorquera) y el Gran Concepción.
+Este informe43 que muestra la evolución de las temperaturas en el Gran Concepción y Temuco, considerando
+la tabla comparativa de temperaturas máximas y mínimas registradas en todos los meses de año y el gráfico
+siguiente, muestra que en general las temperaturas del Gran Concepción son un poco más altas que las de
+Temuco con un mayor pronunciamiento en términos de los cambios estacionales primavera-verano versus
+otoño-invierno.
+Tabla 5-24: Temperaturas máximas y mínimas registradas en Concepción y Temuco durante los meses del año 2023
+Nota: La temperatura promedio diaria del aire a 2 metros sobre la tierra.
+Figura 5-9: Temperaturas registradas en Concepción y Temuco 2023
+Según se indica la página Weather Spark en el Gran Concepción, los veranos son más secos y mayormente
+despejados y los inviernos son largos, fríos, más lluviosos y parcialmente nublados. Durante el transcurso del
+43 Los datos para este informe provienen del Aeropuerto Internacional Carriel Sur y de un conjunto de estaciones
+meteorológicas cercanas. https://es.weatherspark.com/compare/y/24147~25123/Comparaci%C3%B3n-del-tiempo-
+promedio-en-Concepci%C3%B3n-y-Temuco
+62
+T e m
+T e m
+p
+p
+e ra tu ra s M
+C o n c e p c ió
+T e m u c o
+e ra tu ra s M
+C o n c e p c ió
+T e m u c o
+á x im
+n
+ín im
+n
+a
+a
+s
+s
+e n e .
+2 3 °C
+2 4 °C
+e n e .
+1 2 °C
+1 0 °C
+22
+11
+fe b .
+3 °C
+4 °C
+fe b .
+1 °C
+0 °C
+m2
+1
+2 2m1
+08
+a r.
+°C
+°C
+a r.
+°C
+°C
+11
+a87a97 b r.
+°C
+°C
+b r.
+°C
+°C
+m11m a y .
+5 °C
+4 °C
+a y .
+8 °C
+6 °C
+11
+ju n .
+3 °C
+2 °C
+ju n .
+7 °C
+5 °C
+11
+ju l.
+3 °C
+1 °C
+ju l.
+6 °C
+4 °C
+a g o .
+1 4 °C
+1 3 °C
+a g o .
+6 °C
+4 °C
+se
+1 5
+1 5
+se75
+p t.
+°C
+°C
+p t.
+°C
+°C
+11
+o77o86 c t.
+°C
+°C
+c t.
+°C
+°C
+n o v .
+1 9 °C
+1 9 °C
+n o v .
+9 °C
+8 °C
+22
+1
+d ic .
+1 °C
+1 °C
+d ic .
+1 °C
+9 °C
+================================================================================
+PAGE 67
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+año 2023, la temperatura varió de 6 °C a 23 °C y la tendencia que se confirma es que las temperaturas rara
+vez bajan a menos de 1 °C o suben a más de 26 °C. En general, la temporada templada dura 3,3 meses, del 8
+de diciembre al 18 de marzo, y la temperatura máxima promedio diaria es más de 21 °C. El mes más cálido
+del año en el Gran Concepción es enero, con una temperatura máxima promedio de 23 °C y mínima de 12 °C.
+La temporada fresca dura 3,7 meses (aproximadamente 113 días), del 20 de mayo al 9 de septiembre, y la
+temperatura máxima promedio diaria es menos de 15 °C. El mes más frío del año en el Gran Concepción es
+julio, con una temperatura mínima promedio de 6 °C y máxima de 13 °C (ver Figura 5-10).
+Figura 5-10: Temperaturas máximas y mínimas en Concepción
+En virtud de los antecedentes presentados a continuación se realiza la evaluación del riesgo en salud
+considerando la sustitución de cocina a leña en los tres receptores humanos (R-11, R_28 y R_32).
+El análisis considerando que esta sustitución de combustibles eliminará completamente las emisiones de
+material particulado según lo estimado por el estudio de H. Jorquera durante todos los días fríos y en el resto
+del año no generará ninguna reducción de los aportes actuales44 sin perjuicio que el uso de cocina de cero
+emisión durante todo el año genera una mejora sustantiva en el ámbito intradomiciliario aspecto que está
+ampliamente reportado en la literatura internacional, especialmente en lo relativo a disminución de NOx en caso
+que el combustible utilizado sea gas licuado de petróleo. A continuación, se presentan los resultados esperados
+en los receptores en los cuales se propone implementar esta medida.
+44 Se consideró el mismo período del estudio realizado por H. Jorquera que en días corresponde al 31% del año (131
+días).
+63
+================================================================================
+PAGE 68
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Tabla 5-25: Riesgos en salud para cada receptor sensible debido a la exposición crónica a MP2,5 después de la
+compensación por sustitución de estufa/cocina a leña respecto del riesgo preexistente
+Escenario con medidas +cambio estufa/cocina
+Compensación Promedio variación
+Receptores Mortalidad sin causas externas
+estufa/cocina* exposición45
+(ug/m3) RR-1%46 Variación del Riesgo absoluto47
+R_11 5,41 -4,71E+00 -3,70% -1,96E-04
+R_28 5,41 -4,74E+00 -3,72% -1,97E-04
+R_32 5,41 -4,71E+00 -3,70% -1,96E-04
+Nota: * El promedio anual de la compensación considera que se eliminará completamente la contaminación por particulado los días fríos y
+nada el resto de los días
+Tabla 5-26: Riesgos en salud para cada receptor sensible debido a la exposición aguda a MP2,5 después de la
+compensación por sustitución de estufa/cocina a leña respecto del riesgo preexistente
+Receptores Escenario con medidas +cambio estufa/cocina
+Compensación Promedio Hospitalizaciones Hospitalización
+estufa/cocina* variación Cardiovasculares Respiratorias
+exposición48
+Variación del Variación del
+(ug/m3) RR-1%49 Riesgo RR-1%51 Riesgo
+absoluto50 absoluto52
+R_11 5,41 -4,71E+00 -0,43% -3,85E-05 -0,89% -9,80E-05
+R_28 5,41 -4,74E+00 -0,43% -3,88E-05 -0,90% -9,87E-05
+R_32 5,41 -4,71E+00 -0,43% -3,85E-05 -0,89% -9,80E-05
+Nota: * La exposición a MP2,5 considera que se eliminará completamente la contaminación por particulado los días fríos y nada el resto de
+los días
+En base al análisis realizado es posible concluir que en un escenario de reducción de emisiones de MP2,5 al
+aplicar la medida de sustitución de las estufas/cocina a leña o GLP en las tres viviendas, se podría observar
+un efecto de protección de la salud de estos habitantes, ya que tanto para la exposición crónica como en la
+exposición aguda se reduce la exposición más allá de la situación basal. Es decir, estas medidas implicarán
+una mejora en cuanto a la calidad del aire a la cual están expuestos actualmente las personas que habitan
+las viviendas en estos 3 receptores.
+Este análisis complementa lo ya presentado en el capítulo 5.4 que de acuerdo a la modelación realizada
+señala que en todos los receptores discretos ubicados en el área de influencia del Proyecto, el aporte de
+45 Corresponde al cambio en la exposición debido al proyecto incluidas todas las medidas
+46 Corresponde a la reducción del riesgo como % del riesgo basal.
+47 Cambio en el riesgo absoluto en relación al riesgo basal.
+48 Ídem 37
+49 Corresponde a la reducción del riesgo como % del riesgo basal.
+50 Cambio en el riesgo absoluto en relación al riesgo basal.
+51 Corresponde a la reducción del riesgo como % del riesgo basal.
+52 Cambio en el riesgo absoluto en relación al riesgo basal.
+64
+================================================================================
+PAGE 69
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+material particulado fino respirable (MP2,5) basado en el año de mayores emisiones (año 4 de operación) no
+supera los límites establecidos en las normas primarias de calidad nacional.
+5.6 ANÁLISIS DE INCERTIDUMBRE
+Entre las fuentes de incertidumbre de la presente evaluación, es posible destacar:
+a. Sesgos en la modelación CALPUFF de las concentraciones a partir de los excesos de emisiones
+registradas. En general se acepta que el modelo tiende a sobreestimar las concentraciones horarias
+máximas de manera que podrían sesgar los efectos hacia estimaciones superiores a las reales. Dado
+que, en este caso, se confirma que no hay efectos significativos en salud este sesgo asegura y entrega
+mayor robustez a estas conclusiones.
+b. El análisis indica que lo más probable es que las estimaciones sobrestimen los efectos al utilizar
+coeficientes βetas que provienen de estudios en ciudades europeas y norteamericanas que
+presentan una contaminación ambiental por material particulado menor a las observadas en nuestro
+país. En el documento HRAPIE se advierte que los coeficientes beta son mayores en las ciudades con
+menores concentraciones reduciéndose conforme aumenta la concentración de MP2,5. Esto podría
+tener implicancias en este estudio, ya que es probable que el beta y el consecuente riesgo relativo
+sea menor, lo cual confirma que se ha aplicado un análisis conservador.
+c. Por último, está la incertidumbre que podría existir si la elección del año para el cual se establece la
+situación base no es suficientemente representativa de la situación basal de salud y por lo tanto los
+aportes del Proyecto se minimicen. Por otra parte, es probable que los años de pandemia por COVID
+también generen un punto de partida que no será representativo de los efectos que el Proyecto
+generará en el futuro. Por ello, se ha utilizado la data de efectos en salud del período 2015-2019 para
+constituir el escenario base.
+d. Si se considera que para el año 4 de la fase de operación de mayores emisiones que debieran estar
+implementadas las medidas comprometidas por CEMARC en los caminos del sector donde se
+encuentran los receptores que presentan una mayor exposición al riesgo en salud, el punto de
+partida del análisis debiera corresponder a una condición de calidad del aire sustantivamente
+mejorada respecto del análisis realizado, como se muestra en la siguiente tabla.
+Tabla 5-27: Reducción de emisiones comprometidas por CEMARC el año 4 de operación del presente Proyecto
+ESCENARIO ACTUAL ESCENARIO PROYECTO CEMARC DELTA EMISIONES CEMARC
+Receptor
+Receptor GAC
+CEMARC MP10 MP2,5 MP10 MP2,5 MP10 MP2,5
+24h Anual 24h Anual 24h Anual 24h Anual 24h Anual 24h Anual
+R_11 R2 32,52 8,17 3,4 0,83 19,49 4,93 2,38 0,59 -13,03 -3,24 -1,02 -0,24
+R_28 R3 24,34 5,95 2,54 0,61 18,25 4,43 2,17 0,52 -6,09 -1,52 -0,37 -0,09
+R_29 R4 26,77 2,65 2,92 0,29 21,59 3,89 3,19 0,6 -5,18 1,24 0,27 0,31
+R_30 R5 111,46 15,43 11,3 1,57 23,72 3,3 2,52 0,36 -87,74 -12,13 -8,78 -1,21
+R_31 R6 35,49 4,78 3,6 0,49 9,09 1,16 0,96 0,13 -26,4 -3,62 -2,64 -0,36
+R_14 R7 2,09 0,5 0,24 0,06 2,06 0,46 0,24 0,059 -0,03 -0,04 0 -0,001
+R_25 Estación Kingston College 0,52 0,032 0,053 0,0035 0,44 0,024 0,047 0,0029 -0,08 -0,008 -0,006 -0,0006
+65
+================================================================================
+PAGE 70
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+Fuente elaboración GAC con información del proyecto Continuidad Operacional Centro de Manejo de Residuos Concepción.
+CEMARC aprobado por RCA N': 202308101534 — Fecha: 30/11/2023
+6 CONCLUSIONES
+Sobre la base de los resultados de la modelación de calidad del aire relacionadas con las emisiones del
+Proyecto, que representan la concentración ambiental a la cual podrían estar expuestos los receptores
+discretos que se encuentran en su área de influencia, es posible concluir que los aportes del Proyecto en el
+año de mayores emisiones no superan los límites de las normas primarias de calidad del aire nacional en
+concentración y período, en todos los receptores.
+Los resultados del análisis presentado en el capítulo 5.4 Evaluación de la generación de riesgo para la salud
+de la población, se confirman que para todos los receptores discretos identificados en el área de influencia
+del Proyecto, no se superan las normas primarias de calidad ambiental (en concentración y período) para
+PM10 y gases (CO, NO , SO ), confirmando que en todos los receptores humanos y para todos estos
+2 2
+contaminantes no se supera el límite normado por lo tanto se concluye que el Proyecto mantiene la condición
+de “riesgo aceptable” y, en consecuencia, para estos contaminantes, el Proyecto no genera riesgo para la
+salud de la población.
+Sin embargo, dado que toda el área se encuentra formal y administrativamente declarada saturada para
+MP2,5, como lo indica la nueva guía y el documento criterios, igualmente se evalúa si el Proyecto aumenta la
+probabilidad de generar un efecto adverso sobre la salud de las personas, asumiendo la existencia de un riesgo
+preexistente en estos receptores.
+Así, siguiendo las directrices de la nueva guía se toma como punto de partida, su Escenario N°1 (punto 3.1.1)
+que indica que se debe evaluar si los aportes del Proyecto respecto de MP2,5 por sobre la situación actual y
+los aportes de otros proyectos con RCA vigente que no se han ejecutado a la fecha, pudieran generar efectos
+que configuran el supuesto de la letra a) del artículo 11 de la Ley N°19.300.
+Como lo indica la nueva guía, se analizan los efectos en la salud de la población humana debido a la exposición
+a MP2,5 para cada receptor humano en el área de influencia del Proyecto, para el año 4 de la fase de
+operación, que corresponde al año con mayores emisiones esperadas, de todo el Proyecto.
+De la revisión bibliográfica realizada al conjunto de metodologías utilizadas para evaluar efectos en salud
+debido al material particulado, la OMS en su informe HRAPIE53 y su reciente actualización de las directrices
+mundiales de calidad del aire54 recomienda evaluar el riesgo en salud para efectos agudos (hospitalizaciones
+53 Health risks of air pollution in Europe – HRAPIE Project Recommendations for concentration–response
+functions for cost–benefit analysis of particulate matter, ozone and nitrogen dioxide. 2013.
+54 WHO Global Air Quality Guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide
+and carbon monoxide. 2021
+66
+================================================================================
+PAGE 71
+================================================================================
+Anexo 5.1
+Evaluación ambiental del riesgo a la salud
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras
+cardiovasculares y respiratorias) y crónicos (donde el efecto que mejor da cuenta del riesgo a la salud es la
+mortalidad general menos causas externas), ya que en estas categorías es donde existe evidencia científica
+suficiente.
+Cuando se evalúa el riesgo por exposición a compuestos cancerígenos las agencias regulatorias, tales como
+Health Canadá y la Environmental Protection Agency de Estados Unidos (U.S. EPA), se reconoce que cualquier
+nivel de exposición distinto de cero está asociado con algún riesgo de cáncer. Por ello, estas agencias
+internacionales han definido el nivel de riesgo que se podría considerar aceptable o tolerable. Al respecto
+todas las agencias coinciden en que un nivel de riesgo de 10-6 como el nivel de riesgo incremental considerado
+como “esencialmente cero” o nivel de riesgo aceptable. Por otra parte, también las agencias coinciden en
+que entre un riesgo absoluto en salud del orden de 10-4 a 10-6 podría ser considerado un riesgo en salud
+aceptable dependiendo de la situación y circunstancias de exposición”.
+En este caso, asumiendo la condición de “zona saturada” donde la operación del Proyecto podría generar un
+riesgo a la salud para eventos de exposición crónica y aguda más allá de lo aceptable, debido a que en los
+receptores R-11, R_28 y R_32, el riesgo en salud de la operación del Proyecto en el año de mayores emisiones
+genera un riesgo absoluto del orden de 10-5,, se evalúan los resultados que podrían obtenerse con la
+implementación de medidas de compensación (asfaltado y sustitución del uso de leña como combustible
+para cocina/estufa).
+Los resultados permiten concluir que agregando la medida de sustitución de las estufas/cocina a leña
+artefactos de cero emisión (eléctricos) en estos tres receptores, se podría observar un efecto de protección
+de la salud de estos habitantes, ya que tanto para la exposición crónica como en la exposición aguda la
+reducción esperada podría obtener incluso una situación de mejoría de la situación basal.
+Cabe finalmente señalar que los resultados de la presente evaluación del riesgo en salud confirman que en
+todos los demás receptores humanos y en la estación de monitoreo Kingston College, la implementación del
+Proyecto en el año de mayores emisiones (año 4 de la operación) todos estarían expuestos a riesgos a la
+salud para efectos crónicos y agudos “aceptables”, ya que todos los riesgos absolutos esperados se
+encuentran bajo el nivel de 10-6.
+67

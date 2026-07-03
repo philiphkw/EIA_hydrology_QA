@@ -1,0 +1,858 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 1-5
+Plan de mantención de caminos
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+PROYECTO DE DESARROLLO MINERO DE EXTRACCIÓN DE
+ARCILLAS PARA PRODUCCIÓN DE CONCENTRADO DE TIERRAS
+RARAS
+Plan de Mantenimiento Vial Caminos Pavimentados
+y No Pavimentados
+0 18-01-2024 Emisión PR
+B 17-01-2024 Emisión PR VF
+REALIZADO REVISADO APROBADO
+REV. FECHA MOTIVO DE EMISIÓN
+POR POR POR
+ACLARA PAG. 1 de 17
+REV.
+BL-ENG-CSA-REP-002
+0
+E E s s t t e e d d o o c c u u m m e e n n t t o o e e s s p p r r o o p p i i e e d d a a d d d d e e R R E E E E U U N N O O S S P P A A . . S S e e p p r r o o h h í í b b e e s s u u r r e e p p r r o o d d u u c c c c i i ó ó n n y y e e x x h h i i b b i i c c i i ó ó n n s s i i n n e e l l 1 de 16
+c
+c
+o
+o
+n
+n
+s
+s
+e
+e
+n
+n
+t
+t
+i
+i
+m
+m
+i
+i
+e
+e
+n
+n
+t
+t
+o
+o
+d
+d
+e
+e
+R
+R
+E
+E
+E
+E
+U
+U
+N
+N
+O
+O
+S
+S
+P
+P
+A
+A
+.
+.
+E
+E
+l
+l
+d
+d
+o
+o
+c
+c
+u
+u
+m
+m
+e
+e
+n
+n
+t
+t
+o
+o
+,
+,
+u
+u
+n
+n
+a
+a
+v
+v
+e
+e
+z
+z
+i
+i
+m
+m
+p
+p
+r
+r
+e
+e
+s
+s
+o
+o
+s
+s
+e
+e
+c
+c
+o
+o
+n
+n
+s
+s
+i
+i
+d
+d
+e
+e
+r
+r
+a
+a
+u
+u
+n
+n
+a
+a
+c
+c
+o
+o
+p
+p
+i
+i
+a
+a
+c
+c
+o
+o
+n
+n
+t
+t
+r
+r
+o
+o
+l
+l
+a
+a
+d
+d
+a
+a
+y
+y
+puede ser obsoleta. Procure consultar la revisión actual.
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 3
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Índice
+Índice .................................................................................................................... 2
+1. Objetivo .......................................................................................................... 4
+2. Alcance ........................................................................................................... 4
+3. Desarrollo ........................................................................................................ 4
+3.1. Mantención de Caminos con Motoniveladora .................................................................. 4
+3.2. Mantención de obras de saneamiento de aguas lluvias con Retroexcavadora ................ 8
+3.3. Mantención de Caminos con Cuadrilla de trabajadores ................................................. 12
+3.4. Mantención en Caminos Pavimentados .......................................................................... 13
+4. Programa de Mantención ..................................................................................... 14
+5. Esquema Gráfico Ejecución de Trabajos de Mantenimiento .......................................... 16
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 2 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 4
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+índice de Figuras
+Figura 1 - Caminos Pavimentados y No Pavimentados del Proyecto. ........................................... 4
+Figura 2 - Procedimiento Esquemático Perfilado de Caminos . .................................................... 6
+Figura 3 - Procedimiento Esquemático Reconformación de Caminos .......................................... 7
+Figura 4 - Procedimiento Esquemático Mejoramiento de Caminos ............................................. 8
+Figura 5 - Limpieza y habilitación de fosos con Retroexcavadora ................................................ 9
+Figura 6 - Foso Decantador Saturado. ......................................................................................... 10
+Figura 7 - Ejemplos de Derrumbes. ............................................................................................. 11
+Figura 8 - Obras de Drenaje en Caminos . ................................................................................... 13
+Figura 9 - Esquema Ejecución de Trabajos de Mantención en Caminos. .................................... 17
+índice de Tablas
+Tabla 1 - Frecuencia Plan de Mantención .................................................................................. 16
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 3 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 5
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+1. Objetivo
+El objetivo de este informe es explicar la metodología para la ejecución del Mantenimiento
+vial de los Caminos Pavimentados y No Pavimentados del Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de Concentrado de Tierras Raras, en adelante
+denominado “el Proyecto”.
+Las obras de conservación y mantención están destinadas a atenuar los deterioros que
+podrían ocasionarse en los caminos debido al aumento de tránsito, especialmente de
+camiones destinados al transporte de minerales.
+2. Alcance
+El alcance del presente documento es para los Caminos Pavimentados y No Pavimentados
+utilizados durante la fase de operación del proyecto.
+3. Desarrollo
+La mantención de caminos corresponde a toda aquella actividad que tenga por objetivo
+conservar y/o reparar alguna condición del camino u obra de arte perteneciente a este,
+permitiendo así disponer del camino de forma permanente para el tránsito de camiones
+y/o vehículos menores.
+Dependiendo del elemento afectado y el nivel de daño se utilizan distintos recursos y
+técnicas. Los equipos que se utilizan principalmente para esta actividad son: Cuadrilla de
+mantención (equipo de trabajadores), retroexcavadora, motoniveladora, rodillo vibrador,
+camiones tolva (capacidad 14-20 m3), equipos menores de compactación, máquinas
+pavimentadoras, entre otros.
+A continuación, se describen las principales actividades de algunos equipos, los cuales
+pueden ser utilizados de forma individual o colectiva.
+3.1. Mantención de Caminos con Motoniveladora
+Perfilado de Caminos
+El perfilado de caminos consiste en uniformar y suavizar superficialmente el camino,
+devolviéndole su funcionalidad y forma original, manteniendo las características de
+bombeo, peralte y cunetas.
+E E s s t t e e d d o o c c u u m m e e n n t t o o e e s s p p r r o o p p i i e e d d a a d d d d e e R R E E E E U U N N O O S S P P A A . . S S e e p p r r o o h h í í b b e e s s u u r r e e p p r r o o d d u u c c c c i i ó ó n n y y e e x x h h i i b b i i c c i i ó ó n n s s i i n n e e l l 4 de 16
+c
+c
+o
+o
+n
+n
+s
+s
+e
+e
+n
+n
+t
+t
+i
+i
+m
+m
+i
+i
+e
+e
+n
+n
+t
+t
+o
+o
+d
+d
+e
+e
+R
+R
+E
+E
+E
+E
+U
+U
+N
+N
+O
+O
+S
+S
+P
+P
+A
+A
+.
+.
+E
+E
+l
+l
+d
+d
+o
+o
+c
+c
+u
+u
+m
+m
+e
+e
+n
+n
+t
+t
+o
+o
+,
+,
+u
+u
+n
+n
+a
+a
+v
+v
+e
+e
+z
+z
+i
+i
+m
+m
+p
+p
+r
+r
+e
+e
+s
+s
+o
+o
+s
+s
+e
+e
+c
+c
+o
+o
+n
+n
+s
+s
+i
+i
+d
+d
+e
+e
+r
+r
+a
+a
+u
+u
+n
+n
+a
+a
+c
+c
+o
+o
+p
+p
+i
+i
+a
+a
+c
+c
+o
+o
+n
+n
+t
+t
+r
+r
+o
+o
+l
+l
+a
+a
+d
+d
+a
+a
+y
+y
+puede ser obsoleta. Procure consultar la revisión actual.
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 6
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: Para esta actividad se utiliza la pala de la
+motoniveladora. Se debe comenzar repasando y limpiando desde la cuneta de uno
+de los costados del camino con la dirección de la pala hacia adentro o hacia afuera
+dependiendo si el material del borde está muy contaminado y no se puede reutilizar,
+o si está en condiciones de ser recuperado y reincorporado al camino. Se define un
+material con condiciones para ser reincorporado cuando está libre de desechos
+vegetales, no está contaminado con excesos de material fino producto de
+derrumbes, erosiones, etc., ni se encuentra con exceso de humedad.
+Posteriormente, la motoniveladora nivelará desde el borde del camino, cortando
+y/o rellenando las imperfecciones, desplazando el cordón de material sobrante
+hacia el costado opuesto, continuando con distintas pasadas dependiendo del ancho
+del camino y de la pala, eliminando los cordones generados en la pasada anterior
+hasta llegar al borde opuesto del camino. Se procederá de la misma forma cuando
+se requiera eliminar pequeñas capas o películas de barro desde la superficie del
+camino. Si se acumula una cantidad de material contaminado importante, este se
+llevará a las zonas de disposición en camiones tolva.
+Por motivos operacionales y de seguridad es necesario que el supervisor en conjunto
+con el operador, identifiquen cuál será el tramo para intervenir y si debe seccionarlo
+en caso de ser un tramo muy extenso.
+Se debe tener especial cuidado en no incorporar material arcilloso o material fino
+del borde que pueda perjudicar la estructura del camino. Se define un material con
+condiciones para ser reincorporado cuando está libre de desechos vegetales, no
+presenta excesos de material fino producto de derrumbes, erosiones, etc., ni se
+encuentra con exceso de humedad.
+También, debe considerar el bombeo, peralte y re-confección de cunetas. Para estas
+últimas se debe procurar que queden debidamente conectadas a las alcantarillas y
+salidas de agua correspondientes.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 5 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 7
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 2 - Procedimiento Esquemático Perfilado de Caminos
+Fuente: Elaboración propia
+Reconformación de Caminos
+La reconformación de caminos es una actividad que tiene el mismo objetivo del perfilado,
+pero con una intervención más intensa debido al mayor nivel de daño o deformación de la
+carpeta original. Consiste en rearmar la geometría del camino, considerando bombeo,
+peralte y cunetas, dándole la forma y funcionalidad adecuada al camino.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: Para esta actividad también se utiliza la pala de la
+motoniveladora. Se debe comenzar repasando y limpiando desde la cuneta de uno
+de los costados del camino con la dirección de la pala hacia adentro o hacia afuera
+dependiendo si el material del borde está con material arcilloso o fino y no se puede
+reutilizar, o si está en condiciones de ser recuperado y reincorporado al camino.
+Posteriormente se nivelará desde el borde del camino, cortando y/o rellenando las
+imperfecciones, desplazando el cordón de material sobrante hacia el costado
+opuesto, continuando con distintas pasadas dependiendo del ancho del camino y de
+la pala, eliminando los cordones generados en la pasada anterior hasta llegar al
+borde opuesto del camino. Por motivos operacionales y de seguridad se requiere
+que el operador identifique cuál será el tramo a intervenir y si debe seccionarlo en
+caso de ser un tramo muy extenso.
+Se debe considerar además el bombeo, peralte y re confección de cunetas. Para
+estas últimas se debe procurar que queden debidamente conectadas a las
+alcantarillas y salidas de agua correspondientes.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 6 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 8
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 3 - Procedimiento Esquemático Reconformación de Caminos
+Fuente: Elaboración propia
+Mejoramiento con Material Granular (Base Estabilizada)
+Actividad que consiste en recuperar el espesor de diseño del camino mediante la
+incorporación de material granular, depositando desde camiones tolva en aquellos sectores
+donde exista necesidad de recargue.
+• Especificación de Materiales: Material granular (base estabilizada).
+• Procedimiento de Trabajo: Para esta actividad se debe esparcir con la pala de la
+motoniveladora el material granular depositado por los camiones tolvas,
+devolviendo o aumentando las dimensiones del camino original, definido por el
+diseño de ingeniería.
+Si la calidad de la superficie sobre la cual se va a extender el ripio es deficiente (con
+desechos vegetales, excesos de material fino, o con exceso de humedad) se deberá
+realizar previamente el retiro de este material. En este caso la motoniveladora debe
+ir acordonando el material contaminado para después ser retirado con otro equipo
+de carguío (retroexcavadora), rebajando el camino hasta conseguir una superficie
+estable. De ser necesario se deberá utilizar el escarificador de la motoniveladora
+para facilitar el retiro del material, llegando incluso a rebajar el terreno natural.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 7 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 9
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 4 - Procedimiento Esquemático Mejoramiento de Caminos
+Fuente: Elaboración propia
+3.2. Mantención de obras de saneamiento de aguas lluvias con Retroexcavadora
+Habilitación de fosos / salidas de agua / zanjas de derivación
+La mantención de obras de saneamiento de aguas lluvias como fosos, salidas de agua o
+zanjas de derivación, consiste en realizar una limpieza de la excavación que permita drenar
+el agua proveniente de una alcantarilla, sectores bajos o cualquier punto que se requiera
+desaguar, alejando la humedad del camino.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: Se debe despejar con el balde de la retroexcavadora el
+interior de cada elemento, conservando la profundidad y pendiente necesaria para
+permitir la evacuación del agua de la plataforma del camino. Para el caso de los fosos
+que provengan de la salida de una alcantarilla, este debe asegurar un ancho mínimo
+equivalente al diámetro de la alcantarilla. La tierra, desechos o vegetación extraída,
+debe ser retirada o esparcida en los costados y no debe ser depositada en forma de
+cordón o montículo al borde
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 8 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 10
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 5 – Limpieza y habilitación de fosos con Retroexcavadora
+Fuente: Elaboración propia
+Habilitación de antefosos y fosos decantadores en Obras de Arte
+Como parte fundamental del camino, las obras de arte requieren estar operativas
+permanentemente, libre de desechos y conectadas con el resto de los elementos para una
+correcta conducción del agua. Cuando existe embancamiento de los decantadores, la taza
+o foso de entrada, se requiere la intervención de maquinaria.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: La retroexcavadora debe extraer el material embancado
+para devolverlas a su estado original, y si se requiere deberá profundizar el punto
+para evitar repeticiones. La tierra que es extraída debe ser retirada o esparcida en
+los costados, no debe ser depositada en forma de cordón o montículo. Debe
+procurar además de no dañar las partes de las alcantarillas (defensas, disipadores,
+etc.) ni la carpeta de rodado durante la operación.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 9 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 11
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 6 – Foso Decantador Saturado
+Fuente: Elaboración propia
+Retiro de Derrumbes
+Los derrumbes producto de deslizamiento o desprendimiento de material desde el talud,
+pueden alterar el correcto funcionamiento del camino o de una de sus partes. La respuesta
+de reparación debe ser inmediata para evitar retrasos en la operación y posibles daños en
+la estructura o componentes del camino.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: Frente la ocurrencia de derrumbes, la retroexcavadora
+debe hacer retiro del material depositado sobre la cuneta, obra de arte o camino y
+disponerlo en un lugar habilitado o sobre camión para su traslado a la zona de
+disposición más cercana. En invierno el operador debe de sacar el máximo de
+material posible evitando intervenir la carpeta de rodado. Debe además mover el
+material inestable que se encuentre aún en el talud con altas probabilidades de
+desmoronamiento. En la medida de lo posible, deberá además corregir la inclinación
+del talud en el lugar para evitar repeticiones. En caso de ser necesario se deberá
+construir contenciones para el control de futuros derrumbes. Para esta y otras
+actividades tales como eliminación de árboles inclinados producto del
+deslizamiento, es necesario apoyarse con cuadrillas de mantención u otro equipo
+más adecuado, previa evaluación en terreno.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 10 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 12
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Figura 7 – Ejemplos de Derrumbes
+Fuente: Elaboración propia
+Otras Actividades
+Dada la multifuncionalidad de la retroexcavadora, existen otras actividades que se pueden
+realizar en la mantención de caminos.
+• Apoyo a la cuadrilla manual en el despeje de la cobertura vegetal al borde del
+camino. En esta operación la retroexcavadora trabajará con la pala y balde. Se
+utilizará la desbrozadora mecánica u otra tecnología en caso de disponer de ella
+como accesorio de la retroexcavadora.
+• Apoyo en el traslado de materiales. Cuando se requieren realizar diversas obras se
+puede utilizar para el traslado de materiales tales como postes, tablones, madera
+en general, herramientas, etc.
+• Extracción de material de desecho, en casos donde se genere un cordón con
+material de mala calidad producto de la operación de la motoniveladora y cargarlo
+sobre camión.
+• Carguío de material granular desde un acopio establecido sobre camión tolva.
+• Cualquier otra actividad que esté al alcance del equipo, siempre y cuando no
+signifique un riesgo en temas de seguridad o deterioro del equipo.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 11 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 13
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+3.3. Mantención de Caminos con Cuadrilla de trabajadores
+La cuadrilla de trabajadores realiza trabajos con mayor nivel de detalle, pero generalmente
+requiere de equipos de apoyo para la ejecución. A continuación, se describen las principales
+actividades realizadas por cuadrillas en mantención de caminos.
+Mantención de Obras de Arte
+La mantención de obras de arte con cuadrilla permite recuperar el estado original de esta,
+tanto en su funcionalidad como en estructura.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: Para el caso de las obras de arte la cuadrilla debe en
+primera instancia limpiar cada una de sus partes, es decir, retirar desechos de la
+operación y/o sedimentos desde los decantadores, taza de entrada, bajada de agua
+en al caso que exista y dentro del mismo tubo. Posteriormente deberá reponer las
+partes de la estructura que se encuentre dañada, como los disipadores, muros de
+entrada o salida, la bajada de agua o el tubo. Finalmente se debe procurar que la
+obra de arte quede conectada a las cunetas y sea funcional.
+Figura 8 – Obras de Drenaje en Caminos
+Fuente: Elaboración propia
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 12 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 14
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Retiro Manual de Derrumbes
+Los derrumbes pueden afectar tanto las cunetas como las obras de arte. En ambos casos la
+cuadrilla puede hacer limpieza manual de los elementos afectados, dependiendo de la
+cantidad de sedimentos depositados. Para niveles de sedimentos mayores deberá apoyarse
+con retroexcavadora.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: En este caso la cuadrilla debe hacer limpieza hasta
+reestablecer la funcionalidad del elemento, y en el caso de haber algún deterioro de
+sus partes, estas deben ser repuestas de acuerdo al punto anterior. En este caso la
+cuadrilla debe hacer limpieza hasta reestablecer la funcionalidad del elemento, y en
+el caso de haber algún deterioro de sus partes, estas deben ser repuestas de acuerdo
+al punto anterior.
+Roce / Despeje de la Cobertura Vegetal
+Para una circulación correcta y segura de camiones por los Caminos de Operación Minera
+es necesario contar con una buena visibilidad y espacio mínimo de tránsito. En este caso la
+vegetación requiere ser controlada permanentemente para evitar que se desarrolle y altere
+estos factores mínimos de seguridad.
+• Especificación de Materiales: No se necesitan materiales adicionales.
+• Procedimiento de Trabajo: La cuadrilla de mantención es la encargada de realizar
+este roce o despeje de la cobertura vegetal, mediante el uso de herramientas
+manuales. Para esto la cuadrilla debe ir abriendo el camino hasta que los puntos
+detectados con problemas queden despejados. Si el roce o despeje es muy intenso
+se puede apoyar con la retroexcavadora de forma coordinada.
+3.4. Mantención en Caminos Pavimentados
+Para la mantención de los tramos pavimentados del proyecto, se plantea lo siguiente:
+Posterior a 6 meses de operación del tramo, se realizará una monografía, que consiste en
+el levantamiento de los sectores que presentan o pueden presentar fallas en la
+serviciabilidad del camino al tránsito de la operación del proyecto.
+El tipo de mantención dependerá el tipo de problema que presente la superficie. Pero se
+pueden dar dos casos:
+• Preventivas: Este tipo de mantenciones se realiza para evitar una falla mayor del
+pavimento que lleve a la restitución completa del sector. Se realiza en fisuras y
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 13 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 15
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+grietas que se presentan en el pavimento por diferentes causas (principalmente por
+fatiga de material). Como solución de mantenimiento se realiza una lechada asfáltica
+en la zona afectada.
+• Correctivas: Este tipo de mantenimiento se realiza cuando la serviciabilidad del
+camino no es apta para la operación y el sector dañado puede generar un accidente.
+Se realiza en tramos que presentan perdida de material o ahuellamientos por
+perdida o nula resistencia. Como solución de mantenimiento, se realizan bacheos
+que pueden ser en frío o en caliente, restitución completa del tramo por nuevos
+materiales, dependiendo sí el tramo es de menor sección.
+Especificación de Materiales: Mezclas asfálticas, base granular.
+Procedimiento de Trabajo: Los trabajos de mantención preventivas y correctivas, se
+subcontratan a alguna empresa de la zona, la envergadura de los trabajos va a depender
+del resultado de la monografía que se realizará 6 meses posterior a la entrada de operación
+de cada tramo pavimentado.
+4. Programa de Mantención
+El plan de mantención para caminos consistirá en las siguientes etapas:
+• Recorrido y realización de monografía en caminos.
+Este es el primer paso del plan de mantención. En primer lugar, se realiza el
+levantamiento de los sectores que presentan un potencial daño en la carpeta de
+rodado, provocando una inminente perdida de serviciabilidad del camino.
+Con los sectores levantados se emitirá un informe, con la información de los tramos
+de caminos a intervenir.
+La realización de monografía se realizará, al menos dos (2) veces al año; una (1) vez
+en el mes de marzo y finalmente en septiembre para tramos No Pavimentados. Para
+el caso de caminos Pavimentados: se realizará cada 6 meses de operación del tramo.
+• Evaluación de tramos a intervenir.
+En esta etapa se definirán los tramos a intervenir y el tipo de trabajo a realizar según
+corresponda.
+• Programación y ejecución de trabajos.
+Finalmente se programarán los trabajos a realizar en coordinación con las áreas de
+producción de la Planta de Procesamiento, Zonas de Extracción (ZE), Zona de
+Disposición (ZD) y Zona de Acopio Vegetal (ZAV), Stockpile, entre otras.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 14 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+================================================================================
+PAGE 16
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 15 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.
+T a re a
+M a n te n c ió n e s p e rm a n e n te
+C u a d rilla T ra b a ja d o re s
+P e rfila d o y re c o n fo rm a c ió n
+la S u p e rfic ie
+M e jo ra m ie n to c o n M a te ria
+G ra n u la r
+M a n te n c ió n C a m in o s
+P a v im e n ta d o s
+c o n
+d e
+l
+O
+O
+O
+O
+Cp
+Cp
+Cp
+Cp
+ae
+ae
+ae
+ae
+S e c to re s
+m in o s y C a lle s
+ra c ió n P ro y e c to
+m in o s y C a lle s
+ra c ió n P ro y e c to
+m in o s y C a lle s
+ra c ió n P ro y e c to
+m in o s y C a lle s
+ra c ió n P ro y e c to
+P
+1
+2
+2
+A ñ o 3
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te P
+1
+2
+2
+A ñ o 4
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te P
+1
+2
+2
+A ñ o 5
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te
+A ñ o
+P
+1
+2
+2
+s
+A ñ o 6
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te P
+1
+2
+2
+A ñ o 7
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te P
+1
+2
+2
+A ñ o 8
+e rm a n e n
+x m e s
+x a ñ o
+x a ñ o
+te
+A continuación, en la siguiente tabla se describe la frecuencia de cada actividad a ejecutar
+en el plan de mantención de caminos pavimentados y no pavimentados:
+Tabla 1 – Frecuencia Plan de Mantención
+Fuente: Elaboración propia
+================================================================================
+PAGE 17
+================================================================================
+Plan de Mantenimiento Vial Caminos Pavimentados y No Pavimentados
+BL-ENG-CSA-REP-002
+5. Esquema Gráfico Ejecución de Trabajos de Mantenimiento
+El siguiente esquema se plantea para realizar las mantenciones en caminos no
+pavimentados del proyecto:
+Figura 9 – Esquema Ejecución de Trabajos de Mantención en Caminos
+Fuente: Elaboración propia
+El esquema antes presentado es aplicable, siempre y cuando se cumplan las siguientes
+condiciones:
+• El flujo bidireccional es menor a 1400 veh/h.
+• La distancia Ls + Largo Trabajo es mayor a 100 m.
+• Las distancias de corte de vía serán dependiendo la definición del punto
+4, pero no debería ser mayor a 500 metros.
+• El trabajo de mantenimiento quedará definido en el punto 4.
+Este documento es propiedad de REE UNO SPA. Se prohíbe su reproducción y exhibición sin el 16 de 16
+consentimiento de REE UNO SPA. El documento, una vez impreso se considera una copia controlada y
+puede ser obsoleta. Procure consultar la revisión actual.

@@ -1,0 +1,1142 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Exhibit 3A-14
+Hydrogeology Baseline
+EIA "Mining Development Project
+of Clay Extraction for Production
+of Rare Earth Concentrates"
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+REPORT
+Hydrogeological Baseline
+Clay Extraction Project for production of
+Rare Earth Concentrate.
+Client:
+Rev. 0
+CLIENT: REE UNO SpA
+Contract Name: ENVIRONMENTAL IMPACT STUDY
+CLAY EXTRACTION PROJECT FOR THE PRODUCTION OF Consulting, Projects,
+RARE EARTH CONCENTRATE. Environment SpA
+Document title: Hydrogeological Report -EIA
+Rev. Date Prepared Reviewed Approved
+0 02/23/2024 F. Saldías C. Salazar F. Aguirre
+II
+==================================================================================
+PAGE 3
+==================================================================================
+INDEX OF CONTENTS
+1 INTRODUCTION ................................................................................................................................... 4
+1.1 LOCATION OF THE PROJECT ................................................................................................................... 5
+2 OBJECTIVES ........................................................................................................................................... 5
+2.1 SPECIFIC OBJECTIVES ....................................................................................................................... 6
+3 METHODOLOGY ................................................................................................................................... 6
+3.1 REVIEW OF SECONDARY INFORMATION ........................................................................................................... 6
+3.2 CABINET WORK ....................................................................................................................... 6
+4 RESULTS ........................................................................................................................................... 7
+4.1 AREA OF INFLUENCE ................................................................................................................................... 7
+4.1.1 DETERMINATION OF THE AREA OF INFLUENCE ................................................................................... 7
+4.1.2 DEFINITION OF THE AREA OF INFLUENCE ................................................................................... 7
+4.2 HYDROGEOLOGY ........................................................................................................................... 9
+4.2.1 REGIONAL HYDROGEOLOGY ................................................................................................... 9
+4.2.2 HYDROGEOLOGICAL SECTORS OF COMMON USAGE ................................................... 10
+4.2.3 LOCAL HYDROGEOLOGY ....................................................................................................... 11
+a) Geological Drilling ........................................................................................................... 11
+b) Geotechnical Drilling ........................................................................................................... 12
+c) Hydraulic properties ................................................................................................................... 15
+d) Hydrogeological Wells ................................................................................................................ 19
+e) Description of hydrogeological units ....................................................................................... 20
+4.3 PIEZOMETRY ................................................................................................................................... 23
+4.3.1 PIEZOMETRIC ISOLINES AND PROFILES ........................................................................... 26
+4.4 WELL PERFORMANCE ................................................................................................................... 38
+4.5 HYDROMETEOROLOGY AND RI
+CLIMATE ESGO ........................................................................... 41
+5 CONCLUSIONS ................................................................................................................................... 45
+6 REFERENCES ....................................................................................................................................... 46
+III
+==================================================================================
+PAGE 4
+==================================================================================
+1 INTRODUCTION
+This report reports on the results of the environmental characterization of the component
+hydrogeology developed within the framework of the Environmental Impact Study of the “Project of
+Extraction of Clays for the Production of Rare Earth Concentrates” (hereinafter, the
+“Project”), whose Owner is REE Uno SpA (hereinafter the “Owner”), in accordance with the provisions of
+article 18, letter e.5) of the D.S. N°40/2012 of the Ministry of the Environment, which establishes the
+Regulation of the Environmental Impact Assessment System.
+The Project, administratively located in the Commune of Penco and Concepción, Province of
+Concepción, Biobío Region, consists of the construction and operation of a mining site together
+with a processing plant for weathered granitic material, with the presence of clays. The
+Regolith, hereinafter called “Clays to be processed”, is formed as a result of a high
+weathering of rocks and contains lanthanides adsorbed on clay minerals. The
+Lanthanides, or Rare Earths, are 15 elements whose atomic number increases from Lanthanum (57)
+to lutetium (71). Due to their similar chemical behavior, yttrium (Y) is added to them. From now on they will be
+called “rare earths”.
+The plant has a capacity to process up to 320 tons/hour of material and produce
+Rare Earth concentrate.
+In addition to the above, the Project considers three (3) clay extraction zones (ZE Victoria
+Norte, ZE Luna, ZE Maite), one (1) disposal area for waste and processed clays (ZD
+Neptuno), one (1) vegetal soil collection area (ZAV), a clay processing plant
+(the Plant) and a stockpile for the temporary collection of material prior to processing, a line
+electricity and its connection to the existing line and the construction of internal roads to access the
+different areas. In addition, the implementation of temporary works corresponding to
+work facilities, for the construction and authorization of the Project works.
+During its operation phase, the Project considers a sequential closure of the extraction areas.
+That is, these zones will not come into operation simultaneously, so, once the
+Exploitation of each of these areas begins with revegetation.
+For its part, upon completion of the disposal of the processed clays in the disposal areas, it also
+The closure of these will be carried out through revegetation, using the vegetal soil available in the
+plant collection areas.
+For the development of this study, the hydrogeological characterization associated with the area is considered.
+of influence of the Project, having public and bibliographical background for this purpose.
+HYDROGEOLOGY BASELINE REPORT 4
+JANUARY 2024
+==================================================================================
+PAGE 5
+==================================================================================
+1.1 PROJECT LOCATION
+The site of the project is located in the commune of Penco and Concepción, Province of
+Concepción, Biobío Region, as indicated in Figure 1. The project is accessed from the route
+150 km 5 Penco – Lirquén Route and Route 152 km 71 Itata Route (North and South access to the overpass
+The Goat).
+Figure 1-1: Location of Project Works
+Source: Prepared by APM Consultores. 2023
+2 OBJECTIVES
+The purpose of this chapter is to prepare the baseline of the hydrogeological component
+for the area of influence of the Project, taking into account the characterization and description of this
+resource through the availability of public, existing bibliographic information and
+ground background. Following the guidelines set out in the Criterion of
+Evaluation in the SEIA: Technical Content for the Environmental Assessment of Water Resources (SEIA,
+2022), this document is developed taking into account the information requirements
+necessary for the characterization of the component under study.
+HYDROGEOLOGY BASELINE REPORT 5
+JANUARY 2024
+==================================================================================
+PAGE 6
+==================================================================================
+2.1 SPECIFIC OBJECTIVES
+- Define the area of influence of the hydrogeological component.
+- Characterize the existing hydrogeological component at a regional scale.
+- Characterize the existing hydrogeological component at a local scale.
+3 METHODOLOGY
+For the preparation of this report, the following were mainly considered:
+activities:
+3.1 REVIEW OF SECONDARY INFORMATION
+To collect the necessary background information to characterize the hydrogeological component,
+consulted the following documents and databases:
+- Guide for the Description of the Area of Influence, Impact Evaluation Service
+Environmental, 2017.
+- Evaluation Criteria in the SEIA: Technical Content for the Environmental Evaluation of the
+Water Resources, 2022.
+- Digital map database of the General Directorate of Water (DGA).
+- Well station statistics database of the General Directorate of Water (DGA).
+- IGM cards scale 1:50,000. Military Geographic Institute (IGM).
+- Environmental Impact Assessment Guide, Environmental Assessment Service, 2015.
+- Report P007-Io7-Rev0 (Tandem, 2014).
+- Preliminary estimate of groundwater recharge and determination of sectors
+common hydrogeological use in the basins of the Maule regions,
+Bío-Bío; La Araucanía, Los Ríos and Los lagos. SDT No. 359. DGA-2014
+3.2 CABINET WORK
+The office work for the hydrogeological analysis considered the execution of the
+following activities:
+- Regional characterization based on available background information such as the Map
+Hydrogeological of Chile on a scale of 1:1,000,000 in digital version (DGA, 1989); as well as the
+National Hydrogeological Map report (DGA, 1986).
+- Description of the Common Use Hydrogeological Sectors, established in
+the area, based on the background information available in the DGA.
+HYDROGEOLOGY BASELINE REPORT 6
+JANUARY 2024
+==================================================================================
+PAGE 7
+==================================================================================
+- Local hydrogeological characterization related to the Project area, based on
+available public reports, internal reports and measurements carried out.
+4 RESULTS
+4.1 AREA OF INFLUENCE
+4.1.1 DETERMINATION OF THE AREA OF INFLUENCE
+In accordance with what is indicated in the Guide for the Description of the Area of Influence (SEIA, 2017),
+defined the area of influence, which considers the geographical space included by the
+location of the project works: Extraction Zones (Maite, Victoria Norte and Luna), Zone
+Disposal (Neptune), plant collection area, Processing Plant, Stockpile, and works
+annexes necessary for the different phases of the project.
+4.1.2 DEFINITION OF THE AREA OF INFLUENCE
+As established by Article 19 letter b.1. of the Regulations of the Evaluation System of
+Environmental Impact (RSEIA), then the area of influence for the component is defined
+hydrogeological, considering the potential environmental impacts to the water resource.
+The criteria and considerations for its definition correspond to the following:
+- The hydrogeological system presents three main units, a unit that extends
+mainly due to the area where the works are located and located and which corresponds to a
+very low permeability unit, made up of saprolite; the basal unit made up of
+healthy rock (basement) of impermeable character; and a transition zone between the saprolite and the
+basement with greater permeability; the occurrence of water occurs in the area of
+transition, between saprolite and basement.
+- The unit made up of saprolite presents very low permeability conditions that do not
+allows a hydrogeological connection between the surface and the semifractured unit. In this
+In this sense, the saprolite establishes a confinement condition that implies that the existing water
+is under pressure
+- The saprolite locally presents saturated zones that give it a very high plasticity,
+point of losing cohesion and presenting themselves as limited horizons of plastic behavior
+(evidencing the concentration of humidity above its conduction
+).
+- The transition zone has greater permeabilities, however, the amount of water is
+poor, in accordance with field measurements. It was found in the field that the majority did not
+It is possible to maintain pumping rates between 0.44 and 0.2 l/s over time; which indicates that the capacity of
+permanent transport is less than this value. These few underground flows move
+essentially following the topographic conditions, contributing its flow to the low points that
+correspond to small streams
+HYDROGEOLOGY BASELINE REPORT 7
+JANUARY 2024
+==================================================================================
+PAGE 8
+==================================================================================
+- For the purposes of defining the analysis area for the hydrogeology component, it was established in
+First of all, the spatial relationship, with respect to hydrography, sections of channel that are
+directly associated with the project works. The above in consideration that the
+Hydrogeology in terms of flow directions correlates directly with the
+local hydrography.
+Even though, as will be seen later, the little or no interaction of the
+surface runoff with underground flow, limited by the presence of very low saprolite
+permeability. Based on the above, this area is defined as the zone over which they can
+establish the potential effects on the hydrogeological component. In this context it is
+It is relevant to consider for this the non-linear works of the project; the above given that the works
+linear (paths, LAT, etc.) by their nature have no impact on the component
+underground.
+Figure 4-1: Geographic location of the area of influence
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 8
+JANUARY 2024
+==================================================================================
+PAGE 9
+==================================================================================
+4.2 HYDROGEOLOGY
+4.2.1 REGIONAL HYDROGEOLOGY
+According to the Hydrogeological Map of Chile, scale 1:2,500,000 (1986) as shown in
+the following figure, the study area is located in a unit of plutonic and hypabyssal rocks and
+metamorphic rocks of the Coastal Mountain Range that make up the Basement, and that have
+permeability from very low to absent, with relatively zero hydrogeological importance.
+Figure 4-2: Extract of Hydrogeological Map of Chile
+Source: APM Consultores, based on the Hydrogeological Map of Chile
+HYDROGEOLOGY BASELINE REPORT 9
+JANUARY 2024
+==================================================================================
+PAGE 10
+==================================================================================
+4.2.2 HYDROGEOLOGICAL SECTORS OF COMMON USE
+In the project area, the hydrogeological sector of common use (SHAC) is identified.
+called Andalién, adjacent to the north is the SHAC called Pingueral, which
+They cover an area of 800 and 606 km2, respectively. Both SHACs are located in the coastal sector
+with similar geological and hydrogeological and hydrological characteristics. According to the Map
+Hydrogeological of Chile, previously referred to, hydrogeologically the Andalién sector presents
+very low to no potential
+These hydrogeological sectors are open from the point of view of the
+availability1.
+The following figure shows the SHAC sectors referred to:
+Figure 4-3: Hydrogeological sectors of common use.
+Source: Adapted from (DGA-2022)2
+1 https://snia.mop.gob.cl/observatorio/
+2 Strategic water management plan in coastal basins and islands between the Itata River and the Biobío River. SIT N°510. DGA-
+2022
+HYDROGEOLOGY BASELINE REPORT 10
+JANUARY 2024
+==================================================================================
+PAGE 11
+==================================================================================
+4.2.3 LOCAL HYDROGEOLOGY
+The local hydrogeology has been characterized with the information obtained from the geological description
+of the units, drilling, field observations, permeability tests and measurements of
+water table, as indicated below.
+4.2.3.1 HYDROGEOLOGICAL UNITS
+3 hydrogeological units have been identified: Saprolite (with a minor subunit on its roof
+corresponding to soil development), Saprolite/Rock Interface and Basement or Healthy Rock.
+These main hydrogeological units
+ipally have been determined based on data
+coming from:
+- Exploration drilling and geological/mineralogical characterization that support the
+geological and mining model of the Project.
+- Geotechnical drilling with penetration and permeability tests.
+- Hydrogeological and environmental drilling.
+- Multiple works, reinterpreted, that have given technical support to the processes of
+previous environmental qualification.
+The studies and research carried out allowed the obtaining of information of diverse
+nature, part of which is useful for hydrogeological characterization. These investigations
+They were carried out in different sectors within the project area; the name of the sectors
+that are mentioned below corresponds to that carried out for the purposes of the development of said
+prospective activities, not all identified sectors correspond to the location of the
+works that make up the Project, since the latter is the result of the evaluations and analysis
+technical, economic, environmental among others.
+a) Geological Drilling
+The geological drillings are homogeneously distributed throughout the project area and
+were carried out under the criterion of, as far as possible, characterizing the entire saprolite by crossing it
+completely until reaching the healthy rock, this information being what defines the roof of the
+Basement or Healthy Rock hydrogeological unit.
+HYDROGEOLOGY BASELINE REPORT 11
+JANUARY 2024
+==================================================================================
+PAGE 12
+==================================================================================
+Figure 4-4: Geological Drillings that define the roof of the hydrogeological unit
+Source: APM Consultants
+The geology composed of metapelites and magmatic units product of partial fusion and
+contact metamorphism (Biotite Tonalite, Garnet Tonalite and Diorite) intertwine and
+they cross in the drillings due to the plastic generation environment.
+b) Geotechnical Drilling
+Geotechnical drilling was developed with the purpose of complementing the
+knowledge about the geotechnical and geomechanical characteristics within the area of influence
+of the Project.
+Along with making a good material correlation, the drilling carried out during the campaigns
+of 2021 and 2022 had the additional objectives of recording the presence of humidity and levels
+saturated, obtain data on water table levels, carry out tests that would allow obtaining a
+first approximation of the hydraulic conductivity of the materials and enable the wells
+HYDROGEOLOGY BASELINE REPORT 12
+JANUARY 2024
+==================================================================================
+PAGE 13
+==================================================================================
+way to be able to contribute to the recording and piezometric control over time.
+The wells drilled in 2022 aimed to reach the unaltered rock ceiling. Various
+of them reported the presence of an interface composed of a mixture of fractured rock
+in a clay matrix of decomposed rock without reaching the saprolite condition.
+This interface was characterized hydraulically showing a strong contrast between the values
+obtained from hydraulic conductivity associated with the different types of drilled materials. So,
+for all materials drilled in the vegetal soil horizon and mostly in the saprolite,
+The hydraulic conductivity ranged between 10E-05 and 10E-06 (m/s), corresponding and typical values.
+of clay soils, characterized as between silty sands and clays
+This range of values for the hydraulic conductivity of the saprolite had been reported
+previously in neighboring sites using LeFranc type tests (Hydrogeological Characterization
+del Fundo El Cabrito, Asesorías Tandem Ltda., 2014) which was also corroborated by ProAqua
+Consultants after carrying out Slug Test type tests (Exploration of Water Resources for Project
+Clarifies: Hydraulic Tests, 2022). These works concluded that, given the existence of water in
+certain wells, was very scarce and did not form an aquifer from which it could be obtained
+no flow prolonged over time.
+However, since the hydraulic tests of the geotechnical wells drilled from the
+saprolite on the surface, to the unaltered rock a (Geotechnical Characterization Report Engineering
+of
+Feasibility of Extraction Zones No. 01 0122-MS-GE, PANGEA Geotecnia, 2022), was obtained
+values of 10E-02 (m/s) and up to 10E-01 (m/s), which is not only 4 or 5 orders of magnitude higher,
+If not, it is placed in the range of hydraulic conductivity values for sand-type soils and
+gravels. This can be seen in 4 of 5 wells in the sector called Victoria South; in 2 of 3 wells
+in Maite sector; in 2 of 5 wells in the sector called Victoria Norte; this was not appreciated
+characteristic in the sector called Luna nor in the one called Alexandra, possibly
+associated with the shallow depth reached, it did not allow it to be reached (see figure 4-5).
+This transition horizon was not found in all wells and in some cases it was passed
+directly from the saprolite to the unaltered rock, where conductivity values were reached
+hydraulics of the order of 10E-09 (m/s).
+HYDROGEOLOGY BASELINE REPORT 13
+JANUARY 2024
+==================================================================================
+PAGE 14
+==================================================================================
+Figure 4-5: Goetechnical Drillings
+Source: APM Consultants
+It is worth mentioning that it was also detected in drillings in the Victoria Sur sector, in the Maite sector;
+in the Victoria North sector and in the Alexandra sector.) areas of high hydraulic conductivity in sections
+prior to reaching the healthy rock. This stratum corresponds to an interface or transition composed of
+a mixture of fractured rock in a clay matrix of decomposed rock without reaching the
+saprolite condition; and shows a strong contrast in terms of hydraulic conductivity
+with respect to the upper filling (saprolite). This condition is not associated with any type of
+contribution of specific water resources (Tables 4-1 to 4-6).
+The following tables show the results of the 2022 geotechnical campaign, which had
+as a criterion for stopping drilling, the discovery of 2 meters in a row with RQD >70%”,
+ensuring with this parameter that you encounter a rock with a very low degree of fracturing
+or healthy rock (basement).
+HYDROGEOLOGY BASELINE REPORT 14
+JANUARY 2024
+==================================================================================
+PAGE 15
+==================================================================================
+c) Hydraulic properties
+Based on the above, the characteristics referring to conductivity are presented below.
+hydraulics for the different sectors of the project area.
+Table 4-1: Summary of hydraulic conductivity values recorded in geotechnical wells in
+South Victoria sector
+Drilling ID Classification USCS Depth (m) k (m/s)
+CL 7.5 8.30E-06
+ML 32.6 1.63E-05
+VIS2201 SM 35.6 1.23E-05
+ML 38.6 1.15E-05
+GM 46.1 1.35E-02
+ML 14.0 3.23E-06
+VIS2202 SM 24.0 1.35E-05
+ML 29.0 1.03E-05
+CL 2.5 4.10E-06
+SM 8.5 1.71E-05
+ML 15.5 1.50E-05
+VIS2203
+SM 21.3 1.31E-05
+ML 31.3 1.10E-05
+GM 33.0 3.50E-01
+ML 8.0 1.16E-05
+SM 11.0 1.09E-05
+ML 18.0 6.12E-06
+SM 21.0 6.30E-06
+VIS2204 ML 24.0 5.42E-06
+SM 28.0 5.76E-06
+ML 31.0 4.51E-06
+SM 33.0 4.53E-06
+GM 49.8 1.64E-02
+GM 1.7 2.71E-02
+SM 5.0 1.91E-05
+VIS2205
+GP-GM 17.3 3.31E-01
+GW-GM 27.2 4.19E-01
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 15
+JANUARY 2024
+==================================================================================
+PAGE 16
+==================================================================================
+Table 4-2: Summary of hydraulic conductivity values recorded in geotechnical wells in
+Maite sector
+Drilling ID Classification USCS Depth (m) k (m/s)
+GM 4.6 4.58E-01
+ML 6.5 1.42Е-05
+MAI 2201
+GM 10.5 8.62Е-01
+ML 21.0 6.11Е-06
+CL 1.2 5.20Е-0б
+ML 46.1 4.50Е-06
+MAI2202
+ML 57.0 1.5ZE-05
+GW 59.6 7.48E-01
+CL 5.5 8.81Е-06
+ML 9.5 4.78E-06
+ML 24.0 7.58Е-06
+МАI2203 ML 32.6 7.75Е-06
+GM 34.1 1.51Е-0Z
+ML 38.6 6.34Е 06
+SM 40.6 6.22Е-0б
+ML 24.0 4.59Е-06
+MAI2204 ML 50.1 5.31Е-06
+CL 55.0 2.26Е-06
+Source: APM Consultants
+Table 4-3: Summary of hydraulic conductivity values recorded in geotechnical wells in
+Moon sector.
+Drilling ID Classification USCS Depth (m) k (m/s)
+CH 0.0 1.12E-04
+ML 3.0 2.35E-05
+SM 6.0 1.11E-06
+ML 9.0 1.42E-05
+LUN 2201 ML 12.0 4.91E-06
+SM 15.0 1.36E-05
+SM 18.0 5.86E-07
+SM 21.0 1.18E-06
+ML 28.0 2.17E-06
+ML 0.0 1.26E-06
+ML 3.0 1.37E-06
+LUN 2202 ML 6.0 7.67E-07
+ML 9.0 1.12E-06
+ML 12.0 1.30E-06
+HYDROGEOLOGY BASELINE REPORT 16
+JANUARY 2024
+==================================================================================
+PAGE 17
+==================================================
+===========================================
+Drilling ID Classification USCS Depth (m) k (m/s)
+ML 15.0 1.37E-06
+ML 18.0 1.13E-06
+ML 21.0 5.48E-07
+ML 24.0 8.34E-07
+Source: APM Consultants
+Table 4-4: Summary of hydraulic conductivity values recorded in geotechnical wells in
+Victoria North sector.
+Drilling ID Classification USCS Depth (m) k (m/s)
+CL 12.6 1.07E-06
+VIN2201
+ML 36.9 5.36E-06
+CL 2.6 2.83E-06
+CL-ML 8.0 6.60E-06
+ML 10.4 1.22E-05
+VIN2202
+SM 20.6 1.55E-05
+ML 22.1 1.64E-05
+SM 49.0 1.71E-05
+CL 2.0 8.06E-06
+ML 23.6 3.63E-05
+GM 28.1 3.85E-01
+VIN2203
+ML 41.0 2.47E-05
+GM 43.0 1.45E-01
+SM 45.5 2.25E-05
+CL 4.0 2.69E-06
+ML 40.1 3.90E-06
+VIN2204 CL 47.8 4.72E-06
+ML 55.1 1.48E-05
+SM 68.6 1.29E-05
+CL 1.5 5.00E-06
+ML 11.0 4.38E-06
+CL 14.5 4.87E-06
+VIN2205
+ML 21.0 1.74E-05
+GM 22.4 9.02E-02
+ML 33.8 1.44E-05
+Source: APM Consultants
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 17
+JANUARY 2024
+==================================================================================
+PAGE 18
+==================================================================================
+Table 4-5: Summary of hydraulic conductivity values recorded in geotechnical wells in
+Alexandra East sector
+Drilling ID Classification USCS Depth (m) k (m/s)
+ML 14.6 3.92E-05
+SM 17.6 3.41E-05
+ALXO2201 ML 21,0 3,19E-05
+MH 23.6 2.13E-06
+ML 30.0 2.71E-05
+ALXO2202 ML 28.1 7.77E-06
+ML 8.0 1.30E-05
+SM 17.7 6.10E-06
+ALXO2203 ML 23.6 1.17E-05
+CL 27.1 3.24E-06
+SC 32.0 3.04E-06
+CL 2.0 5.87E-05
+ALXO2204 ML 24.1 2.75E-05
+CL 30.0 8.646-06
+ML 7.3 2.05E-07
+ALX2205 ML 28.1 6.046-08
+SM 30.0 2.61E-07
+Source: APM Consultants
+Table 4-6: Summary of hydraulic conductivity values recorded in geotechnical wells in
+sector Alexandra Poniente
+Drilling ID Classification USCS Depth (m) k (m/s)
+CH 0.0 1.32Е-05
+MH 3.0 2.72Е-05
+ML 6.0 3.62Е-05
+ML 9.0 3.55Е-05
+ML 12.0 2.76E-05
+ML 15.0 1.87Е-05
+ALXP 2204
+ML 18.0 1.86Е-05
+ML 20.0 1.84Е-05
+ML 24.0 1.99Е-05
+ML 27.0 4.08Е-05
+ML 30.0 9.02Е-06
+ML 33.0 1.49Е-05
+ML 0.0 1.08Е-05
+ML 3.0 1.79E-05
+ALXP 2205
+ML 6.0 9.67Е-06
+ML 9.0 1.47Е-05
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 18
+JANUARY 2024
+==================================================================================
+PAGE 19
+==================================================================================
+Drilling ID Classification USCS Depth (m) k (m/s)
+ML 12.0 1,Z0Е-05
+ML 15.0 5.96Е-06
+ML 18.0 8.64Е-06
+ML 21.0 7.68Е-06
+ML 24.0 1,Z0Е-05
+ML 27.0 9.54Е-06
+ML 30.0 9.69Е-06
+ML 33.0 8.47Е-06
+ML 36.0 2.06Е-06
+ML 39.0 1.00Е-05
+ML 42.0 1.21Е-05
+ML 0.0 8.09Е-06
+ALXP 2206 ML 3.0 2.42Е-06
+ML 6.0 3.51Е-06
+Source: APM Consultants
+d) Pozos Hidrogeológicos
+In order to complement information on levels and hydraulic characteristics of the
+domains containing water, during November 2022 and April 2023, drilling was carried out
+and enabling a total of 8 wells with construction characteristics of hydrogeological standard for
+detailed lithological characterization, hydraulic tests, level monitoring and environmental control.
+The drilling contemplated careful execution during drilling without the addition of mud.
+drilling or water to be able to recognize the contributions of water to the well and the subsequent measurement
+and correct interpretation of the measured piezometric levels.
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 19
+JANUARY 2024
+==================================================================================
+PAGE 20
+==================================================================================
+Figura 4-6: Pozos Hidrogeológicos
+. Source: APM Consultants
+The location of the hydrogeological wells was chosen for the headwater areas of the basins.
+trying to follow the possible underground flow associated with the topography of the project, together with
+more accurately complement level data for the generation of piezometry.
+The construction of these wells provided relevant information regarding the distribution of the
+Saprolite/Rock interface in terms of its highly variable power (thickness) and with respect to the
+observed hydraulic confinement that occurs on it, with different degrees of pressure, in
+all cases.
+e) Descripción de unidades hidrogeológicas
+Based on the background information presented, the characterization of the units is carried out.
+hydrogeological.
+I. Superior Hydrogeological Unit (UH1 – Saprolite)
+INFORME DE LINEA DE BASE HIDROGEOLÓGIA 20
+JANUARY 2024
+==================================================================================
+PAGE 21
+==================================================================================
+This
+It is the hydrogeological unit that is most extensively developed in the project area.
+It has variable powers that range, for example, from 14m (Well AXWHG22-2) and even
+less, and up to 60m (well VISMIN23-1). It corresponds to the alteration of the different rocks
+present, from which an important presence of clay-type phyllosilicates has developed
+(smectites and montmorillonites, along with kaolins and micas in different proportions) which
+give this unit particular hydraulic characteristics of very low conductivity
+hydraulic.
+Its hydraulic conductivity has been proven by different tests, its record being limited in the
+range of 10E-05 (m/s) and up to 10E-08 (m/s), with a predominant and characteristic value of 10E-
+06 (m/s).
+Usually this unit can accommodate limited saturated zones resulting from infiltration.
+subsurface and relative differences in hydraulic conductivity inside. These domains
+saturated “hanging” shapes give shape to those recognized as plastic levels mentioned above, this
+condition of supersaturation and increased plasticity is limited in the subsoil, it is not
+permanent and tends to occur at the levels closest to the product surface in the period
+rainwater to restore its condition in the dry season
+This unit and its very low permeability strongly controls and limits deep infiltration and
+channels most of the water from precipitation as surface runoff, generating in
+lower or gently sloping areas, small saturated domains, for example, the bottom of
+ravines. Very low permeability conditions do not allow the development of a connection
+hydrogeological between the surface and the semifractured unit; On the contrary, the saprolite establishes
+a confinement condition on the lower unit.
+ii. Main Hydrogeological Unit (UH2 – Saprolite/Rock Interface)
+The Main Hydrogeological Unit or UH2 corresponds to the saturated hydrogeological domain and is
+defined as the subsoil section that goes from the confined saturated water table, with a roof
+composed of a less developed saprolite, together with fractured rock in transition, to the rock
+unchanged as a base. The confinement level corresponding to the ceiling of this unit
+hydrogeological is defined by the pervasive degree of the alteration mineralogy, which
+prints a hydraulic character with much lower hydraulic conductivity in the base of UH1,
+differentiating from this unit, by the difference in the orders of magnitude of the conductivity
+hydraulic.
+Hydraulic conductivity values for this unit (UH2) are in the range of 10E-01
+(m/s) and 10E-02 (m/s).
+Its thickness or power is variable, observing its development in values ranging from 4m.
+(Wells AXWHG22-2; VINMIN23-1) up to 20m (Wells NEPHG22-2; MAIGH22-2; AXEHG22-4)
+as seen in Table 8. Its heterogeneous extension seems to not allow its development in all
+the project area, as shown in some of the geotechnical drillings (tables 8 to 9.
+The hydrostatic confinement to which this unit is subjected, due to the presence of the
+HYDROGEOLOGY BASELINE REPORT 21
+JANUARY 2024
+==================================================================================
+PAGE 22
+==================================================================================
+saprolite in the upper unit, is highly variable in terms of the pressure it sets,
+may be as low as 0.95 m water column of confining pressure (Well AXWHG22-2)
+or almost reach 30 m water column of confining pressure (Wells VISMIN23-1 with 29.89 m;
+AXEHG22-3 with 28.25m (see table 4-7).
+Table 4-7: Characteristics of the hydrogeological wells built in the project.
+Note: The INITIAL SATURATED SECTION column defines the power of the UH2 in the well.
+iii. Lower Hydrogeological Unit (UH3 – Basement or Healthy Rock)
+This unit responds to the presence of unaltered rock under UH2 or underlying unit UH1
+when the saturated hydrogeological domain is not developed.
+Its depth is highly variable and although it is slightly influenced by the
+topography, usually occurs deeper or shallower than the morphology of the terrain suggests. It has been
+defined the roof of this unit based on the surface defined as the roof of the rock from
+the geological model associated with the project which is based on control points obtained from the
+per
+geological, geotechnical and hydrogeological formations.
+HYDROGEOLOGY BASELINE REPORT 22
+JANUARY 2024
+P O Z
+M A IH G
+N E P H G
+A X W H G
+JU P H G
+A X E H G
+A X E H G
+V IS M IN
+V IN M IN
+Or
+2 2 -2
+2 2 -2
+2 2 -2
+2 2 -2
+2 2 -4
+2 2 -3
+2 3 -1
+2 3 -1
+P R O F U N D
+P O Z O
+[m]
+6 6
+7 0
+3 0
+6 3
+4 8
+8 0
+7 4
+7 2
+ID A D P R O F U N D ID
+R O C A
+[m b n s]
+6 0
+5 4
+1 8
+5 6
+4 4
+6 0
+6 8
+5 8
+A D
+C O N
+L IV E L D E
+END A M IE N
+[m b n s]
+4 1
+3 4
+1 4
+5 0
+2 6
+5 4
+6 0
+5 4
+T O
+T R A M O S A T
+IN IC IA
+[m]
+1 9
+2 0461
+8684
+UL R A D O L E L E S T A B IL
+L I B R E
+[m b n s]
+2 5,7 6
+1 9 .5 6
+1 3.0 5
+2 8,2 2
+2 0.4 4
+2 5,7 5
+3 0,1 1
+4 8,3 1
+L A D O
+c
+C O L U M N
+P R E S I O N
+O N F IN A N
+1 5 ,2 4
+1 4,4 4
+0.9 5
+2 1,7 8
+5,5 6
+2 8,2 5
+2 9,8 9
+5,6 9
+A
+T E c
+%
+or n
+c o lu m n a
+to ta l v s
+end to me
+4 5%
+4 2%
+1 9%
+7 8%
+2 4%
+8 2%
+7 9%
+5 9%
+==================================================================================
+PAGE 23
+==================================================================================
+4.3 PIEZOMETRY
+The first relevant piezometric condition corresponds to the degree of existing confinement
+on the hydrogeological unit with the presence of UH2 water. It can be seen that the degree of
+confinement is variable as shown in table 4-11, above.
+After the rapid deconfinement produced by the construction of the wells, it can be seen
+variations in the level of the wells throughout the year. The next graphs show the level of
+confinement present in each well and the evolution of its levels measured according to the data of
+Table 4.8. Data includes occurrence of saturated level with respect to roof depth
+of rock. Then you see the increase in the level until it stabilizes (indicating its degree of
+confinement). Charts of representative wells have been included, keeping track of
+continuous for almost a full year (between January and November 2023).
+Table 4-8: Level data measured in hydrogeological wells
+HYDROGEOLOGY BASELINE REPORT 23
+JANUARY 2024
+==================================================================================
+PAGE 24
+==================================================================================
+Figure 4-7: Representative groundwater levels
+. Source: APM Consultants
+Note: Ordinate axis indicates depth (m) for basal rock location, confined level and measured piezometric height
+(blue dots)
+HYDROGEOLOGY BASELINE REPORT 24
+JANUARY 2024
+==================================================================================
+PAGE 25
+==================================================================================
+Figure 4-8: Integrated underground levels
+. Source: APM Consultants
+The behavior of the level in the wells, once stabilized from confinement, is relatively
+constant throughout the year.
+Considering the number of hydrogeological wells built specifically for control
+environmental and level, a search and identification of additional wells was carried out,
+geological and geotechnical exploration, with relevant piezometric information that allows
+increase the amount of data regarding the occurrence of water and valid piezometric levels.
+Thus, 19 additional points with valid level information were identified, which are recorded in
+Table 4-9
+Of the validated data, the greatest variation is seen in the hydrogeological wells VISMIN23_1 and
+VINMIN23_1. However, its last measurement dates back months and very close to its construction,
+so the previous level record could reflect a value in the process of achieving balance and
+final stabilization of the deconfined level. Notwithstanding the above, this information was maintained
+that allows it to be counted on for reference and complementary purposes,
+The data validation included the following aspects:
+▪ Have a water level greater than 1m.
+▪ Have a fund similar to the original fund reached in construction
+▪ If it has a high variation in its bottom (over 10m) it does not show great variation in the level
+(less than 20% of the bottom variation) and maintain a water column greater than 5m.
+HYDROGEOLOGY BASELINE REPORT 25
+JANUARY 2024
+==================================================================================
+PAGE 26
+==================================================================================
+▪ Validate the measurement in terms of its local hydrogeological context and nearby wells.
+similar depths.
+tab
+la 4-9: Points with additional validated piezometric information
+These points will be used later for the construction of piezometric surfaces.
+4.3.1 PIEZOMETRIC ISOLINES AND PROFILES
+The construction of the project isopieces was based on the data mentioned below in
+order according to their degree of trust or quality of the record:
+Guiding points:
+- 8 hydrogeological wells 2022 (yellow circles).
+- 27 geotechnical wells from the 2022 campaign (yellow diamonds),
+- 17 wells of different types of drilling from years prior to 2022, which were
+validated in the aforementioned field campaigns (green circles)
+Auxiliary points:
+- 180 data from measurements and indirect observations from campaign drilling
+above (diamonds and blue circles).
+HYDROGEOLOGY BASELINE REPORT 26
+JANUARY 2024
+==================================================================================
+PAGE 27
+==================================================================================
+Figure 4-9: Distribution of points used in the construction of the isopieces.
+. Source: APM Consultants
+Note: Hydrogeological Wells (yellow circles), Geotechnical Wells 2022 (yellow diamonds). Other wells
+validated (green circles), indirect observation auxiliary data (blue circles).
+For the purposes of preparing the piezometry, the guiding points were considered jointly.
+with the auxiliary points; It should be noted that the guiding and auxiliary points tend to be
+concentrated in the areas of greatest interest of the project and are not necessarily
+distributed homogeneously throughout the project area, however, the information collected
+It allows us to have elements of judgment for the preparation of isopieces.
+The guiding points were maintained as a basis and the development of curves of equal level was supported
+piezometry in the auxiliary points and in the conceptualization that the piezometry should be
+HYDROGEOLOGY BASELINE REPORT 27
+JANUARY 2024
+==================================================================================
+PAGE 28
+==================================================================================
+modulated by the topography, constructing adjusted piezometries with the available information
+and the considerations already mentioned for each of the Victoria Norte, Luna and Maite sites.
+The following figure presents an overview of the location of the profiles considered for the
+effects of the indicated characterization.
+Figure 4-10: General location of hydrogeological profiles
+Note: Wells are identified in fig. 4-9
+Source: Own elaboration APM
+Subsequently, through the use of geostatistical tools, a piezometry was generated.
+joint area
+In the case of the Victoria North sector, the wells show different levels of confinement and
+different powers regarding the development of the confined-saturated level (development of the interface
+saprolite healthy rock or UH2). In the lower part of the profile, the VINMIN23-1 well reaches the unaltered rock
+HYDROGEOLOGY BASELINE REPORT 28
+JANUARY 2024
+==================================================================================
+PAGE 29
+==================================================================================
+at 58m, with a saturated level at 54m and a deconfined piezometric level at 48m (6m of
+confining pressure). At the high head of the profile, well JUPHG22-2 encounters unaltered rock.
+58m, with a saturated level at 52m and a deconfined piezometric level at 28m (26m of
+confining pressure). In the intermediate zone of the profile, the auxiliary well, characterization well
+geotechnical, did not identify an important layer of saturated level when drilled, however,
+found the rock at 70m depth and showed an unconfined piezometric level of 32m
+(almost 40m of confining pressure). This accounts for the existing heterogeneities with respect to the
+saturated domain and how it manifests itself in this area. The following figures present the
+piezometry and sector profile.
+Figure 4-11: Victoria North sector isopieces.
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 29
+JANUARY 2024
+==================================================================================
+PAGE 30
+==================================================================================
+Figure 4-12: Profile and piezometry of the Victoria North sector
+Source APM Consultores
+To the NE of the Project works, wells AXEHG22-2,
+AXEHG22-3 and AXEHG22-4 show different
+confinement levels and different powers regarding the development of the confined-saturated level
+(development of the saprolite healthy rock interface or UH2). In the lower part of the profile, well AXEHG22-2,
+drilled in intrusive rock, shows a confined saturated domain of 4m and a level of
+confinement of only 0.95m. In the middle part, well AXEHG22-4, drilled in intrusive rock,
+shows a confined saturated domain of 18m and a confinement level of 5.56m. In the part
+high profile, well AXEHG22-4, drilled in metapelites, shows a saturated domain
+confined area of 6m and a confinement level of 28.25m. Geotechnical wells that end
+completing the profile allow establishing the piezometric surface demonstrating its disconnection in
+almost 26m of some saturated areas or domains. This indicates that the saprolite can evidence
+certain moisture content, but for the most part, it is dry or with some
+humidity level well below its saturation.
+HYDROGEOLOGY BASELINE REPORT 30
+JANUARY 2024
+==================================================================================
+PAGE 31
+==================================================================================
+Figure 4-13: Alexandra East and West sectors isopieces
+Note: In red a profile trace that exemplifies piezometric level and saturated-confined domain.
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 31
+JANUARY 2024
+==================================================================================
+PAGE 32
+==================================================================================
+Figure 4-14: Profile and piezometry of Alexandra East and West sectors.
+Source APM Consultores
+For the Victoria South sector, confinement is more marked towards the ends of the profile
+reducing in the central part of this, but as indicated it maintains the behavior
+general already described; That is, the isopieces generally show good agreement with features
+morphological and topographical suggesting flow directions from the topographically most
+high towards the ravines. For the Luna sector, the estimated location of the piezometric level
+shows a piezometric height with respect to the roof of the lower basement in relative terms,
+Notwithstanding the above, the general conditions already mentioned are maintained. Regarding the sector
+Maite, the development of piezometry does not show such marked confinement conditions and is
+develops in accordance with the orography of the sector.
+HYDROGEOLOGY BASELINE REPORT 32
+JANUARY 2024
+==================================================================================
+PAGE 33
+==================================================================================
+Figure 4-15: Victoria South sector isopieces
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 33
+JANUARY 2024
+==================================================================================
+PAGE 34
+==================================================================================
+Figure 4-16: Profile and piezometry of the Victoria South sector
+Source APM Consultores
+Figure 4-17: Moon sector isopieces
+Source APM Consultores
+HYDROGEOLOGY BASELINE REPORT 34
+JANUARY 2024
+==================================================================================
+PAGE 35
+==================================================================================
+Figure 4-18: Moon sector profile and piezometry
+Source APM Consultores
+Figure 4-18: Maite sector isopieces
+Source: APM Consultants
+HYDROGEOLOGY BASELINE REPORT 35
+JANUARY 2024
+==================================================================================
+PAGE 36
+==================================================================================
+Figure 4-19: Profile and piezometry of the Maite sector.
+Source APM Consultores
+In summary and in an integrated manner for the area of influence, it should be noted that, in general, the
+observed depth of the piezometric level is around 20 m.b.n.s. becoming shallower in
+some points close to the ravines, without being superimposed on them.
+The piezometry and flow lines adjust well in each of the sectors where they were
+built. When constructing a general piezometry of the project area (
+Figure 4-20: General flow lines project area) the result follows the trend
+topographic/hydrographic, and it must be kept in mind that, considering a larger scale
+detailed, it is
+It is expected that there will be local directions according to the local relief. The main addresses are
+that provide the behavior of the system, correlated with the hydrography, considering that
+the discharge of the few flows passing through UH2 could materialize at some low points
+from the ravines to the channels.
+The piezometries generated for each sector are based on the piezometric level found in
+those guiding wells (those with more complete information and better representativeness), the
+which in all cases whose pressure height exceeds the ceiling of the domain or domains
+saturated hydrogeological sites hosted at the saprolite-healthy rock interface. This piezometric surface
+represents the level at which water would be found freely in the saprolite in the absence of
+confinement condition described previously. The surface that delimits the saturated levels
+It differs from the piezometric surface being deeper. This surface that defines the
+ceiling of the saturated confined domain develops with different powers and extensions under
+aspects that respond to multiple factors (lithology of the protolith, alteration, etc.). The information
+available in wells drilled in early stages of recognition and characterization of the
+project, with shallower wells that did not reach levels close to the interface ceiling
+saprolite-healthy rock, and that in most cases did not show any presence of water,
+allowed establishing an index of the depth of the roof of the aforementioned interface. The wells
+that reach the basement and wells drilled for exclusively hydrogeological purposes
+They allow generating the base information for these purposes.
+This confinement effect has been evident in the deep drillings that have reached
+effectively the saturated domain and the healthy rock.
+HYDROGEOLOGY BASELINE REPORT 36
+JANUARY 2024
+==================================================================================
+PAGE 37
+==================================================================================
+In unit UH2 the piezometry shows confinement condition imposed by unit UH1
+(saprolite) with different degrees of intensity, depending on the morphological characteristics. The
+presence of water in the UH2 unit is quite meager, as noted in the following point,
+showing poor storage capacity or performance to sustain flows of a certain
+significance.
+The constructed piezometries cover all sectors of direct intervention of the project on
+the terrain, covering an area that is representative for each of them and as a whole
+for the entire area of influence.
+Figure 4-20: General flow lines for the project area
+Source APM Consultores
+HYDROGEOLOGY BASELINE REPORT 37
+JANUARY 2024
+==================================================================================
+PAGE 38
+==================================================================================
+4.4 WELL PERFORMANCE
+Pumping tests were carried out distributed within the project area, with the intention of
+obtain a better understanding of the hydraulic response of wells and their materials
+constituents, of which as will be seen below, it can be seen that the performance is
+very low.
+All tests were carried out with flow rates of 0.2 l/s and 0.44 l/s. The levels followed a line
+of decreasing trend until reaching the exhaustion of the well in
+variables between 3 min and 540 min. (figures 4-21, 4-22, 4-23 and 4-24); In two cases it was achieved
+stability. The pumping flows are very low, and in accordance with the above
+It can be concluded that in a stratum where water exists, there is very low or almost no productivity.
+hydrogeological.
+Beyond obtaining a numerical parameter, the tests revealed a condition of very
+low or almost no flow through the unit with the presence of water. The condition of confinement
+gives pressure to the existing water, however, the height of the unconfined piezometric column does not
+It is sustained over time and is reduced until the well dries up in minutes under flow extractions.
+of the indicated order; This indicates that the medium is not capable of providing or sustaining flows even with
+magnitudes as small as those mentioned.
+Figure 4-21: NEPHG 022-2 and MAIHG 22-2 borehole pumping test
+Source APM Consultores
+HYDROGEOLOGICAL BASELINE REPORT
+At 38
+JANUARY 2024
+==================================================================================
+PAGE 39
+==================================================================================
+Figure 4-22: AX HG 22-2 to 22-4 probe pumping test
+Source APM Consultores
+Figure 4-23: JUP HG 22-2 and VISMIN 23-1 drilling pumping test
+Source APM Consultores
+HYDROGEOLOGY BASELINE REPORT 39
+JANUARY 2024
+==================================================================================
+PAGE 40
+==================================================================================
+The location of the pumping tests is presented in Figure 4-24 below.
+Figure 4-24. Pumping tests
+Source: APM Consultants
+The results of pumping tests show that mostly at the level where the
+occurrence of water exists, it does not permanently or constantly sustain flows between 0.2 and 0.44
+l/s. Furthermore, it is observed that at different points within the project area, the majority
+observes that pumps of this amount are exhausted in a short time; showing a very scarce
+productivity, in practice almost zero, taking into consideration the rainfall in the sector.
+HYDROGEOLOGY BASELINE REPORT 40
+JANUARY 2024
+==================================================================================
+PAGE 41
+==================================================================================
+4.5 HYDROMETEOROLOGY AND CLIMATE RISK
+To define the negative synergy that the climate factor may exert on the component
+of the area of influence, the evaluation of the hydrometereological parameters was considered
+understanding its evolution over time added to this threat factor. It is necessary to present
+that part of the analyzed indicators correspond to those that have some impact regarding
+of the hydrological balance at the basin level, considering the location of the project and the
+hydrogeological characteristics analyzed in this chapter.
+In this sense, the projection (simulation) of climatic parameters that influence the
+availability and characteristics of the water resource, which were chosen from the database
+from the portal arclimb.mma.gob.cl of the Ministry of Environment:
+- Temperature
+- Drought frequency (%)
+- Consecutive Dry Days
+- Potential evapotranspiration
+- Maximum daily precipitation
+- Precipitation intensity
+Figure 4-26 shows the progression of these threats through different parameters.
+climatic conditions linked in time for the commune of Penco.
+HYDROGEOLOGY BASELINE REPORT 41
+JANUARY 2024
+==================================================================================
+PAGE 42
+==================================================================================
+Figure 4-26: Climate Threats linked to the water component for the Commune of
+Penco.
+HYDROGEOLOGY BASELINE REPORT 42
+JANUARY 2024
+==================================================================================
+PAGE 43
+==================================================================================
+HYDROGEOLOGY BASELINE REPORT 43
+JANUARY 2024
+==================================================================================
+PAGE 44
+==================================================================================
+Source: Developed based on information from www.arclimb.mma.gob.cl
+Simulation (Mean Value) derived from ArClimb (MMA) data predicts an increase in
+maximum daily temperatures on average of 1°C by the year 2060, and along with it the increase
+of the probability of drought and dry days; and consequently an acceleration in the rate of
+evapotranspiration resulting from climate changes. In the case of maximum rainfall
+daily, this is projected below the historical maximums so it corresponds to a
+condition that would affect the inputs to the basin's water system; However, the projection of
+HYDROGEOLOGY BASELINE REPORT 44
+JANUARY 2024
+==================================================================================
+PAGE 45
+==================================================================================
+The intensity of precipitation predicts an increase in frequency of 10% in intensities
+2 mm/day.
+5 CONCLUSIONS
+The location area of the Characterization Project is located in the Cordillera de La Costa, in
+which outcrops intrusive and metamorphic crystalline rocks with very low to no permeability.
+ad
+primary. On a regional scale this area is defined as an area of zero hydrogeological importance.
+(reference).
+At the project level, it is worth mentioning that as a result of the climate of the area, temperate with periods
+of well-marked rains, in addition to the important vegetation cover, processes occur
+intense chemical and physical weathering in the batholith rocks, causing the alteration of the
+primary clay mineralogy and the disintegration of the most resistant mineral grains.
+The result of this results in a residual soil called Saprolite, which extends
+semi-horizontally, in a large part of the project area, and is where the
+Rare Earth resources. The saprolite develops extensively and preponderantly,
+also conferring a level with characteristics that strongly condition infiltration and
+movement of groundwater.
+The permeability in the Saprolite is conditioned by the important clay content, which
+reasons that this horizon tends to act as an aquitard, even more restrictive since it does not
+presents vertical presence of water; although in the most superficial parts it can be observed
+the occurrence of wetting of this soil, associated with climatic conditions, but without
+establish a saturation and water flow condition. This situation is restricted to sectors
+shallow and locally situated.
+The unit made up of saprolite presents very low permeability conditions that do not
+allows a hydrogeological connection between the surface and the semifractured unit. In this
+In this sense, the saprolite establishes a confinement condition that implies that the existing water
+is under pressure.
+In the transition between the Saprolite and the basal rock (UH2), it corresponds to a unit composed of
+a less developed saprolite mixture of a semi-chemically disintegrated and fractured rock,
+which infers distinctive hydraulic characteristics from the rest of the units, with greater
+relative permeability with respect to the overlying unit. In fact, the occurrence of water is
+detected in this deep transition zone between saprolite and healthy rock, where the permeabilities
+They are larger by several orders of magnitude, however, of very low productivity.
+The pumping tests carried out show that for extremely low flow rates (0.2 to 0.4
+l/s) exhaustion occurs mostly in very short times (between minutes and a few
+hours); which indicates that it is a system of very poor water productivity, consistent with what has already
+indicated.
+HYDROGEOLOGY BASELINE REPORT 45
+JANUARY 2024
+==================================================================================
+PAGE 46
+==================================================================================
+In fact, the level formed by the saprolite gives it confinement conditions that
+establish pressure conditions; piezometry, with very low or meager throughflows,
+It presents variable degrees of confinement. However, the above, the small amount of the
+performance of the UH2 unit does not allow consideration of giving it a valuation assignment
+hydrogeological with some relevance, in terms of storage or permanent flow.
+In summary and in accordance with general hydrogeological studies, they do not conform
+aquifers of hydrogeological importance in the project area, rather it is characterized with
+zero hydrogeological importance, in accordance with what the Hydrogeological Map of
+Chile; that is, very low permeabilities, little storage potential and little
+productivity. In fact, this hydrogeological sector is not used as an underground resource for
+importance as a source of drinking or irrigation water supply.
+6 REFERENCES
+Technological Research Institute, Soil Mechanics Laboratory, University of
+Conception. (2016) Report 2016-101. BioLanthanides Project.
+Inerco (2018). Environmental Impact Study, BioLanthanides Project. Chapter 4: Baseline
+Inerco. (2018). Geology Areas of Interest of Penco, BioLantánidos Project.
+TANDEM (2014). Hydrogeological Characterization of El Cabrito Farm, Final Report.
+General Directorate of Water (1986). Study of the national hydrogeological map. Scales
+1:1,000,000 and 1:2,500,000
+General Directorate of Water (1989). Hydrogeological Map scale 1:1,000,000.
+HYDROGEOLOGY BASELINE REPORT 46
+JANUARY 2024

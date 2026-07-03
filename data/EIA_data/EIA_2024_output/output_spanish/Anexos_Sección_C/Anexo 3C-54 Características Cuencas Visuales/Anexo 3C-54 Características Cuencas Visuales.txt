@@ -1,0 +1,249 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 3C-54
+Caracterización
+Cuencas Visuales
+EIA "Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras"
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 CARACTERIZACIÓN DE LAS CUENCAS VISUALES ............................................................................ 3
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 1. Características cuenca Visual Punto de Observación PO1 .............................................................. 4
+Tabla 2. Características cuenca Visual Punto de Observación PO2 .............................................................. 5
+Tabla 3. Características cuenca Visual Punto de Observación PO3 .............................................................. 6
+Tabla 4. Características cuenca Visual Punto de Observación PO4 .............................................................. 7
+Tabla 5. Características cuenca Visual Punto de Observación PO5 .............................................................. 8
+Tabla 6. Características cuenca Visual Punto de Observación PO6 .............................................................. 9
+Tabla 7. Características cuenca Visual Punto de Observación PO7 ............................................................ 10
+Tabla 8. Características cuenca Visual Punto de Observación PO8 ............................................................ 11
+Tabla 9. Características cuenca Visual Punto de Observación PO9 ............................................................ 12
+Tabla 10. Características cuenca Visual Punto de Observación PO10 ........................................................ 13
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 CARACTERIZACIÓN DE LAS CUENCAS VISUALES
+Tal como se señaló en la Línea Base de Valor Paisajístico, la cuenca visual (CV) corresponde a la porción de
+terreno visible desde un determinado PO. En términos geográficos representa todos aquellos elementos
+que puede percibir el observador en su localización real (Español, 1998).
+De manera operativa, las CV se obtienen a través de la modelación en ArcGIS 10.5®, en el módulo
+Viewshed, el cual entrega de forma automática la cuenca visual desde un punto o ruta, en función de las
+características topográficas obtenidas a través de un Modelo Digital de Terreno o DEM. No obstante, las
+cuencas visuales teóricas se ajustan en función de la condición de visibilidad directa, que corresponde a la
+observación directa del especialista en terreno, identificando barreras visuales in situ, como topografía
+principalmente dada por las altas cumbres que enmarcan las cuencas visuales, la vegetación o las
+estructuras antrópicas. La delimitación y análisis de las CV consideran umbrales máximos de visión o
+distancias críticas de visibilidad, ya que a medida que los objetos se alejan del observador, sus detalles van
+dejando de percibirse, hasta que llega un momento en que el objeto completo deja de distinguirse.
+Teniendo en cuenta lo planteado por la Guía para la Evaluación de Impacto Ambiental del Valor Paisajístico
+en el SEIA del SEA (2019), para la presente Línea Base se considera como distancia máxima o crítica de
+alcance visual los 3.500 m, ya que a partir de esa distancia el observador deja de percibir con nitidez un
+objeto determinado.
+Una vez definidas las CV, éstas se caracterizan a partir de los siguientes parámetros:
+• Tamaño: es la cantidad de superficie vista desde el punto de observación. Puede ser grande o
+extensa, mediana y pequeña.
+• Forma: se relaciona con la forma geométrica de la cuenca. Puede ser circular, semicircular, alargada
+e irregular.
+• Tipos de vista: corresponde a las vistas obtenidas de la cuenca. Pueden ser panorámicas (límites
+lejanos y vista generalizada de lugar); focalizadas (cuencas muy cerradas donde la vista se enfoca
+directamente hacia un punto específico); cerradas (se ven primeros y segundos planos); y mixtas.
+• Compacidad: corresponde a la mayor o menor presencia de zonas no vistas (sombra) dentro de la
+cuenca visual, es decir, hace referencia a la cantidad de zonas ocultas dentro de una determinada
+vista.
+• Posición del observador: corresponde la relación de la localización del observador y la posición
+espacial de los elementos del paisaje, determinada principalmente por la topografía, lo que
+condiciona la apreciación de la composición escénica del conjunto. De acuerdo con esto, el
+observador se puede ubicar en el llano, en el fondo del valle, a media ladera o en el borde superior
+de la ladera (o cima).
+A continuación, se presenta una descripción de las cuencas visuales de los puntos de observación (PO)
+asociados a rutas y caminos de acceso cercanos al área de instalación del Proyecto.
+3
+================================================================================
+PAGE 5
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 1. Características cuenca Visual Punto de Observación PO1
+Punto de Observación: PO1 Coordenadas: 676.833 Este / 5.927.956 Norte
+Ubicación: Ruta 150 Sector Cosmito Fecha: 13-12-2022 Hora: 13:44 am
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Nororiente Mediana Irregular Focalizada Baja Inferior
+Fuente: GAC
+4
+================================================================================
+PAGE 6
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2. Características cuenca Visual Punto de Observación PO2
+Punto de Observación: PO2 Coordenadas: 677.407 Este / 5.929.058 Norte
+Ubicación: Ruta 150 Sector La Greda Fecha: 13-12-2022 Hora: 12:58 am
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Oriente Mediana Alargada Focalizada Baja Inferior
+Fuente: GAC
+5
+================================================================================
+PAGE 7
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 3. Características cuenca Visual Punto de Observación PO3
+Punto de Observación: PO3 Coordenadas: 679.491 Este / 5.931.720 Norte
+Ubicación: Ingreso Sendero Estero Penco Fecha: 12-12-2022 Hora: 17:43 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Oriente Mediana Alargada Focalizada Baja Inferior
+Fuente: GAC
+6
+================================================================================
+PAGE 8
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 4. Características cuenca Visual Punto de Observación PO4
+Punto de Observación: PO4 Coordenadas: 681.265 Este / 5.931.973 Norte
+Ubicación: Ruta O-390 Fecha: 12-12-2022 Hora: 16:07 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Sur Grande Irregular Focalizada Baja A nivel
+Fuente: GAC
+7
+================================================================================
+PAGE 9
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 5. Características cuenca Visual Punto de Observación PO5
+Punto de Observación: PO5 Coordenadas: 681.817 Este / 5.932.053 Norte
+Ubicación: Ruta O-390 Fecha: 12-12-2022 Hora: 16:11 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Sur Grande Irregular Panorámica Media A nivel
+Fuente: GAC
+8
+================================================================================
+PAGE 10
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 6. Características cuenca Visual Punto de Observación PO6
+Punto de Observación: PO6 Coordenadas: 680.345 Este / 5.930.533 Norte
+Ubicación: Ruta-152 Fecha: 12-12-2022 Hora: 15:52 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Sur Mediana Alargada Panorámica Media Inferior
+Fuente: GAC
+9
+================================================================================
+PAGE 11
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7. Características cuenca Visual Punto de Observación PO7
+Punto de Observación: PO7 Coordenadas: 681.111 Este / 5.929.741 Norte
+Ubicación: Ruta-152 Fecha: 12-12-2022 Hora: 15:11 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Norte Medina Alargada Focalizada Media Inferior
+Fuente: GAC
+10
+================================================================================
+PAGE 12
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 8. Características cuenca Visual Punto de Observación PO8
+Punto de Observación: PO8 Coordenadas: 681.334 Este / 5.929.746 Norte
+Ubicación: Ruta-152 Fecha: 12-12-2022 Hora: 15:14 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Norponiente Mediana Irregular Focalizada Media Inferior
+Fuente: GAC
+11
+================================================================================
+PAGE 13
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 9. Características cuenca Visual Punto de Observación PO9
+Punto de Observación: PO9 Coordenadas: 681.879 Este / 5.929.726 Norte
+Ubicación: Ruta-152 Fecha: 12-12-2022 Hora: 15:18 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Norponiente Mediana Irregular Focalizada Media A nivel
+Fuente: GAC
+12
+================================================================================
+PAGE 14
+================================================================================
+Anexo 3C-54
+Caracterización Cuencas Visuales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 10. Características cuenca Visual Punto de Observación PO10
+Punto de Observación: PO10 Coordenadas: 683.129 Este / 5.929.680 Norte
+Ubicación: Ruta-152 Fecha: 12-12-2022 Hora: 15:24 pm
+Orientación de la Ubicación del
+Tamaño Forma Tipo de vistas Compacidad
+vista panorámica observador
+Norte Grande Irregular Focalizada Media Inferior
+Fuente: GAC
+13

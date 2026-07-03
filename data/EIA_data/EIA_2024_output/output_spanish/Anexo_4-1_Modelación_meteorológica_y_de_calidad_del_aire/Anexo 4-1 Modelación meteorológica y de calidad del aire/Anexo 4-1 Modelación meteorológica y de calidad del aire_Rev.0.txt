@@ -1,0 +1,2805 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 4-1
+Modelación meteorológica y de
+calidad del aire
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Introducción .......................................................................................................................................... 1
+2 Objetivos ............................................................................................................................................... 1
+3 Metodología general ............................................................................................................................. 2
+4 Modelo meteorológico .......................................................................................................................... 3
+4.1 Justificación del modelo meteorológico ....................................................................................... 3
+4.2 Descripción del modelo meteorológico ........................................................................................ 3
+4.3 Dominio modelación ..................................................................................................................... 8
+4.4 Topografía y uso de suelos .......................................................................................................... 10
+4.5 Evaluación del modelo meteorológico ........................................................................................ 12
+4.5.1 Velocidad del viento ............................................................................................................ 14
+4.5.2 Dirección del viento ............................................................................................................. 28
+4.5.3 Temperatura ........................................................................................................................ 51
+4.5.4 Altura capa de mezcla en zona modelada ........................................................................... 61
+4.5.5 Conclusiones modelo meteorológico .................................................................................. 64
+4.6 Normas de calidad del aire .......................................................................................................... 66
+4.7 Línea de base de calidad del aire ................................................................................................ 68
+4.7.1 Estaciones ............................................................................................................................ 68
+5 Modelo calidad del aire ....................................................................................................................... 71
+5.1 Justificación modelo calidad del aire .......................................................................................... 71
+5.2 Descripción modelo de calidad del aire ...................................................................................... 71
+6 Receptores ........................................................................................................................................... 73
+6.1 Receptores discretos ................................................................................................................... 73
+6.2 Receptores grilla .......................................................................................................................... 75
+7 Fuentes de emisión ............................................................................................................................. 76
+7.1 Análisis de resultados de modelación ......................................................................................... 78
+7.1.1 Aporte modelado ................................................................................................................ 78
+7.1.1 Concentraciones totales ...................................................................................................... 82
+7.2 Analisis de aportes de material particulado en zona saturada ................................................... 94
+7.3 Mapas de gradientes espaciales de concentración (isoconcentraciones) .................................. 96
+8 Conclusiones modelo de calidad del aire .......................................................................................... 104
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 4-1: Definición de dominio de modelación. ........................................................................................ 4
+Tabla 4-2: Definición proyección dominios de modelación. ......................................................................... 4
+Tabla 4-3: Características del dominio de modelación. ................................................................................ 8
+Tabla 4-4. Coordenadas estaciones meteorológicas ..................................................................................... 9
+Tabla 4-5. Coordenadas estaciones meteorológicas ................................................................................... 14
+Tabla 4-6: Estadígrafos velocidad del viento. .............................................................................................. 26
+Tabla 4-7: Estadígrafos de desempeño velocidad del viento. Año 2022. ................................................... 27
+Tabla 4-8: Comparativa de Estadígrafos de desempeño velocidad del viento. Año 2022. ......................... 27
+Tabla 4-9: Estadígrafos de temperatura. ..................................................................................................... 60
+Tabla 4-10: Estadígrafos desempeño por temperatura, estación Principal, datos observados y modelados.
+..................................................................................................................................................................... 61
+Tabla 4-11: Comparativa de Estadígrafos de desempeño temperatura. Año 2022. ................................... 61
+Tabla 4-12. Normas primarias de calidad del aire. ...................................................................................... 66
+Tabla 4-13. Normas secundarias calidad del aire ........................................................................................ 66
+Tabla 4-14. Caracterización de Estaciones de Monitoreo de Calidad del Aire............................................ 68
+Tabla 4-15. Resumen Línea de Base Calidad del Aire primaria. Periodo enero 2020 a diciembre 2022. ... 70
+Tabla 4-16. Resumen Línea de Base Calidad del Aire secundaria. Periodo enero 2020 a diciembre 2022. 70
+Tabla 6-1. Receptores de Interés definidos para la modelación ................................................................. 73
+Tabla 7-1. Emisiones anuales por contaminante ........................................................................................ 76
+Tabla 7-2 Resumen de emisiones incorporadas al modelo (año 4 de operación). ..................................... 76
+Tabla 7-3. Aportes estimados en receptores. ............................................................................................. 78
+Tabla 7-4. Aportes porcentuales estimados en receptores respecto de las normas primarias de calidad del
+aire. .............................................................................................................................................................. 79
+Tabla 7-5. Aportes de MPS .......................................................................................................................... 80
+Tabla 7-6. Aportes de SO2 norma secundaria ............................................................................................. 80
+Tabla 7-7. Proyectos con RCA favorable ..................................................................................................... 82
+Tabla 7-8, Aportes otros proyectos con RCA favorable y no ejecutados (µg/m³). ...................................... 84
+Tabla 7-9. Aporte total proyectado MP10 anual (µg/m³) ........................................................................... 85
+Tabla 7-10. Aporte total proyectado MP10 P98 24h (µg/m³) ..................................................................... 86
+Tabla 7-11. Aporte total proyectado MP2,5 anual (µg/m³) ........................................................................ 86
+Tabla 7-12. Aporte total proyectado MP2,5 P98 24h (µg/m³) .................................................................... 87
+Tabla 7-13. Aporte total proyectado NO anual (µg/m³) ............................................................................ 87
+2
+Tabla 7-14. Aporte total proyectado NO P99 1h (µg/m³) .......................................................................... 88
+2
+Tabla 7-15. Aporte total proyectado SO anual (µg/m³) ............................................................................. 89
+2
+Tabla 7-16. Aporte total proyectado SO P99 24h (µg/m³) ......................................................................... 89
+2
+Tabla 7-17. Aporte total proyectado SO P99 1h (µg/m³) ........................................................................... 90
+2
+Tabla 7-18. Aporte total proyectado CO P99 1h (µg/m³) ............................................................................ 91
+Tabla 7-19. Aporte total proyectado CO P99 promedio móvil 8h (µg/m³) ................................................. 91
+Tabla 7-20. Aporte proyectado MPS (mg/m²/día) ...................................................................................... 92
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-21. Aporte proyectado SO anual (µg/m³) ..................................................................................... 92
+2
+Tabla 7-22. Aporte proyectado SO P99,7 24h (µg/m³) .............................................................................. 93
+2
+Tabla 7-23. Aporte proyectado SO P99,73 1h (µg/m³) .............................................................................. 93
+2
+Tabla 7-24. Valores de significancia para el aumento de concentraciones de MP10 y M2,5 sobre receptores
+..................................................................................................................................................................... 94
+Tabla 7-25. Aportes para norma anual de MP2,5. ...................................................................................... 94
+iii
+================================================================================
+PAGE 5
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE FIGURAS
+Figura 3-1. Pasos Metodológicos .................................................................................................................. 2
+Figura 4-1: Extensiones de los dominios 1, 2, 3 y 4 en WRF. ........................................................................ 4
+Figura 4-2: Uso de suelo dominio 4 WRF. ..................................................................................................... 7
+Figura 4-3: Dominio de modelación del Proyecto. ........................................................................................ 9
+Figura 4-4: Dominio de modelación del Proyecto y límites comunales. ..................................................... 10
+Figura 4-5: Topografía del dominio de modelación. ................................................................................... 11
+Figura 4-6: Ciclo diario de la velocidad del viento modelada y observada. Estación Kingston College, año
+2022. ............................................................................................................................................................ 15
+Figura 4-7: Ciclo mensual de la velocidad del viento modelada y observada. Estación Kingston College, año
+2022. ............................................................................................................................................................ 16
+Figura 4-8: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Kingston College, año 2022. ........................................................................................................................ 17
+Figura 4-9: Ciclo diario de la velocidad del viento modelada y observada. Estación Nueva Libertad, año
+2022. ............................................................................................................................................................ 18
+Figura 4-10: Ciclo mensual de la velocidad del viento modelada y observada. Estación Nueva Libertad, año
+2022. ............................................................................................................................................................ 19
+Figura 4-11: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Nueva Libertad, año 2022. .......................................................................................................................... 20
+Figura 4-12: Ciclo diario de la velocidad del viento modelada y observada. Estación Coronel Norte, año
+2022. ............................................................................................................................................................ 21
+Figura 4-13: Ciclo mensual de la velocidad del viento modelada y observada. Estación Coronel Norte, año
+2022. ............................................................................................................................................................ 22
+Figura 4-14: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Coronel Norte, año 2022. ............................................................................................................................ 23
+Figura 4-15: Ciclo diario de la velocidad del viento modelada y observada. Estación Liceo Polivalente, año
+2022. ............................................................................................................................................................ 24
+Figura 4-16: Ciclo mensual de la velocidad del viento modelada y observada. Estación Liceo Polivalente,
+año 2022. ..................................................................................................................................................... 25
+Figura 4-17: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Liceo Polivalente, año 2022. ........................................................................................................................ 26
+Figura 4-18: Rosa de los vientos observada y modelada año 2022. Estación Kingston College. ................ 28
+Figura 4-19: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y
+observadas por intervalos de diferencia en magnitud de velocidad del viento. Estación Kingston College.
+Año 2022. .................................................................................................................................................... 29
+Figura 4-20: Ciclo diario de la dirección del viento observada. Estación Kingston College. Año 2022. ...... 30
+Figura 4-21: Ciclo diario de la dirección del viento modelada. Estación Kingston College. Año 2022. ...... 31
+Figura 4-22: Ciclo estacional de la dirección y velocidad del viento observada. Estación Kingston College.
+Año 2022. .................................................................................................................................................... 32
+iv
+================================================================================
+PAGE 6
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-23: Ciclo estacional de la dirección y velocidad del viento modelada. Estación Kingston College.
+Año 2022. .................................................................................................................................................... 33
+Figura 4-24: Rosa de los vientos observada y modelada año 2022. Estación Nueva Libertad. .................. 34
+Figura 4-25: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y
+observadas por intervalos de diferencia en magnitud de velocidad del viento. Estación Nueva Libertad.
+Año 2022. .................................................................................................................................................... 35
+Figura 4-26: Ciclo diario de la dirección del viento observada. Estación Nueva Libertad. Año 2022. ........ 36
+Figura 4-27: Ciclo diario de la dirección del viento modelada. Estación Nueva Libertad. Año 2022. ......... 37
+Figura 4-28: Ciclo estacional de la dirección y velocidad del viento observada. Estación Nueva Libertad.
+Año 2022. .................................................................................................................................................... 38
+Figura 4-29: Ciclo estacional de la dirección y velocidad del viento modelada. Estación Nueva Libertad. Año
+2022. ............................................................................................................................................................ 39
+Figura 4-30: Rosa de los vientos observada y modelada año 2022. Estación Coronel Norte. .................... 40
+Figura 4-31: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y
+observadas por intervalos de diferencia en magnitud de velocidad del viento. Estación Coronel Norte. Año
+2022. ............................................................................................................................................................ 41
+Figura 4-32: Ciclo diario de la dirección del viento observada. Estación Coronel Norte. Año 2022. .......... 42
+Figura 4-33: Ciclo diario de la dirección del viento modelada. Estación Coronel Norte. Año 2022. .......... 43
+Figura 4-34: Ciclo estacional de la dirección y velocidad del viento observada. Estación Coronel Norte. Año
+2022. ............................................................................................................................................................ 44
+Figura 4-35: Ciclo estacional de la dirección y velocidad del viento modelada. Estación Coronel Norte. Año
+2022. ............................................................................................................................................................ 45
+Figura 4-36: Rosa de los vientos observada y modelada año 2022. Estación Liceo Polivalente. ................ 46
+Figura 4-37: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y
+observadas por intervalos de diferencia en magnitud de velocidad del viento. Estación Liceo Polivalente.
+Año 2022. .................................................................................................................................................... 47
+Figura 4-38: Ciclo diario de la dirección del viento observada. Estación Liceo Polivalente. Año 2022. ..... 48
+Figura 4-39: Ciclo diario de la dirección del viento modelada. Estación Liceo Polivalente. Año 2022. ...... 49
+Figura 4-40: Ciclo estacional de la dirección y velocidad del viento observada. Estación Liceo Polivalente.
+Año 2022. .................................................................................................................................................... 50
+Figura 4-41: Ciclo estacional de la dirección y velocidad del viento modelada. Estación Liceo Polivalente.
+Año 2022. .................................................................................................................................................... 51
+Figura 4-42: Ciclo diario de la temperatura modelada y observada, estación Kingston College. Año 2022.
+..................................................................................................................................................................... 52
+Figura 4-43: Ciclo mensual de la temperatura modelada y observada, estación Kingston College, año 2022.
+..................................................................................................................................................................... 53
+Figura 4-44: Cuantiles condicionales e histograma de temperatura observada y modelada, estación
+Kingston College, año 2022. ........................................................................................................................ 54
+Figura 4-45: Ciclo diario de la temperatura modelada y observada, estación Coronel Norte. Año 2022. . 55
+Figura 4-46: Ciclo mensual de la temperatura modelada y observada, estación Coronel Norte, año 2022.
+..................................................................................................................................................................... 56
+v
+================================================================================
+PAGE 7
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-47: Cuantiles condicionales e histograma de temperatura observada y modelada, estación
+Coronel Norte, año 2022. ............................................................................................................................ 57
+Figura 4-48: Ciclo diario de la temperatura modelada y observada, estación Liceo Polivalente. Año 2022.
+..................................................................................................................................................................... 58
+Figura 4-49: Ciclo mensual de la temperatura modelada y observada, estación Liceo Polivalente, año 2022.
+..................................................................................................................................................................... 59
+Figura 4-50: Cuantiles condicionales e histograma de temperatura observada y modelada, estación Liceo
+Polivalente, año 2022. ................................................................................................................................. 60
+Figura 4-51: Ciclo diario modelado altura de capa de mezcla. Estación Kingston College. Año 2022. ....... 62
+Figura 4-52: Ciclo diario modelado altura de capa de mezcla. Estación Nueva Libertad. Año 2022. ......... 63
+Figura 4-53: Ciclo diario modelado altura de capa de mezcla. Estación Coronel Norte. Año 2022. ........... 63
+Figura 4-54: Ciclo diario modelado altura de capa de mezcla. Estación Liceo Polivalente. Año 2022. ...... 64
+Figura 6-1. Ubicación de los receptores de interés definidos para la modelación. .................................... 74
+Figura 6-2. Grillas de receptores ................................................................................................................. 75
+Figura 7-1. Fuentes emisoras ingresadas al modelo ................................................................................... 77
+Figura 7-2. Receptores en donde se supera aporte definido como de significancia .................................. 96
+vi
+================================================================================
+PAGE 8
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 INTRODUCCIÓN
+El presente documento presenta los resultados de la modelación meteorológica y de dispersión de las
+emisiones presentadas en el “Anexo 1-3 Estimación de emisiones atmosféricas” del Proyecto de Desarrollo
+Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras. El escenario modelado
+corresponde al año de mayores emisiones estimadas, y que será parte de la fase de operación del
+Proyecto. El Proyecto “Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de
+Tierras Raras” (el Proyecto) tiene por objetivo la construcción y operación de una faena minera y una
+planta de procesamiento de arcillas, material presente en la zona, el cual, por efectos naturales, se
+encuentra altamente meteorizado, con presencia de tierras raras en los minerales de arcilla. El Proyecto
+se desarrollará principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin
+perjuicio que una parte menor de las obras se emplazan en la comuna de Concepción, en el límite con la
+Comuna de Penco.
+La modelación considera los lineamientos indicados en la Guía para el uso de Modelos de Calidad del Aire
+en el SEIA, versión 2 (2023), para lo cual es realizada una modelación meteorológica y una modelación de
+dispersión de emisiones. Los aportes en términos de calidad del aire son estimados en receptores de
+interés y dentro del dominio de modelación definido para una grilla de receptores. Con los aportes
+estimados es evaluado el cumplimiento normativo, considerando la línea de base medida en estaciones
+de monitores de calidad del aire para el trienio 2020-2022 dentro del área de influencia del Proyecto.
+Adicionalmente, y considerando que la zona en donde se emplazará el Proyecto cuenta con declaración
+de zona saturada para la norma anual de MP2.51, son evaluados los aportes estimados considerando los
+criterios de evaluación del SEA, indicados en el documento “Impacto de emisiones en zonas saturadas por
+material particulado respirable MP10 y material particulado fino respirable MP2,5” (09/2023).
+2 OBJETIVOS
+• Generación de un campo meteorológico tridimensional con el modelo WRF, para ser utilizado
+como entrada meteorológica para el modelo de dispersión de contaminantes CALPUFF.
+• Análisis de incertidumbre de la modelación meteorológica.
+• Modelación de dispersión de las emisiones estimadas para el año de mayores emisiones estimadas
+del Proyecto con el modelo CALPUFF.
+• Evaluación de cumplimiento normativo de la calidad del aire proyectada, considerando los aportes
+de las distintas fases del Proyecto.
+1 Decreto 15/2015 del Ministerio del Medio Ambiente.
+1
+================================================================================
+PAGE 9
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3 METODOLOGÍA GENERAL
+El escenario de modelación presentado corresponde a la fase de operación del Proyecto (año 6 de
+operación - mayores emisiones), considerando como insumo la descripción del Proyecto en dicha fase. Los
+resultados del inventario de emisiones fueron insumos para la modelación de dispersión realizada con el
+modelo CALPUFF. La meteorología utilizada como input a CALPUFF, corresponde a la generada con el
+modelo de mesoescala WRF para el año 2022 y que se describe en la sección 4. Con la modelación del
+escenario se determinarán los aportes de éstos en la calidad del aire, los que posteriormente son sumados
+a la calidad del aire medida, para proyectar la calidad del aire cuando el proyecto se encuentre en
+operación.
+En el presente informe también se describe la configuración y simulación meteorológica realizada con el
+modelo de pronóstico WRF y se realiza un análisis de incertidumbre a dicha modelación, comparando los
+resultados de parámetros meteorológicos a nivel superficial respecto a los datos medidos en una estación
+de monitoreo meteorológico.
+La metodología general seguida para el estudio se presenta a continuación en la Figura 3-1.
+Figura 3-1. Pasos Metodológicos
+Fuente: GAC
+2
+================================================================================
+PAGE 10
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4 MODELO METEOROLÓGICO
+4.1 Justificación del modelo meteorológico
+Siguiendo los lineamientos de la Guía para el uso de Modelos de Calidad del Aire en el SEIA, la selección
+del modelo meteorológico utilizado en el presente estudio se realizó fundamentándose en las condiciones
+del dominio de modelación del área entorno al proyecto, el cual corresponde a topografía compleja junto
+con la existencia de un borde costero, en dicho caso la Guía recomienda un modelo que permita simular
+una meteorología heterogénea. Por esta razón, el campo meteorológico tridimensional horario del año
+2022 completo fue generado utilizando el modelo meteorológico WRF, en su versión 4.4.1.
+Posteriormente los datos fueron procesados con MMIFv4 para ser utilizados en el modelo de calidad de
+aire CALPUFF. Los archivos meteorológicos digitales son presentados en el Apéndice 4-1.1 del EIA.
+4.2 Descripción del modelo meteorológico
+El modelo de investigación y pronóstico del tiempo (Weather Research and Forecasting - WRF) es un
+sistema de predicción numérico de mesoscala de nueva generación, diseñado para servir pronósticos
+operacionales y para estudio de la atmósfera.
+Se crearon cuatro dominios anidados con resoluciones de grilla de 27, 9, 3 y 1 kilómetro
+correspondientemente, los cuales se muestran en la Figura 4-1, en rojo se indica el dominio de modelación
+más pequeño, el cual se utiliza para alimentar el modelo de dispersión CALPUFF. La Tabla 4-1 y la Tabla
+4-2 muestran la definición de los dominios anidados utilizados en WRF y la proyección geográfica,
+respectivamente.
+3
+================================================================================
+PAGE 11
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-1: Extensiones de los dominios 1, 2, 3 y 4 en WRF.
+Fuente: GAC, en base a Google Earth.
+Tabla 4-1: Definición de dominio de modelación.
+DX DY NX NY KMx KMy Nº Celdas
+Dominio 1 27 27 70 70 1890 1890 4900
+Dominio 2 9 9 67 67 603 603 4489
+Dominio 3 3 3 64 64 192 192 4096
+Dominio 4 1 1 61 61 61 61 3721
+Fuente: GAC.
+Tabla 4-2: Definición proyección dominios de modelación.
+Origen centro Dominio 1 y proyección LCC
+ref_lat -36.8
+ref_lon -73.0
+truelat1 -31.8
+truelat2 -41.8
+stand_lon -73.0
+Fuente: GAC.
+4
+================================================================================
+PAGE 12
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Debido a la geomorfología de la zona oeste del dominio de modelación y a que existen zonas con densidad
+urbana bastante altas, estas zonas presentan velocidades del viento promedio, para los niveles
+superficiales, que son relativamente bajas, velocidades que configuraciones típicas del modelo WRF
+sobreestiman de manera considerable ya que no resuelven de manera satisfactoria el efecto superficie del
+terreno en el comportamiento del viento. Por esta razón en el presente estudió se utilizó una configuración
+mejorada del modelo WRF en conjunto con una configuración para resolver los efectos que el suelo urbano
+tiene sobre la meteorología local y además una opción de resistencia adicional de la topografía de la
+subgrilla, mayores detalles de la configuración se describen a continuación:
+Para realizar la simulación con el modelo WRF se obtuvo la información de uso de suelos a partir de
+información satelital de MODIS2 de la NASA con resolución de 15 segundos de grado, esta información de
+uso de suelo fue complementada con uso de suelo con 10 clasificaciones distintas para suelo urbano
+considerando datos del “world urban database (WUDAPT)”3; por último se utilizó información de elevación
+de terreno a partir de la información topográfica del SRTM (Misión de Radar Topográfico del
+Transbordador Espacial de la NASA4) con resolución de 3 segundos de grado, es decir 90 metros
+aproximadamente. Condiciones iniciales y de borde fueron generadas a partir de los “datos operacionales
+de análisis global”5 de NCEP6 con un grado de resolución espacial de 1° y temporal de 6 horas.
+Se utilizó la configuración de WRF publicada en el estudio de Saide, Mena‐Carrasco et al (2016)7 de
+pronóstico de MP2,5 en Santiago, con la principal excepción de que además se utilizó la opción de
+parametrización urbana BEP (Salamanca, Martilli et al. 2011)8, la cual consiste en un modelo de "canopy
+urbano" de multicapa, configuración que si bien no se utilizó en el mencionado estudio, éste recomienda
+utilizarlo en trabajos futuros. La mencionada configuración urbana ha sido trabajada dentro del contexto
+de la preparación a la postulación al proyecto Fondecyt-11808949, el cual se encuentra finalizado. En
+trabajo precedente a la postulación al Fondecyt se verificó la substancial mejora que produce la
+configuración urbana en la simulación meteorológica para la cuenca de Santiago, particularmente en lo
+que respecta a la reducción en las velocidades de vientos modeladas, se considera que estas mejoras
+también son aplicables a las zonas urbanas de Concepción Metropolitano. En la simulación de WRF
+desarrollada para este informe se profundizó aún más el uso del modelo de “canopy urbano” considerando
+la opción “use_wudapt_lcz”10 la cual considera 10 clasificaciones distintas de uso de suelo urbano (ver
+2 https://modis.gsfc.nasa.gov/
+3 https://www.wudapt.org/
+4 https://www2.jpl.nasa.gov/srtm/
+5 FNL (Final) Operational Global Analysis data
+6 U.S. National Center of Environmental Prediction perteneciente a la NOAA
+7 Saide, P. E., et al. (2016). "Air quality forecasting for winter‐time PM2. 5 episodes occurring in multiple cities in central and southern Chile." Journal of
+Geophysical Research: Atmospheres 121(1): 558-575.
+8 Salamanca, F., et al. (2011). "A study of the urban boundary layer using different urban parameterizations and high-resolution urban canopy parameters
+with WRF." Journal of Applied Meteorology and Climatology 50(5): 1107-1128.
+9 Jorquera, H., Castro J. y Villalobos A.
+10 Brousse, O., Martilli, A., Foley, M., Mills, G., and Bechtel, B. (2016). WUDAPT, an efficient land use producing data tool for mesoscale models?
+Integration of urban LCZ in WRF over Madrid. Urban Climate, 17:116–134.
+5
+================================================================================
+PAGE 13
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-2), las cuales fueron obtenidas del “world urban database (WUDAPT)”11, dentro del sitio web del
+WUDAPT es posible encontrar las herramientas para generar la información de uso de suelos modificada
+para el módulo WPS de WRF.
+Además, se activaron para todos los dominios de la simulación las opciones de "slope_rad" y
+"topo_shading" y “topo_wind”, la primera opción considera el efecto de la pendiente del terreno en el
+flujo de la radiación solar superficial, la segunda considera los efectos de sombra que pueden generar las
+celdas circundantes que posean elevación terreno mayor a la celda considerada y la última considera una
+corrección topográfica para vientos de superficie para representar resistencia adicional de la topografía
+de la subgrilla y además el cálculo de flujo mejorado en las cimas de las colinas, respectivamente. La opción
+“topo_wind” (Jimenez and Dudhia, JAMC 2012) fue utilizada ya que en la zona predominan los vientos
+superficiales de baja magnitud, en parte debido a la complicada geomorfología de la zona, esto vientos
+superficiales de baja magnitud no son resueltos fácilmente por el modelo WRF.
+Adicionalmente a lo ya mencionado, las principales parametrizaciones y configuraciones de las opciones
+físicas del modelo son las siguientes:
+a) Se utilizaron 45 niveles verticales ETA.
+b) Para la estimación de la capa limite planetaria se utilizó el esquema PBL de BouLac-Lacarrère. Una
+opción de predicción de TKE (Turbulent Kinetic Energy). Diseñado para usar con el modelo urbano
+BEP, el cual corresponde a una parametrización urbana de edificaciones BEP (Building
+Environment Parameterization).
+c) Se utilizó la opción “use_wudapt_lcz” para considerar 10 clasificaciones distintitas de uso de suelo
+urbano en la parametrización urbana de edificicaciones BEP, estas coberturas se obtuvieron a
+partir del “world urban database”12 y se procesaron con las herramientas que entrega el sitio web
+asociado al WUDAPT.
+d) Para la estimación de la capa límite superficial se utilizó el esquema Similitud Eta, basado en
+Monin-Obukhov con longitud de rugosidad térmica de Zilitinkevich13 y funciones de similitud
+estándar de tablas de búsqueda
+e) Para la simulación de los intercambios de calor entre superficie y atmosfera se utilizó el “Noah
+Land Surface Model”, modelo que considera temperatura y humedad del suelo en cuatro capas,
+cubierta fraccionada de nieve y física del suelo congelado
+11 https://www.wudapt.org/
+12 https://www.wudapt.org/
+13 Zilitinkevich, S. (1995). Non-local turbulent transport: pollution dispersion aspects of coherent structure of convective flows, Air Pollution III, Vol. 1. Air
+Pollution Theory and Simulation, eds. H. Power, N. Moussiopoulos & CA Brebbia, Comp. Mech. Publ., Southampton, рр.-53-60. In 3rd International
+Conference on Air Pollution (Air Pollution 95), Porto Carras, Greece, Sep (pp. 26-29).
+6
+================================================================================
+PAGE 14
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+f) Por último, para la estimación de formación de nubes se utilizó el esquema convectivo de Betts-
+Miller-Janjic (Betts and Miller 1986, Janjic 1994)14
+La Figura 4-2 muestra el uso de suelos configurado para el dominio 4 de la simulación de WRF.
+Figura 4-2: Uso de suelo dominio 4 WRF.
+Fuente: GAC, en base a datos LCZ15.
+14 Betts, A. K. and M. J. Miller (1986). "A New Convective Adjustment Scheme .2. Single Column Tests Using Gate Wave, Bomex, Atex and Arctic Air-
+Mass Data Sets." Quarterly Journal of the Royal Meteorological Society 112(473): 693-709.
+15 https://www.wudapt.org/
+7
+================================================================================
+PAGE 15
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4.3 Dominio modelación
+El dominio de modelación considerado para el presente Proyecto corresponde a una grilla rectangular de
+50 x 50 km, compuesta por celdas de 1 km por lado, la cual tiene la misma proyección utilizada por el
+modelo WRF y corresponde a un subdominio del dominio 4 modelado con WRF, eliminando 5 celdas por
+borde, siguiendo la recomendación de la guía de MMIF, el cual es el post-procesador utilizado para extraer
+datos de WRF a CALPUFF. En la Tabla 4-3 se presentan las características del área correspondiente al
+dominio de modelación. El dominio elegido abarca a lo menos el área de influencia del Proyecto para los
+distintos componentes ambientales que pueden verse afectados por las emisiones atmosféricas de éste,
+lo que se corrobora más adelante en las gradientes de concentraciones estimadas por el modelo.
+Tabla 4-3: Características del dominio de modelación.
+Característica Eje X (km) Eje Y (km)
+Espaciamiento 1 1
+Longitud 50 50
+Fuente: GAC.
+En la Figura 4-3, se presenta el dominio de modelación utilizado en CALPUFF, donde se destaca en azul las
+estaciones meteorológicas utilizadas en el análisis de incertidumbre del modelo WRF para los parámetros
+de vientos y en rojo la ubicación del Proyecto. Las coordenadas se especifican en la Tabla 4-4. Cabe
+mencionar que con las tres estaciones analizadas se abarca una parte importante del dominio de
+modelación.
+8
+================================================================================
+PAGE 16
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-3: Dominio de modelación del Proyecto.
+Fuente: GAC.
+Tabla 4-4. Coordenadas estaciones meteorológicas
+Coordenadas UTM Datum WGS 84 Huso 18S
+Estación de monitoreo
+Este Norte
+Kingston College 673.817 5.927.247
+Coronel norte 664.628 5.902.487
+Nueva Libertad 667.962 5.932.742
+Liceo Polivalente 682.597 5.947.369
+Fuente: GAC
+9
+================================================================================
+PAGE 17
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La Figura 4-4 muestra en rojo la grilla de modelación utilizada en el modelo CALPUFF, indicado en color
+rojo, respecto al dominio 4 del modelo WRF, indicado en color blanco. La grilla de modelación la totalidad
+de las comunas de Talcahuano, Penco, Hualpén, Concepción, San Pedro de la Paz, Chiguayante y una gran
+parte de las comunas de Tomé, Florida, Hualqui y Coronel. Cabe mencionar que el área de modelación
+corresponde al área de estudio, el área de influencia del componente aire se obtendrá de los resultados
+del modelo de dispersión.
+Figura 4-4: Dominio de modelación del Proyecto y límites comunales.
+Fuente: GAC.
+4.4 Topografía y uso de suelos
+La fuente de información topográfica del dominio de modelación considerado en CALPUFF corresponde a
+cartas topográficas digitales SRTM316 de 90 metros de resolución, las cuales se utilizan el modelo WRF. En
+CALPUFF se utilizó la información topográfica considerada por el modelo WRF. A continuación, se presenta
+una imagen de la topografía, que corresponde al SRTM3 interpolado a la resolución de grilla de 1 kilómetro
+que utilizan los modelos WRF y CALPUFF en este caso.
+16 https://www2.jpl.nasa.gov/srtm/
+10
+================================================================================
+PAGE 18
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La información relacionada con el uso de suelo, de igual manera que la elevación de terreno es utilizada
+directamente del modelo WRF, la cual corresponde a información satelital de MODIS de la NASA con
+resolución de 15 segundos de arco, la caracterización de uso de suelos para cada celda del dominio 4 de
+WRF se puede observar en la Figura 4-2.
+A continuación, en la Figura 4-5, se presenta gráficamente la topografía del dominio modelado, donde se
+destaca en rojo las zonas del dominio de modelación. Cabe destacar la gran complejidad de la
+geomorfología de la zona.
+Figura 4-5: Topografía del dominio de modelación.
+Fuente: GAC, en base a información proporcionada por NASA.
+11
+================================================================================
+PAGE 19
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4.5 Evaluación del modelo meteorológico
+Para evaluar el desempeño de la modelación meteorológica utilizada en el modelo, se han analizado
+estadísticamente los datos medidos de vientos y temperatura durante el año 2022 para cuatro estaciones,
+de manera de abarcar un área importante del dominio de modelación. Se analizó la estación Kingston
+College, a 3,4 kilómetros al suroeste del Proyecto, la estación Liceo Polivalente a 15,9 kilómetros al norte
+del Proyecto, la estación Nueva Libertad ubicada a 10,1 kilómetros al oeste del Proyecto y la estación
+Coronel Norte ubicada a 28,6 kilómetros al suroeste del Proyecto. Las coordenadas se presentan en la
+Tabla 4-5 y las estaciones se pueden ver en la Figura 4-5. Para la evaluación del modelo se han extraído los
+resultados del modelo meteorológico para la coordenada (x,y) donde se emplaza la estación
+meteorológica, a 10 metros de altura, coincidente con la altura del anemómetro de la estación. Las
+variables consideradas para la evaluación corresponden a: velocidad del viento y dirección del viento y
+temperatura. Para cada parámetro se evaluó el ciclo diario y la serie de tiempo. Es importante tener en
+cuenta que los datos de la estación monitora corresponden a datos medidos en un punto, mientras que
+los datos obtenidos del modelo corresponden a datos representativos de una celda de 1 x 1 kilómetros.
+Para la evaluación del modelo, además de comparaciones gráficas, se han utilizado distintos estadígrafos,
+los que se describen a continuación:
+• n corresponde al número total de pares completos
+• Sesgo: Corresponde a la diferencia entre el promedio modelado y el promedio observado
+• FAC2: Predicción fraccionada, o factor de predicciones dentro de un factor de dos de las
+observaciones
+𝑀
+𝑖
+0,5 ≤ ≤ 2
+𝑂
+𝑖
+• Sesgo medio (SM): Éste representa la tendencia del modelo a sobrestimar o subestimar las
+condiciones reales, cuantificando así el error sistemático del modelo. Para valores negativos el
+modelo tiende a subestimar el valor de las variables modeladas, y para valores positivos, el modelo
+tiende a sobreestimar.
+𝑁
+1
+𝑆𝑃 = ∑(𝑀 −𝑂 )
+𝑛 𝑖 𝑖
+𝑖=1
+12
+================================================================================
+PAGE 20
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Error absoluto medio (MAE): Este coeficiente se utiliza para medir el desempeño de modelos y
+consiste en el promedio de los errores absolutos, este coeficiente ignora punto a punto si el
+error es una subestimación o sobreestimación del modelo.
+MAE=
+• Sesgo medio normalizado (SMN): Sesgo medio pero normalizado respecto a los valores
+observados.
+∑𝑛 (𝑀 −𝑂 )
+𝑖=1 𝑖 𝑖
+𝑆𝑀𝑁 =
+∑𝑛 (𝑂)
+𝑖=1 𝑖
+• Error absoluto medio normalizado (NMAE): Corresponde al MAE pero normalizado respecto a
+los valores observados.
+• Error Cuadrático Medio (ECM): Éste entrega la diferencia promedio entre los valores modelados
+y observados.
+𝑛
+(𝑀 −𝑂)2
+𝐸𝐶𝑀 = √∑
+𝑖 𝑖
+𝑛
+𝑖=1
+• Coeficiente de Correlación (r): Este coeficiente entrega una medida de la relación lineal entre la
+variable modelada y la observada. El valor del coeficiente varía en el intervalo [-1,1]. Para el caso
+de la modelación, entre más cercano a 1, mejor es la capacidad del modelo de representar las
+condiciones atmosféricas.
+𝑁
+1 (𝑀 −𝑀̅)(𝑂 −𝑂̅)
+𝑖 𝑖
+𝑟 = ∑
+(1−𝑛) 𝜎 𝜎
+𝑀 𝑜
+𝑖=1
+13
+N M
+ni=
+1
+A
+(
+E
+M
+=
+−
+i
+n
+ni=
+1
+(
+O
+M
+)
+i
+−
+i
+O
+n
+i
+O
+i
+)
+================================================================================
+PAGE 21
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+• Índice de concordancia (IOA): Éste corresponde al índice de concordancia revisado (Willmott et
+al. 2011). El valor del coeficiente varía en el intervalo [-1,1], donde 1 representa un modelo
+perfecto, un valor de 0,5 indica que la suma de las magnitudes de error son la mitad de la suma de
+las magnitudes de las desviaciones observadas, por lo general un IOA mayor que 0,5 indica un
+modelo con buen desempeño. Un coeficiente con valor de 0,0 indica que la suma de las
+magnitudes de error es equivalente a la suma de las magnitudes de las desviaciones observadas y
+un valor de -0,5 indica que son el doble.
+𝐼𝑂𝐴 =1,0− ∑𝑛 𝑖=1 |𝑀𝑖−𝑂𝑖 | cuando ∑𝑛 |𝑀 −𝑂| ≤ 𝑐∑𝑛 |𝑂 −𝑂̅|
+𝑐∑𝑛
+𝑖=1
+|𝑂𝑖−𝑂̅| 𝑖=1 𝑖 𝑖 𝑖=1 𝑖
+𝐼𝑂𝐴 =
+𝑐∑𝑛
+𝑖=1
+|𝑂𝑖−𝑂̅|
+−1,0 cuando ∑𝑛 |𝑀 −𝑂 | > 𝑐∑𝑛 |𝑂 −𝑂̅|
+∑𝑛
+𝑖=1
+|𝑀𝑖−𝑂𝑖 | 𝑖=1 𝑖 𝑖 𝑖=1 𝑖
+Con c = 2.
+A continuación, se presentan los resultados para las variables consideradas, para las estaciones que se
+enumeran en la Tabla 4-5
+Tabla 4-5. Coordenadas estaciones meteorológicas
+Coordenadas UTM Datum WGS 84 Huso 18S
+Estación de monitoreo
+Este Norte
+Kingston College 673.817 5.927.247
+Coronel norte 664.628 5.902.487
+Nueva Libertad 667.962 5.932.742
+Liceo Polivalente 682.597 5.947.369
+Fuente: GAC.
+4.5.1 Velocidad del viento
+A continuación, se presenta el análisis de la velocidad del viento en las cuatro estaciones analizadas.
+4.5.1.1 Kingston College
+En la Figura 4-6 se presenta el ciclo diario de la mediana de la velocidad del viento horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación
+meteorológica Kingston College. En ella, se puede observar que existe cierto nivel de correlación entre los
+ciclos diarios modelados y observados pero el modelo estima velocidades sistemáticamente más altas que
+las medidas.
+14
+================================================================================
+PAGE 22
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-6: Ciclo diario de la velocidad del viento modelada y observada.
+Estación Kingston College, año 2022.
+Fuente: GAC.
+En la Figura 4-7 se presenta el ciclo anual de la mediana de la velocidad del viento observada y modelada
+con los percentiles 5 y 95 en la estación meteorológica Kingston College, donde se puede apreciar que el
+modelo presenta sistemáticamente sesgos positivos respecto a los datos medidos para todos los meses
+del año.
+15
+================================================================================
+PAGE 23
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-7: Ciclo mensual de la velocidad del viento modelada y observada.
+Estación Kingston College, año 2022.
+Fuente: GAC.
+El grafico de la Figura 4-8 muestra una buena correlación entre las velocidades del viento observadas y
+modeladas en estación meteorológica Kingston College para velocidades hasta los 6 m/s, ya que el
+diagrama de dispersión muestra una mediana un tanto inclinada con respecto al modelo perfecto en ese
+tramo, pero con un marcado sesgo positivo entre las magnitudes de la velocidad modelada y medida. En
+el histograma es posible apreciar que las velocidades de viento de mayor frecuencia en el modelo
+corresponden a aquellas entre los 1 m/s y 4 m/s, mientras que para lo observado estas corresponden a las
+velocidades entre 0 m/s y 2 m/s.
+16
+================================================================================
+PAGE 24
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-8: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Kingston College, año 2022.
+Fuente: GAC.
+4.5.1.2 Nueva Libertad
+En la Figura 4-9 se presenta el ciclo diario de la mediana de la velocidad del viento horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación
+meteorológica Nueva Libertad. En ella, se puede observar que el modelo presenta una buena correlación
+con los datos medidos en la estación, pero se presentan sesgos negativos, los cuales son de mayor
+consideración durante las horas de la madrugada.
+17
+================================================================================
+PAGE 25
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-9: Ciclo diario de la velocidad del viento modelada y observada.
+Estación Nueva Libertad, año 2022.
+Fuente: GAC.
+En la Figura 4-10 se presenta el ciclo anual de la mediana de la velocidad del viento observada y modelada
+con los percentiles 5 y 95 en la estación Nueva Libertad, donde se puede en general una alta correlación
+entra ambos ciclos, pero con un sesgo negativo sistemático en todos los meses.
+18
+================================================================================
+PAGE 26
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-10: Ciclo mensual de la velocidad del viento modelada y observada.
+Estación Nueva Libertad, año 2022.
+Fuente: GAC.
+El grafico de la Figura 4-11 muestra en general una muy alta correlación entre las velocidades del viento
+observadas y modeladas en estación meteorológica Nueva Libertad, los histogramas también son muy
+similares con la salvedad de que el modelo presenta una frecuencia mayor de magnitudes de viento de
+magnitud media (entre 2 m/s y 4 m/s) respecto a los datos medidos.
+19
+================================================================================
+PAGE 27
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-11: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación Nueva
+Libertad, año 2022.
+Fuente: GAC.
+4.5.1.3 Coronel Norte
+En la Figura 4-12 se presenta el ciclo diario de la mediana de la velocidad del viento horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación
+meteorológica Coronel Norte. En ella, se puede observar que el ciclo diario de los datos modelados de
+velocidad del viento presenta una alta correlación respecto al ciclo diario de los datos medidos, pero con
+un sesgo positivo sistemático para todas las horas del día, este sesgo es un poco mayor durante las horas
+de la noche.
+20
+================================================================================
+PAGE 28
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-12: Ciclo diario de la velocidad del viento modelada y observada.
+Estación Coronel Norte, año 2022.
+Fuente: GAC.
+En la Figura 4-13 se presenta el ciclo anual de la mediana de la velocidad del viento observada y modelada
+con los percentiles 5 y 95 en la estación meteorológica Coronel Norte, donde se puede apreciar que si bien
+ambos ciclos presentan una alta correlación, el modelo presenta un sesgo positivo sistemático respecto a
+los datos medidos en todos los meses del año.
+21
+================================================================================
+PAGE 29
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-13: Ciclo mensual de la velocidad del viento modelada y observada.
+Estación Coronel Norte, año 2022.
+Fuente: GAC.
+El grafico de la Figura 4-14 muestra una alta correlación entre las velocidades del viento observadas y
+modeladas en estación meteorológica Coronel norte ya que el diagrama de dispersión muestra una
+mediana casi paralela a la recta de 45 grados, pero con un marcado sesgo positivo entre las magnitudes
+de la velocidad modelada y medida. En el histograma es posible apreciar en las frecuencias de las
+magnitudes de vientos que el modelo presenta un sesgo de 1-2 m/s en las frecuencias por categoría de
+viento.
+22
+================================================================================
+PAGE 30
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-14: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación
+Coronel Norte, año 2022.
+Fuente: GAC.
+4.5.1.4 Liceo Polivalente
+En la Figura 4-15 se presenta el ciclo diario de la mediana de la velocidad del viento horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación
+meteorológica Liceo Polivalente. En ella, se puede observar que el ciclo diario de los datos modelados de
+velocidad del viento presenta una alta correlación respecto al ciclo diario de los datos medidos pero con
+un sesgo positivo para casi todas las horas del día.
+23
+================================================================================
+PAGE 31
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-15: Ciclo diario de la velocidad del viento modelada y observada.
+Estación Liceo Polivalente, año 2022.
+Fuente: GAC.
+En la Figura 4-16 se presenta el ciclo anual de la mediana de la velocidad del viento observada y modelada
+con los percentiles 5 y 95 en la estación meteorológica Liceo Polivalente, donde se puede apreciar que si
+bien ambos ciclos presentan una alta correlación, el modelo presenta un sesgo positivo sistemático
+respecto a los datos medidos en todos los meses del año, pero con una menor amplitud de las magnitudes
+de las velocidades del viento.
+24
+================================================================================
+PAGE 32
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-16: Ciclo mensual de la velocidad del viento modelada y observada.
+Estación Liceo Polivalente, año 2022.
+Fuente: GAC.
+El grafico de la Figura 4-17 muestra una alta correlación entre las velocidades del viento observadas y
+modeladas en estación meteorológica Liceo Polivalente ya que el diagrama de dispersión muestra una
+mediana casi paralela a la recta de 45 grados. En el histograma es posible apreciar que las frecuencias de
+las magnitudes de las velocidades de vientos del modelo entre los 2 m/s y los 4 m/s son mayores a las
+observadas.
+25
+================================================================================
+PAGE 33
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-17: Cuantiles condicionales e histograma de velocidad del viento observada y modelada. Estación Liceo
+Polivalente, año 2022.
+Fuente: GAC.
+4.5.1.5 Estadígrafos de desempeño - Velocidad del viento
+La Tabla 4-6 muestra los promedios y máximos de la velocidad del viento en conjunto con el porcentaje
+de calmas, observado y modelado para las cuatro estaciones. Para las estaciones Kingston College, Coronel
+Norte y Liceo polivalente se observa un sesgo positivo con vientos promedios modelados de mayor
+magnitud a los registrados en las estaciones monitoras. Además, para los datos modelados en las
+estaciones mencionadas se observan menores porcentajes de calma (vientos menores a 0,5 m/s) en
+comparación con los datos observados. La estación nueva libertad presenta sesgos negativos con vientos
+promedios modelados de menor magnitud y mayor porcentaje de calma que los datos observados.
+Tabla 4-6: Estadígrafos velocidad del viento.
+Kingston College Nueva Libertad Coronel Norte Liceo Polivalente
+Variable
+Observado Modelado Observado Modelado Observado Modelado Observado Modelado
+Promedio (m/s) 1,47 2,76 3,55 2,96 1,71 2,38 2,14 2,40
+Mediana (m/s) 1,30 2,57 3,42 2,72 1,33 2,09 1,99 2,29
+Máximo (m/s) 7,24 9,67 9,12 9,46 8,31 9,83 8,62 10,88
+26
+================================================================================
+PAGE 34
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Kingston College Nueva Libertad Coronel Norte Liceo Polivalente
+Variable
+Observado Modelado Observado Modelado Observado Modelado Observado Modelado
+Porcentaje de
+calmas 8,2% 1,2% 0,0% 1,5% 18,5% 5,2% 14,9% 1,9%
+Fuente: GAC.
+La Tabla 4-7 muestra los estadígrafos de desempeño y comparación de los datos simulados por WRF
+respecto a los datos medidos en las estaciones meteorológicas. Para la estación Kingston College se aprecia
+un sesgo normalizado (SMN) de 88%, con un error absoluto medio normalizado (NMAE) de 98,4%, una
+adecuada correlación (r) de 0,52 y un índice de concordancia bajo de 0,10.
+Para la estación Nueva Libertad se aprecia un sesgo normalizado (SMN) de -16,5%, con un error absoluto
+medio normalizado (NMAE) de 30%, una correlación (r) de 0,65 y un índice de concordancia alto (mayor a
+0,5) de 0,55.
+Para la estación Coronel norte se aprecia un sesgo normalizado (SMN) de 39,5%, con un error absoluto
+medio normalizado (NMAE) de 57,2%, una adecuada correlación (r) de 0,69 y un índice de concordancia
+alto (mayor a 0,5) de 0,55.
+Para la estación Liceo Polivalente norte se aprecia un sesgo normalizado (SMN) de 11,5%, con un error
+absoluto medio normalizado (NMAE) de 42,8%, una adecuada correlación (r) de 0,64 y un índice de
+concordancia alto (mayor a 0,5) de 0,68.
+Tabla 4-7: Estadígrafos de desempeño velocidad del viento. Año 2022.
+Estación n Sesgo FAC2 BIAS MAE SMN NMAE RMSE r IOA
+Kingston College 8699 1,29 0,48 1,29 1,44 88,0% 98,4% 1,78 0,52 -0,10
+Nueva Libertad 8713 -0,59 0,84 -0,59 1,07 -16,5% 30,2% 1,37 0,65 0,55
+Coronel Norte 8499 0,67 0,65 0,68 0,98 39,5% 57,2% 1,33 0,69 0,55
+Liceo Polivalente 8564 0,25 0,71 0,25 0,92 11,5% 42,8% 1,18 0,64 0,68
+Fuente: GAC.
+Acorde a la “Guía para el uso de modelos de calidad del aire en el SEIA” (MMA,2023), a continuación, se
+indican la comparativa de las métricas para el análisis cuantitativo esperado y obtenido en las estaciones
+monitoras mencionadas anteriormente.
+Tabla 4-8: Comparativa de Estadígrafos de desempeño velocidad del viento. Año 2022.
+Obtenido Esperado
+Estación
+BIAS MAE RMSE r BIAS MAE RMSE r
+Kingston College 1,29 1,44 1,78 0,52
+Nueva Libertad -0,59 1,07 1,37 0,65
+[-2,5;2,5] (m/s) ≤3 (m/s) ≤3,5 (m/s) >0,6
+Coronel Norte 0,68 0,98 1,33 0,69
+Liceo Polivalente 0,25 0,92 1,18 0,64
+Fuente: Guía para el uso de modelos de calidad del aire en el SEIA” (MMA,2023), GAC.
+De la tabla anterior se observa que los estadígrafos muestran un desempeño de los datos modelados y
+por tanto entrega el grado de confianza necesario para una buena interpretación de la dispersión de los
+27
+================================================================================
+PAGE 35
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+contaminantes en el área de estudio, siendo únicamente el coeficiente de correlación (r) en la estación
+Kingston College que no cumple el estadígrafo propuesto por la Guía.
+4.5.2 Dirección del viento
+4.5.2.1 Kingston College
+En la Figura 4-18 se presenta la rosa de los vientos correspondiente a los valores de dirección del viento
+modelada y observada en el punto correspondiente a la estación meteorológica Kingston College. Ambas
+rosas tienen en común las principales componentes de vientos, sur-suroeste (SSO) y suroeste (SO) pero la
+rosa de vientos de direcciones medidas presenta mayor variación que la rosa de vientos modelada,
+mostrando una componente nor-noroeste (NNO) que casi no se aprecia en el modelo.
+Figura 4-18: Rosa de los vientos observada y modelada año 2022.
+Estación Kingston College.
+Observada Modelada
+Fuente: GAC.
+En la Figura 4-19 se presenta un gráfico polar que indica la frecuencia de datos para la desviación del viento
+modelado en grados respecto a la dirección del viento observado, es decir para las 8760 horas del año se
+obtiene la diferencia (o delta) entre el viento modelado y observado, además en tonos de rojo se indica
+frecuencia de datos con magnitudes de viento sobreestimadas respecto a lo observado y en tonos de azul
+frecuencia de datos con magnitudes de viento subestimadas respecto a lo observado. A modo de
+28
+================================================================================
+PAGE 36
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+explicación, un modelo con direcciones de viento que coincidieran perfectamente con lo observado
+presentaría un solo componente norte (0°) con una frecuencia del 100 % en el gráfico polar expuesto.
+El gráfico polar de la Figura 4-19 muestra una frecuencia mucho mayor de datos en tonos burdeos que
+azules, con una frecuencia de datos en color blanco no muy alta, lo que indica un bajo sesgo promedio
+positivo entre ambas series, el delta promedio de la magnitud del viento modelado es 1,3 m/s respecto al
+promedio de las magnitudes observadas. Respecto a las direcciones de viento, los datos observados
+presentan una rotación promedio de solo 9,1 grados en sentido horario, con una frecuencia baja de
+direcciones de vientos con desviaciones mayores a 45 grados entre los datos medidos y modelados.
+Figura 4-19: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y observadas por
+intervalos de diferencia en magnitud de velocidad del viento. Estación Kingston College. Año 2022.
+Fuente: GAC.
+La Figura 4-20 y Figura 4-21 muestran las frecuencias de vientos observadas y modeladas para distintas
+horas del día, donde es posible observar una alta correlación entre las direcciones de viento modeladas y
+observadas más predominantes, pero con la excepción de una componente de viento nor-noroeste (NNO)
+la cual se aprecia a casi todas las horas del día en los datos medidos, mientras que esta no existe para los
+datos modelados.
+29
+================================================================================
+PAGE 37
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-20: Ciclo diario de la dirección del viento observada. Estación Kingston College. Año 2022.
+Fuente: GAC.
+30
+================================================================================
+PAGE 38
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-21: Ciclo diario de la dirección del viento modelada. Estación Kingston College. Año 2022.
+Fuente: GAC.
+La Figura 4-22 y la Figura 4-23 muestran que tanto la velocidad del viento observada y modelada presentan
+máximos durante horas de la tarde, los cuales son más acentuados durante los meses de verano, es posible
+ver que el modelo presenta ciclos diarios según mes del año muy similares a los medidos pero un claro
+sesgo positivo entre el ciclo modelado y el medido. Los ciclos estacionales de vectores de vientos
+observados y modelados no presentan grandes diferencias.
+31
+================================================================================
+PAGE 39
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-22: Ciclo estacional de la dirección y velocidad del viento observada.
+Estación Kingston College. Año 2022.
+Fuente: GAC.
+32
+================================================================================
+PAGE 40
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-23: Ciclo estacional de la dirección y velocidad del viento modelada.
+Estación Kingston College. Año 2022.
+Fuente: GAC.
+4.5.2.2 Nueva Libertad
+En la Figura 4-24 se presenta la rosa de los vientos correspondiente a los valores de dirección del viento
+modelada y observada en el punto correspondiente a la estación meteorológica Nueva Libertad. Las rosas
+de vientos observada y modelada presentan en común componentes de viento noroeste (NO) y la gran
+mayoría de otras componentes secundarias.
+33
+================================================================================
+PAGE 41
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-24: Rosa de los vientos observada y modelada año 2022.
+Estación Nueva Libertad.
+Observada Modelada
+Fuente: GAC.
+El gráfico polar de la Figura 4-25 muestra una mayor frecuencia de tonos azules que burdeos, con una
+frecuencia importante de datos en color blanco, lo que indica que existe sesgo promedio entre ambas
+series de -0,6 m/s, por otro lado los datos observados presentan una rotación promedio de -31,4 grados
+en sentido contra horario, pero con una baja frecuencia de desviaciones mayores a 45 grados.
+34
+================================================================================
+PAGE 42
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-25: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y observadas por
+intervalos de diferencia en magnitud de velocidad del viento. Estación Nueva Libertad. Año 2022.
+Fuente: GAC.
+La Figura 4-26 y Figura 4-27 muestran las frecuencias de vientos observadas y modeladas para distintas
+horas del día, donde es posible observar una alta correlación entre las direcciones de viento modeladas y
+observadas más predominantes, pero con cierta rotación horario diurno.
+35
+================================================================================
+PAGE 43
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-26: Ciclo diario de la dirección del viento observada. Estación Nueva Libertad. Año 2022.
+Fuente: GAC.
+36
+================================================================================
+PAGE 44
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-27: Ciclo diario de la dirección del viento modelada. Estación Nueva Libertad. Año 2022.
+Fuente: GAC.
+La Figura 4-28 y la Figura 4-29 muestran que tanto la velocidad del viento observada y modelada presentan
+máximos durante horas de la tarde, los cuales son más acentuados durante los meses de verano, es posible
+ver que el modelo presenta ciclos diarios según mes del año muy similares a los medidos pero con la
+principal excepción de que las magnitudes de vientos nocturnas modeladas son menores que las medidas.
+37
+================================================================================
+PAGE 45
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-28: Ciclo estacional de la dirección y velocidad del viento observada.
+Estación Nueva Libertad. Año 2022.
+Fuente: GAC.
+38
+================================================================================
+PAGE 46
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-29: Ciclo estacional de la dirección y velocidad del viento modelada.
+Estación Nueva Libertad. Año 2022.
+Fuente: GAC.
+4.5.2.3 Coronel Norte
+En la Figura 4-30 se presenta la rosa de los vientos correspondiente a los valores de dirección del viento
+modelada y observada en el punto correspondiente a la estación Coronel Norte. Las rosas de vientos
+observada y modelada son similares pero se observa cierta rotación entre ellas.
+39
+================================================================================
+PAGE 47
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-30: Rosa de los vientos observada y modelada año 2022.
+Estación Coronel Norte.
+Observada Modelada
+Fuente: GAC.
+El gráfico polar de la Figura 4-31 muestra una frecuencia mayor de datos en tonos burdeos que azules, con
+una frecuencia alta de datos en color blanco, lo que indica un sesgo promedio entre ambas series de 0,7
+m/s. Respecto a las direcciones de viento, los datos observados presentan una rotación promedio de 31,9
+grados en sentido contra horario.
+40
+================================================================================
+PAGE 48
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-31: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y observadas por
+intervalos de diferencia en magnitud de velocidad del viento. Estación Coronel Norte. Año 2022.
+Fuente: GAC.
+La Figura 4-32 y Figura 4-33 muestran las frecuencias de vientos observadas y modeladas para distintas
+horas del día, donde es posible observar una alta correlación entre las direcciones de viento modeladas y
+observadas más predominantes, pero con cierta rotación en todas las horas del día, además las frecuencias
+de vientos con componente este (E) son menores en datos modelados que en los datos medidos.
+41
+================================================================================
+PAGE 49
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-32: Ciclo diario de la dirección del viento observada. Estación Coronel Norte. Año 2022.
+Fuente: GAC.
+42
+================================================================================
+PAGE 50
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-33: Ciclo diario de la dirección del viento modelada. Estación Coronel Norte. Año 2022.
+Fuente: GAC.
+La Figura 4-34 y la Figura 4-35 muestran que tanto la velocidad del viento observada y modelada presentan
+máximos durante horas de la tarde, los cuales son más acentuados durante los meses de verano, es posible
+ver que el modelo presenta ciclos diarios según mes del año muy similares a los medidos con la principal
+excepción de las magnitudes de vientos diarias en meses estivales, donde el modelo presenta magnitudes
+de vientos mayores que los datos medidos. Los ciclos estacionales de vectores de vientos observados y
+modelados presentan gran correlación pero con cierta rotación en los vectores como se ha comentado en
+las imágenes anteriores.
+43
+================================================================================
+PAGE 51
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-34: Ciclo estacional de la dirección y velocidad del viento observada.
+Estación Coronel Norte. Año 2022.
+Fuente: GAC.
+44
+================================================================================
+PAGE 52
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-35: Ciclo estacional de la dirección y velocidad del viento modelada.
+Estación Coronel Norte. Año 2022.
+Fuente: GAC.
+4.5.2.4 Liceo Polivalente
+En la Figura 4-30 se presenta la rosa de los vientos correspondiente a los valores de dirección del viento
+modelada y observada en el punto correspondiente a la estación Liceo Polivalente. Las rosas de vientos
+observada y modelada son similares, sin embargo la rosa de los datos observados muestra una
+componente noreste que el modelo no logra identificar, mientras que este último identifica una frecuencia
+considerable de vientos dirección sur-sureste que no se muestran en la rosa observada.
+45
+================================================================================
+PAGE 53
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-36: Rosa de los vientos observada y modelada año 2022.
+Estación Liceo Polivalente.
+Observada Modelada
+Fuente: GAC.
+El gráfico polar de la Figura 4-31 muestra una frecuencia mayor de datos en tonos burdeos que azules, con
+una frecuencia alta de datos en color blanco, lo que indica un sesgo promedio entre ambas series de 0,2
+m/s. Respecto a las direcciones de viento, los datos observados presentan una rotación promedio de 45,8
+grados en sentido contra horario.
+46
+================================================================================
+PAGE 54
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-37: Gráfico polar con frecuencia de desviación entre direcciones de viento modeladas y observadas por
+intervalos de diferencia en magnitud de velocidad del viento. Estación Liceo Polivalente. Año 2022.
+Fuente: GAC.
+La Figura 4-32 y Figura 4-33 muestran las frecuencias de vientos observadas y modeladas para distintas
+horas del día, donde es posible observar una alta correlación entre las direcciones de viento modeladas y
+observadas más predominantes, pero al igual que se observó en las rosas de los vientos, los datos
+observados muestran una componente noreste que el modelo no logra identificar.
+47
+================================================================================
+PAGE 55
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-38: Ciclo diario de la dirección del viento observada. Estación Liceo Polivalente. Año 2022.
+Fuente: GAC.
+48
+================================================================================
+PAGE 56
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-39: Ciclo diario de la dirección del viento modelada. Estación Liceo Polivalente. Año 2022.
+Fuente: GAC.
+La Figura 4-34 y la Figura 4-35 muestran que tanto la velocidad del viento observada y modelada presentan
+máximos durante horas de la tarde, los cuales son más acentuados durante los meses de verano, es posible
+ver que el modelo presenta ciclos diarios según mes del año muy similares a los medidos.
+49
+================================================================================
+PAGE 57
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-40: Ciclo estacional de la dirección y velocidad del viento observada.
+Estación Liceo Polivalente. Año 2022.
+Fuente: GAC.
+50
+================================================================================
+PAGE 58
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-41: Ciclo estacional de la dirección y velocidad del viento modelada.
+Estación Liceo Polivalente. Año 2022.
+Fuente: GAC.
+4.5.3 Temperatura
+4.5.3.1 Kingston College
+En la Figura 4-42 se presenta el ciclo diario de las medianas de la temperatura horaria modelada y observada
+junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación Kingston College.
+En ella se puede ver que el ciclo diario presenta muy alta correlación entre los datos observados y
+modelados.
+51
+================================================================================
+PAGE 59
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-42: Ciclo diario de la temperatura modelada y observada,
+estación Kingston College. Año 2022.
+Fuente: GAC
+En la Figura 4-43 se presenta el ciclo mensual de temperatura observada y modelada con los percentiles 5
+y 95 en la estación Kingston College, donde es posible apreciar que el ciclo mensual de temperatura
+estimado por el modelo presenta una alta correlación respecto a los datos observados pero con una
+amplitud estacional algo mayor que los datos observados.
+52
+================================================================================
+PAGE 60
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-43: Ciclo mensual de la temperatura modelada y observada,
+estación Kingston College, año 2022.
+Fuente: GAC
+El gráfico de dispersión de la Figura 4-44 muestra una muy alta correlación entre las temperaturas
+observadas y modeladas en estación Kingston College con diagramas también muy similares.
+53
+================================================================================
+PAGE 61
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-44: Cuantiles condicionales e histograma de temperatura observada y modelada, estación Kingston
+College, año 2022.
+Fuente: GAC
+4.5.3.2 Coronel Norte
+En la Figura 4-45 se presenta el ciclo diario de las medianas de la temperatura horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación Coronel
+Norte. En ella se puede ver que los ciclos diarios presentan una alta correlación entre ellos pero se aprecia
+una mayor amplitud térmica diaria en los datos medidos que en los observados, lo que puede indicar un
+mayor nivel de urbanización en la situación real de la zona con respecto al uso de suelo considerado por
+el modelo, lo que es concordante con lo mencionado en la sección de velocidad del viento.
+54
+================================================================================
+PAGE 62
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-45: Ciclo diario de la temperatura modelada y observada,
+estación Coronel Norte. Año 2022.
+Fuente: GAC
+En la Figura 4-46 se presenta el ciclo mensual de temperatura observada y modelada con los percentiles 5
+y 95 en la estación Coronel Norte, donde es posible apreciar que el ciclo mensual de temperatura estimado
+por el modelo presenta una alta correlación respecto a los datos observados pero con un sesgo levemente
+positivo para todos los meses, presentándose una mayor amplitud estacional en los datos medidos con
+respecto a los modelados, la razón de esto tiene la misma explicación que la mencionada en los ciclos
+diarios.
+55
+================================================================================
+PAGE 63
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-46: Ciclo mensual de la temperatura modelada y observada,
+estación Coronel Norte, año 2022.
+Fuente: GAC
+El gráfico de dispersión de la Figura 4-47 muestra una alta correlación entre las temperaturas observadas
+y modeladas en estación la Coronel Norte, pero con un sesgo positivo entre los datos modelados y
+medidos, este sesgo positivo es más notorio para valores extremos de temperaturas.
+56
+================================================================================
+PAGE 64
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-47: Cuantiles condicionales e histograma de temperatura observada y modelada, estación Coronel
+Norte, año 2022.
+Fuente: GAC
+4.5.3.3 Liceo Polivalente
+En la Figura 4-48 se presenta el ciclo diario de las medianas de la temperatura horaria modelada y
+observada junto con los percentiles 5 y 95 de los datos en el punto correspondiente a la estación Liceo
+Polivalente. En ella se puede ver que los ciclos diarios presentan una alta correlación entre ellos, con un
+ligero seso positivo.
+57
+================================================================================
+PAGE 65
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-48: Ciclo diario de la temperatura modelada y observada,
+estación Liceo Polivalente. Año 2022.
+Fuente: GAC
+En la Figura 4-49 se presenta el ciclo mensual de temperatura observada y modelada con los percentiles 5
+y 95 en la estación Liceo Polivalente, donde es posible apreciar que el ciclo mensual de temperatura
+estimado por el modelo presenta una alta correlación respecto a los datos observados pero con un sesgo
+levemente positivo para todos los meses.
+58
+================================================================================
+PAGE 66
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-49: Ciclo mensual de la temperatura modelada y observada,
+estación Liceo Polivalente, año 2022.
+Fuente: GAC
+El gráfico de dispersión de la Figura 4-50 muestra una alta correlación entre las temperaturas observadas
+y modeladas en estación la Liceo Polivalente, pero con un sesgo positivo entre los datos modelados y
+medidos, este sesgo positivo es más notorio para valores extremos de temperaturas.
+59
+================================================================================
+PAGE 67
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-50: Cuantiles condicionales e histograma de temperatura observada y modelada, estación Liceo
+Polivalente, año 2022.
+Fuente: GAC
+4.5.3.4 Estadígrafos de desempeño - Temperatura
+La 2, 0,84 y 0,73 y 0,84 y 0,68 para las estaciones Kingston College, Coronel norte y Liceo polivalente
+respectivamente.
+Tabla 4-9 muestra el promedio, mediana máximo y mínimo de temperatura observada y modelada para la
+estación Kingston College, Coronel norte y liceo polivalente, donde se muestra que para todas las
+estaciones el modelo estima temperaturas levemente superiores a las observadas. Por otra parte, la Tabla
+4-10 muestra un coeficiente de correlación (r) e índice de concordancia altos, con valores de 0,84 y 0,72,
+0,84 y 0,73 y 0,84 y 0,68 para las estaciones Kingston College, Coronel norte y Liceo polivalente
+respectivamente.
+Tabla 4-9: Estadígrafos de temperatura.
+Kingston College Coronel norte Liceo Polivalente
+Variable
+Observado Modelado Observado Modelado Observado Modelado
+Promedio (°C) 13,42 14,41 12,86 13,89 12,29 13,72
+Mediana (°C) 12,75 13,55 12,47 13,14 11,80 12,99
+60
+================================================================================
+PAGE 68
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Máximo (°C) 32,52 35,13 31,02 33,80 32,07 33,61
+Mínimo (°C) -0,48 3,26 0,20 1,29 -0,47 2,55
+Fuente: GAC
+Tabla 4-10: Estadígrafos desempeño por temperatura, estación Principal, datos observados y modelados.
+Estación n Sesgo FAC2 BIAS MAE SMN NMAE RMSE r IOA
+Kingston College 8699 1,88 0,97 1,02 2,26 7,6% 16,9% 3,01 0,84 0,72
+Coronel norte 8096 1,39 0,94 1,08 2,19 8,4% 17,0% 3,02 0,84 0,73
+Liceo Polivalente 8558 1,12 0,98 1,37 2,08 11,1% 17,0% 2,87 0,84 0,68
+Fuente: GAC
+Acorde a la “Guía para el uso de modelos de calidad del aire en el SEIA” (MMA,2023), a continuación, se
+indican la comparativa de las métricas para el análisis cuantitativo esperado y obtenido en las estaciones
+estudiadas.
+Tabla 4-11: Comparativa de Estadígrafos de desempeño temperatura. Año 2022.
+Obtenido Esperado
+Estación
+BIAS MAE RMSE r BIAS MAE RMSE r
+Kingston College 1,02 2,26 3,01 0,84
+Coronel norte 1,08 2,19 3,02 0,84 [-4;4] (°C) ≤4 (°C) ≤ 4,5 (°C) >0,8
+Liceo Polivalente 1,37 2,08 2,87 0,84
+Fuente: Guía para el uso de modelos de calidad del aire en el SEIA” (MMA,2023), GAC.
+De la tabla anterior se observa que los estadígrafos muestran un buen desempeño de los datos modelados
+y por tanto entrega el grado de confianza necesario para una buena interpretación de la dispersión de los
+contaminantes en el área de estudio.
+4.5.4 Altura capa de mezcla en zona modelada
+A continuación, se presenta un análisis cualitativo del comportamiento estacional y horario de la altura de
+capa de mezcla modelada con el modelo WRF, se realiza un análisis cualitativo ya que no existen datos
+medidos para dicho parámetro. La Figura 4-51, Figura 4-52, Figura 4-53 y Figura 4-54 muestra el perfil diario
+promedio por mes del año de la altura de capa de mezcla modelada en la celda donde está en cada una
+de las estaciones. Se puede apreciar que los máximos diarios para todos los meses se alcanzan entre las
+11:00 y 14:00 horas, alcanzando un máximo diario promedio de unos 800 metros de altura entre los meses
+de octubre a febrero. Se presenta una amplitud estacional relativamente baja en las cuatro estaciones,
+típico de una zona costera, presentando Nueva Libertad un comportamiento estacional algo atípico lo que
+se puede deber a la situación geomorfológica compleja donde está ubicada dicha estación. Se puede
+apreciar que la altura de capa de mezcla se eleva más temprano y baja más tarde durante los meses de
+verano, mientras que en los meses de invierno la capa de mezcla se mantiene durante más horas en niveles
+bajos, debido principalmente a que las horas de luz diurna son menores en invierno. La variación temporal
+61
+================================================================================
+PAGE 69
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+de la altura de capa de mezcla modelada, tanto estacional como horaria, presenta un patrón típico de este
+parámetro.
+Figura 4-51: Ciclo diario modelado altura de capa de mezcla.
+Estación Kingston College. Año 2022.
+Fuente: GAC
+62
+================================================================================
+PAGE 70
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-52: Ciclo diario modelado altura de capa de mezcla.
+Estación Nueva Libertad. Año 2022.
+Fuente: GAC
+Figura 4-53: Ciclo diario modelado altura de capa de mezcla.
+Estación Coronel Norte. Año 2022.
+Fuente: GAC
+63
+================================================================================
+PAGE 71
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-54: Ciclo diario modelado altura de capa de mezcla.
+Estación Liceo Polivalente. Año 2022.
+Fuente: GAC
+4.5.5 Conclusiones modelo meteorológico
+En relación al análisis de incertidumbre del modelo meteorológico WRF, el desempeño para la estimación
+de vientos se evaluó en cuatro estaciones y para temperatura en tres estaciones, de manera de abarcar
+un área importante del dominio de modelación. Se analizó la estación Kingston College, a 3,4 kilómetros
+al suroeste del Proyecto, la estación Liceo Polivalente a 15,9 kilómetros al norte del Proyecto, la estación
+Nueva Libertad ubicada a 10,1 kilómetros al oeste del Proyecto y la estación Coronel Norte ubicada a 28,6
+kilómetros al suroeste del Proyecto.
+Para Kingston College se aprecia una correlación (r) de 0,52 y un índice de concordancia medio (entre 0 y
+0,5) de 0,10. En el caso de Nueva Libertad se muestra un mejor desempeño del modelo, una correlación
+(r) de 0,65 y un índice de concordancia alto (mayor que 0,5) de 0,55. Para la estación Coronel norte se
+observa una correlación (r) de 0,69 y un índice de concordancia alto (mayor que 0,5) de 0,55. Por último
+en Liceo polivalente se muestra una correlación (r) de 0,64 y un índice de concordancia alto de 0,68. Todos
+los estadígrafos de magnitud del viento cumplen con los valores recomendados en la actualización de la
+Guía del uso de modelos de calidad del aire en el SEIA, con la excepción del r de Kingston College el cual
+es levemente inferior de 0,6.
+64
+================================================================================
+PAGE 72
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Las tres estaciones presentan una buena concordancia entre datos modelados y medidos de dirección del
+viento y las estaciones Kingston College y Coronel Norte presentan un buen desempeño en temperaturas
+modeladas respecto a datos medidos. Todos los estadígrafos de temperatura cumplen con los valores
+recomendados en la actualización de la Guía del uso de modelos de calidad del aire en el SEIA.
+Finalmente se analizó cualitativamente el comportamiento de la altura de capa de mezcla promedio
+horaria por mes del año, cualitativamente ya que no existen datos medidos del parámetro, la cual presenta
+un comportamiento estimado satisfactorio respecto al ciclo diario y estacional de dicho parámetro una
+zona costera.
+65
+================================================================================
+PAGE 73
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4.6 Normas de calidad del aire
+En la Tabla 4-12 se presenta la normativa primaria de calidad del aire vigente a evaluar en el marco
+del Proyecto y en la Tabla 4-13 la normativa secundaria.
+Tabla 4-12. Normas primarias de calidad del aire.
+Norma Periodo de Evaluación de
+Contaminante Decreto Aplicable
+Valor Unidad Cumplimiento de Norma
+Percentil 98 de las
+50
+Material Particulado Decreto Supremo concentraciones de 24 horas
+μg/m3
+Respirable Fino (MP2,5) N°12/2011
+20 Concentración anual
+Percentil 98 de las
+Material Particulado 130
+Decreto Supremo N°12/21 μg/m3N concentraciones de 24 horas
+Respirable (MP10)
+50 Concentración anual
+Percentil 99 de los máximos
+30 diarios de concentración de 1
+Decreto Supremo hora
+Monóxido de Carbono (CO) mg/m3N
+N°115/2002 Percentil 99 de los máximos
+10 diarios de concentración de 8
+horas
+Percentil 99 de los máximos
+Dióxido de Nitrógeno Decreto Supremo 400 diarios de concentración de 1
+μg/m3N
+(NO2) N°114/2002 hora
+100 Concentración anual
+Percentil 98,5 de las
+350
+concentraciones de 1 hora.
+Decreto Supremo
+Dióxido de Azufre (SO2) μg/m3N Percentil 99 de las
+N°104/2019 150
+concentraciones de 24 horas
+60 Concentración anual
+Fuente: GAC.
+Tabla 4-13. Normas secundarias calidad del aire
+Norma Periodo de evaluación de
+Contaminante Decreto aplicable
+Valor Unidad cumplimiento de norma
+Material particulado Norma de referencia -
+200 mg/m² día Concentración promedio anual
+sedimentable (MPS) confederación Suiza
+160 Promedio anual
+Dióxido de azufre (SO 2 ) DS 22/2009 MINSEGPRES μg/m3N Percentil 99,7 de las
+730
+concentraciones de 24 hr
+66
+================================================================================
+PAGE 74
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Norma Periodo de evaluación de
+Contaminante Decreto aplicable
+Valor Unidad cumplimiento de norma
+Percentil 99,73 de
+1000
+concentraciones de 1 hr
+Fuente: GAC
+67
+================================================================================
+PAGE 75
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+4.7 Línea de base de calidad del aire
+4.7.1 Estaciones
+La estación de monitoreo de calidad del aire con las que se cuenta con información pública de monitoreo
+de calidad del actualizado en la zona del Proyecto, con datos desde enero de 2020 hasta diciembre del año
+2022, corresponden a la estación Kingston College, ubicada en la Región del Biobío.
+En la Tabla 4-14 se presentan las coordenadas de ubicación de la estación, junto con los contaminantes y
+periodo de medición para cada uno.
+Tabla 4-14. Caracterización de Estaciones de Monitoreo de Calidad del Aire.
+Estación Coordenadas UTM Contaminantes Medidos con Información Periodo de Datos
+de (Datum WGS84) Disponible Disponibles por
+Monitoreo Este (m) Norte (m) Contaminante
+Material Particulado Respirable Fino (MP2.5)
+Material Particulado Respirable (MP10) 1 de enero de 2020
+Kingston
+673.817 5.927.247 Monóxido de Carbono (CO) a 31 de diciembre de
+College
+Dióxido de Nitrógeno (NO ) 2022
+2
+Dióxido de Azufre (SO )
+2
+Fuente: GAC.
+En la Figura 4-49 se presenta la ubicación de la estación de monitoreo de calidad del aire respecto a la
+zona de emplazamiento del proyecto y respecto al dominio de modelación meteorológica.
+68
+================================================================================
+PAGE 76
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 4-1. Ubicación de estación de monitoreo de calidad del aire.
+Fuente: GAC.
+A continuación, se presenta a modo de resumen en la Tabla 4-15 los resultados de la línea de base de
+calidad del aire.
+69
+================================================================================
+PAGE 77
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 4-15. Resumen Línea de Base Calidad del Aire primaria. Periodo enero 2020 a diciembre 2022.
+Kingston College
+Contaminante Estadígrafo Norma Unidad
+Valor % Norma
+P98 24h 50 μg/m3 53 41%
+MP2,5
+Anual 20 μg/m3 25 50%
+P98 24h 130 μg/m3N 38 75%
+MP10
+Anual 50 μg/m3N 13,8 69%
+P99 1h 30.000 µg/m3N 3.600 12%
+CO
+P99 8h 10.000 µg/m3N 1.400 14%
+P99 1h 400 μg/m3N 19,1 5%5
+NO2
+Anual 100 μg/m3N 7,5 8%
+P99 1h 350 μg/m3N 9,5 3%
+SO2 P99 24h 150 μg/m3N 6,5 4%
+Anual 60 μg/m3N 2,7 5%
+Fuente: GAC.
+Tabla 4-16. Resumen Línea de Base Calidad del Aire secundaria. Periodo enero 2020 a diciembre 2022.
+Kingston College
+Contaminante Estadígrafo Norma Unidad
+Valor % Norma
+P99,73 1h 1000 μg/m3N 15,5 2%
+SO2 P99 24h 365 μg/m3N 7,3 2%
+Anual 80 μg/m3N 2,7 3%
+Fuente: GAC.
+70
+================================================================================
+PAGE 78
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+5 MODELO CALIDAD DEL AIRE
+5.1 Justificación modelo calidad del aire
+De acuerdo con lo establecido en la Guía para el uso de Modelos de Calidad del Aire en el SEIA, segunda
+edición, la selección del modelo de Calidad del Aire se basa en la topografía compleja del área donde se
+emplaza el proyecto y al alcance de las emisiones. Por esta razón, el modelo utilizado fue un modelo tipo
+“Puff” como lo es CALPUFF.
+5.2 Descripción modelo de calidad del aire
+La simulación del aporte del proyecto a las concentraciones de contaminantes se realizará mediante el
+modelo CALPUFF, recomendado en la Guía para el uso de Modelos de Calidad del Aire en el SEIA, segunda
+edición.
+CALPUFF es un sistema de modelación avanzado para calidad del aire que considera además la
+meteorología de carácter no permanente. Su desarrollo estuvo a cargo del “Sigma Research Corporation”,
+mientras que su mantenimiento actual es responsabilidad de Exponent17. Debido a su desempeño,
+CALPUFF fue catalogado por la USEPA como modelo recomendado para la evaluación del impacto en la
+calidad del aire de distintos tipos de proyectos, especialmente aquellos donde es necesario considerar la
+variación en el tiempo y en el espacio de las condiciones meteorológicas y su incidencia en el transporte,
+transformación y remoción de contaminantes.
+El sistema de modelación está compuesto por los siguientes componentes principales:
+▪ CALMET: es un modelo meteorológico que genera campos de viento tridimensionales horarios, en
+base a registros superficiales y del perfil de altura. Además, las salidas de este modelo entregan
+información en el dominio de la modelación sobre alturas de la capa de mezcla, características
+superficiales y propiedades de dispersión.
+▪ CALPUFF: corresponde a un modelo Lagrangiano-Gaussiano de transporte y dispersión de soplos
+o “puff” emitidos por las fuentes consideradas por el proyecto. De esta forma, a partir de la
+información de emisiones y meteorología proporcionada, el programa simula el proceso de
+dispersión y transformación de los contaminantes, en un rango de validez desde metros hasta
+cientos de kilómetros.
+▪ CALPOST: es un programa utilizado para el post-procesamiento de los resultados obtenidos en la
+modelación de CALPUFF, permitiendo calcular las concentraciones en los receptores según los
+promedios requeridos por cada norma. Además, es capaz de gestionar los datos de cada
+17 www.src.com/calpuff/calpuff1.htm
+71
+================================================================================
+PAGE 79
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+contaminante según el período de tiempo requerido, ordenando las máximas concentraciones
+obtenidas e identificando el momento en que cada una de éstas suceden (hora, día, mes y año).
+Dentro de las capacidades del sistema de modelación se destacan los siguientes puntos:
+▪ Permite modelar transporte de largo alcance (hasta 200 Km).
+▪ Simula procesos meteorológicos complejos tales como: velocidades de vientos muy bajas,
+estancamiento, fumigación y recirculación.
+▪ Es capaz de incorporar efectos debidos a la proximidad al borde costero o a causa de topografía
+compleja.
+▪ Modela contaminantes de forma simultánea fuentes de diverso tipo y que modifican su nivel de
+actividad a lo largo del tiempo.
+▪ Permite diferenciar entre contaminantes inertes y aquellos que experimentan transformaciones
+de primer orden.
+El modelo en esta ocasión se utilizó con el mecanismo químico Rivad/Isorropia (mech=6 en CALPUFF), este
+mecanismo estima la proporción entre el NO y NO y además los nitratos (NO ) y sulfatos (SO ), éstos
+2 3 4
+fueron agregados a las concentraciones de MP10 y MP2.5 estimadas por el modelo.
+Cabe mencionar que no fue utilizado el modelo meteorológico CALMET, debido a que la información de
+registros meteorológicos fue utilizada para realizar el análisis de incertidumbre del modelo meteorológico.
+Por esta razón la meteorología modelada por el modelo meteorológico WRF correspondiente al año 2021,
+fue procesada en MMIF v4 para ser ingresada al modelo de dispersión CALPUFF de manera directa.
+72
+================================================================================
+PAGE 80
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+6 RECEPTORES
+6.1 Receptores discretos
+Los receptores para evaluar corresponden a 29 receptores discretos. Las coordenadas de la totalidad de
+los receptores de interés se presentan en la Tabla 6-1, y en la Figura 6-1 se presenta la ubicación de cada
+uno de ellos. El receptor R_25 corresponden a la estaciones de monitoreo de calidad del aire Kingston
+College, y el resto a receptores de interés.
+Considerando los lineamientos indicados en la Guía para el uso de Modelos de Calidad del Aire en el SEIA,
+segunda edición, fueron considerados los receptores indicados en la evaluación de otros proyectos que
+cuentan con RCA favorable en el área de influencia del Proyecto, y que aún no son ejecutados. El detalle
+de estos proyectos y los receptores considerados se presentan en el punto 7.1.1.
+Tabla 6-1. Receptores de Interés definidos para la modelación
+UTM - WGS84 -H18
+Receptor Descripción
+X (m) Y (m)
+R_1 Vivienda de 1 piso, ubicada al costado de camino Las Pataguas. 680.390 5.932.896
+R_2 Vivienda de 2 pisos ubicada a un costado de Ruta O-390. 680.671 5.932.437
+R_3 Entrada predio forestal, ubicado en camino interior a Ruta O-390. 681.441 5.932.015
+R_4 Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390 682.281 5.932.438
+R_5 Vivienda de 1 piso, ubicada en camino interior a Ruta O-390. 682.315 5.932.496
+R_6 Conjunto de viviendas de 1 piso, ubicada en camino interior a Ruta O-390 682.568 5.932.367
+Vivienda de 1 piso y restaurant "Donde Zulema", ubicada a un costado de
+R_7 683.019 5.932.079
+Ruta O-390.
+R_8 Vivienda de 1 piso, ubicada a un costado de Ruta O-390. 683.194 5.932.076
+R_9 Vivienda de 1 piso, cercana a Vertedero 681.918 5.928.825
+R_11 Vivienda de 1 piso, ubicada en camino interior. 681.359 5.929.460
+R_12 Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Castaños N°34. 678.898 5.930.509
+R_13 Conjunto de viviendas de 1 y 2 pisos, ubicadas en Calle Los Cipreses N°5. 679.093 5.930.752
+R_14 Vivienda de 1 piso, ubicada en calle Miramar N°990. 679.242 5.931.249
+Centro de salud CESFAM Penco 2 pisos, ubicada en calle Acceso a Fundo
+R_15 679.442 5.931.734
+Copihueco.
+R_16 Receptor de flora 681.434 5.931.695
+R_17 Motel El Conquistador 677.098 5.928.598
+R_18 Receptor de flora (BNP) con presencia de Queule o Pitao 682.501 5.931.908
+R_19 Receptor de flora (BNP) con presencia de Queule o Pitao 681.537 5.931.092
+R_20 Receptor de flora (BNP) con presencia de Queule o Pitao 682.294 5.930.369
+R_21 Receptor de flora (BNP) con presencia de Queule o Pitao 682.116 5.930.099
+R_22 Receptor de flora (BNP) con presencia de Queule o Pitao 682.031 5.929.949
+R_23 Receptor de flora (BNP) con presencia de Queule o Pitao 680.729 5.928.975
+R_24 Receptor de flora (BNP) con presencia de Queule o Pitao 681.225 5.929.512
+73
+================================================================================
+PAGE 81
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+UTM - WGS84 -H18
+Receptor Descripción
+X (m) Y (m)
+R_25 Estación de CA Kingston College 673.817 5.927.247
+R_28 Vivienda de 1 piso, ubicada en camino interior. 681.309 5.929.511
+Edificación de madera de un piso deshabitada, ubicada al sureste del
+R_29 681.935 5.928.791
+relleno sanitario
+Caseta portería y control de ingreso a camino de acceso actual a relleno
+R_30 677.118 5.928.271
+sanitario
+Motel El Parque. Ubicado a un costado del camino de acceso actual al
+R_31 677.266 5.928.175
+relleno sanitario
+R_32 Vivienda de 1 piso, ubicada en camino interior. 681.315 5.929.568
+Fuente: GAC.
+Figura 6-1. Ubicación de los receptores de interés definidos para la modelación.
+Fuente: GAC.
+74
+================================================================================
+PAGE 82
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+6.2 Receptores grilla
+Para la modelación se generó una grilla de receptores con una resolución espacial de 1.000 × 1.000 metros,
+resolución concordante con la resolución del modelo meteorológico, con una extensión de 42 × 38 km.
+Finalmente, el área de modelación considerada y la grilla de receptores se observan en la Figura 6-2. A
+partir de estos receptores se generan mapas de isoconcentraciones para cada uno de los contaminantes
+analizados.
+Para el aporte estimado de material particulado respirable y de gases, fueron identificados y definidos
+como receptores discretos dentro del modelo, los sitios con presencia de población más cercana, por lo
+tanto cualquier aporte en la calidad del aire a mayor distancia será inferior al estimado para estos punto,
+que resultan de baja magnitud. Los receptores identificados como R_12, R_13, R_14 y R_15 corresponden
+al sector poblado más cercano al área urbana de Penco. Sin embargo, siguiendo la recomendación de la
+Guía para el uso de Modelos de Calidad del Aire en el SEIA, segunda edición, fue definida una grilla más
+fina de receptores en la zona urbana de Penco, de 200 metros.
+Figura 6-2. Grillas de receptores
+Fuente: GAC.
+75
+================================================================================
+PAGE 83
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7 FUENTES DE EMISIÓN
+Como se presenta en el Anexo 1-3 Estimación de emisiones atmosféricas, las emisiones fueron estimadas
+para la fase de construcción, operación y cierre del Proyecto, obteniéndose emisiones para cada fuente,
+contaminante y año de ejecución. La Tabla 7-1 presenta las emisiones anuales para cada fase del Proyecto.
+Tabla 7-1. Emisiones anuales por contaminante
+Fase Año MPS MP10 MP2,5 NOx CO SO2 NH3 COV
+1 100,84 35,43 11,45 73,40 51,71 0,28 0,04 6,41
+Construcción
+2 63,74 20,86 5,60 44,46 31,54 0,22 0,03 3,98
+3 273,59 77,32 11,98 24,83 39,02 0,21 0,05 3,31
+4 309,55 87,50 13,41 26,35 40,79 0,22 0,05 3,45
+5 354,04 101,15 14,94 26,87 40,56 0,22 0,05 3,43
+Operación
+6 383,29 110,27 16,11 27,70 41,91 0,23 0,05 3,54
+7 371,71 106,26 15,31 22,98 22,18 0,14 0,03 2,01
+8 242,42 69,39 9,87 18,19 15,98 0,11 0,02 1,53
+Cierre 9 44,60 14,05 3,98 28,52 10,98 1,52 0,01 2,72
+Como se observa en la Tabla 7-1, las mayores emisiones fueron estimadas para el año 6 del Proyecto, que
+corresponde al año 4 de la fase de operación. Considerando que todas las fases tendrán el mismo tipo de
+fuentes emisoras, y las emisiones serán generadas en los mismos sectores, es seleccionado el año de
+mayores emisiones como el escenario más desfavorable para evaluar los aportes del proyecto en términos
+de calidad del aire.
+En la Tabla 7-2 se resumen las emisiones ingresadas al modelo, que corresponden a las emisiones por
+fuente emisora del año 4 de la fase de operación del Proyecto (año 6 de Proyecto).
+Tabla 7-2 Resumen de emisiones incorporadas al modelo (año 4 de operación).
+Fuente emisora MP30 MP10 MP2,5 NOx CO SO2 NH3 COV
+Escarpe 0,00 0,00 0,00
+Excavaciones 28,17 8,07 2,96
+Compactación 1,19 0,34 0,12
+Nivelación 1,57 0,46 0,05
+Movimiento de Materiales 0,41 0,19 0,03
+Caminos No Pavimentados 286,24 87,62 8,76
+Caminos Pavimentados 64,51 12,38 3,00
+Gases combustión Vehículos 0,07 0,07 0,07 11,90 0,33 0,02 0,01 0,03
+Maquinaria 1,08 1,08 1,08 14,94 41,38 0,17 0,05 3,45
+Generadores 0,04 0,04 0,04 0,86 0,20 0,03 0,00 0,05
+Total 383,29 110,27 16,11 27,70 41,91 0,23 0,05 3,54
+76
+================================================================================
+PAGE 84
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La Figura 7-1 muestra la ubicación de las fuentes emisoras consideradas dentro del dominio de
+modelación, que consideran todas las actividades dentro del sector de emplazamiento del proyecto, y los
+caminos de acceso, para transporte de insumos, residuos y producto.
+Figura 7-1. Fuentes emisoras ingresadas al modelo
+Fuente: GAC.
+77
+================================================================================
+PAGE 85
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.1 Análisis de resultados de modelación
+7.1.1 Aporte modelado
+A continuación, se presentan los aportes del escenario modelado en los receptores discretos,
+correspondiente al año 4 de la fase de operación, considerando los estadígrafos de las normas de calidad
+aplicables MP10, MP2,5, NO , SO y CO. Cabe recordar que tanto el MP10 como el MP2,5 estimado por el
+2 2
+modelo consideran la formación de nitratos (NO ) y sulfatos (SO ) provenientes de las emisiones de óxidos
+3 4
+de nitrógeno (NOx) y dióxido de azufre (SO ) respectivamente. La Tabla 7-3 indica los aportes en cada
+2 ,
+receptor y el aporte estimado en el punto de máximo impacto (PMI), junto a las coordenadas del punto.
+La Tabla 7-4 presenta los aportes porcentuales en cada receptor respecto de cada una de las normas
+primarias de calidad del aire. Los archivos de modelación son presentados en el Apéndice 4-1.1 del EIA.
+Tabla 7-3. Aportes estimados en receptores.
+MP10 (µg/m³) MP2,5 (µg/m³) SO2 (µg/m³) NO2 (µg/m³) CO (µg/m³)
+Recepto
+r Anual P98 24h Anual P98 24h Anual P99 24h P99 1h Anual P99 1h P99 8h P99 1h
+R_1 0,34 1,19 0,09 0,28 0,00 0,00 0,01 0,17 3,53 3,21 7,49
+R_2 0,40 1,25 0,10 0,32 0,00 0,00 0,01 0,20 3,28 3,16 5,35
+R_3 0,84 4,38 0,19 0,90 0,00 0,01 0,04 0,35 8,38 11,65 19,51
+R_4 0,46 2,34 0,12 0,56 0,00 0,01 0,03 0,21 10,60 13,69 26,53
+R_5 0,44 2,18 0,11 0,52 0,00 0,01 0,02 0,20 9,77 12,57 23,36
+R_6 0,37 1,65 0,10 0,42 0,00 0,01 0,02 0,18 8,33 13,94 23,41
+R_7 0,24 1,02 0,06 0,25 0,00 0,00 0,01 0,12 5,27 9,88 19,63
+R_8 0,20 0,78 0,05 0,22 0,00 0,00 0,01 0,10 3,21 8,56 17,43
+R_9 1,05 4,82 0,24 1,14 0,00 0,01 0,03 0,47 26,94 7,07 23,77
+R_11 3,94 23,58 0,80 4,70 0,01 0,05 0,10 1,47 60,06 26,64 66,03
+R_12 0,40 1,41 0,12 0,35 0,00 0,00 0,01 0,26 5,24 4,50 14,06
+R_13 0,44 1,36 0,13 0,36 0,00 0,00 0,01 0,29 5,19 4,00 13,68
+R_14 0,37 1,24 0,11 0,35 0,00 0,00 0,01 0,23 5,50 4,30 11,16
+R_15 0,37 1,53 0,11 0,40 0,00 0,00 0,01 0,20 5,88 4,57 10,99
+R_17 0,27 1,26 0,05 0,27 0,00 0,00 0,00 0,07 1,93 1,75 4,69
+R_25 0,03 0,23 0,01 0,07 0,00 0,00 0,00 0,01 0,53 0,68 1,11
+R_28 3,93 23,47 0,77 4,48 0,01 0,05 0,10 1,35 55,29 28,65 69,20
+R_29 0,99 4,44 0,22 1,07 0,00 0,01 0,03 0,45 23,85 6,68 22,86
+R_30 0,87 3,65 0,12 0,47 0,00 0,00 0,00 0,15 2,31 1,55 3,87
+R_31 0,42 2,25 0,06 0,31 0,00 0,00 0,00 0,08 1,72 1,67 4,00
+R_32 4,18 25,47 0,80 4,75 0,01 0,05 0,10 1,36 53,85 28,66 66,83
+PMI 10,07 37,50 2,77 8,57 0,04 0,15 0,31 4,21 75,70 114,46 245,00
+PMI
+682.436 681.550 682.577 682.577 680.523 680.523 680.523 680.523 680.523 680.523 680.523
+(UTM X)
+MPI 5.931.44 5.930.39 5.931.37 5.931.37 5.929.41 5.929.41 5.929.41 5.929.41 5.929.41 5.929.41 5.929.41
+(UTM Y) 8 4 4 4 3 3 3 3 3 3 3
+Fuente: GAC.
+78
+================================================================================
+PAGE 86
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-4. Aportes porcentuales estimados en receptores respecto de las normas primarias de calidad del aire.
+MP10 (%) MP2,5 (%) SO2 (%) NO2 (%) CO (%)
+Receptor
+Anual P98 24h Anual P98 24h Anual P99 24h P99 1h Anual P99 1h P99 8h P99 1h
+R_1 0,7% 0,9% 0,5% 0,6% 0,0% 0,0% 0,0% 0,2% 0,9% 0,0% 0,0%
+R_2 0,8% 1,0% 0,5% 0,6% 0,0% 0,0% 0,0% 0,2% 0,8% 0,0% 0,0%
+R_3 1,7% 3,4% 1,0% 1,8% 0,0% 0,0% 0,0% 0,3% 2,1% 0,1% 0,1%
+R_4 0,9% 1,8% 0,6% 1,1% 0,0% 0,0% 0,0% 0,2% 2,6% 0,1% 0,1%
+R_5 0,9% 1,7% 0,5% 1,0% 0,0% 0,0% 0,0% 0,2% 2,4% 0,1% 0,1%
+R_6 0,7% 1,3% 0,5% 0,8% 0,0% 0,0% 0,0% 0,2% 2,1% 0,1% 0,1%
+R_7 0,5% 0,8% 0,3% 0,5% 0,0% 0,0% 0,0% 0,1% 1,3% 0,1% 0,1%
+R_8 0,4% 0,6% 0,3% 0,4% 0,0% 0,0% 0,0% 0,1% 0,8% 0,1% 0,1%
+R_9 2,1% 3,7% 1,2% 2,3% 0,0% 0,0% 0,0% 0,5% 6,7% 0,1% 0,1%
+R_11 7,9% 18,1% 4,0% 9,4% 0,0% 0,0% 0,0% 1,5% 15,0% 0,3% 0,2%
+R_12 0,8% 1,1% 0,6% 0,7% 0,0% 0,0% 0,0% 0,3% 1,3% 0,0% 0,0%
+R_13 0,9% 1,0% 0,7% 0,7% 0,0% 0,0% 0,0% 0,3% 1,3% 0,0% 0,0%
+R_14 0,7% 1,0% 0,5% 0,7% 0,0% 0,0% 0,0% 0,2% 1,4% 0,0% 0,0%
+R_15 0,7% 1,2% 0,5% 0,8% 0,0% 0,0% 0,0% 0,2% 1,5% 0,0% 0,0%
+R_17 0,5% 1,0% 0,3% 0,5% 0,0% 0,0% 0,0% 0,1% 0,5% 0,0% 0,0%
+R_25 0,1% 0,2% 0,0% 0,1% 0,0% 0,0% 0,0% 0,0% 0,1% 0,0% 0,0%
+R_28 7,9% 18,1% 3,9% 9,0% 0,0% 0,0% 0,0% 1,3% 13,8% 0,3% 0,2%
+R_29 2,0% 3,4% 1,1% 2,1% 0,0% 0,0% 0,0% 0,4% 6,0% 0,1% 0,1%
+R_30 1,7% 2,8% 0,6% 0,9% 0,0% 0,0% 0,0% 0,2% 0,6% 0,0% 0,0%
+R_31 0,8% 1,7% 0,3% 0,6% 0,0% 0,0% 0,0% 0,1% 0,4% 0,0% 0,0%
+R_32 8,4% 19,6% 4,0% 9,5% 0,0% 0,0% 0,0% 1,4% 13,5% 0,3% 0,2%
+Fuente: GAC.
+Los aportes estimados para los receptores de interés y estaciones de calidad del aire, en la mayoría de los
+receptores, corresponden a valores inferiores al 5% de las respectivas normas de calidad del aire. Los
+aportes resultan consistentes con la distancia existente entre las fuentes emisoras evaluadas y los
+receptores identificados, debido a que el proyecto se encuentra distante de los sectores con mayor
+densidad de población. El receptor en donde se estiman los mayores aportes corresponde al receptor
+R_32, que se encuentra muy cercano un camino interno del Proyecto. En el receptor R_32 el aporte de
+MP10 para la norma diaria llega al 19,6% de la norma, mientras que para la norma anual el valor llega a
+8,4%.
+Los aportes de MPS y SO para normas secundarias fueron evaluados receptores de flora, que
+2
+corresponden en su mayoría a puntos representativos de sectores con presencia de bosque nativo de
+preservación (BNP). Los aportes estimados en los receptores discretos definidos y el PMI se presentan en
+la Tabla 7-5 y Tabla 7-6, para MPS y SO respectivamente. Resulta importante indicar que el PMI se
+2
+encuentra fuera de los sectores identificados con presencia de bosque nativo de preservación.
+79
+================================================================================
+PAGE 87
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-5. Aportes de MPS
+Promedio anual % respecto norma
+Receptor
+(mg/m² día) (200 mg/m² día)
+R_16 8,28 4,1%
+R_18 0,78 0,4%
+R_19 19,28 9,6%
+R_20 5,89 2,9%
+R_21 18,80 9,4%
+R_22 17,22 8,6%
+R_23 22,34 11,2%
+R_24 14,16 7,1%
+PMI 81,30 40,7%
+PMI (UTM X) 681.529
+MPI (UTM Y) 5.929.391
+Fuente: GAC
+Tabla 7-6. Aportes de SO2 norma secundaria
+SO (µg/m³) SO (% respecto normas)
+2 2
+Receptor Anual P99,7 24h P99,73 1h Anual P99,7 24h P99,73 1h
+R_16 0,01 3,60E-02 1,45E-01 0,0% 0,0% 0,0%
+R_18 0,00 1,90E-02 5,26E-02 0,0% 0,0% 0,0%
+R_19 0,02 1,32E-01 3,69E-01 0,0% 0,0% 0,0%
+R_20 0,01 5,70E-02 1,87E-01 0,0% 0,0% 0,0%
+R_21 0,01 9,78E-02 3,80E-01 0,0% 0,0% 0,0%
+R_22 0,01 1,37E-01 5,07E-01 0,0% 0,0% 0,1%
+R_23 0,01 8,05E-02 2,66E-01 0,0% 0,0% 0,0%
+R_24 0,01 5,40E-02 1,67E-01 0,0% 0,0% 0,0%
+PMI 0,04 1,73E-01 5,07E-01 0,0% 0,0% 0,1%
+PMI (UTM X) 681.529 681.529 682.031
+MPI (UTM Y) 5.929.391 5.929.391 5.929.948
+Como se indica en la Tabla 7-6, los aportes de SO2 resultan prácticamente nulos, llegando a aportes del
+0,1% de las normas de referencia.
+Respecto de los aportes de MPS, como se indica en la Tabla 7-5, los aportes sobre sectores de BNP con
+presencia de Queule y Pitao llegan un máximo del 11,2% de la norma de referencia. En el punto de máximo
+impacto el aporte estimado llega al 40,7% de la norma de referencia, que corresponde a un sector sin
+presencia de BNP.
+Resulta importante señalar que los aportes estimados resultan conservadores, debido a que el aporte de
+MPS estimado por el modelo no considera el efecto de la lluvia sobre el MPS depositado en la vegetación.
+80
+================================================================================
+PAGE 88
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Como se concluye en el estudio18 “Accumulation of particulate matter and trace elements on vegetation
+as affected by pollution level, rainfall and the passage of time Accumulation of particulate matter and trace
+elements on vegetation as affected by pollution level, rainfall and the passage of time”, entre un 30% y un
+40% del material particulado presente en hojas puede ser lavado por la lluvia, mayoritariamente el
+material particulado grueso.
+Finalmente, como se observa en el punto 7.3 Mapas de gradientes espaciales de concentración
+(isoconcentraciones), los aportes en la zona urbana de Penco, en donde fue generada una grilla fina,
+resultan iguales o menores a los estimados en los receptores puntuales R_12, R_13, R_14 y R_15, por lo
+que no se generarán aportes mayores a los evaluados en estos receptores dentro del área urbana de
+Penco.
+18
+http://dx.doi.org/10.1016/j.scitotenv.2014.02.072
+81
+================================================================================
+PAGE 89
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.1.1 Concentraciones totales
+Las concentraciones totales son estimadas considerando la línea de base medidas, más los aportes
+estimados por otros proyectos que cuentan con RCA favorable, pero que no se encuentran ejecutados,
+mas los aportes estimados del Proyecto en evaluación. La siguiente ecuación resume la metodología para
+calcular la calidad del aire proyectada.
+CAP = LdB + OP + AP
+Donde
+CAP : corresponde a la calidad del aire proyectada.
+LdB : corresponde a la línea de base actual.
+OP : corresponde al aporte de otros proyectos que poseen RCA favorable, pero que no se encuentran
+ejecutados.
+AP : corresponde al aporte del Proyecto.
+Aporte de otros proyectos
+Los proyectos que cuentan con RCA favorable en la zona de emplazamiento del Proyecto fueron obtenidos
+de la página web del SEA, mientras que su estado actual de ejecución fue obtenido de la información
+disponible en el Sistema Nacional de Información de Fiscalización Ambiental (SNIFA), de la
+Superintendencia de Medio Ambiente. La Tabla 7-7 resume los proyectos identificados, su estado de
+ejecución, y posteriormente se indica la disponibilidad de modelación de calidad del aire en su evaluación
+para poder ser considerados en la proyección de la línea de base.
+Tabla 7-7. Proyectos con RCA favorable
+Fecha de Fase actual
+ID Proyecto Titular Presentación
+Calificación (SNIFA)
+Bio Energía Los Pinos
+1 Planta Bio Energía Los Pinos DIA 19-02-2018 Construcción
+SpA
+Inmobiliaria Fuentes
+2 Condominio Fuentes de Piedra DIA 08-04-2019 Operación
+de Piedra Spa
+Crematorio Parque del Sendero de Inmobiliaria parques
+3 DIA 05-08-2019 SI
+Concepción y jardines S.A.
+Loteo, Lote 1, Reserva Norte, Inmobiliaria Gestora
+4 DIA 22-04-2019 Construcción
+Fundo Las Ulloas Valmar Limita
+Mejoramiento Planta de RIL Cerro Portuaria Lirquén
+5 DIA 25-10-2021 SI
+Verde, Puerto Lirquén S.A.
+Continuidad Operacional Centro de
+6 CEMARC SA EIA 04-12-2023 Construcción
+Manejo de Residuos de Concepción
+SI: sin información
+82
+================================================================================
+PAGE 90
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+De los proyectos indicados en la Tabla 7-7.
+- El proyecto identificado con el ID 2, no evalúa aportes en receptores definidos, si no que lo hace a
+distintas distancias del proyecto.
+- El proyecto con ID 4 evalúa su fase de construcción, que corresponde a la fase en que se encuentra
+en la actualidad.
+- El proyecto con ID 5 evalúa no presenta modelación de calidad del aire.
+- El proyecto con ID 3 presenta receptores en el entorno del proyecto, y no se encuentra ejecutado.
+Por lo que se considera un receptor en el sector más poblado del entorno en donde fueron
+definidos los demás receptores.
+- El proyecto con ID 1 no se encuentra en ejecución, y evalúa sus aportes en la estación de calidad
+del aire Kington College (R_25), y en los sectores en donde se ubican los receptores R_29 y R_11
+de la Tabla 6-1.
+- El Proyecto con ID 6 se encuentra en fase de construcción sin embargo temporalmente coincidirá
+su fase de operación con el Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado de Tierras Raras. Este proyecto declara una reducción de sus aportes
+en calidad del aire, por lo que no generaría aportes adicionales a la línea de base existente. Por lo
+tanto, su reducción de aportes no es considerada en la proyección de la calidad del aire, con el
+objetivo de realizar una evaluación conservadora.
+Por lo tanto, son considerados los aportes descritos en la Tabla 7-8 de acuerdo con las evaluaciones
+ambientales de los proyectos identificados como ID 3 e ID 1.
+83
+================================================================================
+PAGE 91
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-8, Aportes otros proyectos con RCA favorable y no ejecutados (µg/m³).
+MP10 P98 MP10 MP2,5 MP2,5 NO2 SO2 SO2
+Proyecto Receptor NO2 1h CO 1h CO 8h
+24h anual P98 24h anual anual 24h anual
+R_29 3,13 0,39 3,13 0,39 70,41 2 132 73,97 1,14 0,121
+Planta Bio R_11 0,22 0,024 0,22 0,024 17,64 0,127 33,08 9,04 0,101 0,0077
+Energía Los Pinos Kington College
+0,019 0,0012 0,019 0,0012 1,58 0,0062 2,97 0,57 0,0066 0,000338
+(R_25)
+Crematorio
+Parque del
+R_17 1,27 0,27 1,27 0,27 1,84 0,11 6,14 4,21 0,49 0,09
+Sendero de
+Concepción
+84
+================================================================================
+PAGE 92
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+A continuación, se presentan las concentraciones totales estimadas para la fase de operación del Proyecto
+en el escenario más conservador, esto es considerando el año de mayores emisiones estimadas. Para
+proyectar calidad del aire en los receptores discretos de interés, fue considerada la línea de base de la
+estación Kingston College, por tratarse de la estación más cercana al Proyecto, y por tratarse de una
+estación que no se encuentra en un entorno industrial, al igual que los receptores identificados en el
+entorno de Proyecto. Es importante considerar además que los receptores más cercanos al proyecto no
+cuentan con fuentes emisoras relevantes en su entorno, tampoco con una densidad poblacional como la
+existente en el entorno de la estación de calidad del aire (con todas las emisiones que esto conlleva), con
+vientos que poseen una componente principal SO, por lo tanto, la línea de base existente en la estación
+Kingston College resultará conservadora.
+Tabla 7-9. Aporte total proyectado MP10 anual (µg/m³)
+MP10 anual (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 25 0,00 0,34 25,3 51%
+R_2 25 0,00 0,40 25,4 51%
+R_3 25 0,00 0,84 25,8 52%
+R_4 25 0,00 0,46 25,5 51%
+R_5 25 0,00 0,44 25,4 51%
+R_6 25 0,00 0,37 25,4 51%
+R_7 25 0,00 0,24 25,2 50%
+R_8 25 0,00 0,20 25,2 50%
+R_9 25 0,00 1,05 26,0 52%
+R_11 25 0,02 3,94 29,0 58%
+R_12 25 0,00 0,40 25,4 51%
+R_13 25 0,00 0,44 25,4 51%
+R_14 25 0,00 0,37 25,4 51%
+R_15 25 0,00 0,37 25,4 51%
+R_17 25 0,27 0,27 25,5 51%
+R_25 25 0,00 0,03 25,0 50%
+R_28 25 0,00 3,93 28,9 58%
+R_29 25 0,39 0,99 26,4 53%
+R_30 25 0,00 0,87 25,9 52%
+R_31 25 0,00 0,42 25,4 51%
+R_32 25 0,00 4,18 29,2 58%
+Fuente: GAC.
+85
+================================================================================
+PAGE 93
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-10. Aporte total proyectado MP10 P98 24h (µg/m³)
+MP10 P98 24h (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 53 0,00 1,19 54,2 42%
+R_2 53 0,00 1,25 54,3 42%
+R_3 53 0,00 4,38 57,4 44%
+R_4 53 0,00 2,34 55,3 43%
+R_5 53 0,00 2,18 55,2 42%
+R_6 53 0,00 1,65 54,7 42%
+R_7 53 0,00 1,02 54,0 42%
+R_8 53 0,00 0,78 53,8 41%
+R_9 53 0,00 4,82 57,8 44%
+R_11 53 0,22 23,58 76,8 59%
+R_12 53 0,00 1,41 54,4 42%
+R_13 53 0,00 1,36 54,4 42%
+R_14 53 0,00 1,24 54,2 42%
+R_15 53 0,00 1,53 54,5 42%
+R_17 53 1,27 1,26 55,5 43%
+R_25 53 0,02 0,23 53,2 41%
+R_28 53 0,00 23,47 76,5 59%
+R_29 53 3,13 4,44 60,6 47%
+R_30 53 0,00 3,65 56,6 44%
+R_31 53 0,00 2,25 55,3 43%
+R_32 53 0,00 25,47 78,5 60%
+Fuente: GAC.
+Tabla 7-11. Aporte total proyectado MP2,5 anual (µg/m³)
+MP2,5 anual (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 14 0,00 0,09 13,9 69%
+R_2 14 0,00 0,10 13,9 70%
+R_3 14 0,00 0,19 14,0 70%
+R_4 14 0,00 0,12 13,9 70%
+R_5 14 0,00 0,11 13,9 70%
+R_6 14 0,00 0,10 13,9 69%
+R_7 14 0,00 0,06 13,9 69%
+R_8 14 0,00 0,05 13,9 69%
+R_9 14 0,00 0,24 14,0 70%
+R_11 14 0,02 0,80 14,6 73%
+R_12 14 0,00 0,12 13,9 70%
+R_13 14 0,00 0,13 13,9 70%
+R_14 14 0,00 0,11 13,9 70%
+R_15 14 0,00 0,11 13,9 70%
+86
+================================================================================
+PAGE 94
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+MP2,5 anual (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_17 14 0,27 0,05 14,1 71%
+R_25 14 0,00 0,01 13,8 69%
+R_28 14 0,00 0,77 14,6 73%
+R_29 14 0,39 0,22 14,4 72%
+R_30 14 0,00 0,12 13,9 70%
+R_31 14 0,00 0,06 13,9 69%
+R_32 14 0,00 0,80 14,6 73%
+Fuente: GAC.
+Tabla 7-12. Aporte total proyectado MP2,5 P98 24h (µg/m³)
+MP2,5 P98 24h (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 38 0,00 0,28 38,3 77%
+R_2 38 0,00 0,32 38,3 77%
+R_3 38 0,00 0,90 38,9 78%
+R_4 38 0,00 0,56 38,6 77%
+R_5 38 0,00 0,52 38,5 77%
+R_6 38 0,00 0,42 38,4 77%
+R_7 38 0,00 0,25 38,3 77%
+R_8 38 0,00 0,22 38,2 76%
+R_9 38 0,00 1,14 39,1 78%
+R_11 38 0,22 4,70 42,9 86%
+R_12 38 0,00 0,35 38,4 77%
+R_13 38 0,00 0,36 38,4 77%
+R_14 38 0,00 0,35 38,4 77%
+R_15 38 0,00 0,40 38,4 77%
+R_17 38 1,27 0,27 39,5 79%
+R_25 38 0,02 0,07 38,1 76%
+R_28 38 0,00 4,48 42,5 85%
+R_29 38 3,13 1,07 42,2 84%
+R_30 38 0,00 0,47 38,5 77%
+R_31 38 0,00 0,31 38,3 77%
+R_32 38 0,00 4,75 42,8 86%
+Fuente: GAC.
+Tabla 7-13. Aporte total proyectado NO anual (µg/m³)
+2
+NO anual (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_1 7,50 0,00 0,17 7,7 7,7%
+R_2 7,50 0,00 0,20 7,7 7,7%
+R_3 7,50 0,00 0,35 7,8 7,8%
+87
+================================================================================
+PAGE 95
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+NO anual (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_4 7,50 0,00 0,21 7,7 7,7%
+R_5 7,50 0,00 0,20 7,7 7,7%
+R_6 7,50 0,00 0,18 7,7 7,7%
+R_7 7,50 0,00 0,12 7,6 7,6%
+R_8 7,50 0,00 0,10 7,6 7,6%
+R_9 7,50 0,00 0,47 8,0 8,0%
+R_11 7,50 0,13 1,47 9,1 9,1%
+R_12 7,50 0,00 0,26 7,8 7,8%
+R_13 7,50 0,00 0,29 7,8 7,8%
+R_14 7,50 0,00 0,23 7,7 7,7%
+R_15 7,50 0,00 0,20 7,7 7,7%
+R_17 7,50 0,11 0,07 7,7 7,7%
+R_25 7,50 0,01 0,01 7,5 7,5%
+R_28 7,50 0,00 1,35 8,8 8,8%
+R_29 7,50 2,00 0,45 9,9 9,9%
+R_30 7,50 0,00 0,15 7,7 7,7%
+R_31 7,50 0,00 0,08 7,6 7,6%
+R_32 7,50 0,00 1,36 8,9 8,9%
+Fuente: GAC.
+Tabla 7-14. Aporte total proyectado NO P99 1h (µg/m³)
+2
+NO P99 1h (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_1 19,10 0,00 3,53 22,6 5,7%
+R_2 19,10 0,00 3,28 22,4 5,6%
+R_3 19,10 0,00 8,38 27,5 6,9%
+R_4 19,10 0,00 10,60 29,7 7,4%
+R_5 19,10 0,00 9,77 28,9 7,2%
+R_6 19,10 0,00 8,33 27,4 6,9%
+R_7 19,10 0,00 5,27 24,4 6,1%
+R_8 19,10 0,00 3,21 22,3 5,6%
+R_9 19,10 0,00 26,94 46,0 11,5%
+R_11 19,10 17,64 60,06 96,8 24,2%
+R_12 19,10 0,00 5,24 24,3 6,1%
+R_13 19,10 0,00 5,19 24,3 6,1%
+R_14 19,10 0,00 5,50 24,6 6,1%
+R_15 19,10 0,00 5,88 25,0 6,2%
+R_17 19,10 1,84 1,93 22,9 5,7%
+R_25 19,10 1,58 0,53 21,2 5,3%
+R_28 19,10 0,00 55,29 74,4 18,6%
+R_29 19,10 70,41 23,85 113,4 28,3%
+88
+================================================================================
+PAGE 96
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+NO P99 1h (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_30 19,10 0,00 2,31 21,4 5,4%
+R_31 19,10 0,00 1,72 20,8 5,2%
+R_32 19,10 0,00 53,85 72,9 18,2%
+Fuente: GAC.
+Tabla 7-15. Aporte total proyectado SO anual (µg/m³)
+2
+SO anual (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_1 2,70 0,00 0,00 2,7 4,5%
+R_2 2,70 0,00 0,00 2,7 4,5%
+R_3 2,70 0,00 0,00 2,7 4,5%
+R_4 2,70 0,00 0,00 2,7 4,5%
+R_5 2,70 0,00 0,00 2,7 4,5%
+R_6 2,70 0,00 0,00 2,7 4,5%
+R_7 2,70 0,00 0,00 2,7 4,5%
+R_8 2,70 0,00 0,00 2,7 4,5%
+R_9 2,70 0,00 0,00 2,7 4,5%
+R_11 2,70 0,01 0,01 2,7 4,5%
+R_12 2,70 0,00 0,00 2,7 4,5%
+R_13 2,70 0,00 0,00 2,7 4,5%
+R_14 2,70 0,00 0,00 2,7 4,5%
+R_15 2,70 0,00 0,00 2,7 4,5%
+R_17 2,70 0,09 0,00 2,8 4,7%
+R_25 2,70 0,00 0,00 2,7 4,5%
+R_28 2,70 0,00 0,01 2,7 4,5%
+R_29 2,70 0,12 0,00 2,8 4,7%
+R_30 2,70 0,00 0,00 2,7 4,5%
+R_31 2,70 0,00 0,00 2,7 4,5%
+R_32 2,70 0,00 0,01 2,7 4,5%
+Fuente: GAC.
+Tabla 7-16. Aporte total proyectado SO P99 24h (µg/m³)
+2
+SO 24h (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_1 7 0,00 0,00 6,5 4,3%
+R_2 6,50 0,00 0,00 6,5 4,3%
+R_3 6,50 0,00 0,01 6,5 4,3%
+R_4 6,50 0,00 0,01 6,5 4,3%
+R_5 6,50 0,00 0,01 6,5 4,3%
+R_6 6,50 0,00 0,01 6,5 4,3%
+89
+================================================================================
+PAGE 97
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+SO 24h (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_7 6,50 0,00 0,00 6,5 4,3%
+R_8 6,50 0,00 0,00 6,5 4,3%
+R_9 6,50 0,00 0,01 6,5 4,3%
+R_11 6,50 0,10 0,05 6,6 4,4%
+R_12 6,50 0,00 0,00 6,5 4,3%
+R_13 6,50 0,00 0,00 6,5 4,3%
+R_14 6,50 0,00 0,00 6,5 4,3%
+R_15 6,50 0,00 0,00 6,5 4,3%
+R_17 6,50 0,49 0,00 7,0 4,7%
+R_25 6,50 0,01 0,00 6,5 4,3%
+R_28 6,50 0,00 0,05 6,5 4,4%
+R_29 6,50 1,14 0,01 7,7 5,1%
+R_30 6,50 0,00 0,00 6,5 4,3%
+R_31 6,50 0,00 0,00 6,5 4,3%
+R_32 6,50 0,00 0,05 6,5 4,4%
+Fuente: GAC.
+Tabla 7-17. Aporte total proyectado SO P99 1h (µg/m³)
+2
+SO P99 1h (µg/m³)
+2
+Receptor % norma
+LdB AOP AP LdBP
+R_1 9,5 0,00 0,01 9,5 3,2%
+R_2 9,5 0,00 0,01 9,5 3,2%
+R_3 9,5 0,00 0,04 9,5 3,2%
+R_4 9,5 0,00 0,03 9,5 3,2%
+R_5 9,5 0,00 0,02 9,5 3,2%
+R_6 9,5 0,00 0,02 9,5 3,2%
+R_7 9,5 0,00 0,01 9,5 3,2%
+R_8 9,5 0,00 0,01 9,5 3,2%
+R_9 9,5 0,00 0,03 9,5 3,2%
+R_11 9,5 0,00 0,10 9,6 3,2%
+R_12 9,5 0,00 0,01 9,5 3,2%
+R_13 9,5 0,00 0,01 9,5 3,2%
+R_14 9,5 0,00 0,01 9,5 3,2%
+R_15 9,5 0,00 0,01 9,5 3,2%
+R_17 9,5 0,00 0,00 9,5 3,2%
+R_25 9,5 0,00 0,00 9,5 3,2%
+R_28 9,5 0,00 0,10 9,6 3,2%
+R_29 9,5 0,00 0,03 9,5 3,2%
+R_30 9,5 0,00 0,00 9,5 3,2%
+R_31 9,5 0,00 0,00 9,5 3,2%
+R_32 9,5 0,00 0,10 9,6 3,2%
+90
+================================================================================
+PAGE 98
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Fuente: GAC.
+Tabla 7-18. Aporte total proyectado CO P99 1h (µg/m³)
+CO P99 1h (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 3.600 0,00 7,49 3.607,5 12,0%
+R_2 3.600 0,00 5,35 3.605,4 12,0%
+R_3 3.600 0,00 19,51 3.619,5 12,1%
+R_4 3.600 0,00 26,53 3.626,5 12,1%
+R_5 3.600 0,00 23,36 3.623,4 12,1%
+R_6 3.600 0,00 23,41 3.623,4 12,1%
+R_7 3.600 0,00 19,63 3.619,6 12,1%
+R_8 3.600 0,00 17,43 3.617,4 12,1%
+R_9 3.600 0,00 23,77 3.623,8 12,1%
+R_11 3.600 33,08 66,03 3.699,1 12,3%
+R_12 3.600 0,00 14,06 3.614,1 12,0%
+R_13 3.600 0,00 13,68 3.613,7 12,0%
+R_14 3.600 0,00 11,16 3.611,2 12,0%
+R_15 3.600 0,00 10,99 3.611,0 12,0%
+R_17 3.600 6,14 4,69 3.610,8 12,0%
+R_25 3.600 2,97 1,11 3.604,1 12,0%
+R_28 3.600 0,00 69,20 3.669,2 12,2%
+R_29 3.600 132,00 22,86 3.754,9 12,5%
+R_30 3.600 0,00 3,87 3.603,9 12,0%
+R_31 3.600 0,00 4,00 3.604,0 12,0%
+R_32 3.600 0,00 66,83 3.666,8 12,2%
+Fuente: GAC.
+Tabla 7-19. Aporte total proyectado CO P99 promedio móvil 8h (µg/m³)
+CO P99 8h (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_1 1.400 0,00 3,21 1403,2 14,0%
+R_2 1.400 0,00 3,16 1.403,2 14,0%
+R_3 1.400 0,00 11,65 1.411,7 14,1%
+R_4 1.400 0,00 13,69 1.413,7 14,1%
+R_5 1.400 0,00 12,57 1.412,6 14,1%
+R_6 1.400 0,00 13,94 1.413,9 14,1%
+R_7 1.400 0,00 9,88 1.409,9 14,1%
+R_8 1.400 0,00 8,56 1.408,6 14,1%
+R_9 1.400 0,00 7,07 1.407,1 14,1%
+R_11 1.400 9,04 26,64 1.435,7 14,4%
+91
+================================================================================
+PAGE 99
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+CO P99 8h (µg/m³)
+Receptor % norma
+LdB AOP AP LdBP
+R_12 1.400 0,00 4,50 1.404,5 14,0%
+R_13 1.400 0,00 4,00 1.404,0 14,0%
+R_14 1.400 0,00 4,30 1.404,3 14,0%
+R_15 1.400 0,00 4,57 1.404,6 14,0%
+R_17 1.400 4,21 1,75 1.406,0 14,1%
+R_25 1.400 0,57 0,68 1.401,3 14,0%
+R_28 1.400 0,00 28,65 1.428,6 14,3%
+R_29 1.400 73,97 6,68 1.480,6 14,8%
+R_30 1.400 0,00 1,55 1.401,6 14,0%
+R_31 1.400 0,00 1,67 1.401,7 14,0%
+R_32 1.400 0,00 28,66 1.428,7 14,3%
+Fuente: GAC.
+Tabla 7-20. Aporte proyectado MPS (mg/m²/día)
+MPS anual (mg/m² día)
+Receptor % norma
+LdB AOP AP Total
+R_16 SI 0,00 8,28 8,3 4,1%
+R_18 SI 0,00 0,78 0,8 0,4%
+R_19 SI 0,00 19,28 19,3 9,6%
+R_20 SI 0,00 5,89 5,9 2,9%
+R_21 SI 0,00 18,80 18,8 9,4%
+R_22 SI 0,00 17,22 17,2 8,6%
+R_23 SI 0,00 22,34 22,3 11,2%
+R_24 SI 0,00 14,16 14,2 7,1%
+SI: Sin información
+Fuente: GAC.
+Tabla 7-21. Aporte proyectado SO anual (µg/m³)
+2
+SO anual (mg/m² día)
+2
+Receptor % norma
+LdB AOP AP Total
+R_16 2,7 0,00 0,01 2,7 1,7%
+R_18 2,7 0,00 0,00 2,7 1,7%
+R_19 2,7 0,00 0,02 2,7 1,7%
+R_20 2,7 0,00 0,01 2,7 1,7%
+R_21 2,7 0,00 0,01 2,7 1,7%
+R_22 2,7 0,00 0,01 2,7 1,7%
+R_23 2,7 0,00 0,01 2,7 1,7%
+R_24 2,7 0,00 0,01 2,7 1,7%
+Fuente: GAC.
+92
+================================================================================
+PAGE 100
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 7-22. Aporte proyectado SO P99,7 24h (µg/m³)
+2
+SO P99,7 24h (mg/m² día)
+2
+Receptor % norma
+LdB AOP AP Total
+R_16 7,3 0,00 0,04 7,3 1,0%
+R_18 7,3 0,00 0,02 7,3 1,0%
+R_19 7,3 0,00 0,13 7,4 1,0%
+R_20 7,3 0,00 0,06 7,4 1,0%
+R_21 7,3 0,00 0,10 7,4 1,0%
+R_22 7,3 0,00 0,14 7,4 1,0%
+R_23 7,3 0,00 0,08 7,4 1,0%
+R_24 7,3 0,00 0,05 7,4 1,0%
+Fuente: GAC.
+Tabla 7-23. Aporte proyectado SO P99,73 1h (µg/m³)
+2
+SO P99,73 1h (mg/m² día)
+2
+Receptor % norma
+LdB AOP AP Total
+R_16 15,5 0,00 0,14 15,64 1,6%
+R_18 15,5 0,00 0,05 15,55 1,6%
+R_19 15,5 0,00 0,37 15,87 1,6%
+R_20 15,5 0,00 0,19 15,69 1,6%
+R_21 15,5 0,00 0,38 15,88 1,6%
+R_22 15,5 0,00 0,51 16,01 1,6%
+R_23 15,5 0,00 0,27 15,77 1,6%
+R_24 15,5 0,00 0,17 15,67 1,6%
+Fuente: GAC.
+La evaluación de la calidad del aire proyectada, indica que los aportes estimados, no resultan relevantes,
+pues no modifican la condición de la componente, manteniéndose todos los valores proyectados por
+debajo de las normas de calidad del aire. Respecto de los aportes de material particulado el Proyecto no
+generará aportes relevantes en los sectores poblados, mientras que en los receptores mas cercanos, que
+se encuentran a menos de 100 metros del Proyecto, los aportes estimados no generarán una superación
+de las normas de calidad del aire. Respecto de los aportes de gases en la calidad del aire, el Proyecto
+generará aportes de poca relevancia.
+Los aportes de MPS, como fue indicado anteriormente, corresponden a una estimación conservadora al
+no considerar el efecto de lavado de la lluvia en la vegetación. Sin embargo, los máximos aportes (PMI) se
+estiman en valores cercanos a los 81 mg/m² día como promedio anual, lo que corresponde al 40,7% de la
+norma de referencia, por lo tanto los aportes en cualquier punto distinto será inferior a esta valor. Fueron
+estimados aportes de hasta un 11,2% de la norma de referencia en sectores con presencia de BNP.
+93
+================================================================================
+PAGE 101
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7.2 Analisis de aportes de material particulado en zona saturada
+La zona en donde se emplazará el Proyecto corresponde a una zona declarada como saturada por MP2,5
+para el promedio anual, mediante el Decreto 15/2015 del Ministerio del Medio Ambiente. La declaración
+de saturación para material particulado implica que la magnitud de los aportes para el contaminante que
+define como saturada la zona (MP2,5 anual), deben ser evaluados considerando la guía “Impacto de
+emisiones en zonas saturadas por material particulado respirable MP10 y material particulado fino
+respirable MP2,5”, del Servicio de Evaluación Ambiental, de septiembre del año 2023. De acuerdo con lo
+indicado en la guía, debe ser considerada la condición de zona saturada aun cuando exista alguna estación
+de monitoreo cercana al proyecto que no presente niveles que superen la normativa de calidad del aire.
+La guía presenta valores de significancia para los aportes de material particulado, sobre los cuales se
+considera que el aporte resulta significante en una zona declarada como saturada. En particular para el
+presente Proyecto en evaluación, resulta aplicable la Tabla 7-24 que se presenta a continuación, debido a
+que el Proyecto tendrá una duración superior a 3 años.
+Tabla 7-24. Valores de significancia para el aumento de concentraciones de MP10 y M2,5 sobre receptores
+humanos en un período igual o mayor a 3 años en zonas que sobrepasen el valor de la norma
+Fuente: Tabla 1, guía “Impacto de emisiones en zonas saturadas por material particulado respirable MP10 y material
+particulado fino respirable MP2,5”, del Servicio de Evaluación Ambiental, de septiembre del año 2023
+A continuación, la Tabla 7-25 presenta los aportes estimados en los receptores para el promedio anual de
+MP2,5.
+Tabla 7-25. Aportes para norma anual de MP2,5.
+MP2,5 (µg/m³)
+Receptor
+Promedio anual
+R_1 0,09
+R_2 0,10
+R_3 0,19
+R_4 0,12
+R_5 0,11
+R_6 0,10
+94
+================================================================================
+PAGE 102
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+MP2,5 (µg/m³)
+Receptor
+Promedio anual
+R_7 0,06
+R_8 0,05
+R_9 0,24
+R_11 0,80
+R_12 0,12
+R_13 0,13
+R_14 0,11
+R_15 0,11
+R_17 0,05
+R_25 0,01
+R_28 0,77
+R_29 0,22
+R_30 0,12
+R_31 0,06
+R_32 0,80
+Como se observa en la Tabla 7-25, existen tres receptores R_11, R_28 y R_32, en donde el aporte estimado
+para el promedio anual de MP2,5 supera el valor de 0,33 µg/m³, indicado como el límite de significancia
+para el aumento de concentraciones en una zona declarada como saturada para la norma anual de MP2,5.
+Los receptores R_11, R_28 y R_32, corresponden a receptores que se encuentran cercanos a caminos
+interiores en el sector de emplazamiento del Proyecto, ubicándose próximos entre ellos, sin embargo, se
+trata de viviendas aisladas. La Figura 7-2 presenta la ubicación de estas viviendas.
+95
+================================================================================
+PAGE 103
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-2. Receptores en donde se supera aporte definido como de significancia
+7.3 Mapas de gradientes espaciales de concentración (isoconcentraciones)
+A continuación, se presentan las curvas de isoconcentración por contaminante del aporte de la fase de
+operación del Proyecto. Las figuras muestran que los mayores aportes se producirán en las inmediaciones
+del Proyecto, obteniéndose el punto de máximo impacto (PMI) en la misma área de ejecución del Proyecto.
+En color azul se presenta los 29 receptores descritos en la Tabla 6-1. Las figuras presentan los aportes
+estimados del proyecto hasta el equivalente al 1% de las normas de calidad del aire y de MPS, lo que se
+considera el área de influencia del Proyecto, que es donde se realiza el análisis de los aportes, pues aportes
+bajo el 1% de las distintas normas se considera suficientemente bajo para no generar ni un tipo de efecto
+en la calidad del aire. Para SO y CO, los aportes del Proyecto en todo el dominio de modelación son
+2
+inferiores al 1% de las normas, o con valores muy próximos al 1%, por lo tanto, no es posible visualizar los
+aportes como curvas de isoconcentraciones.
+96
+================================================================================
+PAGE 104
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-1. MP10 P98 de 24 horas.
+97
+================================================================================
+PAGE 105
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-2. MP10 promedio anual.
+98
+================================================================================
+PAGE 106
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-3. MP2,5 P98 24 horas.
+99
+================================================================================
+PAGE 107
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-4. MP2,5 promedio anual.
+100
+================================================================================
+PAGE 108
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-5. NO P99 1 hora.
+2
+101
+================================================================================
+PAGE 109
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-6. NO promedio anual.
+2
+102
+================================================================================
+PAGE 110
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 7-7. MPS anual.
+103
+================================================================================
+PAGE 111
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+8 CONCLUSIONES MODELO DE CALIDAD DEL AIRE
+En relación con el análisis de incertidumbre del modelo meteorológico WRF, el desempeño para la
+estimación de vientos se evaluó en cuatro estaciones y para temperatura en tres estaciones, de manera
+de abarcar un área importante del dominio de modelación. Se analizó la estación Kingston College, a 3,4
+kilómetros al suroeste del Proyecto, la estación Liceo Polivalente a 15,9 kilómetros al norte del Proyecto,
+la estación Nueva Libertad ubicada a 10,1 kilómetros al oeste del Proyecto y la estación Coronel Norte
+ubicada a 28,6 kilómetros al suroeste del Proyecto.
+Para Kingston College se aprecia una correlación (r) de 0,52 y un índice de concordancia medio (entre 0 y
+0,5) de 0,10. En el caso de Nueva Libertad se muestra un mejor desempeño del modelo, una correlación
+(r) de 0,65 y un índice de concordancia alto (mayor que 0,5) de 0,55. Para la estación Coronel norte se
+observa una correlación (r) de 0,69 y un índice de concordancia alto (mayor que 0,5) de 0,55. Por último
+en Liceo polivalente se muestra una correlación (r) de 0,64 y un índice de concordancia alto de 0,68. Todos
+los estadígrafos de magnitud del viento cumplen con los valores recomendados en la actualización de la
+Guía del uso de modelos de calidad del aire en el SEIA, con la excepción del r de Kingston College el cual
+es levemente inferior de 0,6.
+Las tres estaciones presentan una buena concordancia entre datos modelados y medidos de dirección del
+viento y las estaciones Kingston College y Coronel Norte presentan un buen desempeño en temperaturas
+modeladas respecto a datos medidos. Todos los estadígrafos de temperatura cumplen con los valores
+recomendados en la actualización de la Guía del uso de modelos de calidad del aire en el SEIA.
+Finalmente se analizó cualitativamente el comportamiento de la altura de capa de mezcla promedio
+horaria por mes del año, cualitativamente ya que no existen datos medidos del parámetro, la cual
+presenta un comportamiento estimado satisfactorio respecto al ciclo diario y estacional de dicho
+parámetro una zona costera.
+En relación con los aportes estimados en términos de calidad del aire, es posible concluir lo siguiente.
+• Existe tres receptores cercanos entre sí, ubicados en las cercanías de caminos internos del
+Proyecto, en donde se estiman los máximos aportes del Proyecto para normas primarias sobre
+receptores humanos.
+• Los aportes estimados de material particulado respirable (MP10 y MP2,5) en todos los receptores
+considerados no resultan relevantes respecto de la normativa primaria de calidad del aire, no
+generándose una superación de las normas de referencias debido a los aportes que generará el
+Proyecto en su año de mayores emisiones (año 4 de operación).
+• Los aportes estimados para gases corresponden a valores de poca magnitud, inferiores al 1% de
+las normas, para NO , SO y CO. El mayor aporte estimado corresponde al de NO para su norma
+2 2 2
+104
+================================================================================
+PAGE 112
+================================================================================
+Anexo 4-1 Modelación de calidad del aire
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+horaria, que llega al 15% de la norma, sin embargo, es importante considerar que el modelo calpuff
+tiende a sobreestimar los valores horarios extremos.
+• A partir de los resultados obtenidos de la modelación del escenario de operación del Proyecto, es
+posible concluir que los aportes más relevantes se concentrarán en las inmediaciones del
+proyecto, en donde fue evaluado el aporte del proyecto en receptores discretos, esto debido que
+las emisiones más relevantes corresponden a emisiones de material particulado resuspendido, el
+que se compone mayoritariamente de partículas gruesas.
+• Respecto de la evaluación de la concentración total en la estación de monitoreo de calidad del aire
+Kigston College, es posible concluir que los aportes estimados para el escenario de mayores
+emisiones del Proyecto no modificarán la condición de la calidad del aire en la estación,
+estimándose aportes inferiores al 1% de las normas primarias de calidad del aire.
+• Respecto de los aportes en MPS, estos se concentrarán en el entorno más próximo al Proyecto, y
+se estima que los aportes en sitios con presencia de bosque nativo de preservación llegarán a
+valores máximos cercanos al 11% de la norma de referencia.
+• Los aportes de MP2,5 como promedio anual, estimados para el escenario de mayores emisiones,
+resulta superior a los valores definidos como de significancia en la “guía Impacto de emisiones en
+zonas saturadas por material particulado respirable MP10 y material particulado fino respirable
+MP2,5”, del Servicio de Evaluación Ambiental, al situarse el Proyecto en una zona declarada como
+saturada para MP2,5 como promedio anual. La superación del aporte por sobre el valor definido
+como de significancia, fue obtenido en los tres receptores más próximos al Proyecto.
+• Finalmente es posible concluir que los aportes estimados para el escenario más conservador de
+ejecución del Proyecto, no modificará la condición de la componente calidad del aire en el área de
+influencia del Proyecto, y estos aportes no supondrán una superación de las normas de calidad del
+aire. Sin embargo, al generarse aportes que superan el nivel definido de significancia para el
+promedio anual de MP2.5, en una zona declarada como saturada, se estima que podría existir un
+aumento significativo del riesgo preexistente sobre la salud de la población. El análisis de la
+significancia de este incremento es analizado en el Anexo 5-1 Estudio de riesgo a la salud de la
+población.
+105

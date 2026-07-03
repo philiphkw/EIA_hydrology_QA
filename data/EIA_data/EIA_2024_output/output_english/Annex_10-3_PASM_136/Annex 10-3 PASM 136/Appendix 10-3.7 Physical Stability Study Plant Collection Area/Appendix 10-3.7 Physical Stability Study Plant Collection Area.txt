@@ -1,0 +1,350 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-3.7
+Physical Stability Study Zone
+Vegetable Collection
+EIA "Mining Development Project
+of Clay Extraction for
+Concentrate Production
+Rare Earths"
+Biobío Region
+June, 2024
+Made for:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+CLARIFIES
+PHYSICAL STABILITY STUDY
+VEGETABLE COLLECTION AREA
+No. 60 0723-INF-GE-002
+PANGEA Geotechnics
+Cochrane 635, Of. 1503, A APPROVED CUSTOMER: ____________
+Concepción, Chile DATE: ____________
+Prepared to CLEAR.
+REV. DATE BY REV. APPROVED DESCRIPTION
+A 08-25-2023 GT CA RM Internal Review
+B 08-28-2023 GT CA RM Internal approval
+C 08-28-2023 GT CA RM Customer review
+D 11-27-2023 GT CA RM Customer approval
+==================================================================================
+PAGE 3
+==================================================================================
+INDEX
+1. INTRODUCTION ........................................................................................................... 1
+2. REFERENCES ................................................................................................................... 2
+3. GENERAL BACKGROUND ................................................................................... 2
+4. STORAGE VOLUMES ................................................................... 3
+5. SOIL CHARACTERIZATION ................................................................................... 4
+5.1. VEGETABLE SOIL CHARACTERIZATION ................................................................... 4
+5.2. FOUNDATION SOIL CHARACTERIZATION ................................................... 4
+6. GEOMECHANICAL STABILITY ........................................................................................... 6
+6.1. METHODOLOGY ....................................................................................................... 7
+6.2. RESULTS ........................................................................................................... 9
+7. CONCLUSIONS ........................................................................................................... 15
+_________________________________________________________________________
+Physical Stability – Vegetable Collection Area
+==================================================================================
+PAGE 4
+==================================================================================
+1. INTRODUCTION
+This report has been requested from Pangea Geotecnia in order to determine the
+physical stability of the plant storage area contemplated in the Tierras mining project
+Raras that will be operated by Aclara, located in the communes of Penco and Concepción, Region
+of Biobío. Figure 1 shows the location of the main facilities
+considered in the project. Vegetable collection area 1 is highlighted in green.
+ZAV1
+Figure 1. Location of plant collection area (ZAV1).
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 1
+==================================================================================
+PAGE 5
+==================================================================================
+2. REFERENCES
+The documents used to develop the study were the following:
+SOIL MECHANICS REPORT N°130 1220-MS-GE-NEP. LANCUYEN
+Reference N°1
+ENGINEERING.
+ENGINEERING GEOTECHNICAL CHARACTERIZATION REPORT
+Reference N°2 FEASIBILITY OF EXTRACTION AREAS. N°01 0122-MS-GE. PANGEA
+GEOTECHNICS
+GEOTECHNICAL REPORT EMBANKMENTS TEST AND ANALYSIS OF
+Reference N°3 SLOPE STABILITY ZD JUPITER AND NEPTUNE. No. 62 102-INF-GE-001.
+PANGEA GEOTECHNICS.
+TECHNICAL REPORT G0017-23. “SEISMIC DANGER IN THE ALARA PROJECT,
+UPDATED TO NCH 2369:2023, EXTRACTION AND DISPOSAL AREAS,
+Reference N°4
+PENCO COMMUNE, BÍO-BÍO REGION”.GENSIS ENGINEERING
+SEISMIC GEOTECHNICS-AUGUST 2023.
+REPORT “CONCEPTUAL ENGINEERING OF PLANT STORAGE AREAS”
+Reference N°5
+BMINING -16 FEBRUARY 2023
+KRAMER, S.L (1996). GEOTECHNICAL EARTHQUAKE ENGINEERING.
+Reference N°6
+PRENTICE HALL, UPPER SADDLE RIVER, N.J
+CHILEAN STANDARD, NCh1508-2014 “GEOTECHNICS-STUDY OF MECHANICS OF
+Reference N°7
+SOILS.”
+CHILEAN STANDARD, NCh2369 OF.2003 “SEISMIC DESIGN OF STRUCTURES AND
+Reference N°8
+INDUSTRIAL FACILITIES”
+CHILEAN STANDARD, NCh2369 OF.2023 “SEISMIC DESIGN OF STRUCTURES AND
+Reference N°9
+INDUSTRIAL FACILITIES”
+SARAGONI, G.R. (1993). ANALYSIS OF THE SEISMIC RISK FOR THE
+RECONSTRUCTION OF THE PORT OF VALPARAÍSO. 6TH DAYS
+Reference N°10
+CHILEAN DEGREES OF SEISMOLOGY AND ANTI-SEISMIC ENGINEERING, UNIVERSITY OF
+CHILE AND ACHISINA, SANTIAGO, CHILE, VOL. 2, 165-178
+3. GENERAL BACKGROUND
+The vegetal layer to be collected corresponds to the upper layer of the soil that has a high content
+of organic matter. This layer will be removed from the areas to be intervened in the project,
+specifically, of the extraction areas, Neptune disposal area, storage area
+vegetable and area destined for the processing plant, to be transported and stored
+temporarily in the plant collection area.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 2
+==================================================================================
+PAGE 6
+==================================================================================
+The project considers a temporary plant collection area, called from now on
+ZAV1, the location of it is shown in Figure 1.
+This area will allow the topsoil to be stored until the time comes for its transfer.
+definitive to the extraction areas and the Neptuno disposal area, once the
+closure of the production process according to the project schedule. Extend again the
+vegetal soil in the closed extraction areas and in the disposal area has the objective
+to provide properties that facilitate and encourage the growth of vegetation.
+In this document, a geomechanical stability analysis of the geometry will be carried out
+proposal for the plant collection area, which is detailed in the following paragraphs of the
+present report.
+4. STORAGE VOLUMES
+To calculate the total volume of vegetal soil to be stored in the vegetal collection area,
+The following facilities and works of the project are considered:
+- Luna, Victoria Norte and Maite extraction areas
+- Neptune disposal area
+- Processing plant area
+- Vegetable collection area
+It will be considered that there is a layer of vegetal soil of 30 cm in the extraction areas and a
+50 cm layer in the disposal area, processing plant and plant storage area,
+the above, as indicated by the Claria team. Considering layer thicknesses
+indicated, the volume of vegetal soil existing in each zone was cubed.
+intervene, obtaining the results presented in Table 1.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 3
+==================================================================================
+PAGE 7
+==================================================================================
+Table 1 Volumes to be collected by area
+Areas to intervene Vegetable soil volume (m3)
+ZE: Luna, Victoria Norte and Maite 192,000
+Neptune disposal zone 184,000
+Processing Plant 66,000
+Vegetable collection area 19,000
+TOTAL 461,000
+According to the results, a volume of 461,000 m3 is required to be stored in the storage tank.
+vegetable collection.
+5. SOIL CHARACTERIZATION
+5.1.VEGETABLE SOIL CHARACTERIZATION
+The geotechnical parameters associated with the vegetal soil that will make up the deposit of the area
+collection, are indicated in Table 2, and were assigned based on the information existing in
+the previous soil mechanics studies carried out by Pangea Geotecnia (References
+N°1, N°2 and N°3), literature and experience of the author of this study, in addition, it is considered that
+The stockpile material must be slightly compacted by the passage of trucks to measure
+that is being arranged.
+Table 2. Properties of the vegetal soil
+Friction angle 29°
+Cohesion 3 kPa
+Undrained resistance – unconsolidated 80 kPa
+Undrained resistance - consolidated 125 kPa
+Unit weight 18 kN/m3
+5.2. FOUNDATION SOIL CHARACTERIZATION
+With respect to the characterization of the foundation soil of the plant collection area, it is
+will consider the information obtained from previous geotechnical exploration campaigns
+executed by Pangea Geotecnia (References N°1, N°2 and N°3), especially, to the results
+os
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 4
+==================================================================================
+PAGE 8
+==================================================================================
+obtained in the characterization of the Neptuno disposal zone, because the collection is
+located close to said area.
+Table 3 presents the representative stratigraphy of the foundation soil that will be used.
+in the stability analysis of the plant collection.
+Table 3. Properties of the foundation soil
+Layer Thickness (m) Material description
+Plant layer with roots and rootlets of silty clay
+1 0.00 – 0.50 red color. Medium humidity. Medium to low consistency.
+Silty sand, light brown in color, with tones
+2 0.50 – 2.00 yellow, low plasticity and medium compactness,
+medium humidity and homogeneous structure. According to the
+USCS system, this soil classifies as SM.
+2.00 - 10.00 Coarse sand with silty-type fines of origin
+3 granodioritic, residual soil characteristics,
+high compactness, low medium humidity, structure
+inherited from bedrock. According to the USCS system, this
+soil classifies as SM.
+4 10.00 – 20.00 Residual soil whose source rock is
+moderately weathered, high compactness,
+medium to low humidity. According to the USCS system, this
+soil classifies as SM, GM, GW.
+5 ≥ 20.00 Rock basement.
+The geotechnical parameters assigned to each stratum indicated above are indicated in the
+Table 4.
+Table 4. Properties of the foundation soil
+Thickness (m) Cohesion Angle (kPa) Su (kPa) Unit weight
+friction (°) kN/m3
+0.00 – 0.50 - - - -
+0.50 - 2.00 32 20 150 17
+2.00 – 10.00 36 20 200 19
+10.00 – 20.00 38 45 260 20
+≥ 20.00 45 5000 - 22
+_________________________________________________________________________
+Physical stability – Vegetable Collection Zone 5
+==================================================================================
+PAGE 9
+==================================================================================
+6. GEOMECHANICAL STABILITY
+The geomechanical stability evaluation will be carried out using limit equilibrium methods.
+on analysis sections (2D), evaluating static and pseudo-static scenarios. The section
+longitudinal critical to evaluate in the vegetable collection, is represented by a red line on the
+Figure 2.
+Figure 2. Analysis sections
+Additionally, Figure 3 shows the critical analysis section that will be modeled.
+in the plant collection area.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Zone 6
+==================================================================================
+PAGE 10
+==================================================================================
+Figure 3. Collection Area 1 – Analysis Section
+As can be seen from the analysis section shown, the maximum height of the tank
+corresponds to that indicated in Table 5.
+Table 5. Global maximum inclination for plant collection area.
+Maximum height (m)
+Collection area
+ZAV 1 36
+6.1. METHODOLOGY
+First of all, the scenarios to be evaluated for the stability analysis must be defined.
+of plant collection 1, those indicated in Figure 6.
+Figure 4. Scenarios evaluated in deposit stability analysis.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Zone 7
+==================================================================================
+PAGE 11
+==================================================================================
+In accordance with the recommendations of the FHWA (Federal Highway Administration, for its
+acronym in English) the recommended safety factors for slope stability are
+presented in Table 6.
+Table 6. Recommended safety factors according to FHWA.
+Analysis Scenario F.S.
+Static ≥ 1.50
+Temporary 1.25 – 1.35
+Seismic ≥ 1.10
+For the seismic stability analysis, the demand stipulated by the study of
+seismic hazard (Reference N°4) for the design scenario (return period 475 years)
+considered in the Neptune disposition zone, this corresponds to an acceleration of 0.685g.
+The horizontal seismic coefficient used corresponds to that recommended by Saragoni (1993),
+this being:
+Therefore, the horizontal seismic coefficient to be used corresponds to 0.194. Finally, the
+stability analysis
+, both static and pseudo-static, is performed using the method
+from Bishop, using GGU-Stability® software.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 8
+==================================================================================
+PAGE 12
+==================================================================================
+6.2. RESULTS
+Based on the resistance parameters mentioned in section 5.0 of this report,
+The scenarios indicated in the methodology were evaluated, modifying the slope of the
+deposit in order to comply with the safety factors indicated in Table 5.
+In this way, the analysis of the plant collection area 1, considering the geometry of this
+with maximum elevation of +220.45 (according to topography), defines the maximum design inclination
+of the deposit, indicated in Table 7.
+Table 7. Global maximum inclination for ZAV1.
+Maximum height (m)
+Collection area Maximum inclination (°)
+ZAV 1 18° 36
+According to the above, the estimated safety factors for each scenario and condition
+are those presented in Table 8.
+Table 8. Safety factors obtained in stability analysis.
+F.S.
+Area Scenario Situation Condition FS Model
+Required
+Temporary Not Drained 1.25 1.31
+Static Drained 1.87
+Permanent 1.50
+ZAV1 Not Drained 2.05
+Drained 1.11
+Permanent Seismic 1.10
+Not Drained 1.11
+Figure 7 to Figure 11 shows the software output for the case studies.
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 9
+==================================================================================
+PAGE 13
+==================================================================================
+Figure 5. Vegetable Collection Zone 1, Static Undrained condition (temporary) F.S. 1.31; earring
+18th
+_________________________________________________________________________
+Physical stability – Vegetable Collection Zone 10
+==================================================================================
+PAGE 14
+==================================================================================
+Figure 6. Vegetable Collection Zone 1, Static Drained condition F.S. 1.87; slope 18°
+_________________________________________________________________________
+Physical stability – Vegetable Collection Zone 11
+==================================================================================
+PAGE 15
+==================================================================================
+Figure 7. Vegetable Collection Zone 1, Static Undrained condition (permanent) F.S. 2.05; earring
+18th
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 12
+==================================================================================
+PAGE 16
+==================================================================================
+Figure 8. Vegetable Collection Zone 1, Drained Seismic condition F.S. 1.11; slope 18°
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 13
+==================================================================================
+PAGE 17
+==================================================================================
+Figure 9. Vegetable Collection Zone 1, Undrained Seismic condition F.S. 1.11; slope 18°
+Consequently, the tank will be designed with a maximum inclination of 18° and the height
+maximum indicated in Table 9.
+Table 9. Global maximum inclination for collection area.
+Maximum height (m)
+Collection area Maximum inclination (°)
+ZAV 1 18° 36
+_________________________________________________________________________
+Physical stability – Vegetable Collection Area 14
+==================================================================================
+PAGE 18
+==================================================================================
+As reported by the Claria team, the storage capacity of the
+Vegetable Stockpile 1 is the one indicated in Table 10.
+Table 10. Storage Area Capacity (Aclara Equipment)
+Storage area Capacity (m3)
+ZAV 1 491,000
+According to the above and the volumes of vegetal soil to be stored indicated in the
+numeral 4 of this report, it can be concluded that plant collection area 1 has the
+storage capacity for the quantities of material demanded.
+7. CONCLUSIONS
+The results indicate that it considers
+allowing an inclination of 18° of the material in the collection of
+vegetal soil, these are stable and meet the acceptability criteria according to the
+recommendations of the FHWA (Federal Highway Administration, for its English in
+English). Finally, under the current analysis, the seismic condition (drained and undrained) is the
+that controls the design of the geometry of the plant collection tank.
+Rafael Martinez
+Technical Manager
+Master in Soil Mechanics
+Imperial College London
+_________________________________________________________________________
+Physical stability – Plant Collection Area 15

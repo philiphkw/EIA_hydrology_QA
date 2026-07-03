@@ -1,0 +1,857 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA "Proyecto de Desarrollo Minero
+de Extracción de Arcillas para
+Producción de Concentrado Tierras
+Raras"
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE GENERAL
+1 Permiso ambiental sectorial mixto 146 ........................................................................................ 1
+1.1 Introducción .................................................................................................................................. 1
+1.2 Autoridad que lo otorga ................................................................................................................ 2
+1.3 Fase del Proyecto a la cual corresponda ....................................................................................... 2
+1.4 Parte, obra o acción a la que aplica ............................................................................................... 2
+1.5 Indicador que acredite el cumplimiento ....................................................................................... 2
+1.6 Condiciones o exigencias específicas para su otorgamiento ........................................................ 2
+2 CONTENIDOS TÉCNICOS Y FORMALES QUE DEBEN PRESENTARSE PARA ACREDITAR EL
+CUMPLIMIENTO DEL PERMISO ASOCIADO A LA LETRA A) DEL ARTÍCULO 146 DEL REGLAMENTO DEL
+SISTEMA DE EVALUACIÓN DE IMPACTO AMBIENTAL (D.S. N.º 40/2013). .............................................. 3
+2.1 Letra a) De tratarse de caza o captura de ejemplares de animales de especies protegidas para
+fines de investigación ................................................................................................................................ 3
+2.1.1 [a.1] Descripción del Proyecto .............................................................................................. 3
+2.1.2 [a.2] Especies, sexo y número de ejemplares estimados a cazar o capturar ........................ 3
+2.1.3 [a.3] Estado de las poblaciones a intervenir ......................................................................... 8
+2.1.4 [a.4] Metodologías de caza, captura y manejo ................................................................... 12
+2.1.5 [a.5] Lugar de caza, captura y de destino de los animales .................................................. 14
+2.1.6 [a.6] Condiciones de transporte e instalaciones de cautiverio ........................................... 19
+2.1.7 [a.7] Cronograma detallado de las actividades que se realizarán y período por el que se
+solicita el permiso ................................................................................................................................ 20
+3 REFERENCIAS BIBLIOGRÁFICAS .................................................................................................. 21
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1. Especie objetivo del “Plan de rescate y relocalización de fauna” ................................................ 4
+Tabla 2-2. Número de individuos estimados a capturar de acuerdo con la densidad especifica por ambiente
+y superficie de intervención .......................................................................................................................... 6
+Tabla 2-3. Técnica de captura y marcaje ..................................................................................................... 13
+Tabla 2-4. Cronograma de actividades de plan de rescate y relocalización de fauna ................................ 20
+Tabla 2-5. Cronograma general del Proyecto .............................................................................................. 21
+INDICE DE FIGURAS
+Figura 2-1. Localización de las áreas de rescate. ......................................................................................... 15
+Figura 2-2. Set fotográfico de ambientes de zonas de rescate; bosque, matorral, modificado y plantación.
+..................................................................................................................................................................... 16
+Figura 2-3. Localización del área de relocalización ..................................................................................... 18
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1 PERMISO AMBIENTAL SECTORIAL MIXTO 146
+1.1 Introducción
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante Proyecto, ubicado administrativamente en la Comuna de Penco y Concepción, Provincia
+de Concepción, Región del Biobío. El cual consiste en la construcción y operación de una faena minera
+junto con una planta de procesamiento de material granítico meteorizado, con presencia de arcillas. El
+regolito, en adelante llamado “Arcillas por procesar”, se forma como resultado de una alta meteorización
+de las rocas y contiene lantánidos adsorbidos en los minerales de arcilla. Los lantánidos, o Tierras Raras,
+son 15 elementos cuyo número atómico aumenta desde el Lantano (57) al lutecio (71). Por su
+comportamiento químico similar se les suma el itrio (Y). En adelante serán llamados “tierras raras”.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y producir concentrado
+de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas (ZE Victoria Norte, ZE
+Luna, ZE Maite), una (1) zona de disposición para estériles y arcillas procesadas (ZD Neptuno), una (1) zona
+de acopio de suelo vegetal (ZAV), una planta de procesamiento de arcillas (la Planta) y un stockpile para el
+acopio temporal de material previo al procesamiento, una línea eléctrica y su conexión a línea existente y
+la construcción de caminos internos para acceder a las distintas áreas. Además, se considera la
+implementación de obras temporales correspondiente a instalaciones de faenas, para la construcción y
+habilitación de las obras del Proyecto.
+En el marco de la implementación del Proyecto se han propuesto medidas de manejo ambiental destinadas
+a disminuir los efectos del Proyecto sobre el componente fauna, entre las cuales se cuenta la ejecución de
+un Plan de Rescate y Relocalización de ejemplares pertenecientes a especies amenazadas y de baja
+movilidad. Puesto que esta medida requiere de la captura de ejemplares para su posterior liberación, la
+ejecución es regulada por la Ley de Caza (Ley N° 19.473/1996) y, por lo tanto, se hace aplicable el Permiso
+Ambiental Sectorial N°146 (PASM 146).
+El presente Plan de rescate y relocalización, incorpora los contenidos técnicos y formales detallados en el
+artículo N° 146 del Reglamento del Sistema de Evaluación de Impacto Ambiental (D.S. N° 40/2013,
+modificado por el D.S. N° 30/2023, ambos del MMA), que en su conjunto permiten la implementación de
+la medida. Así mismo, el plan se basa en los lineamientos señalados en la Guía Técnica para Implementar
+Medidas de Rescate/Relocalización y Perturbación Controlada del Servicio Agrícola y Ganadero (Torres-
+Mura et al. 2014), Criterios Técnicos para la Aplicación de la Medida de Rescate y Relocalización (SEA 2021)
+y Guía Trámite PAS Artículo 146 Reglamento del SEIA (SEA 2022).
+1
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+1.2 Autoridad que lo otorga
+Servicio Agrícola y Ganadero.
+1.3 Fase del Proyecto a la cual corresponda
+El permiso se solicita para la fase de construcción y operación del proyecto.
+1.4 Parte, obra o acción a la que aplica
+En la fase de construcción y operación se considera el rescate y relocalización de ejemplares de fauna
+pertenecientes a especies amenazadas y de baja movilidad con la finalidad de minimizar efectos sobre el
+componente fauna (medida de mitigación propuesta en el presente EIA, Capítulo 7).
+1.5 Indicador que acredite el cumplimiento
+Como indicador de cumplimiento para este permiso ambiental sectorial mixto se considera:
+• Obtención del permiso en su tramitación ambiental y sectorial.
+• Informe que dé cuenta de la ejecución del Plan según sus contenidos aprobados.
+1.6 Condiciones o exigencias específicas para su otorgamiento
+En el presente documento, se entregan los contenidos técnicos y formales a que se refiere el Artículo 146
+del Reglamento del SEIA. Dichos contenidos (por considerarse caza o captura para fines de investigación,
+en el marco del SEIA) incluyen: el estado de las poblaciones a intervenir y la descripción detallada del “Plan
+de rescate y relocalización” del Proyecto.
+2
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+2 CONTENIDOS TÉCNICOS Y FORMALES QUE DEBEN PRESENTARSE PARA
+ACREDITAR EL CUMPLIMIENTO DEL PERMISO ASOCIADO A LA LETRA A) DEL
+ARTÍCULO 146 DEL REGLAMENTO DEL SISTEMA DE EVALUACIÓN DE IMPACTO
+AMBIENTAL (D.S. N.º 40/2013).
+2.1 Letra a) De tratarse de caza o captura de ejemplares de animales de especies
+protegidas para fines de investigación
+2.1.1 [a.1] Descripción del Proyecto
+El Plan de rescate y relocalización de fauna, consiste en la liberación de áreas, durante la fase de
+construcción y operación, previo a generar la intervención y ejecución de obras, que intervengan
+directamente sectores donde se detectó la presencia de especies protegidas y/o de baja movilidad
+(anfibios, reptiles y pequeños mamíferos).
+El objetivo general es liberar el área de intervención de especies protegidas y/o de baja movilidad, previo
+a la ejecución de obras y durante el desarrollo de la fase de construcción. Por su parte, los objetivos
+específicos apuntan a lo siguiente:
+• Rescatar la mayor cantidad de individuos de las especies objetivo que se encuentren en el área de
+intervención del Proyecto.
+• Relocalizar a los ejemplares capturados en ambientes similares a los intervenidos, ubicados
+idealmente en el entorno inmediato.
+2.1.2 [a.2] Especies, sexo y número de ejemplares estimados a cazar o capturar
+2.1.2.1 Especies
+De acuerdo con la caracterización de Fauna de Vertebrados Terrestres, presentado en el Capítulo 3 del
+EIA, se describe la presencia de 13 especies de vertebrados de baja movilidad, los que presentan especiales
+rasgos que los hacen particularmente susceptibles de sufrir afectación a raíz de la intervención de sus
+hábitats (microhábitats). Estas especies son los: los anfibios Pleurodema thaul (sapito de cuatro ojos) y
+Eupsophus roseus (rana rosácea); los reptiles Liolaemus schroederi (lagartija de Schröeder), Liolaemus
+cyanogaster (lagartija de vientre azul), Liolaemus lemniscatus (lagartija lemniscata), Liolaemus tenuis
+(lagartija esbelta), Liolaemus chiliensis (lagarto chileno) y Liolaemus pictus (lagartija pintada); y los
+micromamíferos como el marsupial Dromiciops gliroides (monito del monte) y los roedores Oligoryzomys
+longicaudatus (ratón de cola larga), Abrothrix longipilis (ratón lanudo bicolor), Abrothrix olivaceus (ratón
+oliváceo) y Phyllotis darwini (ratón orejudo de Darwin). Cabe mencionar que el rescate aplicaría para otras
+3
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+especies de anfibios, reptiles y/o micromamíferos que sean registrados al momento de realizarse la
+medida.
+En particular, los registros de las especies de anfibios señaladas se han asociado a puntos específicos en el
+Área de Influencia, estando estos registros asociados a la presencia de cursos de agua o bien puntos de
+alta presencia de humedad y presencia de refugios.
+En el caso de las especies de reptiles y roedores su presencia fue asociada a diversos ambientes y en
+particular a orillas de camino y zonas de pircas o troncos caídos. Por su parte, la especie Dromiciops
+gliroides (monito del monte), estuvo principalmente asociada a quebradas con presencia de matorral y
+sotobosque de especies nativas. El detalle de lo indicado, las categorías de conservación, el origen
+geográfico y su movilidad se presentan en Tabla 2-1.
+Es importante mencionar que se pretende rescatar y relocalizar a especies adultas y juveniles,
+exceptuando larvas en distinto desarrollo metamórfico (anfibios), huevos (anfibios, reptiles y aves) y
+polluelos (aves); los cuales son objeto de un permiso distinto de recolección de huevos y crías con fines
+científicos.
+Tabla 2-1. Especie objetivo del “Plan de rescate y relocalización de fauna”
+Nombre Nombre Estado de Documento
+Clase Origen Movilidad Ambiente
+científico común conservación legal
+Eupsophus Rana rosácea DS 41/2011
+Amphibia VU En Baja Mo
+roseus de hojarasca MMA
+Pleurodema Sapito de DS 41/2011
+Amphibia NT N Baja Pl
+thaul cuatro ojos MMA
+Liolaemus Lagarto DS 19/2012
+Reptilia LC N Baja Bo,Ma,Mo,Pl
+chiliensis chileno MMA
+Liolaemus Lagartija de DS 23/2019
+Reptilia LC N Baja Bo, Ma, Mo, Pl
+cyanogaster vientre azul MMA
+Liolaemus Lagartija DS 19/2012
+Reptilia LC N Baja Bo,Ma,Mo,Pl
+lemniscatus lemniscata MMA
+Lagartija DS 19/2012
+Reptilia Liolaemus pictus LC N Baja Ma,Pl
+pintada MMA
+Liolaemus Lagartija de DS 16/2016
+Reptilia VU E Baja Bo,Ma,Mo,Pl
+schroederi Schröeder MMA
+Lagartija DS 19/2012
+Reptilia Liolaemus tenuis LC N Baja Bo, Ma, Mo, Pl
+esbelta MMA
+Abrothrix Ratón de DS 19/2012
+Mammalia LC N Baja Bo, Pl
+longipilis pelo largo MMA
+Abrothrix Ratón
+Mammalia - - N Baja Bo, Pl
+olivaceus oliváceo
+4
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-9
+PASM N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado Tierras Raras
+Nombre Nombre Estado de Documento
+Clase Origen Movilidad Ambiente
+científico común conservación legal
+Dromiciops Monito del DS 42/2011
+Mammalia NT N Baja Pl
+gliroides monte MMA
+Oligoryzomys Ratón de
+Mammalia - - N Baja Mo, Pl
+longicaudatus cola larga
+Ratón
+Mammalia Phyllotis darwini orejudo de - - E Baja Pl
+darwin
+Categorías: NT: Casi amenazado, VU: Vulnerable, LC: Preocupación menor. Origen: N: Nativo, E: Endémico. Movilidad: B:
+Baja. Ambientes: Bo: Bosque, Ma: matorral, Mo: modificado, P: plantación.
+Fuente: GAC
+2.1.2.2 Sexo
+La medida considera la captura de ejemplares de ambos sexos.
+2.1.2.3 Número de ejemplares estimados a capturar
+A partir de los requerimientos formulados por el Servicio Agrícola y Ganadero en proyectos semejantes,
+se ha establecido que la captura del 100% de los ejemplares presentes en las áreas a intervenir es
+suficiente para garantizar la protección de las poblaciones locales. Para determinar lo anterior, previo a
+las actividades de captura, se realizarán estimaciones de la abundancia de cada especie en el área, para
+luego realizar en esta misma área estimaciones posteriores a la medida, y de esta forma generar
+comparaciones representativas.
+La metodología en detalle para realizar las estimaciones de abundancia en las áreas de captura se indica
+en la sección 2.1.7. Dado que se cuenta con el antecedente de la densidad registrada durante la línea de
+base en el área de estudio, ésta se utilizará como referencia mínima al momento de considerar los
+individuos a capturar en la medida. En el Tabla 2-2, se indican las densidades y abundancias estimadas
+durante las campañas de terreno.
+5
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-7.1
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Tabla 2-2. Número de individuos estimados a capturar de acuerdo con la densidad especifica por ambiente y superficie de intervención
+Total estimado de individuos
+Especie Densidad por ambiente Abundancia por ambiente Superficie de intervención (ha)
+(100%)
+Nombre Nombre
+Bo Ma Mo Pl Bo Ma Mo Pl Bo Ma Mo Pl Bo Ma Mo Pl
+científico común
+Rana
+Eupsophus rosácea
+0 0 0,8 0,8 0 0 6 1 25,94 14,53 12,35 87,68 0 0 10 70
+roseus de
+hojarasca
+Sapito de
+Pleurodema
+cuatro 0 0 0 0 0 0 0 0 25,94 14,53 12,35 87,68 0 0 0 0
+thaul
+ojos
+Lagartija
+Liolaemus
+de 0 0,4 0,4 0,4 0 1 3 5 25,94 14,53 12,35 87,68 0 6 5 35
+schroederi
+Schröeder
+Lagartija
+Liolaemus
+de vientre 0 0,2 0 0 0 1 0 3 25,94 14,53 12,35 87,68 0 3 0 0
+cyanogaster
+azul
+Liolaemus Lagartija
+2,2 4,8 3,8 3,8 8 23 27 35 25,94 14,53 12,35 87,68 57 70 47 333
+tenuis esbelta
+Liolaemus Lagartija
+0,6 1,9 1,3 1,3 2 9 9 8 25,94 14,53 12,35 87,68 16 28 16 114
+lemniscatus lemniscata
+Liolaemus Lagarto
+0,28 0,4 1,7 1,7 1 2 12 13 25,94 14,53 12,35 87,68 7 6 21 149
+chiliensis chileno
+Liolaemus Lagartija
+0 0,4 0 0 0 2 2 2 25,94 14,53 12,35 87,68 0 6 0 0
+pictus pintada
+Oligoryzomys Ratón de
+0 0 0 0 0 0 0 15 25,94 14,53 12,35 87,68 0 0 0 0
+longicaudatus cola larga
+Abrothrix Ratón de
+4 0 0 0 5 0 0 89 25,94 14,53 12,35 87,68 104 0 0 0
+longipilis pelo largo
+Abrothrix Ratón
+8 0 0 0 10 0 0 155 25,94 14,53 12,35 87,68 208 0 0 0
+olivaceus oliváceo
+6
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-7.1
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Total estimado de individuos
+Especie Densidad por ambiente Abundancia por ambiente Superficie de intervención (ha)
+(100%)
+Nombre Nombre
+Bo Ma Mo Pl Bo Ma Mo Pl Bo Ma Mo Pl Bo Ma Mo Pl
+científico común
+Ratón
+Phyllotis
+orejudo 0 0 0 0 0 0 0 5 25,94 14,53 12,35 87,68 0 0 0 0
+darwini
+de Darwin
+Dromiciops Monito
+0 2 0 13,6 0 1 0 17 25,94 14,53 12,35 9 0 29 0 122
+gliroides* del monte
+Ambientes: Bo: Bosque, Ma: matorral, Mo: modificado, Pl: plantación. *=información obtenida de visita a terreno complementaria de línea de base (marzo 2023).
+Debido a que Dromiciops gliroides (monito del monte) había en zonas con abundante sotobosque (Iriarte 2008), sólo se considera rescate para esta especie en ambiente plantación
+asociado a sotobosque.
+Fuente: GAC
+7
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+2.1.3 [a.3] Estado de las poblaciones a intervenir
+En los levantamientos de línea de base para este componente, se realizaron puntos de muestreo de fauna
+en los distintos ambientes registrados, realizándose en éstos el conteo de individuos y reconocimiento de
+las especies presentes en el área.
+A continuación, se señalan los antecedentes biológicos existentes de las especies objetivo, registradas en
+el área de estudio del Proyecto:
+a) Eupsophus roseus
+La rana rosácea de hojarasca (Eupsophus roseus) es una especie de anfibio perteneciente a la familia
+Cycloramphidae. Eupsophus de tamaño grande, robusto, de cabeza redonda y ancha, con tímpano circular
+evidente. Patas gruesas con dedos libres y piel lisa. Existe gran controversia acerca de su taxonomía y
+distribución, siendo bibliográficamente distribuido desde Cautín (región de la Araucanía) hasta Valdivia
+(región de Los Ríos) (Rabanal y Nuñez, 2008). Es principalmente terrestre y habita sectores de bosque
+valdiviano tipo Nothofagus con asociaciones forestales de tipo roble-raulí-coihue (Rabanal y Nuñez 2008).
+Se encuentra catalogado como “Vulnerable, VU” según el D.S. N°41/2011 del MMA que oficializa el sexto
+proceso de clasificación del RCE. Anteriormente según la Ley de Caza (D.S. N° 05/98) se encontraba
+clasificada como Inadecuadamente conocido VIII a la X región. Según la clasificación de la IUCN (Unión
+Internacional para la Conservación de la Naturaleza), su categoría es "Casi amenazada, NT".
+b) Pleurodema thaul
+El sapito de cuatro ojos (P. thaul) es una especie de anfibio nativo perteneciente a la familia Leiuperidae.
+Especie muy abundante y amplia distribución, desde la región de Atacama (27° S) a la región de Aysén (46°
+S), desde el nivel del mar hasta los 2.100 m s. n. m (Charrier 2019). También presente en Argentina. La
+población de la Isla Robinson Crusoe es introducida, como lo sería también la reportada en la ciudad de
+Antofagasta (Lobos et al. 2010). Es principalmente terrestre y habita todo tipo de ambientes, tanto
+sectores boscosos prístinos como sectores aledaños a zonas urbanas. Forma grandes agregaciones
+reproductivas en las riberas de esteros y riachuelos, donde ocurre el amplexo, la ovipostura (en racimos)
+y el desarrollo larvario. Se alimentan principalmente de artrópodos, arácnidos y dípteros (Lobos et al.
+2010; Charrier 2019). Se han descrito como factores de amenaza, la sequía, incendios forestales, drenado
+de humedales para urbanización y contaminación por agroquímicos (Charrier 2019).
+Se encuentra catalogado como “Casi Amenazado” según el D.S. N°41/2011 del MMA que oficializa el sexto
+proceso de clasificación del RCE. A nivel global está catalogada como “Preocupación menor” (UICN 2015).
+En cuanto a los criterios BSE se considera como una especie benéfica para la mantención del equilibrio de
+los ecosistemas naturales (E).
+8
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+c) Abrothrix longipilis
+El ratón de pelo largo (Abrothrix longipilis) es una especie de mamífero perteneciente al orden Rodentia
+y familia Cricetidae. En Chile se distribuye desde la región de Coquimbo hasta la región de Magallanes
+(Tierra del Fuego), desde el nivel del mar hasta los 2.000 m s.n.m. (Iriarte 2008). Habita diversos ambientes,
+desde zonas desde rocas, pastizales, bosques y matorrales. Su actividad es continua, pero de preferencia
+nocturna (Muñoz y Yáñez 2009). Se reproduce entre septiembre y abril, produce 2-3 camadas de 6-8 crías,
+generalmente muy dócil a la manipulación. Su alimentación varía geográficamente, siendo frugívoro y
+granívoro principalmente (Iriarte 2008).
+A nivel local se encuentra evaluado como Preocupación menor (LC) según el 8° proceso de RCE (D.S N°
+19/2012 del MMA). A nivel global está catalogada como “Preocupación menor” (IUCN 2019).
+d) Abrothrix olivaceus
+El ratón oliváceo (Abrothrix olivaceus) es una especie de mamífero perteneciente al orden Rodentia y
+familia Cricetidae. En Chile se distribuye desde la región de Arica y Parinacota (límite norte con Perú) hasta
+la región de Magallanes (Tierra del Fuego), desde el nivel del mar hasta los 2.500 m s. n. m. (Iriarte 2008).
+Habita diversos ambientes, desde zonas de pastizales y matorrales hasta bosques y matorrales húmedos.
+Su actividad es preferentemente crepuscular nocturna (Muñoz y Yáñez 2009). Se reproduce entre
+septiembre y abril, produce 3 camadas de 4 a 6 crías, usualmente construye galerías simples para su
+reproducción. Su alimentación es omnívora y consume gran variedad de alimentos (Iriarte 2008).
+A nivel local no se encuentra evaluada, por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie benéfica para la mantención
+del equilibrio de los ecosistemas naturales (E). A nivel global está catalogada como “Preocupación menor”
+(IUCN 2019).
+e) Dromiciops bozinovici
+El monito del monte de Pancho (Dromiciops bozinovici), es una especie de marsupial nativo del país del
+orden Microbiotheria y de la familia Microbiotheriidae. Se distribuye desde la región del Biobío hasta la
+región de la Araucanía. Habita principalmente bosques con dominancia de coihues con matorral de quila,
+además de árboles como el boldo, lingue y olivillo (D’Elía et al. 2018).
+Debido a la reciente separación de esta especie de su par D. gliroides, la especie D. bozinovici no ha sido
+clasificada por los últimos procesos de clasificación de especies del Ministerio del Medio Ambiente, por
+ello y para este informe, se considera la clasificación para D. gliroides, el que a nivel local se encuentra
+evaluada como “Casi amenazada, NT” según D.S. N°42/2011 del MMA. A nivel global está catalogada como
+“Casi amenazada, NT” (IUCN).
+9
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+f) Oligoryzomys longicaudatus
+El ratón de cola larga (Oligoryzomys longicaudatus) es una especie de mamífero perteneciente al orden
+Rodentia y familia Cricetidae. En Chile se distribuye desde Copiapó hasta los Campos de Hielo Sur desde el
+nivel del mar hasta los 2.000 m s. n. m. Habita jaral atacameño, matorral subdesértico costero, matorral
+esclerófilo siempre verde degradado y bosque higrófilo templado. Su actividad es preferentemente
+crepuscular nocturna. El período reproductivo es estacional, con camadas promedios de cuatro crías. De
+hábitos alimentarios herbívoros, pero hacia el invierno incrementa su consumo de artrópodos y de hongos
+(Muñoz y Yáñez 2018; Iriarte 2018).
+A nivel local no se encuentra evaluada, por lo que no presenta alguna categoría de conservación según la
+normativa vigente, sin embargo, se encuentra catalogada como una especie benéfica para la mantención
+del equilibrio de los ecosistemas naturales (E). A nivel global está catalogada como “Preocupación menor”
+(IUCN 2019).
+g) Phyllotis darwini
+El ratón orejudo de Darwin (Phyllotis darwini) es un mamífero endémico de Chile perteneciente al orden
+Rodentia y familia Cricetidae. Se distribuye desde la región de Antofagasta hasta la región de la Araucanía,
+desde el nivel del mar hasta los 2.000 m s. n. m. (Iriarte 2008). De hábitos principalmente nocturnos a
+crepusculares y comportamiento gregario. Habita una amplia variedad de ambientes como estepas,
+matorrales y bosques, prefiriendo áreas con estrato arbustivo denso. Sus hábitos de alimentación son
+herbívoros y de manera oportunista a granívoro (Iriarte, 2008). Presenta período reproductivo entre
+agosto y marzo, con tres a cuatro pariciones por año, de cuatro a ocho crías por camada. Realizan amplios
+desplazamientos en busca de alimento o reproducción (Muñoz-Pedreros y Yáñez 2009).
+A nivel global está catalogada como “Preocupación Menor (LC)” por la UICN (2018). A nivel local no se
+encuentra evaluada en categoría de conservación por el RCE, sin embargo, es considerada como una
+especie benéfica para la mantención del equilibrio de los ecosistemas naturales (E) de acuerdo con los
+criterios de la Ley de Caza.
+h) Liolaemus chiliensis
+El lagarto chileno (Liolaemus chiliensis), es una especie de lagartija de tamaño grande que supera la
+longitud hocico cloaca de 80-100 mm, el macho posee dos poros precloacales. Posee 27 a 32 escamas
+alrededor del medio del cuerpo. Presentan dimorfismo sexual, siendo el macho de color café verdoso,
+mientras la hembra es de tono verde oliváceo. Habita zonas de matorrales y bosques (matorrales
+xerofíticos y esclerófilos), en ocasiones de hábitos trepadores. Su alimentación es de tipo insectívora. Las
+amenazas actuales y potenciales tienen relación con la pérdida de hábitats por su transformación,
+fundamentalmente en tierras agrícolas y secundariamente silvícolas (Pincheira y Nuñez, 2005; Mella
+2005).
+10
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+A nivel local se encuentras catalogado como “Preocupación menor, LC” según el D.S. N°19/2012 del MMA.
+A nivel global no se encuentra catalogada por la red list (lista roja) de la UICN (Unión Internacional para la
+Conservación de la Naturaleza).
+i) Liolaemus cyanogaster
+La lagartija de vientre azul (Liolaemus cyanogaster) es una especie de reptil de la familia Liolamidae
+considerada como nativa del país. Su distribución va desde la región del Maule hasta la región de los Lagos,
+entre los 0 y los 1.200 m s. n. m. Habita principalmente sobre troncos, matorrales y en el suelo, especie
+trepadora. De hábitos insectívoros y de reproducción vivípara (Demangel 2016; Mella 2017).
+A nivel local se encuentra clasificado como “Fuera de peligro” según D.S. N°5/1998 MINAGRI. Según la
+clasificación de la IUCN (Unión Internacional para la Conservación de la Naturaleza), presenta categoría
+“Preocupación menor, LC”.
+j) Liolaemus lemniscatus
+La lagartija lemniscata (Liolaemus lemniscatus) es una especie de reptil perteneciente al orden Squamata
+y familia Liolamidae, está ampliamente distribuida en Chile, desde la región de Coquimbo (norte de
+Ovalle), hasta la región de Los Ríos (norte de Valdivia), y desde la Cordillera de Los Andes (2.100 m s. n.
+m.) hasta la costa (Pincheira y Nuñez 2005; Mella 2005). Es una de las lagartijas más común en el territorio
+chileno. Habita tanto ambientes naturales como en aquellos intervenidos (p.ej. zonas agrícolas), es
+marcadamente terrícola, se oculta en los pastizales, a veces en los árboles, pero a escasos centímetros del
+suelo. Se alimenta principalmente de insectos (Pincheira y Nuñez 2005).
+A nivel global se encuentra catalogada como “Preocupación menor, LC” (IUCN 2018), a nivel local se
+encuentra en la categoría Preocupación Menor, según el octavo proceso del RCE (D.S. N°19/2013 del
+MMA).
+k) Liolaemus pictus
+La lagartija pintada (Liolaemus pinctus) es una especie de reptil nativa de Chile del orden Squamata y de
+la familia Tropiduridae. Se encuentra desde el norte de la región del Biobío hasta la región de Aysén, entre
+0 y 1.700 m s. n. m. Es de tamaño mediano y la cola alcanza un poco más de una vez y media de largo el
+cuerpo. Cabeza más larga que ancha con hocico aguzado. El cuello está plegado y presenta escamas
+granulares y yuxtapuestas. Las escamas dorsales son redondeadas, pequeñas y levemente quiladas y
+subimbricadas a imbricadas. Solo los machos presentan tres poros precloacales. Presenta un patrón
+compuesto por bandas supraoculares claras, acompañadas por manchas triangulares melánicas
+zigzagueantes, las que también abarcan la banda occipital. La coloración es muy variable; existen
+ejemplares de tonos oscuros pardos o café oliva y otros con escamas amarillas, anaranjadas, rojas, verdes
+y/o azules; los ejemplares más coloridos están hacia el sur. Es omnívora, en algunas poblaciones
+11
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+predomina el consumo de frutos, mientras que otras se alimentan exclusivamente de invertebrados tales
+como dípteros, hemípteros y arañas (Demangel 2016).
+A nivel global está catalogada según UICN como “Preocupación menor (LC)” (2016). En Chile a nivel local
+según RCE está catalogada como “Preocupación menor (LC)” (D.S. N°19/2012 del MMA).
+l) Liolaemus schroederi
+La lagartija de Schröeder (Liolaemus schroederi) es una especie de reptil de la familia Liolamidae
+considerada como endémica del país. Su distribución va desde la región Metropolitana hasta la región de
+la Araucanía, entre los 200 y los 2.600 m s. n. m. Habita principalmente bosques y matorrales, muy tímida
+a la presencia humana. De hábitos insectívoros y de reproducción vivípara (Demangel 2016; Mella 2017).
+A nivel local se encuentra clasificado como “Vulnerable, VU” según D.S. N°16/2016 del MMA. Según la
+clasificación de la IUCN (Unión Internacional para la Conservación de la Naturaleza), no presenta categoría
+de amenaza.
+m) Liolaemus tenuis
+La lagartija esbelta (Liolaemus tenuis) es una especie de reptil de la familia Liolamidae, considerada como
+nativa del territorio nacional. Su distribución va desde la región de Coquimbo a Los Lagos, entre los 0 y los
+1.800 metros m s. n. m. Habita principalmente bosques, matorrales y grandes rocas. También frecuente
+en parques urbanos y asentamientos humanos. De hábitos insectívoros (coleópteros y dípteros) y de
+reproducción ovípara. Es una especie muy territorial (Demangel 2016; Mella 2017).
+A nivel local se encuentra clasificado como “Preocupación menor, LC” según D.S. N° 19/2012 del Ministerio
+del Medio Ambiente. Según la clasificación de la UICN (Unión Internacional para la Conservación de la
+Naturaleza), presenta categoría “Preocupación menor, LC”.
+2.1.4 [a.4] Metodologías de caza, captura y manejo
+i. Esfuerzo de la medida
+El esfuerzo de captura será calculado tomando como referencia lo expuesto en la Guía Técnica para
+Implementar Medidas de Rescate / Relocalización y Perturbación Controlada (SAG 2014).
+Las capturas serán llevadas a cabo por equipos con experiencia en el manejo de fauna silvestre, siendo
+cada uno liderado por un profesional especialista en la materia. Las actividades serán ejecutadas tras la
+obtención del permiso de captura otorgado por la autoridad competente (Resolución Exenta) y en
+conformidad a los requerimientos establecidos por ésta.
+12
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Sin embargo, las actividades de captura estarán planificadas según la tasa de avance de las obras, con el
+objetivo de que se cumplan cinco días como máximo entre el término del rescate y el inicio de la etapa de
+construcción, para evitar la recolonización del área. Por lo tanto, el número de especialistas y esfuerzo
+dependerá de la superficie de las obras a liberar.
+ii. Especificaciones técnicas de la captura y marcaje /identificación
+En atención a los hábitos de las especies objetivo, las metodologías utilizadas para la captura y marcaje
+serán aquellas descritas para anfibios, reptiles y micromamíferos, considerando principalmente que éstas
+sean poco invasivas (Tabla 2-3).
+Por otro lado, la implementación de estas medidas y ciertos detalles metodológicos podrán ser definidos
+en última instancia, en la solicitud de captura para la obtención de la Resolución Exenta que autorice las
+labores de captura.
+Tabla 2-3. Técnica de captura y marcaje
+Clase Captura Marcaje
+Amphibia Captura manual Sin marcaje (fotos y planillas de identificación)
+Captura manual
+Reptilia Sin marcaje (fotos y planillas de identificación)
+Lazo corredizo
+- Trampas Sherman.
+Mammalia Sin marcaje (fotos y planillas de identificación)
+- Trampas de malla.
+Fuente: GAC
+A continuación, se indica el detalle de la técnica de captura y marcaje/identificación que se implementará
+para la especie objetivo:
+a) Captura
+Anfibios: se realizará mediante la captura manual mediante recorridos activos y/o búsqueda dirigida de la
+especie objetivo, en los hábitats y ambientes en que esté presente en el área de influencia del Proyecto.
+Reptiles: se realizará mediante la captura manual y/o con lazo corredizo mediante recorridos activos y/o
+búsqueda dirigida de la especie objetivo, en los hábitats y ambientes en que esté presente en el área de
+influencia del Proyecto.
+Micromamíferos: se realizará la captura con trampas colapsables tipo Sherman y/o Tomahawk mediante
+su instalación en grillas o líneas, en los hábitat y ambientes de este grupo que estén presentes en el área
+de influencia del Proyecto. Las trampas serán cebadas (avena) y revisadas dos veces por día, para estar
+activa por un periodo de aprox. 8 a 12 horas como máximo. Se realizarán tres repeticiones por cada grilla
+o línea de captura, esto quiere decir que las trampas quedarán instaladas durante tres noches consecutivas
+antes de iniciar el rescate en una nueva grilla, tal como se menciona en la Guía Técnica Para Implementar
+13
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Medidas de Rescate/ Relocalización y Perturbación Controlada (Torres-Mura et al. 2014) del Servicio
+Agrícola y Ganadero. En el caso de la especie Dromiciops gliroides (monito del monte), se ejecutará
+técnicas específicas para el registro de la especie ya que esta tiene hábitos arborícolas (p.ej. instalación de
+trampas de malla dispuestas en altura)
+b) Marcaje
+No se utilizarán ningún tipo de metodología de marcaje, tal como indica la “Guía trámite PAS Artículo 146
+Reglamento del SEIA” (SEA 2022).
+c) Identificación
+Todos los ejemplares capturados serán georreferenciados, para luego registrarse la siguiente
+información1:
+• Especie
+• Sexo
+• Obtención de registro fotográfico
+• Evaluar la condición sanitaria de los individuos: presencia de ectoparásitos y/o lesiones.
+• Antecedentes adicionales como: registro de marcas o cicatrices de los especímenes para favorecer
+su posterior identificación.
+2.1.5 [a.5] Lugar de caza, captura y de destino de los animales
+a) Lugar de captura
+Las capturas se enfocarán en los ambientes (bosque, modificado, matorral, plantación) donde se instalarán
+las obras areales del proyecto y donde se registró la presencia de las especies objetivo.
+En la Figura 2-1 y Figura 2-2 se presenta la representación gráfica a modo general de los sectores donde
+se realizará el rescate de las especies de baja movilidad registradas. Cabe destacar, que la presente figura
+contempla el rescate de áreas de zonas de extracción, zona de disposición, zona de acopio vegetal, Planta
+de Procesamiento y stockpile.
+14
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 2-1. Localización de las áreas de rescate.
+Fuente: GAC
+15
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 2-2. Set fotográfico de ambientes de zonas de rescate; bosque, matorral, modificado y plantación.
+Fuente: GAC
+b) Lugar de destino o relocalización
+Los ejemplares capturados serán liberados en un área de relocalización que deberá cumplir con las
+siguientes características:
+• Superficie mayor o igual a la superficie del área de captura.
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• Características de hábitat similar al área de captura (esto es en parte las características
+vegetacionales, altura o m s. n. m., entre otras).
+16
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+• No ser intervenida y/o influenciada por el Proyecto, garantizando su protección en el mediano a
+largo plazo.
+La presente área de destino o relocalización que se contempla es un sistema de quebradas en donde es
+posible identificar la presencia de bosque nativo con ejemplares de queules y un buffer rodeado de
+plantación forestal. Por otra parte, se evidenció la presencia de depredadores naturales de las especies
+objetivo, entregando información donde se da cuenta del grado conservación del ecosistema.
+Cabe destacar que se realizó una campaña de caracterización de áreas de rescate y relocalización de las
+especies objetivo del presente plan, con metodologías para la detección de animales asociadas a
+transectos, trampas Sherman, trampas cámara y búsqueda dirigida. En el Apéndice 10-3.1 se presenta el
+Informe de Caracterización del Área de Relocalización.
+El área de relocalización destinada al traslado de los ejemplares de las especies objetivo corresponde a un
+área de preservación al interior del Parque Nacional Nonguén, ubicado a 20 km aproximadamente hacia
+el sureste del Área de Influencia del Proyecto, en las Comunas de Hualqui, Chiguayante y Concepción.
+17
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Figura 2-3. Localización del área de relocalización
+Fuente: GAC
+18
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+2.1.6 [a.6] Condiciones de transporte e instalaciones de cautiverio
+a) Condiciones de transporte
+Para el traslado de los ejemplares desde las áreas de captura hacia los sitios de liberación o relocalización,
+los individuos serán transportados en contenedores. Para su traslado en vehículo, se asegurará que los
+contenedores queden fijos y que la velocidad de desplazamiento no sea superior a los 20 km/hr en el caso
+de existir caminos no pavimentados y/o con eventos.
+b) Instalaciones y cautiverio
+Los ejemplares serán ubicados en contenedores plásticos especialmente adaptados para el cautiverio de
+ejemplares de las especies ya mencionadas, y se ubicarán de tal manera de estar protegidos de las
+temperaturas extremas, viento, radiación directa, entre otras amenazas.
+Cada contenedor será dividido en dos compartimentos, y tendrá orificios que permitirán una adecuada
+ventilación. En su interior se incorporará sustrato y refugios que emulen el área de captura de cada taxón
+(p.ej.: tierra, piedras, agua, algas).
+Con el objetivo de evitar interacciones negativas entre ejemplares, tales como agresión y depredación, en
+cada compartimento se ubicará un único individuo.
+El cautiverio se prolongará por un plazo no mayor a dos horas. La liberación de los ejemplares se realizará
+durante la misma jornada en la cual fueron capturados, considerando que las condiciones climáticas
+(temperatura, luminosidad, etc.) sean apropiadas para la adecuada reinserción al medio de los ejemplares.
+Así mismo, de acuerdo con lo indicado en la Guía Técnica Para Implementar Medidas de Rescate/
+Relocalización y Perturbación Controlada (Torres-Mura et al. 2014) del Servicio Agrícola y Ganadero, se
+considerará lo siguiente:
+• Liberar pocos individuos en cada lugar (logra un espaciamiento adecuado de los organismos y evita
+las agresiones entre individuos de la misma especie) para no superar la capacidad de carga del
+sitio.
+• Liberar individuos adultos separados de infantiles y juveniles.
+• Liberar una proporción de machos y hembras acorde con la estructura de la especie (territorial,
+polígama, etc.).
+• No liberar depredadores cerca de presas .
+19
+================================================================================
+PAGE 23
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+2.1.7 [a.7] Cronograma detallado de las actividades que se realizarán y período por el
+que se solicita el permiso
+Una vez se obtenga el permiso de captura y, de acuerdo con lo estipulado en la Resolución Exenta
+correspondiente, se dará aviso previamente al inicio de las actividades de capturas al SAG regional y
+División de Protección de Recursos Naturales Renovables (DIPROREN).
+En primer lugar, se realizarán estimaciones de abundancias previas a la medida en el área de captura y de
+relocalización entre 1 a 3 días antes de la ejecución del rescate, durante 3 jornadas.
+Luego de aplicada la medida, se realizará un primer monitoreo en el área de captura al día siguiente o 2
+días posteriores al rescate (monitoreo inmediato) enfocado a verificar que no queden individuos por
+rescatar, este durará cuatro jornadas y, eventualmente, más tiempo si es necesario. En cada sector a
+intervenir, las actividades asociadas a la fase de construcción podrán iniciarse una vez concluido el primer
+monitoreo del área específica de captura en un plazo máximo de 5 días.
+El monitoreo siguiente, correspondiente a la segunda campaña, se realizará a los 14 días posterior al
+rescate en el área de relocalización. El tercer, cuarto y quinto monitoreo se efectuará a los 90, 180 y 360
+días posterior al rescate, siendo el objetivo de dichos monitoreos poder evaluar el comportamiento de la
+población receptora una vez adicionado nuevos individuos. La duración de los monitoreos tendrá una
+duración de tres días. Una vez terminada la medida de rescate, se debe realizar monitoreos estacionales
+en primavera y verano, que abarcan tres años completos para poder incluir tres ciclos reproductivos de
+las especies objetivo, tal como indica la guía SEA (2022).
+En la Tabla 2-4 a continuación, se indica el cronograma que ha de considerarse para realizar el plan de
+rescate y relocalización de fauna.
+Tabla 2-4. Cronograma de actividades de plan de rescate y relocalización de fauna
+Primer
+Actividades de Periodo
+monitoreo: al Segundo Tercer Cuarto Quinto
+rescate y entre
+Obtención 10 días hábiles Estimaciones día siguiente o monitoreo: monitoreo: monitoreo: monitoreo:
+relocalización; término del
+de permiso de aviso, de 2 días post 14 días post 90 días post 180 días 360 días
+duración 1° monitoreo
+de captura previos al inicio abundancia rescate en área rescate en rescate en post rescate post rescate
+variable según e inicio de las
+y aviso de del rescate y previas a la de captura y área de área de en área de en área de
+clase y tasa de obras de
+captura. relocalización. medida. relocalización, relocalizació relocalizació relocalizació relocalizació
+avance de construcción:
+durante n. n. n. n.
+obras. 5 días.
+3jornadas.
+Fuente: GAC
+20
+================================================================================
+PAGE 24
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+En cuanto al periodo en que se solicitará el permiso, este será por un mínimo de 12 meses, dado que de
+esta manera es posible considerar la eventualidad de ejecutar campañas en distintas épocas del año y/o
+responder a solicitudes de la autoridad, y considerar las necesidades de eventuales captura durante los
+monitoreos de la primera a quinta campaña.
+Además del rescate contemplado para la fase de construcción, también se contempla el rescate durante
+la fase de operación del Proyecto debido al avance de intervención sobre las áreas de rescate.
+Tabla 2-5. Cronograma general del Proyecto
+Año
+Fase
+1 2 3 4 5 6 7 8
+Construcción
+Operación
+Fuente: GAC
+3 REFERENCIAS BIBLIOGRÁFICAS
+Decreto Supremo N°05/1998. Reglamento de la Ley de Caza. Ministerio de Agricultura. Santiago, Chile.
+Decreto Supremo N°75/2005. Chile. Aprueba reglamento para la clasificación de especies silvestres.
+Ministerio Secretaría General de la Presidencia. Santiago, Chile.
+Decreto Supremo N°151/2006. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, primer proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 24 de marzo de 2007.
+Decreto Supremo N°50/2008. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, segundo proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 30 de junio de 2008.
+Decreto Supremo N°51/2008. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, tercer proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 30 de junio de 2008.
+Decreto Supremo N°23/2009. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, cuarto proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 7 de mayo de 2009.
+Decreto Supremo N°33/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, quinto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 27 de febrero
+2012.
+21
+================================================================================
+PAGE 25
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Decreto Supremo N°41/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, sexto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de abril de
+2012.
+Decreto Supremo N°42/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, séptimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de abril
+de 2012.
+Decreto Supremo N°19/2012. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, octavo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de febrero
+de 2013.
+Decreto Supremo N°13/2013. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, noveno proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 25 de julio
+de 2013.
+Decreto Supremo N°52/2014. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 29 de agosto
+de 2014.
+Decreto Supremo N°38/2015. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, undécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 4 de
+diciembre de 2015.
+Decreto Supremo N°16/2016. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, duodécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 16 de
+septiembre 2016.
+Decreto Supremo N°06/2017. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo tercer proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 02 de
+junio 2017.
+Decreto Supremo N°79/2018. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo cuarto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 02
+de agosto 2018
+Decreto Supremo N°23/2019. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo quinto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 30
+de julio de 2019.
+Decreto Supremo N°16/2020. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo sexto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 03 de
+agosto 2020.
+22
+================================================================================
+PAGE 26
+================================================================================
+Anexo 10-9
+PASM N°146
+Proyecto de Extracción de Arcillas para Producción de Concentrado Tierras Raras
+Decreto Supremo N°44/2021. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo séptimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 12
+de octubre 2021.
+Decreto Supremo N°10/2023. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo octavo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 06
+de octubre 2023.
+Decreto Supremo N°02/2024. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo noveno proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 07
+de mayo de 2024.
+Demangel, D. 2016. Reptiles en Chile. Fauna Nativa Ediciones, 619 pp.
+Iriarte, A. 2008. Mamíferos de Chile. Lynx Edicions. Barcelona, España. 420 pp.
+Mella, J. 2017. Guía de Campo de Reptiles de Chile. Tomo 2: Zona Norte. Peñaloza A.P.G. (ed.). Santiago,
+Chile. 316 pp.
+Pincheira-Donoso, D. y H. Núñez. 2005. Las especies chilenas del género Liolaemus Wiegmann, 1834
+(Iguania: Tropiduridae: Liolaeminae). Taxonomía, sistemática y evolución. Publicación ocasional del Museo
+Nacional de Historia Natural, Chile 59: 7-486 pp.
+Servicio de Evaluación Ambiental (SEA). 2022. Guía trámite PAS artículo 146 Reglamento del SEIA para
+realizar actividades de caza o captura de ejemplares de animales de especies protegidas para fines de
+investigación, para el establecimiento de centros de reproducción o criaderos y para la utilización
+sustentable del recurso. Chile, 30 p.
+Servicio de Evaluación Ambiental (SEA). 2022. Criterio de Evaluación en el SEIA: Criterios técnicos para la
+aplicación de la medida de rescate y relocalización. Chile, 6 p.
+Torres-Mura, J.C., E. Riveros-Riffo & V. Escobar-Gimpel. 2014. Guía técnica para implementar medidas de
+rescate/ relocalización y perturbación controlada. Servicio Agrícola y Ganadero. Chile, 45 p.
+23

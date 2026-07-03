@@ -1,0 +1,710 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial
+N°146
+Fauna Invertebrada
+EIA "Proyecto de Desarrollo Minero
+de Extracci ón de Arcillas para Producción
+de Concentrado de Tierras Raras"
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 Permiso Ambiental Sectorial Mixto 146 ....................................................................................... 3
+1.1 Introducción .................................................................................................................................. 3
+1.2 Autoridad que lo otorga ................................................................................................................ 4
+1.3 Fase del Proyecto a la cual corresponde ....................................................................................... 4
+1.4 Parte, obra o acción a la que aplica ............................................................................................... 4
+1.5 Indicador que acredita su cumplimiento ...................................................................................... 4
+1.6 Condiciones o exigencias específicas para su otorgamiento ........................................................ 4
+2 Contenidos técnicos y formales que deben presentarse para acreditar el cumplimiento del permiso
+asociado a la Letra A) del Artículo 146 del Reglamento del Sistema de Evaluación de impacto ambiental
+(D.S. N°40/2012 del MMA). ................................................................................................................ 5
+2.1 Letra a) De tratarse de caza o captura de ejemplares de animales de especies protegidas para
+fines de investigación ................................................................................................................................ 5
+2.1.1 [a.1] Descripción del Proyecto .............................................................................................. 5
+2.1.2 [a.2] Especies, sexo y número de ejemplares estimados a cazar o capturar ........................ 5
+2.1.3 [a.3] Estado de las poblaciones a intervenir ......................................................................... 7
+2.1.4 [a.4] Metodologías de caza, captura y manejo ..................................................................... 9
+2.1.5 [a.5] Lugar de caza, captura y de destino de los animales .................................................. 11
+2.1.6 [a.6] Condiciones de transporte e instalaciones de cautiverio ........................................... 15
+2.1.7 [a.7] Cronograma detallado de las actividades que se realizarán y período por el que se
+solicita el permiso ................................................................................................................................ 16
+3 Plan de seguimiento .................................................................................................................. 17
+3.1 Parámetro utilizado para caracterizar evolución de la variable .................................................. 17
+3.2 Método o procedimiento de medición ....................................................................................... 18
+3.3 Ubicación de puntos de control .................................................................................................. 19
+3.4 Duración y frecuencia del plan de seguimiento .......................................................................... 19
+3.5 Límites permitidos o comprometidos ......................................................................................... 20
+3.6 Plazo y frecuencia de entrega de los informes con la evaluación de los resultados .................. 20
+4 Referencias bibliográficas .......................................................................................................... 20
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE DE TABLAS
+Tabla 2-1. Especies objetivo del Plan de rescate y relocalización registradas en el área del Proyecto ........ 6
+Tabla 2-2. Número de individuos estimados a capturar de acuerdo con la densidad especifica por ambiente
+y superficie de intervención. ......................................................................................................................... 6
+Tabla 2-3. Cronograma de actividades de plan de rescate y relocalización de fauna ................................ 16
+Tabla 2-4. Cronograma de intervención de superficies que incluyen áreas consideradas para rescate y
+relocalización de vertebrados. .................................................................................................................... 17
+Tabla 3-1. Procedimiento de medición de parámetros utilizados para el seguimiento de la medida de
+rescate y relocalización ............................................................................................................................... 18
+Tabla 3-2. Duración y frecuencia del plan de seguimiento y/o campañas de monitoreo .......................... 19
+INDICE DE FIGURAS
+Figura 2-1. Localización de las áreas de rescate .......................................................................................... 12
+Figura 2-2. Localización del área de relocalización ..................................................................................... 14
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 PERMISO AMBIENTAL SECTORIAL MIXTO 146
+1.1 Introducción
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras
+Raras, en adelante el Proyecto, ubicado administrativamente en la Comuna de Penco y Concepción,
+Provincia de Concepción, Región del Biobío, consiste en la construcción y operación de una faena minera
+junto con una planta de procesamiento de material granítico meteorizado, con presencia de arcillas. El
+regolito, en adelante llamado “Arcillas por procesar”, se forma como resultado de una alta meteorización
+de las rocas y contiene lantánidos adsorbidos en los minerales de arcilla. Los lantánidos, o Tierras Raras,
+son 15 elementos cuyo número atómico aumenta desde el Lantano (57) al lutecio (71). Por su
+comportamiento químico similar se les suma el itrio (Y). En adelante serán llamados “tierras raras”.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y producir concentrado
+de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas (ZE Victoria Norte, ZE
+Luna, ZE Maite), una (1) zona de disposición para estériles y arcillas procesadas (ZD Neptuno), una (1) zona
+de acopio de suelo vegetal (ZAV), una planta de procesamiento de arcillas (la Planta) y un stockpile para el
+acopio temporal de material previo al procesamiento, una línea eléctrica y su conexión a línea existente y
+la construcción de caminos internos para acceder a las distintas áreas. Además, se considera la
+implementación de obras temporales correspondiente a instalaciones de faenas, para la construcción y
+habilitación de las obras del Proyecto.
+El Proyecto considera durante su fase de operación un cierre secuencial de las zonas de extracción. Es
+decir, estas zonas no entrarán en operación simultáneamente, por lo que, una vez finalizada la explotación
+de cada una de estas zonas, se comienza con la revegetación.
+Por su parte, al finalizar la disposición de las arcillas procesadas en las zonas de disposición también se
+ejecutará el cierre de estas mediante revegetación, utilizando el suelo vegetal disponible en las zonas de
+acopio vegetal.
+En el marco de la implementación del Proyecto se han propuesto medidas de manejo ambiental destinadas
+a disminuir los efectos del Proyecto sobre el componente fauna, entre las cuales se cuenta la ejecución de
+un Plan de Rescate y Relocalización de ejemplares pertenecientes a especies amenazadas. Puesto que esta
+medida requiere de la captura de ejemplares para su posterior liberación, la ejecución es regulada por la
+Ley de Caza (Ley N.º 19.473/1996) y, por lo tanto, se hace aplicable el Permiso Ambiental Sectorial N.º 146
+(PASM 146) a que se refiere el artículo 146 del Reglamento del SEIA.
+3
+================================================================================
+PAGE 5
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El presente Plan de rescate y relocalización, incorpora los contenidos técnicos y formales detallados en el
+artículo N° 146 del Reglamento del Sistema de Evaluación de Impacto Ambiental (D.S. N.º 40/2012
+modificado por el D.S. N° 30/2023, ambos del MMA), que en su conjunto permiten la implementación de
+la medida. Así mismo, el presente Plan, específico para fauna Invertebrada, se basa en los lineamientos
+señalados en la Guía Técnica para Implementar Medidas de Rescate/Relocalización y Perturbación
+Controlada del Servicio Agrícola y Ganadero (Torres-Mura et al., 2015) y Criterios Técnicos para la
+Aplicación de la Medida de Rescate y Relocalización (SEIA, 2021).
+1.2 Autoridad que lo otorga
+Servicio Agrícola y Ganadero.
+1.3 Fase del Proyecto a la cual corresponde
+El permiso se solicita para la fase de construcción y operación del Proyecto.
+1.4 Parte, obra o acción a la que aplica
+En la fase de construcción y operación del Proyecto se considera el rescate y relocalización de ejemplares
+de fauna invertebrada pertenecientes a especies amenazadas con la finalidad de minimizar efectos sobre
+el componente fauna (medida de mitigación propuesta en el presente EIA, Capítulo 7).
+1.5 Indicador que acredita su cumplimiento
+Como indicador de cumplimiento para este permiso ambiental sectorial mixto se considera:
+a) Obtención del permiso en su tramitación ambiental y sectorial.
+b) Informe que dé cuenta de la ejecución del Plan según sus contenidos aprobados.
+1.6 Condiciones o exigencias específicas para su otorgamiento
+En el presente documento, se entregan los contenidos técnicos y formales a que se refiere el Artículo N°
+146 del Reglamento del SEIA. Dichos contenidos (por considerarse caza o captura para fines de
+investigación, en el marco del SEIA), incluyen: el estado de las poblaciones a intervenir y la descripción
+detallada del “Plan de rescate y relocalización” del Proyecto.
+4
+================================================================================
+PAGE 6
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2 CONTENIDOS TÉCNICOS Y FORMALES QUE DEBEN PRESENTARSE PARA
+ACREDITAR EL CUMPLIMIENTO DEL PERMISO ASOCIADO A LA LETRA A) DEL
+ARTÍCULO 146 DEL REGLAMENTO DEL SISTEMA DE EVALUACIÓN DE IMPACTO
+AMBIENTAL (D.S. N°40/2012 DEL MMA).
+2.1 Letra a) De tratarse de caza o captura de ejemplares de animales de especies
+protegidas para fines de investigación
+2.1.1 [a.1] Descripción del Proyecto
+El Plan de rescate y relocalización de fauna invertebrada, consiste en la liberación de áreas, durante las
+fases de construcción y operación, previo a generar la intervención y ejecución de obras, que intervengan
+directamente sectores donde se detectó la presencia de especies protegidas de fauna invertebrada.
+El objetivo general es liberar el área de intervención de especies protegidas de fauna invertebrada, previo
+a la ejecución de obras de construcción del Proyecto y durante las mismas. Mientras que los objetivos
+específicos apuntan a lo siguiente:
+• Identificar las áreas de intervención del Proyecto donde se detecta la presencia de las especies.
+• Rescatar al menos el 90% de los ejemplares de las especies objetivo que se encuentren en el área
+destinada para la medida de rescate.
+• Relocalizar a los ejemplares capturados en ambientes similares a los intervenidos, ubicados
+idealmente en el entorno inmediato.
+• Monitorear el éxito del rescate de los individuos relocalizados.
+2.1.2 [a.2] Especies, sexo y número de ejemplares estimados a cazar o capturar
+2.1.2.1 Especies
+De acuerdo con la caracterización de Fauna de Invertebrados Terrestres, presentada en el Capítulo 3 del
+EIA, se describe la presencia de cuatro (4) especies de fauna invertebrada que presentan categoría de
+amenaza, y presentan especiales rasgos que los hacen particularmente susceptibles de sufrir afectación a
+raíz de la intervención de sus hábitats (microhábitats). Estas especies son: Ceroglossus chilensis cyanicollis
+(peorro), Acanthogonathus pissi (Cebra dorada), Euathlus manicata (Araña pollito) y Phrixotrichus scrofa
+(Tarántula zorro de la costa).
+5
+================================================================================
+PAGE 7
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tabla 2-1. Especies objetivo del Plan de rescate y relocalización registradas en el área del Proyecto
+Nombre Común Estado de conservación
+Clase Familia Nombre científico
+Categoría Documento legal
+Peorro Preocupación
+Insecta Carabidae Ceroglossus chilensis cyanicollis DS 06/2017 MMA
+Menor
+Araña pollito Preocupación
+Acanthogonathus pissi DS 44/2021 MMA
+Menor
+Arachnia Theraphosidae Tarántula zorro de la
+Euathlus manicata Casi Amenazada DS 96/2017 MMA
+costa
+Phrixotrichus scrofa Madre de la culebra En Peligro DS 44/2021 MMA
+Origen: E: Endémico, N: Nativo; Movilidad: B: Baja; Categoría: EN: En Peligro; LC: Preocupación menor; VU: Vulnerable; CR: En
+peligro crítico
+Fuente. GAC
+2.1.2.2 Sexo
+La medida considera la captura de ejemplares de ambos sexos.
+2.1.2.3 Número de ejemplares estimados a capturar
+A partir de los requerimientos formulados por el Servicio Agrícola y Ganadero en proyectos semejantes,
+se ha establecido que la captura del 90% de los ejemplares presentes en las áreas a intervenir es suficiente
+para garantizar la protección de las poblaciones locales. Para determinar lo anterior, previo a las
+actividades de captura, se realizarán estimaciones de la abundancia de cada especie en el área, para luego
+realizar en esta misma área estimaciones posteriores a la medida, y de esta forma generar comparaciones
+representativas.
+Tabla 2-2. Número de individuos estimados a capturar de acuerdo con la densidad especifica por ambiente y
+superficie de intervención.
+Abundancia Superficie de intervención (ha)
+Nombre Científico
+Bo Ma Mo Pl Bo Ma Mo Pl
+Ceroglossus chilensis cyanicollis 125 29 - 101 25,94 14,53 12,75 87,68
+Acanthogonathus pissi - - - 1 25,94 14,53 12,75 87,68
+Euathlus manicata - 1 1 - 25,94 14,53 12,75 87,68
+Phrixotrichus scrofa - - 2 1 25,94 14,53 12,75 87,68
+Ambientes: Bo= Bosque, Ma= Matorral, Mo= Modificado, Pl= Plantación
+Fuente: GAC
+6
+================================================================================
+PAGE 8
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.3 [a.3] Estado de las poblaciones a intervenir
+En los levantamientos de línea de base para este componente, se realizaron puntos de muestreo de fauna
+invertebrada (PME) en los distintos ambientes registrados, realizándose en éstos el conteo de individuos
+y reconocimiento de las especies presentes en el área. Así mismo, se calcularon las densidades de éstas,
+las cuales se detallan en la Tabla 2-2, con lo cual se da cuenta del estado de las poblaciones a intervenir.
+A continuación, se señalan los antecedentes biológicos existentes de las especies objetivo registrada en el
+área del Proyecto:
+2.1.3.1 Ceroglossus chilensis cyanicollis
+Ceroglossus chilensis o peorro corresponde a una especie nativa presente en las Regiones del Maule,
+Biobío, La Araucanía, Los Ríos, Los Lagos y Aysén. Se asocia a formaciones boscosas nativas y exóticas en
+sectores costeros, preandinos y cordillera de la costa. No existen antecedentes sobre su tamaño
+poblacional pero se ha señalado que es una especie dominante, siendo su abundancia relativa mayor en
+plantaciones de 6-7 y 10 años que en plantaciones de mayor edad. Se distingue por su forma alargada y
+aplanada dorso-ventralmente, con segmentos fuertemente esclerosados y gran variedad de colores; su
+cabeza, tórax y élitros son de un tono negro verdoso o azulado, ventralmente son de color negro, igual
+que sus patas, palpos maxilares y labiales. Su cabeza y pronoto son de un color azulado y sus élitros de un
+color rojo oscuro y brillante. No presentan alas metatorácicas. La cabeza contiene 6 ocelos, las antenas
+tienen cuatro segmentos cortos y las mandíbulas son fuertemente curvadas. El tórax tiene un reducido
+número de sedas, patas bien desarrolladas y funcionales. Y por último; el abdomen lleva un par de largos
+apéndices caudales articulados en el último segmento a cada lado del tubo anal. En el caso de la hembra,
+se puede diferenciar por la forma del pronoto, el cual es más ancho y largo, con una línea longitudinal en
+la línea media, un abdomen más grande y élitros más aguzados en el ápice. Mientras que los machos tienen
+quillas o carenas en los segmentos antenales 6, 7 y 8, sus tarsos del primer par de patas están ensanchados
+y el ápice de sus élitros está redondeado.
+Se encuentra clasificado como Preocupación Menor de acuerdo al RCE (DS N°06/2017 MMA).
+2.1.3.2 Acanthogonathys pissi
+La cebra dorada posee una hermosa coloración en abdomen, dorando con franjas atigradas claras no muy
+perceptibles, en los fémures posee una coloración verdosa oscura. Posee una hermosa, metálica y brillante
+coloración dorada en el cefalotórax, llega aproximadamente a medir 8cm máximo, los machos son mas
+pequeños. Crea grandes madrigueras de tela muy espesa lo que la protege de la intemperie y mejora su
+porcentaje de vida. Se distribuye en la región de Ñuble y Maule.
+Se encuentra clasificado como Preocupación Menor de acuerdo al RCE (DS N°44/2021 MMA).
+7
+================================================================================
+PAGE 9
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.3.3 Euathlus manicata
+Euathlus manicata, tarántula o araña pollito es una especie nativa en Chile que se distribuye en las
+Regiones de O'Higgins, Maule y Biobío. No tiene antecedentes cuantitativos en cuanto a su población, sin
+embargo, se ve severamente afectada por la pérdida y fragmentación de su hábitat debido a su baja
+movilidad, mecanismos de dispersión limitada y hábitos sedentarios; y por su extracción para el comercio
+como mascotas exóticas. Tampoco se dispone de datos cualitativos para estimar el estado real de la
+población. Los adultos de esta especie se caracterizan por tener setas espiniformes negras en la coxa
+prolateroventral y en la maxila retrolateroventral. En ejemplares juveniles el dimorfismo sexual es casi
+inexistente, mientras que en adultos las hembras se identifican por la forma de las espermatecas, las
+cuales son unilobuladas, formando un semicírculo de base ancha. Desde su porción media hasta la zona
+apical tiene una textura rugosa. En cambio, el macho se distingue por la morfología del órgano palpal ya
+que tiene un ancho con quillas accesorias en el ápice. Sus patas son proporcionalmente más largas que el
+de las hembras y su abdomen es más pequeño. Las hembras son de un tono marrón verdoso
+predominante, abdomen negro con setas grises y blancos y en su base un penacho rojizo además de un
+parche de setas urticantes en la zona dorsal del abdomen. El cefalotórax y los fémures son de un tono
+verde amarillento, el resto de las patas son de color negro con setas grises. Los machos tienen la misma
+coloración que las hembras, a diferencia de que el tono del cefalotórax es mucho más brillante. Su tamaño
+es de un máximo de 11-12 cm en hembras y los machos son proporcionalmente más pequeños. Su
+alimentación es carnívora y en cuanto a hábitat, prefiere fabricar su madriguera bajo tierra, aunque
+también puede encontrarse bajo rocas, troncos u oquedades naturales del terreno.
+Se encuentra clasificado como Casi Amenazada de acuerdo al RCE (DS N°06/2017 MMA).
+2.1.3.4 Phrixotrichus scrofa
+Phrixotrichus scrofa o tarántula zorro de la costa es una especie nativa de Chile conocida sólo en algunas
+localidades de la Región del Biobío, por lo tanto, su distribución real es desconocida. Su tamaño
+poblacional, abundancia relativa, estructura poblacional y tendencias poblacionales actuales también son
+desconocidas. Morfológicamente los machos se distinguen de P. jara al no tener la quilla prolateral inferior
+aserrada y de P. vulpinus por tener más separadas las quillas prolaterales y su embolo más delgado,
+mientras que las hembras difieren de P. vulpinus porque carecen de una proyección digitiforme sobre sus
+receptáculos espermaticales y tienen ausencia de lóbulos sobre las cámaras laterales esferoidales de los
+receptáculos espermaticales. En ejemplares juveniles el dimorfismo sexual es casi inexistente, mientras
+que en adultos la hembra presenta un cefalotórax negro con pubescencia rosácea, abdomen con setas
+rojizas con 2 parches dorsolaterales de pelos urticantes y los machos tienen un tono ligeramente más
+brillante y patas proporcionalmente más largas y abdomen más pequeño, además de poseer espolones
+tibiales en el primer par de patas y bulbos copuladores en los pedipalpos. El tamaño máximo en hembras
+es de 10-13 cm, siendo los machos más pequeños. Esta especie generalmente está asociada a bosque
+8
+================================================================================
+PAGE 10
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+nativo, principalmente de Nothofagus y su alimentación se basa principalmente en otros artrópodos,
+incluyendo miembros de su misma especie.
+Se encuentra clasificado como En Peligro de acuerdo al RCE (DS N°44/2021 MMA).
+2.1.4 [a.4] Metodologías de caza, captura y manejo
+2.1.4.1 Esfuerzo de la medida
+Las capturas serán llevadas a cabo por equipos con experiencia en el manejo de fauna invertebrada, siendo
+cada uno liderado por un profesional especialista en la materia. Las actividades serán ejecutadas tras la
+obtención del permiso de captura otorgado por la autoridad competente y en conformidad a los
+requerimientos establecidos por ésta.
+Las actividades de captura estarán planificadas según el avance de las obras, con el objetivo de que se
+cumplan 5 días como máximo entre el término del rescate y el inicio de la etapa de construcción, para
+evitar la recolonización del área. Por lo tanto, el número de especialistas y esfuerzo dependerá de la
+superficie de las obras a liberar.
+2.1.4.2 Especificaciones técnicas de la captura y marcaje /identificación
+i. Captura
+Para el ejercicio de las capturas, el personal de terreno (especialistas fauna silvestre) deberá contar con
+experiencia y/o estar capacitado para el manejo de las especies objetivo.
+Las actividades de captura deberán ser realizadas en épocas en que las temperaturas permitan condiciones
+favorables para la reubicación de individuos. Esto es durante la estación de primavera y/o de verano, y en
+los días y horarios en que las características climáticas así lo permitan, ajustándose el cronograma de inicio
+de la construcción a lo señalado.
+Específicamente para las capturas realizadas en arácnidos, éstas deben de realizarse posterior a la
+temporada de verano (marzo-abril) de manera de no intervenir su proceso de ecdisis ni su periodo de
+eclosión de ootecas. Se deberá considerar diferencias horarias para hembras y machos; durante el día para
+hembras y durante la noche para machos.
+Para dejar registro de lo anterior, se implementarán fichas diarias asociadas a la aplicación de las capturas,
+que indiquen el área, profesionales a cargo, fecha, temperatura y condiciones del viento y nubosidad,
+esfuerzos aplicados y/o tasa de avance, y así también horario de captura y relocalización de los individuos.
+9
+================================================================================
+PAGE 11
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+A continuación, se indican las consideraciones asociadas a la captura de fauna invertebrada:
+La caracterización de invertebrados se realizará bajo dos métodos principalmente, una colecta activa y una
+colecta pasiva, repartidas en cada uno de los sitios prospectados. En cada PME la superficie se recorrerá
+de manera pedestre con ayuda de un odómetro y se realizará una colecta activa bajo distintas rocas y
+trozos de troncos disponibles en el área del proyecto, para el caso de los arbustos y árboles que se
+prospecten se utilizará un paragua entomológico, cuya función principalmente consiste en el golpeteo de
+ramas y estructuras leñosas disponibles, generando la caída y colecta posterior con aspirador
+entomológico de las diferentes especies que se puedan observar en la manta de tela blanca que conforma
+el paragua entomológico utilizado, cuya superficie fue de un metro cuadrado. Para la colecta pasiva se
+utilizarán trampas Barber y pitfall, donde se instaló siguiendo las recomendaciones para evitar los errores
+típicos que pueden afectar los datos obtenidos con la auto-correlación entre las muestras según Lafranco
+et al (2010). Para ello las trampas de caída (Trampa pitfall y barber) se colocarán cada 40 metros a lo largo
+del transecto, las trampas de caída o pitfall serán conformadas por un vaso de plástico de 360 ml enterrado
+a superficie y las trampas Barber de igual forma fueron dispuestas como las trampas pitfall, donde se
+llenará un tercio de su capacidad con cebo líquido aromático en base a vinagre de manzana y uva roja las
+que serán instaladas aleatoriamente en cada PME.
+ii. Marcaje
+El grupo arácnido se deberá marcar con el fin de lograr el correcto seguimiento. Para lo anterior, se
+requerirá de rotulador fluorescente no tóxico. El procedimiento de manipulación y marcaje deberá ser
+detallado en el permiso de captura, considerando todos los factores ambientales al momento de realizar
+la actividad y ubicación como la posición del marcaje para su correcta función en monitoreos posteriores.
+iii. Identificación
+Todos los ejemplares capturados serán individualizados, para luego registrarse la siguiente información:
+• Punto de registro (coordenadas UTM)
+• Especie
+• Obtención de registro fotográfico
+• Evaluar la condición sanitaria de los individuos: presencia de ectoparásitos y/o lesiones.
+Antecedentes adicionales como: registro de marcas o cicatrices de los especímenes para favorecer
+su posterior identificación.
+10
+================================================================================
+PAGE 12
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.5 [a.5] Lugar de caza, captura y de destino de los animales
+2.1.5.1 Lugar de captura
+Las capturas se enfocarán en los ambientes (bosque, modificado, matorral, plantación) donde se instalarán
+las obras areales del Proyecto y donde se registró la presencia de las especies objetivo.
+En la Figura 2-1 se presenta la representación gráfica a m odo general de los sectores donde se realizará
+el rescate de las especies de fauna invertebradacon categorías de conservación. Cabe d estacar que la
+presente figura contempla el rescate de áreas de zonas de extracción, zona de disposición, zona de
+acopio vegetal, planta de procesamiento y stockpile.
+11
+================================================================================
+PAGE 13
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-1. Localización de las áreas de rescate
+Fuente: GAC
+12
+================================================================================
+PAGE 14
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.5.2 Lugar de destino o relocalización
+Los ejemplares capturados serán liberados en un área de relocalización que deberá cumplir con las
+siguientes características:
+• Superficie mayor o igual a la superficie del área de captura.
+• Idealmente a una distancia mínima de 1 km del área de captura.
+• Características de hábitat similar al área de captura (esto es en parte las características vegetacionales,
+altura o m.s.n.m, entre otras).
+• No ser intervenida y/o influenciada por el Proyecto, garantizando su protección en el mediano a largo
+plazo.
+El área de destino o relocalización que se contempla para este Plan es un sistema de quebradas en donde
+es posible identificar presencia de bosque nativo con ejemplares de queules y un buffer rodeado de
+plantación forestal.
+Cabe destacar, además, que se realizó la caracterización tanto de las áreas de rescate como de
+relocalización de las especies objetivo del presente plan, con metodologías para la detección de animales
+asociadas a transectos, trampas Sherman, trampas cámara y búsqueda dirigida.
+Específicamente, el área de relocalización destinada al traslado de los ejemplares de las especies foco de
+la medida corresponde a un área de preservación al interior del Parque Nacional Nonguén, ubicado hacia
+el sureste del Área de Influencia del Proyecto, en las Comunas de Hualqui, Chiguayante y Concepción, a
+una distancia aproximada de 20 kilometros.
+13
+================================================================================
+PAGE 15
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Figura 2-2. Localización del área de relocalización
+Fuente: GAC
+14
+================================================================================
+PAGE 16
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.6 [a.6] Condiciones de transporte e instalaciones de cautiverio
+2.1.6.1 Condiciones de transporte
+Para el traslado de los ejemplares desde las áreas de captura hacia los sitios de liberación o relocalización,
+los individuos serán transportados en contenedores. Para su traslado en vehículo, se asegurará que los
+contenedores queden fijos y que la velocidad de desplazamiento no sea superior a los 20 km/hr en el caso
+de existir caminos no pavimentados y/o con eventos (ejemplo, baches).
+2.1.6.2 Instalaciones y cautiverio
+• Instalaciones y cautiverio
+Los ejemplares serán ubicados en contenedores plásticos especialmente adaptados para el cautiverio de
+ejemplares de las especies ya mencionadas, y se ubicarán de tal manera de estar protegidos de las
+temperaturas extremas, viento, entre otras amenazas.
+Cada contenedor será dividido en dos compartimentos, y tendrá orificios que permitirán una adecuada
+ventilación. En su interior se incorporará sustrato y refugios que emulen el área de captura de cada taxa
+(ej.: tierra, piedras, agua, algas).
+Con el objetivo de evitar interacciones negativas entre ejemplares, tales como agresión y depredación, en
+cada compartimento se ubicará un único individuo.
+El cautiverio se prolongará por un plazo no mayor a 2 horas. La liberación de los ejemplares se realizará
+durante la misma jornada en la cual fueron capturados, considerando que las condiciones climáticas
+(temperatura, luminosidad, etc.) sean apropiadas para la adecuada reinserción al medio de los ejemplares.
+Así mismo, de acuerdo a lo indicado en la Guía Técnica Para Implementar Medidas de Rescate/
+Relocalización y Perturbación Controlada (Torres-Mura et al., 2014) del Servicio Agrícola y Ganadero, se
+considerará lo siguiente:
+• Liberar pocos individuos en cada lugar (logra un espaciamiento adecuado de los organismos y evita
+las agresiones entre individuos de la misma especie) para no superar la capacidad de carga del
+sitio.
+• Liberar individuos adultos separados de infantiles y juveniles.
+• Liberar una proporción de machos y hembras acorde con la estructura de la especie (territorial,
+polígama, etc.).
+15
+================================================================================
+PAGE 17
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+2.1.7 [a.7] Cronograma detallado de las actividades que se realizarán y período por el
+que se solicita el permiso
+Una vez se obtenga el permiso de captura, y para dar cumplimiento a la autorización que permita ésta, de
+forma previa al comienzo de la actividad, se dará aviso del inicio de las capturas al SAG Regional, con 5 o
+10 días hábiles de anticipación o según se establezca en el respectivo permiso.
+Luego de aplicada la medida, se realizará un primer monitoreo en el área de captura al día siguiente o 2
+días posteriores al rescate (monitoreo inmediato) enfocado a verificar que no queden individuos por
+rescatar, este durará cuatro jornadas y eventualmente más si es necesario. Las actividades asociadas al
+proceso de construcción podrán iniciarse una vez concluido el primer monitoreo del área de captura en
+un plazo máximo de 5 días.
+El monitoreo siguiente, correspondiente a la segunda campaña, se realizará a los 14 días posterior al
+rescate en el área de relocalización, enfocado en determinar la permanecía temprana de los individuos
+relocalizados, ya que el marcaje con pintura debería resistir dicho periodo de tiempo. El tercer, cuarto y
+quinto monitoreo se efectuará a los 90, 180 y 360 días posterior al rescate, siendo el objetivo de dichos
+monitoreos poder evaluar el comportamiento de la población receptora una vez adicionado nuevos
+individuos. La duración de los monitoreos tendrá una duración de tres días. Los monitoreos abarcan un
+año completo para poder incluir un ciclo reproductivo de las especies objetivo
+En la Tabla 2-3 a continuación, se indica el cronograma que ha de considerarse para realizar el plan de
+rescate y relocalización de fauna.
+Tabla 2-3. Cronograma de actividades de plan de rescate y relocalización de fauna
+Primer
+Actividades de Periodo
+monitoreo: al Segundo Tercer Cuarto Quinto
+rescate y entre
+Obtención 10 días hábiles Estimaciones día siguiente o monitoreo: monitoreo: monitoreo: monitoreo:
+relocalización; término del
+de permiso de aviso, de 2 días post 14 días post 90 días post 180 días 360 días
+duración 1° monitoreo
+de captura previos al inicio abundancia rescate en área rescate en rescate en post rescate post rescate
+variable según e inicio de las
+y aviso de del rescate y previas a la de captura y área de área de en área de en área de
+clase y tasa de obras de
+captura. relocalización. medida. relocalización, relocalizació relocalizació relocalizació relocalizació
+avance de construcción:
+durante n. n. n. n.
+obras. 5 días.
+3jornadas.
+Fuente: GAC
+16
+================================================================================
+PAGE 18
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+En cuanto al periodo en que se solicitará el permiso, este será por un mínimo de 12 meses, dado que de
+esta manera es posible considerar la eventualidad de ejecutar campañas en distintas épocas del año y/o
+responder a solicitudes de la autoridad, y considerar las necesidades de eventuales captura durante los
+monitoreos de la primera a quinta campaña.
+Además del rescate contemplado para la fase de construcción, se entrega información acerca de la
+secuencialidad de intervención del Proyecto sobre las áreas de rescate (Tabla 2-4) durante la fase de
+operación, información que deberá ser revisada para la renovación del permiso de captura en caso de que
+aplique.
+Tabla 2-4. Cronograma de intervención de superficies que incluyen áreas consideradas para rescate y
+relocalización de vertebrados.
+Años
+Área Actividad
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Planta Procesamiento
+ZE Victoria Sur Extracción
+ZE Luna Extracción
+ZE Victoria Norte Extracción
+ZE Maite Extracción
+ZE Alexandra Poniente Extracción
+ZE Alexandra Oriente Extracción
+ZD Júpiter Disposición
+ZD Neptuno Disposición
+Fuente: GAC
+3 PLAN DE SEGUIMIENTO
+A continuación, se presenta detalladamente el plan de seguimiento de la medida propuesta, el cual busca
+observar el comportamiento de la variable abundancia de las especies objetivo y no objetivo, en el sector
+de captura (sector a intervenir) y en los de relocalización, de tal manera de enfocar el monitoreo no sólo
+en los individuos relocalizados, sino que también en todos los individuos presentes en las áreas de rescate
+y de relocalización.
+Los factores por considerar para realizar el seguimiento de la medida, y con esto estimar su éxito, son los
+siguientes:
+3.1 Parámetro utilizado para caracterizar evolución de la variable
+El parámetro utilizado para medir la evolución de la medida corresponde:
+17
+================================================================================
+PAGE 19
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+▪ Presencia/ausencia de especie objetivo
+El primer monitoreo se enfoca en determinar si quedan individuos en el área de intervención, apuntando
+al 0% de abundancia de la especie objetivo. Este monitoreo se efectuará uno o dos días posterior al rescate.
+El parámetro que se utilizará en presencia/ausencia de especie objetivo, apuntando al rescate del 100%
+de individuos. Este monitoreo y parámetros a medir se realizará solo en el área de captura.
+▪ Porcentaje de individuos relocalizados reavistamiento
+El segundo monitoreo se efectuará en el área de relocalización y está enfocado en determinar la
+permanencia temprana de los individuos rescatados en el área de relocalización, mediante la identificación
+de individuos marcados. El parámetro que se utilizará corresponde al porcentaje de reavistamiento de
+individuos relocalizados. El segundo monitoreo se realizará a los 14 días posterior al rescate solo en el área
+de relocalización.
+▪ Comportamiento de la población receptora
+El tercer, cuarto y quinto monitoreo se efectuarán en el área de relocalización y está enfocado en
+determinar cómo se comporta la población receptora una vez que se inserten nuevos individuos. Los
+parámetros a evaluar serán la riqueza, la densidad media y abundancia relativa de especies presentes. El
+tercer, cuarto y quinto monitoreo se realizará a los 90, 180 y 360 días posterior al rescate,
+respectivamente.
+3.2 Método o procedimiento de medición
+Aproximadamente dos meses antes del inicio de las actividades de captura, se realizará, para cada área de
+rescate, una campaña de línea de base a fin de corroborar y ajustar la estimación del número de individuos
+a rescatar, considerando la variación natural que puede sufrir la densidad de esta especie en relación con
+la disponibilidad de alimento, refugio y/o cuerpos o cursos de agua.
+El área a intervenir será recorrida en forma pedestre, procurando realizar un barrido completo, con
+particular énfasis en aquellos microambientes favorables para la presencia de las especies objetivo.
+El parámetro será medido en el área de captura y relocalización, mediante muestreos a realizar de manera
+posterior a la aplicación de la medida, considerando los procedimientos a aplicar según cada taxa.
+Tabla 3-1. Procedimiento de medición de parámetros utilizados para el seguimiento de la medida de rescate y
+relocalización
+Área donde se aplica el Momento en que se
+Parámetro Días de muestreo
+muestreo aplica el muestreo
+De manera posterior a la
+Presencia/ausencia Especie Objetivo Área de captura Cinco jornadas
+medida de rescate y
+18
+================================================================================
+PAGE 20
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Área donde se aplica el Momento en que se
+Parámetro Días de muestreo
+muestreo aplica el muestreo
+relocalización, en 1°
+monitoreo
+2° monitoreo, 14 días
+Porcentaje de individuos
+Área de relocalización finalizado el rescate Cinco jornadas
+relocalizados reavistados
+3°, 4° y 5° monitoreo, 90,
+Comportamiento de la población
+Área de relocalización 180 y 360 días finalizado Cinco jornadas
+receptora
+el rescate
+Fuente: GAC.
+3.3 Ubicación de puntos de control
+Los puntos de control o muestreo donde se realicen las distintas actividades estarán ubicados en las áreas
+de captura y en las áreas de relocalización, de manera previa y posterior a la aplicación de la medida de
+rescate y relocalización.
+3.4 Duración y frecuencia del plan de seguimiento
+Los parámetros serán evaluados en diversas campañas, para las cuales se considera un cierto momento,
+duración y área, según se indica a continuación:
+Tabla 3-2. Duración y frecuencia del plan de seguimiento y/o campañas de monitoreo
+Campaña de
+Momento y duración Área donde se aplica
+monitoreo
+Al día siguiente o 2 días posteriores al rescate,
+Primera campaña Área de captura
+durante 5 jornadas.
+Segunda campaña 14 días posteriores al rescate, durante 5 jornadas. Área de relocalización
+Tercera campaña 90 días posteriores al rescate, durante 5 jornadas. Área de relocalización
+180 días posteriores al rescate, durante 5
+Cuarta campaña Área de relocalización
+jornadas.
+360 días posteriores al rescate, durante 5
+Quinta campaña Área de relocalización
+jornadas.
+Fuente: GAC
+19
+================================================================================
+PAGE 21
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+3.5 Límites permitidos o comprometidos
+Los límites o umbrales permitidos, son los siguientes:
+● En el área de captura se permite un 0% de abundancia de la especie objetivo, es decir si durante
+el primer monitoreo se identifican más individuos de la especie objetivo estos serán rescatados.
+● En el área de relocalización se apuntará a la permanencia temprana de individuos relocalizados en
+un 10%.
+● En el área de relocalización se apuntará a una mantención y/o aumento de la densidad media
+(abundancia absoluta) de las especies objetivo.
+3.6 Plazo y frecuencia de entrega de los informes con la evaluación de los
+resultados
+El informe relativo a los resultados de la implementación de la medida “Rescate y relocalización” en el
+marco del PASM146, será entregado a las autoridades competentes dentro de un plazo máximo de 30 días
+hábiles tras el término de las actividades de seguimiento de la medida. No obstante, se procederá a emitir
+los informes requeridos en los plazos que se indiquen en la Resolución Exenta que autorice las capturas.
+4 REFERENCIAS BIBLIOGRÁFICAS
+Decreto Supremo N°50/2008. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, segundo proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 30 de junio de 2008.
+Decreto Supremo N°38/2015. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, undécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 4 de
+diciembre de 2015.
+Decreto Supremo N°16/2016. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, duodécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 16 de
+septiembre 2016.
+Decreto Supremo N°23/2019. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo quinto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 16
+de septiembre 2016.
+Ley N°4.601. 1929. Sobre Caza. Texto fue sustituido por la Ley N°19.473. 1996 (D.O.27.09.96).
+Ley N°19.300. 1994. Ley General de Bases del Medio Ambiente. Modificada por la Ley N°20.417 de 2010.
+20
+================================================================================
+PAGE 22
+================================================================================
+Anexo 10-10
+Permiso Ambiental Sectorial Mixto N°146 (invertebrados)
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Reyes, M.A. y L. Arias-Bernal. 2020. Revisión: Manejo clínico de artrópodos de la familia Theraphodidae.
+Remevet Fauna, México. 28 pp.
+Servicio Agrícola y Ganadero (SAG). 2016. Guía de Evaluación Ambiental. Componente Fauna. Dirección
+de Protección de los Recursos Naturales Renovables. 28 pp.
+Torres-Mura, J.C., E. Riveros-Riffo y V. Escobar-Gimpel. 2014. Guía técnica para implementar medidas de
+rescate/ relocalización y perturbación controlada. Servicio Agrícola y Ganadero. 45 pp.
+Torres-Mura, J., G. González y D. Martínez. 2011. Fauna de Chile: Vertebrados de la zona mediterránea.
+Ediciones del Naturalista. 188 pp.
+21

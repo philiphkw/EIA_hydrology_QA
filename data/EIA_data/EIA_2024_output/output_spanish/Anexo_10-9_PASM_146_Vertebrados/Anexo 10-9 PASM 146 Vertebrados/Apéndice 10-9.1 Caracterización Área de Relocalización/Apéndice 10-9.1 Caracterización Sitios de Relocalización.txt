@@ -1,0 +1,1129 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 1 0-9.1
+Caracterización de áreas de relocalización de
+Fauna
+EIA "Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado Tierras Raras"
+Región del Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia
+Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+ÍNDICE GENERAL
+1 Introducción ............................................................................................................................... 1
+2 Objetivos .................................................................................................................................... 1
+2.1 Objetivo general ............................................................................................................................ 1
+2.2 Objetivos específicos ..................................................................................................................... 1
+3 Metodología ............................................................................................................................... 2
+3.1 Antecedentes ................................................................................................................................ 2
+3.1.1 Especies objetivo ................................................................................................................... 2
+3.1.2 Áreas de rescate .................................................................................................................... 3
+3.2 Sitios de relocalización .................................................................................................................. 6
+3.2.1 Áreas de relocalización propuestas ....................................................................................... 6
+3.2.2 Caracterización de áreas de relocalización ........................................................................... 8
+3.3 Parámetros .................................................................................................................................. 10
+4 Resultados ................................................................................................................................ 12
+4.1 Área de destino o relocalización ................................................................................................. 12
+4.1.1 Riqueza de especies............................................................................................................. 12
+4.1.2 Abundancia relativa y densidad de especies objetivo ........................................................ 15
+4.1.3 Capacidad de carga, áreas de relocalización ....................................................................... 16
+4.2 Ejemplares por capturar en cada ambiente de intervención del Proyecto ................................ 16
+5 Análisis de Resultados y Conclusiones ....................................................................................... 20
+5.1 Áreas por rescatar, ambientes presentes y especies objetivo. ................................................... 20
+5.2 Área de relocalización, riqueza y densidad de especies y capacidad de carga de especies objetivo
+21
+6 Referencias bibliograficas .......................................................................................................... 22
+i
+================================================================================
+PAGE 3
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+INDICE DE TABLAS
+Tabla 3-1. Especies objetivo de la medida rescate y relocalización de fauna ............................................... 2
+Tabla 3-2. Superficie de las obras areales donde se ejecutará plan de rescate ............................................ 3
+Tabla 3-3. Especies objetivo por ambiente en el área del proyecto. ............................................................ 5
+Tabla 3-4. Superficie, coordenadas y ubicación de áreas de relocalización propuestas. ............................. 7
+Tabla 3-5. Puntos de muestreo realizados en las Áreas de Relocalización. .................................................. 8
+Tabla 4-1. Riqueza de especies en área de relocalización........................................................................... 13
+Tabla 4-2. Abundancia relativa (%) y densidad (individuos/hectárea) de las especies objetivo de
+relocalización ............................................................................................................................................... 15
+Tabla 4-3. Número máximo de ejemplares por hectárea para liberar en el área de relocalización. .......... 16
+Tabla 4-4. Ejemplares por capturar por especie en ambiente Bosque ....................................................... 16
+Tabla 4-5. Ejemplares que capturar por especie en ambiente Matorral .................................................... 17
+Tabla 4-6. Ejemplares por capturar por especie en ambiente Modificado ................................................. 18
+Tabla 4-7. Ejemplares por capturar por especie en ambiente Plantación .................................................. 19
+INDICE DE FIGURAS
+Figura 3-1. Ambiente Plantación (arriba); Bosque (ab. Derecha); Matorral (ab. Izq.) .................................. 4
+Figura 3-2. Representación gráfica de las áreas de rescate .......................................................................... 5
+Figura 3-3. Representación gráfica del área de relocalización ...................................................................... 7
+Figura 4-1. Vistas representativas del ambiente en el Área de Relocalización, Parque Nonguén. ............. 12
+Figura 4-2. Ejemplar de Eupsophus roseus (rana rosácea de hojarasca) registrado en el Área de
+Relocalización. ............................................................................................................................................. 15
+ii
+================================================================================
+PAGE 4
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+1 INTRODUCCIÓN
+En el marco de la tramitación ambiental del Proyecto de Desarrollo Minero de Extracción de Arcillas para
+Producción de Concentrado Tierras Raras (EAPCTR), Región del Bío-Bío, se ha propuesto un plan de
+“Rescate y relocalización de fauna”, cuyo objetivo es evitar la afectación de especies en categoría de
+conservación y/o de baja movilidad de manera previa a la fase de construcción del Proyecto.
+En términos generales, la medida de rescate y relocalización de fauna consiste en realizar la captura de las
+especies objetivo en el área a intervenir, para luego trasladarlas a áreas de destino sin intervención y aptas
+como hábitat, permitiendo a los individuos relocalizados acceder a los recursos y condiciones que
+necesitan para sobrevivir y eventualmente reproducirse. Para este Proyecto, se contempla aplicar la
+medida en especies de anfibios, reptiles y micromamíferos (especies de fauna de baja movilidad).
+Este documento contiene los resultados de la campaña de caracterización de fauna realizada en el área de
+relocalización entre el 26 y 30 de diciembre de 2023 (verano).
+2 OBJETIVOS
+2.1 Objetivo general
+Determinar y justificar el área para la relocalización de fauna, adecuadas para ejemplares de anfibios,
+reptiles y micromamíferos (fauna de baja movilidad), dado que son las especies objetivo del plan de
+rescate y relocalización del “Proyecto de Extracción de Arcillas para Producción de Tierras Raras”.
+2.2 Objetivos específicos
+• Caracterizar los sitios de relocalización propuestos en cuanto a sus coordenadas geográficas,
+pendiente, exposición solar, tipo de ambiente, comunidad de fauna que lo habita y presencia de
+las especies objetivo.
+• Determinar capacidad de carga de cada área de relocalización propuesta y establecer su similitud
+con el área de rescate.
+• Determinar la cantidad de individuos de cada especie objetivo a rescatar en cada ambiente a
+intervenir
+• Validar la idoneidad de las áreas de relocalización.
+1
+================================================================================
+PAGE 5
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+3 METODOLOGÍA
+En las metodologías usadas para la caracterización del área de relocalización de las especies objetivo, se
+tomó en consideración los lineamientos definidos en la “Guía Técnica Para Implementar Medidas de
+Rescate/ Relocalización y Perturbación Controlada” (Torres-Mura et al. 2014) del Servicio Agrícola y
+Ganadero, la guía “Criterio de Evaluación en el SEIA: Criterios técnicos para la aplicación de la medida de
+rescate y relocalización” (SEA 2022), y la Guía “Trámite PAS 146 Reglamento del SEIA” (SEA 2022). Estas
+metodologías se detallan en las secciones siguientes del documento, además de los parámetros utilizados
+para determinar la cantidad de individuos a rescatar en cada área.
+3.1 Antecedentes
+3.1.1 Especies objetivo
+Las especies objetivo correspondieron a fauna protegida en categoría de conservación de “amenaza”, es
+decir: En Peligro crítico (CR), En Peligro (EN), y Vulnerable (VU), y/o especies de fauna de baja movilidad,
+registradas en el anexo de Línea de Base de fauna silvestre del Proyecto, de acuerdo con esto, las especies
+objetivo a relocalizar correspondieron a 2 anfibios, 6 reptiles y 5 micromamíferos (13 especies).
+En la Tabla 3-1 se presenta el listado de las especies objetivo donde se indica: taxonomía, categoría de
+conservación legal, origen y movilidad.
+Tabla 3-1. Especies objetivo de la medida rescate y relocalización de fauna
+Estado de Criterio de d
+e s a lC
+Nombre científico
+Espec
+N
+ie
+o mbre común
+n
+e g ir
+O RCE
+Conser
+F
+v
+u
+a
+e
+c
+n
+ió
+te
+n
+B
+Prote
+S
+c ción
+E
+a
+d iliv
+o
+M
+a ib Eupsophus roseus
+Ran
+h
+a
+o
+r
+j
+o
+a
+s
+ra
+á
+s
+c
+c
+e
+a
+a de
+E NT
+DS
+M
+42
+M
+/2
+A
+0 11 -
+S E B
+ih
+p DS 41/2011 -
+m Pleurodema thaul Sapito de cuatro ojos N NT - E B
+A MMA
+DS 16/2016 -
+Liolaemus schroederi Lagartija de Schröeder E VU S E B
+MMA
+Lagartija de vientre -
+Liolaemus cyanogaster N LC DS 23/2019MMA - E B
+azul
+DS 23/2019 -
+a Liolaemus tenuis Lagartija esbelta N LC S E B
+ilit MMA
+p e DS 19/2012 -
+R Liolaemus lemniscatus Lagartija lemniscata N LC S E B
+MMA
+DS 19/2012
+Liolaemus chiliensis Lagarto chileno N LC B - E B
+MMA
+DS 19/2012
+Liolaemus pictus Lagartija pintada N LC - - E B
+MMA
+2
+================================================================================
+PAGE 6
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Estado de Criterio de d
+e s a lC
+Nombre científico
+Espec
+N
+ie
+o mbre común
+n
+e g ir
+O RCE
+Conser
+F
+v
+u
+a
+e
+c
+n
+ió
+te
+n
+B
+Prote
+S
+c ción
+E
+a
+d iliv
+o
+M
+Oligoryzomys - - -
+Ratón de cola larga N - - B
+longicaudatus
+DS 19/2012 - - -
+Abrothrix longipilis Ratón de pelo largo N LC B
+a MMA
+ila
+m - - -
+Abrothrix olivaceus Ratón oliváceo N - - B
+m
+a
+M Ratón orejudo de - - -
+Phyllotis darwini E - - B
+Darwin
+DS 42/2011
+Dromiciops gliroides Monito del monte* N NT B S - B
+MMA
+Categoría: LC: Preocupación Menor; NT: Casi amenazada. Origen: E: Endémico N: Nativo. Movilidad: B: Baja. Criterios del SAG=
+B: Especie catalogada como beneficiosa para la actividad silvoagropecuaria; S: Especie catalogada con densidades poblacionales
+reducidas; y E: Especie catalogada como benéfica para la mantención del equilibrio de los ecosistemas naturales. Movilidad= B:
+Baja movilidad.
+Fuente: GAC
+3.1.2 Áreas de rescate
+Estas áreas corresponden a sectores del Proyecto, cuyas obras sean de extensión areal (mayores a 3
+hectáreas) que generan modificaciones intensivas de hábitat en un área de dimensiones variables, cuyo
+principal impacto sea la pérdida total o parcial de poblaciones. Partes del proyecto de extensión lineal
+cuando generan fragmentación del hábitat a través de una faja de ancho y largo variable, y cuyos impactos
+pueden ser pérdida de hábitat y distintos grados de fragmentación de hábitat (Criterios técnicos para la
+aplicación de la medida de rescate y relocalización, SEA 2022), y aquellas áreas donde se intervengan
+ambientes específicos de anfibios, como zonas inundadas, cursos de ríos y esteros, cuerpos de agua o
+humedales en general
+En el área de influencia del proyecto se identificaron cuatro ambientes para la fauna: Bosque, Matorral,
+Modificado y Plantación. De acuerdo con los antecedentes de la línea de base de fauna de vertebrados
+terrestres (Capítulo 3 del EIA) y en el Anexo 10-3 PAS 146, se determinó la necesidad de realizar el rescate
+y relocalización de fauna en los sitios donde se proyectan las obras señaladas en la Tabla 3-2, lo que
+equivale a una superficie de 140,75 hectáreas.
+Tabla 3-2. Superficie de las obras areales donde se ejecutará plan de rescate
+Instalación Superficie (ha)
+Planta de Procesamiento 13,1
+Stockpile 0,9
+ZONAS DE EXTRACCIÓN
+ZE Luna 8,8
+ZE Victoria Norte 31,1
+3
+================================================================================
+PAGE 7
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Instalación Superficie (ha)
+ZE Maite 35,9
+ZONAS DE DISPOSICIÓN
+ZD Neptuno 45,5
+ZONAS DE ACOPIO DE SUELO VEGETAL
+ZAV 5,69
+Fuente: GAC
+A continuación, en la Figura 3-1 y Figura 3-2 se presentan ambientes presentes en las áreas de rescate y
+su localización en el área del proyecto respectivamente.
+Figura 3-1. Ambiente Plantación (arriba); Bosque (ab. Derecha); Matorral (ab. Izq.)
+Fuente: Registro fotográfico obtenido en terreno
+4
+================================================================================
+PAGE 8
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Figura 3-2. Representación gráfica de las áreas de rescate
+Fuente: GAC
+a) Especie objetivo por ambiente
+En la Tabla 3-3 se muestra un resumen de las especies de baja movilidad registradas en los distintos
+ambientes de fauna. El ambiente Plantación destacó por presentar el mayor número de especies objetivos
+(12 especies).
+Tabla 3-3. Especies objetivo por ambiente en el área del proyecto.
+Especie Ambientes de fauna
+e
+s
+a
+lC
+Nombre científico Nombre común
+Bosque Matorral Modificado Plantación
+a
+ib Eupsophus roseus Rana rosácea de hojarasca - - X -
+ih
+p
+m Pleurodema thaul Sapito de cuatro ojos - - - X
+A
+Liolaemus schroederi Lagartija de Schröeder - X X X
+a
+ilit Liolaemus cyanogaster Lagartija de vientre azul - X - X
+p e Liolaemus tenuis Lagartija esbelta X X X X
+R
+Liolaemus lemniscatus Lagartija lemniscata X X X X
+5
+================================================================================
+PAGE 9
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Especie Ambientes de fauna
+e
+s
+a
+lC
+Nombre científico Nombre común
+Bosque Matorral Modificado Plantación
+Liolaemus chiliensis Lagarto chileno X X X X
+Liolaemus pictus Lagartija pintada - X - X
+Oligoryzomys longicaudatus Ratón de cola larga - - - X
+Abrothrix longipilis Ratón de pelo largo X - - X
+a
+ila
+m
+Abrothrix olivaceus Ratón oliváceo X - - X
+m
+a
+M
+Phyllotis darwini Ratón orejudo de Darwin - - - X
+Dromiciops gliroides Monito del monte* - X - X
+X=Presencia
+Fuente: GAC
+3.2 Sitios de relocalización
+3.2.1 Áreas de relocalización propuestas
+A partir de fotointerpretación y similitudes con las áreas de rescate se caracterizó un sitio de relocalización
+potencialmente adecuado para anfibios, reptiles y micromamíferos, ubicado en el Parque Nonguén (Figura
+3-3) en la región del Bío-Bío. Esta selección consideró principalmente mantener ambientes similares,
+accesibilidad y distancia del área de rescate, de tal manera de asegurar una mayor sobrevivencia y menor
+estrés de los individuos a relocalizar, considerando además los siguientes criterios:
+1. Superficie mayor o igual a la superficie del área de captura.
+2. Idealmente a una distancia del área de captura de los ejemplares, que permita reducir la
+probabilidad de recolonización (según ámbito de hogar de las especies objetivo). Por lo que debe
+estar a una distancia tal que asegure el no retorno de los ejemplares al lugar de captura, o que
+exista una barrera natural o artificial que se lo impida.
+Con características de hábitat similares al área de captura, y/o con la presencia de ambientes
+equivalentes a donde se haya tenido registro de las especies objetivo, considerando las siguientes
+variables: pendiente, exposición, altitud, formaciones vegetales y especies dominantes, sustrato,
+características de sitio que determinan patrones de distribución azonal de hábitat (nivel de
+hidromorfismo, cuerpos de agua, entre otros), presencia de depredadores, disponibilidad de
+fuentes de alimento, entre otros.
+3. El área de destino debe contar con la presencia de las especies que serán rescatadas, las que deben
+ser descritas en términos de su abundancia relativa y densidad, considerando para ello la
+capacidad de carga que posee el o los sitios de destinos.
+6
+================================================================================
+PAGE 10
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+4. No ser intervenida el Proyecto u otras actividades, garantizando su protección en el mediano a
+largo plazo, vale decir, al menos tres ciclos reproductivos, equivalente a tres años.
+Figura 3-3. Representación gráfica del área de relocalización
+Fuente: GAC
+En la figura precedente se observa la ubicación del Área de Relocalización respecto del proyecto en cada
+sector y en la Tabla 3-4 se especifica la superficie y coordenadas de un punto central, así como la distancia
+del punto central respecto del área de rescate.
+Tabla 3-4. Superficie, coordenadas y ubicación de áreas de relocalización propuestas.
+Ubicación y distancia Coordenada central de referencia
+Área de
+Superficie (ha) (km) respecto al sitio de (UTM WGS84 18H)
+Relocalización
+rescate Este Norte
+Parque Nonguén 3.036,9 14 680.410 5.915.410
+Fuente: GAC
+7
+================================================================================
+PAGE 11
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+3.2.2 Caracterización de áreas de relocalización
+La caracterización de estas áreas consideró la descripción de los ambientes y la identificación de las
+especies, con sus respectivas densidades y capacidades de carga estimada. La información fue levantada
+en una campaña de cuatro días de terreno, entre el 26 y el 29 de diciembre de 2023. En esta participaron
+dos profesionales especialistas en fauna silvestre, realizando 20 puntos de muestreo de fauna (PMF),
+representativos de los ambientes para albergar a las especies de vertebrados a relocalizar.
+En la Tabla 3-5 a continuación se indican los PMF realizados en el área de relocalización.
+Tabla 3-5. Puntos de muestreo realizados en las Áreas de Relocalización.
+Coordenadas WGS84
+Descripción de los ambientes asociados PMF H18S Técnica de muestreo
+Este (m) Norte (m)
+Bosque nativo/matorral PMF01 677.987 5.915.903 TrAnf, TrRep,TrMam, EA
+TrAnf, TrRep,TrMam, EA, TSH,
+Bosque nativo con pinos PMF02 678.414 5.916.205
+CT, BD
+TrAnf, TrRep,TrMam, EA, TSH,
+Renoval mixto PMF03 678.942 5.916.258
+CT, BD
+Bosque nativo con presencia de pinos y cuerpo TrAnf, TrRep,TrMam, EA, TSH,
+PMF04 679.295 5.916.633
+de agua CT, BD
+Bosque nativo PMF05 679.793 5.916.685 TrAnf, TrRep,TrMam, EA
+Bosque nativo PMF06 680.329 5.916.744 TrAnf, TrRep,TrMam, EA
+Ribera con vegetación nativa PMF07 680.231 5.916.515 TrAnf, TrRep,TrMam, EA
+Bosque nativo PMF08 680.828 5.916.753 TrAnf, TrRep,TrMam, EA
+Bosque nativo PMF09 681.326 5.916.742 TrAnf, TrRep,TrMam, EA
+Renoval mixto PMF10 681.792 5.916.551 TrAnf, TrRep,TrMam, EA
+Bosque mixto PMF11 678.863 5.915.764 TrAnf, TrRep,TrMam, EA, CT
+Bosque mixto PMF12 678.960 5.915.370 TrAnf, TrRep,TrMam, EA
+Bosque nativo con presencia de pinos PMF13 678.983 5.914.953 TrAnf, TrRep,TrMam, EA
+Bosque nativo con presencia de pinos PMF14 679.338 5.914.612 TrAnf, TrRep,TrMam, EA
+Bosque mixto, principalmente nativo PMF15 679.652 5.914.231 TrAnf, TrRep,TrMam, EA
+Bosque mixto PMF16 680.151 5.914.125 TrAnf, TrRep,TrMam, EA
+Bosque nativo con pinos PMF17 680.400 5.914.515 TrAnf, TrRep,TrMam, EA
+Bosque mixto PMF18 680.828 5.914.682 TrAnf, TrRep,TrMam, EA
+Renoval mixto PMF19 681.251 5.914.704 TrAnf, TrRep,TrMam, EA
+Renoval mixto PMF20 681.476 5.914.268 TrAnf, TrRep,TrMam, EA
+CT: Cámara Trampa; PMF:Punto de Muestreo de Fauna; TSH: Trampas tipo Sherman; BD:Batdetector; TrAnf: Transecto Anfibios,
+TrRep: Transecto Reptiles; TrMam: Transecto Mamiferos, EA: Estación Aérea.
+Fuente: GAC
+En cada PMF se implementaron métodos específicos para la detección de taxones potenciales del área,
+basados en lo expuesto por las guías del Servicio Agrícola y Ganadero (SAG 2012a, SAG 2012b y SAG 2016),
+8
+================================================================================
+PAGE 12
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+la “Guía para la descripción de los componentes de suelo, flora y fauna de ecosistemas terrestres del SEIA”
+(SEA 2015) y el “Manual para el monitoreo de fauna silvestre en Chile” (De la Maza y Bonacic 2013).
+En adelante, se entenderá como registro directo: avistamientos, vocalizaciones, huevos y capturas
+mediante trampeo; y como registros indirectos: huellas, imágenes mediante cámaras trampa, registros de
+Batdetector, deposiciones, plumas, pelos, restos de muda (ecdisis), restos óseos y carcasas.
+Las capturas realizadas, se ejecutaron de acuerdo con la autorización del Departamento de Protección de
+Recursos Naturales Renovables del Servicio Agrícola y Ganadero mediante las Resoluciones Exentas:
+Resolución Exenta N°1025 2023 emitida el 18 de agosto de 2023 y con vigencia hasta el 18 de agosto de
+2024 (Apéndice 3.13-1).
+A continuación, se indican las técnicas metodológicas realizadas para el registro de especies de cada clase.
+a) Amphibia
+Transectos: Se realizaron recorridos pedestres en los que se buscó la presencia de anfibios mediante
+evidencia visual, dentro de los límites dados por la capacidad de detección del observador, la cual se
+estimó en 3 metros a cada lado de la línea de progresión. Cada transecto tuvo una duración de 15 minutos
+promedio y un largo de 400 metros.
+Búsqueda dirigida: En atención a los hábitos de las especies potenciales para el área de influencia, la
+realización de transectos fue complementada con la búsqueda dirigida de anfibios en refugios potenciales,
+lo que consistió en el levantamiento de piedras, búsqueda dentro de vegetación de sectores con agua y
+otros posibles refugios.
+b) Reptilia
+Transectos: Se realizaron recorridos pedestres en los que se buscó la presencia de reptiles mediante
+evidencia visual, dentro de los límites dados por la capacidad de detección del observador, la cual se
+estimó en 3 metros a cada lado de la línea de progresión. Cada transecto tuvo una duración de 15 minutos
+promedio y un largo de 400 metros.
+Búsqueda dirigida: En atención a los hábitos de las especies potenciales para el área de influencia, la
+realización de transectos fue complementada con la búsqueda dirigida de reptiles en refugios potenciales,
+lo que consistió en el levantamiento sistemático de piedras, y otros posibles refugios.
+c) Aves:
+Estación aves puntual: se realizaron puntos de observación en los cuales se efectuó el registro visual, con
+la ayuda de binoculares (10x42), y el reconocimiento de las vocalizaciones de las aves. En cada punto se
+9
+================================================================================
+PAGE 13
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+esperó cinco minutos para estabilizar el comportamiento de las aves al llegar a cada sector (Reynolds et
+al., 1980) y posteriormente se inició el conteo. Cada punto tuvo una duración de 10 minutos y un radio de
+50 metros.
+Búsqueda dirigida: considerando los hábitos de las especies potenciales para el área de estudio, se
+buscaron todas las evidencias directas e indirectas (cavidades, plumas, egagrópilas, huellas, etc.) que se
+puedan encontrar en el área de estudio.
+d) Mammalia
+Transectos: Se realizaron recorridos pedestres en los que se registraron todas las evidencias directas e
+indirectas (huellas, heces, pelos, madrigueras, restos óseos, etc.) que fueron observadas en terreno dentro
+de los límites dados por la capacidad de detección del observador, la cual se estimó en 25 metros a cada
+lado de la línea de prospección. Cada transecto tuvo una duración de 15 minutos promedio y un largo de
+400 metros.
+Trampas cámara: Se instalaron trampas cámara (Bushnell®: Trophy Camera Brown, Modelo 119436 y
+Bushnell®: Trophy Camera Brown HD, Modelo 119537C) durante tres noches en diferentes estaciones, en
+puntos de muestreo tipo 2 seleccionados en función de la probabilidad de registros de mesomamíferos
+silvestres.
+Trampas Sherman: Para la captura de roedores y/o marsupiales, se instalaron trampas tipo Sherman, las
+cuales fueron cebadas con avena machacada y esencia de vainilla. Las trampas se instalaron en grillas en
+grupos de 25 trampas, separada por 10 m entre una y otra, dando origen a cinco líneas paralelas de 50 m
+de largo y 10 m de ancho (2.500 m2). El esfuerzo de muestreo fue de tres noches de captura.
+Las capturas realizadas, se ejecutaron de acuerdo con la autorización del Departamento de Protección de
+Recursos Naturales Renovables del Servicio Agrícola y Ganadero mediante la Resolución Exenta N°1025
+2023 emitida el 18 de agosto de 2023 y con vigencia hasta el 18 de agosto de 2024 (Apéndice 3B-30
+Permiso de captura de fauna silvestre).
+3.3 Parámetros
+Para verificar la idoneidad de las áreas de relocalización de las especies objetivo se analizaron los
+siguientes parámetros:
+Riqueza y composición de la comunidad: número de especies registradas en cada sitio de relocalización
+propuesto y lista de especies registradas. Utilizado para identificación de especie objetivo y análisis de
+posibles competidores o depredadores.
+10
+================================================================================
+PAGE 14
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Abundancia relativa: Corresponde al porcentaje de los ejemplares registrados de una especie en relación
+al total de individuos registrados.
+Densidad: número de ejemplares de la especie objetivo por hectárea, calculada desde su abundancia
+dividida por la superficie muestreada.
+Ecuación 3-1. Densidad de reptiles.
+Individuos Promedio de individuos por ambiente
+Densidad ( )=( )∗10.000
+Hectáreas (L∗a)
+Donde, L= largo del transecto (200 m); a= ancho del transecto (6 m).
+Capacidad de carga: Se realizó una estimación de la capacidad de carga de las especies objetivo en cada
+área de relocalización. Con el objetivo de estimar la factibilidad del establecimiento y desarrollo de los
+ejemplares a trasladar al área de relocalización. Esta estimación se realizó sobre la base de los resultados
+obtenidos en la caracterización de las áreas elegidas y los resultados de la densidad de las especies
+objetivo.
+Para el cálculo de la capacidad de carga se consideró que la densidad máxima de ejemplares a liberar era
+posible de obtener a través de la diferencia entre la densidad máxima registrada en el área de
+relocalización y la densidad media de la misma (Ecuación 3-2).
+Ecuación 3-2. Máximo de ejemplares a liberar por especie
+N° Ejemplares a liberar por especie =(Dens.max.área de relocalización−Dens.media.área de relocalización)
+Densidad: individuos/hectáreas
+Finalmente, para estimar los ejemplares a capturar, se utilizó la densidad media por ambiente de cada
+especie multiplicado por la superficie de intervención (Ecuación 3-3).
+Ecuación 3-3. Ejemplares para capturar por especie
+N° Ejemplares a capturar =Dens. media. ambiente X∗Superfice de intervención ambiente X
+Densidad: individuos/hectáreas, Superficie: hectáreas
+11
+================================================================================
+PAGE 15
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+4 RESULTADOS
+4.1 Área de destino o relocalización
+El área de destino de los animales rescatados corresponde a los sectores Olivillos y Los Canelos, en el
+interior del Parque Nacional Nonguén, a aproximadamente 14 km del área de rescate, lo que minimiza la
+posibilidad que los individuos rescatados retornen al sitio de captura. La superficie del P.N. Nonguén es de
+3.055 hectáreas, lo que equivale a una superficie mayor a las áreas donde se proyecta la realización de los
+rescates. Presenta un ambiente de bosque nativo y mixto, con presencia de pinos, asociado a las mismas
+formaciones vegetacionales del área de rescate (bosque esclerófilo y bosque caducifolio), y con hábitats
+equivalentes, pero menos intervenidos que aquellos donde se registraron las especies objetivo en las áreas
+de rescate, presentando características de refugio y alimentación adecuadas para la inserción de anfibios,
+reptiles y micromamíferos. Dado que este sitio corresponde a un Parque Nacional, se puede garantizar su
+protección a largo plazo (Figura 4-1).
+Figura 4-1. Vistas representativas del ambiente en el Área de Relocalización, Parque Nonguén.
+Fuente: Registro fotográfico obtenido en terreno
+4.1.1 Riqueza de especies
+En el área de relocalización se registraron 40 especies, de ellas, tres correspondieron a anfibios, cinco a
+reptiles, 29 a aves, y tres a mamíferos. Del total de especies registradas, nueve correspondieron a especies
+de baja movilidad: los anfibios Eupsophus roseus, E. vertebralis y Pleurodema thaul; los reptiles: Liolaemus
+lemniscatus, L. pictus, L. schroederi, L. tenuis y Pristidactylus torquatus; y el mamífero: Abrothrix longipilis
+(Figura 4-2). De estas especies solamente dos no corresponden a especies objetivos, el anfibio E.
+vertebralis y el reptil P. torquatus. La Tabla 4-1 muestra un resumen de las especies de fauna registradas
+en esta área y se detalla cuales corresponden a especies objetivo.
+12
+================================================================================
+PAGE 16
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Cabe mencionar que seis (6) de las trece (13) especies objetivos no fueron registradas en el área de
+relocalización:
+• Liolaemus chiliensis: lo que podría estar asociado a su baja abundancia en el ambiente de Bosque,
+encontrándose mayormente en el ambiente Modificado durante la realización de la Línea de Base.
+• Liolaemus cyanogaster: la cual fue la especie menos abundante entre los reptiles registrados
+durante la Línea de Base.
+• Los micromamíferos Abrothrix olivaceus, Phyllotis darwini, Oligoryzomys longicaudatus y
+Dromiciops gliroides: lo cual podría deberse al menor esfuerzo de muestreo respecto a la Línea de
+Base.
+Aunque estas especies no fueron registradas en el área de relocalización, se encontraron hábitats propicios
+para su relocalización, con presencia de refugios, recursos y alimento.
+Tabla 4-1. Riqueza de especies en área de relocalización.
+Especie Estado de Conservación Especi
+n e e
+Clase Orden Familia g Catego
+Nombre científico Nombre Común ir O Doc. Legal objeti
+ría
+vo
+rana rosácea de DS 41/2011
+Eupsophus roseus E VU X
+Cycloramphi hojarasca MMA
+Amphibi dae rana grande de DS 41/2011
+Anura Eupsophus vertebralis E VU
+a hojarasca MMA
+DS 41/2011
+Leiuperidae Pleurodema thaul sapito de cuatro ojos N NT X
+MMA
+DS 19/2012
+Liolaemus lemniscatus lagartija lemniscata N LC X
+MMA
+DS 19/2012
+Liolaemus pictus lagartija pintada N LC X
+MMA
+Liolaemidae
+lagartija de DS 16/2016
+Reptilia Squamata Liolaemus schroederi E VU X
+Schröeder MMA
+DS 19/2012
+Liolaemus tenuis lagartija esbelta N LC X
+MMA
+Pristidactylus DS 38/2015
+Leiosauridae gruñidor del sur E VU
+torquatus MMA
+Odontophori
+Galliformes Callipepla californica codorniz I
+dae
+jote de cabeza
+Cathartifor Cathartes aura N
+Cathartidae colorada
+mes
+Coragyps atratus jote de cabeza negra N
+Aves
+Accipitrifor Geranoaetus
+Accipitridae aguilucho N
+mes polyosoma
+Falconiform Caracara plancus traro N
+Falconidae
+es Milvago chimango tiuque N
+13
+================================================================================
+PAGE 17
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Especie Estado de Conservación Especi
+n e
+e
+Clase Orden Familia g Catego
+Nombre científico Nombre Común ir O Doc. Legal objeti
+ría
+vo
+Columbifor
+Columbidae Patagioenas araucana torcaza N LC DS N°16/2016
+mes
+Apodiforme Sephanoides
+Trochilidae picaflor chico N
+s sephaniodes
+Psittaciform Enicognathus
+Psittacidae cachaña N
+es ferrugineus
+Picoides lignarus carpinterito N
+Piciformes Picidae
+Colaptes pitius pitío N
+Hirundinidae Tachycineta meyeni golondrina chilena N
+Scytalopus fuscus churrín del norte E
+Eugralla paradoxa churrín de la mocha N
+Rhinocryptid Pteroptochos
+hued hued castaño N
+ae castaneus
+Pteroptochos tarnii hued hued del sur N LC DS N°79/2018
+Scelorchilus rubecola chucao N LC DS N°79/2018
+Thraupidae Phrygilus gayi cometocino de Gay N
+Fringillinae Spinus barbata jilguero N
+Sylviorthorhynchus
+colilarga N
+Passeriform desmursii
+es Furnariidae Pygarrhichas
+comesebo grande N
+albogularis
+Aphrastura spinicauda rayadito N
+Troglodytida
+Troglodytes aedon chercán N
+e
+Turdidae Turdus flacklandii zorzal N
+Emberizidae Zonotrichia capensis chincol N
+Icteridae Curaeus curaeus tordo N
+Elaenia albiceps fío fío N
+Tyrannidae Xolmis pyrope diucón N
+Anairetes parulus cachudito N
+Rodentia Cricetidae Abrothrix longipilis ratón lanudo común N LC DS N°19/2012 X
+Mamma Carnivora Canidae Lycalopex culpaeus zorro culpeo N LC DS N°33/2012
+lia
+DS
+Artiodactyla Cervidae Pudu puda pudú N VU
+N°151/2007
+Fuente: GAC
+14
+================================================================================
+PAGE 18
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Figura 4-2. Ejemplar de Eupsophus roseus (rana rosácea de hojarasca) registrado en el Área de Relocalización.
+Fuente: Registro fotográfico obtenido en terreno
+4.1.2 Abundancia relativa y densidad de especies objetivo
+De las especies de fauna objetivo, que fueron registradas en el área de relocalización, Liolaemus tenuis
+(lagartija esbelta) fue la más abundante con una abundancia relativa de 34,29%, y una densidad de 10
+individuos/hectárea. Le siguieron en orden decreciente: L. schroederii, L. pictus, L. lemniscatus; y E. roseus,
+junto a A. longipilis. La especie Pleurodema thaul fue registrada a partir de vocalizaciones, por lo tanto, no
+se pudo estimar su abundancia. En la Tabla 4-2 se señala la abundancia relativa y densidad de las especies
+objetivo de rescate.
+Tabla 4-2. Abundancia relativa (%) y densidad (individuos/hectárea) de las especies objetivo de relocalización
+Especie Abundancia Densidad
+Clase
+Nombre científico Nombre Común relativa (%) (individuos/hectáreas)
+Eupsophus roseus rana rosácea de hojarasca 4,29 1,25
+Amphibia
+Pleurodema thaul* sapito de cuatro ojos - -
+Liolaemus lemniscatus lagartija lemniscata 7,14 2,08
+Liolaemus pictus lagartija pintada 22,86 6,67
+Reptilia
+Liolaemus schroederi lagartija de Schröeder 27,14 7,92
+Liolaemus tenuis lagartija esbelta 34,29 10
+Mammalia Abrothrix longipilis ratón lanudo común 4,29 5,33
+*Evidencia indirecta
+Fuente: GAC
+15
+================================================================================
+PAGE 19
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+4.1.3 Capacidad de carga, áreas de relocalización
+La capacidad de carga para el área de relocalización se obtuvo a partir de las densidades máximas y media
+de las especies objetivo. La Tabla 4-3 muestra un resumen de la capacidad de carga de cada una de las
+especies objetivos. Cabe señalar que estos valores de capacidad de carga son referenciales, y al momento
+de realizar la relocalización se deben evaluar los sitios específicos y el ambiente donde los ejemplares
+serán liberados.
+Tabla 4-3. Número máximo de ejemplares por hectárea para liberar en el área de relocalización.
+e Capacidad de carga
+s a Especie objetivo Densidad máxima(ind/ha) Densidad media(ind/ha)
+lC (ind/ha)
+Eupsophus roseus 8,33 1,25 7,08
+Amphibia
+Pleurodema thaul* - - -
+Liolaemus lemniscatus 25 2,08 22,92
+Liolaemus pictus 66,67 6,67 60
+Reptilia
+Liolaemus schroederi 75 7,92 67,08
+Liolaemus tenuis 150 10 140
+Mammalia Abrothrix longipilis 16 5,33 10,67
+(*): Identificación de vocalizaciones.
+Fuente: GAC
+4.2 Ejemplares por capturar en cada ambiente de intervención del Proyecto
+El número de ejemplares a rescatar de las especies objetivo se calculó para la superficie que será
+intervenida por ambiente. Esto se estimó a partir de la densidad media, considerando un promedio de las
+cuatro campañas realizadas durante la caracterización de Línea de Base de fauna del Proyecto. A
+continuación, se detalla las especies objetivo y el número a capturar de dichas especies en cada ambiente
+de intervención
+Ambiente Bosque
+Las especies por captura con mayor número de ejemplares en el ambiente Bosque corresponde a Abrothrix
+olivaceus (ratón oliváceo) con 208 individuos, Abrothrix longipilis (ratón lanudo común) con 104 individuos
+y Liolaemus lemniscatus (lagartija lemniscata) con 72 individuos (Tabla 4-4).
+Tabla 4-4. Ejemplares por capturar por especie en ambiente Bosque
+Densidad media Superficie de N° ejemplares por
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Rana rosácea de
+Eupsophus roseus 0 25,94 0
+hojarasca
+16
+================================================================================
+PAGE 20
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Densidad media Superficie de N° ejemplares por
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Pleurodema thaul Sapito de cuatro ojos 0 25,94 0
+Liolaemus schroederi Lagartija de Schröeder 0 25,94 0
+Lagartija de vientre
+Liolaemus cyanogaster 0 25,94 0
+azul
+Liolaemus tenuis Lagartija esbelta 2,2 25,94 55
+Liolaemus lemniscatus Lagartija lemniscata 0,6 25,94 72
+Liolaemus chiliensis Lagarto chileno 0,28 25,94 7
+Liolaemus pictus Lagartija pintada 0 25,94 0
+Oligoryzomys
+Ratón de cola larga 0 25,94 0
+longicaudatus
+Abrothrix longipilis Ratón de pelo largo 4 25,94 104
+Abrothrix olivaceus Ratón oliváceo 8 25,94 208
+Ratón orejudo de
+Phyllotis darwini 0 25,94 0
+Darwin
+Dromiciops gliroides* Monito del monte 0 25,94 0
+Fuente: GAC
+Ambiente Matorral
+Las especies por capturar con mayor número de ejemplares en el ambiente matorral corresponden a
+Liolaemus tenuis (lagartija esbelta) con 70 individuos y Liolaemus lemniscatus (lagartija lemniscata) con 28
+individuos (Tabla 4-5).
+Tabla 4-5. Ejemplares que capturar por especie en ambiente Matorral
+Superficie de N° ejemplares que
+Nombre científico Nombre común Densidad (ind/ha)
+intervención (ha) capturar
+Rana rosácea de
+Eupsophus roseus 0 14,53 0
+hojarasca
+Pleurodema thaul Sapito de cuatro ojos 0 14,53 0
+Liolaemus schroederi Lagartija de Schröeder 0,4 14,53 6
+Lagartija de vientre
+Liolaemus cyanogaster 0,2 14,53 3
+azul
+Liolaemus tenuis Lagartija esbelta 4,8 14,53 70
+17
+================================================================================
+PAGE 21
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Superficie de N° ejemplares que
+Nombre científico Nombre común Densidad (ind/ha)
+intervención (ha) capturar
+Liolaemus lemniscatus Lagartija lemniscata 1,9 14,53 28
+Liolaemus chiliensis Lagarto chileno 0,4 14,53 6
+Liolaemus pictus Lagartija pintada 0,4 14,53 6
+Oligoryzomys
+Ratón de cola larga 0 14,53 0
+longicaudatus
+Abrothrix longipilis Ratón de pelo largo 0 14,53 0
+Abrothrix olivaceus Ratón oliváceo 0 14,53 0
+Ratón orejudo de
+Phyllotis darwini 0 14,53 0
+Darwin
+Dromiciops gliroides* Monito del monte 2 14,53 29
+Fuente: GAC
+Ambiente Modificado
+Las especies por capturar con mayor número de ejemplares en el ambiente Modificado corresponden a
+Liolaemus tenuis (lagartija esbelta) con 47 individuos y Liolaemus chiliensis (Lagarto chileno) con 21
+individuos, (Tabla 4-6).
+Tabla 4-6. Ejemplares por capturar por especie en ambiente Modificado
+Densidad media Superficie de N° ejemplares que
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Rana rosácea de
+Eupsophus roseus 0,8 12,75 10
+hojarasca
+Pleurodema thaul Sapito de cuatro ojos 0 12,75 0
+Liolaemus schroederi Lagartija de Schröeder 0,4 12,75 5
+Lagartija de vientre
+Liolaemus cyanogaster 0 12,75 0
+azul
+Liolaemus tenuis Lagartija esbelta 3,8 12,75 47
+Liolaemus lemniscatus Lagartija lemniscata 1,3 12,75 16
+Liolaemus chiliensis Lagarto chileno 1,7 12,75 21
+Liolaemus pictus Lagartija pintada 0 12,75 0
+Oligoryzomys
+Ratón de cola larga 0 12,75 0
+longicaudatus
+18
+================================================================================
+PAGE 22
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Densidad media Superficie de N° ejemplares que
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Abrothrix longipilis Ratón de pelo largo 0 12,75 0
+Abrothrix olivaceus Ratón oliváceo 0 12,75 0
+Ratón orejudo de
+Phyllotis darwini 0 12,75 0
+Darwin
+Dromiciops gliroides* Monito del monte - 12,75 0
+Fuente: GAC
+Ambiente Plantación
+Las especies por capturar con mayor número de ejemplares en el ambiente Plantación corresponde a
+Abrothrix olivaceus (ratón oliváceo) con 144 individuos y Abrothrix longipilis (ratón lanudo común) con 85
+individuos. La especie Dromiciops gliroides (monito del monte) fue registrada de forma indirecta, por lo
+tanto, no se pudo estimar el número de ejemplares a capturar (Tabla 4-7).
+Tabla 4-7. Ejemplares por capturar por especie en ambiente Plantación
+Densidad media Superficie de N° ejemplares que
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Rana rosácea de
+Eupsophus roseus 0,8 87,68 70
+hojarasca
+Pleurodema thaul Sapito de cuatro ojos 0 87,68 0
+Liolaemus schroederi Lagartija de Schröeder 0,4 87,68 35
+Lagartija de vientre
+Liolaemus cyanogaster 0 87,68 0
+azul
+Liolaemus tenuis Lagartija esbelta 3,8 87,68 333
+Liolaemus lemniscatus Lagartija lemniscata 1,3 87,68 114
+Liolaemus chiliensis Lagarto chileno 1,7 87,68 149
+Liolaemus pictus Lagartija pintada 0 87,68 0
+Oligoryzomys
+Ratón de cola larga 0 87,68 0
+longicaudatus
+Abrothrix longipilis Ratón de pelo largo 0 87,68 0
+Abrothrix olivaceus Ratón oliváceo 0 87,68 0
+Ratón orejudo de
+Phyllotis darwini 0 87,68 0
+Darwin
+19
+================================================================================
+PAGE 23
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Densidad media Superficie de N° ejemplares que
+Nombre científico Nombre común
+ambiente (ind/ha) intervención (ha) capturar
+Dromiciops gliroides* Monito del monte 13,6 87,68 122
+Fuente: GAC
+5 ANÁLISIS DE RESULTADOS Y CONCLUSIONES
+5.1 Áreas por rescatar, ambientes presentes y especies objetivo.
+Las áreas de rescate corresponden con aquellas obras del proyecto con extensión areal cuyo impacto sea
+la pérdida de ejemplares por remoción total de refugios, estas obras deben cubrir una superficie igual o
+mayor a tres hectáreas.
+De acuerdo con lo anterior se distinguieron siete obras areales de intervención: Planta de Procesamiento,
+Stockpile, ZE Luna, ZE Victoria Norte, ZE Maite, ZD Neptuno y Zonas de Acopio de Suelo Vegetal (ZAV).
+Todas las áreas suman una superficie de intervención de 140,75 hectáreas, dividida en cuatro ambientes:
+Bosque, Plantación, Matorral y Plantación, siendo este último el que posee una mayor superficie de
+intervención.
+Con respecto a las especies objetivo, estas correspondieron a aquellas clasificadas en alguna categoría de
+amenaza y/o especies de baja movilidad, en particular anfibios. De acuerdo con esto, las especies objetivo
+a relocalizar correspondieron a dos anfibios, seis reptiles y cinco micromamíferos (13 especies). De éstas,
+sólo Liolaemus cyanogaster (lagartija de vientre azul) se encuentran catalogadas como Vulnerable (D.S.
+16/2016 MMA).
+El ambiente con mayor cantidad de ejemplares a rescatar corresponde al ambiente Plantación donde se
+presenta vegetación exótica como Eucalyptus globulus y Pinus radiata. Luego, el ambiente Bosque sigue
+con un mayor número de individuos por rescatar, donde es posible encontrar formaciones vegetales de
+bosques asilvestrados y bosques nativos. Por otra parte, la especie objetivo con mayor número de
+individuos a rescatar corresponde al ratón oliváceo (Abrothrix olivaceus) siendo la especie con mayor
+abundancia en el área de influencia.
+El número de ejemplares a rescatar en cada sector del Proyecto dependerá de la capacidad de carga del
+área de relocalización y de acuerdo con criterios de proximidad y similitud respecto del área de
+relocalización.
+20
+================================================================================
+PAGE 24
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+5.2 Área de relocalización, riqueza y densidad de especies y capacidad de carga
+de especies objetivo
+Se deben seleccionar áreas de relocalización ubicadas a una distancia estratégica que no permita el regreso
+de las especies relocalizadas, deben cumplir con características de similitud topográfica y similitud de
+ambientes que asegure la disponibilidad de refugios y alimento para los ejemplares relocalizados y debe
+ser igual o superior en superficie al área de intervención del Proyecto. Además, deben contener a la
+especie objetivo a relocalizar y una composición taxonómica similar a las áreas de intervención. De
+acuerdo con lo anterior, el sitio de relocalización elegido corresponde al Parque Nonguén, ubicado a
+aproximadamente 14 kilómetros de las áreas de rescate.
+El área de relocalización presenta ambientes de tipo Bosque nativo y Bosque mixto, algunos con presencia
+de pinos. Debido a las características del lugar y su cobertura, presenta gran cantidad de refugios y
+disponibilidad de alimento para fauna. Se registraron 40 especies de fauna, de éstas, nueve son de baja
+movilidad. De ellas tres anfibios: Pleurodema thaul (sapito de cuatro ojos), Eupsophus roseus (rana rosácea
+de hojarasca) con una densidad media de 1,25 ind/ha y Eupsophus vertebralis (rana grande de hojarasca);
+cinco reptiles: Liolaemus lemniscatus (lagartija lemniscata) con una densidad media de 2,08 ind/ha,
+Liolaemus pictus (lagartija pintada) con una densidad media de 6,67 ind/ha, Liolaemus schroederi (lagartija
+de Schroeder) con una densidad media de 7,92 ind/ha, Liolaemus tenuis (lagartija esbelta) con una
+densidad media de 10 ind/ha y Pristidactylus torquatus (gruñidor del sur) y un mamífero: Abrothrix
+longipilis (ratón lanudo común) con una densidad media de 5,33 ind/ha. El resto de las especies (31)
+corresponden a animales de alta movilidad, 29 pertenecen a la clase aves y 2 son mamíferos: Lycalopex
+culpaeus (zorro culpeo) y Pudu puda (pudú).
+Al comparar la riqueza de especies objetivo en el sitio de rescate y el sitio de relocalización, se observa
+que seis de las 13 especies objetivo no fueron registradas en el área de relocalización: Liolaemus chiliensis
+(lagarto chileno), Liolaemus cyanogaster (lagartija de vientre azul) y los micromamíferos Abrothrix
+olivaceus (ratón oliváceo), Phyllotis darwini (ratón orejudo de Darwin), Oligoryzomys longicaudatus (ratón
+de cola larga) y Dromiciops gliroides (monito del monte). Además, Liolaemus chiliensis presentó una baja
+abundancia en el ambiente Bosque, encontrándose mayormente en el ambiente modificado durante la
+realización de la Línea de Base (Capítulo 3 del EIA). Por otro lado, Liolaemus cyanogaster fue la especie
+registrada de menos abundancia.
+21
+================================================================================
+PAGE 25
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+6 REFERENCIAS BIBLIOGRAFICAS
+Decreto Supremo N°05/1998. Reglamento de la Ley de Caza. Ministerio de Agricultura. Santiago, Chile.
+Decreto Supremo N°75/2005. Chile. Aprueba reglamento para la clasificación de especies silvestres.
+Ministerio Secretaría General de la Presidencia. Santiago, Chile.
+Decreto Supremo N°151/2006. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, primer proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 24 de marzo de 2007.
+Decreto Supremo N°50/2008. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, segundo proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 30 de junio de 2008.
+Decreto Supremo N°51/2008. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, tercer proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 30 de junio de 2008.
+Decreto Supremo N°23/2009. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, cuarto proceso. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario
+Oficial, 7 de mayo de 2009.
+Decreto Supremo N°33/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, quinto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 27 de febrero
+2012.
+Decreto Supremo N°41/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, sexto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de abril de
+2012.
+Decreto Supremo N°42/2011. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, séptimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de abril
+de 2012.
+Decreto Supremo N°19/2012. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, octavo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 11 de febrero
+de 2013.
+Decreto Supremo N°13/2013. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, noveno proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 25 de julio
+de 2013.
+22
+================================================================================
+PAGE 26
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Decreto Supremo N°52/2014. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 29 de agosto
+de 2014.
+Decreto Supremo N°38/2015. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, undécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 4 de
+diciembre de 2015.
+Decreto Supremo N°16/2016. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, duodécimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 16 de
+septiembre 2016.
+Decreto Supremo N°06/2017. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo tercer proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 02 de
+junio 2017.
+Decreto Supremo N°79/2018. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo cuarto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 02
+de agosto 2018
+Decreto Supremo N°23/2019. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo quinto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 30
+de julio de 2019.
+Decreto Supremo N°16/2020. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo sexto proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 03 de
+agosto 2020.
+Decreto Supremo N°44/2021. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo séptimo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 12
+de octubre 2021.
+Decreto Supremo N°10/2023. Chile. Aprueba y oficializa clasificación de especies según estado de
+conservación, décimo octavo proceso. Ministerio del Medio Ambiente. Santiago, Chile. Diario Oficial, 06
+de octubre 2023.
+Demangel, D. 2016. Reptiles en Chile. Fauna Nativa Ediciones, 619 pp.
+Iriarte, A. 2008. Mamíferos de Chile. Lynx Edicions. Barcelona, España. 420 pp.
+Mella, J. 2017. Guía de Campo de Reptiles de Chile. Tomo 2: Zona Norte. Peñaloza A.P.G. (ed.). Santiago,
+Chile. 316 pp.
+23
+================================================================================
+PAGE 27
+================================================================================
+Apéndice 10-9.1
+Caracterización de áreas de relocalización Fauna
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+Tierras Raras
+Pincheira-Donoso, D. y H. Núñez. 2005. Las especies chilenas del género Liolaemus Wiegmann, 1834
+(Iguania: Tropiduridae: Liolaeminae). Taxonomía, sistemática y evolución. Publicación ocasional del Museo
+Nacional de Historia Natural, Chile 59: 7-486 pp.
+Servicio de Evaluación Ambiental (SEA). 2022. Guía trámite PAS artículo 146 Reglamento del SEIA para
+realizar actividades de caza o captura de ejemplares de animales de especies protegidas para fines de
+investigación, para el establecimiento de centros de reproducción o criaderos y para la utilización
+sustentable del recurso. Chile, 30 p.
+Servicio de Evaluación Ambiental (SEA). 2022. Criterio de Evaluación en el SEIA: Criterios técnicos para la
+aplicación de la medida de rescate y relocalización. Chile, 6 p.
+Torres-Mura, J.C., E. Riveros-Riffo & V. Escobar-Gimpel. 2014. Guía técnica para implementar medidas de
+rescate/ relocalización y perturbación controlada. Servicio Agrícola y Ganadero. Chile, 45 p.
+24

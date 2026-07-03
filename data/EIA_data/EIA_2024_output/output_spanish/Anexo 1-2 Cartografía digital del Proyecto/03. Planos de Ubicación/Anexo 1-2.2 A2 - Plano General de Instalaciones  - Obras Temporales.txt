@@ -1,0 +1,95 @@
+
+================================================================================
+PAGE 1
+================================================================================
+681450 681600 681750 681900
+Proyecto de Desarrollo Minero de Extracción de Arcillas
+para la Producción de Concentrado de Tierras Raras
+Plano de Emplazamiento Obras Temporales
+Instalación de Faenas
+Ubicación General
+!(
+2
+!(
+1
+!(
+3
+!(
+O 4
+LEYENDA
+M !(
+5
+K
+J
+I
+H
+G
+F
+Q
+R T
+!(
+S 6 !(
+7
+D N L !(
+E
+8
+!(
+10
+C
+B
+A
+!(
+9
+DATOS CARTOGRÁFICOS Y GEODÉSICOS FUENTE CARTOGRÁFICA
+Coordenadas UTM Cartografía del Proyecto
+Datum WGS 84 Huso 18S Levantamiento del Proyecto
+ESCALA LÁMINA:
+U
+1 de 1
+Tamaño Hoja: A2
+ELABORADO POR: ELABORADO PARA:
+0520395
+0010395
+0599295
+¯
+Ubicación Regional Ubicación Comunal
+Ubicación Regional Ubicación Comunal
+Región del Biobío Área de Interés
+Otras Regiones Comuna de Penco
+Otras Comunas
+P
+!(
+Vértices Ubicación Instalación de Faenas
+Obras Temporales
+Área de Instalación de Faenas
+ID Nombre Instalación
+Nombre Vértices Norte Este
+A Área Residuos No Peligrosos
+1 5.930.227 681.509
+B Área Residuos Sólidos Domiciliarios
+2 5.930.257 681.572
+C Área Residuos Peligrosos 3 5.930.217 681.604
+D Primeros Auxilios/Brigada de Emergencias 4 5.930.195 681.649
+Instalación 5 5.930.178 681.695
+E Área de Comedor
+de Faenas 6 5.930.108 681.687
+F Área Baños y Sala de Cambio
+7 5.930.104 681.770
+G Área Oficinas
+8 5.930.091 681.918
+H Área Taller de Trabajo 9 5.930.010 681.840
+I Bodega de Almacenamiento de Materiales 10 5.930.077 681.665
+J Oficina Patio de Acopio de Materiales y Equipo Men
+K Área Estación de Combustible
+L Planta Tratamiento Aguas Servidas
+M Estacionamiento Buses y Equipo
+N Estanque de Agua
+O Patio de Acopio de Materiales y Equipos
+0 12,5 25 50 75 100
+P Generador de Emergencia
+metros
+Q Transformador de Potencia
+R Tablero General
+S Estacionamiento Camionetas
+T Área Estanque Agua Potable 40m3
+U Garita de Acceso

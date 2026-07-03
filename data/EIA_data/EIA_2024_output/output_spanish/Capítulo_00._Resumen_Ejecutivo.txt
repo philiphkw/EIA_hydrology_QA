@@ -1,0 +1,1907 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Resumen Ejecutivo
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región de Biobío
+Junio, 2024
+Elaborado por:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia, Santiago,
+Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+INDICE GENERAL
+1 DESCRIPCIÓN DE PROYECTO .......................................................................................................................... 1
+1.1 Identificación del titular y representante legal ............................................................................................ 1
+1.2 Antecedentes generales del Proyecto .......................................................................................................... 1
+1.3 Desarrollo del Proyecto o Actividad por Etapas ........................................................................................... 2
+1.4 Localización del Proyecto ............................................................................................................................. 2
+1.5 Descripción de las Partes, Acciones y Obras Físicas del Proyecto ................................................................ 2
+1.6 Descripción de la Fase de Construcción ....................................................................................................... 3
+1.7 Descripción de la Fase de Operación ............................................................................................................ 4
+1.8 Descripción de la Fase de Cierre ................................................................................................................... 7
+2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA DEL PROYECTO .............................................. 7
+3 LÍNEA DE BASE ............................................................................................................................................. 11
+4 PREDICCIÓN Y EVALUACIÓN DE IMPACTO AMBIENTAL ................................................................................ 16
+4.1 Resumen de impactos significativos ........................................................................................................... 16
+5 DESCRIPCIÓN DE EFECTOS, CARACTERÍSTICAS Y CIRCUNSTANCIAS DEL ARTÍCULO 11 DE LA LEY N° 19.300 . 18
+6 POTENCIALES RIESGOS QUE EL PROYECTO O ACTIVIDAD PODRÍA GENERAR EN LA SALUD DE LAS PERSONAS .
+.................................................................................................................................................................... 19
+7 PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN ........................................................ 20
+7.1 Plan de medidas de mitigación ................................................................................................................... 20
+7.2 Plan de medidas de compensación ............................................................................................................ 21
+7.3 Plan de medidas de reparación .................................................................................................................. 22
+8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS ...................................................................... 22
+9 PLAN DE SEGUIMIENTO DE LAS VARIABLES AMBIENTALES RELEVANTES ..................................................... 22
+9.1 Plan de Seguimiento ................................................................................................................................... 22
+10 PLAN DE CUMPLIMIENTO DE LA LEGISLACIÓN AMBIENTAL APLICABLE ........................................................ 27
+11 COMPROMISOS AMBIENTALES VOLUNTARIOS ............................................................................................ 31
+i
+================================================================================
+PAGE 3
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+1 DESCRIPCIÓN DE PROYECTO
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado de Tierras Raras, en
+adelante, indistintamente, el “Proyecto”, corresponde al conjunto de partes, obras y acciones que permitirán la
+construcción, operación y cierre de una faena minera y una planta de procesamiento de arcillas, material presente
+en la zona, el cual, por efectos naturales, se encuentra altamente meteorizado, con presencia de tierras raras en los
+minerales de arcilla. El Proyecto se desarrollará principalmente en la comuna de Penco, Provincia de Concepción,
+Región del Biobío, sin perjuicio que parte de las obras se emplazan en la comuna de Concepción, en el límite con la
+Comuna de Penco.
+La planta de procesamiento tendrá una capacidad para procesar hasta 320 toneladas/hora de arcilla húmeda y
+producir aproximadamente 3.100 toneladas húmedas anuales de concentrado de Tierras Raras, equivalente a 1.700
+toneladas secas anuales de concentrado de Tierras Raras. Sumado a lo anterior, en síntesis, el Proyecto considera tres
+zonas de extracción de arcillas (denominadas Victoria Norte, Luna, y Maite), una zona de disposición para lastre y
+arcillas lavadas (denominada Neptuno), una zona de acopio de suelo vegetal, un stockpile, una línea eléctrica de 15
+kV y su conexión a línea existente, y la construcción de caminos internos para acceder a las distintas áreas. Además,
+se considera la modificación de un tramo existente de aproximadamente 1,22 km de un oleoducto de propiedad de
+ENAP. El Proyecto, a su vez, cuenta con la implementación de obras temporales correspondiente a instalaciones de
+faenas, para la construcción y habilitación de sus obras.
+1.1 Identificación del titular y representante legal
+La Identificación de Titular es: REE Uno SpA, Rol único Tributario 76.181.614-4, Dirección Las Heras 565, Penco;
+Teléfono +569 91855690, e-mail: nelson.donoso@aclara-re.com. El Representante Legal es Nelson Horacio Donoso
+Navarrete, cédula de identidad N°10.521.725-0, e-mail nelson.donoso@aclara-re.com, Dirección Las Heras 565,
+Penco, Teléfono +569 91855690. Los antecedentes legales de su representante legal se adjuntan en el Anexo 1-1
+“Antecedentes Legales” del presente EIA.
+1.2 Antecedentes generales del Proyecto
+• El Nombre del Proyecto es “Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+• Objetivo del Proyecto: producir concentrado de tierras raras mediante la construcción y operación de una
+faena minera y una planta de procesamiento.
+• Tipología Principal: i.1. Se entenderá por proyectos de desarrollo minero aquellas acciones u obras cuyo fin
+es la extracción o beneficio de uno o más yacimientos mineros y cuya capacidad de extracción de mineral es
+superior a cinco mil toneladas mensuales (5.000 t/mes).
+• Tipología secundaria: i.3. Se entenderá por proyectos de disposición de residuos y estériles aquellos en que
+se dispongan residuos masivos mineros resultantes de la extracción o beneficio, tales como estériles,
+minerales de baja ley, residuos de minerales tratados por lixiviación, relaves, escorias y otros equivalentes,
+que provengan de uno o más proyectos de desarrollo minero que por sí mismos o en su conjunto tengan una
+capacidad de extracción considerada en la letra i.1. anterior.
+ñ.4. Producción, disposición o reutilización de sustancias corrosivas o reactivas que se realice durante un
+semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a ciento veinte
+mil kilogramos diarios (120.000 kg/día).
+1
+================================================================================
+PAGE 4
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Capacidad de almacenamiento de sustancias corrosivas o reactivas en una cantidad igual o superior a ciento
+veinte mil kilogramos (120.000 kg).
+• Monto estimado de la inversión: ciento treinta (130) millones de dólares de los Estados Unidos de América
+(USD).
+• Vida útil del Proyecto: 9 años comprendidos preliminarmente (post obtención de la RCA y los permisos
+correspondientes y una vez se inicie su ejecución) entre los años 2026 y 2034 (fase de construcción,
+operación y cierre).
+1.3 Desarrollo del Proyecto o Actividad por Etapas
+De acuerdo al artículo 14 del D.S. N° 40/12 MMA, se informa que el Proyecto se realizará por etapas. En efecto, el
+presente proyecto corresponde a la etapa inicial del Proyecto, con el cual, una vez aprobado y tramitado todos los
+permisos aplicables, será posible dar inicio a su ejecución de manera oportuna. La etapa dos del proyecto,
+correspondiente a la explotación del resto de las zonas de extracción quedará supeditada a la obtención de los
+respectivos permisos y a la factibilidad técnica y económica, con lo cual, se señala expresamente que el Proyecto se
+plantea por etapas, tal como lo admite la legislación nacional y lo exige el artículo 14 del Reglamento del SEIA,
+correspondiendo el presente EIA a la primera etapa.
+1.4 Localización del Proyecto
+El Proyecto se emplaza principalmente en la Comuna de Penco, Provincia de Concepción, Región del Biobío, sin
+embargo, parte de superficie de las zonas de extracción Maite y Luna, así también como la modificación de una parte
+del trazado existente del oleoducto Hualpén – San Fernando de ENAP, se emplaza en la comuna de Concepción, en
+el límite con la comuna de Penco.
+1.5 Descripción de las Partes, Acciones y Obras Físicas del Proyecto
+Tipo de obra o
+Sector Componentes principales
+instalación
+Temporales
+Las IdF considera los siguientes elementos: Área de oficinas, Bodega de
+almacenamientos de materiales, Patio de acopio de materiales y equipos
+mayores, Área taller de trabajo, comedor, Área Baños y Sala de Cambio,
+Planta Tratamiento de Aguas Servidas (PTAS), estacionamientos, área de
+Instalación de Faenas (IdF)
+primeros auxilios, grupo electrógenos, estanque de agua potable, patio de
+residuos e instalación para suministro de combustible, garita de acceso, entre
+otros. Los detalles se presentan en el Capítulo 1 del EIA, Descripción de
+Proyecto.
+Permanentes
+Tendrá una capacidad para procesar en forma continua hasta 320 t/h de
+arcillas y se contempla su operación 24 horas al día por 365 días al año. Se
+estima que el procesamiento anual no superará los 2,8 millones de toneladas
+húmedas (Mt). Algunas de las instalaciones que forman parte de las planta
+de procesamiento son las siguientes: Cilindro Lavador, Harneros,
+Planta de procesamiento. Espesadores, Área Sistema de recuperación de Agua, Área preparación de
+reactivos, Área de almacenamiento de reactivos, Bodega de Sustancias
+Peligrosas, laboratorio, Área almacenamiento y preparación de muestras de
+laboratorio, sala eléctrica y generadores, Área Almacenamiento de
+Repuestos Plantas, Edificio administrativo y sala de control, Área Filtros de
+Vela y Decanter, Edificio filtros prensa, estacionamiento vehículos, estanque
+2
+================================================================================
+PAGE 5
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tipo de obra o
+Sector Componentes principales
+instalación
+de agua potable, estanque de agua industrial para proceso, estanques de
+ácido sulfúrico, estanque de amoniaco, Bodega de Producto terminado, sala
+compresores, Área de Servicios Mineros, entre otras. Ver más detalle en el
+Capítulo 1 Descripción de Proyecto.
+El Proyecto considera dos (2) accesos desde diferentes puntos, los que se
+mantendrán señalizados y contarán con un control permanente para impedir
+el paso de personas ajenas al Proyecto. Los accesos al Proyecto corresponden
+a los que se indican a continuación:
+• Acceso 1 - Ruta 150 km 4, Ruta Concepción – Penco.
+Accesos, Caminos Internos
+• Acceso 2 - Ruta 152 km 71 Ruta del Itata (acceso norte y sur, del
+y empalme a ruta 152
+Paso El Cabrito).
+El Proyecto además considera caminos internos, los que aportarán a la
+conectividad de la operación al interior de la faena.
+Los cruces de quebradas de los caminos internos se materializarán ya sea por
+medio de cajones, alcantarillas u obras de arte.
+Se considera la habilitación de una la línea de transmisión eléctrica (LTE) que
+Línea eléctrica para
+conectará la Planta de Procesamiento con un alimentador ubicado en el km
+energización Planta de
+71 de la ruta 152, en una tensión de 15 kV construida sobre estructuras de
+procesamiento
+postes de hormigón.
+El Proyecto contará con una (1) zona de acopio de suelo vegetal (ZAV), con el
+Zona de acopio de suelo
+objeto de contar con un área que permita el manejo de materiales asociados
+vegetal (ZAV)
+al escarpe de las zonas de extracción, disposición y planta de procesamiento.
+Para la extracción de las arcillas se han establecido 3 sectores denominados
+Zonas de extracción (ZE)
+Zonas de Extracción (ZE): ZE Victoria Norte, ZE Luna, ZE Maite.
+Para la disposición de lastre proveniente de las ZE, y de las arcillas lavadas
+Zona de disposición (ZD) provenientes de la Planta, se ha establecido un (1) sector, denominado Zona
+de Disposición (ZD) Neptuno.
+1.6 Descripción de la Fase de Construcción
+La fase de construcción del Proyecto (25 meses), comenzará con la IdF la que se ubicará al interior del polígono que
+delimita la plataforma donde se construirá la Planta de Procesamiento. La IdF estará destinada a ser parte de una
+instalación que permitirá materializar el desarrollo de la construcción de todas las partes de la planta de
+procesamiento, entre las cuales se identifican: oficinas administrativas, comedor, sala de cambio, patio de residuos,
+entre otras. Adicionalmente, se utilizará un área anexa para la disposición de bodegas de almacenamiento y talleres,
+la cual además servirá para la disposición de equipos e instalaciones provisorias para iniciar los trabajos tempranos.
+Para iniciar las obras de construcción, posterior a la obtención de permisos ambientales y sectoriales, se realizará un
+replanteo topográfico. En paralelo con lo anterior, se realizará la preparación del terreno correspondiente a la corta
+y despeje de vegetación y/o plantaciones forestales que se encuentren en los sectores que requieran ser habilitadas
+durante la fase de construcción. Posterior a la corta de vegetación en las áreas de las distintas partes y obras del
+Proyecto a ser habilitadas durante la fase de construcción, se requerirá realizar movimientos de tierra y nivelación
+para la preparación de estas áreas. Durante la fase de construcción del Proyecto, se realizará la habilitación de la
+zona de extracción (ZE) Victoria Norte y Luna, zona de disposición (ZD) Neptuno y Zona de Acopio de suelo Vegetal
+(ZAV), las que estarán activas durante el primer año de la fase de operación. Durante la fase de construcción se
+contempla la habilitación del empalme con la Ruta 152, junto con su línea de transmisión eléctrica y el mejoramiento
+de caminos existentes que conecten las primeras zonas de operación del Proyecto, se contempla la utilización de
+caminos internos existentes que serán mejorados y la habilitación de caminos nuevos. La construcción de las obras
+de cruce de caminos sobre quebradas corresponde a una actividad que se realizará tanto en la fase de construcción
+como en la fase de operación del Proyecto, conforme al cronograma de operación de las ZE. También, se considera
+la habilitación del acceso al norte y sur de la Ruta 152 para conectar la planta de procesamiento con esta ruta. La
+habilitación de la línea de transmisión eléctrica (LTE), se conectará mediante un empalme desde la Planta de
+3
+================================================================================
+PAGE 6
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Procesamiento a una línea existente de la empresa CGE. La construcción de la Planta de Procesamiento consiste
+principalmente en la ejecución de todas las obras civiles de las fundaciones, ya sean excavaciones locales, instalación
+de acero de refuerzo para concreto, moldajes y radieres para la construcción y montaje de las dependencias del
+Proyecto. Se acondicionará el terreno, realizando escarpe, corte y relleno de material para la posterior ejecución de
+radieres e instalación de los módulos correspondientes, los estacionamientos tanto de camiones como de vehículos
+menores. La construcción de canales de evacuación y canales de contorno corresponde a una actividad que se
+realizará de manera progresiva dentro de cada ZE, ZAV y de la ZD mientras se encuentren en operación, conforme al
+avance en la explotación o disposición en cada zona, conforme al cronograma de operación del Proyecto. Asociado
+al escarpe de suelo a realizar en las ZE y ZD, durante la fase de construcción se habilitará la zona de acopio de suelo
+vegetal, donde se almacenará el suelo de escarpe para su posterior re-disposición en los sectores a revegetar. Una
+vez finalizada la fase de construcción, se procederá al desarme y retiro de las instalaciones temporales del Proyecto
+secuencialmente de acuerdo con el avance constructivo. Para el desarrollo de la fase de construcción se considera
+en promedio 313 personas, con un máximo de 745 trabajadores. La energía eléctrica será proporcionada a partir de
+un empalme provisorio con la línea eléctrica ubicada en el km 71 Ruta 152 de propiedad de CGE. El suministro de
+combustible será a través de camiones de 10 m3 a la estación de combustible a los frentes de trabajo y a la estación
+de combustible ubicada en la Idf. El suministro de hormigón será proporcionado por un tercero autorizado, lo mismo
+para el caso del acero de refuerzo para hormigones y estructuras metálicas. El agua industrial será proporcionada
+por medio de camiones aljibes; el agua potable se realizará a través de la habilitación 1 estanque de almacenamiento
+de agua potable de 50 m3 cuyo abastecimiento se realizará mediante camiones aljibes y contarán con un sistema
+simple de cloración de agua. Se utilizarán baños químicos para el personal en obra. Conforme con el desarrollo de
+las obras de instalación de faena, se implementarán oficinas modulares con servicios higiénicos de carácter
+permanente. Se considera un comedor donde se abastecerá de alimentación por una empresa externa autorizada.
+Las actividades de construcción requerirán del apoyo de vehículos livianos y pesados para su ejecución. Respecto de
+las emisiones atmosféricas principalmente corresponden a material particulado generado por el tránsito de vehículos
+por caminos no pavimentados y excavaciones, las emisiones de gases serán generadas por la combustión de motores
+de maquinaria y operación de los generadores. El Proyecto contempla medidas de control a implementar en la fase
+de construcción para las emisiones. Las fuentes de ruido durante la fase de construcción corresponden a maquinaria
+pesada, debido a las actividades constructivas del Proyecto. Se contempla la generación de las siguientes clases de
+residuos: Residuos sólidos asimilables a domésticos (RSD), Residuos sólidos industriales no peligrosos (RSINP),
+Residuos líquidos domiciliarios (RLD) y Residuos industriales peligrosos (RESPEL). Todos los residuos serán
+almacenados de forma temporal en instalaciones especialmente habilitadas para ello, y serán trasladados y
+depositados en lugares que cuenten con las autorizaciones correspondientes.
+1.7 Descripción de la Fase de Operación
+El proceso general del Proyecto consiste en la extracción de arcillas desde las ZE por medio de excavadoras y su
+traslado en camiones por caminos internos a la planta de procesamiento. Por su parte, el lastre y las arcillas lavadas,
+son llevados a ZD. La operación de las zonas de extracción consiste en la extracción mecánica de las arcillas mediante
+el uso de excavadora hidráulica, sin uso de explosivos o tronaduras, debido a que estas se encuentran en un material
+meteorizado, y que corresponde a una unidad que se distribuye como un manto de espesor entre 40 a 60 metros de
+profundidad.
+Las arcillas que ingresan a la planta serán procesadas para la obtención de concentrado de tierras raras mediante el
+uso de agentes extractantes y precipitantes, involucrando procesos de intercambio iónico, filtrado, ajuste de pH,
+entre otros. Las soluciones obtenidas del proceso serán tratadas en un sistema de recuperación de agua para su
+posterior recirculación, logrando así un circuito totalmente cerrado sin generación de Residuos Industriales Líquidos
+(RILES).
+La fase de operación del Proyecto tendrá una duración de 6 años y considera una operación continua (planta, ZE, ZD)
+durante 365 días al año, las 24 horas al día, estimando un día por mes para actividades de mantención preventiva.
+Sin embargo, ello dependerá de las condiciones operacionales, específicamente, en el caso que el procesamiento
+4
+================================================================================
+PAGE 7
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+anual sea menor al esperado, esto conllevaría a que la operación de las Zonas de Extracción se extendería en el
+tiempo, teniendo en consideración que no será posible extraer mayor cantidad de arcilla que la capacidad de la ZD
+Neptuno permite disponer.
+Es importante tener en consideración que previo al inicio de las actividades, se delimitará una franja de seguridad en
+torno a los bosques nativos de preservación y/o individuos aislados en categoría de conservación (monumentos
+naturales): Los bosques nativos de preservación dentro del área de influencia están insertos en una matriz productiva
+de plantaciones forestales adultas de especies introducidas de rápido crecimiento (pino y eucalipto que han sido
+parcialmente cosechadas mediante tala rasa generando zonas descubiertas). Aunque las obras o actividades del
+Proyecto no contemplan la intervención de individuos de especies vegetales en categoría de conservación en bosque
+nativo, así como la unidad de bosque nativo de preservación que las alberga (Ver Capítulo 4 y 5), se considera la
+habilitación de una franja de seguridad desde el límite de la unidad de bosque nativo de preservación 30 metros
+hacia el exterior, que mantendrá una separación de carácter permanente entre estos bosques y cualquier actividad
+u obra del Proyecto. Esta medida tiene por finalidad garantizar que ninguna obra o actividad, de manera involuntaria
+o fortuita (caída de árbol, derrames de material, accidentes asociados a transporte, etc.) pudiera generar algún tipo
+de corta, eliminación, destrucción o descepado de la vegetación, de acuerdo con la definición de intervención
+contenida en la Guía para la solicitud de excepcionalidad del artículo 19 de la Ley 20.283.
+Características del material a disponer en la zona de disposición: En la ZD se dispondrán el lastre proveniente de las
+ZE y las arcillas lavadas provenientes de la Planta de procesamiento.
+Sobre el material presente en el lugar: Considerando las unidades litológicas que se encuentran en la zona del
+Proyecto y la mineralogía presente en éstas, se puede concluir que las rocas y el material generado por su
+meteorización no son generadores de acidez, ya que no contienen minerales sulfurados, esto según lo indicado en el
+Anexo 1-9 del EIA “Caracterización geoquímica del mineral de cabeza”.
+Características de las arcillas lavadas: provienen de un proceso de lavado en contracorriente que no requiere
+procesos de chancado y/o molienda, obteniéndose un material sólido que presentará un contenido de humedad de
+alrededor de un 20%, el cual será compactado en capas al momento de su disposición, conformando un relleno física
+y químicamente estable en la zona de disposición (ZD).
+Las acciones y/o actividades asociadas a la fase de operación son las siguientes:
+Escarpe zonas de extracción y zona de disposición: se realizará el escarpe en las zonas de extracción y en la zona
+disposición conforme al cronograma de operación. El escarpe consiste en la extracción de una capa de
+aproximadamente 30 cm de suelo, el cual será acopiado para su posterior empleo en el cierre de las áreas ya
+explotadas.
+Acopio de capa de suelo vegetal: Corresponden a un área de acopio temporal de la capa de suelo orgánica superficial
+que se extraerá, a medida que se avanza en superficie durante la operación del Proyecto.
+Extracción de lastre y arcillas desde zonas de extracción: se realizará desde las tres (3) zonas de extracción que
+contempla el Proyecto. La actividad de extracción consiste primeramente en el retiro de tocones presente en las ZE
+y la remoción de la capa de suelo superficial, la que será almacenada en un área de acopio temporal. Luego de
+despejada el área, se extrae el lastre, el que será enviado a la ZD. Finalmente, se comenzará con la extracción de las
+arcillas, para trasladarlas a la Planta de Procesamiento. Las ZE contarán con canales de contornos, canales
+evacuadores y obras de restitución de aguas lluvias a los cauces cercanos.
+Operación Planta de procesamiento: La Planta de procesamiento del Proyecto considera la producción de carbonato
+de tierras raras en forma de concentrado.
+5
+================================================================================
+PAGE 8
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+La materia prima para el proceso es la arcilla con tierras raras, el cual es recibido en la Planta y alimentado a la etapa
+de “Preparación y Clasificación” del material para la separación de material de mayor tamaño (sobre 1 mm). Luego,
+es alimentado a un circuito de “Extracción de Tierras Raras” de la cual se obtiene una solución que va a la etapa de
+“Precipitación de Impurezas” y una solución que se dirige a la etapa “Separación Sólido/Líquido y Lavado”. En esta
+etapa, se realiza una separación de sólido y líquido, generando por una parte arcillas lavadas que serán llevadas a la
+Zona de Disposición (ZD), una solución que va a la etapa de “Extracción de Tierras Raras” y una solución de lavado
+que se conduce al “Sistema de Recuperación de Agua”. La solución con tierras raras y purificada de impurezas
+continúa hacia el área de “Precipitación de Tierras Raras”, donde las tierras raras se precipitan y se separan para
+producir un concentrado de tierras raras, el cual es envasado, almacenado y posteriormente enviado a
+comercialización.
+Las fases líquidas obtenidas de los procesos de separación sólido/líquido son tratadas en un sistema de recuperación
+de agua para ser recirculadas al proceso con la finalidad de generar un circuito cerrado para recuperar agua y
+reactivos, optimizar la extracción del producto desde el material y disminuir el suministro necesario de agua en la
+planta de procesamiento, dejando así un consumo de agua industrial o “make up” reducido, en circuito cerrado y
+evitando que el Proyecto libere residuos líquidos industriales (RILes).
+Las sustancias químicas a utilizar son las siguientes: Bicarbonato de amonio, amoniaco anhidro, sulfato de amonio,
+Floculante, ácido sulfúrico, Permanganato de potasio, hidróxido de sodio, hidróxido de calcio, resinas de
+ablandamiento, ácido clorhídrico, sulfato de sodio, sulfato de potasio, sulfato de magnesio y carbonato de sodio.
+Disposición de arcillas lavadas y lastre en zona de disposición: corresponde a 1 área (ZD Neptuno) donde se
+dispondrán tanto las arcillas procesadas, como el lastre extraído de las zonas de extracción (ZE). El transporte de los
+materiales se realizará mediante camiones tolva empleando los caminos internos del Proyecto. Las obras anexas que
+consideran la ZD son: camino de acceso y sistema de manejo de aguas (canales de evacuación (CE) y canales de
+contorno (CC).
+La capacidad total de disposición será de aproximadamente 9,9 millones de m3. La mano de obra considerada en la
+fase de operación es en promedio 428 trabajadores, con un máximo total de 448. No se considera la habilitación de
+un campamento en el área del Proyecto.
+Las actividades de mantención del Proyecto durante la fase de operación consideran inspecciones continuas,
+mantenciones no programadas, mantenciones programadas y taller de reparaciones menores y lavado de equipos.
+La electricidad para la fase de operación será proporcionada a través de una línea de transmisión de 15 KV
+proveniente desde un empalme ubicado en la Ruta 152. Adicionalmente, se considera el uso de generadores para el
+respaldo de equipos principales, frente alguna interrupción del suministro de la red. El combustible será transportado
+en camiones hacia la estación de combustible. Además, se contará con un camión cisterna de 10 m3 que se desplazará
+por las instalaciones del Proyecto.
+El agua industrial se estima en un máximo de 36 m3/h para la planta de procesamiento, la cual será suministrada
+desde la planta Biobío y eventualmente parte de este suministro provendrá desde las instalaciones del CEMARC,
+transportada a través de camiones. El agua será almacenada en un estanque en el sector de la Planta de
+Procesamiento.
+El agua potable requerida por el Proyecto será suministrada mediante un camión cisterna el cual alimentará al
+estanque de agua potable para luego ser distribuida dentro de las instalaciones.
+Se considera la implementación de instalaciones sanitarias permanentes. Las aguas servidas generadas, serán
+tratadas en una PTAS, cuyo efluente se utilizará para la humectación de caminos interiores. El transporte y disposición
+final de los lodos sanitarios, se realizará a través de terceros autorizados.
+6
+================================================================================
+PAGE 9
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Las emisiones atmosféricas corresponden principalmente a material particulado, para lo cual se implementará
+medidas de control. En menor medida se considera emisiones de gases producto de la combustión de los motores
+de las maquinarias y vehículos a utilizar. Respecto a las emisiones acústicas y vibraciones se generarán principalmente
+por la utilización de maquinarias y equipos. Para la fase de operación se contempla la generación de residuos sólidos
+asimilables a domésticos (RSD), residuos sólidos industriales no peligrosos (RSINP), residuos líquidos domiciliarios
+(RLD) y residuos industriales peligrosos (RESPEL). Todos los residuos serán almacenados de forma temporal en
+instalaciones especialmente habilitadas para ello, y serán trasladados y depositados en lugares que cuenten con las
+autorizaciones correspondientes
+1.8 Descripción de la Fase de Cierre
+El Proyecto basa su diseño de cierre en las exigencias establecidas por el SERNAGEOMIN, particularmente por las
+condiciones de estabilidad física y química de sus instalaciones (principalmente ZE y ZD). Asimismo, el Plan de Cierre
+se enfoca en restaurar y rehabilitar, mediante la revegetación, la superficie que el Proyecto considera intervenir. Por
+otro lado, en el Anexo 10-3 se adjunta PASM 137 correspondiente al Permiso Ambiental Sectorial asociado a la
+aprobación del plan de cierre de una faena minera.
+La duración de la fase de cierre se estima en 12 meses, y se considera en promedio la mano de obra de 160 personas
+con un máximo de 230.
+Las principales emisiones atmosféricas corresponden a material particulado, cuyas medidas de control serán
+similares a las de la fase de construcción. En cuanto a las emisiones de gases, estas serán generadas principalmente
+por la operación de maquinaria durante la fase de cierre del Proyecto, los cuales serán controlados con la solicitud
+de la revisión técnica al día. Las emisiones acústicas y vibraciones se consideran menores a las estimadas para la fase
+de construcción. Se contempla la generación de las siguientes clases de residuos: Residuos sólidos asimilables a
+domésticos (RSD), Residuos sólidos industriales no peligrosos (RSINP), Residuos líquidos domiciliarios (RLD) y
+Residuos industriales peligrosos (RESPEL). Todos los residuos serán almacenados de forma temporal en instalaciones
+especialmente habilitadas para ello, y serán trasladados y depositados en lugares que cuenten con las autorizaciones
+correspondientes.
+2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA DEL PROYECTO
+Calidad del Aire:
+Determinación: Se define el área de influencia a partir de los receptores sensibles presentes en el entorno de las
+obras y actividades del Proyecto, y las variaciones en la calidad del aire basal producto de los aportes del Proyecto
+en sus distintas fases.
+Justificación: La consideración de la distribución de las obras del Proyecto y los receptores cercanos a éstas
+responde a la finalidad de evaluar los posibles efectos de productos de las emisiones de material particulado, y
+otros contaminantes (gases).
+Ruido y vibraciones:
+Determinación: El AI para ruido en receptores humanos se establece principalmente en función de la existencia
+de asentamientos o grupos humanos que potencialmente pueden ser afectados por el aumento de presión sonora.
+En este contexto, su delimitación geográfica considera el territorio donde el nivel de presión sonora generado por
+el Proyecto se iguala al menor de los niveles que caracterizan en condición basal (ruido de fondo) (SEA, 2019).
+Por otra parte, para el caso de vibraciones, se determina el área en la cual los niveles proyectados se igualan a los
+niveles que caractericen la situación “sin Proyecto”. No obstante lo anterior, la “Guía para la predicción y
+evaluación de impactos por ruido y vibración en el SEIA”, del Servicio de Evaluación Ambiental (SEA), 2019”, indica
+que para efectos de analizar los efectos de las vibraciones sobre las estructuras y receptores humanos, el rango
+de interés se sitúa entre 50 y 100 [VdB] (Hanson et al., 2006).
+7
+================================================================================
+PAGE 10
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+El área de influencia para fauna se establece principalmente en función de la existencia de ambientes de fauna
+terrestre que potencialmente pueden ser afectados por un aumento en los niveles de presión sonora. El área de
+influencia se define como “la extensión geográfica en donde se identifique una diferencia entre los niveles
+estimados de ruido con proyecto o actividad y el nivel de ruido de fondo representativo y característico del
+entorno donde se concentre fauna nativa asociada a hábitats de relevancia para su nidificación, reproducción o
+alimentación”1. De esta forma, el área de influencia se delimita por el nivel que, sumado al menor ruido de fondo
+de fauna que represente un hábitat de relevancia, no genera un cambio en el nivel total.
+Justificación: El área de influencia de ruido se establece principalmente en función de la existencia de
+asentamientos humanos que potencialmente pueden ser afectados por un aumento en los niveles de presión
+sonora.
+En este contexto, su delimitación geográfica considera el territorio donde el nivel de presión sonora generado por
+el Proyecto se iguala al menor de los niveles que caracterizan la situación basal (ruido de fondo)2.
+Geología:
+Determinación: El área de influencia para el componente geología del presente estudio corresponde al área
+superficial donde se llevará a cabo el Proyecto. Cabe destacar que la geología es poco susceptible a cambios a
+nivel micro y de acuerdo con el tipo de obras que considera el Proyecto no es susceptible a ser afectado.
+Justificación: Se define el área de influencia a partir de las obras y estructuras mismas del Proyecto ya que estas
+son las que se insertan en el suelo y/o subsuelo, en contacto directo con las unidades geológicas del área de
+interés.
+Geomorfología:
+Determinación: El área de influencia para el componente geormofología del presente estudio corresponde al área
+superficial donde se llevará a cabo el Proyecto. Cabe destacar que la geología es poco susceptible a cambios a
+nivel micro y de acuerdo con el tipo de obras que considera el Proyecto no es susceptible a ser afectado.
+Justificación: Se define el área de influencia a partir del entorno de las obras y estructuras mismas del Proyecto,
+ya que estas son las que se insertan en el suelo y/o subsuelo, en contacto directo con las unidades geomorfológicas
+presentes en el área de interés.
+Riesgos Geológicos y Geomorfológicos:
+Determinación: La definición del AI se realiza por medio de un análisis SIG, realizado a través del programa ArcGIS
+Pro 3.2 de las cuencas presentes en el área, y se le coteja con un análisis de la topografía con el objetivo de poder
+definir todas las áreas eventualmente aportantes a los procesos de remoción en masa (PRM).
+Justificación: El criterio empleado para determinar el Área de Influencia de los riesgos geológicos y
+geomorfológicos obedece en este caso a la posibilidad de ocurrencia de procesos de remoción en masa (PRM)
+gatillados a partir del desarrollo de las obras y maniobras implicadas durante la fase de desarrollo del Proyecto.
+Hidrología:
+Determinación: De acuerdo con lo establecido por el Artículo 19° letra b.1. del Reglamento del Sistema de
+Evaluación de Impacto Ambiental (RSEIA), a continuación, se define y justifica el área de influencia para la
+componente hidrológica, considerando los potenciales impactos ambientales al recurso hídrico.
+Justificación: Según lo indicado en la Guía para la Descripción del Área de Influencia (SEIA, 2017), se definió el área
+de influencia como el espacio geográfico comprendido por el emplazamiento de las obras definitivas, las que
+corresponden a la ubicación de canteras, planta de producción y caminos de acceso.
+Hidrogeología:
+Determinación: De acuerdo con lo indicado en la Guía para la Descripción del Área de Influencia (SEIA, 2017), se
+definió el área de influencia, la que considera el espacio geográfico comprendido por el emplazamiento de las
+obras del Proyecto: Zonas de Extracción (Maite, Victoria Norte y Luna), Zona de Disposición (Neptuno), zona de
+acopio vegetal, Planta de Procesamiento, Stockpile, y obras anexas necesarias para las distintas fases del Proyecto.
+1“Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre fauna nativa”, del Servicio de Evaluación Ambiental
+(SEA), 2022, en Capítulo 2.1
+2 “Guía para la predicción y evaluación de impactos por ruido y vibración en el SEIA”, del Servicio de Evaluación Ambiental (SEA),
+2019, en Capítulo 4.a
+8
+================================================================================
+PAGE 11
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Justificación: Según lo establecido por el artículo 18, letra d), del Reglamento del Sistema de Evaluación de
+Impacto Ambiental (RSEIA), a continuación, se define el área de influencia para la componente hidrogeológica,
+considerando los potenciales impactos ambientales al recurso hídrico.
+Recursos marinos: No se considera la definición de un área de influencia detallada, por no contemplarse un efecto
+del Proyecto en esta componente.
+Glaciares: No se considera la definición de un área de influencia detallada, por no contemplarse un efecto del
+Proyecto en esta componente.
+Suelos (Edafología):
+Determinación: El área de influencia del componente suelo se encuentra determinada por el espacio geográfico
+en el cual se emplazarán las partes, obras y/o acciones relacionadas con el Proyecto, y está directamente asociada
+a los efectos potenciales por la habilitación de obras temporales y permanentes, como pérdida, compactación,
+erosión y/o deterioro de las propiedades físicas, químicas y biológicas del suelo, como lo indica la “Guía para la
+descripción de los componentes suelo, flora y fauna de ecosistemas terrestres en el SEIA” del SEA (2015).
+Justificación El área de influencia del componente suelo corresponde a una superficie de 236,86 ha, las cuales se
+encuentran determinadas por el espacio geográfico en el cual se emplazarán las partes, obras y acciones
+contempladas en la construcción y operación del Proyecto.
+Plantas (Flora y vegetación):
+Determinación: El Área de Influencia (AI) corresponde a la extensión espacial en la cual se manifiestan los impactos
+ambientales del Proyecto en evaluación, y donde se establecen los límites espaciales de los receptores de
+vegetación y flora que deben ser caracterizados en la línea de base, para que la evaluación de impactos sea
+exhaustiva y completa.
+Justificación: Se determinó el área de influencia (AI) como la superficie que tendrá afectación directa por la
+materialización de las obras (sean obras temporales o permanentes), debido a que la construcción de estas tiene
+como efecto la remoción total o parcial de la vegetación y, por consiguiente, la pérdida de flora presente en el
+lugar. Esta superficie corresponde a las formaciones vegetacionales, cuya extensión se establece de acuerdo con
+los límites naturales dados por las características fisiográficas del terreno, tales como laderas, fondos de
+quebradas, cumbres, planicies, cambios de pendiente y exposición; como también, por limites artificiales como
+caminos, canales, áreas industriales, entre otras. De esta manera se caracteriza la flora y vegetación existente en
+el área de influencia para el análisis de afectación o inexistencia de efectos como indica la definición. De esta
+manera la superficie del AI corresponde a 673,62 hectáreas.
+Hongos y Líquenes:
+Determinación: El área de influencia (AI) corresponde a la extensión espacial en la cual se manifiestan los impactos
+ambientales directos que se pretenden evaluar, y se establece con la finalidad de definir si el proyecto o actividad
+genera o presenta alguno de los efectos, características o circunstancias del artículo N°11 de la Ley N°19.300, o
+bien para justificar la inexistencia de dichos efectos, características o circunstancias”, tal y como lo indica el artículo
+N°2, letra a) del D.S. N°40/2012, así como la Guía sobre el Área de Influencia en el SEIA, Resolución Exenta N°0423
+de la Dirección Ejecutiva del SEA, de fecha 26 de abril de 2017.
+Justificación: El AI corresponde a todas aquellas superficies en donde las partes, obras y acciones asociadas al
+Proyecto, tanto aquellas permanente como temporales, ejercerán acciones sobre estos organismos,
+principalmente aquellas obras a nivel de suelo que generen perdida de ejemplares. De acuerdo con esto el AI de
+Hongos y Líquenes alcanza las 673,62 hectáreas.
+Animales vertebrados (Fauna silvestre) y fauna invertebrada:
+Determinación: El área de influencia del Proyecto se ubica al interior de las comunas de Penco y Concepción, en
+la provincia de Concepción, Región de Biobío. El área donde se emplazará el Proyecto corresponde a un sector
+ubicado al este de la ruta 150 y además cruza la ruta 152 por la zona central del área; el Proyecto tiene una
+extensión aproximada de 3,0 km por 2,5 km, y un área de intervención de 169,19 ha. Para efectos de este estudio
+de línea de base, a esta área se le incluye un área buffer considerando un ancho aproximado de 200 m o más
+desde el límite de las áreas del Proyecto hacia el exterior, formando un polígono con una superficie total de 673,62
+hectáreas.
+Justificación: Para la definición y descripción del área de influencia del componente fauna vertebrada terrestre,
+se siguieron las directrices de la “Guía para la descripción de los componentes suelo, flora y fauna de ecosistemas
+9
+================================================================================
+PAGE 12
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+terrestres en el SEIA” (SEA 2015) y la “Guía para la descripción del área de influencia en el SEIA” (SEA 2017), las
+cuales consideran los siguientes aspectos: identificación preliminar de posibles efectos, extensión espacial de las
+partes, obras y/o actividades del Proyecto, el espacio geográfico de los elementos receptores de impactos,
+atributos relevantes y situación actual.
+Ecosistemas acuáticos:
+Determinación: El área de influencia para el componente ecosistemas acuáticos continentales corresponde al
+espacio geográfico, definido por 200 metros aguas arriba y 200 m aguas abajo, en donde el Proyecto interactúa
+con cursos de agua continentales por el desarrollo de sus obras, partes y actividades, en que se pudiere afectar el
+sistema hidrográfico de manera localizada.
+Justificación: Los criterios generales para la determinación del área de influencia se derivan del RSEIA, de las Guías
+emitidas por él SEA y, en particular, de los elementos indicados en la guía “Descripción de los componentes suelo,
+flora y fauna de ecosistemas terrestres en el SEIA (SEA, 2015).
+Ecosistemas marinos: No se considera la definición de un área de influencia detallada, por no contemplarse un
+efecto del Proyecto en esta componente.
+Patrimonio arqueológico:
+Determinación: la superficie de intervención total durante la vida útil del Proyecto y, por ende, el Área de
+Influencia considerada para el componente de Arqueología es de 169,19 ha3.
+Justificación: Para la definición del Área de Influencia del componente Patrimonio Cultural se utilizó la “Guía de
+Evaluación de Impacto Ambiental – Monumentos Nacionales pertenecientes al Patrimonio Cultural en el SEIA”
+(SEA, 2012) y la “Guía sobre el Área de Influencia en el Sistema de Evaluación de Impacto Ambiental” (SEA, 2017),
+ambas elaboradas por el Servicio de Evaluación Ambiental (SEA), las cuales permiten definir el área de influencia
+según lo indicado por el D.S. N°40/2012.
+Patrimonio paleontológico:
+Determinación: Para la línea base de la componente patrimonial paleontológica, el área de influencia subyace
+únicamente en las áreas de intervención del Proyecto: zonas de extracción (ZE), zona de depositación (ZD), zona
+de acopio vegetal (ZAV), área de planta de procesamiento, stockpile, caminos existentes a mejorar y caminos
+proyectados, abracando una superficie total de 169,19 hectáreas.
+Justificación: De acuerdo a lo dispuesto en el Título I, artículo 2, remitido a las definiciones del Reglamento del
+Sistema de Evaluación de Impacto Ambiental (D.S. 40/12), en letra a) se define como área de Influencia: “a) El área
+o espacio geográfico, cuyos atributos, elementos naturales o socioculturales deben ser considerados con la
+finalidad de definir si el proyecto o actividad genera o presenta alguno de los efectos, características o
+circunstancias del artículo 11 de la Ley, o bien para justificar la inexistencia de dichos efectos, características o
+circunstancias”. Es por lo anterior, que el área de influencia (AI) considerada en la presente caracterización de
+Patrimonio Cultural comprende las superficies efectivas de las obras.
+Paisaje:
+Determinación: El área de influencia de paisaje corresponde a la zona desde donde las diferentes partes e
+instalaciones del Proyecto podrían ser perceptibles visualmente, o bien donde la calidad visual podría verse
+afectada por las partes, obras y/o actividades del mismo.
+Justificación: Esta área se define a partir del acceso visual resultante de cada cuenca visual, las cuales representan
+por una parte aquellos elementos del relieve, construcciones u obstáculos varios que inciden en las zonas visibles
+de cada punto de observación, y por otra parte han sido establecidas a partir una distancia visual de 3.500 m,
+correspondiente al límite máximo en la que un observador deja de percibir con nitidez un objeto determinado.
+Atractivos Naturales o Culturales (Valor turístico):
+Determinación: El valor turístico se establece evaluando los atributos presentes en el territorio en cuestión y la
+conjugación de los distintos atributos que lo establecen, aumentando el valor cuando existe más de un atributo
+importante junto a la atracción de visitantes o turistas.
+Justificación: Para la determinación del área de influencia del Proyecto, y según como lo señala la “Guía Valor
+Turístico en el SEIA” (SEA 2017), se utilizó como base parte del Área de Influencia de Paisaje (ver acápite 2.6.2.10),
+3 Considera la superficie total del Proyecto, considerando en conjunto todas las obras y las superficies que se superponen entre
+sí, y no a la sumatoria directa de la superficie de cada obra, debido a que parte del área de intervención de caminos se traslapa
+con el área de la Planta de Procesamiento y la Zona de Extracción Victoria Norte, entre otros.
+10
+================================================================================
+PAGE 13
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+lo que permitió identificar la magnitud o alcance, en este caso visual, que pudiera afectar el Valor Turístico del
+sector donde se emplaza el Proyecto.
+Uso del territorio:
+Determinación: El área de influencia del Proyecto se entiende como aquella superficie en la que se emplazan sus
+partes, obras, o actividades. Corresponde al área de ocupación de las instalaciones como también de aquellas en
+las que se proyectan las acciones, según las recomendaciones que establece la Guía para la Descripción del Uso
+del Territorio en el SEIA (2013).
+Justificación: El área de influencia se determinó en función del área del Proyecto en el cual se emplazan las
+instalaciones, equipamiento, construcciones, etc., referentes a la actividad que se realiza en él, y en la que, en
+consecuencia, existe la posibilidad que se generen interacciones o efectos entre los usos del territorio y el
+proyecto.
+Proyectos que cuenten con RCA vigente:
+Determinación: Para determinar efectos acumulativos y/o sinérgicos que pueden afectar a distintos componentes
+ambientales, debido a la existencia de proyectos existentes con RCA vigente, cercanos al área de emplazamiento
+del Proyecto, se revisaron aquellos cercanos teniendo en consideración los posibles efectos sobre los
+componentes susceptibles de ser afectados por el Proyecto en evaluación.
+Justificación: El área de influencia consideró la ubicación de los proyectos emplazados en un área cercana al
+Proyecto y que se encuentran con RCA vigente. En este caso se identificaron 66 proyectos en el SEA en un radio
+de 9 km; 56 DIA y 10 EIA para los cuales se analiza su interrelación con el Proyecto en sus distintas fases.
+Medio humano:
+Determinación: El área de influencia del Proyecto, para el componente Medio Humano, con el fin de identificar,
+cuantificar y/o descartar toda posible interacción de las partes, obras y acciones del Proyecto con los Sistemas de
+Vida y Costumbres de los Grupos Humanos que allí habitan, comprende las zonas rurales contiguas al Proyecto y
+que forman parte de los distritos censales Las Pataguas, Margaritas; además de la zona urbana más próxima,
+correspondiente al distrito censal Penco mayoritariamente; atendiendo a que los grupos humanos insertos en el
+área definida comparten un mismo sistema de vida y costumbres que los hace interactuar de manera cotidiana
+por razones familiares, sociales y económicas, así como compartir ámbitos de interés común en lo comercial o en
+la preservación de tradiciones, su relación con el entorno y en intercambio social y cultural en general.
+Justificación: Se realiza la determinación del área de influencia, de 3091,38 ha, la que se construye de manera
+iterativa analizando el área de estudio.
+*La determinación, justificación y descripción del área de influencia por objeto de protección se presenta en la
+sección 2.8 del Capítulo 2 del EIA. Por su parte, los detalles de la descripción del área de influencia para cada
+componente se acompañan en el Capítulo 2 del presente EIA.
+3 LÍNEA DE BASE
+Línea de Base
+Capítulo 3.A: Medio físico
+Clima y Meteorología: El clima del sector donde se emplazará el Proyecto, según la clasificación de Köppen,
+corresponde a “Templado cálido con lluvias invernales y gran humedad atmosférica”, perteneciente a los climas
+del tipo templados, los que se caracterizan por presentar temperaturas medias del mes más frío inferior a 18°C y
+superior a -3 °C y lluvias estacionales.
+Respecto a la meteorología, se utilizó la data de cuatro estaciones de monitoreo cercanas al lugar de
+emplazamiento del Proyecto: Kingston College, Liceo Polivalente, Coronel Norte y Nueva Libertad.
+De acuerdo con las estaciones descritas, el promedio de velocidad de los vientos no supera los 3,66 m/s. Las
+calmas, correspondientes a los vientos con una velocidad menor a 0,5 m/s, ocurren principalmente en horario
+nocturno y presentan hasta una frecuencia promedio anual de hasta 18% en la estación Liceo Polivalente. En
+relación con la dirección del viento, la mayoría de las estaciones comparten componentes predominantes
+provenientes desde el Oeste y del Sur en horario diurno, mientras que en horario nocturno la dirección se observa
+más heterogénea.
+11
+================================================================================
+PAGE 14
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Línea de Base
+El promedio de la temperatura en las estaciones caracterizadas se encuentra en torno a los 13°C, con mínimas
+(entre -0,5°C y 0,1°C) y máximas (entre los 31 °C y 32 °C), con amplitudes térmicas diarias y estacionales bajas,
+debido a la cercanía de las estaciones a la costa.
+En relación con la humedad relativa, se observa que aumenta en el horario nocturno y disminuye en el horario
+diurno producto de la radiación solar, esta última con máximos que se producen en torno al mediodía.
+La precipitación en la zona se concentra mayoritariamente en los meses invernales, con excepción en la estación
+Liceo Polivalente, donde la precipitación durante el año 2020 alcanzó su máximo en meses estivales.
+Calidad del aire:
+El Decreto N°15/2015, MMA, declara zona saturada por material particulado fino respirable (MP2,5) a las comunas
+de Lota, Coronel, San Pedro de la Paz, Hualqui, Chiguayante, Concepción, Penco, Tomé, Hualpén y Talcahuano. Sin
+perjuicio de ello, según los resultados analizados, se evidencia que la estación Kingston College registra valores
+bajo niveles de saturación, llegando a un 75% de la norma de 24 horas y a un 69% de la norma trianual para dicho
+parámetro (MP2,5).
+Respecto de las concentraciones de material particulado respirable (MP10) registradas, también se verifica que
+las concentraciones monitoreadas en la estación se encuentran bajo los niveles indicados por la norma primaria
+de calidad del aire, llegando a un 41% de la norma de 24 horas y a un 50% de la norma trianual.
+En relación con el dióxido de azufre (SO ) en su norma primaria, el promedio trianual alcanza un valor equivalente
+2
+al 5% de la norma. En el caso del valor de 24 horas, se registró una concentración de 4% del umbral respectivo. En
+cuanto al valor horario, se alcanzó una concentración de 3,5 µg/m³, correspondiente a un 3% de la norma. De
+manera análoga, para la norma secundaria, ésta alcanza niveles bajo el umbral de saturación, alcanzando
+concentraciones que representan un 3% en la norma trianual, un 2% de la norma diaria y un 2% de la norma
+horaria.
+En cuanto a las concentraciones de dióxido de nitrógeno (NO ), no se presentaron valores de saturación ni de
+2
+latencia para la norma anual, alcanzando un valor de 8% respecto a dicha norma. Respecto al valor horario,
+tampoco se registraron valores sobre la saturación, alcanzando un valor de 19 µg/m³, correspondiente al 5% de la
+norma respectiva.
+Finalmente, respecto al monóxido de carbono (CO), la estación no presenta valores que sobrepasen la norma
+media móvil de 8 horas, como tampoco la norma horaria. Los valores registrados alcanzan un 14% de la norma
+media móvil de 8 horas y a un 12% de la norma horaria.
+Niveles de Ruido y vibraciones:
+Se evaluaron quince (15) puntos de muestreo de nivel de ruido y vibraciones que caracterizan dichos sectores
+sensibles, nueve (9) puntos representativos de fauna y dos (2) puntos de evaluación de tránsito vehicular. La
+primera campaña de medición se realizó entre los días 28 de noviembre y 2 de diciembre de 2022, mientras que
+la segunda campaña se desarrolló los días 18 y 19 de enero de 2024.
+Durante el periodo diurno, los NPS registrados varían entre 35 y 63 [dB(A)], donde las principales fuentes de
+eq
+ruido corresponden a aves silvestres, efecto del viento sobre el follaje, operación maquinaria al interior de
+Vertedero y tránsito vehicular por Autopista Itata, Carretera a Tomé, Ruta O-390 y By-Pass Penco, durante el
+periodo nocturno los NPS registrados fluctúan entre 29 y 52 [dB(A)], donde los niveles se ven influenciados
+eq
+principalmente por grillos, tránsito lejano, ruido por efecto del viento sobre el follaje y aves silvestres.
+Para los puntos de fauna los NPS registrados varían entre 37.5 y 47.8 [dB(A)] para el periodo diurno, mientras que
+eq
+para el periodo nocturno, los NPS registrados varían entre 34.8 y 47.5 [dB(A)], donde las principales fuentes de ruido
+eq
+corresponden a aves silvestres, corriente de agua y tránsito vehicular lejano, cabe mencionar, que para el periodo
+nocturno además de las fuentes de ruido anteriormente mencionadas, se pudo percibir que la presencia de aves
+silvestres es mayor que en el periodo diurno.
+Por otro lado, se realizaron mediciones continuas de una (1) hora en dos (2) receptores, de manera de obtener el
+nivel existente según el descriptor LDN, a partir de métodos establecidos por la guía FTA- Transit Noise and
+Vibration Impact Assessment Manual, en donde los niveles existentes son de 61 LDN [dB(A)] para el punto A y de
+46 LDN [dB(A)] para el punto B.
+Finalmente, se realizaron mediciones de Nivel de velocidad de vibración (Lv) y Velocidad vertical de partícula (VVP)
+en la totalidad de los puntos evaluados. Los valores obtenidos obedecen a las vibraciones naturales del suelo en
+12
+================================================================================
+PAGE 15
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Línea de Base
+cada sector, y al tránsito vehicular por las rutas cercanas, no existiendo otras fuentes claramente identificadas que
+puedan afectar los registros. Los valores registrados en todos los puntos se encuentran por debajo del umbral de
+percepción humana definido en la guía FTA, el cual es de 65 [VdB].
+Geología:
+En el área de emplazamiento del Proyecto, ubicada en la Cordillera de la Costa, afloran rocas intrusivas del Batolito
+Costero. A nivel local, estudios del Titular definen tres (3) unidades ígneas intrusivas: Granito de Granate, Diorita
+y Granito de biotita, a las cuales agrupan en el “Complejo Plutónico Penco”.
+Se identifican tres (3) dominios estructurales dominantes a nivel regional del área del Proyecto: NW predominante
+y subordinadamente NE y EW. Localmente las estructuras NW y NE controlan la morfología de los contactos del
+Granito de Granate.
+Geomorfología:
+El área de emplazamiento del Proyecto se encuentra en el flanco occidental de la Cordillera de la Costa. En esta
+unidad, las pendientes y los gradientes son de intermedios a altos.
+Los modelados hídricos fluviales de cursos intermitentes y perennes son los principales responsables del modelado
+geomorfológico, destacándose la incisión del Estero Penco.
+Riesgos geológicos y geomorfológicos:
+El Proyecto no se emplaza en áreas con riesgo volcánico o flujos laháricos, ya que se encuentra fuera del área de
+influencia de los volcanes activos.
+Conforme a la geología del área de emplazamiento, las obras se ubican en “Zona Sísmica 3” conforme a la norma
+chilena NCh N° 2.369/2003 sobre Diseño Sísmico de Estructuras e Instalaciones industriales.
+El emplazamiento del Proyecto corresponde a un área de topografía compleja, la cual presenta diversos rangos de
+pendientes. De esta manera, en los sectores con menores pendientes los riesgos de ocurrencia de remociones en
+masa son bajos, mientras que los sectores con mayores pendientes presentan mayor susceptibilidad para una
+eventual generación de procesos de remoción en masa. En el área de influencia de esta componente, domina un
+riesgo bajo a nulo.
+Hidrología:
+Las cuencas de los puntos de control comprenden áreas que van desde 0,02 a 7,31 km2, con cauces principales
+desde 45 m a 4,04 km.
+Las cuencas presentan un régimen pluvial y no cuentan con control fluviométrico, por lo cual, la determinación de
+los caudales máximos instantáneos se ha realizado de manera indirecta.
+El estero Penco ha sido monitoreado mensualmente mediante aforos manuales desde el año 2020. control que
+aún se sigue efectuando.
+Se realiza un análisis de frecuencia y bondad de ajuste de las estaciones Concepción DGA, Andalién, Carriel Sur,
+Rafael y Biobío Desembocadura. Para ello, se utilizó el método de máxima verosimilitud para evaluar la de mejor
+ajuste.
+Debido a que las cuencas de estudio tienen áreas menores que 20 km2, se ha descartado estimar los caudales
+máximos instantáneos por lo métodos precipitación-escorrentía recomendados por el Manual DGA, motivo por el
+cual se ha usado el método Racional especificado en el Manual de Carreteras para la obtención de los caudales de
+cada cuenca.
+Hidrogeología:
+El área de emplazamiento del Proyecto de caracterización se sitúa en la Cordillera de La Costa, en la cual afloran
+rocas cristalinas intrusivas y metamórficas de muy baja a nula permeabilidad primaria. En escala regional esta
+zona se define como un área de importancia hidrogeológica nula (referencia).
+A escala del Proyecto, cabe mencionar que producto del clima de la zona, templado con periodos de lluvias bien
+marcados, además de la cobertura vegetal importante, se producen procesos intensos de meteorización química
+y física en las rocas del batolito, ocasionando la alteración de la mineralogía primaria a arcillas y la disgregación
+de los granos de minerales más resistentes.
+El resultado de esto se traduce en un suelo residual denominado como Saprolito, el cual se extiende de manera
+semi horizontal, en gran parte del área del Proyecto, y es donde se encuentran los recursos de Tierras Raras. El
+13
+================================================================================
+PAGE 16
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Línea de Base
+saprolito se desarrolla en forma extensiva y preponderante, confiriendo además un nivel con características que
+condicionan fuertemente la infiltración y movimiento de las aguas subterráneas.
+La permeabilidad en el Saprolito está condicionada por el importante contenido de arcillas, lo que motiva que este
+horizonte tiende a actuar como un acuitardo, incluso más restrictivo ya que no presenta en vertical presencia de
+agua; aunque en las partes más superficiales puede observarse la ocurrencia de humectación de este suelo,
+asociado a las condiciones climáticas, pero sin establecer una condición de saturación y flujo de agua.
+Capítulo 3.B: Ecosistema Terrestre
+Suelo (edafología):
+La Pauta SAG, establece que los suelos CCUS VI son suelos no arables y corresponden a suelos no aptos para
+laboreo cuando el parámetro de restrictivo es la pendiente. Su uso normal es ganadería y forestal, salvo cuando
+han sido clasificado en esta categoría por condiciones de salinidad (> a 4 dS/m), situación en la cual su uso está
+dado por la adaptabilidad de ciertas especies a suelos salinos. Las restricciones de suelos son más severas que en
+la Clase IV.
+Plantas (Flora y vegetación):
+La superficie total del bosque nativo de preservación (36,28 ha) fue considerada como formaciones vegetales
+únicas o de baja representatividad nacional.
+Los bosques nativos de preservación con presencia de ejemplares de Gomortega keule y Pitavia Punctata (25,11
+ha) fueron considerados como formaciones vegetales relictuales, reliquias, remanentes y frágiles.
+Se identificaron 36,28 ha de bosque nativo de preservación dentro del área de influencia.
+Se identificaron 170,07 ha de formaciones vegetacionales con especies en grado de amenaza, no considerando
+bosque nativo de preservación.
+Se registraron 19 especies bajo categoría de conservación. Del total de especies registradas, cinco se encuentran
+grado de amenaza, correspondiente a Gomortega keule, Pitavia punctata y Vestia foetida en categoría En Peligro
+y Asplenium trilobum y Citronella mucronata en categoría Vulnerable. Los 14 taxa restantes corresponden a
+especies no consideradas en grado de amenaza (Casi Amenazada y Preocupación Menor). Si bien en el área de
+influencia se registraron individuos de las especies Gomortega keule (queule) y Pitavia punctata (pitao), estos no
+serán intervenidos por las obras del Proyecto.
+Hongos y Líquenes (flora no vascular):
+A través de la campaña de levantamiento de información en el área de influencia del Proyecto, se registraron 92
+taxones de hongos, los cuales se distribuyeron en la totalidad de los 31 puntos de muestreo prospectados. En
+cuanto a los líquenes, se registraron 52 taxones, distribuidos entre 30 de los 31 puntos de muestreo.
+Animales Vertebrados (fauna terrestre):
+A partir del levantamiento de información en terreno, se registró la presencia de 73 especies de fauna terrestre
+nativa (48 registros en otoño 2022, 48 en invierno 2022, 49 en primavera 2022, 57 en verano 2023 y 47 en
+primavera 2023), correspondientes a dos anfibios, seis reptiles, 49 aves y 16 mamíferos.
+Fauna Invertebrada:
+Se registraron 247 especies en ambas campañas donde 4 tiene consideraciones de conservación de acuerdo con
+la resolución de calificación de especies en categoría por el Ministerio del Medio Ambiente (RCE) y la Ley de Caza:
+Ceroglossus chilensis cyanicollis, Phrixotrichus scrofa, Euathlus manicata y Acanthogonathus pissi.
+Ecosistemas Acuáticos Continentales:
+Se detectó la presencia de ictiofauna, la que estuvo asociada a los cuerpos de agua que presentaron un mayor
+escurrimiento superficial y corresponden únicamente a aquellas ubicadas en el estero Penco (PE, P7, P9 y P10),
+donde se registró la presencia de la especie nativa T. areolatus, presentes en las campañas de muestreo.
+En relación con las comunidades fitoplanctónicas (columna de agua) y fitobentónicas (sustrato), las especies
+descritas, corresponden a taxones propios de sistemas de aguas continentales.
+Relaciones Ecosistémicas:
+A través de los modelos conceptuales, se puede deducir la presencia de grupos funcionales entre los componentes
+bióticos y abióticos de los dos ecosistemas, así como los factores impulsores que establecen relaciones distintas,
+especialmente aquellas que involucran movilidad entre los sistemas terrestres y los asociados con la disponibilidad
+del recurso hídrico. Las interacciones entre los ecosistemas vegetales, considerados como los principales
+14
+================================================================================
+PAGE 17
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Línea de Base
+modeladores del ambiente debido a sus características particulares, se ven significativamente influenciadas por
+su capacidad de adaptación e interacción con otros elementos presentes (bióticos y abióticos), principalmente
+debido a los factores limitantes en el entorno, como la disponibilidad de agua, productividad del suelo y los
+amplios rangos de temperatura.
+En el caso de los ecosistemas terrestres, destacan los elementos de origen externos como la precipitación y neblina
+que afectan a muchos procesos claves y sustentan la amplia diversidad observada en la zona. Por otra parte, las
+leñosas, aves y mamíferos se relacionan con muchos procesos del sistema terrestre, pero con la diferencia que su
+estado depende de factores internos y externos al sistema, debido principalmente a su amplio rango de hogar.
+Para el ecosistema acuático, es posible observar que la ictiofauna, las algas y los invertebrados destacan como
+aquellos que participan de forma transversal en la interconectividad entre los ecosistemas presentes en el área
+de influencia.
+Capítulo 3.C: Patrimonio Cultural
+Arqueología Terrestre:
+A partir de la inspección realizada se reconoció únicamente un sitio arqueológico, denominado PMP-SA-01,
+correspondiente a una concentración de fragmentos cerámicos de superficies alisadas (interior y exterior) de 146
+m2, de posible temporalidad histórica de tradición indígena (a juzgar por la presencia de fragmentos de superficies
+alisadas, sin marcas de torno y con uso de antiplásticos del tipo áridos de granulometría fina, aunque claramente
+visible), ubicado al interior de la ZE Maite, en el área de un camino existente.
+Paleontología:
+Conforme a las características litológicas y origen de los componentes geológicos existentes en el área de
+influencia para el componente de Paleontología, de las obras del Proyecto de Extracción de Arcillas para la
+Producción de Concentrado de Tierras Raras, se concluye que el potencial paleontológico del área es estéril (Bajo
+a Nulo), en concordancia a los criterios establecidos por el Consejo de Monumentos Nacionales (CMN).
+Paisaje:
+El análisis de la calidad visual aplicado a cada unidad de paisaje dio como resultado que el área de influencia posee
+una calidad visual Media, donde la UP1 obtuvo una valoración Media y la UP2 una valoración baja. De acuerdo
+con los atributos biofísicos estéticos y estructurales, ellos presentan una baja singularidad y diversidad de
+elementos, donde su calidad visual resulta común de acuerdo con los supuestos paisajísticos definidos para
+Macrozona Centro y Subzona de Borde Costero.
+Áreas Protegidas y sitios prioritarios para la conservación:
+En función de lo señalado a lo largo del documento, es posible indicar que al interior del AI definida para el
+componente no se identifican Áreas Protegidas y Sitios Prioritarios para la conservación que intercepten y/o
+vinculen con el AI delimitada.
+Atractivos naturales o culturales y sus interacciones (turismo):
+El Valor Paisajístico fue analizado desde 2 fuentes, en un primer caso, tomando los resultados obtenidos en la
+Línea de Base de Valor Paisajístico del presente EIA, el cual dio como resultado un Valor Paisajístico y calidad visual
+Media.
+El Valor Cultural, se determinó bajo, ya que no se identificaron atractivos de tipo cultural dentro del área de
+influencia.
+Por otro lado, el Valor Patrimonial fue evaluado como Medio, ya que, dentro del área de influencia se desarrollan
+actividades recreativas y deportivas.
+Respecto a la atracción de visitantes, es relevante mencionar el contexto en el cual se inserta la comuna, ya que
+Penco forma parte del Área Metropolitana de Concepción, la cual forma parte del Destino Turístico “Concepción
+y alrededores”. A nivel local, la comuna de Penco recibe cerca de 40 mil viajes turísticos, los cuales suceden
+durante todo el año, principalmente en temporada estival, donde alcanza los 7 mil visitantes mensuales.
+Uso del territorio
+Con respecto al área de emplazamiento y a las actividades actuales que se desarrollan en el lugar, es posible
+determinar (posterior a la aplicación de la técnica de fotointerpretación) que las actividades productivas y
+extractivas presentes en el área corresponden principalmente a la actividad forestal de eucaliptus y pino.
+15
+================================================================================
+PAGE 18
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Línea de Base
+Por otro lado, en relación al Uso de Suelo Planificado, en el área del Proyecto se identifican dos instrumentos de
+planificación territorial de distintas escalas administrativas: Plan Regulador Comunal de Penco y el Plan Regulador
+Metropolitano de Concepción (a nivel Intercomunal Metropolitano).
+Las principales actividades son de tipo extractivas o primarias, como la forestal, agricultura (tanto tradicional como
+agroindustrial), pesca (tanto artesanal como a escala industrial), y otro tipo de actividades que son características
+de la zona.
+En función de los antecedentes presentados anteriormente y del análisis que se desarrolló en el presente estudio,
+es posible determinar que el Proyecto se emplaza en una zona con un activo uso en el ámbito económico
+productivo, pero también social y cultural. Aun así, específicamente en el área de influencia del Proyecto,
+corresponde a un segmento del territorio comunal y regional bastante intervenido, no solo desde la actividad
+extractiva, sino que también desde la instalación de infraestructuras de distinto tipo.
+Proyectos con RCA vigente:
+El área del Proyecto se encuentra en las Comunas de Penco y Concepción, Provincia de Concepción, Región del
+Biobío, específicamente en un sector donde existen diversas actividades productivas: energéticos, industriales,
+saneamiento e instalaciones fabriles, entre otras. De acuerdo a la información revisada, los componentes que
+reciben impactos significativos con mayor frecuencia son: Calidad de Aire, Medio Humano, Flora y Fauna Acuática,
+Suelo, Flora y Vegetación Terrestre y Fauna Terrestre.
+En específico, en la Región del Biobío, principalmente en las comunas de Penco y Concepción, se identificaron 66
+proyectos en un radio de 9 km a la redonda con RCA vigente, en el periodo comprendido desde 1994 hasta el
+2024. De estos 66 proyectos, 57 fueron ingresados como Declaración de Impacto Ambiental (DIA) y 9 como Estudio
+de Impacto Ambiental (EIA), con énfasis en estos últimos para la determinación de impactos significativos.
+Capítulo 3.D: Medio Humano
+Medio Humano:
+Se determinó su Área de Influencia como aquella que comprende las zonas rurales contiguas al Proyecto y que
+forman parte de los distritos censales Las Pataguas, Margaritas; además de la zona urbana más próxima,
+correspondiente al distrito censal Penco; atendiendo a que los grupos humanos insertos en el área definida
+comparten un mismo sistema de vida y costumbres que los hace interactuar de manera cotidiana por razones
+familiares, sociales y económicas, así como compartir ámbitos de interés común en lo comercial o en la
+preservación de tradiciones, su relación con el entorno y en intercambio social y cultural en general. No se
+identificó la presencia de población próxima al área del Proyecto en la comuna de Concepción, o que pudiese
+presentar alguna interacción con el Proyecto en evaluación.
+4 PREDICCIÓN Y EVALUACIÓN DE IMPACTO AMBIENTAL
+RA: Relevancia Ambiental; Im: Importancia del Impacto; VIA: Valoración del Impacto Ambiental
+4.1 Resumen de impactos significativos
+Valoración
+Fase Componente Impacto Ra Im del
+Impacto
+ICA-01 Afectación de receptores humanos por
+Calidad del
+Operación aumento de concentración de material 10 -4,7 -47
+aire
+particulado y gases en receptores
+Suelo (IV, VI,
+Construcción ISU-01: Pérdida del Recurso Natural Suelo 8 -6,1 -48,9
+VIII)
+Suelo (IV, VI,
+Operación ISU-01: Pérdida del Recurso Natural Suelo 8 -6,1 -48,9
+VIII)
+16
+================================================================================
+PAGE 19
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Valoración
+Fase Componente Impacto Ra Im del
+Impacto
+Asplenium trilobum 9 -6,6 -54,9
+Flora y IFV-02 Pérdida de Citronella mucronata 9 -6,6 -54,9
+Construcción
+vegetación ejemplares de flora Gardolia multiflora 8 6,1 -48,8
+Vestia foetida 8 6,1 -48,8
+Flora y IFV-02 Pérdida de Gardolia multiflora 8 6,1 -48,8
+Operación
+vegetación ejemplares de flora Vestia foetida 8 6,1 -48,8
+IFA-01 Pérdida de Liolaemus schroederi 8 -6,6 -52
+Fauna ejemplares de fauna
+Construcción
+Vertebrada de interés y/o Dromiciops gliroides 8 -6,6 -52
+sensibles.
+IFA-01 Pérdida de Eusophus roseus 8 -6,6 -52
+Fauna ejemplares de fauna
+Operación
+Vertebrada de interés y/o Dromiciops gliroides 8 -6,6 -52
+sensibles.
+Eupsophus roseus 8 -7,1 -57
+Liolaemus schroederi 8 -7,1 -57
+IFA-02 Pérdida y/o
+Construcción y Fauna modificación de Dromiciops gliroides 8 -7,1 -57
+operación Vertebrada hábitat de especies de Leopardus guigna 7 -7,1 -50
+interés y/o sensibles.
+Pudu puda 8 -7,1 -57
+Puma concolor 7 -7,1 -50
+IFI-01 Pérdida de Acanthogonathus pissi 6 -12,3 -74
+Operación y Fauna ejemplares de fauna
+Euathlus manicata 5 -12,3 -61,7
+Construcción Invertebrada de interés y/o
+sensibles Phixotrichus scrofa 7 -12,3 -86,3
+IFI-02 Perdida y/o Acanthogonathus pissi 6 -12,3 -73,8
+Construcción y Fauna modificación de
+Euathlus manicata 5 -12,3 -61,5
+operación Invertebrada hábitat de especies de
+interés y/o sensibles Phixotrichus scrofa 7 -12,3 -86,1
+IMH-01 Afectación al desarrollo de prácticas
+culturales y tradicionales de organizaciones
+indígenas a lo largo del camino forestal
+Construcción y Medio
+adyacente a estero Penco por restricción de 10 -5,9 -58,9
+operación Humano
+acceso mediante instalación de puntos de
+control de acceso vehicular, señalética
+informativa y rondas de vigilancia.
+IMH-01 Afectación al desarrollo de prácticas
+culturales y tradicionales de organizaciones
+indígenas a lo largo del camino forestal
+Medio
+Cierre adyacente a estero Penco por restricción de 10 -5,3 -53,3
+Humano
+acceso mediante instalación de puntos de
+control de acceso vehicular, señalética
+informativa y rondas de vigilancia.
+IMH-03 Restricción de acceso a recursos
+naturales (hierbas medicinales) utilizadas por
+Construcción y Medio
+los GHPPI con fines medicinales y culturales 10 -5,9 -58,9
+operación Humano
+dificultando la manifestación de actividades
+culturales e intereses colectivos, por la
+17
+================================================================================
+PAGE 20
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Valoración
+Fase Componente Impacto Ra Im del
+Impacto
+instalación de puntos de control de acceso,
+señalética informativa y rondas de vigilancia
+IMH-03 Restricción de acceso a recursos
+naturales (hierbas medicinales) utilizadas por
+los GHPPI con fines medicinales y culturales
+Medio
+Cierre dificultando la manifestación de actividades 10 -5,3 -53,3
+Humano
+culturales e intereses colectivos, por la
+instalación de puntos de control de acceso,
+señalética informativa y rondas de vigilancia
+Fuente: Elaborado en base a la sección 4.4, Capítulo 4 del EIA.
+5 DESCRIPCIÓN DE EFECTOS, CARACTERÍSTICAS Y CIRCUNSTANCIAS DEL
+ARTÍCULO 11 DE LA LEY N° 19.300
+A partir del análisis de los presupuestos normativos contemplados en la Ley N° 19.300 y el RSEIA, se concluye que el
+Proyecto debe ingresar al SEIA a través de la presentación de un Estudio de Impacto Ambiental (EIA), conforme a lo
+siguiente:
+Art. 11 Ley Art. Requiere
+Justificación
+19.300 RSEIA EIA
+Literal a) del RSEIA. El Proyecto, debido principalmente a excavación, relleno, volteo
+de material y resuspensión de polvo por tránsito de vehículos en rutas no
+pavimentadas, siendo este último el más preponderante, generará superación de los
+Letra a) Art. 5 valores de significancia para el aumento de concentraciones de MP2,5 sobre los Si
+receptores humanos R-11, R-28 y R-32, en un período igual o mayor a 3 años4 en zona
+declarada saturada para MP2,5, sin perjuicio que los resultados del monitoreo de la
+estación más cercana muestran valores medidos inferiores a la norma.
+Literal a) del RSEIA. El Proyecto utilizará superficie producto de la ejecución de sus
+obras, lo que determina la pérdida de suelo; literal b) del RSEIA, el Proyecto generará
+impactos significativos sobre la cantidad y calidad de los recursos naturales
+renovables, debido a la intervención de ejemplares de flora y fauna y hábitat de
+especies de fauna en estado de conservación; literal c) del RSEIA, la magnitud y
+Letra b) Art. 6 duración del Proyecto afectará de manera significativa al componente ambiental Si
+suelo.
+Cabe reiterar que los bosques nativos y las especies amenazadas Gomortega keule
+‘Queule’ y Pitavia punctata ‘Pitao’, ni sus hábitats y bosques de nativos de
+preservación (BNP) en que se insertan, no serán intervenidos por el Proyecto, ni
+alterados sus hábitats.
+Literal a) del RSEIA, el Proyecto generará la restricción al acceso de los recursos
+naturales utilizados para uso tradicional, tales como uso medicinal, espiritual o
+Letra c) Art. 7 Si
+cultural, producto de la ejecución de sus obras (restricción por instalación física de
+acceso); literal b) del RSEIA, el Proyecto generará la restricción a la libre circulación
+4 Tabla 1 documento: “Criterio de evaluación en el SEIA: Impacto de emisiones en zonas saturadas por
+material particulado respirable MP10 y material particulado fino respirable MP2,5” (septiembre 2023).
+18
+================================================================================
+PAGE 21
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Art. 11 Ley Art. Requiere
+Justificación
+19.300 RSEIA EIA
+por el camino Los Queules producto de la ejecución de sus obras (restricción por
+instalación física de acceso) y literal d) del RSEIA, el Proyecto generará la dificultad
+para el ejercicio o la manifestación de tradiciones, cultura o intereses comunitarios
+producto de la ejecución de sus obras (restricción por instalación física de acceso).
+El Proyecto se localiza en o próximo a recursos protegidos (flora y fauna) en algún
+estado de conservación y el Proyecto se localiza próximo a un camino o sendero que
+Letra d) Art. 8 permite acceder a un área de recolección de hierbas medicinales usado por Si
+poblaciones protegidas (organizaciones indígenas), propiciando la susceptibilidad de
+ser afectadas.
+Las actividades del Proyecto no generarán efectos adversos significativos sobre el
+Letra e) Art. 9 No
+valor paisajístico o turístico de la zona.
+El Proyecto no generará ni presentará alteración de monumentos, sitios con valor
+Letra f) Art. 10 antropológico, arqueológico, histórico y, en general, los pertenecientes al patrimonio No
+cultural.
+Fuente: Elaborado en base a la sección 5.4, Capítulo 5 del EIA.
+6 POTENCIALES RIESGOS QUE EL PROYECTO O ACTIVIDAD PODRÍA GENERAR EN
+LA SALUD DE LAS PERSONAS
+De acuerdo con el análisis presentado en el Capítulo 5 sobre efectos, características o circunstancias del artículo 11
+de la Ley 19.300, el Proyecto presentará o generará el efecto a que se refiere el art. 5 del RSEIA asociado a un riesgo
+para la salud de la población debido a la cantidad y calidad de efluentes, emisiones o residuos, específicamente en
+lo que respecta al literal a) en las emisiones de material particulado respirables MP 2,5, durante la fase de operación
+en receptores aislados localizados dentro del área de influencia del Proyecto (en sector fuera de los límites urbanos).
+No obstante lo anterior, este contaminante se encuentra regulado en Chile; por ello, se hizo un análisis sobre la base
+de los criterios de significancia establecidos en el Criterio de evaluación en el SEIA: impacto de emisiones en zonas
+saturadas por material particulado respirable MP10 y material particulado fino respirable MP2,5 (Primera edición.
+Servicio de Evaluación Ambiental, 2023), por lo que no es requerida la presentación de un capítulo específico relativo
+a los potenciales riesgos que el proyecto o actividad podría generar en la salud de las personas en el marco
+establecido en el artículo 18, literal h).
+De manera complementaria y a modo de analizar y evaluar si se genera riesgo a la salud sobre el riesgo prexistente,
+se adjunta en el Anexo 5-1 del presente EIA la Evaluación ambiental del Riesgo en Salud relacionado con el Proyecto,
+el cual concluye que si bien para 3 receptores humanos (R-11, R-28 y R-32) del área de influencia del Proyecto en
+calidad del aire se superan los niveles de significancia establecidos por la Guía de criterios del SEA, al realizar la
+evaluación del riesgo en salud se confirma que para todos los receptores se estiman niveles de riesgo incremental
+considerados como “riesgo esencialmente cero” o “riesgo aceptable”, de acuerdo a la definición de riesgo aceptable
+de las agencias internacionales de referencia (OMS, EPA, Ministerio de Salud de Canadá), tanto para la exposición de
+MP2,5 y MP 10. El detalle de la Evaluación ambiental del riesgo para la salud de la población se presenta en el Anexo
+5-1 del EIA.
+19
+================================================================================
+PAGE 22
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+7 PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN
+7.1 Plan de medidas de mitigación
+Nombre de la
+Impacto asociado Objetivo
+Medida
+Componente: Flora y Vegetación
+El objetivo de la medida es mitigar la pérdida de individuos de especies en
+categoría de conservación en grado de amenaza a causa de la implementación
+Pérdida de
+de las partes, obras y acciones del Proyecto, a través del rescate y relocalización
+ejemplares de flora
+de ejemplares de Citronella mucronata que serán intervenidos y que están
+Rescate y en la fase de
+ubicados dentro de ambientes intervenidos correspondientes a plantaciones
+Relocalización de 20 construcción,
+forestales de Eucalyptus globulus y Bosque asilvestrado de Pinus radiata, con el
+ejemplares de correspondiente a
+propósito de minimizar la intervención numérica de individuos aislados de
+Citronella mucronata 20 ejemplares de
+especies en categoría de conservación (ECC), que forman parte de una matriz
+Citronella
+de plantaciones y bosques asilvestrados, los cuales por uso histórico han sido
+mucronata.
+dañados y cortados por la acción de tala rasa de las plantaciones forestales del
+lugar.
+Componente: Fauna
+Pérdida de
+El objetivo de la medida es realizar una actividad de rescate y relocalización,
+ejemplares de
+Plan de Rescate y con la finalidad de evitar la pérdida de individuos de fauna de baja movilidad
+fauna de interés
+Relocalización de por causa del Proyecto. Sumado a las especies citadas anteriormente, aplicará
+y/o sensibles -
+Fauna Vertebrada a toda especie de herpetofauna y micromamífero identificado y/o capturada en
+Anfibios, Reptiles y
+el esfuerzo de captura.
+Micromamíferos
+Pérdida de
+ejemplares de Inducir el desplazamiento gradual de especies de baja movilidad desde el
+Plan de Perturbación fauna de interés ambiente que utilizan hacia zonas inmediatamente adyacentes, para disminuir
+Controlada y/o sensibles - el impacto de la potencial pérdida de ejemplares amenazados de baja
+Anfibios, Reptiles y movilidad, debido a las obras y acciones del Proyecto.
+Micromamíferos
+Pérdida de
+ejemplares de
+Plan de Rescate y El objetivo de la medida es realizar una actividad de rescate y relocalización,
+fauna de interés
+Relocalización de con la finalidad de evitar la pérdida de individuos de fauna invertebrada por
+y/o sensibles –
+Fauna Invertebrada causa del Proyecto.
+Fauna
+Invertebrada
+Componente: Medio Humano
+Afectación al Coordinar un acceso controlado a los sitios de recolección de hierbas
+desarrollo de medicinales y áreas de desarrollo de actividades culturales para los GHPPI que
+prácticas culturales realizan dichas actividades, y que fueron identificados en el Informe
+Protocolo de acceso y tradicionales de Antropológico y la Línea de Base de Medio Humano, a través de un protocolo
+controlado para organizaciones de acceso que permita la ejecución de las actividades del Proyecto de manera
+GHPPI indígenas a lo largo segura, evitando riesgos eventuales sobre los GHPPI que han hecho uso
+del camino forestal histórico de estas áreas, de modo que puedan continuar realizando sus
+adyacente a estero prácticas culturales en forma compatible con los estándares de seguridad con
+Penco por que contará el Proyecto.
+restricción de
+acceso mediante Informar a la comunidad de manera oportuna respecto de las restricciones de
+Plan de información y instalación de acceso, promover la comprensión de los motivos detrás de las restricciones y
+comunicación con puntos de control fomentar la cooperación de los GHPPI en el cumplimiento de las medidas de
+GHPPI de acceso, control de acceso. Realizar ajustes al protocolo de acceso según los
+señalética requerimientos de cada Asociación, de ser necesario.
+informativa y
+20
+================================================================================
+PAGE 23
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre de la
+Impacto asociado Objetivo
+Medida
+rondas de
+vigilancia.
+Restricción de
+acceso a recursos
+naturales (hierbas
+medicinales)
+utilizadas por los
+GHPPI con fines
+medicinales y
+culturales
+dificultando la
+Plan de apoyo al Fomentar la cooperación con los GHPPI para el fortalecimiento de sus prácticas
+manifestación de
+fortalecimiento de culturales y de resignificación indígena de los GHPPI identificados, dando
+actividades
+prácticas culturales énfasis en los aspectos materiales e inmateriales vinculados a las prácticas
+culturales e
+de los GHPPI extractivas de recursos naturales y su procesamiento.
+intereses
+colectivos, por la
+instalación de
+puntos de control
+de acceso,
+señalética
+informativa y
+rondas de
+vigilancia.
+Fuente: Elaborado en base al Capítulo 7 del EIA.
+7.2 Plan de medidas de compensación
+Nombre de la Medida Impacto asociado Objetivo
+Componente: Calidad del Aire
+Cambio de carpeta en 1,6 km de
+acceso a Proyecto CEMARC
+Aumento en control de emisiones en Afectación de receptores El objetivo de la medida es compensar el aporte en
+3,5 kms para camino de acceso a humanos por aumento de términos de calidad del aire como promedio anual de
+CEMARC concentración de material MP2,5 sobre los receptores en donde fue estimado el
+Reemplazo de equipos de calefacción particulado y gases impacto.
+y cocinas que utilizan leña como
+combustible.
+Componente: Flora y Vegetación
+Pérdida de ejemplares de
+flora en la fase de
+Colecta de Germoplasma, Viverización
+construcción y operación, Compensar la pérdida de flora en categoría de
+y Replante de Individuos de Asplenium
+correspondiente a un total conservación producto de la implementación de las
+trilobum, Gardoquia multiflora y
+de 299 ejemplares de partes, obras y acciones del Proyecto.
+Vestia foetida
+especies en categoría de
+conservación.
+Componente: Fauna Terrestre
+Pérdida y/o modificación El objetivo de la medida es asegurar la existencia de
+de hábitat de especies de parches de vegetación nativa y exótica, que en su
+Protección de áreas aledañas al
+interés y/o sensibles - conjunto y con una distribución espacial determinada,
+Proyecto
+Anfibios, Reptiles y permitan la persistencia de las poblaciones de las
+Mamíferos especies objetivo.
+21
+================================================================================
+PAGE 24
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Nombre de la Medida Impacto asociado Objetivo
+La medida se enfoca principalmente en las especies:
+Pudu puda (pudú), Leopardus guigna (güiña) y Puma
+concolor (puma). No obstante, se considera que la
+medida beneficiará a un conjunto mayor de especies
+al permitir la permanencia de hábitat para éstas.
+Fuente: Elaborado en base al Capítulo 7 del EIA.
+7.3 Plan de medidas de reparación
+Nombre de la Medida Impacto asociado Objetivo
+Componente: Fauna Terrestre
+Pérdida y/o modificación
+de hábitat de especies de
+Revegetación y Conservación de áreas
+interés y/o sensibles - Generar hábitats propicios para fauna terrestre en las
+intervenidas ZD y ZE con vegetación
+Anfibios, Reptiles, áreas intervenidas por el Proyecto.
+nativa
+Micromamíferos, Meso y
+Macromamíferos
+Componente: Suelo
+Rescatar la capa superficial de suelo desde las áreas
+intervenidas, acopiarla por un período temporal para
+Rescate, acopio y reutilización de Pérdida del recurso natural posteriormente reutilizarla en la superficie de las áreas
+suelo en las áreas intervenidas suelo ya intervenidas, para reestablecer sus propiedades
+básicas y de esta forma promover el crecimiento de
+vegetación.
+Mejorar las propiedades físicas, químicas y biológicas
+Mejoramiento de propiedades de Pérdida del recurso natural del suelo que será reutilizado en la superficie de las
+suelo en las áreas intervenidas suelo áreas intervenidas, de manera de promover el
+crecimiento de vegetación.
+Fuente: Elaborado en base al Capítulo 7 del EIA.
+8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS
+El Proyecto considera un plan de prevención de contingencias y emergencias diseñado para las distintas fases del
+Proyecto, el cual identifica las situaciones de riesgo y propone medidas de contingencia y emergencia adecuadas a
+fin de evitar la ocurrencia de impactos ambientales no deseados y/o controlarlos. Su detalle se presenta en el capítulo
+8 del EIA.
+9 PLAN DE SEGUIMIENTO DE LAS VARIABLES AMBIENTALES RELEVANTES
+9.1 Plan de Seguimiento
+Plan de seguimiento Impacto Duración y frecuencia Método de medición y entrega de información
+Componente: Calidad del Aire
+Cambio de carpeta en Afectación de
+Semestralmente El parámetro será monitoreado mediante la inspección
+1,6 km de acceso a receptores
+durante toda le visual de toda la superficie de la carpeta asfáltica
+Proyecto CEMARC. humanos por
+22
+================================================================================
+PAGE 25
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de seguimiento Impacto Duración y frecuencia Método de medición y entrega de información
+aumento de ejecución del implementada, registrándose desviaciones respecto del
+concentración de Proyecto. estado de conservación de la carpeta.
+material Se confeccionarán informes semestrales y anuales
+particulado y El parámetro será monitoreado mediante la utilización de
+Aumento en control gases un equipo móvil de conteo de partículas, cuyo resultado
+Anualmente durante
+de emisiones en 3,5 será contrastado con el valor medido en el camino sin
+toda la ejecución del
+kms para camino de medida de control. El procedimiento de medición se
+Proyecto.
+acceso a CEMARC presenta en el Anexo 1-4 Plan de supresión de polvo.
+Se confeccionarán informes anuales
+Reemplazo de
+equipos de
+calefacción y cocinas
+que utilizan leña
+Se verificará en cada una de las tres viviendas (R-11, R-28
+como combustible. Anualmente durante
+y R-32) que los equipos se encontrarán en buenas
+Pago de los costos toda la ejecución del
+condiciones técnicas para su operación. Se
+fijos y variables Proyecto.
+confeccionarán informes anuales.
+involucrados durante
+las fases de
+construcción,
+operación y cierre
+Componente: Flora y Vegetación
+El seguimiento de la
+medida se realizará
+durante la fase de
+construcción y
+operación con una
+El método de muestreo corresponde a un monitoreo de
+Rescate y frecuencia semestral
+sobrevivencia de los 20 ejemplares de Citronela
+relocalización de 20 durante los tres (3)
+mucronata relocalizados, registrando los parámetros
+ejemplares de primeros años y anual
+antes descritos. Se confeccionarán informes semestrales y
+Citronella mucronata. el resto del
+anuales
+seguimiento. Para los
+ejemplares
+relocalizados el
+seguimiento durará
+ocho (8) años.
+El seguimiento de la
+medida se realizará
+Pérdida de durante la fase de
+ejemplares de construcción y
+flora operación del
+Proyecto, con una
+frecuencia inicial anual
+Colecta de
+durante el primer y
+germoplasma,
+segundo año del
+viverización y El método de muestreo corresponde al conteo de
+Proyecto y
+replante de individuos plantados. Además, se observarán los
+posteriormente
+individuos de Vestia parámetros antes descritos. Se confeccionarán informes
+semestral hasta el
+foetida, Gardoquia anuales y semestrales
+octavo año.
+multiflora y
+Este plazo se
+Asplenium trilobum
+encuentra
+condicionado a los
+resultados obtenidos
+en las etapas previas
+(colecta de
+germoplasma y
+viverización), dado que
+23
+================================================================================
+PAGE 26
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de seguimiento Impacto Duración y frecuencia Método de medición y entrega de información
+la plantación se
+realizará una vez que
+los individuos
+presenten un
+desarrollo mínimo
+para su
+establecimiento
+seguro en los sitios de
+plantación.
+Componente: Fauna vertebrada
+El informe relativo a los resultados de la implementación
+de la medida “Rescate y relocalización” en el marco del
+Pérdida de PASM146, será entregado a las autoridades competentes
+Plan de rescate y
+ejemplares de Fase de construcción y (SAG, SMA) dentro de un plazo máximo de 45 días tras el
+relocalización de
+interés y/o operación término de las actividades de seguimiento de la medida.
+fauna vertebrada.
+sensibles No obstante, se procederá a emitir los informes
+requeridos en los plazos que se indiquen en la Resolución
+Exenta que autorice las capturas.
+Registros de abundancia de manera previa y posterior a la
+perturbación.
+El informe relativo a los resultados de la implementación
+de la medida “Perturbación controlada de reptiles y
+Pérdida de
+micromamíferos” será entregado a las autoridades
+Plan de Perturbación ejemplares de Fase de construcción y
+competentes (Superintendencia de Medio Ambiente y
+Controlada interés y/o operación
+SAG regional) dentro de un plazo máximo de 45 días tras
+sensibles
+el término de las actividades de seguimiento de la medida.
+No obstante, lo anterior, se procederá a emitir los
+informes requeridos en los plazos que se indiquen en la
+Resolución Exenta que autorice las capturas.
+Pérdida y/o
+Revegetación y El método de muestreo corresponde a la realización de
+modificación de
+conservación de parcelas de muestreo representativas en las áreas de
+hábitat de Fase de construcción y
+áreas intervenidas ZD revegetación. Desde el inicio de las actividades de
+especies de operación
+y ZE con vegetación revegetación, se entregará un informe semestral durante
+interés y/o
+nativa. tres años.
+sensibles
+Documentos de declaratoria de protección privada del
+área.
+Estudio de vegetación ejecutado por especialistas.
+Estudio utilizando trampas cámaras direccionadas a
+Pérdida y/o registros de meso y macromamíferos.
+modificación de Se utilizarán al menos 30 cámaras trampas instaladas por
+Protección de áreas hábitat de Fase de construcción y un período no inferior a 60 días en cada ocasión. Los datos
+aledañas al Proyecto especies de operación obtenidos serán respaldados para generar un informe con
+interés y/o los principales resultados.
+sensibles Se considera un informe previo al inicio de la fase de
+Construcción que demuestre la protección de las áreas
+por todo el plazo establecido.
+Se realiza un informe anual sobre el estado de los sectores
+protegidos.
+Componente: Fauna Invertebrada
+Las actividades de captura deberán ser realizadas en
+Pérdida de
+Plan de rescate y épocas en que las temperaturas permitan condiciones
+ejemplares de Fase de construcción y
+relocalización de favorables para la reubicación de individuos. Esto es
+interés y/o operación
+fauna invertebrada durante la estación de primavera y/o de verano, y en los
+sensibles
+días y horarios en que las características climáticas así lo
+24
+================================================================================
+PAGE 27
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de seguimiento Impacto Duración y frecuencia Método de medición y entrega de información
+permitan, ajustándose el cronograma de inicio de la
+construcción a lo señalado.
+El informe relativo a los resultados de la implementación
+de la medida “Rescate y relocalización” en el marco del
+PASM146, será entregado a las autoridades competentes
+(SAG, SMA) dentro de un plazo máximo de 30 días hábiles
+tras el término de las actividades de seguimiento de la
+medida. No obstante, se procederá a emitir los informes
+requeridos en los plazos que se indiquen en la Resolución
+Exenta que autorice las capturas.
+Componente: Suelo
+El procedimiento de muestreo consistirá en que dentro de
+cada ZD y ZE, según corresponda, se hará la medición de
+los parámetros considerados, en diez (10) puntos dentro
+de cada ZE y ZD.
+Se realizarán calicatas que permitirán medir la
+profundidad de suelo y se tomarán muestras de la
+densidad aparente, textura, capacidad de campo y punto
+Rescate, acopio y
+Pérdida del de marchitez permanente del suelo en los primeros 20 cm.
+reutilización de suelo Fase de construcción y
+recurso natural Posteriormente se tomarán muestras compuestas para la
+en las áreas operación
+suelo determinación de la Conductividad Eléctrica (CE). Las
+intervenidas
+muestras serán enviados a un laboratorio acreditado para
+muestreo de suelo por el SAG.
+Se generará un reporte anual indicando las zonas en las
+que se ha aplicado la medida dentro del periodo
+correspondiente, la ubicación de los diez (10) puntos de
+muestreo dentro de cada zona y la medición de los
+parámetros en cada punto.
+El método de muestreo corresponde a la toma de muestra
+de suelo en los puntos de muestreo, y su derivación a un
+laboratorio de suelo acreditado para el análisis de los
+parámetros considerados. El muestreo de pH y MO se
+realizará a través de muestras compuestas superficiales.
+Mejoramiento de
+Pérdida del El muestreo consistirá en que dentro de cada ZD y ZE,
+propiedades de suelo Fase de construcción y
+recurso natural según corresponda, se tomará una muestra en diez (10)
+en las áreas operación
+suelo puntos dentro de cada ZE y ZD.
+intervenidas
+Se generará un reporte indicando las zonas en las que se
+ha aplicado la medida dentro del periodo
+correspondiente, la ubicación de los diez (10) puntos de
+muestreo dentro de cada zona y la medición de los
+parámetros en cada punto.
+Componente: Medio Humano
+Afectación al Registro de acreditaciones autorizadas por el Titular que
+desarrollo de cumplen con los requisitos básicos de postulación. El
+prácticas 100% de acreditaciones autorizadas por el Titular que
+culturales y cumplen con los requisitos básicos de postulación,
+tradicionales de entendiéndose como requisito básico: a) ser socio de una
+Anualmente durante
+Protocolo de acceso organizaciones de las Asociaciones identificadas como usuaria del área de
+todo el período de
+controlado para indígenas a lo acceso controlado en el EIA, se podrán incorporar
+ejecución del
+GHPPI largo del camino acompañantes los que serán indicados por los
+Proyecto.
+forestal representantes de la Asociación; b) completar el
+adyacente a formulario de forma adecuada y visitar áreas que no estén
+estero Penco ubicadas en zonas de riesgo para la seguridad personal de
+(incluido el sector los solicitantes; y c) entregar oportunamente y según
+El Tranque) y protocolo, el formulario al Titular.
+25
+================================================================================
+PAGE 28
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Plan de seguimiento Impacto Duración y frecuencia Método de medición y entrega de información
+sector Los Entrega de carta informativa del protocolo a la totalidad
+Queules por de la Asociación Indígena Koñintu Lafken-Mapu Penco y
+restricción de Asociación Cultural Mapuche Lawen Mawida,
+acceso mediante identificadas como usuarias del área de acceso controlado
+instalación de en el EIA, según como se establece en protocolo.
+puntos de control Protocolo de acceso para GHPPI (forma e
+de acceso. implementación)
+Informe anual que resuma el uso del Protocolo de acceso
+para GHPPI durante el período
+Actas de reuniones efectuadas, registro de asistencia;
+Copia de carta certificada y correo electrónico
+Plan de información y
+informativo;
+comunicación con
+Habilitación línea telefónica directa.
+GHPPI
+Informe anual con los resultados del Plan de información
+y comunicación con los GHPPI identificados en el EIA.
+Restricción de
+acceso a recursos
+naturales (hierbas El informe que se entregará dará cuenta del estado de
+medicinales) avance de la medida, a través de los siguientes
+utilizadas por los verificadores:
+GHPPI con fines - Actas de reunión y de acuerdos de la Mesa de
+medicinales y Trabajo, conteniendo listado de asistencia firmado, para,
+culturales al menos: Definición de líneas de trabajo y definición de
+dificultando la método de elección de proyectos.
+Plan de apoyo al Anualmente durante
+manifestación de - En caso de conseguir acuerdo respecto de los
+fortalecimiento de todo el período de
+actividades proyectos a implementar, también se reportará el avance
+prácticas culturales ejecución del
+culturales e de la aplicación de la medida, con acta de adjudicación de
+de los GHPPI Proyecto.
+intereses proyecto, registro fotográfico de implementación, y acto
+colectivos, por la final de cierre.
+instalación de - En caso de no conseguir acuerdos en algún punto
+puntos de control del proceso, se solicitará un registro del rechazo.
+de acceso,
+señalética Informe anual. Presentación en un plazo máximo de 3
+informativa y meses después de transcurrido el año en evaluación.
+rondas de
+vigilancia.
+26
+================================================================================
+PAGE 29
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+10 PLAN DE CUMPLIMIENTO DE LA LEGISLACIÓN AMBIENTAL APLICABLE
+Tipo Nombre
+Decreto N° 100 de 2005, fija el Texto Refundido, Coordinado y Sistematizado de la Constitución Política
+de la República de Chile.
+Ley Nº 19.300, modificada por la Ley N° 20.417, Ley de Bases Generales del Medio Ambiente
+Decreto Supremo Nº 40/2012, Reglamento del Sistema de Evaluación de Impacto Ambiental
+Decreto Supremo N°30/23, Aprueba modificación al decreto supremo N°40, de 2012, del Ministerio del
+Medio Ambiente, que establece el Reglamento del Sistema de Evaluación de Impacto Ambiental,
+Ministerio de Medio Ambiente.
+Resolución N° 223/2015, Superintendencia del Medio Ambiente, Dicta instrucciones Generales sobre la
+Elaboración del Plan de Seguimiento de Variables Ambientales, los Informes de Seguimiento Ambiental y
+la Remisión de Información al Sistema Electrónico de Seguimiento Ambiental
+Resolución Exenta N°885/2016, Normas de carácter general sobre deberes de reporte de avisos,
+Carácter general
+contingencias e incidentes a través del sistema de seguimiento ambiental
+Decreto Supremo N° 1/2013, del Ministerio de Medio Ambiente. Aprueba el Reglamento del Registro de
+Emisiones y Transferencia de Contaminantes, RETC.
+Ley N° 21455/2022, Ley marco de Cambio Climático
+Ley Nº 18.248 Ministerio de Minería, Decreto Supremo Nº72/86, cuyo texto refundido, sistematizado y
+coordinado fue establecido por el Decreto Supremo N° 132/02 del Ministerio de Minería. Reglamento de
+Seguridad Minera.
+Decreto N° 1 /1987 del Ministerio de Minería, Reglamento del Código de Minería
+Ley N° 20.551/2011, del Ministerio de Minería, que Regula el cierre de faenas e instalaciones mineras.
+Decreto N° 41/2012, del Ministerio de Minería, que Aprueba Reglamento de la Ley de Cierre e
+Instalaciones Mineras.
+Decreto Supremo N°144/1961 Ministerio de Salud. "Establece normas para evitar emanaciones o
+contaminantes atmosféricos de cualquier naturaleza".
+Decreto Supremo N°6/2018 Ministerio del Medio Ambiente. "Plan de Prevención y de Descontaminación
+Atmosférica para las comunas de Concepción Metropolitano".
+Decreto Supremo N°4/1994 Ministerio de Transporte y Telecomunicaciones. "Establece normas de
+emisión de contaminantes aplicables a los vehículos motorizados y fija los procedimientos para su
+control".
+Decreto Supremo Nº75/1987 Ministerio de Transporte y Telecomunicaciones. Establece Condiciones para
+el Transporte de Carga.
+Decreto Supremo N°138/2005 del Ministerio de Salud, Establece Obligación de Declarar Emisiones que
+indica.
+Decreto Supremo N°211/1991 del Ministerio de Transportes y Telecomunicaciones, que “Establece
+normas sobre emisiones de vehículos motorizados livianos”
+Aire
+Decreto Nº41/2006 del Ministerio Secretaría General de la Presidencia (MINSEGPRES) Declara zona
+latente por material particulado respirable MP10, la zona geográfica comprendida por las comunas de
+Lota, Coronel, San Pedro de la Paz, Hualqui, Chiguayante, Concepción, Penco, Tome, Hualpén y
+Talcahuano.
+Decreto N°15/2015 del Ministerio del Medio Ambiente. Declara zona saturada por material particulado
+fino respirable MP2,5 como concentración diaria, a las comunas de Lota, Coronel, San Pedro de la Paz,
+Hualqui, Chiguayante, Concepción, Penco, Tome, Hualpén y Talcahuano.
+Decreto Supremo N°279/1983 del Ministerio de Salud, que establece el “Reglamento para el control de la
+emisión de contaminantes de vehículos motorizados de combustión interna”.
+Decreto Supremo N°54, de 1994, del Ministerio de Transportes y Telecomunicaciones, que establece
+Normas de Emisión Aplicables A Vehículos Motorizados Medianos Que Indica.
+Decreto Supremo N° 55/1994, del Ministerio de Transportes y Telecomunicaciones, que establece Normas
+de Emisión Aplicables a Vehículos Motorizados Pesados.
+Decreto Supremo N°38/11 del Ministerio del Medio Ambiente. “Establece norma de emisión de ruidos
+Ruido generados por fuentes que indica, elaborada a partir de la revisión del Decreto Nº 146, de 1997, del
+Ministerio Secretaría General de la Presidencia”.
+Residuos líquidos Decreto con Fuerza de Ley N°725/67 Ministerio de Salud. Código Sanitario.
+27
+================================================================================
+PAGE 30
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tipo Nombre
+Decreto N°236/1926 del Ministerio de Salud Pública, “Reglamento general de alcantarillados particulares,
+fosas sépticas, cámaras filtrantes, cámaras de contacto, cámaras absorbentes y letrinas domiciliarias”.
+Decreto Supremo N°148/2003 Ministerio de Salud. Reglamento Sanitario sobre Manejo de Residuos
+Peligrosos.
+Decreto Supremo N° 594/2000. Ministerio de Salud. Aprueba el Reglamento sobre Condiciones Sanitarias
+y Ambientales Básicas en los Lugares de Trabajo, modificado por Decreto Supremo Nº 28/12, Aprueba el
+Reglamento sobre Condiciones Sanitarias y Ambientales Básicas en los Lugares de Trabajo y sus
+Residuos sólidos
+Modificaciones.
+Decreto con Fuerza de Ley Nº 1/89 del Ministerio de Salud. Determina Materias que Requieren
+Autorización Sanitaria Expresa.
+Ley N°20.920/2016 del Ministerio del Medio Ambiente, Establece Marco para la Gestión de Residuos, la
+Responsabilidad Compartida del Productor y Fomento al Reciclaje
+Sustancias
+Decreto Supremo N°43/2016” Reglamento de Almacenamiento de Sustancias Peligrosas”
+peligrosas
+Ley Nº 20.283/08 Ministerio de Agricultura. “Ley Sobre Recuperación Del Bosque Nativo y Fomento
+Forestal”.
+Decreto Supremo Nº 93/2008, del Ministerio de Agricultura. Reglamento General de la Ley sobre
+Recuperación del Bosque Nativo y Fomento Forestal.
+Flora y Decreto Ley N°701/1974 Ministerio de Agricultura. “Somete los Terrenos Forestales a las Disposiciones
+Vegetación que Señala”.
+Decreto Supremo Nº4.363/1931, del Ministerio de Tierras y Colonización. Ley de Bosques
+Decreto Supremo Nº 82/2010, del Ministerio de Agricultura. Reglamento de suelos, aguas y humedales.
+Decreto Supremo N°29/2012, del Ministerio de Medio Ambiente, “Aprueba Reglamento para la
+clasificación de especies silvestres según estado de conservación”
+Ley N° 4.601 modificado por Ley Nº 19.473/1996 Nueva Ley de Caza. Ministerio de Agricultura.
+Fauna Decreto Supremo Nº 5/1998 modificado por Decreto Supremo Nº 53/03 del Ministerio de Agricultura.
+Aprueba el Reglamento de Ley de Caza.
+Decreto 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción el cual fija el texto refundido,
+coordinado y sistematizado de la Ley N° 18.892, De 1989 y sus modificaciones, Ley General de Pesca y
+Aguas
+Acuicultura.
+Continentales
+Decreto Supremo N° 1/1992 del Ministerio de Defensa Nacional y sus modificaciones, que aprueba el
+“Reglamento para el control de la contaminación acuática”
+Decreto Supremo Nº 298/1994. Ministerio de Transporte y Telecomunicaciones. Reglamenta el
+transporte de cargas peligrosas por calles y caminos.
+D.F.L. Nº 850/98. Ministerio de Obras Públicas. Sobre conservación de caminos.
+Decreto Supremo N°158/1980. Ministerio de Transporte y Telecomunicaciones. Establece Límite de Pesos
+Transportes
+por Eje y Límites de Peso Bruto Total.
+Resolución N° 1/1995. Establece Dimensiones Máximas de los Vehículos para Circular por Vías Públicas.
+Ministerio de Transportes y Telecomunicaciones.
+Ley Nº 18.290. Ministerio de Transporte y Telecomunicaciones. Ley de Tránsito.
+Ley Nº 17.288 del 27 de Enero de 1970, del Ministerio de Educación. Ley sobre Monumentos Nacionales.
+Patrimonio
+Decreto Supremo N° 484/90 del Ministerio de Educación. Reglamento de la Ley N° 17.288 sobre
+cultural
+excavaciones y/o prospecciones arqueológicas, antropológicas y paleontológicas.
+Ordenamiento Decreto con Fuerza de Ley N° 458/75. del Ministerio de Vivienda y Urbanismo. Ley General de Urbanismo
+territorial y Construcción. Última Modificación Ley N° 20.443 del 23 de Noviembre de 2010.
+D.S. Nº 160/2009 Reglamento de seguridad para las instalaciones y operaciones de producción y
+Combustible
+refinación, transporte, almacenamiento, distribución y abastecimiento de combustibles líquidos
+D.S. 4188/1955, Ministerio del Interior, aprobatorio del “Reglamento de Instalaciones Eléctricas de
+Corrientes Fuertes”, NSEG 5. E.n. 71, Electricidad. “Instalaciones Eléctricas de Corrientes Fuertes”
+D.S.115/2004, Ministerio de Economía, Fomento y Reconstrucción, aprobatorio de la "Norma Técnica NCh
+Energía Eléctrica Elec. 4/2003, Instalaciones de Consumo en Baja Tensión y deroga en lo pertinente, el decreto número 91,
+de1984"
+Resolución N° 610/1982, Superintendencia de Electricidad y Combustibles, Prohíbe el Uso de Bifenilos
+Policlorinados (PCB) en Equipos Eléctricos
+28
+================================================================================
+PAGE 31
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Tipo Nombre
+Decreto Supremo N° 1/2022, que establece la norma de emisión de luminosidad artificial generada por
+Emisión lumínica alumbrados de exteriores, elaborada a partir de la revisión del D.S., N°43 del 2012, del Ministerio del
+Medio Ambiente.
+A continuación, se resumen los permisos ambientales y pronunciamientos sectoriales aplicables al Proyecto, cuyo
+detalle se entrega en el capítulo 10 del EIA.
+Párrafo 3° Permisos Ambientales Sectoriales mixtos y de contenido únicamente
+Aplicabilidad
+ambiental
+Artículo 119.- Permiso para realizar pesca de investigación.
+El permiso para realizar pesca de investigación necesaria para el seguimiento de las
+poblaciones de especies hidrobiológicas será el establecido en el artículo 99 del D.S.
+El Proyecto considera monitoreo de
+N°430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fija el
+fauna íctica durante la fase de
+texto refundido, coordinado y sistematizado de la Ley N°18.892, de 1989 y sus
+construcción.
+modificaciones, Ley General de Pesca y Acuicultura.
+El requisito para su otorgamiento consiste en preservar los recursos
+hidrobiológicos con motivo de la realización de la pesca de investigación.
+El Proyecto contempla la realización de
+Artículo 132.- Permiso para hacer excavaciones de tipo arqueológico,
+este tipo de excavaciones, dado que se
+antropológico y paleontológico, de acuerdo a lo establecido en los Artículos 22º y
+encontró un hallazgo arqueológico en el
+23º de la Ley N°17.288, sobre monumentos nacionales.
+área de estudio.
+El Proyecto considera zona de
+Artículo 136.- Permiso para establecer un botadero de estériles o acumulación de disposición, correspondiente a la zona
+mineral, de acuerdo a lo establecido en el inciso 1° del Artículo 339º, del artículo para el depósito tanto del estéril
+quinto del Decreto Supremo N°132, de 2002, del Ministerio de Minería, que fija el extraído desde las zonas de extracción
+texto refundido, sistematizado y coordinado del Reglamento de Seguridad Minera. como del mineral procesado en la Planta
+de procesamiento.
+El Proyecto corresponde a una faena
+minera y se debe dar cumplimiento a la
+Artículo 137.- Permiso para la aprobación del plan de cierre de una faena minera,
+estipulado en la Ley Nº 20.551 que
+según lo establecido en el Artículo 6º de la Ley 20.551, de Cierre de Faenas e
+Regula el Cierre de Faenas e
+Instalaciones Mineras.
+Instalaciones Mineras del Ministerio de
+Minería.
+Artículo 138.- Permiso para la construcción, reparación, modificación y ampliación
+El Proyecto considera la implementación
+de cualquier obra pública o particular destinada a la evacuación, tratamiento o
+de un sistema de tratamiento de aguas
+disposición final de desagües, aguas servidas de cualquier naturaleza, de acuerdo a
+servidas mediante Plantas de
+lo establecido en el Artículo 71º letra b) primera parte, del Decreto con Fuerza de
+Tratamiento de Aguas Servidas (PTAS).
+Ley Nº 725, de 1967, del Ministerio de Salud Pública, Código Sanitario.
+El Proyecto contempla áreas de lavado
+Artículo 139.- Permiso para la construcción, reparación, modificación y ampliación
+de equipos (chasis, neumáticos y partes
+de cualquier obra pública o particular destinada a la evacuación, tratamiento o
+principales de cada equipo) en el Taller
+disposición final de residuos industriales o mineros.
+de reparaciones menores y lavado.
+Artículo 140.- Permiso para la construcción, reparación, modificación y ampliación
+de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase o
+para la instalación de todo lugar destinado a la acumulación, selección, El Proyecto contará con sectores para el
+industrialización, comercio o disposición final de basuras y desperdicios de almacenamiento temporal de residuos
+cualquier clase, de acuerdo a lo establecido en los artículos 79 y 80 del Decreto con domiciliarios y para residuos industriales
+Fuerza de Ley Nº 725, de 1967, del Ministerio de Salud Pública, Código Sanitario, y no peligrosos.
+siempre que no corresponda la aplicación de otro permiso ambiental sectorial por
+la misma acción.
+29
+================================================================================
+PAGE 32
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Párrafo 3° Permisos Ambientales Sectoriales mixtos y de contenido únicamente
+Aplicabilidad
+ambiental
+Artículo 142.- Permiso para todo sitio destinado al almacenamiento de residuos
+El Proyecto considera la habilitación de
+peligrosos, de acuerdo a lo establecido en el artículo 29 del Decreto Supremo Nº
+bodegas para el acopio temporal de
+148, de 2003, del Ministerio de Salud, Reglamento sanitario sobre manejo de
+residuos peligrosos
+residuos peligrosos.
+Artículo 146.- Permiso para la caza o captura de ejemplares de animales de
+especies protegidas para fines de investigación, para el establecimiento de centros Se contempla captura de ejemplares de
+de reproducción o criaderos y para la utilización sustentable del recurso, según lo animales de especies protegidas
+establecido en el inciso 1º del Artículo 9º de la Ley N° 4.601, sobre Caza, modificada (vertebrados e invertebrados) con fines
+por la Ley N° 19.473, que sustituye el texto de la Ley N° 4.601, sobre Caza, y artículo de investigación.
+609 del Código Civil.
+Artículo 149.- Permiso para la corta de plantaciones en terrenos de aptitud
+preferentemente forestal, cuya corta o explotación sea necesaria para la ejecución
+de cualquier proyecto o actividad de las señaladas en el Artículo 3º del presente
+Reglamento, con excepción de los proyectos a que se refiere el literal m.1, será el
+establecido en el Artículo 21º del Decreto Ley Nº 701, de 1974, del Ministerio de El proyecto requiere la intervención de
+Agricultura, que fija régimen legal de los terrenos forestales o preferentemente plantaciones forestales.
+aptos para la forestación, y establece normas de fomento sobre la materia, cuyo
+texto fue reemplazado por Decreto Ley N° 2.565, de 1979, del Ministerio de
+Agricultura, que sustituye el Decreto ley N° 701, de 1974, que somete terrenos
+forestales a las disposiciones que señala.
+Artículo 156.- Permiso para efectuar modificaciones de cauce, de acuerdo a lo El Proyecto contempla la modificación
+establecido en el Artículo 41º e inciso 1º del Artículo 171º del Decreto con Fuerza de cauces, considerando la habilitación
+de Ley Nº 1.122, de 1981, del Ministerio de Justicia, Código de Aguas, siempre que de obras de cruce de caminos sobre
+no se trate de obras de regularización o defensa de cauces naturales. quebradas
+Artículo 157.- Permiso para efectuar obras de regularización o defensa de cauces El Proyecto considera la ejecución de
+naturales, según lo establecido en los incisos 1º y 2º del Artículo 171º del Decreto obras hidráulicas en las zonas de
+con Fuerza de Ley Nº 1.122, de 1981, del Ministerio de Justicia, Código de Aguas. extracción, disposición y acopio vegetal.
+Artículo 160.- Permiso para subdividir y urbanizar terrenos rurales o para
+complementar alguna actividad industrial con viviendas, dotar de equipamiento
+El Proyecto se emplaza en un área rural,
+algún sector rural o habilitar un balneario o campamento turístico o para la
+fuera de los límites urbanos definidos
+construcción de conjuntos habitacionales de viviendas sociales o de viviendas de
+por los Planes Reguladores existentes,
+hasta un valor de 1.000 Unidades de Fomento que cuenten con los requisitos para
+por tanto, requiere construcciones en
+obtener un subsidio del Estado, así como para las construcciones industriales, de
+área rural, en particular asociado a la
+equipamiento, turismo y poblaciones fuera de los límites urbanos, corresponderá
+Instalación de Faenas en fase de
+a la autorización e informes favorables que se establecen respectivamente en los
+construcción y Planta de procesamiento.
+incisos 3° y 4° del Artículo 55º del Decreto con Fuerza de Ley Nº 458, de 1975, del
+Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones.
+Párrafo 4° De los Pronunciamiento Aplicabilidad
+La Planta de procesamiento se emplaza en zonificación
+ZIS del PRMC, que establece dentro de los usos
+Artículo 161.- Calificación de instalaciones industriales y de bodegaje. permitidos las actividades industriales calificadas
+como Inofensivas, Molestas y/o Peligrosas por la
+autoridad competente
+30
+================================================================================
+PAGE 33
+================================================================================
+Resumen ejecutivo
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+11 COMPROMISOS AMBIENTALES VOLUNTARIOS
+Componente Compromiso Fase
+Monitoreo de calidad de aguas superficiales Construcción, operación y cierre
+Recurso
+Desistimiento de uso de derechos de aprovechamiento de agua
+hídrico Construcción
+superficial
+Ecosistemas
+Monitoreo de la fauna íctica Construcción
+acuáticos
+continentales
+Conservación de Germoplasma de Gomortega keule, Citronella
+Construcción, operación y cierre
+mucronata y Pitavia punctata
+Flora y Protección de nueve (9) ejemplares de Citronella mucronata Construcción, operación y cierre
+Vegetación
+Plan de monitoreo del bosque nativo de preservación Construcción, operación y cierre
+Patrimonio
+Monitoreo arqueológico
+cultural Construcción, operación
+Arqueología
+Charlas de inducción paleontológica Construcción, operación
+Patrimonio
+cultural
+Protocolo de acción antes hallazgos paleontológicos
+Paleontología
+Plan de comunicación permanente con la ciudadanía
+Construcción, operación y cierre
+Fomento de empleo local
+Construcción, operación y cierre
+Medio
+Plan de desarrollo de proveedores locales y encadenamiento
+Humano
+productivo Construcción, operación y cierre
+Fomento a actividades recreativas a lo largo del estero Penco
+Construcción, operación y cierre
+General Monitoreo participativo Construcción, operación y cierre
+31

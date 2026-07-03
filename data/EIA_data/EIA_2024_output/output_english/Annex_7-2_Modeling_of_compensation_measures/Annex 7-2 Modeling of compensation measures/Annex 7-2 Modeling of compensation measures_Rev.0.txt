@@ -1,0 +1,492 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Annex 7-2
+Modeling of measurements
+air quality compensation
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+GENERAL INDEX
+1 Introduction ................................................................................................................................... 1
+2 Objectives ................................................................................................................................... 1
+3 General methodology ................................................................................................................... 2
+4 Compensation measures ........................................................................................................... 2
+5 Emission reduction calculation ........................................................................................................... 6
+5.1 Environmentally approved emissions for the Operational Continuity Project Center
+Conception Waste Management ........................................................................................................... 6
+5.2 Estimated emissions for new condition in road folders ........................................................... 8
+5.3 Reduction of estimated emissions.............................................................................................................. 10
+6 Modeling reduction of contributions ........................................................................................... 11
+7 Conclusions ........................................................................................................................... 13
+i
+==================================================================================
+PAGE 3
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+TABLE INDEX
+Table 4-1. Section characteristic. ................................................................................................................... 5
+Table 5-1. Annual emissions per tranche. ................................................................................................... 6
+Table 5-2. Emissions per section (t/year) ........................................................................................................... 6
+Table 5-3. Particulate matter emission factor formula for transit dust resuspension
+of vehicles on unpaved roads ........................................................................................................... 7
+Table 5-4. Values considered in the particulate matter emission factor variables for
+resuspension of dust due to vehicle traffic on unpaved roads – Construction phase .. 7
+Table 5-5. Emissions per section corrected for rainy days (t/year) ........................................................... 7
+Table 5-6. Particulate matter emission factor formula for transit dust resuspension
+of vehicles on unpaved roads ........................................................................................................... 8
+Table 5-7. Values considered in the particulate matter emission factor variables for
+resuspension of dust due to vehicle traffic on unpaved roads – Construction phase .. 8
+Table 5-8. Particulate matter emission factor formula for transit dust resuspension
+of vehicles on paved roads ................................................................................................................... 9
+Table 5-9. Values ​​considered in the variables of the material emission factor for
+articulated for
+resuspension of dust due to vehicle traffic on paved roads - Construction phase ........ 9
+Table 5-10. Estimated annual emissions tranches with new portfolio status. .................................... 10
+Table 5-11. Estimated emissions reduction ........................................................................................... 10
+Table 6-1. Reduction of concentrations in receptors. ................................................................................... 12
+ii
+==================================================================================
+PAGE 4
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+INDEX OF FIGURES
+Figure 4-1. Compromised control measure EIA Operational Continuity Waste Management Center
+of Concepción ................................................................................................................................................... 3
+Figure 4-2. Type of folder Mining Development Project for the Extraction of Clay for the Production of
+Rare Earth Concentrate ........................................................................................................................... 4
+Figure 4-3. Sections of changes in the access folder from Route 150 to CEMARC access ........................................... 5
+Figure 6-1. Emitting sources and receivers ................................................................................................ 11
+iii
+==================================================================================
+PAGE 5
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+1 INTRODUCTION
+This document contains the estimate of the compensation in air quality as a result of the
+measures considered in the Mining Development Project for the Extraction of Clays for the Production of
+Rare Earth Concentrate, to address the significant impact identified in three receptors
+close to the Project (R11, R28 and R32). The significant impact would be generated by the contribution of MP2.5 as
+annual average, considering that the thresholds defined as significant contributions in the
+document document “Impact of emissions in saturated zones by respirable particulate matter
+MP10 and SEA breathable fine particulate matter MP2.5”.
+To estimate the compensation in terms of PM2.5 contribution, the emissions reduction was estimated
+product of the measures considered and subsequently the reduction of contributions was modeled as
+air quality. The modeling considers the guidelines indicated in the Guide for the use of Models.
+Air Quality in the SEIA, version 2 (2023), for which meteorological modeling and a
+emissions dispersion modeling.
+2 OBJECTIVES
+• Estimate the reduction of emissions resulting from the implementation of pollution control measures.
+emissions.
+• Estimate the reduction of contributions to air quality as a result of the reduction of emissions.
+1
+==================================================================================
+PAGE 6
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+3 GENERAL METHODOLOGY
+To estimate the reduction of contributions in terms of PM2.5 concentrations in the receptors of
+interest, as a result of the measures to be implemented, the following activities were carried out.
+- Measures were identified that had an effect on the recipients where it is required.
+reduce contributions in terms of PM2.5 concentrations.
+- The estimation of emissions from the considered source was carried out, for a scenario without the measure
+proposal and then with the proposed measure, to obtain the reduction of emissions that will generate
+the implementation of the measure.
+- A dispersion modeling of the reduced emissions was carried out to estimate the contribution that
+will no longer be generated in the recipients of interest as a result of the implementation of the measure.
+4 COMPENSATION MEASURES
+ON
+The receptors (R11, R28 and R32) on which it is required to generate a reduction of contributions in
+PM2.5 concentrations are found in an isolated sector, where the main emission source
+possible to intervene corresponds to unpaved roads. The busiest road
+The vehicular traffic close to the receivers corresponds to the road through which trucks currently enter from
+Route 150 to the CEMARC facilities, and which will be used for this project.
+The “Operational Continuity Concepción Waste Management Center” Project, approved through
+RCA (2023081015341), considers the use of an unpaved route that allows entry from
+Route 150 to the Project. The Project approved for its operation phase considers the application of
+suppressor in a first section of approximately 750 meters from Route 150 and in approximately
+another 750 before entering CEMARC. For the rest of the way, humidification with a
+75% efficiency. For the suppressor application measure, an efficiency of 95% was committed. The
+Figure 4-1 presents the indicated access road and the sections with the type of measurement committed.
+1 https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&id_expediente=2153787305
+2
+==================================================================================
+PAGE 7
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-1. Compromised control measure EIA Operational Continuity Waste Management Center
+Conception
+Source: GAC
+The Mining Development Project of Clay Extraction for the Production of Earth Concentrate
+Rarely considers the implementation of an asphalt layer and the application of a suppressor with a
+average efficiency of 80% on unpaved roads. Because the access road from Route
+150, until access to CEMARC will be shared by both projects, the implementation of a folder
+asphalt and suppressor will generate a reduction in environmentally approved emissions to the Project
+Operational Continuity Concepción Waste Management Center. Figure 4-2 presents the sections
+of the access route to CEMARC where an improvement will be made in the road folder, indicating
+if it corresponds to asphalt layer or suppressor application.
+3
+==================================================================================
+PAGE 8
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-2. Type of folder Mining Development Project for the Extraction of Clay for the Production of
+Rare Earth Concentrate
+Source: GAC
+As seen in Figure 4-1 and Figure 4-2, the control measures approved on the access section
+from Route 150 to the access to CEMARC for the Operational Continuity Project Management Center
+of Concepción Waste (approved EIA), intersect with the improvements in the portfolio that will be implemented
+the Mining Development Project for Clay Extraction for the Production of Earth Concentrate
+Rare (EIA under evaluation). Figure 4-3 presents a layout that allows comparing the
+road characteristics defined in both projects.
+4
+==================================================================================
+PAGE 9
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Figure 4-3. Sections of changes in the access folder from Route 150 to CEMARC access
+Source: GAC
+Table 4-1 presents the characteristics of the sections presented in Figure 4-3 for both projects,
+identified as approved EIA and EIA under evaluation, where they are coincident.
+Table 4-1. Section characteristic.
+EIA approved Project EIA present project in
+Section Length (m)
+CEMARC evaluation
+Section 1 Suppressor / 95% efficiency Suppressor / 80% efficiency 750
+Humidification / 75%
+Section 2 Suppressor / 80% efficiency 3,518
+efficiency
+Humidification / 75%
+Section 3 Folder
+asphalt 906
+efficiency
+Section 4 Suppressor / 95% efficiency Asphalt binder 703
+Source: GAC
+As seen in Table 4-1, in Tranche 1, the approved EIA compromised efficiency
+extremely high in emissions control, which is higher than the efficiency considered for the
+application of suppressor for the EIA under evaluation, therefore, in this section a reduction will not be generated
+of emissions. For sections 2, 3 and 4, the EIA under evaluation considers an improvement in the portfolio or in the
+5
+==================================================================================
+PAGE 10
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+efficiency of the project measure, therefore, a reduction in emissions will be generated with respect to the
+environmentally approved for the approved EIA. These three sections are evaluated below.
+5 EMISSIONS REDUCTION CALCULATION
+5.1 Environmentally approved emissions for the Continuity Project
+Operational Concepción Waste Management Center
+The emissions considered correspond to those generated by vehicular traffic from the access through the
+Route 150 to the access to CEMARC. Total emissions per control measure are presented in Table
+5-1, where the extension of each section is indicated to obtain an emission rate per linear meter.
+Table 5-1. Annual emissions per tranche.
+Wetted section Section with suppressor
+MP10 MP2.5 MP10 MP2.5
+Emissions (t/year) 90.71 9.07 6.05 0.6
+Distance (m) 4,496 1,500
+t/m/year 0.0202 0.0020 0.0040 0.0004
+Source: GAC based on EIA Operational Continuity Project Concepción Waste Management Center
+From the unit emissions per length (t/m/year) presented in Table 5-1, and at the length of
+each section, presented in Table 4-1, proportional emissions were estimated for each of the
+sections, which are presented in Table 5-2.
+Table 5-2. Emissions per section (t/year)
+Section MP10 MP2.5
+1 70.98 7.10
+2 18.28 1.83
+3 2.84 0.28
+Source: GAC
+Estimated emissions for unpaved roads in the Center Operational Continuity Project
+of Concepción Waste Management did not consider correction for rainy days (indicated in the
+emissions estimation methodology), which is a relevant factor in the area. If they are not considered
+days of rain in the initial emissions scenario, used to estimate the reduction resulting from the
+measures under evaluation, an overestimated reduction of the measures would be obtained. Therefore, the
+emissions presented in Table 5-2 are corrected for rainy days to later use them
+to obtain a reduction in emissions. The correction factor for rainy days (in red on the
+equation of Table 5-3) is presented below along with the emissions estimation methodology
+on unpaved roads.
+6
+==================================================================================
+PAGE 11
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-3. Formula for the emission factor of particulate matter for resuspension of dust due to traffic
+vehicles on unpaved roads
+Activity Formula Unit Reference
+Powder resuspension
+by vehicle traffic 𝑠 𝑎 𝑊 𝑏 365−𝑃 RM Guide 2020 and AP-42,
+𝑘×281.9×( ) ×( ) ×( ) g/km
+on roads no 12 2.72 365 13.2.2 Unpaved Roads
+paved
+Source: GAC
+Table 5-4 presents the parameters for calculating the particulate matter emission factor.
+product of the resuspension of dust due to the traffic of heavy vehicles on unpaved roads.
+Table 5-4. Values considered in the variables of the particulate matter emission factor for resuspension
+of dust due to vehicle traffic on unpaved roads – Construction phase
+Activity Variables Value Reference
+k: Particle size factor (MPS) 4.9
+k: Particle size factor (MP10) 1.5
+k: Particle size factor (MP2.5) 0.15
+AP-42, 13.2.2 Unpaved
+roads
+a: Empirical constant (MPS) 0.7
+Resuspension of
+powder per a: Empirical constant (MP10 and MP2.5) 0.9
+transit of
+b: Empirical constant (MP10 and MP2.5) 0.45
+vehicles by
+c
+aminos no s: Fines content (%) 7.0 Road design value
+paved
+W: Average weight of the fleet during the Estimation Phase from data
+variable
+construction (t) of the project
+Rainy day factor: 1-P/365, where P Station data
+corresponds to the number of days in the year with 0.7233 meteorological office
+rainfall greater than 0.254 [mm]. P=101 San Vicente Talcahuano
+Source: GAC.
+The emissions presented in Table 5-2 corrected for rainy days (0.7233) are presented in Table
+5-5.
+Table 5-5. Emissions per section corrected for rainy days (t/year)
+Section MP10 MP2.5
+1 51.34 5.13
+2 13.22 1.32
+3 2.05 0.20
+Source: GAC
+7
+==================================================================================
+PAGE 12
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+5.2 Estimated emissions for new condition in road binders
+To estimate the emissions that the project will generate Operational Continuity Management Center
+Concepción waste resulting from the new condition of the folder, in the three sections described, were
+used the emissions estimation methodologies for unpaved roads (Section 2) and for
+paved/asphalted roads (Section 3 and Section 4). Both methodologies are presented below,
+along with its parameters.
+Table 5-6. Formula for the emission factor of particulate matter for resuspension of dust due to traffic
+vehicles on unpaved roads
+Activity Formula Unit Reference
+Powder resuspension
+by vehicle traffic 𝑠 𝑎 𝑊 𝑏 365−𝑃 RM Guide 2020 and AP-42,
+𝑘×281.9×( ) ×( ) ×( ) g/km
+on roads no 12 2.72 365 13.2.2 Unpaved Roads
+paved
+Source: GAC
+Table 5-4 presents the parameters for calculating the particulate matter emission factor.
+product of the resuspension of dust due to the traffic of heavy vehicles on unpaved roads.
+Table 5-7. Values considered in the variables of the particulate matter emission factor for resuspension
+of dust due to vehicle traffic on unpaved roads – Construction phase
+Activity Variables Value Reference
+k: Particle size factor (MPS) 4.9
+k: Particle size factor (MP10) 1.5
+k: Particle size factor (MP2.5) 0.15 AP-42, 13.2.2 Unpaved
+roads
+a: Empirical constant (MPS) 0.7
+Resuspension of
+powder per a: Empirical constant (MP10 and MP2.5) 0.9
+transit of
+b: Empirical constant (MP10 and MP2.5) 0.45
+vehicles by
+roads not s: Fines content (%) 7.0 Road design value
+paved
+W: Average weight of the fleet during the Estimation Phase from data
+22.92
+construction (t) of the project
+Rainy day factor: 1-P/365, where P Station data
+corresponds to the number of days in the year with 0.7233 meteorological office
+rainfall greater than 0.254 [mm]. P=101 San Vicente Talcahuano
+Source: GAC.
+The average weight W was calculated considering the flow of the Project Operational Continuity Center
+Waste Management from Conception and the Clay Extraction Mining Development Project for
+8
+==================================================================================
+PAGE 13
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Production of Rare Earth Concentrate, operating simultaneously. The methodology to estimate
+emissions on paved/asphalt roads is presented below.
+Table 5-8. Formula for the emission factor of particulate matter for resuspension of dust due to traffic
+vehicles on paved roads
+Activity Formula Unit Reference
+Powder resuspension
+by transit of 𝑃 RM Guide 2020 and AP-42,
+𝑘×𝑠𝐿0.91×(𝑊×1.1023)1.02×(1− ) g/km
+vehicles on roads 4𝑁 13.2.1 Paved Roads
+paved
+Source: GAC
+Table 5-9 shows the parameters for calculating the particulate matter emission factor.
+product of the resuspension of dust due to vehicle traffic on paved roads.
+Table 5-9. Values considered in the variables of the particulate matter emission factor for resuspension
+of dust from vehicle traffic on paved roads -
+Construction phase
+Activity Variables Value Reference
+k: Particle size factor (MPS) 3.23
+AP-42, 13.2.1
+k: Particle size factor (MP10) 0.62
+Paved Roads
+k: Particle size factor (MP2.5) 0.15
+Flow < 500 vehicles/day = 2.4
+500 <Flow < 10,000
+sL: Surface fines load (g/m²). veh/day= 0.7 RM Guide 2020
+Powder resuspension
+Flow > 10,000 vehicles/day =
+per transit of 0.3
+vehicles on roads
+paved Estimated from
+W: Average weight of the total flow of the
+22.92 data
+fleet that circulates on the tracks (t)
+project
+Station
+Rainy day factor: (1-P/4*365) where P
+meteorological
+corresponds to the number of days in the year
+0.7233 San Office
+with rainfall greater than 0.254
+Vincent
+[mm]. P=101
+Talcahuano
+Source: GAC.
+The estimated annual emissions, considering the new condition of the folders, are presented in the Table
+5-10. Emissions were calculated considering the annual flow of the Operational Continuity Project
+Concepción Waste Management Center, was obtained from the file “Emissions Worksheet - Operation
+Futuro.xlsx”, from Annex 4-D Excel emissions, from the EIA Operational Continuity Project Management Center
+of Concepción Waste, which is 63,696 vehicles/day (one way).
+9
+==================================================================================
+PAGE 14
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 5-10. Estimated annual emissions tranches with new portfolio status.
+FE (g/km) no pav FE (g/km) pav t/year
+Section Length (m) Flow/year (one way) W (t) Efficiency (%)
+MP10 MP2.5 MP10 MP2.5 MP10 MP2.5
+1 3,518 63,696 22.92 491.32 49.13 80 44.04 4.40
+2,906 63,696 22.92 10.18 2.46 1.17 0.28
+3 703 63,696 22.92 6.39 1.55 0.57 0.14
+Source: GAC
+5.3 Reduction of estimated emissions
+The emissions reduction is estimated as the difference between the emissions approved for the Project
+Operational Continuity of the Concepción Waste Management Center in its operation phase, and the
+estimated emissions for the same project in the operation phase, but with the new condition of the
+folders. The estimated emissions reduction is presented in Table 5-11.
+Table 5-11. Estimated emissions reduction
+t/year
+Section
+MP10 MP2.5
+1 7.30 0.73
+2 12.05 1.04
+3 1.48 0.06
+Source: GAC
+The emissions presented in Table 5-11 were modeled to estimate the reduction in
+concentrations of particulate matter in the receptors identified in the Development Project
+Mining of Clay Extraction for the Production of Rare Earth Concentrates, and especially in the
+three receptors where a significant impact was obtained on the air quality component (R11,
+R28 and R32).
+10
+==================================================================================
+PAGE 15
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+6 MODELING OF REDUCTION OF CONTRIBUTIONS
+The emissions dispersion modeling was carried out considering the guidelines indicated in the
+Guide for the use of Air Quality Models in the SEIA, version 2 (2023). For the modeling it was
+used the calpuff model and the meteorological information generated with the WRF model for the year 2022.
+The uncertainty analysis of the meteorological model is presented in Annex 4-1 Modeling of
+air quality.
+Figure 6-1 presents the emission sources entered into the model and the discrete receivers where it was
+evaluated the reduction of contributions for MP10 and MP2.5.
+Figure 6-1. Emitting sources and receivers
+Source: GAC
+The reduction of contributions of PM10 and PM2.5 in each of the receivers, both for the annual average,
+as for the 24-hour 98th percentile is presented in Table 6-1.
+11
+==================================================================================
+PAGE 16
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+Table 6-1. Reduction of concentrations in receptors.
+MP10 (µg/m³) MP2.5 (µg/m³)
+ID
+24h An
+ual 24h Annual
+R_1 0.209 0.043 0.029 0.006
+R_2 0.186 0.042 0.027 0.006
+R_3 0.343 0.054 0.041 0.007
+R_4 0.220 0.035 0.027 0.005
+R_5 0.215 0.034 0.027 0.005
+R_6 0.183 0.031 0.023 0.005
+R_7 0.123 0.025 0.017 0.004
+R_8 0.114 0.022 0.017 0.003
+R_9 1.146 0.167 0.129 0.018
+R_11 5.519 1.055 0.561 0.095
+R_12 0.309 0.086 0.045 0.014
+R_13 0.296 0.099 0.049 0.016
+R_14 0.294 0.085 0.049 0.014
+R_15 0.253 0.069 0.039 0.012
+R_17 0.301 0.041 0.041 0.006
+R_25 0.051 0.005 0.008 0.001
+R_28 5.741 1.021 0.621 0.099
+R_29 1.088 0.156 0.125 0.017
+R_30 0.206 0.028 0.028 0.004
+R_31 0.237 0.034 0.034 0.005
+R_32 4.860 0.923 0.606 0.093
+Source: GAC
+12
+==================================================================================
+PAGE 17
+==================================================================================
+Annex 7-2 Modeling of air quality compensation measures
+EIA Mining Development Project for Clay Extraction for Production of
+Rare Earth Concentrate
+7 CONCLUSIONS
+The evaluated measures of change in the condition of the folder from the access through Route 150, until the
+access to CEMARC, for the operation phase of the Operational Continuity Project Management Center
+Concepción Waste will generate a reduction in emissions of resuspended particulate matter
+by vehicular traffic.
+The greatest reductions in contributions of particulate matter to air quality are estimated for the
+receivers R11, R28 and R32, which are closest to the roads where the folder will have a
+improved standard as a result of the execution of the Clay Extraction Mining Development Project
+for Production of Rare Earth Concentrate.
+13

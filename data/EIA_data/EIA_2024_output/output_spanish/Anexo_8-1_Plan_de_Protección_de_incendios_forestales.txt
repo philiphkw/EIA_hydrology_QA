@@ -1,0 +1,1345 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 8-1
+Plan de protección de incendios
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción
+de Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+INDICE DE CONTENIDOS
+1. Introducción ............................................................................................................................. 1
+2. Objetivos y Alcances ................................................................................................................. 2
+2.1 Objetivos........................................................................................................................... 2
+3. Definición de Conceptos básicos asociados ............................................................................. 3
+4. Incendios Forestales y Consecuencias ..................................................................................... 5
+4.1 Daños de los incendios Forestales.................................................................................... 5
+4.2 Efectos de los Incendios Forestales .................................................................................. 6
+5. Riesgos ...................................................................................................................................... 8
+5.1 Identificación de Riesgos del Proyecto ............................................................................. 8
+6. Plan de Contingencias ............................................................................................................ 19
+7. Programa de Protección Contra Incendios Forestales ........................................................... 21
+8. Formación de Brigada de Emergencia .................................................................................... 22
+8.1 Detección y Aviso Oportuno ........................................................................................... 23
+8.2 Niveles de Emergencia y Comunicaciones ..................................................................... 24
+8.3 Equipo, Materiales y Herramientas ................................................................................ 24
+9. Acciones Básicas de Extinción y Métodos de Combate ......................................................... 25
+9.1 Acciones Básicas de Extinción ........................................................................................ 25
+9.1.1 Sobre el oxígeno: .................................................................................................... 26
+9.1.2 Sobre el calor .......................................................................................................... 26
+9.1.3 Sobre el combustible .............................................................................................. 26
+9.2 Métodos de Combate ..................................................................................................... 26
+9.2.1 Línea de Fuego ....................................................................................................... 26
+9.2.2 Guardia de Cenizas ................................................................................................. 27
+i
+================================================================================
+PAGE 3
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+INDICE DE TABLAS
+Tabla 5-1. Riesgos Fase de Construcción ........................................................................................ 11
+Tabla 5-2. Riesgos en Fase de Operación ....................................................................................... 13
+Tabla 7-2. Riesgos, Medidas y Plazos del Programa Contra Incendios Forestales. ........................ 21
+INDICE DE FIGURAS
+Figura 1-1. Ubicación General del Proyecto. .................................................................................... 2
+Figura 5-1. Mapa de Riesgo CONAF .................................................................................................. 9
+Figura 5-2. Ocurrencia de incendios en último quinquenio en radio 2 km .................................... 10
+ii
+================================================================================
+PAGE 4
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+1. INTRODUCCIÓN
+Los incendios forestales y/o de vegetación son una de las principales perturbaciones naturales
+que afectan a los bosques de todo el mundo, convirtiéndose en una gran preocupación debido al
+aumento significativo en su ocurrencia y severidad (Westerling et al. 2006). Los cambios en el
+clima y su variabilidad (Westerling et al. 2006), así como también los cambios en el uso del suelo
+y la expansión de la interfaz urbano-forestal (Keeley et al. 1999), han sido indicados como los
+principales factores que estarían contribuyendo a una mayor frecuencia y extensión de los
+incendios.
+Particularmente en Chile, los incendios forestales son percibidos como uno de los principales
+problemas medioambientales (Castillo et al. 2003), atrayendo una importante atención de los
+medios y la sociedad, lo cual ha sido acentuado por los grandes incendios ocurridos durante los
+últimos años (González 2005, Urzúa y Cáceres 2011). A la Región del Biobío le corresponde una
+participación importante, con un 38,9% de los incendios y un 28,6% de la superficie afectada
+(según valores de 10 temporadas, 1994 - 2004).
+Los incendios forestales y de vegetación son causados principalmente por efecto de las
+actividades asociadas al hombre, pues, los incendios como consecuencia de fenómenos naturales
+(rayos, erupciones volcánicas, etc.) son poco comunes en Chile. Las consecuencias de un incendio
+forestal van desde los impactos económicos, ambientales, culturales e inclusive a pérdidas de
+vidas humanas.
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado de
+Tierras Raras, corresponde al conjunto de obras y actividades que permitirán la construcción y
+operación de una faena minera y una planta de procesamiento de arcillas, material presente en
+la zona, el cual por efectos naturales se encuentra en la zona por la alteración de los materiales
+litológicos existentes en el área, con presencia de lantánidos adsorbidos en los minerales de
+arcilla.
+Proyecto se emplaza en un entorno rural, en las Comunas de Penco y Concepción, región del Biobío
+(Figura 1-1).
+1
+================================================================================
+PAGE 5
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Figura 1-1. Ubicación General del Proyecto.
+Fuente: Aclara
+2. OBJETIVOS Y ALCANCES
+2.1 OBJETIVOS
+Los objetivos del presente programa son:
+Establecer las medidas preventivas y de combate de incendios forestales, identificando sectores
+críticos o de alto riesgo de incendio, donde la probabilidad de incendio es mayor, según la
+información predial y de la zona. La elección de los sectores críticos se realiza considerando las
+actividades humanas potenciales dentro y fuera de área de influencia del proyecto, así como el
+tipo de vegetación y topografía existente.
+Para cada sector crítico o de alto riesgo de incendio identificado, se establecerán medidas de
+prevención y de mitigación las cuales estarán orientadas a:
+2
+================================================================================
+PAGE 6
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+• Reducir el riesgo de ocurrencia.
+• Vigilancia.
+• Difusión.
+• Control del riesgo.
+• Reducir el peligro de ocurrencia.
+• Ordenación de combustible.
+• Construcción de cortafuegos, indicando ancho y extensión.
+• Reducción de combustibles.
+El Alcance del siguiente programa son:
+Este programa será de aplicación a todo el personal involucrado en el proyecto; incluyendo
+contratistas y subcontratistas, en sus fases de construcción, operación y cierre.
+Se establece, además, un orden jerárquico de prioridades de la operatividad para este programa,
+siendo el siguiente:
+• Garantizar la seguridad de los trabajadores y comunidades vecinas.
+• Proteger la integridad de la flora, fauna y vegetación presente en el área de influencia del
+proyecto.
+3. DEFINICIÓN DE CONCEPTOS BÁSICOS ASOCIADOS
+Para efectos de este programa se entenderá por:
+a) Amenaza: Fenómeno de origen natural, biológico o antrópico, que puede ocasionar
+pérdidas, daños o trastornos a las personas, infraestructura, servicios, modos de vida o
+medio ambiente.
+b) Amenaza de incendio forestal: Acciones de personas o existencia de otros factores
+causantes que redundarán en la probabilidad de inicio de un incendio forestal.
+c) Área urbana: Corresponde a un conjunto de más de 20 viviendas y donde viven más de
+100 habitantes.
+d) Caminos públicos: Vías de comunicación terrestres destinadas al libre tránsito, situadas
+fuera de los límites urbanos de una población y cuyas fajas son bienes nacionales de uso
+público.
+3
+================================================================================
+PAGE 7
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+e) Combustible: Corresponde a vegetación viva y/o muerta producto del ciclo natural de la
+vegetación o de las intervenciones del ser humano, que se constituyen en material
+disponible para la generación y propagación de los incendios forestales.
+f) Cortafuego: Faja de terreno de ancho determinado de acuerdo a la altura de la vegetación
+circundante, que detiene o dificulta la propagación de un incendio forestal por carecer de
+vegetación combustible o porque ésta no está en condiciones de arder. Comprende fajas
+existentes, como caminos, líneas férreas y cursos de agua y cortafuegos construidos, como
+cortafuego preventivo, línea cortafuego, línea de fuego, cortafuego de agua y cortafuego
+químico.
+g) Daño potencial: Valoración cuantitativa o cualitativa que se le asigna a un bien o recurso a
+proteger. Su análisis puede realizarse integrando aspectos sociales, ambientales y
+económicos, o solo valorando alguno de estos aspectos.
+h) Desechos (agrícolas y forestales): Material vegetal combustible que queda como residuo
+de las actividades agrícolas y forestales. Por ejemplo: rastrojo de trigo.
+i) Fuego: Es el resultado del proceso químico denominado combustión. Para que se
+produzca, deberá existir presencia de un combustible (por ejemplo, vegetación con bajo
+contenido de humedad), una fuente de calor (fogata, fósforos, cigarrillos, quema agrícola)
+y oxígeno (procedente del aire).
+j) Incendio forestal: Toda destrucción de la vegetación, por intermedio del fuego y cuando
+éste se propaga libremente.
+k) Incendio de origen antrópico: Considerado como una causa interna de incendios, se
+generan ya sea por descuido, desconocimiento o intencionalmente.
+l) Incendio por origen natural: Considerado como una causa externa que, de origen a un
+incendio, las cuales son muy poco frecuentes en nuestro país, tales como erupciones
+volcánicas o caída de rayos en tormentas eléctricas secas.
+m) Ignífugo: Incombustible.
+4
+================================================================================
+PAGE 8
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+n) Mitigación del riesgo de incendio forestal: Conjunto de medidas destinadas a reducir al
+máximo los efectos potenciales sobre las personas, los bienes y el medio ambiente en el
+caso de ocurrencia de incendio forestal (Documento de Trabajo N°451/2006, CONAF).
+o) Prevención del riesgo de incendio forestal: Conjunto de medidas destinadas a evitar que
+se produzcan incendios forestales.
+p) Peligro: Corresponde a las condiciones ambientales que afectan tanto a la susceptibilidad
+de la vegetación a la ignición e inflamabilidad (meteorología, topografía), como también a
+la resistencia natural presente para el control de la propagación de eventuales focos de
+fuego que se inicien en la zona.
+q) Propagación: Expansión del fuego a una velocidad dada, en forma lineal, en superficie o
+en perímetro.
+r) Riesgo de incendios forestales: Es la probabilidad de exceder un valor específico de daños
+sociales, ambientales y económicos, en un lugar dado y durante un tiempo de exposición
+determinado. La determinación del Riesgo de incendios forestales está dada por la
+siguiente ecuación genérica: Riesgo: (amenaza; vulnerabilidad). Donde la amenaza es
+entendida como la probabilidad de ocurrencia de un incendio forestal, condicionada por
+la presencia y actividad de un agente causal, la vulnerabilidad, por su parte, corresponde
+al tipo de combustible posible de ser afectado.
+s) Zona de interfaz urbano rural: Aquella zona de transición donde existe contacto entre
+alguna formación vegetal con sectores edificados, habitados y/o áreas urbanas (Protocolo
+de Plantaciones Forestales).
+4. INCENDIOS FORESTALES Y CONSECUENCIAS
+Los problemas que provoca el fuego como incendio forestal pueden clasificarse según los daños y
+efectos. Estos se describen los siguientes apartados:
+4.1 DAÑOS DE LOS INCENDIOS FORESTALES
+Cuando hablamos de daños, estamos refiriéndonos a las pérdidas que genera un incendio forestal
+valorado en dinero. Las pérdidas que provocan los incendios forestales, o las quemas mal
+aplicadas, pueden clasificarse en dos grandes categorías.
+5
+================================================================================
+PAGE 9
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+a) Daños directos: Son todos aquellos daños producidos a bienes tangibles, transables en el
+mercado en valores monetarios, cuya identificación y evaluación es factible efectuarla
+inmediatamente o en un breve lapso después de producida la acción del fuego. En esta
+categoría cabe señalar pérdidas de maderas y otros productos forestales, cultivos
+agrícolas, cercos, ganado, aserraderos y otras instalaciones.
+b) Daños indirectos: Corresponden a las pérdidas de carácter intangible, difíciles de
+identificar y evaluar, incluso a veces en el mediano plazo, con secuelas que generalmente
+se manifiestan en valores que no estuvieron directamente afectados por la acción del
+fuego. Cabe aquí destacar la pérdida de fertilidad de los suelos, la iniciación de procesos
+erosivos, el embancamiento de cursos de agua, alteraciones en el equilibrio biológico y en
+los ecosistemas, el deterioro de la belleza escénica y la higiene ambiental, e incluso la
+secuela de problemas económicos y sociales que se originan en comunidades cuyo
+sustento se basa principalmente en el aprovechamiento de los recursos forestales.
+4.2 EFECTOS DE LOS INCENDIOS FORESTALES
+Se refiere a la calidad de los daños, o las alteraciones que se originan en la dinámica de los
+diferentes procesos relativos a los recursos naturales renovables, incluyendo las funciones que
+éstos cumplen en el desarrollo económico y social.
+Los efectos están orientados a establecer las pérdidas o alteraciones producidas por el incendio
+forestal. Se clasifican en socioeconómicos y ecológicos.
+a) Efectos Socioeconómicos
+Salud pública:
+• Contaminación de suelos, agua y aire.
+• Deterioro del paisaje y belleza escénica.
+• Limitaciones para la recreación, esparcimiento y prácticas deportivas.
+• Accidentes de vehículos. El humo que genera el fuego, a través de incendios o quemas a
+orillas cerca de caminos, puede ocasionar accidentes de tránsito, debido a que la
+visibilidad de los conductores se ve reducida considerablemente.
+Desarrollo comunitario:
+• Daños a la propiedad.
+• Deterioro o detención de procesos productivos.
+6
+================================================================================
+PAGE 10
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+• Reducción de fuentes de trabajo.
+• Limitaciones al desarrollo rural y al comercio local.
+• Deterioro del turismo y por tanto, de los ingresos que genera.
+• Pérdidas de valores culturales e históricos.
+• Perjuicios a obras públicas e infraestructuras de comunicaciones.
+• Empobrecimiento de una población que habita paisajes muy destruidos.
+b) Efecto Ecológico
+Clima:
+• Cambio en los regímenes de vientos.
+• Disminución de la humedad ambiental.
+• Incremento de la temperatura ambiental.
+• Aumento de la radiación solar.
+• Efecto invernadero.
+Suelo:
+• Deterioro de las propiedades físicas del suelo.
+• Cambio de las propiedades químicas del suelo, con pérdida frecuente de los nutrientes.
+• Pérdida de las propiedades biológicas del suelo.
+• Destrucción del estrato de materia orgánica no incorporado al suelo mineral.
+• Erosión de los suelos.
+Agua y cuencas hidrográficas:
+• Alteración en los cursos de agua.
+• Incremento del escurrimiento superficial de agua.
+• Alteración del ciclo hidrológico.
+• Deterioro en la calidad del agua.
+• En el período de lluvias, crecidas de ríos por embancamiento y con la consiguiente
+generación de inundaciones.
+Vida silvestre:
+• Destrucciones de formaciones vegetacionales o alteraciones en la composición de las
+especies.
+• Migraciones de animales mayores, aves, insectos y microrganismos.
+• Desequilibrios ecológicos o rupturas en la cadena biológica.
+7
+================================================================================
+PAGE 11
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+• Fragmentación y con ellos debilitamiento de los ecosistemas.
+Aire y atmósfera:
+• Alteraciones físico-mecánicas de la atmósfera.
+• Incorporación de emisiones contaminantes.
+• Producción de humo.
+5. RIESGOS
+5.1 IDENTIFICACIÓN DE RIESGOS DEL PROYECTO
+Los riesgos pueden diferenciarse entre internos y externos, donde por interno se entiende toda
+acción de origen humano, ya sea por descuido, desconocimiento o intencionalmente, que
+conlleve a la generación de un incendio forestal y a su vez, los riegos de origen externo, pueden
+ser asociados a causas naturales, tales como rayos, o por causas ajenas o no provocadas por el
+proyecto.
+En un comienzo para evaluar los riesgos, ya sea externos como internos, se analizó la información
+SIG contenida en la “Prescripciones técnicas programa de protección contra incendios forestales
+aplicable al plan de manejo de plantaciones forestales del D.L. N° 701/1974” versión 4.1, teniendo
+como resultado la lo graficado en la Figura 2-1, donde claramente se puede apreciar que el nivel
+de riesgo es muy alto, dado que por lo menos una zona de intervención está cubierta por una
+zona de categoría roja que es muy alta.
+8
+================================================================================
+PAGE 12
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Figura 5-1. Mapa de Riesgo CONAF
+Fuente: Aclara
+Adicionalmente a lo anterior y a modo de complemento en la Figura 5-1, podemos observar que el
+proyecto se encuentra en zona de interfaz urbano rural, dado que se tiene la urbanización de
+Penco contenida dentro del radio de 2,0 km y, además, además al interior de este radio se han
+registrado más de 50 incendios forestales durante el último quinquenio, donde la gran mayoría se
+ubica al noroeste, donde 6 incendios se han originado dentro de área de influencia de proyecto.
+9
+================================================================================
+PAGE 13
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Figura 5-2. Ocurrencia de incendios en último quinquenio en radio 2 km
+Fuente: Aclara
+Es importante mencionar que se tienen variables de riesgo potenciales asociadas a las actividades
+propias del proyecto, las cuales son las siguientes:
+• Sobrecalentamiento de maquinarias y/o equipos.
+• Almacenamiento de material inflamable y/o material combustible
+• Fósforos y colillas de cigarro, fallas eléctricas, etc.
+• Tormenta eléctrica.
+A continuación, en la Tabla 5-1 se presenta un resumen donde se señalan las instalaciones, partes,
+obras y/o acciones, según la fase de desarrollo en la que se encuentre el proyecto y se asocian los
+riesgos identificados.
+10
+================================================================================
+PAGE 14
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Tabla 5-1. Riesgos Fase de Construcción
+PARTE / OBRA / TIPO DE RIESGO NIVEL DE
+FASE INSTALACIÓN
+ACCIÓN INTERNO EXTERNO RIESGO
+• Incendios
+• Falla eléctrica provocados por
+Bajo
+Área Oficina • Almacenamiento de terceros
+material combustible • Tormenta
+eléctrica
+• Incendios
+Primeros provocados por
+Bajo
+Auxilios/Brigada • Falla eléctrica terceros
+de Emergencias • Tormenta
+eléctrica
+• Incendios
+• Falla eléctrica provocados por
+Bajo
+Área Casino • Almacenamiento de terceros
+material combustible • Tormenta
+eléctrica
+Generador de • Sobrecalentamiento de • Incendios
+Emergencia, maquinarias y/o provocados por
+Medio
+Transformador de equipos terceros
+Potencia y • Fósforos y/o colillas de • Tormenta
+Tablero General cigarro eléctrica
+• Falla eléctrica
+• Sobrecalentamiento de
+• Incendios
+maquinarias y/o
+provocados por
+Área Taller de equipos Medio
+terceros
+Trabajo • Fósforos y/o colillas de
+• Tormenta
+cigarro
+eléctrica
+• Almacenamiento de
+material combustible
+o
+t
+n
+e
+n
+ó ic c u r t s
+s a n e a F
+e d
+n ó ic a la
+im
+a n e c a m
+lA
+e d a g e
+s e
+la ir e t a M
+•
+•
+•
+F
+F c
+A m
+i
+a
+ó
+l
+g
+a m
+l
+s a
+l
+t
+f
+a
+r
+e a
+o r
+c r
+e
+r o
+i
+o
+e
+l
+a
+é
+n
+s
+l
+c
+a c
+y
+t
+m o
+r
+/
+i
+o
+m
+c
+i e
+a
+c
+b n
+o
+u t
+l
+o s
+il
+ti
+l a
+d b
+s
+e l e
+d e
+•
+•
+I
+p t
+T e
+n
+e
+o l
+r
+é
+c
+r o
+r
+c
+e
+c m
+v e
+t
+n
+o
+r
+r
+e
+d
+i
+c o
+c n
+i
+a s
+a
+o
+t
+d
+a
+s
+o s por Medio
+n
+o C
+t
+s n I
+d
+o B e d
+11
+================================================================================
+PAGE 15
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+PARTE / OBRA / TIPO DE RIESGO NIVEL DE
+FASE INSTALACIÓN
+ACCIÓN INTERNO EXTERNO RIESGO
+• Falla eléctrica • Incendios
+• Fósforos y/o colillas de provocados por
+Área Residuos Medio
+cigarro terceros
+Peligrosos
+• Almacenamiento de • Tormenta
+material inflamable eléctrica
+• Incendios
+• Fósforos y/o colillas de
+Área Residuos provocados por
+cigarro Medio
+Sólidos terceros
+• Almacenamiento de
+Domiciliarios • Tormenta
+material inflamable
+eléctrica
+• Incendios
+• Fósforos y/o colillas de
+provocados por
+Área Residuos No cigarro Medio
+terceros
+Peligrosos • Almacenamiento de
+• Tormenta
+material combustible
+eléctrica
+• Incendios
+provocados por
+Estación de • Fósforos y/o colillas de Medio
+terceros
+Combustible cigarro
+• Tormenta
+eléctrica
+• Incendios
+• Falla eléctrica provocados por
+Área Baños y Sala Bajo
+• Almacenamiento de terceros
+de Cambio
+material combustible • Tormenta
+eléctrica
+• Incendios
+Estacionamientos provocados por
+• Fósforos y/o colillas de Bajo
+Camionetas, terceros
+cigarro
+buses y Equipos • Tormenta
+eléctrica
+• Incendios
+Planta de • Falla eléctrica provocados por Bajo
+tratamiento de • Sobrecalentamiento de terceros
+agua servida maquinaria y/o equipos • Tormenta
+eléctrica
+12
+================================================================================
+PAGE 16
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+PARTE / OBRA / TIPO DE RIESGO NIVEL DE
+FASE INSTALACIÓN
+ACCIÓN INTERNO EXTERNO RIESGO
+• Incendios
+provocados por
+Replanteamiento y • Fósforos y/o colillas de Bajo
+- terceros
+preparación cigarro
+• Tormenta
+eléctrica
+• Incendios
+provocados por
+Movimiento de • Fósforos y/o colillas de Bajo
+- terceros
+tierra cigarro
+• Tormenta
+eléctrica
+• Incendios
+Habilitación de provocados por
+• Fósforos y/o colillas de Bajo
+accesos y caminos - terceros
+cigarro
+internos • Tormenta
+eléctrica
+• Incendios
+Implementación de provocados por
+• Fósforos y/o colillas de Bajo
+empalme de LTE - terceros
+cigarro
+Planta • Tormenta
+eléctrica
+• Incendios
+Acondicionamiento
+provocados por
+de zonas de • Fósforos y/o colillas de Bajo
+- terceros
+extracción y zonas cigarro
+• Tormenta
+de disposición
+eléctrica
+• Incendios
+Acopio de capas de • Fósforos y/o colillas de Bajo
+- provocados por
+suelo vegetal cigarro
+terceros
+• Incendios
+Desarme y retiro de provocados por
+• Fósforos y/o colillas de Bajo
+instalaciones - terceros
+cigarro
+temporales • Tormenta
+eléctrica
+Fuente: Elaboración propia
+Tabla 5-2. Riesgos en Fase de Operación
+13
+================================================================================
+PAGE 17
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+TIPO DE RIESGO NIVEL DE
+PARTE / OBRA
+FASE INSTALACIÓN RIESGO
+/ ACCIÓN INTERNO EXTERNO
+• Incendios
+• Falla eléctrica provocados por
+Sala Eléctrica y Medio
+terceros
+Generadores
+• Fósforos y/o colillas • Tormenta
+de cigarro eléctrica
+• Incendios
+• Falla eléctrica provocados por
+Edificio
+terceros
+Bajo
+Administrativo y
+• Sobrecalentamiento
+Sala de Control • Tormenta
+de maquinaria y/o
+eléctrica
+equipos
+• Incendios
+• Falla eléctrica provocados por
+Cilindro Lavador,
+terceros
+Bajo
+Espesador y
+• Sobrecalentamiento
+Harneros • Tormenta
+de maquinaria y/o
+eléctrica
+equipos
+• Incendios
+• Falla eléctrica provocados por
+Planta de terceros
+Operación
+Procesamiento • Sobrecalentamiento
+Área Reparación • Tormenta
+de maquinaria y/o
+de Equipos Y eléctrica Medio
+equipos
+Área Reparación
+• Fósforos y/o colillas
+Camionetas
+de cigarro
+• Almacenamiento de
+material
+combustible
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Área Residuos Medio
+• Fósforos y/o colillas • Tormenta
+Peligrosos
+de cigarro eléctrica
+• Almacenamiento de
+material inflamable
+• Incendios
+Bodega de • Falla eléctrica provocados por
+Medio
+Sustancias terceros
+Peligrosas • Fósforos y/o colillas • Tormenta
+de cigarro eléctrica
+14
+================================================================================
+PAGE 18
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+TIPO DE RIESGO NIVEL DE
+PARTE / OBRA
+FASE INSTALACIÓN RIESGO
+/ ACCIÓN INTERNO EXTERNO
+• Almacenamiento de
+material inflamable
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Área Filtros Vela • Sobrecalentamiento Bajo
+• Tormenta
+y Decanter de maquinaria y/o
+eléctrica
+equipos
+• Fósforos y/o colillas
+de cigarro
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Área Sistema de
+• Sobrecalentamiento Bajo
+Recuperación de • Tormenta
+de maquinaria y/o
+Agua eléctrica
+equipos
+• Fósforos y/o colillas
+de cigarro
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Sala • Sobrecalentamiento Bajo
+• Tormenta
+Compresores de maquinaria y/o
+eléctrica
+equipos
+• Fósforos y/o colillas
+de cigarro
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Bajo
+Baños
+• Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+Área
+• Falla eléctrica provocados por
+Almacenamiento
+terceros
+de Reactivos,
+• Fósforos y/o colillas • Tormenta Medio
+área
+de cigarro. eléctrica
+Almacenamiento
+• Almacenamiento de
+insumos y Área
+material
+de
+combustible
+15
+================================================================================
+PAGE 19
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+TIPO DE RIESGO NIVEL DE
+PARTE / OBRA
+FASE INSTALACIÓN RIESGO
+/ ACCIÓN INTERNO EXTERNO
+Almacenamiento
+Repuestos Planta
+Área Filtro • Incendios
+Tratamiento de • Falla eléctrica provocados por
+Agua, Edificio terceros Bajo
+Filtros Prensa
+• Fósforos y/o colillas • Tormenta
+Tubulares y Área
+de cigarro. eléctrica
+Filtros Prensa
+• Incendios
+Garita de Acceso
+• Falla eléctrica provocados por
+y Área Garita Bajo
+terceros
+Estación de
+• Fósforos y/o colillas • Tormenta
+Combustible
+de cigarro eléctrica
+• Incendios
+provocados por
+• Fósforos y/o colillas Bajo
+Estacionamientos terceros
+de cigarro
+• Tormenta
+eléctrica
+• Incendios
+Área Maniobras
+provocados por
+de Camiones • Fósforos y/o colillas Bajo
+terceros
+Alimentación de cigarro
+• Tormenta
+Planta
+eléctrica
+• Incendios
+Entrada de provocados por
+• Fósforos y/o colillas Bajo
+camiones arcilla terceros
+de cigarro
+Por Procesar • Tormenta
+eléctrica
+• Incendios
+Salida de provocados por
+• Fósforos y/o colillas Bajo
+camiones arcilla terceros
+de cigarro
+Procesada • Tormenta
+eléctrica
+• Incendios
+provocados por
+• Fósforos y/o colillas Bajo
+Stockpile terceros
+de cigarro
+• Tormenta
+eléctrica
+16
+================================================================================
+PAGE 20
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+TIPO DE RIESGO NIVEL DE
+PARTE / OBRA
+FASE INSTALACIÓN RIESGO
+/ ACCIÓN INTERNO EXTERNO
+• Incendios
+• Fósforos y/o colillas
+provocados por
+de cigarro
+Área Residuos terceros Medio
+Domiciliarios • Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+• Fósforos y/o colillas
+provocados por
+de cigarro.
+Área Residuos No terceros Medio
+Peligrosos • Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+• Fósforos y/o colillas
+provocados por
+de cigarro.
+Bodega Producto terceros Bajo
+Terminado • Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+• Falla eléctrica provocados por
+Planta de
+terceros
+Bajo
+tratamiento de
+• Sobrecalentamiento
+agua servida • Tormenta
+de maquinaria y/o
+eléctrica
+equipos
+• Incendios
+• Falla eléctrica provocados por
+terceros
+Bajo
+Área Casino
+• Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+provocados por
+Área Estación de • Fósforos y/o colillas Medio
+terceros
+Combustible de cigarro
+• Tormenta
+eléctrica
+Almacenamiento • Incendios
+y Preparación de • Falla eléctrica provocados por
+Medio
+muestras terceros
+Laboratorio, • Fósforos y/o colillas • Tormenta
+Laboratorio y de cigarro eléctrica
+17
+================================================================================
+PAGE 21
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+TIPO DE RIESGO NIVEL DE
+PARTE / OBRA
+FASE INSTALACIÓN RIESGO
+/ ACCIÓN INTERNO EXTERNO
+área de • Almacenamiento de
+Preparación de material
+Reactivos combustible
+• Incendios
+• Falla eléctrica provocados por
+Área Sala de
+terceros Bajo
+Cambio y Área de
+• Almacenamiento de
+Oficinas • Tormenta
+material
+eléctrica
+combustible
+• Incendios
+• Falla eléctrica provocados por
+Área Brigada de terceros Bajo
+Emergencias • Almacenamiento de
+• Tormenta
+material
+eléctrica
+combustible
+• Incendios
+Habilitación provocados por
+• Fósforos y/o colillas Bajo
+de caminos - terceros
+de cigarro
+internos • Tormenta
+eléctrica
+• Incendios
+Extracción de
+provocados por
+estéril y • Fósforos y/o colillas Bajo
+- terceros
+arcillas por de cigarro
+• Tormenta
+procesar
+eléctrica
+• Incendios
+Disposición de
+provocados por
+material en • Fósforos y/o colillas Bajo
+- terceros
+zonas de de cigarro
+• Tormenta
+disposición
+eléctrica
+• Incendios
+Cierre zonas
+provocados por
+de extracción • Fósforos y/o colillas Bajo
+- terceros
+y zonas de de cigarro
+• Tormenta
+disposición
+eléctrica
+Fuente: Elaboración propia
+18
+================================================================================
+PAGE 22
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+6. PLAN DE CONTINGENCIAS
+Para los riesgos identificados, de manera de prevención de los incendios forestales se
+implementarán las siguientes medidas:
+a) Falla eléctrica:
+- El tendido de cables, conductores y demás instalaciones eléctricas será realizado por
+personal debidamente capacitado.
+- Toda modificación y/o reparación asociada a sistemas eléctricos serán realizadas por
+personal calificado.
+- Se establecerá la prohibición de instalar cables a la vista sin protección al impacto.
+- Todos los sistemas eléctricos serán señalizados. En particular, los tableros principales y
+dispositivos de las salas eléctricas serán señalizados, indicando los sectores a que
+pertenece cada interruptor.
+- Se establecerán todas las medidas de control necesarias para evitar situaciones de
+riesgo cuando se realicen trabajos en las proximidades de líneas eléctricas energizadas.
+- Se realizarán revisiones y mantenciones periódicas a todas las instalaciones que puedan
+provocar un incendio, principalmente las instalaciones eléctricas.
+b) Fósforos y colillas de cigarro:
+- Al interior del proyecto, y en los caminos donde exista mayor paso de personas se
+instalarán letreros con mensajes y/o medidas de prevención; como, por ejemplo:
+prohibido encender fuego, prohibido botar basura, prohibido fumar. En los lugares de
+acceso al Proyecto habrá al menos un letrero con medidas mínimas de 3 x2m, a una
+altura no inferior a los 2m, el que contendrá el nombre del predio y los siguientes
+números de emergencias: CONAF 130, Bomberos 132, carabineros 133, también tendrá
+mensajes con medidas básicas de prevención.
+- Los sectores para fumadores estarán claramente demarcados y señalizados.
+- Se realizarán charlas de concientización a los trabajadores, contratistas y visitantes,
+respecto a la prevención de incendios forestales y la importancia que representa las
+formaciones vegetales que existen en el área del Proyecto, recalcando el valor que estas
+poseen, las funciones que cumplen para cada uno de nosotros y cómo pueden verse
+afectadas en caso de un incendio.
+19
+================================================================================
+PAGE 23
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+- Se prohibirá expresamente la eliminación de basura haciendo uso de fuego.
+- Se mantendrán limpias las fajas bajo todos los tendidos eléctricos.
+c) Sobrecalentamiento de maquinarias y/o equipos:
+- Se efectuarán mantenciones periódicas a vehículos y maquinarias del Proyecto, con el
+fin de reducir la probabilidad de derrame de combustible o sobrecalentamiento de
+motores. La periodicidad de las mantenciones corresponderá a la que indique el
+Fabricante.
+d) Almacenamiento de material inflamable y/o material combustible:
+- Los materiales inflamables serán almacenados en espacios especialmente habilitados,
+cumpliendo con lo dispuesto en el D.S. Nº160/2008 del Ministerio de Economía,
+Fomento y Reconstrucción, “Aprueba Reglamento de Seguridad para las instalaciones y
+operaciones de producción y refinación, transporte, almacenamiento, distribución y
+abastecimiento de combustibles líquidos” y en el D.S. Nº43/2016 del Ministerio de
+Salud, “Aprueba Reglamento de almacenamiento de sustancias peligrosas”.
+- Se mantendrá orden y limpieza en las instalaciones donde existan productos y/o
+materiales combustibles.
+- Se extraerá y eliminará toda la vegetación seca que pueda estar cercana a las
+instalaciones de almacenamiento de materiales inflamables y combustibles. Así como
+también se mantendrán techos limpios de ramas u hojas.
+e) Tormentas eléctricas:
+- Se mantendrán limpios los caminos interiores y sus fajas perimetrales, y alrededores de
+infraestructuras (radio 30 m), por lo que se mantendrán operativos y en perfectas
+condiciones en todo momento, principalmente durante la temporada de incendios
+forestales, de manera tal, que cumplan la función de cortafuego natural.
+f) Incendios provocados por terceros.
+- Se mantendrá comunicación con los propietarios de los predios cercanos al área de
+emplazamiento del proyecto con el objeto de detectar posibles conductas de terceros
+que propicien la generación de un incendio.
+- Se mantendrán limpios los caminos interiores y sus fajas perimetrales, por lo que se
+mantendrán operativos y en perfectas condiciones en todo momento, principalmente
+durante la temporada de incendios forestales, de manera tal, que cumplan la función
+20
+================================================================================
+PAGE 24
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+de cortafuego natural. Los principales caminos a mantener serán el colindante al Estero
+Penco y camino de acceso que conecta la ruta 150 en el sector de Cosmito, con la zona
+del proyecto.
+7. PROGRAMA DE PROTECCIÓN CONTRA INCENDIOS FORESTALES
+A continuación, se exponen los riesgos asociados a los incendios forestales, sus medidas y los
+plazos de implementación.
+Tabla 7-1. Riesgos, Medidas y Plazos del Programa Contra Incendios Forestales.
+Plazos y fase del
+Riesgo Medidas proyecto en que se
+instalará la medida
+El tendido de cables, conductores y demás instalaciones eléctricas será
+realizado por personal debidamente capacitado.
+15 meses iniciales del
+Toda modificación y/o reparación asociada a sistemas eléctricos serán
+Proyecto, en la Fase
+realizadas por personal calificado.
+de Construcción.
+Se establecerá la prohibición de instalar cables a la vista sin protección
+al impacto.
+La señalización se
+Riesgos
+Todos los sistemas eléctricos serán señalizados. En particular, los realizará la
+Internos:
+tableros principales y dispositivos de las salas eléctricas serán Construcción del
+Fallas
+señalizados, indicando los sectores a que pertenece cada interruptor. Proyecto. Plazo 15
+Eléctricas
+meses.
+Se establecerán todas las medidas de control necesarias para evitar
+situaciones de riesgo cuando se realicen trabajos en las proximidades Fase de Construcción
+de líneas eléctricas energizadas
+Se realizarán revisiones y mantenciones periódicas a todas las
+Anualmente durante
+instalaciones que puedan provocar un incendio, principalmente las
+todo el Proyecto.
+instalaciones eléctricas.
+Fase de Construcción.
+Letreros al interior del Proyecto
+Plazo 15 meses
+Los sectores para fumadores estarán claramente demarcados y Fase de Construcción,
+Riesgos señalizados Plazo 15 meses
+internos: Se realizarán charlas de concientización a los trabajadores,
+Fósforos y contratistas y visitantes, respecto a la prevención de incendios
+Fase de Construcción
+colillas forestales y la importancia que representa las formaciones vegetales
+y Operación, mínimo 1
+que existen en el área del Proyecto, recalcando el valor que estas
+vez al año
+poseen, las funciones que cumplen para cada uno de nosotros y cómo
+pueden verse afectadas en caso de un incendio.
+21
+================================================================================
+PAGE 25
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Plazos y fase del
+Riesgo Medidas proyecto en que se
+instalará la medida
+Fase de Construcción
+Se prohibirá expresamente la eliminación de basura haciendo uso de
+y Operación, mínimo
+fuego.
+1 vez al año
+Fase de Construcción,
+Se mantendrán limpias las fajas bajo todos los tendidos eléctricos. Operación y cierre, de
+manera Anual
+Se mantendrán limpios los caminos interiores y sus fajas perimetrales,
+Riesgo
+y alrededores de infraestructuras (radio 30 m), por lo que se Fase de Construcción,
+Externo:
+mantendrán operativos y en perfectas condiciones en todo momento, Operación y Cierre,
+Tormentas
+principalmente durante la temporada de incendios forestales, de frecuencia semestral
+eléctricas
+manera tal, que cumplan la función de cortafuego natural.
+Se mantendrá comunicación con los propietarios de los predios Se actualizará
+cercanos al área de emplazamiento del proyecto con el objeto de anualmente los
+detectar posibles conductas de terceros que propicien la generación contactos ante una
+Riesgo de un incendio. eventualidad.
+Externo: Se mantendrán limpios los caminos interiores y sus fajas perimetrales,
+Incendios por lo que se mantendrán operativos y en perfectas condiciones en
+Provocados todo momento, principalmente durante la temporada de incendios Fase de Construcción,
+por Terceros forestales, de manera tal, que cumplan la función de cortafuego Operación y Cierre,
+natural. Los principales caminos a mantener serán el colindante al frecuencia semestral
+Estero Penco y camino de acceso que conecta la ruta 150 en el sector
+de Cosmito, con la zona del proyecto.
+Fuente: Elaboración propia
+8. FORMACIÓN DE BRIGADA DE EMERGENCIA
+Se creará una brigada de emergencia, la cual tendrá como propósito la realización de un primer
+ataque al foco de incendio con recursos propios del proyecto, de manera de realizar un control en
+forma temprana del fuego, evitando la propagación del mismo, y con ello obtener tiempo para la
+llegada de apoyo externo, los cuales tomarían el control de la situación del combate hasta la
+extinción total en caso de que no haya sido logrado su control con el primer ataque.
+La brigada de emergencia estará especialmente entrenada para prevenir y actuar en caso de que
+ocurra cualquier contingencia dentro del ámbito de las instalaciones del proyecto. La estructura
+de la brigada de emergencia y sus funciones se describen a continuación:
+- Director de Emergencia: Asume la máxima responsabilidad en la estructura de la Brigada,
+teniendo la autoridad necesaria para tomar las decisiones de mayor alcance y
+responsabilidad. Es el coordinador general de los esfuerzos para neutralizar el incendio.
+22
+================================================================================
+PAGE 26
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+Tendrá atribuciones absolutas para disponer del personal, equipos y medios que estime
+necesarios para el mejor desarrollo de su función y será responsable de emitir las
+comunicaciones internas y externas.
+- Jefe de Emergencia: Asume el liderazgo de las operaciones de combate del incendio. Su
+función es la de valorar el nivel del incendio y asumir la dirección de coordinación de los
+Equipos de Emergencia.
+- Equipo de Apoyo: Se encargan de gestionar y coordinar todas las intervenciones con
+recursos externos a petición del Director de Emergencia.
+- Equipo de Intervención: Está compuesto por personal con formación y adiestramiento
+adecuado en la lucha contra incendios, así como en primeros auxilios. Conocen los riesgos
+generales y particulares que presentan las diferentes actividades desarrolladas en las
+distintas fases del Proyecto. Tienen conocimiento de la existencia y uso de los medios
+materiales de extinción de los que se dispone.
+8.1 DETECCIÓN Y AVISO OPORTUNO
+Las actividades de detección están orientadas básicamente a identificar la ocurrencia de un
+incendio y su ubicación en sectores cercanos a las obras del proyecto. Es importante recalcar que
+las acciones de combate aumentan su dificultad según el tiempo transcurrido, por lo tanto, es
+fundamental una detección y aviso en el menor tiempo posible.
+Las actividades de combate de incendios una vez declarados, son las de mayor coordinación, en
+donde la presencia de un líder o coordinador de actividades es necesaria para encausar los
+recursos y maximizar su utilización.
+Para efectos de este programa, el líder o coordinador será el jefe de emergencia, a quién se deberá
+dar aviso de inmediato sobre la existencia de humo, fuego o situaciones riesgosas, para lo cual se
+contará con un sistema de comunicaciones permanente al interior de las áreas del proyecto y
+teléfonos de contacto ante una emergencia.
+La detección y aviso de la existencia de un foco de incendio la puede realizar cualquier persona al
+interior del recinto comunicándolo al jefe de emergencia (o a quien lo reemplace). Quien reporte
+la existencia de un incendio deberá entregar información clave como: ubicación del incendio,
+extensión aproximada, tipo de vegetación afectada, condiciones meteorológicas, entre otras. Con
+esta información el jefe de la emergencia deberá evaluar y definir el nivel de la emergencia y
+entregará indicaciones al equipo de Intervención para que realice el primer ataque.
+23
+================================================================================
+PAGE 27
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+8.2 NIVELES DE EMERGENCIA Y COMUNICACIONES
+Toda vez que se dé aviso al jefe de emergencia (o a quién lo reemplace) sobre la existencia de un
+foco de incendio, este deberá evaluar la magnitud o nivel del incendio y si es posible hacer frente
+a la situación con los recursos propios del proyecto.
+Cabe indicar que se han definido 3 niveles de emergencia, en función de estos niveles se
+determinarán los medios de protección y combate, tanto humanos como materiales que deberán
+ser movilizados para hacer frente al incendio. Los niveles de emergencia definidos son:
+- Nivel 1 o Conato de Emergencia: Situación en la que el riesgo o accidente que la provoca,
+puede ser neutralizado de forma sencilla y rápida, con los medios y recursos disponibles
+presentes en el momento y lugar del accidente.
+- Nivel 2 o Emergencia Parcial: Situación en la que el riesgo o accidente requiere para ser
+controlado la intervención de equipos designados e instruidos expresamente para ello;
+afecta a una zona de las instalaciones y puede ser necesaria la “evacuación parcial” o
+desalojo de la zona afectada.
+- Nivel 3 o Emergencia General: Situación en la que el riesgo o accidente pone en peligro la
+seguridad e integridad física de las personas y es necesario proceder al desalojo o
+evacuación, abandonando las instalaciones. Requiere la intervención de ayuda externa.
+En caso de que el incendio no haya sido controlado con los recursos propios del proyecto, el jefe
+de la emergencia deberá comunicarse con el director de la emergencia e informar sobre el hecho,
+para que este último realice las comunicaciones y solicite el apoyo de la Corporación Nacional
+Forestal (CONAF) y Cuerpo de Bomberos de Penco.
+8.3 EQUIPO, MATERIALES Y HERRAMIENTAS
+Se dispondrá de equipos y herramientas en el predio de manera de proceder al rápido
+equipamiento del personal en caso de alguna emergencia.
+Cada integrante de la brigada de emergencia contará con el siguiente equipamiento de seguridad
+para las labores de combate de incendio:
+- Cascos.
+- Lentes de seguridad.
+- Mascarillas con filtros.
+- Zapatos de seguridad.
+- Chaqueta manga larga ignífuga.
+- Pantalón ignífugo.
+24
+================================================================================
+PAGE 28
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+- Guantes.
+Además, estarán disponibles herramientas y equipos básicos en el combate de incendios tales
+como:
+- Herramientas cortantes: Se emplean en el volteo de árboles y arbustos, corta de ramas y,
+en general, para ejecutar despejes o clareos de la vegetación, en la construcción de líneas
+de fuego y cortafuegos. Se dispondrá de herramientas como hachas, rozones y machetes.
+- Herramientas raspantes: Como lo indica su nombre, están destinadas a raspar el piso hasta
+el suelo mineral, para cortar la continuidad superficial y subterránea. Se dispondrá de
+rastrillos y azadones.
+- Herramientas múltiples: La más importante corresponde a la pala, cuyos modelos
+especialmente diseñados para el combate de incendios forestales poseen una gran
+versatilidad. Básicamente se le emplea en el raspado, excavado y en el lanzamiento de
+tierra. Con sus bordes afilados y la hoja cóncava con punta; también puede ser empleadas
+como herramientas cortantes de tallos medios y delgados, incluso para lanzar agua.
+- Herramientas sofocantes: En esta categoría están los batidores, que son de confección
+artesanal. El tipo más conocido consiste en un mango con una hoja gruesa de caucho en
+su extremo, de 35 por 25 por 1 cm, flexible. Este modelo es muy efectivo para la sofocación
+de fuegos de baja altura (pastizales, hojarasca), mediante un sobado lento sobre el
+material ardiente.
+- Equipos motorizados livianos: Están destinados a efectuar funciones cortantes y de
+despeje de la vegetación. Se caracterizan por su alto rendimiento en la construcción de
+líneas. Esta herramienta corresponde a motosierras y desbrozadoras.
+- Equipos para la aplicación de agua: La acción del agua puede estar dirigida a controlar los
+tres elementos del triángulo del fuego (oxígeno, calor y combustibles) y, apoyar al combate
+y en la extinción del incendio. Los equipos manuales son los más simples de utilizar y
+corresponden a baldes y bombas espalda.
+9. ACCIONES BÁSICAS DE EXTINCIÓN Y MÉTODOS DE COMBATE
+9.1 ACCIONES BÁSICAS DE EXTINCIÓN
+El combate al fuego está dirigido a romper el denominado triángulo del fuego, interviniendo sobre
+uno o más lados. Para ello, se pueden realizar ciertas acciones que permiten romper el triángulo
+en cualquiera de sus lados y con esto se interrumpe el proceso de combustión y se extingue el
+fuego.
+25
+================================================================================
+PAGE 29
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+9.1.1 Sobre el oxígeno:
+Se cubre al combustible en llamas con tierra para aislarlo del aire y, por tanto, del oxígeno.
+También se disminuye la presencia de oxígeno en el aire reemplazándolo por vapor de agua.
+9.1.2 Sobre el calor
+Se absorbe el calor que permite la combustión aplicando agua sobre el fuego. El agua tiene la
+capacidad de absorber calor para, naturalmente, evaporarse. El calor que permitía la combustión
+se consume intentando evaporar el agua. La evaporación, por tanto, quita calor al ambiente,
+enfría. Para efectos del Proyecto el agua se aplicaría con algunos de los equipos terrestres ya
+mencionados.
+9.1.3 Sobre el combustible
+La permanente presencia del oxígeno en el aire, así como la poca disponibilidad del agua en
+terrenos rurales, concentran las acciones sobre el combustible de cuatro formas:
+- Interrumpiendo la continuidad horizontal y vertical de la vegetación, cortando, extrayendo
+y eliminando la vegetación combustible en la trayectoria del incendio.
+- Aumentando el contenido de humedad de la vegetación.
+- Cubriendo al combustible con una mezcla de agua con un producto químico que retarde o
+impida la propagación del fuego.
+- Eliminando la vegetación combustible con un fuego que, controladamente iniciado por el
+personal a partir de un camino, río u otro tipo terreno sin vegetación, queme el
+combustible en la trayectoria del fuego.
+9.2 MÉTODOS DE COMBATE
+Para el control del fuego se realizará un ataque de forma directa instalando la denominada “línea
+de fuego” en el borde del foco de incendio, aplicando agua, arrojando tierra, por sofocación,
+empujando el material ardiente hacia adentro, cortando la vegetación, despejando y raspando el
+piso del bosque o matorral hasta el suelo mineral. Con este método se corta en forma inmediata
+la propagación del fuego, porque el control es en el frente mismo de avance.
+9.2.1 Línea de Fuego
+Consiste en distribuir a los integrantes de cada cuadrilla formando una fila, manteniendo
+permanentemente su misma posición relativa y avanzando a igual velocidad. El desplazamiento
+de los hombres se efectúa en tal forma que cada uno de ellos ejecuta una parte del trabajo,
+lográndose que la línea quede totalmente hecha con la pasada del último combatiente.
+26
+================================================================================
+PAGE 30
+================================================================================
+Anexo 8-1 Plan de Protección Incendios Forestales
+EIA Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de
+Concentrado de Tierra Raras
+A continuación, se presentan las distintas actividades a realizar en la construcción de la línea de
+fuego, a las que se asocian algunas herramientas que se encontrarán disponibles para el combate.
+- Localización de la línea (Marcación): Machete, rozón, hacha.
+- Corte y despeje de combustibles aéreos y superficiales: Rozón, machete, hacha, y
+motosierra.
+- Corte y raspado de combustibles superficial y subterráneo: Rastrillo, pala, azadón.
+- Volteo de árboles próximos a la línea: Hacha, motosierra.
+- Apoyo y vigilancia de la línea: Bomba de espalda y pala.
+Esta metodología para el combate de incendios otorga un alto rendimiento en la construcción de
+líneas y es de bajo riesgo para los combatientes. No obstante, para que sea efectivo se deberán
+realizar capacitaciones al personal para lograr una correcta preparación y funcionalidad como
+equipo.
+9.2.2 Guardia de Cenizas
+Corresponde al monitoreo final del sector del incendio cuya duración dependerá del tipo y
+dimensiones del incendio con el objeto de rematar los posibles rebrotes que aparezcan. Consistirá
+básicamente en una vigilancia de los sectores siniestrados.
+27

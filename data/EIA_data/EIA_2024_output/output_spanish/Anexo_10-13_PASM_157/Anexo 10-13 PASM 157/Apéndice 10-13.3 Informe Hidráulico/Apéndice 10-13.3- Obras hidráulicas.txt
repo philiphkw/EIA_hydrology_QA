@@ -1,0 +1,2639 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Apéndice 10-13.3
+Informe hidráulico
+EIA “Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras”
+Región del Biobío
+Junio, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+APÉNDICE 10-13.3
+INFORME DE DISEÑO OBRAS HIDRÁULICAS
+PROYECTO DE DESARROLLO MINERO DE
+EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE
+TIERRAS RARAS
+Fecha: Junio, 2024
+================================================================================
+PAGE 3
+================================================================================
+Apéndice 10-13.3 Informe Hidráulico
+Informe de Diseño Obras Hidráulicas
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Tierras Raras
+FMR GCB AVF
+1 27-05-2024 Jefe de Proyecto
+Ing. de Proyectos Ing. Senior
+Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Apéndice 10-13.3
+Página 2 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 4
+================================================================================
+Índice
+1. Antecedentes generales ........................................................................................ 5
+1.1. Zona de Estudio ................................................................................................... 6
+2. Metodología ......................................................................................................... 7
+2.1. Precipitaciones .................................................................................................... 7
+2.2. Áreas aportantes ................................................................................................. 7
+2.3. Caudales de diseño ............................................................................................. 8
+2.4. Diseño de alcantarillas, cajones y canales .......................................................... 9
+2.5. Verificación de alcantarillas y cajones ................................................................ 9
+2.6. Verificación de canales ...................................................................................... 10
+3. Obras hidráulicas ................................................................................................ 10
+3.1. Cruces de quebradas ......................................................................................... 10
+3.1.1.1. Alcantarillas ............................................................................................ 10
+3.1.2. Cajones ....................................................................................................... 11
+3.1.3. Disposición y Dimensionamiento de Cruces de Quebradas ....................... 11
+3.2. Obras de evacuación ......................................................................................... 15
+3.2.1. Canales de contorno .................................................................................. 15
+3.2.2. Descarga a canales de contorno ................................................................ 18
+3.2.3. Descargas a quebradas .............................................................................. 19
+Apéndice 10-13.3
+Página 3 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 5
+================================================================================
+Índice de figuras
+Figura 1: Ubicación General del Proyecto .............................................................................. 6
+Figura 3: Ubicación cruces de quebradas ............................................................................. 12
+Figura 4: Esquema de cruce de quebrada con atravieso tipo alcantarilla de 3 ductos ............ 13
+Figura 5: Corte Longitudinal cruce de quebrada con alcantarilla ........................................... 13
+Figura 6: Corte transversal cruce quebrada con alcantarilla .................................................. 14
+Figura 7: Esquema de ejemplo, cruce mediante cajones ...................................................... 14
+Figura 10: Esquema propuesto tipo canal de contorno ........................................................ 15
+Figura 11: Esquema tipo Gradas disipadoras de energía ....................................................... 16
+Figura 12: Esquema tipo descarga canal evacuador en un canal de contorno ........................ 18
+Figura 13: Esquema tipo obra de descarga canal de contorno .............................................. 19
+Apéndice 10-13.3
+Página 4 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 6
+================================================================================
+1. Antecedentes generales
+Este estudio se realiza en el marco del proyecto denominado Proyecto de Desarrollo
+Minero de Extracción de Arcillas para la Producción de Concentrado de Tierras Raras de
+la empresa REE UNO SpA, en adelante El Proyecto, el cual consiste en la construcción y
+operación de una faena minera junto con una planta de procesamiento de material
+meteorizado de origen granítico con presencia de Lantánidos, conocidos ampliamente
+como Tierras Raras. Para el desarrollo de este estudio se considera la caracterización
+hidrológica asociada al área de influencia del Proyecto, disponiendo para ello de
+antecedentes públicos y bibliográficos.
+Cabe destacar que el proyecto no requerirá de la explotación del recurso natural hídrico
+(tanto subterráneo como superficial) de algún curso, cuerpo o reservorio adyacente a
+las obras del proyecto para ejecución de sus procesos industriales, contando dichas
+actividades con fuentes externas de aprovechamiento. En efecto, la única interacción
+entre el proyecto y los cursos superficiales del área de influencia radica en la
+construcción de una serie de atraviesos de índole subterráneo, superficial o aéreo
+vinculados con la implementación de tuberías de conducción y habilitación de rutas de
+transporte.
+Las obras hidráulicas, cuyo dimensionamiento se considera en este informe son las
+siguientes:
+• Canales de contorno en las Zonas de Extracción Maite, Luna y Victoria Norte,
+Zona de Disposición Neptuno y Zona de Acopio Temporal de Material Vegetal
+(ZAV) del Proyecto, las cuales serán presentadas dentro del PAS 157.
+• Cajones y alcantarillas para el cruce de quebradas de los caminos internos, obras
+que serán presentadas dentro del PAS 156.
+El dimensionamiento de las obras fue realizado en base la hidrología presentada como
+apéndice 10-13.2A del presente EAI, para el PAS 156 y 157. El dimensionamiento de las
+demás obras hidráulicas del proyecto no forma parte del alcance del presente informe.
+El objetivo de este apéndice es establecer el diseño y los parámetros utilizados para este
+y para la verificación de las obras hidráulicas implementadas en el proyecto, así como
+también servir de apoyo técnico para el PAS 156 y 157.
+Apéndice 10-13.3
+Página 5 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 7
+================================================================================
+1.1. Zona de Estudio
+La zona en la que se realiza el estudio hidrológico corresponde al futuro emplazamiento
+del Proyecto el cual se ubica al este de la ciudad de Penco, Región del Biobío. Su
+localización general respecto de la región se presenta gráficamente en la Figura 1.
+Figura 1: Ubicación General del Proyecto.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3
+Página 6 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 8
+================================================================================
+2. Metodología
+En el presente acápite se presentan la metodología, así como las principales
+consideraciones y criterios de diseños utilizados para el dimensionamiento de las obras
+hidráulicas involucrada en el presente informe.
+En términos generales se tomaron las metodologías que se encuentran en el Manual de
+Carreteras, edición 2022, publicado por el MOP, además de criterios de diseño y teoría
+del libro Hidráulica Aplicada al Diseño de Obras de Horacio Mery y el libro Hidráulica e
+Hidrología Para Ingeniería de Antonio Campos Cedeño, Evgeny Konstantunivich
+Sinichenko e Ilya Igorevich Gritsuk 2016.
+2.1. Precipitaciones
+El dimensionamiento de los canales de contorno en las Zonas de Extracción se realiza
+utilizando los datos de caudales y áreas aportantes provenientes del estudio realizado
+por DAV Ingeniería y Consultoría SpA, entregado por el cliente (Apéndice 10.13.3
+Drenaje Aguas Lluvia)
+Para los canales de contorno en las zonas de Disposición Neptuno y de Acopio Vegetal
+(ZAV), se utiliza el layout del proyecto y curvas de nivel. Los detalles de este análisis se
+encuentran en el Apéndice 10-13.2A - Informe Hidrológico.
+2.2. Áreas aportantes
+Las cuencas aportantes se definen como el área que capta el agua precipitada y la drena
+hacia un punto de desfogue. Estas cuencas pueden tener diversos tamaños
+dependiendo de cómo se drenen las aguas. Esta definición se utiliza para el cálculo del
+tiempo de concentración de cada cuenca, que corresponde al tiempo que una partícula
+viaja desde el punto más lejano hidráulicamente de la cuenca hacia el punto de
+desfogue.
+Las Zonas de Disposición y Acopio Temporal de Material Vegetal quedarán dispuestas
+con terrazas y se definirán canales que encaucen las precipitaciones sobre cada banco y
+talud.
+Apéndice 10-13.3
+Página 7 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 9
+================================================================================
+2.3. Caudales de diseño
+Para el cálculo de escorrentía se utiliza la metodología de la fórmula racional la cual es
+aplicable a las cuencas chilenas. Esta metodología se recomienda en el Manual de
+Carretera del MOP y utiliza las precipitaciones diarias máximas anuales para los periodos
+de retorno deseados, además de los tiempos de concentración asociados a las cuencas
+aportantes, a fin de definir una intensidad máxima. Si bien el Manual de Carreteras
+también recomienda el uso de los métodos de Verni King y DGA-AC, estos fueron
+descartados dado que las cuencas de estudio no cumplen las condiciones para su
+aplicación. Finalmente, el cálculo de la escorrentía se realiza utilizando la siguiente
+ecuación:
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3,6
+Donde:
+• 𝐶 es el coeficiente de escorrentía asociado al periodo de retorno T
+• 𝑖 es la intensidad de precipitación asociada al periodo de retorno T, y a una
+duración igual al tiempo de concentración de la cuenca o área aportante, en
+(mm/hr)
+• 𝐴 es el área aportante, en (km2).
+El detalle de los cálculos y la metodología para la determinación de los caudales se
+pueden encontrar en el Apéndice 10-13.2A – Estudio hidrológico y Anexo 10-13.3 –
+Calculo de escorrentía.
+Apéndice 10-13.3
+Página 8 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 10
+================================================================================
+2.4. Diseño de alcantarillas, cajones y canales
+Para el dimensionamiento de las alcantarillas de cada atravieso de camino, de los
+cajones y canales, se utilizaron los caudales de crecidas estipulados en el Apéndice 10-
+13.2 – Estudio hidrológico y Anexo B.1 – Calculo de escorrentía, y a partir de estos se
+determinó la altura de escurrimiento. Para la determinación de la altura de
+escurrimientos se utilizó la fórmula de Manning.
+Ω ∙ R2/3 ∙ 𝑆1/2
+𝑄 =
+𝑛
+Donde:
+• 𝑄 corresponde al caudal de diseño, en (m3/s).
+• Ω corresponde al área hidráulica, en (m2).
+• R corresponde al radio hidráulico, calculado como Ω/perimetro mojado, en (m).
+• S corresponde a la pendiente, en (m/m).
+2.5. Verificación de alcantarillas y cajones
+La carga hidráulica de entrada o de remanso fue calculada a partir de las ecuaciones
+analíticas presentadas en Manual de Carreteras Vol. 3 en la sección 3.703.303(1), la cual
+fue por la Federal Highway Administration (FHWA) mediante modelos de regresión,
+ecuaciones polinómicas de quinto grado que entregan directamente la carga hidráulica
+de entrada.
+𝐻 = [𝑎 + 𝑏𝑧𝐹 + 𝑐(𝑍𝐹)2 + 𝑑(𝑍𝐹)3 + 𝑒(𝑍𝐹)4 + 𝑓(𝑍𝐹)5 − 0.5𝑖] ∙ 𝐷
+𝑒
+Donde
+• 𝐻𝑒 es la carga hidráulica de entrada, en (m).
+• 𝐴. . 𝐹 son coeficientes de la regresión.
+• 𝐹 es Q/D5/2 en alcantarillas circulares, o bien Q/(BD)3/2 en alcantarillas de cajón.
+• Q es el caudal en (m3/s).
+• B es la altura de la alcantarilla, diámetro en caso de tubos, en (m).
+• 𝑖 es la pendiente longitudinal, en (m/m).
+• 𝑍 es un factor de conversión para unidades métricas, y toma el valor de
+1,81130889.
+Los coeficientes de regresión A a F toman valores de acuerdo con el tipo de alcantarilla
+(cajón o alcantarilla circular), al material (hormigón, acero corrugado o tubería de
+polietileno de alta densidad), y en base a las terminaciones que presenta al contacto con
+el flujo (aristas vivas, tubos prolongados, con o sin alas, entre otros). Todos estos valores
+se presentan en la tabla 3.703.303.A del volumen 3 del Manual de Carreteras.
+Apéndice 10-13.3
+Página 9 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 11
+================================================================================
+2.6. Verificación de canales
+Los caudales de verificación (para un período de retorno de 150 años) para las zonas de
+disposición Neptuno y Acopio Vegetal ZAV fueron obtenidos a partir de una
+interpolación lineal entre los caudales para 100 y 200 años, dado que fueron estimados
+a partir del Método Racional. Como los caudales de diseño de los canales de contorno
+en las zonas de extracción provienen de los canales evacuadores internos, y estos fueron
+estimados mediante una metodología de probabilidades de excedencia, se utiliza como
+factor de amplificación la razón entre los caudales de verificación y de diseño de las
+zonas de disposición y acopio vegetal. Este factor toma un valor de 1,055 y se aplica a
+los caudales de diseño de cada canal de contorno en zonas de extracción para poder
+realizar la verificación análoga al caudal de 150 años.
+Con este caudal se calcula la altura hidráulica generada en el canal y se verifica que esta
+altura no sobrepase el diseño propuesto en cada una de las áreas de extracción,
+disposición y acopio vegetal. Esta verificación se encuentra tabulada en el Anexo 10-13.3
+– Diseño de canales y alcantarillas.
+3. Obras hidráulicas
+3.1. Cruces de quebradas
+La función de las obras hidráulicas asociadas al cruce de caminos es preservar la
+continuidad del flujo natural, proveniente de la escorrentía generada en los eventos de
+tormenta, la cual intercepta la infraestructura vial proyectada. Se proyectan 2 tipos de
+obras, dependiendo de los caudales asociados a cada uno de los cruces singulares. Los
+tipos de cruce de quebradas serán materializados por:
+• Alcantarillas
+• Cajones
+3.1.1.1. Alcantarillas
+Corresponden al emplazamiento de uno o más tubos de acero galvanizado corrugado (o
+Polietileno de Alta Densidad técnicamente similar al acero corrugado) por debajo de la
+calzada. Estos se encuentran ubicados a una profundidad definida para no ser afectado
+por las cargas vivas de los camiones que transitarán con el material de explotación de la
+mina. La entrada a la alcantarilla se encuentra revestida con estructuras de hormigón
+pobre a fin de conducir el agua dentro del o de los tubos y servir como soporte
+estructural. Se considera un coeficiente de Manning de 0,02 para las tuberías de acero
+corrugado.
+Apéndice 10-13.3
+Página 10 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 12
+================================================================================
+3.1.2. Cajones
+Corresponden a obras de hormigón armado de sección cuadrada, pudiendo ser
+utilizados elementos prefabricados siempre que cumplan con las dimensiones asociadas
+al caudal de porteo definido. Estas obras se encontrarán instaladas por debajo de la
+calzada, a una profundidad definida para no ser afectado por las cargas vivas de los
+camiones que transitarán con el material de explotación de la mina. La entrada al cajón
+se encuentra revestida con estructura de hormigón armado, así como también de muros
+ala en ambos extremos, con el fin de mejorar la conducción del agua hacia el cajón,
+disminuir la erosión a los costados del cauce y disminuir la energía de entrada del agua
+a la obra. Se considera un valor de 0,015 para el coeficiente de Manning del cajón de
+hormigón.
+3.1.3. Disposición y Dimensionamiento de Cruces de
+Quebradas
+Los caminos internos del Proyecto, tanto los nuevos que se habilitarán, así como los
+existentes que se acondicionarán para los requerimientos del Proyecto, cruzarán
+quebradas en los puntos que se muestran en la Figura 3.
+Apéndice 10-13.3
+Página 11 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 13
+================================================================================
+Figura 2: Ubicación cruces de quebradas.
+Fuente: Elaboración propia, 2024.
+Las alcantarillas de los cruces de quebrada de acero galvanizado corrugado o en su
+defecto de Polietileno de Alta Densidad (PEAD), tendrán un diámetro que variará entre
+0,6 m y 1,2 metros, dependiendo del caudal de período de retorno 100 años que deban
+portear. Para facilidades constructivas, se han considerado diámetros comerciales
+partiendo en 0,6 m aumentando 0,1 m hasta alcanzar los 1,2 m.
+En las Figura 3, Figura 4 y Figura 5, se presenta el esquema de obra de alcantarilla y
+cajones, cabe destacar que se presenta un caso con 3 ductos, existen casos de 1 y 2
+ductos.
+Apéndice 10-13.3
+Página 12 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 14
+================================================================================
+Figura 3: Esquema de cruce de quebrada con atravieso tipo alcantarilla de 3 ductos.
+Fuente: Manual de Carreteras, Vol 4.
+Figura 4: Corte Longitudinal cruce de quebrada con alcantarilla.
+Fuente: Manual de Carreteras, Vol 4.
+Apéndice 10-13.3
+Página 13 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 15
+================================================================================
+Figura 5: Corte transversal cruce quebrada con alcantarilla.
+Fuente: Manual de Carreteras, Vol 4.
+Los cajones de los cruces de quebrada de hormigón armado de sección cuadrada serán
+utilizados en los casos donde se tengan valores de escorrentía altos, en donde en caso
+de utilizar obras de arte tipo alcantarillas, fueran necesarias más de 3 ductos. Tendrán
+un ancho y altura de 2 o 3 metros, dependiendo del caudal de período de retorno 100
+años que deban portear. A continuación, se presenta el esquema de los cruces mediante
+cajones.
+Figura 6: Esquema de ejemplo, cruce mediante cajones.
+Fuente: Manual de Carreteras, Vol 4.
+Apéndice 10-13.3
+Página 14 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 16
+================================================================================
+3.2. Obras de evacuación
+Tanto en las Zonas de Extracción y Disposición del Proyecto se considera implementar
+las siguientes obras para la evacuación de aguas lluvias:
+• Canales de contorno.
+• Descarga de canales de contorno.
+• Descargas quebradas.
+A continuación, se describen las obras mencionadas.
+3.2.1. Canales de contorno
+Los canales de contorno son los que se encuentran ubicados en los bordes de las Zonas
+de Extracción, Disposición y Acopio Vegetal. Estos cuentan con los aportes de la
+escorrentía de los cerros y quebradas aledañas, además de los aportes de los canales
+evacuadores (para el caso de las zonas de Extracción).
+Los canales de contorno serán trapezoidales de base y altura variable y taludes de
+relación 1:1 (45°), revestidos con hormigón pobre (o solución técnicamente similar) y
+piedras de forma irregular, de forma de disminuir en la energía del flujo. En la Figura 7,
+se presente un esquema tipo de los canales de contornos.
+Figura 7: Esquema propuesto tipo canal de contorno.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3
+Página 15 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 17
+================================================================================
+Debido a que las pendientes de estos canales están determinadas principalmente por la
+topografía, se pueden desarrollar en ellos velocidades mayores a 5 m/s. Para evitar la
+erosión, se contemplan las siguientes cuatro medidas:
+• Serán revestidos con hormigón, piedras dispuestas de forma irregular y sistema
+constructivo estable (con malla acma o solución técnicamente similar. El
+revestido también puede ser cambiado por características técnicamente
+similares, acorde a lo definido en fases posteriores de ingeniería de detalles).
+• En los tramos de alta pendientes se implementarán gradas, también de
+hormigón con malla tipo acma y piedras dispuestas de forma irregular (o solución
+técnicamente similar).
+• Se suavizarán las curvas de los canales teniendo como parámetro que el radio de
+curvatura mínimo para un canal que lleva 0,5 m3/s será de 5 m y un canal que
+portea 1 m3/s de 10 m.
+• Los canales de contorno evacuarán sus aguas tan pronto la topografía lo
+posibilite, de forma de minimizar el caudal que portean. Esto se realiza para
+evitar que transporten grandes caudales. Se considera la forma natural de la red
+de drenaje, a fin de producir el menor impacto posible.
+Como se sostiene anteriormente, la energía se disipa mediante gradas y caídas que
+frenarán el flujo, disminuyendo su velocidad y energía. La Figura 8, muestra un esquema
+conceptual de esta última.
+Figura 8: Esquema tipo Gradas disipadoras de energía.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3
+Página 16 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 18
+================================================================================
+Los principales criterios de diseño de los canales de contorno se presentan a
+continuación:
+✓ Período de retorno de 100 años para el dimensionamiento de las obras y de 150
+años para la verificación.
+✓ Coeficiente de Manning igual 0,02, correspondiente a canales de tierra libres de
+vegetación.
+✓ Velocidad erosiva de 0,9 m/s que determinará la necesidad de revestir o no el
+canal.
+✓ Canales trapezoidales, pensados para tramos de topografía accidentada, los
+cuales aseguran su estabilidad y simplifican su construcción. En caso de que la
+topografía lo permita, se materializarán canales rectangulares, revestidos de
+igual manera.
+✓ Se consideran las pendientes de terreno, las cuales son mayores al 1% (i=0,01).
+✓ La revancha mínima existente de diseño será de 0,2 m y máxima 0,5 m.
+Apéndice 10-13.3
+Página 17 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 19
+================================================================================
+3.2.2. Descarga a canales de contorno
+Los canales de contornos recibirán únicamente los aportes de los canales evacuadores.
+La descarga de un canal evacuador en un canal de contorno se materializará en base a
+un radier y paredes de hormigón con malla acma (o solución técnicamente similar) y
+piedras dispuestas irregularmente, de acuerdo con el esquema tipo que se presente en
+la Figura 9.
+Figura 9: Esquema tipo descarga canal evacuador en un canal de contorno.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3
+Página 18 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 20
+================================================================================
+3.2.3. Descargas a quebradas
+Los canales de contorno descargarán las aguas hacia quebradas aledañas por medio de
+canaletas de acero galvanizado corrugado (o solución técnicamente competente), de
+acuerdo con el esquema tipo que se presenta en la Figura 10.
+Figura 10: Esquema tipo obra de descarga canal de contorno.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3
+Página 19 de 19
+Informe de Diseño de Obras Hidráulicas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 21
+================================================================================
+APÉNDICE B
+INFORME HIDRÁULICO
+ATRAVIESO OLEODUCTO ZONA DE EXTRACCIÓN
+MAITE
+Fecha: Abril, 2024
+Página 1 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 22
+================================================================================
+Apéndice B
+Informe Hidráulico
+Atravieso Oleoducto Zona de Extracción Maite
+FMR DOR GCB
+1 27/05/2024 Coordinadora de Jefe de Proyecto
+Ing. de Proyectos
+Proyectos Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Página 2 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 23
+================================================================================
+Índice
+1. Antecedentes generales..................................................................................... 5
+1.1. Zona de Estudio ...................................................................................................6
+1.2. Hidrografía ...........................................................................................................7
+1.3. Cuencas Aportantes ............................................................................................8
+1.4. Hidrología de la Zona de Estudio ........................................................................9
+2. Modelación hidráulica ....................................................................................... 9
+2.1. Parámetros de entrada ..................................................................................... 10
+2.1.1. Caudales ................................................................................................... 10
+2.1.2. Topografía ................................................................................................ 13
+2.1.3. Definición de grilla 2D .............................................................................. 15
+2.1.4. Coeficiente de Manning ........................................................................... 19
+2.1.5. Condiciones de Borde ............................................................................... 21
+2.2. Resultados ......................................................................................................... 25
+2.2.1. Superficie de inundación .......................................................................... 25
+2.2.2. Socavación ............................................................................................... 30
+3. Conclusiones .................................................................................................... 33
+Página 3 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 24
+================================================================================
+Índice de Tablas
+Tabla 1: Descripción de los puntos de análisis. .............................................................................. 8
+Tabla 2. Resumen de caudales utilizados en el estudio ............................................................... 10
+Tabla 3: Resumen diseño Canal TC4 ZE Maite. ............................................................................ 10
+Tabla 4. Parámetros hidrogramas para cada cuenca. .................................................................. 12
+Tabla 5. Mallado para cada cuenca del estudio ........................................................................... 15
+Tabla 6. Coeficiente de Manning, distintos usos de suelo ........................................................... 19
+Tabla 7: Puntos de interés modelados. ........................................................................................ 25
+Tabla 8. Parámetros utilizados de acuerdo con el tipo de suelo. ................................................. 31
+Tabla 9. Resumen de socavación general por perfil y por cuenca. .............................................. 32
+Índice de figuras
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S. ................................................... 6
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S. ................................................. 7
+Figura 3: Puntos de interés y cuencas, UTM WGS 84/ H18S. ........................................................ 8
+Figura 4. Tipos de hidrogramas unitarios racional. ...................................................................... 11
+Figura 5. Hidrogramas cuencas, periodo de retorno 100 años. ................................................... 12
+Figura 6. Área considerada levantamiento topográfico, UTM DATUM WGS84/H18S ................. 13
+Figura 7. DEM utilizado ................................................................................................................ 14
+Figura 8. Mallado cuenca 1 .......................................................................................................... 16
+Figura 9. Mallado cuenca 2, situación sin proyecto ..................................................................... 17
+Figura 10. Mallado cuenca 2, situación con proyecto .................................................................. 18
+Figura 11. Usos de suelo área de estudio, UTM DATUM WGS84/H18S. ...................................... 20
+Figura 12. Condiciones de borde cuenca 1 .................................................................................. 22
+Figura 13. Condiciones de borde cuenca 2 (Situación Sin Proyecto). .......................................... 23
+Figura 14. Condiciones de borde cuenca 2 (Situación con Proyecto). ......................................... 24
+Figura 15. Superficie de inundación, punto de interés 1 UTM DATUM WGS84/H18S ................ 26
+Figura 16. Superficie de inundación, punto de interés 2 (Situación sin proyecto), UTM DATUM
+WGS84/H18S ................................................................................................................................ 27
+Figura 17. Superficie de inundación, punto de interés 2 (Situación con proyecto), UTM DATUM
+WGS84/H18S ................................................................................................................................ 28
+Figura 18. Calicatas realizadas en la zona de extracción Maite. .................................................. 30
+Figura 19. Disposición de perfiles transversales por cuenca. ....................................................... 32
+Página 4 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 25
+================================================================================
+1.1. Antecedentes generales
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de
+Tierras Raras, ubicado administrativamente en la Comuna de Penco y Concepción, Provincia de
+Concepción, Región del Biobío, consiste en la construcción y operación de una faena minera junto
+con una planta de procesamiento de material granítico meteorizado, con presencia de arcillas.
+El regolito, en adelante llamado “Arcillas por procesar”, se forma como resultado de una alta
+meteorización de las rocas y contiene lantánidos adsorbidos en los minerales de arcilla. Los
+lantánidos, o Tierras Raras, son 15 elementos cuyo número atómico aumenta desde el Lantano
+(57) al lutecio (71). Por su comportamiento químico similar se les suma el itrio (Y). En adelante
+serán llamados “tierras raras”.
+La planta tiene una capacidad para procesar hasta 320 toneladas/hora de material y producir
+aproximadamente 3.100 toneladas anuales de concentrado de Tierras Raras.
+Sumado a lo anterior, el Proyecto considera tres (3) zonas de extracción de arcillas, donde en el
+costado sur de una de ellas (ZE Maite) hay proyectada la modificación de un oleoducto soterrado
+de ENAP. El desarrollo de este estudio tiene como objetivo principal evaluar la socavación general
+en estos 2 nuevos puntos de atravieso de cauces naturales con el oleoducto mediante
+modelación hidráulica en 2 dimensiones con el software HEC-RAS, para así determinar si la
+tubería soterrada se ve afectada por la escorrentía (Ver Apéndice 10.13.2B – Estudio
+Hidrológico). Se evaluarán 2 escenarios, situación sin proyecto (quebrada inalterada) y con
+proyecto (quebrada siendo intervenida como zona de Extracción).
+Página 5 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 26
+================================================================================
+1.1. Zona de Estudio
+La zona en la que se realiza este estudio hidrológico corresponde al futuro emplazamiento de la
+zona de extracción Maite, ubicada al costado sur del emplazamiento general del Proyecto, el cual
+se ubica al este de la ciudad de Penco, Región del Biobío. Su localización general respecto de la
+región se presenta gráficamente en la Figura 1.
+Figura 1: Ubicación General del Proyecto, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Página 6 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 27
+================================================================================
+1.2. Hidrografía
+La zona de estudio se encuentra aledaña al Estero Penco, el cual bordea una de las zonas de
+Extracción del Proyecto. Se utilizan, como referencia, las cartas IGM 1:50.000 F-106 Hualqui para
+conocer los cauces permanentes aledaños al trazado de la modificación del oleoducto en la zona
+de extracción Maite.
+La red hidrográfica de la zona de estudio se obtuvo a partir de un modelo de elevación digital
+(DEM) junto con el procesamiento de los datos mediante algoritmos en software QGIS. El DEM
+fue generado a partir de la topografía del proyecto, la cual cuenta con curvas de nivel con 1 metro
+de precisión.
+En la Figura 2 se puede apreciar la red hidrográfica obtenida a partir del DEM y puede observarse
+que esta es consistente con los cauces IGM, manteniendo la ubicación de los cauces en las
+cercanías de la zona de proyecto.
+Figura 2: Red hidrográfica a partir de DEM, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Página 7 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 28
+================================================================================
+1.3. Cuencas Aportantes
+A partir de los cauces IGM anteriormente mencionados se encontraron 2 puntos de interés, los
+cuales corresponden en su totalidad a cruces de la infraestructura del proyecto, en este caso el
+by pass del Oleoducto, con cauces naturales. Las cuencas asociadas a estos puntos de interés se
+obtuvieron a partir del modelo de elevación digital DEM, y la red hidrográfica generada a partir
+de este, mencionado anteriormente. La descripción de los puntos mencionados se presenta en
+la Tabla 1, y la ubicación de estos junto a sus respectivas cuencas se muestra gráficamente en la
+Figura 3.
+Tabla 1: Descripción de los puntos de análisis.
+UTM WGS 84/ H18S
+Punto Descripción
+E N
+Cuenca 1 680004 5928378 Cruce Oleoducto proyectado con cauces IGM.
+Cuenca 2 680415 5928055 Cruce Oleoducto proyectado con cauces IGM.
+Fuente: Elaboración propia, 2024.
+Figura 3: Puntos de interés y cuencas, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024.
+Página 8 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 29
+================================================================================
+1.4. Hidrología de la Zona de Estudio
+La hidrología utilizada en el presente estudio hidráulico se encuentra adjunta en el documento
+“Apéndice 10-13.2B– Estudio Hidrológico”.
+1.2. Modelación hidráulica
+Dado que la quebrada donde se encuentra la ZE Maite será intervenida para la extracción del
+material, se genera un sistema de canales evacuadores que descarga a canales de contorno, cuyo
+último destino es descargar puntualmente a los cauces naturales, se generan 2 escenarios de
+modelación, situación con y sin proyecto. La situación sin proyecto es exactamente igual para
+ambos puntos de interés, donde la escorrentía generada por la quebrada escurre a través de los
+cauces naturales y se evalúan las condiciones en cada punto de descarga.
+Por otro lado, la situación con proyecto para la cuenca 1 (Figura 3) es igual a la situación sin
+proyecto, dado que ninguno de los canales de contorno proyectados descarga en el cauce que
+intercepta al oleoducto en dicho punto, sin embargo, para la cuenca 2 (Figura 3) se tiene que el
+canal TC4 descarga en dicho cauce, por lo que se modelará el canal sumado a la escorrentía de
+las quebradas asociadas a dicha cuenca.
+Para la modelación hidráulica se utiliza el tipo de simulación bidimensional del Software HEC-RAS
+versión 6.3.1, desarrollado por el U.S Army Corps of Engineers Hydrologic Center.
+Página 9 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 30
+================================================================================
+1.5. Parámetros de entrada
+1.5.1. Caudales
+Los caudales utilizados para la modelación provienen de los cálculos realizados en el informe
+hidrológico que acompaña este informe. Los caudales para los distintos periodos de retorno
+fueron calculados según la hidrología del sector y las cuencas correspondientes.
+Para la modelación hidráulica se utilizarán solamente los caudales asociados al periodo de
+retorno de 100 años. A continuación, se presenta un resumen de los caudales obtenidos
+mediante la formula racional.
+Tabla 2. Resumen de caudales utilizados en el estudio.
+Caudal (m3/s)
+Cuenca
+T =100
+R
+Cuenca 1 0,29
+Cuenca 2 0,74
+Fuente: Elaboración propia, 2024.
+Para la situación con proyecto se añade la descarga del canal TC4 de la ZE Maite, canal trapezoidal
+y revestido, el cual posee los siguientes parámetros:
+Tabla 3: Resumen diseño Canal TC4 ZE Maite.
+ID Q (m3/s) i [m/m] B (m) H (m) z [-] n
+TC4 1,069 0,224 1 0,6 1 0,02
+Fuente: Elaboración propia, 2024.
+1.5.1.1. Hidrogramas de crecidas
+La modelación hidráulica se realiza en régimen de flujo intermitente, por lo tanto, se debe
+adoptar un hidrograma para modelar las crecidas. Para la estimación de los hidrogramas de
+crecida de las cuencas, las cuales corresponden a las quebradas que rodean la zona de proyecto,
+se utilizó la metodología del hidrograma unitario racional modificado, el cual se usa para calcular
+el gasto máximo producto del área de drenaje, intensidades de lluvia, y coeficientes de
+escurrimiento, aplicable a áreas menores a 10 (km2).
+Este método corresponde a una extensión del método racional, de manera de generar un
+hidrograma donde el caudal máximo corresponda a aquel calculado a partir del método racional,
+para cuencas pequeñas. La Figura 4, ilustra los tipos de hidrograma que se pueden utilizar según
+este método.
+Página 10 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 31
+================================================================================
+Figura 4. Tipos de hidrogramas unitarios racional.
+Fuente: Hidrograma desarrollado en Virginia, EU. Obtenido desde “Método del hidrograma unitario racional e
+hidrograma unitario trapezoidal” Rios, Alcocer, Borguett y Dominguez.
+En este caso se utilizará un hidrograma tipo II, donde el tiempo al peak corresponde al tiempo de
+concentración de cada cuenca. El caudal peak de cada periodo de retorno se presenta en la Tabla
+2 y la duración se obtiene como la diferencia entre el tiempo base y 1,5 veces el tiempo de
+concentración, es decir:
+𝑑 = 𝑡 − 1,5 ∙ 𝑡
+𝑏 𝑐
+Donde
+• 𝑑: Duración del hidrograma unitario racional modificado (min).
+• 𝑡 : Tiempo de concentración de cada cuenca, obtenido desde el estudio hidrológico (min).
+𝑐
+• 𝑡 : Tiempo base (min).
+𝑏
+Para la obtención del tiempo base se utilizó la metodología del hidrograma unitario tipo Linsley,
+presentada por el “Manual de cálculo de crecidas y caudales mínimos en cuenca sin información
+hidrográfica”.
+Para el cálculo de los parámetros que caracterizan el hidrograma unitario sintético, se utilizan las
+fórmulas correspondientes a la zona III. De acuerdo con el manual de crecidas, para la zona I
+aplican las siguientes ecuaciones:
+𝐿 0,237
+𝑔
+𝑡 = 1,351 ∙ (𝐿 ∙ )
+𝑝
+√𝑠
+𝑡 = 5,428 ∙ 𝑡0,717
+𝐵 𝑝
+Página 11 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 32
+================================================================================
+Donde:
+• 𝑡 es el tiempo al peak, en (hr).
+𝑝
+• 𝑡 es el tiempo base, en (hr).
+𝐵
+• 𝐿 es el largo de la cuenca, en (km).
+• 𝐿 es la distancia al centro de gravedad de la cuenca, (km).
+𝑔
+• 𝑠 es la pendiente de la cuenca, en (m/m).
+De esta manera, se obtiene la duración de los hidrogramas asociados a cada cuenca.
+Tabla 4. Parámetros hidrogramas para cada cuenca.
+Cuenca L (km) Lg (km) s (%) tc (min) tp (min) tb (min) d (min)
+1 0,30 0,11 26,7 10,0 24,3 170,2 155,2
+2 0,60 0,35 21,9 10,8 39,0 239,2 223,0
+Fuente: Elaboración propia, 2024.
+Figura 5. Hidrogramas cuencas, periodo de retorno 100 años.
+Hidrograma T =100 años
+0,9
+R
+0,8
+0,7 Cuenca 1
+)s
+/ 0,6
+³
+m
+Cuenca 2
+la
+( 0,5
+d
+u 0,4
+a
+C
+0,3
+0,2
+0,1
+0
+0 50 100 150 200 250 300
+Duración (min)
+Fuente: Elaboración propia, 2024.
+Cabe mencionar que, para la situación con proyecto, se consideró un hidrograma tipo I para la
+descarga del canal de contorno TC4, utilizando los mismos parámetros asociados a la cuenca 2 y
+cuyo peak corresponde al caudal que portea el canal.
+Página 12 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 33
+================================================================================
+1.5.2. Topografía
+Se generó un modelo de elevación digital (DEM) a partir del levantamiento aero-fotogramétrico
+del área del proyecto, el cual abarca un área total de 298 hectáreas. Dentro de esta se considera
+el área de extracción Maite, el trazado modificado del oleoducto y las quebradas cercanas que
+producen los puntos de interés a modelar. Además, se considera una longitud tal que permita
+considerar y evaluar las condiciones aguas arriba y aguas abajo de los puntos de intersección de
+los cauces con la infraestructura proyectada.
+El levantamiento se realizó mediante vuelo de dron, el cual se obtuvo un DEM con una resolución
+espacial de 1 metro.
+Figura 6. Área considerada levantamiento topográfico, UTM DATUM WGS84/H18S.
+Fuente: Elaboración propia, 2024.
+Página 13 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 34
+================================================================================
+Figura 7. DEM utilizado.
+Fuente: Elaboración propia, 2024.
+Página 14 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 35
+================================================================================
+1.5.3. Definición de grilla 2D
+El software HEC-RAS tiene la capacidad de modelación en 2 dimensiones mediante el método de
+volumen finito. Esto permite modelar el área de estudio mediante un mallado de celdas de 3, 4
+y hasta 8 lados.
+Para el caso de estudio se seleccionó un único mallado, de 0,5 x 0,5 m2, y una zona de
+refinamiento para la situación con proyecto de la cuenca 2.
+La Tabla 5 presenta el detalle de los mallados seleccionados para cada cuenca. En las Figura 8,
+Figura 9 y Figura 10 se presenta el mallado utilizado en el modelo para las cuencas 1 y cuenca 2,
+respectivamente.
+Tabla 5. Mallado para cada cuenca del estudio.
+ID Mallado general Zona de refinamiento
+Cuenca 1 0,5 x 0,5 m2 -
+Cuenca 2 0,5 x 0,5 m2 0,1x0,1 m2
+Fuente: Elaboración propia, 2024.
+Página 15 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 36
+================================================================================
+Figura 8. Mallado cuenca 1.
+Fuente: Elaboración propia, 2024.
+Página 16 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 37
+================================================================================
+Figura 9. Mallado cuenca 2, situación sin proyecto.
+Fuente: Elaboración propia, 2024.
+Página 17 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 38
+================================================================================
+Figura 10. Mallado cuenca 2, situación con proyecto
+Fuente: Elaboración propia, 2024.
+Página 18 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 39
+================================================================================
+1.5.4. Coeficiente de Manning
+Para la definición de los coeficientes de Manning dentro del área de estudio se optó por la
+generación de una capa de cobertura de suelo, a la cual posteriormente se le asignó los
+coeficientes de Manning de acuerdo con el uso de suelo presente.
+El mapa de cobertura de suelo fue obtenido a partir del archivo vectorial de Catastro de uso de
+suelo y vegetación de la Infraestructura de Datos Geoespaciales de Chile o IDE. Este archivo
+vectorial que incluye todos los usos de suelo de Chile fue recortado para la zona del proyecto
+considerada en la modelación. Los usos de suelo utilizados y los coeficientes de Manning
+asociados se presentan en la Tabla 6.
+Tabla 6. Coeficiente de Manning, distintos usos de suelo.
+ID Uso de suelo Coeficiente de Manning
+1 Bosques 0,040
+2 Praderas y matorrales 0,045
+Fuente: Elaboración propia, 2024.
+Los valores de los coeficientes de Manning presentados en la Tabla 6 se obtienen como el
+promedio de los valores recomendados por el “Hydrologic Engineering Center” del cuerpo de
+ingenieros del ejército de Estados Unidos, propuestos en el manual del usuario de HEC-RAS 2D.
+En la Figura 11 se presenta la distribución de los usos de suelo dentro del área modelada obtenida
+desde el catastro de uso de suelo y vegetación 2015 del IDE, donde predomina un uso de suelo
+de terrenos agrícolas, praderas y matorrales, y bosques.
+Página 19 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 40
+================================================================================
+Figura 11. Usos de suelo área de estudio, UTM DATUM WGS84/H18S.
+Fuente: Elaboración propia, 2024.
+De la Figura 11 se puede desprender que la cuenca 1 posee uso de suelo 100% de tipo bosques,
+por lo que su coeficiente de Manning para la modelación es de n=0,004. Por otro lado, se puede
+apreciar que para la cuenca 2 se tiene una mezcla de suelo tipo Bosques y de tipo Praderas y
+Matorrales, por lo que su coeficiente de Manning ponderado resultante es de n=0,046.
+Página 20 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 41
+================================================================================
+1.5.5. Condiciones de Borde
+El Software HEC-RAS provee una amplia gama de condiciones de borde para ser aplicadas al
+modelo. Para este caso se consideraron dos tipos de condiciones de borde: Hidrograma de flujo
+y “Normal Depth”.
+Para la definición de flujo de entrada en el modelo se consideraron como condición de borde los
+hidrogramas calculados anteriormente. Estas condiciones serán ubicadas en las cabeceras de las
+cuencas, de manera de reflejar el caudal entrante al área de modelación. Además, se considera
+la línea de energía como la pendiente del terreno, la cual se utiliza para calcular una profundidad
+normal a partir de la tasa de flujo proporcionada y los datos de la sección transversal a lo largo
+de la línea de condición de contorno para cada paso de tiempo de cálculo. A continuación, se
+calcula una distribución del flujo en la sección transversal, basada en la superficie del agua a
+profundidad normal y el caudal en la sección transversal debajo de la línea de condición de
+contorno en 2D.
+Para la definición de la salida de flujo del modelo se utiliza la condición de profundidad normal.
+Cuando se utiliza esta condición de contorno, se debe ingresar una pendiente de fricción para
+esa área. La pendiente de fricción puede basarse en la pendiente del terreno en las proximidades
+de la línea de condición de contorno del área de flujo en 2D. Al igual que la condición de contorno
+del Hidrograma, la condición de profundidad normal se calcula en función de celdas individuales.
+Así, se definen las zonas en el borde de la modelación como salidas de flujo del sistema, de
+manera que el agua no se acumule artificialmente dentro del área de inundación y puede ocupar
+todo el espacio que tenga disponible, como lo haría en la realidad.
+Página 21 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 42
+================================================================================
+En las Figura 12, Figura 13 y Figura 14, se muestran las condiciones de borde desarrolladas en el
+modelo para ambas cuencas:
+Figura 12. Condiciones de borde cuenca 1.
+Fuente: Elaboración propia, 2024.
+Página 22 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 43
+================================================================================
+Figura 13. Condiciones de borde cuenca 2 (Situación Sin Proyecto).
+Fuente: Elaboración propia, 2024.
+Página 23 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 44
+================================================================================
+Figura 14. Condiciones de borde cuenca 2 (Situación con Proyecto).
+Fuente: Elaboración propia, 2024.
+Página 24 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 45
+================================================================================
+1.6. Resultados
+En el siguiente capítulo se presentan los principales resultados de la modelación hidráulica en la
+zona de estudio. Solo se modeló la situación con hidrograma de 100 años de período de retorno.
+Con relación a los puntos de interés presentados en la Tabla 7, estos corresponden a
+intersecciones entre los cauces IGM 1:50.000 y el trazado del by pass del Oleoducto Hualpén-San
+Fernando, al sur de la zona de extracción Maite.
+Tabla 7: Puntos de interés modelados.
+UTM WGS 84/ H18S
+Punto Descripción
+E N
+Cuenca 1 680004 5928378 Cruce Oleoducto proyectado con cauces IGM.
+Cuenca 2 680415 5928055 Cruce Oleoducto proyectado con cauces IGM.
+Fuente: Elaboración propia, 2024.
+1.6.1. Superficie de inundación
+1.6.1.1. Punto de interés Cuenca 1
+El primer punto de interés corresponde a la intersección del cauce con oleoducto en el costado
+poniente de la Zona de Extracción Maite. En la Figura 15, se presenta la superficie de inundación
+resultante de la modelación hidráulica considerando periodo de retorno de 100 años y el perfil
+transversal de análisis ubicado en el punto de interés.
+Página 25 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 46
+================================================================================
+Figura 15. Superficie de inundación, punto de interés 1 UTM DATUM WGS84/H18S.
+Fuente: Elaboración propia, 2024.
+Se puede notar que los valores de inundación alcanzan los 1,88 m, sin embargo, a la altura del
+oleoducto y como muestra el perfil adjunto, la superficie no supera los 30 cm de profundidad.
+Página 26 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 47
+================================================================================
+1.6.1.2. Punto de interés Cuenca 2
+1.6.1.2.1. Situación sin proyecto
+El segundo punto de interés corresponde a la intersección del cauce con el oleoducto en el
+costado oriente de la Zona de Extracción Maite. En la Figura 16 se presenta la superficie de
+inundación resultante de la modelación hidráulica considerando periodo de retorno de 100 años
+y el perfil transversal de análisis ubicado en el punto de interés, para la situación sin proyecto, es
+decir, la quebrada aún no ha sido intervenida para extracción del material.
+Figura 16. Superficie de inundación, punto de interés 2 (Situación sin proyecto), UTM DATUM
+WGS84/H18S.
+Fuente: Elaboración propia, 2024.
+Página 27 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 48
+================================================================================
+De la Figura 16 se puede notar que los valores de inundación alcanzan los 1,33 m, sin embargo,
+a la altura de la modificación del oleoducto y como muestra el perfil adjunto, la superficie no
+supera los 40 cm de profundidad.
+1.6.1.2.2. Situación con proyecto
+En la Figura 17, se presenta la superficie de inundación resultante de la modelación hidráulica
+considerando periodo de retorno de 100 años y el perfil transversal de análisis ubicado en el
+punto de interés, para la situación con proyecto, es decir, considera la presencia del canal de
+contorno que evacúa hacia el cauce que pasa por el punto de la cuenca 2.
+Figura 17. Superficie de inundación, punto de interés 2 (Situación con proyecto), UTM
+DATUM WGS84/H18S.
+Fuente: Elaboración propia, 2024.
+Página 28 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 49
+================================================================================
+De la Figura 17 se puede notar que los valores de inundación alcanzan los 1,43 m, sin embargo,
+a la altura de la modificación del oleoducto y como muestra el perfil adjunto, la superficie no
+supera los 40 cm de profundidad.
+Página 29 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 50
+================================================================================
+1.6.2. Socavación
+Para evaluar la afectación sobre el oleoducto, se realizó un estudio de socavación general en los
+cauces en la zona de interés, aplicando las metodologías propuestas en el Manual de Carreteras
+V3, las cuales son ampliamente utilizadas en estudios de esta índole. Para esto se consideró el
+caudal asociado a un periodo de retorno de 100 años.
+1.6.2.1. Socavación general
+Para poder evaluar la socavación general de manera precisa, se utiliza la granulometría del
+sondaje MAI 2204, del informe interno, generado a partir de los diversos estudios geotécnicos
+realizados por el titular, y el cual se encuentra al final de este Apéndice. En la siguiente imagen
+se muestra la distribución de calicatas respecto de los puntos de interés:
+Figura 18. Calicatas realizadas en la zona de extracción Maite.
+Fuente: Elaboración propia, 2024.
+Página 30 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 51
+================================================================================
+De acuerdo con la mecánica de suelos, el tipo de suelo correspondiente a los primeros 3 m de la
+calicata MAI 2204 es de tipo “limo de baja compresibilidad”, por lo que se considera un suelo
+cohesivo. En base a lo anterior, el método de Neil no es válido, por lo que se descarta su
+utilización y se utiliza el método de Lischtvan – Levediev para sedimentos cohesivos, cuya
+ecuación se presenta a continuación:
+- Sedimentos Cohesivos:
+1
+𝑞 𝑗 ( 𝑥+1 )
+ℎ = ( )
+𝑗
+0,6 ∙ 𝛽 ∙ 𝛹 ∙ 𝛾1,18
+𝑠
+Donde:
+• ℎ Profundidad socavada de la franja j en m.
+𝑗
+• 𝑞 Caudal unitario de la franja j en m3/s.
+𝑗
+• 𝛾 Peso específico seco, en ton/m3
+𝑆
+• 𝛹 Coeficiente que considera influencia del sedimento en suspensión.
+• 𝛽 Coeficiente función de la probabilidad de excedencia del caudal de diseño.
+• 𝑥 Parámetro de la fórmula de arrastre crítico.
+A continuación, se presentan los parámetros considerados en la implementación del método:
+Tabla 8. Parámetros utilizados de acuerdo con el tipo de suelo.
+Parámetros Valor
+𝛾
+𝑆
+1,39
+𝑥 0,35
+𝛹 1,6
+𝛽 1
+Tipo Cohesivo
+Fuente: Parámetros obtenidos del Manual de Carreteras Vol.3.
+Se realiza el cálculo de socavación general en cada uno de los 2 puntos de interés asociados a las
+cuencas y para un periodo de retorno de 100 años. Se generan 3 perfiles transversales por
+cuenca, uno a la altura del eje de la modificación del oleoducto y 2 perfiles más, aguas arriba y
+aguas abajo de este punto. A continuación, se muestra la disposición de los perfiles transversales:
+Página 31 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 52
+================================================================================
+Figura 19. Disposición de perfiles transversales por cuenca.
+Fuente:
+Elaboración propia, 2024.
+Tabla 9. Resumen de socavación general por perfil y por cuenca.
+Perfil Transversal Socavación gral. (m)
+Perfil 1 - Cuenca 1 0,16
+Perfil 2 - Cuenca 1 0,42
+Perfil 3 - Cuenca 1 0,32
+Perfil 1 - Cuenca 2 (SP) 0,00
+Perfil 2 - Cuenca 2 (SP) 0,00
+Perfil 3 - Cuenca 2 (SP) 0,00
+Perfil 1 - Cuenca 2 (CP) 0,00
+Perfil 2 - Cuenca 2 (CP) 0,00
+Perfil 3 - Cuenca 2 (CP) 0,00
+Fuente: Elaboración propia, 2024.
+Página 32 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 53
+================================================================================
+1.3. Conclusiones
+Se modelaron los 2 puntos de interés en el software HEC-RAS versión 6.3.1, donde en cada uno
+de estos se obtuvo la zona de inundación y socavación general, tanto para las situaciones con y
+sin proyecto.
+La fase de operación de la zona de extracción Maite contempla un sistema de saneamiento de
+aguas lluvias mediante canales evacuadores, los cuales descargan a canales de contorno, los que
+posteriormente descargan a los cauces naturales presentes en la zona. Dado que para el punto
+de interés cuenca 1 no hay ningún canal de contorno descargando al cauce, se asume que la
+situación con y sin proyecto es exactamente la misma, por lo que se genera solo un caso de
+modelación.
+En cada una de las zonas modeladas se generó un perfil transversal en el punto en donde se
+intercepta la zona de inundación con el oleoducto soterrado. Para el punto de la cuenca 1, la
+mayor profundidad de inundación en los perfiles mencionados toma un valor de 23 cm, y para la
+cuenca 2 de 36 cm, para la situación sin proyecto, y 38 cm para la situación con proyecto, todos
+los valores asociados a un periodo de retorno 100 años.
+Se calculó la socavación general en cada una de las zonas de inundación, para la cuenca 1, y con
+y sin proyecto para la cuenca 2. Como se mencionó anteriormente, se consideraron perfiles en
+el eje del oleoducto, aguas arriba y aguas debajo de este punto, siendo en total 3 perfiles por
+cuenca. La cuenca 1 presentó el mayor valor de socavación general (43 cm) en el perfil situado
+sobre el eje del oleoducto.
+La Figura 20 muestra, de manera esquemática, un perfil transversal con la disposición de la
+tubería, donde es importante destacar que la clave de esta estará al menos 1,5 m bajo el nivel
+del terreno.
+Página 33 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 54
+================================================================================
+Figura 20. Perfil transversal de disposición Oleoducto.
+Fuente: Capitulo 1 Descripción de Proyecto, 2024.
+Se concluye que la socavación producida no es suficiente para alterar el correcto funcionamiento
+del oleoducto, por lo que no se recomienda ninguna obra adicional mitigatoria en dicho punto.
+Por otro lado, la cuenca 2, tanto en la situación con y sin proyecto, presentó socavación general
+nula en los 3 perfiles.
+Página 34 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 55
+================================================================================
+Informe Interno Aclara REE Uno SpA: Resumen del Informe de Caracterización
+ZE Maite, Geotécnica Ingeniería de Factibilidad Zonas de Extracción N° 010122-
+MS-GE, Emitido por PANGEA Geotecnia con fecha 27-12-2022
+1.4. CARACTERIZACIÓN GEOTÉCNICA – ZE MAITE
+1.5. CAMPAÑA DE EXPLORACIÓN
+En la campaña de prospección previa (2021) se realizaron 6 sondajes con ensayos de penetración estándar SPT,
+6 calicatas, 6 mediciones de velocidad de ondas de corte y 3 ensayos de presiómetro. En la campaña actual
+(2022) se realizaron 4 sondajes hasta la roca con ensayos SPT, 4 calicatas con ensayos de densidad y
+permeabilidad in-situ, 4 mediciones de velocidad de ondas de corte, y 10 ensayos de presiómetro. La Figura 24
+muestra la ubicación de los sondajes. Calicatas y geofísica fueron realizadas a un costado de cada sondaje.
+Figura 24. Ubicación de las prospecciones realizadas.
+Página 35 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 56
+================================================================================
+La Tabla 24 resume las coordenadas de los sondajes realizados.
+Tabla 24. Coordenadas de sondajes realizados.
+Sistema de coordenadas UTM: WGS84 18H
+Cota collar
+Campaña ID. Sondaje Este Norte Profundidad [m]
+[m.s.n.m]
+MAI 2108 680532 5928664 35.0 231
+MAI 2115 680417 5928548 25.7 200
+MAI 2122 680520 5928392 42.6 225
+2021
+MAI 2127 680276 5928418 39.6 190
+MAI 2134 680393 5928279 44.7 202
+MAI 2146 680677 5928524 50.0 249
+MAI 2201 680662 5928273 24.0 207
+MAI 2202 680708 5928405 63.0 244
+2022
+MAI 2203 680461 5928805 47.6 219
+MAI 2204 680277 5928196 55.0 202
+Cabe mencionar que la profundidad de exploración de los sondajes geotécnicos realizados durante la campaña
+2021 son equivalentes a la de los sondajes geológicos homónimos, mientras que, para la campaña 2022, la
+profundidad de exploración se prolongó hasta la obtención de 2 mediciones continuas de RQD ≥ 70% en
+muestras de 1 m de longitud. El resumen entre las profundidades proyectadas para la campaña 2022
+(inicialmente definidas equiparar los sondajes geológicos cercanos) y efectivamente ejecutadas se presenta en
+la Tabla 25.
+Tabla 25. Variación de profundidades de ejecución de sondajes, campaña 2022.
+Profundidad [m] Variación
+ID. Sondaje
+Proyectada Ejecutada Δ (ml) Δ (%)
+MAI 2201 23 24 + 01 + 04%
+MAI 2202 47 63 + 16 + 34%
+MAI 2203 34 48 + 14 + 40%
+MAI 2204 40 55 + 15 + 38%
+Página 36 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 57
+================================================================================
+1.6. RESULTADOS
+1.7. ESTRATIGRAFÍA
+Con base en los sondajes realizados, la Figura 25 y Figura 26 muestran los perfiles estratigráficos de
+ambas campañas de exploración.
+Figura 25. Resumen estratigráfico de sondajes en campaña 2022.
+Página 37 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 58
+================================================================================
+Figura 26. Resumen estratigráfico de sondajes en campaña 2021.
+Los resultados promedios de granulometría y propiedades índices para las estratigrafías ilustradas en la Figura
+25 y Figura 26, se presentan de manera respectiva en la Tabla 26 y Tabla 27.
+Tabla 26. Resultados promedio de laboratorio en muestras de sondajes por estrato, campaña 2022.
+Clasificación Granulometría Propiedades Índices
+ID. Sondaje Prof. (m)
+USCS % Tamiz N°4 % Finos LL LP IP % Wn
+GM 4.6 36 18 33 25 8 10
+ML 6.5 89 72 32 - N.P. 12
+MAI 2201
+GM 10.5 29 25 30 - N.P. 12
+ML 21.0 100 82 34 - N.P. 27
+CL 1.2 100 87 50 22 28 33
+ML 46.1 100 83 45 33 11 30
+MAI 2202
+ML 57.0 100 64 ** - N.P. 26
+GW 59.6 4.5 2.2 ** - N.P. 4.8
+CL 5.5 100 79 46 21 26 33
+MH 9.5 100 82 52 - N.P. 44
+ML 24.0 97 78 39 34 5 34
+MAI 2203 ML 32.6 99 72 32 - N.P. 28
+GM 34.1 91 40 33 - N.P. 19
+ML 38.6 99 69 29 - N.P. 21
+SM 40.6 96 49 27 - N.P. 21
+ML 24.0 93 60 42 30 18 25
+MAI 2204 ML 46.5 97 58 33 - N.P. 18
+CL 50.1 93 60 39 22 17 8
+(**) En suelos con LL<25%; acorde a la normativa no es factible determinar una curva de fluidez que permita encontrar
+gráficamente este límite de consistencia. En complemento, se evidencia plasticidad nula.
+Página 38 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 59
+================================================================================
+Tabla 27. Resultados promedio de laboratorio en muestras de sondajes por estrato, campaña 2021.
+Clasificación Granulometría Propiedades Índices
+ID. Sondaje Prof. (m)
+USCS % Tamiz N°4 % Finos LL LP IP % Wn
+ML 4.5 100 78 44 40 4 35
+SM 6.5 100 49 56 43 13 37
+ML 12.5 100 65 46 41 5 36
+MAI 2108
+SM 15.5 100 48 ** - N.P. 31
+ML 19.0 100 64 38 33 5 35
+SM 35.0 100 45 ** - N.P. 19
+ML 6.5 100 58 41 30 11 39
+CL 9.5 100 66 39 25 14 39
+MAI 2115 SM 12.5 100 32 33 30 3 22
+ML 19.0 100 48 37 32 5 35
+SM 25.7 100 39 42 - N.P. 15
+MH 6.5 100 83 61 33 28 116
+MAI 2122 ML 33.5 100 69 41 33 8 42
+SM 42.6 100 39 33 - N.P. 21
+MAI 2127 ML 39.6 100 63 37 30 7 33
+ML 9.5 100 73 45 42 3 44
+SM 12.5 100 42 43 - N.P. 44
+ML 16.0 100 50 43 - N.P. 34
+SM 19.0 100 46 41 31 10 35
+MAI 2134 ML 22.0 100 71 40 33 7 63
+SM 28.0 100 49 44 40 4 43
+ML 31.0 100 67 39 28 11 41
+SM 33.5 100 32 40 32 8 33
+ML 44.7 100 65 42 34 8 31
+ML 3.5 100 53 45 40 5 31
+MH 9.5 100 79 56 38 18 39
+ML 18.5 100 63 41 31 10 40
+MH 21.5 100 84 52 40 12 31.2
+MAI 2146
+ML 27.5 100 62 44 38 6 34
+MH 30.5 100 68 59 33 26 33
+SM 33.5 100 48 39 36 3 31
+ML 50.0 100 66 41 35 6 31
+(**) En suelos con LL<25%; acorde a la normativa no es factible determinar una curva de fluidez que permita encontrar
+gráficamente este límite de consistencia. En complemento, se evidencia plasticidad nula.
+El contenido de humedad en terreno (%Wn) reportado en muestras extraídas desde los sondajes podría verse
+afectado por la inyección de agua al interior de la perforación del mismo. Por otra parte, con base en las
+calicatas, de profundidad aproximada 3 metros, se tienen los resultados de clasificación presentados en la Tabla
+28, los que evidencian la heterogeneidad del terreno dada la proximidad entre ambos tipos de prospecciones.
+Página 39 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 60
+================================================================================
+Tabla 28. Resultados promedio de laboratorio en muestras desde base de calicatas.
+Clasificación Granulometría Propiedades Índices Densidad Natural
+ID. Calicata
+USCS % Tamiz N°4 % Finos LL IP % Wn γd (kg/dm3)
+MAI 2108 MH 100 84 55 21 21.3 1.480
+MAI 2115 ML 100 79 35 N.P. 16.4 1.552
+MAI 2122 ML 100 70 41 11 20.0 1.445
+MAI 2127 ML 100 78 47 16 20.1 1.523
+MAI 2134 ML 100 70 42 13 25.0 1.560
+MAI 2146 ML 100 66 34 3 21.8 1.408
+MAI 2201 SM 98 49 39 8 34.0 1.219
+MAI 2202 ML 100 70 44 6 35.5 1.305
+MAI 2203 SC 99 33 54 31 24.8 1.230
+MAI 2204 SM 98 34 45 6 16.6 1.392
+La Tabla 29 y Tabla 30 muestra un resumen del nivel de agua observado en los sondajes. Esta medición no se
+considera confiable debido a que no existía tiempo para esperar que los fluidos de perforación se absorbieran en
+los suelos de baja permeabilidad. Para mejorar esta condición, en la presente etapa se han instalado
+piezómetros tipo Casagrande para permitir el registro de una eventual napa en el tiempo. Las lecturas a la fecha
+se resumen en la Tabla 31; las lecturas de noviembre de 2022 se realizaron una semana posterior a la limpieza
+de los pozos piezométricos, mientras que la de septiembre ninguna limpieza fue realizada entre la ejecución
+del sondaje y la toma de lectura del nivel freático.
+Tabla 29. Profundidad de nivel de agua observado respecto de cota collar durante campaña 2021.
+Cota collar Prof. Sondaje Nivel Freático Fecha
+ID. Sondaje
+[m.s.n.m] [m] [m] Observación
+MAI 2108 231 35.0 12.8 Ene - 2021
+MAI 2115 200 25.7 8.6 Ene - 2021
+MAI 2122 225 42.6 N.D. Ene - 2021
+MAI 2127 190 39.6 N.D. Ene - 2021
+MAI 2134 202 44.7 15.8 Ene - 2021
+MAI 2146 249 50.0 N.D. Ene - 2021
+(N.D. = No Detectado)
+Tabla 30. Profundidad de nivel de agua observado respecto de cota collar durante campaña 2022.
+Cota collar Prof. Sondaje Nivel Freático Fecha
+ID. Sondaje
+[m.s.n.m] [m] [m] Observación
+MAI 2201 207 24.0 N.D. Ago - 2022
+MAI 2202 244 63.0 45.4 Ago - 2022
+MAI 2203 219 47.6 17.1 Ago - 2022
+MAI 2204 202 55.0 31.9 Jul - 2022
+(N.D. = No Detectado)
+Página 40 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 61
+================================================================================
+Tabla 31. Nivel de agua observado en piezómetro, sondajes campaña 2022.
+Cota collar Prof. Sondaje Nivel Freático [m] Nivel Freático [m]
+ID. Sondaje
+[m.s.n.m] [m] Sep. 2022 Nov. 2022
+MAI 2201 207 24.0 9.6 10.0
+MAI 2202 244 63.0 27.5 43.5
+MAI 2203 219 47.6 15.6 15.9
+MAI 2204 202 55.0 26.6 27.9
+Por otra parte, como parte del avance de los sondajes fueron realizados ensayos de penetración estándar (SPT),
+cuyos resultados se presentan en la Figura 27 y Figura 28, asociados a las campañas 2021 y 2022
+respectivamente.
+Figura 27. Resultados ensayos SPT – Campaña 2021.
+Página 41 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 62
+================================================================================
+Figura 28. Resultados ensayos SPT – Campaña 2022.
+Página 42 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 63
+================================================================================
+Debido a la heterogeneidad de los suelos residuales no es recomendable el uso de correlaciones con el ensayo
+SPT para determinar parámetros resistentes. En su lugar se prefiere el uso de correlaciones basadas en los
+límites de Atterberg (Wesley, 2010). Para esto se utilizará la relación de la Figura 29. Esta relación ha sido
+construida a partir de suelos residuales de Indonesia, Nueva Zelanda y Hong-Kong por lo que debe ser usada
+criteriosamente. Los resultados de aplicar esta relación a los suelos del proyecto se presentan en la Figura 30 y
+Figura 31.
+Figura 29. Correlación para la determinación de ∅’. Fuente: Wesley, 2010 [8]
+Página 43 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 64
+================================================================================
+Figura 30. Correlación límites de Atterberg con ∅’, campaña 2021.
+Página 44 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 65
+================================================================================
+Figura 31. Correlación límites de Atterberg con ∅’, campaña 2022.
+Página 45 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 66
+================================================================================
+Finalmente, en las calicatas de la campaña 2022 fueron realizados ensayos porchet para la estimación de
+permeabilidad, cuyos resultados se resumen en la Tabla 32.
+Tabla 32. Resultados de permeabilidad in-situ, campaña 2022.
+Clasificación
+ID. Calicata k (m/s) k (mm/h)
+USCS
+MAI 2201 SM 8.69E-06 31.3
+MAI 2202 ML 3.55E-06 12.8
+MAI 2203 SC 1.25E-05 44.9
+MAI 2204 SM 3.20E-05 115.1
+La estimación de la permeabilidad para el resto de los estratos se realiza de manera indirecta, por medio de la
+ecuación de Kozeny-Carman (1956):
+1 𝛾
+𝑤
+𝑒3
+𝐶
+𝐾−𝐶
+𝑆2 𝜇
+𝑤
+1 + 𝑒
+Donde,
+- 𝐶 𝐾−𝐶 : Factor Kozeny-Carman (aproximadamente igual a 5)
+- S : Superficie especifica por unidad de volumen de las partículas sólidas
+- 𝛾 : Densidad del agua
+𝑤
+- 𝜇 : Viscosidad dinámica del agua
+𝑤
+- 𝑒 : Índice de vacíos
+La superficie específica es estimada según lo propuesto Chapius (2003) para suelos contenido de finos de acuerdo
+a:
+1 −1
+𝑆 = 103𝐺
+𝑠
+(1.3513 ( ) − 0.0089)
+𝐿𝐿
+Aplicando la estimación indirecta de permeabilidad a las muestras de calicatas de las cuales se tienen
+mediciones in-situ de permeabilidad y densidad, se observa que las correlaciones utilizadas estiman, en
+promedio, permeabilidades equivalentes al 90% del valor estimado por medio del ensayo in-situ. Con base en
+lo anterior, se estiman las permeabilidades para cada uno de los ensayos identificados en ambas campañas (ver
+Tabla 33 y Tabla 34). Se considera para cada sondaje el índice de vacíos estimado en calicatas con base a ensayos
+de densidad (conos de arena) y, de manera simplificada, se asume la disminución gradual en profundidad a
+0.59 que corresponde al valor promedio estimado para el terraplén N°3 luego de compactado (94% PM), y cuyo
+contenido de finos es de aproximadamente un 50%. De igual manera, para efectos prácticos, para muestras con
+LL < 25%, el cual no es detallado según normativa por laboratorio, se considera que el LL corresponde a 20%.
+Página 46 de 34
+Apéndice 10-13.3
+Informe Hidráulico Oleoducto
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 67
+================================================================================
+Para el caso de gravas, con bajo contenido de finos, la superficie específica se considera como
+𝑆 = 6/𝐷 𝑚, que corresponde a una aproximación de partículas esféricas, siendo 𝐷 𝑚 el diámetro
+medio del material.
+Tabla 33. Permeabilidades estimadas para estratigrafía de campaña 2021.
+Tabla 34. Permeabilidades estimadas para estratigrafía de campaña 2022.
+Clasificación
+ID. Sondaje Prof. (m) k (m/s)
+USCS
+GM 4.6 4.58E-01
+ML 6.5 1.42E-05
+MAI 2201
+GM 10.5 8.62E-01
+ML 21.0 6.11E-06
+CL 1.2 5.20E-06
+ML 46.1 4.50E-06
+MAI 2202
+ML 57.0 1.53E-05
+GW 59.6 7.48E-01
+CL 5.5 8.81E-06
+MH 9.5 4.78E-06
+ML 24.0 7.58E-06
+MAI 2203 ML 32.6 7.75E-06
+GM 34.1 1.51E-03
+ML 38.6 6.34E-06
+SM 40.6 6.22E-06
+ML 24.0 4.59E-06
+MAI 2204 ML 50.1 5.31E-06
+CL 55.0 2.26E-06
+================================================================================
+PAGE 68
+================================================================================
+APÉNDICE 10-13.3
+CÁLCULO DE ESCORRENTÍA
+PROYECTO DE DESARROLLO MINERO DE
+EXTRACCIÓN DE ARCILLAS PARA PRODUCCIÓN DE
+CONCENTRADO DE TIERRAS RARAS
+Fecha: Mayo, 2024
+================================================================================
+PAGE 69
+================================================================================
+Índice
+1. CÁLCULO DE ESCORRENTÍA ......................................................................... 4
+2. METODOLOGÍA ............................................................................................... 4
+2.1. Fórmula Racional ....................................................................................... 4
+3. CANALES EN ZONAS DE DISPOSICIÓN ......................................................... 6
+3.1. Zona de disposición Neptuno ..................................................................... 7
+3.2. Zona de acopio temporal de material vegetal ZAV ................................... 10
+4. CANALES EN ZONAS DE EXTRACCIÓN ....................................................... 12
+4.1. Zona de extracción Luna .......................................................................... 12
+4.2. Zona de extracción Maite ......................................................................... 15
+4.3. Zona de extracción Victoria Norte ............................................................ 18
+Apéndice 10-13.3 B.1
+Página 2 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 70
+================================================================================
+Índice de tablas
+Tabla 1: Coeficientes de escorrentía utilizados ........................................................ 5
+Tabla 2: Resumen de caudales para ZD-Neptuno ................................................... 8
+Tabla 3: Resumen de caudales para canal de contorno TC1 .................................. 8
+Tabla 4: Resumen de caudales para canal de contorno TC2 .................................. 8
+Tabla 5: Resumen de caudales para canal de contorno TC3 .................................. 9
+Tabla 6: Resumen de caudales para canal de contorno TC4 .................................. 9
+Tabla 7: Resumen de caudales para ZAV ............................................................. 10
+Tabla 8: Resumen de caudales para canal de contorno TC1 ................................ 11
+Tabla 9: Resumen de caudales para canal de contorno TC2 ................................ 11
+Tabla 10: Resumen de caudales del drenaje interno mediante canales evacuadores
+Zona de Extracción Luna ....................................................................................... 13
+Tabla 11: Resumen de caudales aportantes para diseño de los canales de contorno
+en Zona de Extracción Luna .................................................................................. 14
+Tabla 12: Resumen de caudales del drenaje interno mediante canales evacuadores
+Zona de Extracción Maite ...................................................................................... 16
+Tabla 13: Resumen de caudales aportantes para diseño de los canales de contorno
+en Zona de Extracción Maite ................................................................................. 17
+Tabla 14: Resumen de caudales del drenaje interno mediante canales evacuadores
+Zona de Extracción Victoria Norte ......................................................................... 19
+Tabla 15: Resumen de caudales aportantes para diseño de los canales de contorno
+en Zona de Extracción Victoria Norte .................................................................... 21
+Índice de Figuras
+Figura 1: Coeficientes de escorrentía ...................................................................... 5
+Figura 2: Canales de contorno y áreas aportantes para Zona de Disposición
+Neptuno ................................................................................................................... 7
+Figura 3: Canales de contorno y áreas aportantes para Zona de Acopio Vegetal ZAV
+. ............................................................................................................................. 10
+Figura 4: Disposición de canales de contorno para Zona de Extracción Luna ....... 12
+Figura 5: Disposición de canales de contorno para Zona de Extracción Maite ...... 15
+Figura 6: Disposición de canales de contorno para Zona de Extracción Victoria
+Norte ...................................................................................................................... 18
+Apéndice 10-13.3 B.1
+Página 3 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 71
+================================================================================
+1. Cálculo de escorrentía
+El presente anexo detalla los cálculos que se realizaron para obtener los caudales de
+escorrentía en las Zonas de Extracción, Disposición y acopio vegetal del Proyecto. En primer
+lugar, se presenta la metodología utilizada, comenzando con la fórmula racional que es
+presentada en el Manual de Carretera, edición 2019 del MOP y que hace distinción entre
+cuencas planas y cuencas con pendientes o naturales.
+2. Metodología
+2.1. Fórmula Racional
+La fórmula racional es ampliamente utilizada en hidrología. La expresión que permite
+calcular el caudal máximo instantáneo de un periodo de retorno T está dada por la siguiente
+ecuación.
+𝐶 ∙ 𝑖 ∙ 𝐴
+𝑄 =
+3,6
+Donde:
+• Q = Caudal instantáneo máximo de período de retorno T, expresado en m3/s.
+• C = Coeficiente de escorrentía asociado al período de retorno T.
+• i = Intensidad media de lluvia asociada al período de retorno T y a una duración igual
+al tiempo de concentración de la cuenca pluvial, expresada en mm/hr.
+• A = Área pluvial aportante expresada en km2.
+Para calcular los caudales de diseño, se establece en primer lugar el coeficiente de
+escorrentía, asociado a la zona de estudio para un período de retorno de 100 años tal como
+se muestra en la Figura 1. Para periodos de retorno mayores a 10 años, se debe multiplicar
+el coeficiente de escorrentía por un coeficiente de amplificación C, detallado en la Figura 1.
+Apéndice 10-13.3 B.1
+Página 4 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 72
+================================================================================
+Figura 1: Coeficientes de escorrentía.
+Desde donde se evalúo según las condiciones de los terrenos del Proyecto y se estimó un
+coeficiente de escorrentía total, el cual aparece detallado en la Tabla 1:
+Tabla 1: Coeficientes de escorrentía utilizados.
+Coeficiente de Escorrentía para T=100 años
+Factor Tipo Valor
+Relieve Normal 0,25
+Infiltración Alto 0,12
+Cobertura Vegetal Normal 0,07
+Almacenamiento Superficial Alto 0,08
+Total 0,52
+Fuente: Elaboración propia, 2024.
+Por otro lado, se debe calcular el tiempo de concentración de la cuenca. Para las zonas de
+extracción, disposición y acopio vegetal, se consideró un tiempo de concentración local de
+10 minutos. Se consideró este valor debido a que es el tiempo mínimo apto para la fórmula
+racional.
+Apéndice 10-13.3 B.1
+Página 5 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 73
+================================================================================
+Como se tienen tiempos de concentración inferior a 1 hora, entonces se adoptará la
+metodología de Bell para estimar la precipitación, para tiempos de concentración entre 5
+minutos y 1 hora, asociadas a períodos de retorno comprendidos entre 2 a 100 años.
+𝑃𝑇 = (0,54 ∙ 𝑡𝑐0,25 − 0,50)(0,21 ∙ ln(𝑇) + 0,52)𝑃10
+𝑡𝑐 1
+Donde:
+• tc: Tiempo de concentración de la cuenca (min)
+• T: Período de retorno en (años)
+• 𝑃10: Precipitación máxima, en (mm), con período de retorno 10 (años) y duración
+1
+1 (hr)
+3. Canales en zonas de disposición
+Las Zonas de Disposición cuentan con 2 obras asociadas a su implementación, los canales
+de evacuación y los canales de contorno. Los canales de evacuación fueron calculados según
+el estudio realizado por DAV Ingeniería y Consultoría SpA, Apéndice 10-13.3 Drenaje Aguas
+Lluvia adjunto en los anexos. Por otro lado, este estudio especifica qué canales evacuadores
+descargan a qué canales de contorno. Estos últimos fueron calculados según los criterios de
+diseño presentados en el Apéndice 10-13.3 – Informe hidráulico. En lo que sigue se detallan
+las áreas aportantes (para ZD Neptuno y ZAV) y los canales evacuadores aportantes
+respectivos (para las Zonas de Extracción):
+Apéndice 10-13.3 B.1
+Página 6 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 74
+================================================================================
+3.1. Zona de disposición Neptuno
+A continuación, se muestra la disposición de las áreas aportantes y ubicación de los canales
+de contorno para la zona de disposición Neptuno:
+Figura 2: Canales de contorno y áreas aportantes para Zona de Disposición Neptuno.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 7 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 75
+================================================================================
+Fórmula racional
+Tabla 2: Resumen de caudales para ZD-Neptuno.
+Q (m3/s)
+Área aportante A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 19160 0,0192 121 10 0,52 0,142 0,150
+A2 32314 0,0323 121 10 0,52 0,240 0,253
+A3 14075 0,0141 121 10 0,52 0,105 0,110
+A4 19188 0,0192 121 10 0,52 0,143 0,150
+A5 2309 0,0023 121 10 0,52 0,017 0,018
+A6 20759 0,0208 121 10 0,52 0,154 0,163
+A7 25913 0,0259 121 10 0,52 0,192 0,203
+A8 65347 0,0653 121 10 0,52 0,485 0,512
+A9 75485 0,0755 121 10 0,52 0,561 0,592
+A10 57172 0,0572 121 10 0,52 0,425 0,448
+A11 37895 0,0379 121 10 0,52 0,281 0,297
+A12 9423 0,0094 121 10 0,52 0,070 0,074
+Fuente: Elaboración propia, 2024.
+Tabla 3: Resumen de caudales para canal de contorno TC1.
+TC1
+Área aportante
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A3 0,014 0,105 0,110
+A6 0,021 0,154 0,163
+A8 0,065 0,485 0,512
+A9 0,075 0,561 0,592
+A12 0,009 0,070 0,074
+Total 0,185 1,375 1,450
+Fuente: Elaboración propia, 2024.
+Tabla 4: Resumen de caudales para canal de contorno TC2.
+TC2
+Área aportante
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A2 0,032 0,240 0,253
+Total 0,032 0,240 0,253
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 8 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 76
+================================================================================
+Tabla 5: Resumen de caudales para canal de contorno TC3.
+TC3
+Área aportante
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A1 0,019 0,142 0,150
+A5 0,002 0,017 0,018
+A7 0,026 0,192 0,203
+A10 0,057 0,425 0,448
+A11 0,038 0,281 0,297
+Total 0,068 0,509 0,537
+Fuente: Elaboración propia, 2024.
+Tabla 6: Resumen de caudales para canal de contorno TC4.
+TC4
+Área aportante
+A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A5 0,002 0,017 0,018
+A7 0,026 0,192 0,203
+A10 0,057 0,425 0,448
+A11 0,038 0,281 0,297
+Total 0,074 0,549 0,580
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 9 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 77
+================================================================================
+3.2. Zona de acopio temporal de material vegetal ZAV
+A continuación, se muestra la disposición de las áreas aportantes y ubicación de los canales
+de contorno para la zona de acopio vegetal ZAV:
+Figura 3: Canales de contorno y áreas aportantes para Zona de Acopio Vegetal ZAV
+Fuente: Elaboración propia, 2024.
+Fórmula racional
+Tabla 7: Resumen de caudales para ZAV.
+Q (m3/s)
+Área aportante A (m2) A (km2) P24(10) (mm) tc (min) C
+TR=100 TR=150
+A1 17522 0,01752 121,5 10 0,52 0,131 0,138
+A2 16437 0,01644 121,5 10 0,52 0,123 0,129
+A3 1790 0,00179 121,5 10 0,52 0,013 0,014
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 10 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 78
+================================================================================
+Tabla 8: Resumen de caudales para canal de contorno TC1.
+Área TC1
+aportante A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A1 0,018 0,131 0,138
+Total 0,018 0,131 0,138
+Fuente: Elaboración propia, 2024.
+Tabla 9: Resumen de caudales para canal de contorno TC2.
+Área TC2
+aportante A km2 Q (TR=100) m3/s Q (TR=150) m3/s
+A2 0,016 0,123 0,129
+Total 0,016 0,123 0,129
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 11 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 79
+================================================================================
+4. Canales en zonas de extracción
+Las Zonas de Extracción cuentan con 2 obras asociadas a su implementación, los canales de
+evacuación y los canales de contorno. Los canales de evacuación fueron calculados según
+el estudio realizado por DAV Ingeniería y Consultoría SpA, adjunto en los anexos. Por otro
+lado, este estudio especifica qué canales evacuadores descargan a qué canales de contorno.
+Estos últimos fueron calculados según los criterios de diseño presentados en el Apéndice B
+– Obras hidráulicas. En lo que sigue se detalla un esquema de los canales evacuadores
+aportantes a cada canal de contorno:
+4.1. Zona de extracción Luna
+Figura 4: Disposición de canales de contorno para Zona de Extracción Luna.
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Apéndice 10-13.3 B.1
+Página 12 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 80
+================================================================================
+Tabla 10: Resumen de caudales del drenaje interno mediante canales evacuadores Zona
+de Extracción Luna.
+Longitud Cuneta (m) Caudal (L/s)
+Unidad de Drenaje Superficie drenaje
+Por unidad drenaje Por unidad drenaje
+LF1-2B 797 80 10
+LF2-3A 1083 102 14
+LF1-3B 423 51 6
+LF1-3C 2281 216 38
+CaminoA LF1-3C 536 29 6
+LF1-3D 290 43 25
+LF2-4(1)-1 7036 290 119
+CaminoA LF2-4(1)-1 1059 62 12
+LF2-4(1)-2 5022 177 74
+LF2-4(2) 3015 134 57
+LF2-5A(1) 6201 428 90
+CaminoA LF2-5A(1) 584 29 7
+LF2-5A(2)-1 3044 165 48
+CaminoA LF2-5A(2)-1 1175 71 14
+LF2-5A(2)-2 2029 178 130
+LF1-6B(1) 3391 105 52
+CaminoA LF1-6B(1) 2146 75 22
+LF1-6B(2) 5086 264 100
+LF1-5B(1) 2227 200 79
+CaminoA LF1-5B(1) 1162 65 20
+LF1-5B(2) 1114 100 25.9
+LF2-5C 264 42 20
+LF1-6A(1) 1341 86 103
+LF1-6A(2) 894 64 26
+CaminoA LF1-6A(2) 1135 66 13
+LF2-6C(1) 3186 114 33
+CaminoA LF2-6C(1) 1322 71 15
+LF2-6C(2) 797 108 11
+LF2-7(1) 467 56 6
+CaminoA LF2-7(1) 1353 74 16
+LF2-7(2) 4203 162 57
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Apéndice 10-13.3 B.1
+Página 13 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 81
+================================================================================
+Tabla 11: Resumen de caudales aportantes para diseño de los canales de contorno en
+Zona de Extracción Luna.
+Zona Extracción Luna Q diseño
+Canal Q diseño L/s
+Caudales aportantes m3/s
+LF1-2B, LF1-3D, LF2-5A(1), LF2-4(2), CaminoA LF1-2B, CaminoA LF1-
+TC1 189,0 0,189
+3D, CaminoA LF2-5A(1), CaminoA LF2-4(2)
+LF1-6A(1), LF1-6A(2), LF1-5B(1), LF1-5B(2), LF2-5C, LF2-6C(2), LF2-
+7(1), LF2-7(2), CaminoA LF1-6A(1), CaminoA LF1-6A(2), CaminoA
+TC2 376,9 0,377
+LF1-5B(1), CaminoA LF1-5B(2), CaminoA LF2-5C, CaminoA LF2-
+6C(2), CaminoA LF2-7(1), CaminoA LF2-7(2)
+TC3 TC1, TC2 509,9 0,510
+TC5 LF1-3C, CaminoA LF1-3C 44,0 0,044
+LF1-3B, LF2-3A, LF2-4(1)-1, LF2-4(1)-2, LF2-5A(2)-1, LF2-5A(2)-2,
+LF1-6B(1), LF1-6B(2), LF2-6C(1), CaminoA LF1-3B, CaminoA LF2-3A,
+TC6 CaminoA LF2-4(1)-1, CaminoA LF2-4(1)-2, CaminoA LF2-5A(2)-1, 639,0 0,639
+CaminoA LF2-5A(2)-2, CaminoA LF1-6B(1), CaminoA LF1-6B(2),
+CaminoA LF2-6C(1)
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 14 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 82
+================================================================================
+4.2. Zona de extracción Maite
+Figura 5: Disposición de canales de contorno para Zona de Extracción Maite.
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Apéndice 10-13.3 B.1
+Página 15 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 83
+================================================================================
+Tabla 12: Resumen de caudales del drenaje interno mediante canales evacuadores Zona
+de Extracción Maite.
+Longitud Cuneta
+Caudal (L/s)
+Unidad de Drenaje Superficie drenaje (m)
+Por unidad drenaje Por unidad drenaje
+MF1-1(1) 23745 573 204,5
+MF1-1(2) 10176 200 87,7
+CAMINO A MF1-2B 1045 62 9
+MF2-1A(1) 7775 252 79,5
+MF2-1A(2) 1372 54 14,7
+CAMINO A MF2-2D 1138 66 13,3
+MF1-2A 5552 132 52,4
+CAMINO A MF1-3 1094 64 13
+MF1-2B 12368 609 106,5
+MF2-2C 9354 219 87,8
+CAMINO A MF2-3B 1090 63 13
+MF2-2D 12544 326 121,1
+MF2-3A(1) 2654 182 31,9
+MF2-3A(2) 13269 360 129,6
+CAMINO A MF2-4B 1040 66 12
+MF2-3B 3134 288 39,6
+MF1-4A 1105 116 14,2
+MF2-4B(1) 3378 255 41,3
+MF2-4B(2) 3378 119 35,2
+CAMINO A MF1-5A 1144 71 14
+CAMINO A MF2-5B(1) 1272 65 14
+MF2-4B(3) 10133 234 94,8
+MF2-4C 5657 240 61,7
+CAMINO A MF2-4C 1242 62 14
+MF1-5A 4427 244 51,1
+MF2-5B(1) 18393 561 185,1
+CAMINO A MF1-6 1058 62 12
+CAMINO A MF2-5B(2) 1160 80 14
+MF2-5B(2) 2044 135 24,4
+MF2-6A(1) 1250 258 16,8
+MF2-6A(2) 11254 416 118,8
+CAMINO A MF1-7 1146 70 13
+CAMINO A MF2-6A 1062 62 12
+CAMINO A MF2-7 91 62 1
+MF2-6B 573 68 7,5
+MF2-7(1) 6334 435 76,3
+Apéndice 10-13.3 B.1
+Página 16 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 84
+================================================================================
+Longitud Cuneta
+Caudal (L/s)
+Unidad de Drenaje Superficie drenaje (m)
+Por unidad drenaje Por unidad drenaje
+CAMINO A MF1-8 1053 61 12
+MF2-7(2) 19003 590 192,1
+CAMINO A MF2-9 1175 65 14
+MF2-8(1) 12965 555 141,6
+MF2-8(2) 19448 408 177,3
+MF2-9(1) 2138 432 28,7
+MF2-9(2) 12116 359 121,1
+CAMINO A MF1-10A 1164 67 14
+MF1-10A 4068 370 51,3
+MF1-10B 1253 123 16
+CAMINO A MF1-11A 1065 62 12
+MF2-10C 2423 192 29,9
+MF1-11A 3951 275 34
+MF1-11B 193 27 1,7
+MF1-11C 178 43 1,5
+MF2-11D 534 63 7
+MF1-12A 3311 171 28,5
+MF1-13A 1768 128 15,2
+MF1-14 1457 109 12,6
+MF1-15 1312 98 11,3
+MF1-16 981 85 8,5
+MF1-17 335 52 2,9
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Tabla 13: Resumen de caudales aportantes para diseño de los canales de contorno en
+Zona de Extracción Maite.
+Zona Extracción Maite Q diseño
+Canal Q diseño L/s
+Caudales aportantes m3/s
+MF2-10C, MF2-9(2), MF2-8(2), MF2-7(2), MF2-6B, MF2-5B(2),
+TC1 579,3 0,579
+CAMINO A MF1-10A, CAMINO A MF1-8, CAMINO A MF2-7
+TC2 MF2-4B(3), MF2-3B, MF2-2D 363,0 0,363
+TC3 MF2-2C, CAMINO A MF2-3B 100,8 0,101
+MF1-17, MF1-16, MF1-15, MF1-14, MF1-13A, MF1-12A, MF1-11A,
+MF1-10A, MF2-9(1), MF2-8(1), MF2-7(1), MF2-6A(1), MF1-5A, MF2-
+TC4 1069,4 1,069
+4B(1), MF2-3A(2), MF1-2B, MF1-1(1), MF1-1(2), CAMINO A MF2-4B,
+CAMINO A MF1-2B
+TC5 MF1-10B, CAMINO A MF1-11A 28,0 0,028
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 17 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 85
+================================================================================
+4.3. Zona de extracción Victoria Norte
+Figura 6: Disposición de canales de contorno para Zona de Extracción Victoria Norte.
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Apéndice 10-13.3 B.1
+Página 18 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 86
+================================================================================
+Tabla 14: Resumen de caudales del drenaje interno mediante canales evacuadores Zona
+de Extracción Victoria Norte.
+Longitud Cuneta
+Caudal (L/s)
+Unidad de Drenaje Superficie drenaje (m)
+Por unidad drenaje Por unidad drenaje
+VNF2-1 763 47 9,7
+VNF2-2 1594 114 22,1
+VNF2-3 1650 144 25,8
+VNF2-4 4750 155 41,1
+VNF2-5 6346 159 46,9
+VNF2-6 6922 302 71,3
+VNF2-7 2896 327 52,8
+VNF2-8A 647 71 11,6
+VNF2-8B 3428 169 38
+CAMINO A VNF2-8B 1226 69 14,7
+VNF2-9A 1389 138 23,4
+VNF2-9B 1319 107 19,7
+CAMINO A VNF2-9B 1088 64 13,4
+VNF2-10A 2533 225 40
+VNF2-10B 2333 77 20,3
+CAMINO A VNF2-10B 1132 64 13,6
+VNF2-11(1) 13627 293 91,8
+VNF2-11(2) 13627 88 59,3
+CAMINO A VNF2-11 1233 69 14,7
+VNF2-12A 7156 523 100,4
+CAMINO A VNF2-12A 1170 64 13,8
+VNF2-12B 675 53 9,9
+VNF2-12C 2351 186 34,6
+VNF2-13A(1) 14196 444 119,7
+CAMINO A VNF2-13A 1196 71 14,8
+VNF2-13A(2) 1548 258 35,6
+VNF2-13B 1348 86 17,4
+VNF2-14A(1) 7070 495 96,7
+CAMINO A VNF2-14A 1143 68 14,2
+VNF2-14A(2) 7070 135 44,4
+VNF2-14A(3) 14139 368 106,8
+VNF2-14B 140 18 2,8
+VNF2-15A 3219 221 43,5
+CAMINO A VNF2-15A 1238 69 14,8
+VNF2-15B 1556 141 24,8
+VNF2-15C 1588 124 23,2
+Apéndice 10-13.3 B.1
+Página 19 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 87
+================================================================================
+Longitud Cuneta
+Caudal (L/s)
+Unidad de Drenaje Superficie drenaje (m)
+Por unidad drenaje Por unidad drenaje
+VNF2-15D 675 57 10,3
+VNF2-15E 11039 403 102,2
+CAMINO A VNF2-15E 1068 63 13,2
+VNF2-16A(1) 5228 104 33,6
+CAMINO A VNF2-16A 430 23 5
+VNF2-21 1537 87 18,5
+CAMINO A VNF2-21 713 44 9
+VNF2-16A(2) 5228 246 56,3
+VNF2-16B(1) 2333 181 33,9
+VNF2-16B(2) 9333 452 102,3
+CAMINO A VNF2-16B 1302 74 15,7
+VNF2-16C 52 145 6,5
+VNF2-16D 1113 86 16,2
+VNF2-17A 2781 212 40
+VNF2-17B 863 68 12,7
+VNF2-17C 1453 118 21,7
+VNF2-17D 7280 541 103,2
+CAMINO A VNF2-17D 1142 64 13,7
+VNF2-18(1) 3983 293 56,1
+VNF2-18(2) 3983 154 38,2
+VNF2-18(3) 15931 496 134
+CAMINO A VNF2-18 1287 75 15,8
+VNF2-18(4) 2655 145 31,3
+VNF2-19A 1484 127 22,9
+VNF2-19B 9718 373 92,7
+CAMINO A VNF2-19B 1099 62 13,2
+VNF2-20(1) 8116 169 53,6
+VNF2-20(2) 8116 231 64,7
+CAMINO A VNF2-20 1103 64 13,5
+Fuente: Estudio realizado por DAV Ingeniería y Consultoría SpA, 2024.
+Apéndice 10-13.3 B.1
+Página 20 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 88
+================================================================================
+Tabla 15: Resumen de caudales aportantes para diseño de los canales de contorno en
+Zona de Extracción Victoria Norte.
+Zona Extracción Victoria Norte Q diseño
+Canal Q diseño L/s
+Caudales aportantes m3/s
+TC1 VNF2-19A, VNF2-20(1) 76,5 0,077
+TC2 VNF2-14B, VNF2-15D, VNF2-16D, VNF2-17C, VNF2-18(4) 82,3 0,082
+VNF2-16C, VNF2-17B, VNF2-18(2), VNF2-18(1), VNF2-17A, VNF2-
+TC3 210,6 0,211
+16B(1), VNF2-15C
+TC4 VNF2-12B, VNF2-13B, VNF2-14A(2), VNF2-15B 96,5 0,097
+VNF2-16A(2), VNF2-21, VNF2-16A(1), VNF2-15A, VNF2-14A(1),
+VNF2-13A(1), VNF2-12A, VNF2-11(1), VNF2-10A, VNF2-9A, VNF2-
+TC5 8A, CAMINO A VNF2-21, CAMINO A VNF2-16A, CAMINO A VNF2- 707,1 0,707
+15A, CAMINO A VNF2-14A, CAMINO A VNF2-13A, CAMINO A VNF2-
+12A
+TC6 VNF2-1, VNF2-2, VNF2-3, VNF2-4, VNF2-5 145,6 0,146
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.1
+Página 21 de 21
+Cálculo de Escorrentía
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 89
+================================================================================
+APÉNDICE 10-13.3
+DISEÑO Y VERIFICACIÓN DE CANALES DE
+CONTORNO, CAJONES Y ALCANTARILLAS
+Proyecto de Desarrollo Minero de Extracción de
+Arcillas Para la Producción de Concentrado de
+Tierras Raras
+Fecha: Mayo, 2024
+================================================================================
+PAGE 90
+================================================================================
+Índice
+1. OBRAS HIDRÁULICAS..................................................................................... 5
+1.1. Canales zonas de disposición y acopio vegetal .......................................... 5
+1.1.1. Zona de Disposición Neptuno ............................................................ 6
+1.1.2. Zona de acopio temporal de material vegetal ZAV .............................. 7
+1.2. Canales zonas de extracción ...................................................................... 8
+1.2.1. Zona de Extracción Luna ................................................................... 8
+1.2.2. Zona de Extracción Maite .................................................................. 9
+1.2.3. Zona de extracción Victoria Norte .................................................... 10
+1.3. Alcantarillas y cajones en cruces de caminos ........................................... 11
+1.3.1. Alcantarillas diseño ......................................................................... 11
+1.3.2. Alcantarillas verificación .................................................................. 13
+1.3.3. Cajones diseño ............................................................................... 14
+1.3.1. Cajones verificación ........................................................................ 15
+APÉNDICE A: VERIFICACIÓN DE SECCIÓN DE CANALES DE CONTORNO EN
+HCANALES ........................................................................................................ 16
+Zona de Disposición Neptuno............................................................................ 16
+Zona de Acopio Temporal ZAV ......................................................................... 20
+Zona de Extracción Luna ................................................................................... 20
+Zona de Extracción Maite .................................................................................. 23
+Zona de Extracción Victoria Norte ..................................................................... 26
+Apéndice 10-13.3 B.2
+Página 2 de 13 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 91
+================================================================================
+Índice de Tablas
+Tabla 1: Resumen canales de contorno ZD Neptuno .............................................. 6
+Tabla 2: Diseño de canales de contorno ZD Neptuno .............................................. 6
+Tabla 3: Resumen canales de contorno ZAV ........................................................... 7
+Tabla 4: Diseño de canales de contorno ZAV .......................................................... 7
+Tabla 5: Resumen canales de contorno ZE Luna .................................................... 8
+Tabla 6: Diseño canales de contorno ZE Luna ........................................................ 8
+Tabla 7: Resumen canales de contorno ZE Maite ................................................... 9
+Tabla 8: Diseño canales de contorno ZE Maite........................................................ 9
+Tabla 9: Resumen canales de contorno ZE Victoria Norte .................................... 10
+Tabla 10: Diseño canales de contorno ZE Victoria Norte ....................................... 10
+Tabla 11: Diseño alcantarillas T =100 años. ......................................................... 11
+R
+Tabla 12: Verificación alcantarillas T =150 años. .................................................. 13
+R
+Tabla 13: Diseño cajones T =100 años. ................................................................ 14
+R
+Tabla 14: Verificación cajones T =150 años. ........................................................ 15
+R
+Apéndice 10-13.3 B.2
+Página 3 de 13 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 92
+================================================================================
+Índice de Figuras
+Figura 1: Resultado modelación en HCanales para canal TC1 ..................................................... 16
+Figura 2: Resultado modelación en HCanales para canal TC2 ..................................................... 17
+Figura 3: Resultado modelación en HCanales para canal TC3 ..................................................... 18
+Figura 4: Resultado modelación en HCanales para canal TC4 ..................................................... 19
+Figura 5: Resultado modelación en HCanales para canal TC1 ..................................................... 20
+Figura 6: Resultado modelación en HCanales para canal TC2 ..................................................... 20
+Figura 7: Resultado modelación en HCanales para canal TC1 ..................................................... 20
+Figura 8: Resultado modelación en HCanales para canal TC2 ..................................................... 22
+Figura 9: Resultado modelación en HCanales para canal TC3 ..................................................... 22
+Figura 10: Resultado modelación en HCanales para canal TC5 ................................................... 22
+Figura 11: Resultado modelación en HCanales para canal TC6 ................................................... 23
+Figura 12: Resultado modelación en HCanales para canal TC1 ................................................... 23
+Figura 13: Resultado modelación en HCanales para canal TC2 ................................................... 25
+Figura 14: Resultado modelación en HCanales para canal TC3 ................................................... 25
+Figura 15: Resultado modelación en HCanales para canal TC4 ................................................... 25
+Figura 16: Resultado modelación en HCanales para canal TC5 ................................................... 26
+Figura 17: Resultado modelación en HCanales para canal TC1 ................................................... 26
+Figura 18: Resultado modelación en HCanales para canal TC2 ................................................... 27
+Figura 19: Resultado modelación en HCanales para canal TC3 ................................................... 27
+Figura 20: Resultado modelación en HCanales para canal TC4 ................................................... 28
+Figura 21: Resultado modelación en HCanales para canal TC5 ................................................... 29
+Apéndice 10-13.3 B.2
+Página 4 de 13 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 93
+================================================================================
+1. Obras Hidráulicas
+El presente informe detalla los cálculos que se realizaron para el diseño de los canales de
+contorno, alcantarillas y cajones de los cruces de caminos. Los resultados se presentan por
+zona, en primer lugar, se presenta una tabla resumen con los tipos de obras y sus
+respectivas dimensiones; en segundo lugar, se presenta el detalle de cálculo de cada obra
+a partir de los caudales de crecidas obtenidos en el Anexo 13-13.3 – Cálculo de Escorrentía.
+1.1. Canales zonas de disposición y acopio vegetal
+Las zonas de disposición y acopio vegetal cuentan con canales de contorno que conducirán
+la escorrentía generada hacia los cauces naturales. Estas obras fueron calculadas según los
+criterios de diseño presentados en el Apéndice 10-13-3 - Informe Hidráulico y a
+continuación se detallan por zona.
+Apéndice 10-13.3 B.2
+Página 5 de 13 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas Para la Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 94
+================================================================================
+1.1.1. Zona de Disposición Neptuno
+Tabla 1: Resumen canales de contorno ZD Neptuno
+ID i [m/m] B (m) H (m) z [-] Revestido
+TC1 0.121 0.7 0.6 1 SI
+TC2 0.133 0.7 0.6 1 SI
+TC3 0.185 0.7 0.6 1 SI
+TC4 0.162 0.7 0.6 1 SI
+Fuente: Elaboración propia, 2024.
+Tabla 2: Diseño de canales de contorno ZD Neptuno.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Revestir Q Tr=150 m3/s Hn (m) Verificación
+TC1 1,375 0,121 0,02 0,7 0,26 0,2 0,5 1 0,263 0,253 0,175 5,43 SI 1,450 0,249 CUMPLE
+TC2 0,240 0,133 0,02 0,7 0,09 0,2 0,3 1 0,093 0,073 0,076 3,27 SI 0,253 0,086 CUMPLE
+TC3 0,509 0,185 0,02 0,7 0,13 0,2 0,4 1 0,130 0,108 0,101 4,72 SI 0,537 0,124 CUMPLE
+TC4 0,549 0,162 0,02 0,7 0,14 0,2 0,4 1 0,142 0,119 0,108 4,61 SI 0,580 0,135 CUMPLE
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 6 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 95
+================================================================================
+1.1.2. Zona de acopio temporal de material vegetal ZAV
+Tabla 3: Resumen canales de contorno ZAV
+ID i [m/m] B (m) H (m) z [-] Revestido
+TC1 0.246 0.7 0.6 1 SI
+TC2 0.045 0.7 0.6 1 SI
+Fuente: Elaboración propia, 2024.
+Tabla 4: Diseño de canales de contorno ZAV
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Revestir Q Tr=150 m3/s Hn (m) Verificación
+TC1 0,131 0,246 0,02 0,7 0,050 0,2 0,3 1 0,050 0,038 0,045 3,47 SI 0,138 0,051 CUMPLE
+TC2 0,123 0,045 0,02 0,7 0,086 0,2 0,3 1 0,086 0,067 0,071 1,82 SI 0,129 0,089 CUMPLE
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 7 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 96
+================================================================================
+1.2. Canales zonas de extracción
+Las zonas de extracción cuentan con 2 obras asociadas a su implementación. Estas son los
+canales de evacuación y canales de contorno. Estos fueron calculados según los criterios de
+diseño presentados en el Informe de Obras Hidráulicas y a continuación se detallan por
+zona.
+1.2.1. Zona de Extracción Luna
+Tabla 5: Resumen canales de contorno ZE Luna.
+ID i [m/m] B (m) H (m) z [-] Revestido
+TC1 0.126 0.7 0.6 1 SI
+TC2 0.036 0.7 0.6 1 SI
+TC3 0.285 0.7 0.6 1 SI
+TC5 0.010 0.7 0.6 1 NO
+TC6 0.102 0.7 0.6 1 SI
+Fuente: Elaboración propia, 2024.
+Tabla 6: Diseño canales de contorno ZE Luna.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Revestir Q Tr=150 m3/s Hn (m) Verificación
+TC1 0,189 0,126 0,02 0,7 0,08 0,2 0,3 1 0,084 0,066 0,070 2,88 SI 0,199 0,084 CUMPLE
+TC2 0,377 0,036 0,02 0,7 0,18 0,2 0,4 1 0,178 0,156 0,130 2,41 SI 0,398 0,183 CUMPLE
+TC3 0,510 0,285 0,02 0,7 0,12 0,2 0,4 1 0,117 0,096 0,093 5,33 SI 0,538 0,117 CUMPLE
+TC5 0,044 0,010 0,02 0,7 0,07 0,2 0,3 1 0,075 0,058 0,063 0,76 NO 0,046 0,075 CUMPLE
+TC6 0,639 0,102 0,02 0,7 0,18 0,2 0,4 1 0,180 0,159 0,131 4,03 SI 0,674 0,182 CUMPLE
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 8 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 97
+================================================================================
+1.2.2. Zona de Extracción Maite
+Tabla 7: Resumen canales de contorno ZE Maite.
+ID i [m/m] B (m) H (m) z [-] Revestido
+TC1 0.200 0.7 0.6 1 SI
+TC2 0.115 0.7 0.6 1 SI
+TC3 0.038 0.7 0.6 1 SI
+TC4 0.224 1 0.6 1 SI
+TC5 0.071 0.7 0.6 1 SI
+Fuente: Elaboración propia, 2024.
+Tabla 8: Diseño canales de contorno ZE Maite.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Revestir Q Tr=150 m3/s Hn (m) Verificación
+TC1 0,579 0,200 0,02 0,7 0,14 0,2 0,4 1 0,139 0,117 0,107 4,97 SI 0,611 0,140 CUMPLE
+TC2 0,363 0,115 0,02 0,7 0,13 0,2 0,4 1 0,126 0,104 0,098 3,49 SI 0,383 0,126 CUMPLE
+TC3 0,101 0,038 0,02 0,7 0,08 0,2 0,3 1 0,080 0,063 0,068 1,61 SI 0,106 0,080 CUMPLE
+TC4 1,069 0,224 0,02 1 0,16 0,2 0,4 1 0,158 0,183 0,127 5,83 SI 1,128 0,160 CUMPLE
+TC5 0,028 0,071 0,02 0,7 0,03 0,2 0,3 1 0,032 0,023 0,030 1,20 SI 0,030 0,032 CUMPLE
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 9 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 98
+================================================================================
+1.2.3. Zona de extracción Victoria Norte
+Tabla 9: Resumen canales de contorno ZE Victoria Norte.
+ID i [m/m] B (m) H (m) z [-] Revestido
+TC1 0.297 0.7 0.6 1 SI
+TC2 0.071 0.7 0.6 1 SI
+TC3 0.146 0.7 0.6 1 SI
+TC4 0.119 0.7 0.6 1 SI
+TC5 0.156 0.7 0.6 1 SI
+TC6 0.242 0.7 0.6 1 SI
+Fuente: Elaboración propia, 2024.
+Tabla 10: Diseño canales de contorno ZE Victoria Norte.
+ID Q (m3/s) i (m/m) n (-) b (m) Hn (m) Rev. (m) Ht (m) z (-) hn (m) A (m2) Rh (m) V (m/s) Revestir Q Tr=150 m3/s Hn (m) Verificación
+TC1 0,077 0,297 0,02 0,7 0,04 0,2 0,3 1 0,041 0,030 0,037 2,54 SI 0,081 0,031 CUMPLE
+TC2 0,082 0,071 0,02 0,7 0,06 0,2 0,3 1 0,061 0,046 0,053 1,78 SI 0,087 0,060 CUMPLE
+TC3 0,211 0,146 0,02 0,7 0,09 0,2 0,3 1 0,086 0,068 0,072 3,10 SI 0,222 0,083 CUMPLE
+TC4 0,097 0,119 0,02 0,7 0,06 0,2 0,3 1 0,057 0,043 0,050 2,25 SI 0,102 0,056 CUMPLE
+TC5 0,707 0,156 0,02 0,7 0,17 0,2 0,4 1 0,167 0,145 0,124 4,87 SI 0,746 0,172 CUMPLE
+TC6 0,146 0,242 0,02 0,7 0,06 0,2 0,3 1 0,058 0,044 0,051 3,31 SI 0,154 0,060 CUMPLE
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 10 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 99
+================================================================================
+1.3. Alcantarillas y cajones en cruces de caminos
+A continuación. se presenta el diseño de las alcantarillas utilizando la metodología descrita en el informe de obras hidráulicas y usando
+los caudales de crecidas adjuntos en el Apéndice A.
+1.3.1. Alcantarillas diseño
+Tabla 11: Diseño alcantarillas T
+R
+=100 años.
+Coeficiente
+Qdis Qdis Ancho Profundidad Perímetro Radio Caudal
+# D h Ángulo Área Pendiente de Velocidad Froude
+ID (KMZ) total unitario Superficial Hidraúlica Mojado Hidráulico Q Flujo
+Alcantarillas (m) (m) (num) (m2) i (m/m) Rugosidad (m/s) Fr
+(m3/s) (m3/s) (m) hm (m) Pm (m) Rh (m) (m3/s)
+n
+OAT 11-1 0,019 1 0,019 0,60 0,05 1,150 0,01 0,33 0,03 0,35 0,03 0,14 0,020 0,02 1,86 3,29 Supercrítico
+OAT 7-7 0,172 1 0,172 0,60 0,13 1,953 0,05 0,50 0,09 0,59 0,08 0,17 0,020 0,17 3,75 3,93 Supercrítico
+OAT 7-2 0,079 1 0,079 0,60 0,10 1,721 0,03 0,45 0,07 0,52 0,06 0,09 0,020 0,08 2,41 2,86 Supercrítico
+OAT 5-11 0,126 1 0,126 0,60 0,13 1,948 0,05 0,50 0,09 0,58 0,08 0,09 0,020 0,13 2,76 2,90 Supercrítico
+OAT 5-10 2,515 3 0,838 1,20 0,27 1,971 0,19 1,00 0,19 1,18 0,16 0,09 0,020 0,84 4,44 3,26 Supercrítico
+OAT 2-3 0,083 1 0,083 0,60 0,10 1,724 0,03 0,46 0,07 0,52 0,06 0,10 0,020 0,08 2,53 3,00 Supercrítico
+OAT 2-2 0,038 1 0,038 0,80 0,06 1,078 0,02 0,41 0,04 0,43 0,04 0,19 0,020 0,04 2,40 3,92 Supercrítico
+OAT 2-1 0,556 1 0,556 1,00 0,18 1,757 0,10 0,77 0,13 0,88 0,11 0,25 0,020 0,56 5,75 5,17 Supercrítico
+OAT 1-18 0,069 1 0,069 0,60 0,08 1,523 0,02 0,41 0,06 0,46 0,05 0,18 0,020 0,07 2,96 3,95 Supercrítico
+OAT 1-17 0,132 2 0,066 0,60 0,07 1,342 0,02 0,37 0,04 0,40 0,04 0,45 0,020 0,07 4,00 6,06 Supercrítico
+OAT 1-16 0,188 1 0,188 0,60 0,20 2,451 0,08 0,56 0,14 0,74 0,11 0,04 0,020 0,19 2,31 1,94 Supercrítico
+OAT 1-11 0,073 1 0,073 0,60 0,07 1,404 0,02 0,39 0,05 0,42 0,04 0,38 0,020 0,07 3,90 5,66 Supercrítico
+OAT 1-8 0,270 2 0,135 0,80 0,09 1,383 0,03 0,51 0,06 0,55 0,06 0,32 0,020 0,13 4,21 5,36 Supercrítico
+OAT 38-1 0,224 1 0,224 0,60 0,16 2,144 0,06 0,53 0,11 0,64 0,09 0,14 0,020 0,22 3,83 3,66 Supercrítico
+OAT 22-5 0,297 1 0,297 0,60 0,20 2,448 0,08 0,56 0,14 0,73 0,11 0,10 0,020 0,30 3,65 3,07 Supercrítico
+OAT 11-3 0,024 2 0,012 0,60 0,04 1,108 0,01 0,32 0,03 0,33 0,03 0,08 0,020 0,01 1,30 2,39 Supercrítico
+OAT 1-14 5,280 3 1,760 1,20 0,33 2,199 0,25 1,07 0,23 1,32 0,19 0,18 0,020 1,76 7,04 4,64 Supercrítico
+Apéndice 10-13.3 B.2
+Página 11 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 100
+================================================================================
+Coeficiente
+Qdis Qdis Ancho Profundidad Perímetro Radio Caudal
+# D h Ángulo Área Pendiente de Velocidad Froude
+ID (KMZ) total unitario Superficial Hidraúlica Mojado Hidráulico Q Flujo
+Alcantarillas (m) (m) (num) (m2) i (m/m) Rugosidad (m/s) Fr
+(m3/s) (m3/s) (m) hm (m) Pm (m) Rh (m) (m3/s)
+n
+OAT 7-6 4,9 3 1,633 1,20 0,31 2,124 0,23 1,05 0,22 1,27 0,18 0,20 0,020 1,63 7,12 4,86 Supercrítico
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 12 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 101
+================================================================================
+1.3.2. Alcantarillas verificación
+Tabla 12: Verificación alcantarillas T
+R
+=150 años.
+Qdis Qdis He - He - He -
+# Diámetro Comprobación Comprobación Comprobación
+ID (KMZ) total unitario S F código código código H
+Alcantarillas (m) He-4 He-5 He-6
+(m3/s) (m3/s) 4 5 6
+OAT 11-1 0,02 1 0,02 0,6 0,0000 0,08 0,143 0,123 0,158 1,2 CUMPLE CUMPLE CUMPLE
+OAT 7-7 0,19 1 0,19 0,6 0,0000 0,68 0,401 0,412 0,434 1,2 CUMPLE CUMPLE CUMPLE
+OAT 7-2 0,09 1 0,09 0,6 0,0000 0,31 0,257 0,263 0,278 1,2 CUMPLE CUMPLE CUMPLE
+OAT 5-11 0,14 1 0,14 0,6 0,0000 0,50 0,335 0,346 0,362 1,2 CUMPLE CUMPLE CUMPLE
+OAT 5-10 2,76 3 0,92 1,2 0,0000 0,58 0,735 0,757 0,794 1,8 CUMPLE CUMPLE CUMPLE
+OAT 2-3 0,09 1 0,09 0,6 0,0000 0,33 0,265 0,271 0,286 1,2 CUMPLE CUMPLE CUMPLE
+OAT 2-2 0,04 1 0,04 0,8 0,0000 0,07 0,188 0,160 0,207 1,4 CUMPLE CUMPLE CUMPLE
+OAT 2-1 0,61 1 0,61 1,0 0,0000 0,61 0,629 0,647 0,679 1,6 CUMPLE CUMPLE CUMPLE
+OAT 1-18 0,08 1 0,08 0,6 0,0000 0,27 0,241 0,245 0,261 1,2 CUMPLE CUMPLE CUMPLE
+OAT 1-17 0,14 2 0,07 0,6 0,0000 0,26 0,235 0,238 0,255 1,2 CUMPLE CUMPLE CUMPLE
+OAT 1-16 0,21 1 0,21 0,6 0,0000 0,74 0,423 0,434 0,459 1,2 CUMPLE CUMPLE CUMPLE
+OAT 1-11 0,08 1 0,08 0,6 0,0000 0,29 0,248 0,253 0,269 1,2 CUMPLE CUMPLE CUMPLE
+OAT 1-8 0,30 2 0,15 0,8 0,0000 0,26 0,313 0,316 0,339 1,4 CUMPLE CUMPLE CUMPLE
+OAT 38-1 0,25 1 0,25 0,6 0,0000 0,88 0,472 0,482 0,514 1,2 CUMPLE CUMPLE CUMPLE
+OAT 22-5 0,33 1 0,33 0,6 0,0000 1,17 0,567 0,583 0,628 1,2 CUMPLE CUMPLE CUMPLE
+OAT 11-3 0,03 2 0,01 0,6 0,0000 0,05 0,128 0,102 0,141 1,2 CUMPLE CUMPLE CUMPLE
+OAT 1-14 5,57 3 1,86 1,2 0,1818 1,18 1,031 1,064 1,154 1,8 CUMPLE CUMPLE CUMPLE
+OAT 7-6 5,34 3 1,78 1,2 0,2000 1,13 0,987 1,016 1,103 1,8 CUMPLE CUMPLE CUMPLE
+Fuente: Elaboración propia, 2024.
+Donde:
+He-4: Alcantarilla circular de acero corrugado, muro frontal, alas 33g≤β ≤83g
+He-5: Alcantarilla circular de acero corrugado, tubo cortado a bisel (sin alas)
+He-6: Alcantarilla circular de acero corrugado, tubo prolongado (sin muros ni alas)
+Apéndice 10-13.3 B.2
+Página 13 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 102
+================================================================================
+1.3.3. Cajones diseño
+Tabla 13: Diseño cajones T
+R
+=100 años.
+Qdis Qdis Perímetro Radio
+Coeficiente
+Caudal
+# B H y Área Pendiente de Velocidad Froude
+ID (KMZ) total unitario Mojado Hidráulico Q Flujo
+Cajones (m) (m) (m) (m2) i (m/m) Rugosidad (m/s) Fr
+(m3/s) (m3/s) Pm (m) Rh (m) (m3/s)
+n
+OAT 1-15 4,736 2 2,37 2,5 2 0,15 0,38 2,80 0,14 0,125 0,015 2,37 6,22 5,09 Supercrítico
+OAT 1-6 11,689 3 3,90 2,5 2 0,18 0,45 2,86 0,16 0,200 0,015 3,90 8,68 6,54 Supercrítico
+OAT 22-9 9,807 3 3,27 2,5 2 0,21 0,53 2,92 0,18 0,083 0,015 3,27 6,17 4,27 Supercrítico
+OAT 22-8 46,668 3 15,56 3 2 0,53 1,58 4,05 0,39 0,077 0,015 15,56 9,86 4,34 Supercrítico
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 14 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 103
+================================================================================
+1.3.1. Cajones verificación
+Tabla 14: Verificación cajones T
+R
+=150 años.
+Qdis Qdis He - He - He - He -
+# Diámetro Comprobación Comprobación Comprobación Comprobación
+ID (KMZ) total unitario B S F código código código código H
+Cajones o altura He-7 He-8 He-9 He-10
+(m3/s) (m3/s) 7 8 9 10
+OAT 1-15 5,20 2 2,60 2 2,5 0,125 0,33 0,55 0,65 0,66 0,62 2,6 CUMPLE CUMPLE CUMPLE CUMPLE
+OAT 1-6 12,84 3 4,28 2 2,5 0,200 0,54 0,75 0,86 0,85 0,79 2,6 CUMPLE CUMPLE CUMPLE CUMPLE
+OAT 22-9 10,65 3 3,55 2 2,5 0,083 0,45 0,75 0,86 0,85 0,81 2,6 CUMPLE CUMPLE CUMPLE CUMPLE
+OAT 22-8 51,27 3 17,09 2 3 0,077 1,64 1,96 2,15 2,18 1,97 2,6 CUMPLE CUMPLE CUMPLE CUMPLE
+Fuente: Elaboración propia, 2024.
+Donde:
+He-7: Cajón con aristas vivas, muro frontal y alas con 33g≤β≤83 g
+He-8: Cajón con aristas vivas, muro frontal y alas con β = 17 g o 100 g
+He-9: Cajón con aristas vivas, muro frontal y alas con = 0 g
+He-10: Cajón con aristas biseladas, muro frontal y alas β =50g
+Apéndice 10-13.3 B.2
+Página 15 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 104
+================================================================================
+Apéndice A: Verificación de sección de Canales de Contorno
+en HCanales
+Utilizando los caudales de verificación calculados, se procede a modelar las secciones de
+todos los canales, para todas las zonas del proyecto, con su caudal respectivo. Los
+resultados obtenidos se muestran en las Figura 1 a Figura 21 adjuntas a continuación:
+Zona de Disposición Neptuno
+Figura 1: Resultado modelación en HCanales para canal TC1.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 16 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 105
+================================================================================
+Figura 17: Resultado modelación en HCanales para canal TC
+17.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 17 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 106
+================================================================================
+Figura 18: Resultado modelación en HCanales para canal TC
+18.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 18 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 107
+================================================================================
+Figura 19: Resultado modelación en HCanales para canal TC
+19.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 19 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 108
+================================================================================
+Zona de Acopio Temporal ZAV
+Figura 5: Resultado modelación en HCanales para canal TC1.
+Fuente: Elaboración propia, 2024.
+Figura 6: Resultado modelación en HCanales para canal TC2.
+Fuente: Elaboración propia, 2024.
+Zona de Extracción Luna
+Figura 7: Resultado modelación en HCanales para canal TC1.
+Apéndice 10-13.3 B.2
+Página 20 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 109
+================================================================================
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 21 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 110
+================================================================================
+Figura 8: Resultado modelación en HCanales para canal TC2.
+Fuente: Elaboración propia, 2024.
+Figura 9: Resultado modelación en HCanales para canal TC3.
+Fuente: Elaboración propia, 2024.
+Figura 10: Resultado modelación en HCanales para canal TC5.
+Apéndice 10-13.3 B.2
+Página 22 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 111
+================================================================================
+Fuente: Elaboración propia, 2024.
+Figura 11: Resultado modelación en HCanales para canal TC6.
+Fuente: Elaboración propia, 2024.
+Zona de Extracción Maite
+Figura 12: Resultado modelación en HCanales para canal TC1.
+Apéndice 10-13.3 B.2
+Página 23 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 112
+================================================================================
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 24 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 113
+================================================================================
+Figura 13: Resultado modelación en HCanales para canal TC2.
+Fuente: Elaboración propia, 2024.
+Figura 14: Resultado modelación en HCanales para canal TC3.
+Fuente: Elaboración propia, 2024.
+Figura 15: Resultado modelación en HCanales para canal TC4.
+Apéndice 10-13.3 B.2
+Página 25 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 114
+================================================================================
+Fuente: Elaboración propia, 2024.
+Figura 16: Resultado modelación en HCanales para canal TC5.
+Fuente: Elaboración propia, 2024.
+Zona de Extracción Victoria Norte
+Figura 17: Resultado modelación en HCanales para canal TC1.
+Apéndice 10-13.3 B.2
+Página 26 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 115
+================================================================================
+Fuente: Elaboración propia, 2024.
+Figura 18: Resultado modelación en HCanales para canal TC2.
+Fuente: Elaboración propia, 2024.
+Figura 19: Resultado modelación en HCanales para canal TC3.
+Apéndice 10-13.3 B.2
+Página 27 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 116
+================================================================================
+Fuente: Elaboración propia, 2024.
+Figura 20: Resultado modelación en HCanales para canal TC4.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 28 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras
+================================================================================
+PAGE 117
+================================================================================
+Figura 21: Resultado modelación en HCanales para canal TC5.
+Fuente: Elaboración propia, 2024.
+Apéndice 10-13.3 B.2
+Página 29 de 29 Diseño y verificación de Canales de contorno, cajones y alcantarillas
+Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de Concentrado
+de Tierras Raras

@@ -1,0 +1,915 @@
+
+================================================================================
+PAGE 1
+================================================================================
+Anexo 10-12
+Permiso Ambiental Sectorial
+N° 156
+EIA "Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras"
+Región de B iobío
+Juni o, 2024
+Elaborado para:
+Gestión Ambiental Consultores S.A.
+General del Canto 421, Piso 6, Providencia,
+Santiago, Chile - Fono: +56 2 2719 5600
+www.gac.cl
+================================================================================
+PAGE 2
+================================================================================
+Estudio de Impacto Ambiental
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+Anexo 10.12
+Permiso Ambiental Sectorial N°156
+Fecha: Junio, 2024
+================================================================================
+PAGE 3
+================================================================================
+ANEXO 10.12
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de
+Extracción de Arcillas para Producción de
+Concentrado de Tierras Raras
+FMR GCB AVF
+1 27/05/2024 Jefe de Proyecto
+Ing. de Proyectos Ing. Senior
+Ingeniería
+Revisión Fecha Elaboró Revisó Aprobó
+Anexo 10.12
+Página 2 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 4
+================================================================================
+Índice
+1. Introducción ...................................................................................................... 5
+2. Contenidos Técnicos y Formales que Acrediten el Cumplimiento del PAS 156 ..... 6
+2.1. Descripción del lugar de emplazamiento de la Obra ......................................... 7
+2.1.1. Identificación de Cauces ......................................................................... 11
+2.1.2. Coordenadas UTM de las Obras y Descripción del sector en el que se
+emplazarán las Obras .............................................................................................. 13
+2.1.3. Descripción de las Características Generales del Cauce 100 metros antes
+y después de la modificación ................................................................................... 15
+2.2. Descripción de la Obra y sus Fases .................................................................. 16
+2.2.1. Detallar tipo de obra, función, características constructivas y dimensiones
+básicas ................................................................................................................ 16
+2.2.2. Descripción de la etapa de Construcción, Operación y Abandono si
+corresponde ............................................................................................................. 25
+2.3. Estimación de los Plazos y Períodos de Construcción de las Obras ................ 27
+2.4. Medidas Tendientes a Minimizar los Efectos Sobre la Calidad de las Aguas,
+Aguas Abajo del Lugar de Construcción de las Obras ................................................. 28
+2.4.1. Sobre las obras de cruce en cauces y quebradas .................................... 28
+2.4.2. Zonas de Extracción, Disposición y Acopio Vegetal ................................ 30
+2.5. Plan de Seguimiento de la Calidad de las Aguas durante la Fase de Construcción
+......................................................................................................................... 32
+Anexo 10.12
+Página 3 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 5
+================================================================================
+Índice de Figuras
+Figura 2-1. Ubicación General del Proyecto, UTM WGS 84/ H18S. ................................. 8
+Figura 2-2. Obras del proyecto referentes a zonas de Extracción, Disposición, Acopio
+Vegetal y Caminos internos UTM WGS 84/ H18S. ........................................................... 9
+Figura 2-3. Trazado Oleoducto Hualpén – San Fernando en ZE Maite. ......................... 10
+Figura 2-4. Red de Drenaje de la zona en que se emplaza el Proyecto, UTM WGS 84/
+H18S. ............................................................................................................................... 11
+Figura 2-5. Atraviesos asociados al Oleoducto, UTM WGS 84/ H18S. ........................... 12
+Figura 2-6. Esquema de atravieso tipo alcantarilla de 3 ductos. ................................... 18
+Figura 2-7. Corte longitudinal de cruce de quebrada con alcantarilla. .......................... 19
+Figura 2-8. Corte transversal de cruce de quebrada con alcantarilla. ........................... 19
+Figura 2-9. Esquema de ejemplo de cruce mediante cajones........................................ 20
+Figura 2-10. Ubicación de los atraviesos tipo Alcantarilla y Cajón, UTM WGS 84/ H18S.
+........................................................................................................................................ 21
+Figura 2-11. Esquema de cambio en la topografía para las zonas de extracción. ......... 22
+Figura 2-12. Perfil transversal de disposición Oleoducto. .............................................. 24
+Figura 2-13. Puntos de Control Tipo Atravieso, UTM WGS 84/ H18S. ........................... 33
+Índice de Tablas
+Tabla 2-1. Coordenadas centroide de cada Zona del Proyecto........................................ 9
+Tabla 2-2. Atraviesos del proyecto y sus coordenadas. ................................................. 13
+Tabla 2-3. Descripción de los puntos de análisis. ........................................................... 14
+Tabla 2-4. Dimensiones básicas de alcantarillas en cruces de caminos. ........................ 17
+Tabla 2-5. Diseño de atraviesos tipo cajón. .................................................................... 21
+Tabla 2-6 Cronograma de inicio de operaciones para las zonas del proyecto. .............. 25
+Tabla 2-7. Carta Gantt construcción de atraviesos tipo alcantarilla y cajón. ................. 27
+Tabla 2-8. Comparación de resultados SPLP con D.S N°90 (Tabla N°1) y la NCh 1.333. 31
+Tabla 2-9. 34 Puntos de Control tipo Atravieso. ............................................................ 34
+Anexo 10.12
+Página 4 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 6
+================================================================================
+1. Introducción
+El Proyecto de Desarrollo Minero de Extracción de Arcillas para la Producción de
+Concentrado de Tierras Raras, en adelante, indistintamente, el “Proyecto”, corresponde
+al conjunto de partes, obras y acciones que permitirán la construcción, operación y
+cierre de una faena minera para la extracción y procesamiento de arcillas, material
+presente en la zona, el cual, por efectos naturales, se encuentra altamente meteorizado,
+con presencia de tierras raras en los minerales de arcilla. El Proyecto se desarrollará
+principalmente en la comuna de Penco, Provincia de Concepción, Región del Biobío, sin
+perjuicio que parte de las obras se emplazan en la comuna de Concepción, en el límite
+con la Comuna de Penco.
+El Proyecto considera las siguientes instalaciones: una (1) Planta de Procesamiento, tres
+(3) zonas de extracción de arcillas (ZE Victoria Norte, ZE Luna, ZE Maite), una (1) zona de
+disposición para lastre y arcillas procesadas (ZD Neptuno), una (1) zona de acopio de
+suelo vegetal (ZAV), una planta de procesamiento de arcillas (la “Planta”), un stockpile
+para el acopio temporal de material previo al procesamiento, una línea eléctrica y su
+conexión a línea existente y la construcción de caminos internos para acceder a las
+distintas áreas. La Planta de Procesamiento tendrá una capacidad para procesar hasta
+320 toneladas/hora de material para producir concentrado de Tierras Raras. Además, se
+considera la modificación de un tramo existente de aproximadamente 1,22 kilómetros
+del oleoducto Hualpén – San Fernando, propiedad de ENAP, motivo de la explotación de
+la ZE Maite. El Proyecto a su vez cuenta con la implementación de obras temporales
+correspondiente a instalaciones de faenas para la construcción y habilitación de las
+obras del Proyecto.
+En el Capítulo 10 Plan de Cumplimiento Normativa Ambiental Aplicable se ha realizado
+un análisis de los Permisos Ambientales Sectoriales de Contenidos Únicamente
+Ambientales y aquellos Mixtos, establecidos en el Título VII del Reglamento del Sistema
+de Evaluación de Impacto Ambiental (D.S. Nº40/2012 del Ministerio del Medio
+Ambiente), donde se identificó la aplicabilidad del Permiso Ambiental Sectorial Mixto
+del artículo 156, dado que el proyecto requiere efectuar modificaciones de cauce en
+tanto contempla obras de cruce asociadas a la habilitación de caminos que atraviesan
+cauces o quebradas requeridas para el desarrollo del proyecto.
+Anexo 10.12
+Página 5 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 7
+================================================================================
+El artículo en que se basa el Permiso Ambiental Sectorial Mixto señala lo siguiente:
+Artículo 156.- Permiso para efectuar modificaciones de cauce.
+El permiso para efectuar modificaciones de cauce será el establecido en el artículo 41 e
+inciso 1º del artículo 171 del Decreto con Fuerza de Ley Nº1.122, de 1981, del Ministerio
+de Justicia, Código de Aguas, siempre que no se trate de obras de regularización o
+defensa de cauces naturales. El requisito para su otorgamiento consiste en no afectar la
+vida o salud de los habitantes, mediante la no contaminación de las aguas.
+Los contenidos técnicos y formales que serán presentados en el siguiente informe, para
+acreditar el cumplimiento de los requisitos dispuestos en el artículo atingente, son
+detallados a continuación:
+a) Descripción del lugar de emplazamiento de la obra.
+b) Descripción de la obra y sus fases.
+c) Estimación de los plazos y periodos de construcción de las obras.
+d) Medidas tendientes a minimizar los efectos sobre la calidad de las aguas, aguas
+abajo del lugar de construcción de las obras.
+e) Plan de seguimiento de la calidad de las aguas durante la fase de construcción.
+2. Contenidos Técnicos y Formales que Acrediten el
+Cumplimiento del PAS 156
+En virtud de los requerimientos del artículo 156 del Reglamento del SEIA, a continuación,
+se presentan los contenidos tanto técnicos como formales que permiten acreditar el
+cumplimiento de los requisitos del citado PAS 156, los cuales aplican a los atraviesos de
+cauces naturales.
+Anexo 10.12
+Página 6 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 8
+================================================================================
+2.1. Descripción del lugar de emplazamiento de la Obra
+El proyecto será emplazado en un sector rural, en la comuna de Penco y Concepción,
+Provincia de Concepción, en la Región del Bio Bío. La zona de intervención es un área
+cercana a la costa, de uso esencialmente forestal.
+De acuerdo con la Clasificación de la DGA (Inventario de cuencas, subcuencas y
+subsubcuencas de Chile, DGA, 2014), el área de intervención se encuentra en la cuenca
+Costera e Islas entre Rio Itata y Rio Bio Bío (Código de cuenca 082) y entre las subcuencas
+Costeras Río Pingueral y Río Andalién (Código de subcuenca 0821). Estas cuencas son
+del tipo Costera Exorreica.
+Dentro de estas pequeñas cuencas costeras, algunas presentan escorrentía permanente
+mientras que otras presentan pequeños esteros y afloramientos de agua
+exclusivamente en los meses de invierno, luego de las tormentas. De acuerdo con el
+documento “Diagnóstico y clasificación de los cursos y cuerpos de agua según objetivos
+de calidad, Cuenca del Río Itata”, DGA, 2004, el régimen de estas cuencas es netamente
+pluvial, marcando los caudales altos en los meses asociados al invierno austral y bajos
+en la temporada de estiaje.
+El Proyecto considera zonas de disposición, acopio y extracción en algunas cuencas
+costeras del sector, modificando la red de drenaje natural de los cauces. Además, se
+considerarán diferentes tipos de cruces (alcantarilla u obras de arte) que permitirán el
+tránsito de vehículos, debido a la necesidad de habilitar caminos interiores, hacia los
+distintos sectores del Proyecto.
+En la Figura 2-1 se muestra la ubicación general del proyecto, en tanto que en la Figura
+2-2 se muestra el emplazamiento de las distintas zonas de extracción, disposición y
+acopio vegetal, así como también los caminos internos y las instalaciones.
+Anexo 10.12
+Página 7 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 9
+================================================================================
+Figura 2-1. Ubicación General del Proyecto, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024
+Anexo 10.12
+Página 8 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 10
+================================================================================
+La Tabla 2-1 detalla las coordenadas de los centroides de las zonas de extracción,
+disposición y acopio de suelo vegetal, mientras que la Figura 2-2 su ubicación en el
+mapa:
+Tabla 2-1. Coordenadas centroide de cada Zona del Proyecto.
+Coordenadas WGS 84 UTM 18S
+Tipo Nombre
+Este Norte
+Zona de disposición Neptuno 679.978 5.929.528
+Zona de acopio Zona de acopio de suelo vegetal 680.651 5.929.438
+Zona de extracción Luna 681.563 5.928.804
+Zona de extracción Maite 680.497 5.928.446
+Zona de extracción Victoria Norte 681.246 5.931.015
+Fuente: Elaboración propia, 2024.
+Figura 2-2. Obras del proyecto referentes a zonas de Extracción, Disposición, Acopio
+Vegetal y Caminos internos UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024
+Anexo 10.12
+Página 9 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 11
+================================================================================
+Adicionalmente, en la ubicación de la Zona de Extracción Maite, hay proyectado un
+oleoducto soterrado de ENAP, tal y como muestra la siguiente imagen:
+Figura 2-3. Trazado Oleoducto Hualpén – San Fernando en ZE Maite.
+Fuente: Elaboración propia, 2024
+Anexo 10.12
+Página 10 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 12
+================================================================================
+2.1.1. Identificación de Cauces
+Con respecto a la ubicación de los cauces, la Figura 2-4 muestra una planta general de
+la red de drenaje natural en el área de influencia del Proyecto, las distintas zonas de
+disposición, extracción y acopio vegetal, las instalaciones y red de caminos del proyecto,
+y la ubicación de los atraviesos y/o modificación de cauce (Puntos de Interés):
+Figura 2-4. Red de Drenaje de la zona en que se emplaza el Proyecto, UTM WGS 84/
+H18S.
+Fuente: Elaboración propia, 2024
+Cabe mencionar que la planta de proceso, ubicada dentro del polígono de Instalaciones,
+no implica afectación alguna a la red de drenaje natural.
+Anexo 10.12
+Página 11 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 13
+================================================================================
+Para el caso del Oleoducto, la Figura 2-5 muestra la disposición de los cauces en dicha
+zona, donde se añaden los Cauces IGM 1:50.000 como referencia y los puntos donde se
+genera la intersección con el trazado del oleoducto:
+Figura 2-5. Atraviesos asociados al Oleoducto, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024
+Se puede apreciar en la figura anterior que el trazado del Oleoducto genera 2 puntos
+de intersección con los cauces IGM.
+Anexo 10.12
+Página 12 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 14
+================================================================================
+2.1.2. Coordenadas UTM de las Obras y Descripción del
+sector en el que se emplazarán las Obras
+El sector de emplazamiento de la obra corresponde a caminos interiores a construir
+dentro del contexto del plan minero, desarrollado para la explotación de diferentes
+zonas de extracción y disposición. Las obras de cruce se emplazarán en los cruces de
+caminos con quebradas, teniendo como objetivo no interferir en el curso natural de las
+aguas, conservando la red de drenaje natural.
+Los antecedentes asociados a las obras de regulación o defensa de cauces naturales
+necesarias para las zonas de extracción, disposición y acopio de suelo vegetal se
+presentan en el Anexo 10.13 del Capítulo 10 del EIA- PAS 157. La Tabla 2-2 presenta las
+coordenadas UTM de los 23 atraviesos de caminos con los cauces, visualizados en la
+Figura 2-4.
+Tabla 2-2. Atraviesos del proyecto y sus coordenadas.
+Coordenadas UTM WGS 84/ H18S
+ID atravieso
+Este Norte
+OAT 11-1 681.552 5.929.350
+OAT 7-4 681.130 5.928.765
+OAT 7-2 680.866 5.928.888
+OAT 5-11 679.976 5.930.014
+OAT 5-10 679.874 5.930.015
+OAT 2-3 681.502 5.929.674
+OAT 2-2 681.501 5.929.634
+OAT 2-1 681.523 5.929.552
+OAT 1-18 681.368 5.929.241
+OAT 1-17 681.092 5.929.093
+OAT 1-16 680.935 5.929.125
+OAT 1-15 680.841 5.929.248
+OAT 1-14 680.736 5.929.268
+OAT 1-11 680198 5.929.182
+OAT 1-8 680.454 5.929.082
+OAT 1-6 680.495 5.928.930
+OAT 38-1 681.483 5.929.744
+OAT 22-9 681.464 5.930.925
+OAT 22-8 681.472 5.930.845
+OAT 22-5 681.961 5.930.557
+OAT 11-3 681.524 5.929.374
+OAT 7-6 680.980 5.928.677
+Fuente: Elaboración propia, 2024.
+Anexo 10.12
+Página 13 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 15
+================================================================================
+Para la modificación del Oleoducto, y como se mencionó anteriormente, se identificaron
+2 puntos de interés, los cuales corresponden en su totalidad a cruces del oleoducto
+proyectado con cauces naturales. La descripción de los puntos mencionados se presenta
+en la Tabla 2-3.
+Tabla 2-3. Descripción de los puntos de análisis.
+UTM WGS 84/ H18S
+Punto Descripción
+E N
+Cuenca 1 680.004 5.928.378 Cruce Oleoducto proyectado con cauces IGM.
+Cuenca 2 680.415 5.928.055 Cruce Oleoducto proyectado con cauces IGM.
+Fuente: Elaboración propia, 2024.
+Anexo 10.12
+Página 14 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 16
+================================================================================
+2.1.3. Descripción de las Características Generales del Cauce
+100 metros antes y después de la modificación
+Con relación a las características hidrológicas generales de las cuencas, según
+antecedentes presentes en el Estudio Hidrogeológico Cuenca Bío Bío (DGA, 2012), se
+pudo observar que, debido a su ubicación costera, el régimen es netamente pluvial. Los
+patrones de drenaje son del tipo dendrítico, los cuales advierten que se trata de suelos
+de textura fina, arcillosa o bien con estrato rocoso superficial, lo que provoca una baja
+permeabilidad, facilitando la escorrentía de las precipitaciones y con ello la erosión del
+perfil edafológico, con posterior formación de canales que van modelando la estructura
+de los contribuyentes a la cuenca principal. Los caminos cruzarán quebradas con
+presencia de escorrentía tanto permanente como esporádica (causada netamente por
+tormentas). Estas últimas corresponden a la red general de drenaje de las cuencas.
+No existe infraestructura construida ni singularidades ubicadas en un radio de 300 (m)
+respecto del futuro emplazamiento de las alcantarillas o cajones que contempla el
+Proyecto. Las cuencas asociadas a las zonas de extracción y disposición presentan cauces
+con flujos permanentes de bajo porteo en las zonas bajas, y cauces sin flujos
+permanentes en las zonas altas de sus cuencas, siendo mayoritariamente quebradas
+donde escurren aguas lluvias en la temporada pluvial.
+Las áreas se encuentran con extensa cubierta de matorrales de quila y algunos arbustos,
+reduciendo el acceso en ciertos sectores. Más allá de las riberas, las pendientes
+aumentan y la vegetación es de origen introducido, lo que cierra el campo visual con
+extensas plantaciones forestales de eucaliptus y pino radiata.
+Para las zonas de disposición y extracción no existen singularidades naturales ni
+infraestructura construida que condicionen el eje hidráulico en la zona de intervención
+del proyecto.
+Anexo 10.12
+Página 15 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 17
+================================================================================
+2.2. Descripción de la Obra y sus Fases
+2.2.1. Detallar tipo de obra, función, características
+constructivas y dimensiones básicas
+El presente PAS tiene como alcance la intervención en cauces naturales y quebradas,
+donde se proyectan las Zonas de Extracción, Zona de Disposición y Zona de Acopio de
+Suelo Vegetal que intervienen quebradas, además de las obras de atraviesos de caminos
+en diversos puntos de los caminos proyectados y los cruces debido a la modificación del
+oleoducto.
+Dado que las zonas de extracción, disposición y acopio vegetal se sitúan en las partes
+más altas de la cuenca, la afectación al régimen normal de escurrimiento (en caso de
+presentarse escurrimiento) es prácticamente nula.
+2.2.1.1. Atraviesos de Quebradas
+La función de las obras hidráulicas asociadas al cruce de caminos es preservar la
+continuidad del flujo natural proveniente de la escorrentía generada en los eventos de
+tormenta, la cual será interceptada por la infraestructura vial proyectada. Se proyectan
+2 tipos de obras, dependiendo de los potenciales caudales asociados a cada uno de los
+cruces singulares. De este modo, los tipos de cruce de quebradas serán materializados
+por:
+Alcantarillas: Corresponden al emplazamiento de uno o más tubos de acero galvanizado
+corrugado (o Polietileno de Alta Densidad técnicamente similar al acero corrugado) por
+debajo de la calzada del camino a habilitar. Estos se encuentran ubicados a una
+profundidad definida para no ser afectado por las cargas vivas de los camiones que
+transitarán por el área del proyecto. La entrada a la alcantarilla se encontrará revestida
+con estructuras de hormigón pobre a fin de conducir el agua dentro del o de los tubos y
+servir como soporte estructural.
+La entrada a la alcantarilla incluirá obras que encaucen el agua a fin de minimizar la
+pérdida de carga. La longitud de las alcantarillas será similar al ancho de los caminos a
+cruzar. Las dimensiones transversales de las alcantarillas, alturas asociadas a la
+escorrentía en operación y otros parámetros referentes al diseño hidráulico se
+encuentran en la Tabla 2-4.
+Anexo 10.12
+Página 16 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 18
+================================================================================
+Tabla 2-4. Dimensiones básicas de alcantarillas en cruces de caminos.
+Q total
+H
+T=100 Alcantarillas Q unitario Diámetro Velocidad
+ID hidráulica
+años
+(m3/s) # (m3/s) (m) (m) (m/s)
+OAT 11-1 0,019 1 0,019 0,60 0,05 1,86
+OAT 7-7 0,172 1 0,172 0,60 0,13 3,75
+OAT 7-2 0,079 1 0,079 0,60 0,10 2,41
+OAT 5-11 0,126 1 0,126 0,60 0,13 2,76
+OAT 5-10 2,515 3 0,838 1,20 0,27 4,44
+OAT 2-3 0,083 1 0,083 0,60 0,10 2,53
+OAT 2-2 0,038 1 0,038 0,80 0,06 2,40
+OAT 2-1 0,556 1 0,556 1,00 0,18 5,75
+OAT 1-18 0,069 1 0,069 0,60 0,08 2,96
+OAT 1-17 0,132 2 0,066 0,60 0,07 4,00
+OAT 1-16 0,188 1 0,188 0,60 0,20 2,31
+OAT 1-11 0,073 1 0,073 0,60 0,07 3,90
+OAT 1-8 0,270 2 0,135 0,80 0,09 4,21
+OAT 38-1 0,224 1 0,224 0,60 0,16 3,83
+OAT 22-5 0,297 1 0,297 0,60 0,20 3,65
+OAT 11-3 0,024 2 0,012 0,60 0,04 1,30
+OAT 1-14 5,280 3 1,760 1,20 0,33 7,04
+OAT 7-6 4,900 3 1,633 1,20 0,31 7,12
+Fuente: Elaboración propia, 2024.
+Anexo 10.12
+Página 17 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 19
+================================================================================
+Por otra parte, el esquema de obra tipo de alcantarilla se muestra en la Figura 2-6, Figura
+2-7 y Figura 2-8.
+Figura 2-6. Esquema de atravieso tipo alcantarilla de 3 ductos.
+Fuente: Manual de Carreteras, Volumen 4.
+Anexo 10.12
+Página 18 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 20
+================================================================================
+Figura 2-7. Corte longitudinal de cruce de quebrada con alcantarilla.
+Fuente: Manual de Carreteras, Volumen 4
+Figura 2-8. Corte transversal de cruce de quebrada con alcantarilla.
+Fuente: Manual de Carreteras, Volumen 4.
+Anexo 10.12
+Página 19 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 21
+================================================================================
+Cajones: Corresponden a obras de hormigón armado de sección rectangular, pudiendo
+ser utilizados elementos prefabricados siempre que cumplan con las dimensiones
+asociadas al caudal de porteo definido. Estas obras se encontrarán instaladas por debajo
+de la calzada, a una profundidad definida para no ser afectado por las cargas vivas de
+los camiones que transitarán por el área del proyecto. La entrada al cajón se encuentra
+revestida con estructura de hormigón armado, así como también de muros ala en ambos
+extremos, con el fin de mejorar la conducción del agua hacia el cajón, disminuir la
+erosión a los costados del cauce y disminuir la energía de entrada del agua a la obra.
+Figura 2-9. Esquema de ejemplo de cruce mediante cajones.
+Fuente: Manual de Carreteras, Volumen 4
+Las dimensiones de la sección transversal de los cajones, la altura hidráulica asociada a
+la escorrentía que cruza por los mismos y otros parámetros referentes al diseño
+hidráulico, son presentados en la Tabla 2-5. La metodología para la obtención de los
+caudales de diseño y las características del flujo puede ser encontrada en el Apéndice
+10-13.3- Obras Hidráulicas:
+Anexo 10.12
+Página 20 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 22
+================================================================================
+Tabla 2-5. Diseño de atraviesos tipo cajón.
+Q total Altura
+Cajones Q unitario Ancho Alto Velocidad
+ID T=100 años Hidráulica
+(m3/s) # (m3/s) (m) (m) (m) (m/s)
+OAT 1-15 4,736 2 2,37 2,5 2 0,15 6,22
+OAT 1-6 11,689 3 3,90 2,5 2 0,18 8,68
+OAT 22-9 9,807 3 3,27 2,5 2 0,21 6,17
+OAT 22-8 46,668 3 15,56 3,0 2 0,61 10,20
+Fuente: Elaboración propia, 2024.
+Cabe destacar que ninguna de las obras proyectadas (cajones y alcantarillas) requerirá
+de obras de regularización de cauce adicionales a lo ya expuesto anteriormente.
+Finalmente, en la Figura 2-10 se muestra la ubicación en el mapa de cada atravieso tipo
+alcantarilla y cajón.
+Figura 2-10. Ubicación de los atraviesos tipo Alcantarilla y Cajón, UTM WGS 84/
+H18S.
+Fuente: Elaboración propia, 2024
+Anexo 10.12
+Página 21 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 23
+================================================================================
+2.2.1.2. Zonas de Extracción, Disposición y Acopio Vegetal
+Zonas de Extracción: Las zonas de extracción o “ZE” en adelante, corresponden a
+sectores dentro del área del Proyecto donde se obtendrá el mineral que será llevado la
+Planta de procesamiento, transportando el material restante a las zonas de disposición.
+La extracción de mineral será realizada en bancos escalonados y secuenciales de
+aproximadamente 6 metros de ancho y 6 metros de alto, en sentido descendente. De
+esta forma, la extracción se iniciará en los altos topográficos, construyendo los bancos
+hacia los sectores bajos.
+En la Figura 2-11 se muestra de forma referencial la forma de la zona de extracción
+luego de extraer el mineral.
+Figura 2-11. Esquema de cambio en la topografía para las zonas de extracción.
+Fuente: Elaboración propia, 2024
+Los sectores de extracción serán identificados por sus denominaciones; Maite, Victoria
+Norte y Luna. Las actividades de extracción corresponderán a movimientos de tierra
+realizados mediante la utilización de excavadoras, los cuales se moverán a través del
+banco en ejecución. Por otro lado, y para extraer/transportar el material excavado, se
+encontrarán camiones fuera de los bancos trabajados a la espera que sus tolvas sean
+cargadas.
+En cada zona de extracción se mantendrán frentes de trabajo acotado donde estará
+operando la maquinaria y, una vez finalizada la extracción del mineral desde un banco,
+se procederá a la habilitación del banco siguiente (siempre en sentido descendente).
+Anexo 10.12
+Página 22 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 24
+================================================================================
+Zona de Disposición: La zona de Disposición o “ZD” en adelante, corresponde a la zona
+del proyecto donde se rellenará, para su disposición final, con estéril proveniente de las
+zonas de extracción y el mineral lavado proveniente de la Planta de procesamiento El
+mineral procesado proveniente de la Planta de procesamiento que será dispuesto en las
+zonas de disposición no corresponde a relave, puesto que no corresponde a una
+“suspensión de sólidos en líquidos formando una pulpa”.
+Este material sólido presentará un contenido de humedad en el rango de 5-25%, el cual
+puede ser compactado y será dispuesto en capas que irán siendo compactadas al
+momento de su disposición, conformando un relleno estructural estable en esta zona.
+Además, la estabilidad del depósito estará dada por el diseño en cuanto a taludes que
+se conformarán, y a la disposición y compactación en capas del material a disponer.
+Zona de Acopio Vegetal: La zona de Acopio Vegetal o “ZAV” en adelante, corresponde
+a la zona del proyecto donde se dispondrá el suelo natural extraído del escarpe de la
+capa de suelo a realizar en las zonas de extracción y zonas de disposición.
+Anexo 10.12
+Página 23 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 25
+================================================================================
+2.2.1.3. Oleoducto San Fernando-Hualpén
+Dado que hay 2 cauces que atraviesan, superficialmente, el trazado del oleoducto, se
+busca evitar que el oleoducto genere alguna afectación sobre los cauces naturales. Para
+lo anterior, es necesario que los efectos de socavación general no alcancen la
+profundidad de la clave de la tubería.
+En la Figura 2-12 se muestra, de manera esquemática, un perfil transversal con la
+disposición de la tubería, donde es importante destacar que la clave de esta estará al
+menos 1,5 m bajo el nivel del terreno.
+Figura 2-12. Perfil transversal de disposición Oleoducto.
+Fuente: Aclara, 2024
+Dado que los resultados de la modelación hidráulica, presentes en el Anexo B - Informe
+Hidráulico Oleoducto, arrojaron valores de socavación menores a 50 cm para el punto
+cuenca 1 y 0 cm para la cuenca 2, se concluye que los cauces naturales no se verán
+afectados por el oleoducto. Además, tampoco se verá afectado el funcionamiento
+normal del oleoducto y no será necesario diseñar obras de mitigación en dichos puntos.
+Anexo 10.12
+Página 24 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 26
+================================================================================
+2.2.2. Descripción de la etapa de Construcción, Operación y
+Abandono si corresponde
+2.2.2.1. Atraviesos de Quebradas
+La construcción de las obras de cruce de caminos sobre quebradas corresponde a una
+actividad que se realizará tanto en la fase de construcción como en la fase de operación
+del Proyecto, construyendo una obra de cruce al momento de habilitar los caminos que
+lleven a una u otra área (zona de extracción o zona de disposición). La habilitación de
+los atraviesos se generará una vez entre en operación el sector respectivo.
+A continuación, se presenta un cronograma general con el inicio de las operaciones de
+cada zona contemplada por el Proyecto:
+Tabla 2-6 Cronograma de inicio de operaciones para las zonas del proyecto.
+Años
+Área Actividad
+1 2 3 4 5 6
+Extracción de
+ZE Luna
+material
+ZE Victoria Extracción de
+Norte material
+Extracción de
+ZE Maite
+material
+ZD Disposición de
+Neptuno material
+Fuente: Elaboración propia, 2024.
+Anexo 10.12
+Página 25 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 27
+================================================================================
+La construcción de las obras de cruce implica la realización de las siguientes actividades:
+Alcantarillas y cajones:
+• Localización del terreno y limpieza del área de influencia.
+• Replanteo topográfico por medio de estacas.
+• Movimiento de tierras. Excavación de zanja, acorde a la profundidad de diseño
+• Estabilización del terreno y relleno del soporte.
+• Construcción de soporte de hormigón de entrada/salida y cama de relleno
+compactado.
+• Instalación de la alcantarilla prefabricada y verificación de pendientes de diseño.
+• Cierre de extremos de alcantarilla/cajón con hormigón. Materialización de obras
+de entrada.
+• Cobertura del camino mediante material de la superestructura.
+• Control de calidad y verificación. Emisión de informe de calidad.
+En cuanto a la entrada en operación de las obras de cruce, se dejará habilitada la obra
+para el libre paso de los escurrimientos que puedan generarse desde las quebradas,
+cruzando el camino de tránsito vehicular del Proyecto. Se contempla una supervisión
+periódica de las obras de cruce, considerando la revisión por parte del personal del
+Proyecto. Para casos puntuales como eventos sísmicos o crecidas ocasionadas por
+eventos pluviométricos importantes, se hará una revisión exhaustiva por parte del
+equipo encargado, con el fin de verificar normal funcionamiento de cada obra de cruce
+y, en caso de ser necesario, realizar las reparaciones requeridas.
+No se considera etapa de cierre asociada a las obras de cruce de caminos en quebradas,
+debido a que, considerando que en el área se desarrollan actividades forestales que
+conllevan el tránsito de camiones en el lugar, tanto los caminos internos del Proyecto
+como las obras de cruce que se habiliten a lo largo del desarrollo del Proyecto
+permanecerán instaladas para su uso.
+Anexo 10.12
+Página 26 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 28
+================================================================================
+2.3. Estimación de los Plazos y Períodos de Construcción de
+las Obras
+Las alcantarillas y cajones se construirán acorde a la necesidad de habilitar caminos para
+las zonas de extracción (ZE), zona de disposición (ZD) y la modificación del oleoducto.
+Esto se realizará sobre la base del Plan Minero de explotación del proyecto.
+Para la habilitación de los cruces de quebradas mediante alcantarillas y obras de arte
+tipo cajón prefabricado se considera un plazo total de ejecución del orden de 17 días.
+Los plazos específicos para cada una de las tareas a realizar en la ejecución de las obras
+se detallan en las cartas Gantt que se presenta en la Tabla 2-7.
+Tabla 2-7. Carta Gantt construcción de atraviesos tipo alcantarilla y cajón.
+Días desde inicio de tareas
+Tarea 1 1 1 1 1 1 1
+1 2 3 4 5 6 7 8 9 17
+0 1 2 3 4 5 6
+Localización del terreno y limpieza del
+área
+Replanteo topográfico por medio de
+estacas
+Movimiento de tierras, Excavación de
+zanjas acorde a la profundidad de diseño
+Estabilización del terreno y relleno del
+soporte
+Construcción de soporte de hormigón de
+entrada/salida y cama de relleno
+compactado
+Instalación de la alcantarilla o cajón
+prefabricado y verificación de pendientes
+de diseño
+Cierre de extremos de alcantarilla/cajón
+con hormigón. Materialización de obras
+de entrada.
+Cobertura del camino mediante material
+de la superestructura
+Control de calidad y verificación. Emisión
+de informe de calidad
+Fuente: Elaboración propia, 2024.
+Anexo 10.12
+Página 27 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 29
+================================================================================
+2.4. Medidas Tendientes a Minimizar los Efectos Sobre la
+Calidad de las Aguas, Aguas Abajo del Lugar de
+Construcción de las Obras
+2.4.1. Sobre las obras de cruce en cauces y quebradas
+Las obras de cruce dispuestas en el Proyecto corresponden a obras de arte del tipo
+alcantarilla y cajones. Dichas obras serán implementadas en los puntos de cruce de los
+caminos internos del Proyecto con las quebradas presentes en el sector. Las obras de
+cruce permitirán el libre escurrimiento de escorrentías que se generen. No se contempla
+en actividades de construcción y operación de estos atraviesos el vertido de algún tipo
+de sustancia a las quebradas.
+Para las quebradas que presenten cauces con flujos intermitentes y en que se contempla
+la construcción y/o instalación de alguna obra de atravieso, se tendrá como restricción
+de trabajo que no exista escurrimiento, lo anterior con el objetivo de preservar la
+cantidad y calidad de las aguas en el sector.
+El comienzo de los trabajos necesarios para la habilitación de las tuberías y obras de arte
+se realizará únicamente una vez se obtengan los permisos otorgados por la DGA y RCA
+aprobada del Proyecto.
+Adicionalmente, se establecerá un plan de prevención de contaminación del cauce
+donde se disponen medidas generales, que se detallan a continuación:
+• Capacitación de Trabajadores con respecto a la importancia del recurso hídrico
+y los contaminantes. En este mismo sentido, se prohibirá estrictamente la
+eliminación de desechos al interior de los cauces.
+• Se capacitará al personal a cargo de las obras con el objetivo de preservar las
+condiciones de las quebradas y evitar la perturbación por elementos, materiales
+o sustancias distintas a los de las quebradas. Se mantendrá un registro de esta
+actividad en la instalación de faena.
+• Se humectarán los caminos de acceso a los frentes de obra con el fin de limitar
+el levantamiento de tierra. Además, se limitará la circulación a velocidades bajas
+(velocidad máxima a 35 km/h).
+Anexo 10.12
+Página 28 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 30
+================================================================================
+• Manejo de elementos o materiales contaminantes en la instalación de faenas en
+el lugar determinado para esto.
+• Se prohibirá efectuar cualquier tipo de reparación o mantención de vehículos o
+maquinarias en sitios aledaños a los cauces.
+• Se prohibirá la colocación de acopios de escombros y basuras que puedan
+quedar en el cauce (vías preferenciales de escurrimiento) y que puedan afectar
+la calidad de las aguas.
+• Con el fin de evitar posibles derrames de aceites, lubricantes, combustibles o
+cualquier residuo líquido proveniente de maquinarias o equipos, se preferirá su
+operación por el costado exterior de los cauces.
+El Proyecto empleará vehículos en buen estado y con revisiones técnicas al día,
+considerando realizar mantenciones, evitando así cualquier vertido accidental de
+combustible o hidrocarburos en quebradas.
+Cabe indicar además que el Proyecto hará manejo de sus residuos conforme a la
+normativa vigente, habilitando lugares de acopio temporal para el almacenamiento de
+los residuos, ya sea en la instalación de faenas durante la fase de construcción y en el
+sector de la Planta de procesamiento durante la fase de operación, desde donde los
+residuos serán retirados por empresas autorizadas rumbo a un sitio de disposición final
+autorizado.
+Anexo 10.12
+Página 29 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 31
+================================================================================
+2.4.2. Zonas de Extracción, Disposición y Acopio Vegetal
+Respecto a las características del material a disponer en las zonas de disposición, y
+medidas tendientes a minimizar los efectos sobre la calidad de las aguas,
+particularmente referidas al monitoreo de calidad de agua, se tiene lo siguiente:
+2.4.2.1. Sobre el mineral presente en el lugar
+Considerando las unidades litológicas que se encuentran en la zona del Proyecto y la
+mineralogía presente en estas, se puede concluir que las rocas y arcillas de Penco no son
+generadores de acidez ya que no contienen minerales sulfurados. En relación con lo
+anterior, cabe señalar que las aguas ácidas habituales en otro tipo de minería se originan
+mediante la oxidación química y biológica de la pirita. Este fenómeno se produce cuando
+las rocas conteniendo dichos sulfuros entran en contacto con oxígeno (aire o agua) en
+condiciones adecuadas.
+Las unidades que se encuentran en las zonas de desarrollo del Proyecto corresponden a
+2 tipos; rocas intrusivas del batolito de la costa, las cuales se agrupan localmente en el
+Complejo Plutónico Penco, y rocas metamórficas, denominadas Metapelitas. Durante
+los estudios de los materiales presentes en el área del proyecto se revisaron las
+condiciones y procesos naturales actuales “insitu” del saprolito que será explotado,
+concluyéndose que éste no presenta ningún tipo de formación de aguas o drenajes
+ácidos en el área del proyecto ni alrededores. La composición mineralógica del material
+que será extraído de la mina, procesado en planta y posteriormente llevado a las zonas
+de disposición, es bastante homogénea y está compuesto mayoritariamente por arcillas
+(40%), cuarzo (30%), micas (10%) y óxidos de hierro (9%), y no presenta ningún tipo de
+sulfuros. En el Anexo 1-9 del Capítulo 1 del EIA, se presenta el detalle de la geoquímica
+de las arcillas por procesar (material de las zonas de extracción).
+.
+Anexo 10.12
+Página 30 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 32
+================================================================================
+2.4.2.2. Características del material procesado (arcillas
+procesadas) proveniente de la Planta (Material de Zona de
+Disposición)
+Para efectos de caracterizar el material procesado, se ha ejecutado la prueba SPLP
+“Synthetic Precipitation Leaching Procedure” (EPA, 1994), a que se refiere el Artículo 23
+del D.S N°148/2003, MINSAL, y recomendado en la Guía Metodológica para la
+Estabilidad Química de Faenas e Instalaciones Mineras, (SNG et al., 2015). La prueba
+está diseñada para simular la movilidad de compuestos orgánicos e inorgánicos a partir
+de un residuo expuesto a aguas lluvias ácidas, para lo cual se agita por 18 horas, una
+porción del material con un solvente acido a pH 4.2, la solución es analizada por
+cationes, aniones y metales trazas, incluido Sulfatos y Amonio. Los resultados de la
+prueba SPLP, se compararon con los límites máximos permisibles de las normas de
+calidad de aguas D.S N°90/2000, SEGPRES, y NCH 1333 (INN, 1987) concluyéndose que
+se encuentra en el mismo orden de magnitud que las normas indicadas para Sulfato y
+Amonio (Anexo 10.3 PSAM 136, Apéndice 10-3.3 del presente EIA), como se resume en
+la siguiente tabla.
+Tabla 2-8. Comparación de resultados SPLP con D.S N°90 (Tabla N°1) y la NCh 1.333.
+LMP (mg/l)
+SPLP (mg/l) D.S N°90 LMP (mg/l)
+Elemento Concentración promedio) Tabla 1 NCh1333
+Sulfatos (mg/l) 210 1000 250
+Amonio (mg/l) 17 64* -
+*Equivalente a 50 mg/l de N total Kjeldahl
+Fuente: D.S N°90 y NCh 1333.
+Dado que el Test SPLP simula la interacción del material pulverizado con agua lluvia ácida
+en agitación por 18 horas, condición completamente extrema o desfavorable desde el
+punto de vista ambiental, que dista de la realidad en terreno, donde la interacción del
+material será con aguas lluvias normales (aguas cercanas a la neutralidad pH 5,5), por
+escorrentía superficial y escasa infiltración (debido al nivel de compactación que tendrán
+los residuos en las zonas de disposición), las concentraciones serán menores que las
+obtenidas en las pruebas, circunscribiéndose a los límites a que se refiere la NCh 1.333
+y el D.S N°90/2000, MINSEGPRES.
+Anexo 10.12
+Página 31 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 33
+================================================================================
+2.5. Plan de Seguimiento de la Calidad de las Aguas durante
+la Fase de Construcción
+El Proyecto considera mantener observación periódica de las obras de cruce, y en
+particular, observación de estas obras después de ocurrido un evento sísmico y/o
+pluviométrico de importancia, considerando la supervisión de estas obras por parte del
+personal del Proyecto, con el objeto de verificar el normal funcionamiento de cada obra
+de cruce, y realizar las reparaciones requeridas en caso de ser necesario. Sin embargo,
+cabe señalar que este seguimiento está relacionado a verificar las condiciones de
+seguridad del tránsito del personal en vehículos.
+Adicionalmente, se contempla el monitoreo de calidad de calidad de las aguas. En
+efecto, a continuación, en la Figura 2-11 se presentan los puntos de monitoreo de la
+calidad de aguas durante la fase de construcción, propuestos para cauces
+individualizados dentro del área de influencia del Proyecto. Estos puntos se encuentran
+clasificados de acuerdo al tipo de elemento que monitorean, teniendo para efectos de
+este PAS, tres (3) elementos por controlar; Cuencas en que se sitúa el Proyecto, Obras
+del Proyecto (zonas de extracción, acopio y disposición) y cruces de caminos con cauces
+en cualquiera de sus modalidades (cajón o alcantarillas).
+En la Tabla 2-8, se detalla la ubicación de los puntos de monitoreo durante la etapa de
+construcción. Cabe destacar que los puntos donde se plantea el monitoreo de
+parámetros de calidad del agua, no se considera ninguna obra para realizar dicho
+monitoreo.
+A continuación, se presentan los puntos de monitoreo propuestos, siendo la mayoría 1
+punto aguas arriba y 1 punto aguas abajo de cada atravieso, encontrándose a
+aproximadamente 100 m de estos. Cabe destacar que los puntos donde se plantea el
+monitoreo de parámetros de calidad del agua (Temperatura, pH, Oxígeno disuelto,
+Conductividad eléctrica, Sólidos Disueltos Totales, Aceites y Grasas), desde los cuales se
+extraerán las muestras por analizar, no considera ninguna obra por construir dentro de
+la sección de cauce.
+Anexo 10.12
+Página 32 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 34
+================================================================================
+Figura 2-13. Puntos de Control Tipo Atravieso, UTM WGS 84/ H18S.
+Fuente: Elaboración propia, 2024
+Anexo 10.12
+Página 33 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras
+================================================================================
+PAGE 35
+================================================================================
+Tabla 2-9. Puntos de Control tipo Atravieso.
+Coordenadas WGS 84 UTM 18S Ubicación respecto
+ID Atravieso
+Este Norte de atravieso
+Punto Control OAT 1-8(1) OAT 1-8 680.516 5.929.163 Aguas Arriba
+Punto Control OAT 1-8(2) OAT 1-8 680.361 5.929.088 Aguas Abajo
+Punto Control OAT 1-6(1) OAT 1-6 680.451 5.929.006 Aguas Abajo
+Punto Control OAT 1-6(2) OAT 1-6 680.606 5.928.837 Aguas Arriba
+Punto Control OAT 5-10(1) OAT 5-10 679.864 5.929.938 Aguas Arriba
+Punto Control OAT 5-10(2) OAT 5-10 679.932 5.930.054 Aguas Abajo
+Punto Control OAT 5-11(1) OAT 5-11 679.976 5.929.963 Aguas Arriba
+Punto Control OAT 5-11(2) OAT 5-11 679.945 5.930.059 Aguas Abajo
+Punto Control OAT 1-11(1) OAT 1-11 680.173 5.929.075 Aguas Abajo
+Punto Control OAT 22-9(1) OAT 22-9 681.483 5.930.988 Aguas Abajo
+Punto Control OAT 22-8(1) OAT 22-8 681.408 5.930.846 Aguas Arriba
+Punto Control OAT 22-8(2) OAT 22-8 681.518 5.930.825 Aguas Arriba
+Punto Control OAT 22-5(1) OAT 22-5 681.939 5.930.491 Aguas Arriba
+Punto Control OAT 22-5(2) OAT 22-5 681.954 5.930.613 Aguas Abajo
+Punto Control OAT 7-7(1) OAT 7-7 680.927 5.928.462 Aguas Arriba
+Punto Control OAT 7-7(2) OAT 7-7 680.914 5.928.590 Aguas Abajo
+Punto Control OAT 1-14(1) OAT 1-14 680.806 5.929.234 Aguas Abajo
+Punto Control OAT 1-15(1) OAT 1-15 680.806 5.929.197 Aguas Arriba
+Punto Control OAT 1-15(2) OAT 1-15 680.898 5.929.255 Aguas Arriba
+Punto Control OAT 1-16(1) OAT 1-16 680.966 5.929.087 Aguas Arriba
+Punto Control OAT 1-16(2) OAT 1-16 680.934 5.929.176 Aguas Abajo
+Punto Control OAT 1-17(1) OAT 1-17 681.086 5.929.152 Aguas Abajo
+Punto Control OAT 1-18(1) OAT 1-18 681.349 5.929.307 Aguas Abajo
+Punto Control OAT 11-1;11-3 OAT 11-1;11-3 681.443 5.929.398 Aguas Abajo
+Punto Control OAT 2-1(1) OAT 2-1 681.580 5.929.501 Aguas Arriba
+Punto Control OAT 2-1(2) OAT 2-1 681.442 5.929.608 Aguas Abajo
+Punto Control OAT 38-1(1) OAT 38-1 681.548 5.929.774 Aguas Arriba
+Punto Control OAT 38-1(2) OAT 38-1 681.486 5.929.699 Aguas Abajo
+Punto Control OAT 2-2;2-3 OAT 2-2;2-3 681.386 5.9296.27 Aguas Abajo
+Punto Control OAT 2-3(1) OAT 2-3 681.553 5.929.690 Aguas Arriba
+Punto Control OAT 7-6(1) OAT 7-6 681.027 5.928.712 Aguas Arriba
+Punto Control OAT 7-6(2) OAT 7-6 680.925 5.928.659 Aguas Abajo
+Fuente: Elaboración propia, 2024.
+En virtud de los antecedentes presentados en el presente documento, se confirma que
+las medidas adoptadas para la ejecución de las obras no afectan la vida y/o salud de los
+habitantes, mediante la no contaminación de las aguas.
+Anexo 10.12
+Página 34 de 34
+Permiso Ambiental Sectorial N°156
+Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras

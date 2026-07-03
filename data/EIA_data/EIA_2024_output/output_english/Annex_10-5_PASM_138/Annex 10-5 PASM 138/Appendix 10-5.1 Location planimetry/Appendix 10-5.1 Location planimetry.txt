@@ -1,0 +1,161 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 10-5.1
+Location planimetry
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+681,500 681,600 681,700 681,800 681,900
+Clay Extraction Mining Development Project
+for the Production of Rare Earth Concentrate
+Location PlanPAS 138 Work Installation
+General Location
+LEGEND
+!( !(
+!(!(!(!(
+!(!(
+CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+UTM Coordinates Project Cartography
+Datum WGS 84 Spindle 18S
+SHEET SCALE:
+1 of 1
+Sheet Size: A2
+PREPARED BY: PREPARED FOR:
+681,500 681,600 681,700 681,800 681,900
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+±
+!(
+!(
+± ±
+2
+1
+!( !( !( !(
+8 7 4 3
+!( !(
+6 5 Works Installation Works
+Wastewater Treatment Plant
+Other Works
+Work Installation Area
+!(Vertices
+Communal Location
+Area of Interest
+Penco Commune
+Other Communes
+Regional Location
+Biobio Region
+Regional
+INFORMATION TABLE
+Installation Phase Surface m2 ID North East
+1 5,930,103 681,763
+2 5,930,103 681,769
+Floor 3 5,930,092 681,769
+Treatment 4 5,930,092 681,767
+Construction 74.52
+of Waters 5 5,930,089 681,767
+Served 6 5,930,089 681,765
+7 5,930,092 681,765
+8 5,930,092 681,763
+0 60
+m
+==================================================================================
+PAGE 3
+==================================================================================
+681,500 681,600 681,700 681,800 681,900 682,000 682,100 682,200 682,300
+Clay Extraction Mining Development Project
+for the Production of Rare Earth Concentrate
+LocationPlanPAS138ProcessingPlant-Stage
+Operation
+General Location
+LEGEND
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(
+!(
+!(
+CARTOGRAPHIC AND GEODETIC DATA CARTOGRAPHIC SOURCE
+UTM Coordinates Project Cartography
+Datum WGS 84 Spindle 18S
+SHEET SCALE:
+1 of 1
+Sheet Size: A2
+PREPARED BY: PREPARED FOR:
+681,500 681,600 681,700 681,800 681,900 682,000 682,100 682,200 682,300
+004.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+009.929.5
+008.929.5
+004.039.5
+003.039.5
+002.039.5
+001.039.5
+000.039.5
+009.929.5
+008.929.5
+±
+!(
+!(
+± ±
+2
+1
+!( !( !( !(
+8 7 4 3
+!( !(
+6 5 Processing Plant Works
+Wastewater Treatment Plant
+Other Works
+Processing Plant Area
+!(Vertices
+Communal Location
+Area of Interest
+Penco Commune
+Other Communes
+Regional Location
+Biobio Region
+Regional
+INFORMATION TABLE
+Installation Phase Surface m2 ID North East
+!( 1 5,930,103 681,763
+2 5,930,103 681,769
+11 3 5,930,092 681,769 Plant
+4 5,930,092 681,767
+Operation Treatment of 74.52
+5 5,930,089 681,767
+!(Sewage
+6 5,930,089 681,765
+7 5,930,092 681,765
+10
+8 5,930,092 681,763
+9 5,929,919 681,945
+Plant
+!( 10 5,929,927 681,940
+Operation Treatment of 90
+11 5,929,932 681,948
+Wastewater 1
+12 12 5,929,923 681,953
+!(
+9
+0 140
+m

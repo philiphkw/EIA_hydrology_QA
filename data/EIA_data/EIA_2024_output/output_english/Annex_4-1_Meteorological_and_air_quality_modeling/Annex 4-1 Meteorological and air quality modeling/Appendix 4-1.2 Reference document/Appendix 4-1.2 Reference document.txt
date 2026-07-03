@@ -1,0 +1,1272 @@
+==================================================================================
+PAGE 1
+==================================================================================
+Appendix 4-1.2
+Reference document that validates
+Confederation MPS standard
+Switzerland
+EIA “Mining Development Project of
+Clay Extraction for the Production of
+Rare Earth Concentrate”
+Biobío Region
+June, 2024
+Prepared by:
+Environmental Management Consultants S.A.
+General del Canto 421, 6th Floor, Providencia,
+Santiago, Chile - Phone: +56 2 2719 5600
+www.gac.cl
+==================================================================================
+PAGE 2
+==================================================================================
+Explanatory note
+The Owner indicates to the authority that it was not possible to find the Confederation Ordinance in Spanish
+Switzerland on Air Pollution control. However, in the cataloger of the National System of
+Environmental Information (SINIA) of the Ministry of the Environment (MMA) a document was found that
+It can be used as a reference to validate the suitability of the international standard used. The
+document corresponds to a monthly report associated with maintenance and operation activities of
+monitoring stations installed in the city of Antofagasta emanated by the consultant SERPRAM for
+the SEREMI of the Environment of the Antofagasta Region, which, in its section 2.3.2, explains the objective
+of the Ordinance of the Swiss Confederation and its implications regarding the annual MPS standard. a fact
+relevant to take into consideration, which gives notoriety to the document, is that a professional of the
+SEREMI of the Environment established communication with the head of the Air Management Division of the
+Federal Office of the Environment (FOEN) of the Swiss Confederation, who indicated that the value limit
+MPS standard is adjusted based on the protection of ecosystems, which validates the suitability of the standard
+for these purposes. This information is found in the paragraph preceding literal I) of section 2.3.2.
+Document download source: 1 (mma.gob.cl)
+==================================================================================
+PAGE 3
+==================================================================================
+“MAINTENANCE, CALIBRATION AND OPERATION OF THE
+MONITORING STATIONS INSTALLED IN THE CITY OF
+ANTOFAGASTA, FOR THE SURVEILLANCE OF THE QUALITY OF THE
+AIR POLLUTANTS PARTICULATE MATERIAL
+BREATHABLE (MP10), LEAD (Pb) AND PARTICULATE MATERIAL
+SEDIMENTABLE (MPS)”
+MONTHLY REPORT
+PERIOD: OCTOBER 22 TO DECEMBER 31, 2015
+TO: MINISTERIAL REGIONAL SECRETARY OF THE ENVIRONMENT,
+ANTOFAGASTA REGION
+FROM: SERPRAM S.A.
+Prepared by: Reviewed by: Approved by:
+Daniela Ruz Daniela Caniu Luis Carrasco
+FEBRUARY 2016
+==================================================================================
+PAGE 4
+==================================================================================
+I N D I C E
+PAGE
+1. BACKGROUND 1
+2. METHODOLOGY 3
+2.1 Respirable Particulate Matter MP10 3
+2.2 Lead in Respirable Particulate Matter, MP10 7
+2.3 Sedimentable Particulate Material 9
+2.4 Elements of interest in MPS 12
+2.5 Monitoring stations and measurement equipment used 14
+3. RESULTS 20
+3.1 Air Quality Monitoring 20
+3.2 Respirable Particulate Material MP10 20
+3.3 Lead in Respirable Particulate Matter, MP10 22
+3.4 Sedimentable Particulate Material 25
+3.5 Elements of interest in MPS 26
+4. ANALYSIS OF RESULTS 31
+4.1 Respirable Particulate Material MP10 31
+4.2 Lead in Respirable Particulate Matter, MP10 32
+4.3 Sedimentable Particulate Material 33
+4.4 Elements of interest in MPS 34
+6. CONCLUSIONS 37
+==================================================================================
+PAGE 5
+==================================================================================
+ANNEXES
+ANNEX 1 INN ACCREDITATIONS
+ANNEX 2 MP10 AND CONCENTRATION CALCULATION SHEET
+LEAD
+ANNEX 3 MAINTENANCE ACTIVITIES
+ANNEX 4 MPS CALCULATION SHEET
+ANNEX 5 CHEMICAL ANALYSIS
+ANNEX 6 LOGS OF THE RENDIC AND ONCOLOGICAL STATIONS
+ANNEX 7 METHODOLOGIES
+ANNEX 8 VARIABLES CAA D.S. No.61
+ANNEX 9 INTERNATIONAL REFERENCE REGULATIONS
+ANNEX 10 DETECTION LIMITS
+==================================================================================
+PAGE 6
+==================================================================================
+1. BACKGROUND
+Environmental Services and Projects S.A. (SERPRAM S.A.)
+is hired by the Secretariat
+Regional Ministerial of the Environment, Antofagasta Region, to provide services in the
+consulting: “Maintenance, calibration and operation of monitoring stations
+installed in the city of Antofagasta, for monitoring the air quality of the
+contaminants Respirable Particulate Matter (MP10), Lead (Pb) and Material
+Sedimentable Particulate Matter (SPM)”.
+The monitoring program consists of carrying out air quality measurements, according to what
+next:
+ Respirable Particulate Material, MP10
+ Lead in Respirable Particulate Matter MP10
+ Sedimentable Particulate Material, MPS
+ Chemical Elements of Interest Present in the MPS.
+The main activities of the service can be summarized as follows:
+1. Develop Rendic and Oncological Air Quality monitoring stations,
+a semi-continuous monitoring campaign, using high-quality gravimetric methodology
+volume.
+2. Sampling the two MP10 stations, with a frequency of 24 hours
+every three days, according to the current methodology, check the flows, clean the heads
+and equipment, change the silicone on the impact plate and check the controller.
+volumetric flow every three months with calibrated orifices.
+3. Provide the filters for the two MP10 stations, in order to perform the
+sampling with a frequency of 24 hours, every three days.
+4. Perform the gravimetric analysis of MP10, for the filters monitored during the
+campaign, in such a way as to obtain the concentration of said pollutant.
+5. Perform chemical analysis on the MP10 filters to obtain the Pb concentration
+present in the air. Carry out the chemical analysis according to what is established in the
+D.S. N°136/2001, from MINSEGPRES.
+6. Carry out a monitoring campaign for Sedimentable Particulate Material (SPM), in
+four points inside the city of Antofagasta. Include chemical characterization
+of the elements of interest present in the MPS (Arsenic (As), Copper (Cu),
+Manganese (Mn), Molybdenum (Mo), Nickel (Ni), Selenium (Se), Vanadium (V), Zinc (Zn),
+Lead (Pb) and Iron (Fe)), using the D.S. as a reference. No. 4/1992, of
+Ministry of Agriculture, Resolution No. 099/1992 modified by Resolution
+Report December 2015 SEREMI DEL ENVIRONMENT 1
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 7
+==================================================================================
+Exempt No. 177 of March 2008 of the Agricultural and Livestock Service (SAG), Region of
+Atacama, the report “Technical Specifications for Network Implementation
+Monitoring of Sedimentable Particulate Material in the Huasco River Basin”, carried out by
+the Mining and Metallurgical Research Center, CIMM and international regulations of
+reference.
+7. Make a proposal for the selection and location of points for measurement of
+Sedimentable Particulate Material, for four points in the city of Antofagasta.
+8. Install equipment to monitor Sedimentable Particulate Material.
+9. Transport the filters sampled from the two MP10 stations and the bottles with
+Sedimentable Particulate Material to accredited laboratory, for subsequent analysis
+chemist.
+10. Send a monthly report with the sampling results of the two stations.
+MP10, Lead in Respirable Particulate Matter, MPS results and
+elements of interest present in the MPS, according to what is required in the bases
+techniques.
+MP10 monitoring and lead analysis in MP10 filters began on October 22
+of 2015, at Rendic and Oncológico stations.
+MPS monitoring began on November 20, 2015, except for the point
+identified as MPS 02 Environment, which began its measurement on November 21
+of 2015.
+In December 2015, the monitoring days for the point identified as MPS 02 Medio
+Environment, there were 28, because on December 14 and 15, 2015, a
+activity on the terrace where the equipment is located, so it was not exposed to the
+weather.
+This document corresponds to report No. 3, which contains results of MP10 and Pb
+in MP10 for the period from December 1 to December 31, 2015, as well as the
+MPS results and elements of interest present in the MPS obtained for the month of
+December 2015.
+It is worth mentioning that since May 2014, the gravimetry laboratories and wood stoves
+to of
+SERPRAM S.A., are accredited by the INN, accreditation LE1194 and LE1195, to operate
+as testing laboratories according to the NCh-ISO 17025.Of 2005 standard. The scope of this
+accreditation is specified in the verification document attached in Annex 1.
+Report December 2015 SEREMI DEL ENVIRONMENT 2
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 8
+==================================================================================
+2. METHODOLOGY
+To ensure the quality of the data obtained, a program was established that includes the
+following aspects:
+ Calibration procedures for equipment used in measurement
+ Operation, control and maintenance program
+ Procedures for data processing
+ Procedure for handling particulate samples
+ Site location procedure for MPS
+Finally, it should be noted that the operation of air quality stations is carried out
+under the guidelines of the D.S. No. 61/2008, of the Ministry of Health, while the monitoring
+of MPS is based on the D.S. No. 4/1992 of the Ministry of Agriculture, in the Ordinance on
+Air Pollution Control; and in ASTM Standard D 1739-98 (Latest modification
+year 2010) “Standard Test Methods for Collection and Measurement of Dustfall” (Settleable
+Particulate Matter).
+2.1. Respirable Particulate Matter MP10
+2.1.1 The D.S. No. 59/1998, Ministry General Secretariat of the Presidency, establishes the
+primary quality standard for Respirable Particulate Material MP10.
+The current regulations correspond to the D.S. No. 59 of 1998, of the MINSEGPRES, which establishes
+Primary Quality Standard for Respirable Particulate Material MP10, especially
+values that define emergency situations. After the Second Environmental Court for
+ruling annulled the D.S. No. 20/2013, of the Ministry of the Environment. This ruling came into
+effective on October 17, 2015, with publication in the Official Gazette on its part
+resolution and pointed out that, consequently, starting from the aforementioned publication,
+understand that the aforementioned D.S. regains its full force and validity. No. 59 of 1998.
+The current regulations establish annual and daily limits for MP10:
+TABLE 2.1
+MAXIMUM PERMISSIBLE MP10 LIMITS
+POLLUTANTER ANNUAL STANDARD DAILY STANDARD
+MP10 (µg/m3N) 50 150
+Report December 2015 SEREMI DEL ENVIRONMENT 3
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 9
+==================================================================================
+I) Daily Norm:
+The primary air quality standard for the Respirable Particulate Matter pollutant
+MP10, is one hundred and fifty micrograms per normal cubic meter (150 µg/m3N), as
+24 hour concentration.
+The daily air quality standard for particulate matter will be considered exceeded
+MP10 when:
+a) The 98th percentile of the 24-hour average values, recorded during the period
+of any EMRP-qualified monitoring station, whether greater than or equal to
+150 g/m3N.
+b) Likewise, the standard will be considered exceeded if, before the end of the annual period
+of measurements from the MP10 respirable particulate matter monitoring stations
+qualified with EMRP, a number of days will be recorded with measurements on the value
+of 150 g/m3N greater than seven (7).
+II) Annual Standard:
+The primary air quality standard for the pollutant Respirable Particulate Matter
+MP10, is fifty micrograms per normal cubic meter (50 µg/m3N), as
+annual concentration.
+The annual primary air quality standard for material will be considered exceeded.
+respirable particulate MP10 when:
+a) The annual concentration calculated as an arithmetic average of three calendar years
+consecutive periods at any monitoring station classified as EMRP, whether greater or
+same as 50 µg/m3N.
+To evaluate compliance with the primary quality standard for Particulate Material
+Respirable MP10, the station where air quality monitoring is carried out must be
+classified as Monitoring Station with Population Representativeness (EMRP)
+A monitoring station may be classified as EMRP if it simultaneously meets the
+following criteria:
+ That there is at least one inhabited built area in a circle of radius 2 km, counted from
+the station.
+ That it is located more than 15 m from the nearest street or avenue, and more than 50 m from
+l
+to the nearest street or avenue that has a flow equal to or greater than 2,500 vehicles/day.
+Report December 2015 SEREMI DEL ENVIRONMENT 4
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 10
+==================================================================================
+ That is located more than 50 m from the outlet of a heating system (that uses
+coal, firewood or oil equivalent to oil - 2 or higher) or from other fixed sources
+similar.
+Furthermore, according to Article 8 of the D.S. N°59/1998, indicates that for the purposes of the location
+of an MP10 sample collector in an EMRP, the following should be considered
+aspects:
+a) The collectors must be at a minimum separation distance.
+b) It is required to take the sample at heights ranging from 2 to 15 m above the level
+from the ground.
+c) Spatial obstructions:
+i. If the monitor is placed on a roof or other similar structure,
+then it should be at least 2 m away from the nearest wall, so
+a house or any other vertical obstacle;
+ii. It is advisable that the collectors be at a distance of approximately 10
+times the height of the largest obstacle that is in the same direction of the wind.
+iii. In the case of chimney emissions produced by gas combustion
+natural, precaution should be taken to locate the sampler at least 5
+m away from the chimney.
+iv. Trees provide a good surface for the accumulation of
+particles, in addition to restricting the free flow of air. In this way, it is
+favorable that a sampler be placed at least 20 m away. of the line
+drip from the longest branch of a given group of trees and 10 m away
+it, if this obstacle acts as a flow reducer.
+v. The position of a collector must be such that it allows an area free of obstacles
+that provides at least a 270° arc for free harvesting and
+without restrictions MP10 samples.
+On the other hand, Supreme Decree No. 61/2008 of the Ministry of Health, indicates the guidelines
+and provisions regarding calibrations of measuring equipment, maintenance of
+monitors, minimum records to be kept at the station, provisions for the
+processing of data and reports, physical characteristics of the systems and subsystems that
+they integrate the stations, among others.
+2.1.2 Sampling procedure:
+A Tich particulate matter sampler is used for PM10 sampling.
+Environmental High-Volume (Hi-Vol), which measures suspended particles of
+aerodynamic diameter equal to or less than 10 microns (MP10). This team was given a
+check before the start of measurements, using a BIOS mass flow calibrator, to
+know the sampled air flow rate. It should be noted that these teams have a
+Report December 2015 SEREMI DEL ENVIRONMENT 5
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 11
+==================================================================================
+mass flow controller, which is factory calibrated, to draw air at 16.7
+liters/min.
+MP10 sampling is carried out with a frequency of 24 hours every three days, using a
+fiberglass filter, for its fine particle retention efficiency and for its
+non-hygroscopic properties, which are sent to the gravimetry laboratory of
+SERPRAM S.A., in Santiago, to determine the concentration of MP10. The filters are
+weighed before and after sampling on an electronic scale (precision 10-4 grams).
+Then with the mass of MP10 obtained, it is possible to calculate the concentration of
+particulate matter under normal conditions (μg/m3N).
+ Evaluation and treatment of filters before sampling
+- The filters for sampling Particulate Material must be checked for
+Detection of manufacturing defects.
+- When purchasing filters that are not factory coded, it is necessary
+label them with an identification code for quality control during the chain
+custody (ID), this code must be printed using a foliar in the corners
+opposite sides of the filter on the surface that will not be exposed to receive the sample (side
+smoother).
+When using coded filters, they have a numerical series (Filter ID No.), you must
+register this code in form
+correlative. If the filters are not coded,
+They must be labeled correlatively.
+When you purchase filters that are factory coded, they are not mixed
+with those that are foliated in the opposite corners of the filter.
+- Filters must be treated to be standardized, exposed with the roughest side
+upwards in the corresponding atmosphere cabin for a minimum period of
+24 hours.
+Check that the temperature and relative humidity of the scale room have been
+maintained within the permitted limits (Tº: 20ºC +/- 5.6 ºC, RH < 50%), for the
+last 24 hours.
+- To weigh the filters, first, the filters are removed from the cabin.
+setting bringing them closer to the sector, where the scale of the following is used
+way:
+The weighing chamber is opened and the first filter is placed, taking it with smooth clamps.
+taking special care with the edges of the filter, as they are easily damaged. must
+Report December 2015 SEREMI DEL ENVIRONMENT 6
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 12
+==================================================================================
+remain centered on the weighing support so as not to alter its weight. Close the camera and
+Wait for the weight to stabilize for a minimum period of 30 seconds before
+transfer the weight to the recording form.
+- The scale display must show 0.0000 g., after weighing 8x10 filters
+in. Before each weighing, tare if necessary.
+- Each 8x10 in. filter is weighed twice, in the same way, and the
+two values.
+- After the gravimetric determination stage is completed, the filters are
+stored. This measurement process is non-destructive and the particulate matter
+It can be the subject of subsequent physical or chemical analysis.
+- The samples after weighing are stored in sealed plastic bags and
+labeled to be sent to the DICTUC laboratory.
+2.2 Lead in Respirable Particulate Matter MP10
+2.2.1 The D.S. No. 136/2000, Ministry General Secretariat of the Presidency, establishes the
+Primary quality standard for Lead in air.
+I) Annual Standard:
+The primary air quality standard for the contaminant lead will be 0.5 micrograms
+per normal cubic meter (μg/m3N), as annual concentration.
+The annual primary quality standard for Lead will be considered exceeded in the
+air when:
+a) The arithmetic average of the annual concentration values of two successive years
+exceeds the standard level at any monitoring station with
+EMPB population representativeness, that is, places with contamination levels
+representative of the air quality to which people are exposed.
+b) Likewise, the standard will be considered exceeded if the annual concentration
+corresponding to the first annual period counted from the entry into force of the
+present standard, is more than 100% higher than the level of the standard, in any
+EMPB station.
+Report December 2015 SEREMI DEL ENVIRONMENT 7
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 13
+==================================================================================
+To evaluate compliance with the primary quality standard for Lead, the station where
+air quality monitoring is carried out, it must be classified as a Station
+Monitoring with Population Representativeness (EMPB).
+A monitoring station may be classified as EMPB if it simultaneously meets the
+following criteria:
+a) That the station will be used for 24-hour particulate matter sampling with
+in order to perform a lead analysis.
+b) That there is at least one inhabited area within a radius of 2 kilometers (km), counted
+from the station location.
+c) That it is located more than 15 meters from the nearest street or avenue, and more than 50
+meters from the nearest street or avenue that has a flow equal to or greater than 2,500
+vehicles/day.
+d) That is located more than 50 meters from a fixed lead emitting source.
+The measurement of lead concentration in air will involve two stages: sampling of
+MP10 respirable particulate matter and the analysis of lead in it.
+2.2.2 Sampling procedure:
+To comply with article 4 of D.S No. 136/2000 of the MINSEGPRES,
+SERPRAM uses the gravimetric method of high volume sampler equipped with
+head M
+P10 in Oncological and Rendic stations for the determination of Material
+Particulate MP10; Once the sampling of the filters is completed, they are sent to
+Santiago to the SERPRAM laboratory to be weighed in the gravimetry room and from this
+subsequently obtain the concentration of MP10 in unit µg/m3N A
+.
+Next, for the analysis of Lead (Pb), the MP10 filters are transferred to the
+DICTUC laboratory, where, through the Carbon Emission Spectrophotometry method
+Plasma (ICP), the mass of Lead contained in the MP10 filters is determined, in units
+mg/filter. Although the D.S. No. 136/2000, indicates that the method of analysis of Lead in the
+Particulate Material corresponds to Atomic Absorption Spectrometry, the
+method noted above (ICP), because it has lower ranges of limits of
+detection, which allows determining the presence of Lead (Pb) in low concentrations.
+For more information and details of this methodology see Annex No. 7 Methodologies,
+“Determination of Metals in Solid Samples by Carbon Emission Spectrophotometry
+“Plasma.”
+The method used to determine lead in filters corresponds to the methods
+described in the TMECC standard “Test Methods for the Examination Composting and
+Compost” based on EPA 3050 and 6010. These TMECC methods describe a
+Report December 2015 SEREMI DEL ENVIRONMENT 8
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 14
+==================================================================================
+pretreatment of solid samples, which consists of digestion in an acid medium to
+thus obtain the analytes to be determined in solution (TMECC 04.12), subsequently the sample
+digested is analyzed by inductively coupled plasma ICP-OES (TMECC 04.14),
+quantifying the metals required.
+In Annex No. 1 the certificates from the Dictuc laboratory are attached, and in Annex No. 7 the
+methodologies.
+2.3 Sedimentable Particulate Material
+The country does not have a primary or secondary quality standard for Particulate Material
+Sedimentable (MPS), for the study area, so the
+national regulations (D.S. No. 4/1992) and international regulations (Ordinance of the Swiss Confederation,
+Regarding Air Pollution Control), which are described below:
+2.3.1 S.D. No. 4/1992, of the Ministry of Agriculture, which establishes Quality Standards for
+Air for sedimentable Particulate Material in the Huasco River basin.
+This Supreme Decree corresponds to a secondary quality standard that establishes what
+next:
+I) Monthly Standard:
+a) The limit of sedimentable particulate matter is 150 milligrams per square meter
+per day (mg/(m2day)), as monthly arithmetic mean concentration.
+II) Annual Standard:
+a) Seditable particulate matter: 100 (mg/(m2day)), as average concentration
+annual arithmetic.
+2.3.2 Ordinance of the Swiss Confederation, On Air Pollution Control,
+of 1993.
+The objective of this ordinance is to protect human beings, animals, plants, their
+biological communities and habitats, and to the soil, from the harmful effects or disorders produced
+due to air pollution, for this purpose said standard will regulate:
+a) Preventive measures to limit emissions from sources that pollute the
+air and open-air waste incineration;
+b) The standards for fuels;
+c) The maximum permitted content of contaminants;
+d) Procedures to follow if excessive levels of contamination are reached.
+Report December 2015 SEREMI DEL ENVIRONMENT 9
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 15
+==================================================================================
+According to what was communicated by Dr. Martin Schiess, Head of the Air and Gas Management Division
+Control of Chemical Pollution, of the Federal Office of the Environment (FOEN), of
+the Swiss Confederation, this Ordinance is not intended to have protective objectives
+separated. To adjust the MPS standard, the values were defined based on the protection of the
+fertility of soil, vegetation and waters, which ultimately leads to protection
+human and animal health1.
+I) MPS Annual Standard:
+a) The limit of Sedimentable Particulate Material is defined at 200 (mg/(m2day)), as
+annual average.
+The evaluation of regulatory compliance was carried out
+determining the arithmetic average
+of monthly sedimentation rates (mg/m2d), recorded during one year of measurement.
+2.3.3 Sampling procedure:
+The methodology and sedimentable particulate matter collectors comply with the
+requirements established in the D.S. No. 4/1992 of the Ministry of Agriculture, where
+establish the Air Quality Standards for Sedimentable Particulate Material in the
+Huasco River Basin, also with exempt Resolution No. 099 of SAG III Region, with
+the specifications described in the report “Technical Specifications for Implementation
+of Sedimentable Particulate Material Monitoring Network in the Huasco River Basin”, carried out
+by the Mining and Metallurgical Research Center, CIMM and according to specifications
+established in ASTM D 1739-98 Standard Test Methods for Collection and
+Measurement of Dustfall (Settleable Particulate Matter), last modified in 2010.
+See Annex No. 9, International Reference Regulations.
+For the selection of the places where the Material collecting equipment was installed
+Sedimentable Particulate Matter (SPM), various criteria were considered, which are found
+established in the report of the Mining and Metallurgical Research Center, CIMM. In the
+The following summary table shows the criteria for the selection and installation of the
+measurement points for sedimentable particulate matter. It is also important to note
+that the place where the equipment is installed must be protected from the entry of people outside the
+monitoring.
+1 Internal communication between professionals from the Regional Ministerial Secretariat of the Environment and the
+Federal Office for the Environment (FOEN), of the Swiss Confederation, dated February 11, 2016.
+Report December 2015 SEREMI DEL ENVIRONMENT 10
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 16
+==================================================================================
+TABLE 2.2
+CRITERIA FOR SELECTING THE MPS INSTALLATION PLACE
+Criteria Comments
+Height - The ideal height is at ground level.
+- Mouth of the tank between 1.5 and 15 m from the ground.
+Distances
+- Greater than 2 m if it is on a roof or other structure.
+obstructions
+Other - The distance of the sampler from an obstacle such as trees and
+buildings criteria, it must be twice the height that the obstacle protrudes from the
+sampler.
+- Air flow around the sampler should not be restricted
+in an arc of 270º
+- There should not be chimneys of incinerators or ovens nearby.
+- There must be a minimum distance from the roads.
+- At 2 meters high, a minimum separation of 5 meters is recommended.
+meters for roads with traffic of less than 3000 vehicles per day and a
+minimum separation of 25 meters for roads with traffic greater than
+3000 vehicles per day.
+For the choice of monitoring locations, during the month of October and part of
+November 2015, SERPRAM prepared a proposal for locating points for the
+measurement of Sedimentable Particulate Material (SPM), where the criteria were analyzed
+mentioned above. See Annex No. 7, of report No. 1.
+In this document, SERPRAM analyzed the characteristics of eight possible points for the
+installation of MPS collection equipment, this proposal was presented to the Secretariat
+Regional Ministerial (SEREMI) of the Environment, who approved two points of
+monitoring, which correspond to the Logistics Regiment and the first floor terrace of the
+Productive Building. Because there are four monitoring points, SEREMI proposed
+two new points, which correspond to the Public Works Building Plaza and the
+San Luis School Retirement House. In this way the four places approved for the
+installation of MPS collecting equipment are:
+1. Logistics Regiment
+2. First floor terrace Productive Building
+3. Plaza Public Works Building
+4. San Luis School Retirement House.
+Once the sampling sites were approved by SEREMI, an ASTM type collector was installed,
+based on the British standard equipment, to which the diameter of the tank tank was modified
+collector (50 cm). The collector is mounted on a tripod-type steel structure at a height
+of 1.5 m. The collector allows the particles existing in the air to be collected, which are deposited
+by gravity. Its lower part ends in a stainless steel funnel. See figures 2.3 a
+2.6.
+Report December 2015 SE
+REMI ENVIRONMENT 11
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 17
+==================================================================================
+The sampler is left outdoors for one calendar month. On the 1st of each month in which
+The sampling program begins, the bottle that collects the particulate matter is placed
+settleable, previously washed with detergent and rinsed with distilled water. On day 1
+of the following month, preferably at the same time, the sampler is carefully washed
+with distilled water to remove all the sedimentable particulate material deposited in the
+walls, remove the bottle and replace it with another identical one. The bottle is capped with the sample and
+It is transferred to the DICTUC laboratory.
+The bottle replacement day can be delayed or advanced by two days, as long as it is
+Make a note of the day the change was made.
+The treatment of MPS samples in the laboratory is as follows:
+For liquid samples: measure the volume, usually corresponding to 1 lt. Shake
+vigorously and take 200 ml, filter through 0.45µm membrane filter (previously
+heavy).
+After filtering, the filters are transferred to Petri dishes; and taken to a drying oven for a
+period of 48 to 72 hours or until constant weight, at a temperature of 36 °C. It calculates the
+weight of the samples by difference, between the weight of the filter with and without sample, the
+value in milligram (mg). Once the filters are dry, they are transferred to glasses.
+previously labeled and digested according to the digestion protocol for filters
+environmental.
+2.4. Elements of Interest in the MPS
+The country does not have a primary or secondary quality standard for elements of interest
+present in the Sedimentable Particulate Material (SPM), for the study area, so
+National regulations (DS No. 4/1992) and international regulations will be used as a reference.
+(Ordinance of the Swiss Confederation, On Air Pollution Control), which is
+described below:
+2.4.1 S.D. No. 4/1992 of the Ministry of Agriculture, which establishes Quality Standards for
+Air for sedimentable particulate matter in the Huasco River basin
+This Supreme Decree corresponds to a secondary quality standard that establishes what
+next:
+I) Monthly Standard:
+a) Iron in settleable particulate matter: 60 mg/m2 day, as a concentration
+monthly arithmetic average, with the exception of the months of September, October,
+November and first half of December in which this will be 30 mg/m2 day, as
+monthly arithmetic mean concentration.
+Report December 2015 SEREMI DEL ENVIRONMENT 12
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 18
+==================================================================================
+For the month of December, the most restrictive value will be considered, that is, 30 mg/m2day.
+II) Annual Standard:
+a) Iron in settleable particulate matter: 30 mg/m2 day, as a concentration
+annual arithmetic mean.
+2.4.2 Ordinance of the Swiss Confederation on Air Pollution Control
+Below, the limits defined by the Confederation are mentioned for reference.
+Switzerland
+.
+I) Annual Standard:
+a) Lead (Pb) in Sedimentable Particulate Material: 100 ug/m2day, as concentration
+annual arithmetic mean.
+b) Zinc (Zn) in Sedimentable Particulate Material: 400 ug/m2 day, as concentration
+annual arithmetic mean.
+The evaluation of regulatory compliance of the elements Lead (Pb) and Zinc (Zn) is carried out
+determining the arithmetic average of the values of the quarterly sedimentation rates
+corresponding to one year.
+2.4.3 Sampling procedure:
+The methodology used by the Dictuc laboratory for the analysis of elements of interest in the
+MPS, is briefly described in Annex No. 8 Methodologies: “Determination of metals in
+solid sample”, which is based on the protocols described in TMECC 02.02: Laboratory
+simple preparation, TMECC 04.12-B Nitric Acid Digestion of Compost and Soils and TMECC
+04.14: Inductively Coppled Plasma Analysis.
+The determination of the elements of interest in the MPS includes two stages: the sampling of
+MPS and the chemical analysis of the elements of interest in the MPS.
+MPS sampling is carried out as indicated in section 2.3.3 “Sampling procedure
+for the MPS” of this report, then, to determine
+the elements of interest, you must
+adjust and verify the equipment (Spectrometer), which determines the percentage of metal in the
+samples, methodology that is detailed from point 6.5 of the document Determination of
+metals in solid sample, prepared by Dictuc and attached in Annex No. 8.
+It is worth mentioning that Dictuc has submitted a request to renew its accreditation to
+National Institute of Standardization (INN), to include the analysis of Zn, Mo, Se, Mn, V,
+Report December 2015 SEREMI DEL ENVIRONMENT 13
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 19
+==================================================================================
+Ni, Al, Cd, Cr and Pb in settleable powders, which is incorporated in Annex No. 1. It is
+Note that the methodology used in its determination is the same as that used in filters.
+and soils, for which the DICTUC is accredited.
+2.5 Monitoring Stations and Measurement Equipment Used
+2.5.1 MP10 monitoring stations and lead analysis in MP10:
+Below is a detail of the equipment installed in the northern and central sectors of
+the city of Antofagasta, to carry out Air Quality monitoring.
+MP10 monitoring stations are described below:
+RENDIC STATION
+Location: Avenida Antonio Rendic Nº 6071, Antofagasta
+Air quality measurements: MP10 and Lead Analysis.
+The geographical coordinates (UTM) are according to Datum WGS 84:
+7 387 679 N
+358 921 E
+The following table describes the installed equipment.
+TABLE 2.3
+EQUIPMENT INSTALLED AT RENDIC STATION
+PARAMETER EQUIPMENT MODEL SERIAL NO. OPERATION PRINCIPLE
+Gravimetry, flow control
+MP10 Tisch Environmental TE-10557 P7272-X
+volumetric
+Report December 2015 SEREMI DEL ENVIRONMENT 14
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 20
+==================================================================================
+Below in figure 2.1 is a photograph of the Rendic station and its equipment.
+monitoring:
+2.1. Rendic Station monitoring equipment
+ONCOLOGICAL STATION
+Location: Calle 21 de Mayo Nº 1352, Antofagasta
+Air quality measurements: MP10 and Lead Analysis.
+The geographical coordinates (UTM) are according to WGS 84:
+7 382 847 N
+357 711 E
+The following table describes the installed equipment.
+TABLE 2.4
+EQUIPMENT INSTALLED IN ONCOLOGY STATION
+PARAMETER EQUIPMENT MODEL SERIAL NO. OPERATION PRINCIPLE
+Gravimetry, flow control
+MP10 Tisch Environmental TE-10557 P7232-X
+volumetric
+Report December 2015 SEREMI DEL ENVIRONMENT 15
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 21
+==================================================================================
+Below in Figure 2.2 is a photograph of the Oncology station and its
+monitoring equipment:
+2.2. Oncology Station monitoring equipment
+2.5.2 Sedimentable Particulate Material Sampling Equipment
+The following table shows the geographical coordinates (UTM), according to Datum
+WGS 84, of the places where the Particulate Material collectors were installed
+Sedimentable.
+Report December 2015 SEREMI DEL ENVIRONMENT 16
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 22
+==================================================================================
+TABLE 2.5
+SEDIMENTABLE PARTICULATE MATERIAL STATIONS
+COORDINATES
+STATION LOCATION
+UTM
+South Patio Ministry of Public Works Building
+MPS 01 0356972E;
+Interception Calle Latorre and Avenida Grecia (Latorre
+MOP 7383619N
+2027), Antofagasta, Antofagasta Region.
+MPS 02
+Productive Building Terrace (CORFO) - Street 0356994E;
+Medium
+Carrera 1701, Antofagasta, Antofagasta Region. 7382873N
+Environment
+MPS 03 San Luis School Retreat House - Pedro Avenue
+0358006E;
+San Luis Aguirre Cerda 9451, Antofagasta, Region of
+7391641N
+Antofagasta.
+MPS 04 Logistics Regiment - Av. Army 01750, 0355362E;
+Antofagasta Army, Antofagasta Region 7379652N
+The following table describes the installed equipment.
+TABLE 2.6
+SEDIMENTABLE PARTICULATE MATERIAL EQUIPMENT
+PARAMETER EQUIPMENT PRINCIPLE PERATION
+ASTM collector based on
+MPS Gravimetry
+british standard equipment
+Photographs are presented in Figures 2.3 to 2.6.
+of Material monitoring equipment
+Sedimentable Particulate.
+Report December 2015 SEREMI DEL ENVIRONMENT 17
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 23
+==================================================================================
+FIGURE 2.3. MPS 01- MOP
+FIGURE 2.4. MPS 02-Environment
+Report December 2015 SEREMI DEL ENVIRONMENT 18
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 24
+==================================================================================
+FIGURE 2.5. MPS 03- San Luis
+FIGURE 2.6. MPS 04-Army
+Report December 2015 SEREMI DEL ENVIRONMENT 19
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 25
+==================================================================================
+3. RESULTS
+3.1 Air Quality Monitoring
+The monitoring program for the month of December consists of carrying out the following
+air quality measurements:
+ MP10 Respirable Particulate Material
+ Analysis of Lead (Pb) in MP10
+ Sedimentable Particulate Material
+ Elements of Interest Presented in the MPS
+3.2 Respirable Particulate Matter MP10
+Table 3.1 presents the results of the measurements made of the material.
+respirable particulate MP10, carried out at RENDIC and ONCOLOGICAL Stations, for the
+measurement period between October 22 and December 31, 2015.
+Annex 2 presents a detail of each of the parameters taken in the field that
+allowed determining the concentration of respirable particulate matter.
+Report December 2015 SEREMI DEL ENVIRONMENT 20
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 26
+==================================================================================
+TABLE 3.1
+CONCENTRATION RESULTS
+BREATHABLE PARTICULATE MATERIAL MP10 IN AMBIENT AIR
+RENDIC AND ONCOLOGICAL STATIONS
+PERIOD OCTOBER 22 TO DECEMBER 31, 2015
+Concentration expressed in µg/m3N
+ONCOLOGICAL PERFORMANCE SAMPLING DATE
+10-22-15 29 43
+10-25-15 36 33
+10-28-15 48 38
+10-31-15 34 48
+AVERAGE MONTH 37 41
+03-11-15 36 31
+06-11-15 34 27
+09-11-15 38 27
+12-11-15 34 28
+11-15-15 36 25
+11-18-15 31 26
+11-21-15 33 33
+11-24-15 31 38
+11-27-15 31 16
+11-30-15 17 32
+AVERAGE MONTH 32 28
+03-12-15 39 30
+06-12-15 22 18
+09-12-15 33 31
+12-12-15 25 22
+12-15-15 25 22
+12-18-15 25 20
+12-21-15 36 30
+12-24-15 31 29
+12-27-15 16 17
+12-30-15 21 17
+AVERAGE MONTH 27 24
+AVERAGE
+PERIOD
+32 31
+October 22 to 31
+December 2015
+Maximum Value 54 48
+Minimum Value 16 16
+Report December 2015 SEREMI DEL ENVIRONMENT 21
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 27
+==================================================================================
+3.3 Lead in Respirable Particulate Matter MP10
+3.3.1 Lead in Respirable Particulate Matter MP10 Rendic Station
+Table 3.2 presents the results of the measurements made of the material.
+respirable particulate matter MP10 at Rendic station and lead results, for the period
+between October 22 and December 31, 2015.
+Annex 2 presents a detail of each of the parameters used to determine
+the concentration of lead in MP10 and its percentage contribution.
+TABLE 3.2
+LEAD IN MP10
+PERIOD OCTOBER 22 TO DECEMBER 31, 2015
+RENDIC STATION
+LEAD CONCENTRATION (Pb)
+FILTER NUMBER DATE MP10
+µg/m³N µg/m³N %
+15102456 10-22-15 29 0.004 0.014
+15102451 10-25-15 36 0.004 0.010
+15102460 10-28-15 48 0.005 0.011
+15102478 10-31-15 34 0.004 0.010
+15092280 03-11-15 36 0.011 0.031
+15102452 06-11-15 34 0.009 0.026
+15071753 09-11-15 38 0.013 0.035
+15071558 12-11-15 34 0.009 0.026
+15071562 11-15-15 36 0.013 0.036
+15112801 11-18-15 31 <0.002 <0.002
+15112792 11-21-15 33 0.022 0.067
+15112790 11-24-15 31 <0.002 <0.002
+15112787 11-27-15 31 0.016 0.054
+15123019 11-30-15 17 0.007 0.041
+15071560 03-12-15 39 0.003 0.007
+15122998 06-12-15 22 0.006 0.026
+15123021 09-12-15 33 0.008 0.023
+15123003 12-12-15 25 0.006 0.026
+15123224 12-15-15 25 0.005 0.019
+15123005 12-18-15 25 0.005 0.021
+15123026 12-21-15 36 0.007 0.020
+15123006 12-24-15 31 0.009 0.030
+15123222 12-27-15 16 0.012 0.076
+15123205 12-30-15 21 0.0
+04 0.019
+Report December 2015 SEREMI DEL ENVIRONMENT 22
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 28
+==================================================================================
+Below is the percentage contribution of Lead in MP10, at the Rendic station.
+Graph N°1: Percentage of Lead contained in MP10, Rendic station
+3.3.2 Lead in Respirable Particulate Material MP10 Oncology Station
+Table 3.3 presents the results of the measurements made of the material.
+respirable particulate MP10, in the Oncology station, and the results of lead, for the
+period from October 22 to December 31, 2015.
+Annex 2 presents a detail of each of the parameters used to determine
+the concentration of lead in MP10 and its percentage contribution.
+Report December 2015 SEREMI DEL ENVIRONMENT 23
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 29
+==================================================================================
+TABLE 3.3
+LEAD IN MP10
+PERIOD OCTOBER 22 TO DECEMBER 31, 2015
+ONCOLOGICAL STATION
+LEAD CONCENTRATION (Pb)
+FILTER NUMBER DATE MP10
+µg/m³N µg/m³N %
+15082011 10-22-15 43 0.021 0.048
+15071563 10-25-15 33 0.010 0.031
+15102458 10-28-15 38 0.009 0.024
+15102459 10-31-15 48 0.007 0.001
+15071752 03-11-15 31 0.027 0.084
+15102453 06-11-15 27 0.025 0.093
+15071557 09-11-15 27 0.005 0.020
+15112802 12-11-15 28 0.036 0.127
+15112793 11-15-15 25 0.017 0.069
+15112789 11-18-15 26 0.009 0.033
+15071559 11-21-15 33 0.018 0.056
+15112788 11-24-15 38 0.020 0.054
+15123018 11-27-15 16 0.007 0.044
+15123027 11-30-15 32 0.006 0.019
+15071561 03-12-15 30 0.008 0.028
+15122999 06-12-15 18 0.006 0.033
+15123020 09-12-15 31 0.009 0.028
+15123004 12-12-15 22 0.004 0.016
+15123223 12-15-15 22 0.005 0.024
+15123206 12-18-15 20 0.006 0.030
+15123007 12-21-15 30 0.006 0.020
+15123000 12-24-15 29 0.009 0.031
+15123221 12-27-15 17 0.004 0.021
+15123207 12-30-15 17 0.004 0.024
+Report December 2015 SEREMI DEL ENVIRONMENT 24
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 30
+==================================================================================
+Below is the percentage contribution of Lead in MP10, at the station
+Oncological.
+Graph N°2: Percentage of Lead in MP10, Oncology station
+3.4 Sedimentable Particulate Material
+In Table 3.4, the results of the Particulate Material content are presented.
+Sedimentable at each monitoring point, expressed as sedimentation rate. Fits
+mention that in Annex No. 4, a calculation sheet is presented with which the value of
+the sedimentation rate.
+TABLE 3.4
+SEDIMENTABLE PARTICULATE MATERIAL RESULTS
+DECEMBER 2015
+MPS MPS
+STATION
+(mg) (mg/m2day)
+MPS 01
+688 117
+MOP
+MPS 02
+300 55
+Environment
+MPS 03
+236 40
+Saint Louis
+MPS 04
+175 30
+Army
+Report December 2015 SEREMI DEL ENVIRONMENT 25
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 31
+==================================================================================
+3.5 Elements of interest in Sedimentable Particulate Material
+In Tables 3.5 A and B, the results of the content of Arsenic (As), Copper
+(Cu), Manganese (Mn), Molybdenum (Mo), Nickel (Ni), Lead (Pb), Selenium (Se), Vanadium
+(V), Zinc (Zn) and Iron (Fe) in the Sedimentable Particulate Material, as a rate of
+sedimentation expressed in mg/(m2day) and percentage contribution of each element of interest in
+the MPS. In Annex No. 4, an Excel spreadsheet is presented with MPS values and calculations, as well as
+also the values of elements of interest contained in the MPS.
+Report December 2015 SEREMI DEL ENVIRONMENT 26
+ANTOFAGASTA REGION
+SERPRAM
+February 2016
+==================================================================================
+PAGE 32
+==================================================================================
+TABLE 3.5 A
+RESULTS OF ITEMS OF INTEREST IN THE MPS
+SEDIMENTATION RATE
+DECEMBER 2015
+MPS As Cu Mn Mo Ni Pb Se V Zn Fe Others
+STATION
+mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day
+MOP 117 0.023 3.791 0.047 0.008 0.005 0.152 <0.001 0.007 4.875 10.516 97.50
+MEDIUM
+55 0.005 0.341 0.022 0.002 0.010 0.013 <0.001 0.003 0.415 1.861 51.96
+ENVIRONMENT
+SAN LUIS 40 0.001 0.073 0.024 0.001 0.024 0.004 <0.001 0.003 0.059 1.700 38.15
+ARMY 30 0.004 0.244 0.016 0.002 0.046 0.009 <0.001 0.002 0.209 1.855 27.35
+TABLE 3.5 B
+RESULTS OF ITEMS OF INTEREST IN THE MPS
+PERCENTAGE CONTRIBUTION
+DECEMBER 2015
+As Cu Mn Mo Ni Pb Se V Zn Fe Others
+STATION
+(%) (%) (%) (%) (%) (%) (%) (%) (%) (%) (%)
+MOP 0.02 3.242 0.04 0.007 0.004 0.13 <0.001 0.006 4.169 8.994 83.388
+MEDIUM
+0.01 0.624 0.041 0.003 0.019 0.023 <0.001 0.006 0.76 3.407 95.107
+ENVIRONMENT
+SAN LUIS 0.003 0.182 0.06 0.002 0.059 0.009 <0.001 0.007 0.148 4.247 95.283
+ARMY 0.013 0.822 0.054 0.007 0.154 0.03 <0.001 0.007 0.702 6.237 91.974
+Report December 2015 SEREMI DEL ENVIRONMENT 27
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 33
+==================================================================================
+Below are graphs with the composition of elements of interest in the MPS
+for each sampling point:
+Graph Nº 3: Percentage contribution of elements of interest, MOP station
+Report December 2015 SEREMI DEL ENVIRONMENT 28
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 34
+==================================================================================
+Graph Nº 4: Percentage contribution of elements of interest, Environment station
+Graph Nº 5: Percentage contribution of elements of interest, San Luis station
+Report December 2015 SEREMI DEL ENVIRONMENT 29
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 35
+==================================================================================
+Graph Nº 6: Percentage contribution of elements of interest, Army station
+Report December 2015 SEREMI DEL ENVIRONMENT 30
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 36
+==================================================================================
+4. ANALYSIS OF RESULTS
+4.1 Respirable Particulate Matter MP10
+From Table 3.1 where the MP10 values were presented, at the Rendic and
+Oncological, the following can be observed:
+OCTOBER
+The average daily values at RENDIC station were between 29 and 48
+µg/m3N and the average value of the measurements for the month of October was 37 µg/m3N.
+The average daily values at the ONCOLOGICO station were between
+33 and 48 µg/m3N and the average value of the measurements in October was 41
+µg/m3N.
+NOVEMBER
+The average daily values at the RENDIC station were between 17 and
+38 µg/m3N and the average value was 32 µg/m3N.
+The average daily values at the ONCOLOGICO station were between 16 and
+38 µg/m3N and the average value was 28 µg/m3N.
+DECEMBER
+The average daily values at the RENDIC station were between 16 and
+39 µg/m3N; and the average value was 27 µg/m3N.
+The average daily values at the ONCOLOGICO station were between 17 and
+31 µg/m3N; and the average value was 24 µg/m3N.
+When reviewing the results presented in Table 3.1, with the average value of 24 hours
+of 150 µg/m3N, set in the quality standard, we can infer that it was not exceeded
+during the monitoring period from October 22 to December 31,
+2015, at the two monitoring stations.
+Report December 2015 SEREMI DEL ENVIRONMENT 31
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 37
+==================================================================================
+4.2 Lead in Respirable Particulate Matter MP10
+From Tables 3.2 and 3.3, where the measured lead (Pb) contents were presented, in the
+MP10 filters, the following can be observed:
+OCTOBER
+The daily average values at the RENDIC station were between 0.004 and
+0.005 µg/m3N and the average value of the measurements in the month of October was 0.004
+µg/m3N.
+The average daily values at the ONCOLOGICO station were between
+0.007 and 0.021 µg/m3N and the average value of the measurements in the month of October was
+0.012 µg/m3N.
+NOVEMBER
+The daily average values at the RENDIC station were between <0.002
+and
+0.022 µg/m3N and the average value of the measurements for the month of November was 0.013
+µg/m3N.
+The average daily values at the ONCOLOGICO station were between
+0.005 and 0.036 µg/m3N and the average value of the measurements in the month of November was
+0.017 µg/m3N.
+DECEMBER
+The daily average values at the RENDIC station were between 0.003 and
+0.012 µg/m3N and the average value of the measurements for the month of December was 0.007
+µg/m3N.
+The average daily values at the ONCOLOGICO station were between
+0.004 and 0.009 µg/m3N and the average value of the measurements for the month of December was
+0.006 µg/m3N.
+When observing the results presented in Tables 3.2 and 3.3, with the established value
+in primary air quality standard for the lead pollutant of 0.5 (μg/m3N) as
+annual concentration, we can infer that it was not exceeded during the entire period of
+monitoring between October 22 and December 31, 2015, in the two
+monitoring stations.
+Report December 2015 SEREMI DEL ENVIRONMENT 32
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 38
+==================================================================================
+4.3 Sedimentable Particulate Material
+I) Analysis with respect to reference regulations
+The MPS results obtained during the month of December, and the values established in
+D.S No. 4/1992 and the Ordinance of the Swiss Confederation are presented in table 4.1.
+TABLE 4.1
+MPS AND REFERENCE REGULATIONS
+DECEMBER 2015
+Ordinance
+MPS MPS Confederation D.S Nº4/1992
+STATION (mg) (mg/m2day) Switzerland (mg/m2day)
+(mg/m2day)
+Monthly Monthly Annual Monthly Annual
+MPS 01
+688 117
+MOP
+MPS 02
+300 55
+Environment
+200 150 100
+MPS 03
+236 40
+Saint Louis
+MPS 04
+175 30
+Army
+From Table 4.1, it is possible to infer that the station called MOP concentrates the
+greatest amount of MPS, while the least amount is presented at the Army station
+of MPS measured during the month of December.
+With respect to the monthly MPS standard, indicated in D.S.N°4/1992, it is observed that
+All stations are under this standard.
+With respect to the annual standard of D.S.N°4/1992 and the Ordinance of the Confederation
+Switzerland, the results obtained are under the value of these standards, except the
+MOP station, which is above the value of the annual norm established in the D.S.
+No. 4/1992.
+It is not possible to compare the results obtained with the annual MPS standard, because they do not
+The amount of data required by the reference standards used is available.
+Report December 2015 SEREMI DEL ENVIRONMENT 33
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 39
+==================================================================================
+4.4 Elements of interest in Sedimentable Particulate Material
+II) Analysis with respect to reference regulations
+Table 4.2 shows the values of Arsenic (As), copper (Cu), Manganese (Mn), Molybdenum (Mo), Nickel (Ni), Lead (Pb), Selenium
+(Se), Vanadium (V), zinc (Zn) and Iron (Fe), contained in the MPS and the reference standard with which it is compared.
+TABLE 4.2
+ELEMENTS OF INTEREST AND REFERENCE REGULATIONS
+DECEMBER 2015
+.
+As Cu Mn Mo Ni Pb Se V Zn Fe
+STATION
+mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day mg/m2day
+MOP 0.023 3.791 0.047 0.008 0.005 0.152 <0.001 0.007 4.875 10.516
+ENVIRONMENT 0.005 0.341 0.022 0.002 0.010 0.013 <0.001 0.003 0.415 1.861
+SAN LUIS 0.001 0.073 0.024 0.001 0.024 0.004 <0.001 0.003 0.059 1.700
+ARMY 0.004 0.244 0.016 0.002 0.046 0.009 <0.001 0.002 0.209 1.855
+D.S No. 4/1992
+(mg/m2day)from
+second fortnight of - - - - - - - - - 60
+December until
+August
+D.S No. 4/1992
+(mg/m2day)
+September- October-
+- - - - - - - - - 30
+November and first
+fortnight of
+December.
+Ordinance
+Swiss Confederation - - - - - 0.1 - - 0.4 -
+(mg /m2day)
+Report December 2015 SEREMI DEL ENVIRONMENT 34
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 40
+==================================================================================
+With respect to the month of December, the most restrictive value was considered, 30 mg/m2day
+Table 4.2 shows the elements of interest contained in the MPS, expressed in
+mg/m2
+day. From it, it is possible to see in which station(s) the
+elements with the greatest contribution to the MPS and those with the least contribution, as expressed below.
+continued:
+As: The Arsenic content varies between 0.001 and 0.023 mg/m2day, recording its value
+minimum and maximum in SAN LUIS and MOP stations respectively.
+Cu: The Copper content varies between 0.073 and 3.791 mg/m2day, recording its value
+minimum and maximum in SAN LUIS and MOP stations respectively.
+Mn: The Manganese content varies between 0.016 and 0.047 mg/m2day, recording its value
+minimum and maximum in EJÉRCITO and MOP stations respectively.
+Mo: The Molybdenum content varies between 0.001 and 0.008 mg/m2day, recording its value
+minimum and maximum in SAN LUIS and MOP stations respectively.
+Ni: The Nickel content varies between 0.005 and 0.46 mg/m2day, registering its minimum value
+and maximum in MOP and ARMY stations respectively.
+Pb: The content of Lead varies between 0.004 and 0.152 mg/m2day, recording its value
+minimum and maximum in SAN LUIS and MOP stations respectively.
+Se: The Selenium content in all stations is not detectable by the measurement instrument.
+measurement, the values were less than 0.001 mg/m2day.
+V: The Vanadium content varies between 0.002 and 0.007 mg/m2day, recording its value
+minimum and maximum in EJÉRCITO and MOP stations respectively.
+Zn: The Zinc content varies between 0.059 and 4.875 mg/m2day, registering its minimum value
+and maximum in SAN LUIS and MOP stations respectively.
+Fe: The Iron content varies between 1,700 and 10,516 mg/m2day, recording its value
+minimum and maximum in SAN LUIS and MOP stations respectively.
+Of all the elements analyzed, Iron (Fe) is the only element possible to evaluate
+with the D.S standard Nº4/1992, which establishes iron in the sedimentable particulate material
+as 30 mg/ (m2day) as monthly arithmetic mean concentration for the month of
+December, which is under said standard.
+Report December 2015 SEREMI DEL ENVIRONMENT 35
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 41
+==================================================================================
+With respect to the annual norm of Iron (Fe), indicated in D.S.N°4/1992, it is not possible
+compare the results with said norm, because the amount of data is not available
+required for evaluation.
+From the Iron (Fe) results obtained, it is observed that they are below the value of the
+annual norm, in all seasons.
+Regarding Lead (Pb) and Zinc (Zn), it is not possible to compare these results with the standard
+annual indicated in the Ordinance of the Swiss Confederation, because there is no
+amount of data required by said standard.
+From the results obtained for Lead (Pb), it can be observed that only in the station
+MOP, this element is above the value established in the Ordinance of the
+Swiss Confederation.
+In the case of Zinc (Zn), high values are presented in two stations, MOP and Medio
+Environment. It should be noted that at the MOP station the value obtained greatly exceeds the
+value indicated by the Ordinance of the Swiss Confederation.
+III) Analysis regarding the percentage contribution of the elements of interest in the MPS.
+From graphs No. 3, 4, 5 and 6, it is possible to observe the following:
+At the MOP station, the sum of all elements analyzed is 16.61%, being the
+elements with the highest percentage contribution are Fe (8.99%), Zn (4.17%) and Cu (3.24%).
+At the Environment station, the sum of all elements analyzed is 4.89%, being
+The elements with the highest percentage contribution were Fe (3.41%), Zn (0.76%) and Cu (0.62%).
+At the San Luis station, the sum of all elements analyzed is 4.72%, being the
+elements with the highest percentage contribution are Fe (4.25%), Zn (0.15%) and Cu (0.18%).
+At the Army station, the sum of all elements analyzed is 8.03%, being the
+elements with the highest percentage contribution are Fe (6.24%), Zn (0.70%) and Cu (0.82%).
+Report December 2015 SEREMI DEL ENVIRONMENT 36
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
+==================================================================================
+PAGE 42
+==================================================================================
+6. CONCLUSIONS
+From the measurements carried out in the period October 22 to December 31, 2015,
+can be inferred, that in the two places of measurement of respirable particulate material (M
+P10),
+RENDIC and ONCOLOGICO stations, the maximum permissible limit value of
+24 hours of 150 µg/m3N, set by Chilean legislation for particulate matter
+breathable, D.S. No. 59/1998 of the Ministry General Secretariat of the Presidency of the
+Republic.
+With respect to the analysis of Lead (Pb), from the Pb measurements in MP10 it can be inferred
+that the maximum permissible limit value of 0.5 µg/m3N, set by legislation, is not exceeded
+Chilean for Plomo en el Aire, D.S. No. 136/2001 of the Ministry General Secretariat of the
+Presidency of the Republic.
+Regarding the measurements of Sedimentable Particulate Material (SPM), during the month of
+December 2015, it is possible to evaluate the results of all stations with the standard
+monthly defined in D.S No. 4/1992, which establishes the limit of particulate matter
+sedimentable at 150 mg/(m2day), not exceeding this norm in any of the stations
+in study.
+Concerning the Air Pollution Control Ordinance of the Confederacy
+Switzerland that establishes the limit of Sedimentable Particulate Matter at 200 mg/(m2day), as
+annual average. There is not enough data available to evaluate this
+Ordinance, however, as a reference, the values obtained are below the value
+indicated, at all monitoring points.
+With respect to the elements of interest in the MPS, Iron (Fe) is the only element that
+It is possible to evaluate in relation to the monthly norm indicated in D.S Nº4/1992. The
+Obtained values are under said standard at all monitoring points.
+With respect to Zinc (Zn), it is observed that the MOP and Environment stations present the
+higher values compared to the rest of the stations. It should be noted that with respect to
+to Zinc (Zn) it is possible to infer that if a similar trend follows for a year, the value
+could greatly exceed the standard indicated in the Swiss Ordinance.
+Regarding Selenium (Se), it is possible to observe that the instrument did not detect this element
+in the MPS, at none of the measurement points, so the values of this element are
+expressed as less than 0.001%.
+With respect to Lead (Pb), Copper (Cu), Zinc (Zn) and Iron (Fe), the largest contributions are
+They register at the MOP station.
+Report December 2015 SEREMI DEL ENVIRONMENT 37
+ANTOFAGASTA REGION
+SERPRAM
+January 2016
